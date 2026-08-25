@@ -9,6 +9,7 @@ from kilt_synmes.pipeline import (
     positive_int_or_unlimited,
     select_topk_by_entity,
 )
+from kilt_synmes.visualize import render_html
 
 
 class TestSynMESPipeline(unittest.TestCase):
@@ -101,6 +102,20 @@ class TestSynMESPipeline(unittest.TestCase):
     def test_positive_int_or_unlimited(self):
         self.assertEqual(positive_int_or_unlimited("3"), 3)
         self.assertIsNone(positive_int_or_unlimited("unlimited"))
+
+    def test_render_html_visualizes_candidate_triples(self):
+        record = {
+            "id": "m3gqa-14",
+            "question": "Which entity is linked?",
+            "candidate_triples": [["Entity A", "linked_to", "Entity B"]],
+            "meta": {"topic_entities": ["Entity A"]},
+        }
+
+        document = render_html(record)
+
+        self.assertIn("<svg", document)
+        self.assertIn("Entity A", document)
+        self.assertIn("linked_to", document)
 
     def test_build_retrieval_record_stops_before_annotation(self):
         record = {

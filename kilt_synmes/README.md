@@ -99,3 +99,14 @@ python3 -m kilt_synmes.pipeline \
   --graph-dir /path/to/M3GQA/data/graphs \
   --output predictions/synmes/retrieval-unlimited
 ```
+
+## HTML visualization
+
+Render any retrieval record as a self-contained HTML knowledge graph:
+
+```bash
+python3 -m kilt_synmes.visualize \
+  --input predictions/synmes/retrieval/aggregation_setting.jsonl \
+  --record-index 0 \
+  --output predictions/synmes/retrieval/aggregation_setting.html
+```
