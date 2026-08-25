@@ -4,15 +4,17 @@ This package retrieves candidate triples from M3GQA/SynMES split records. It
 reads only the selected split files and does not load `new_graphs.jsonl` into
 memory.
 
-Provided `reasoning_path` triples are retained first. The retriever then adds
-up to `--top-k` direct edges from topic and reasoning-path entities, followed
+Provided `reasoning_path` and source `edges` triples are retained first. The
+retriever then adds up to `--top-k` direct edges from topic and reasoning-path
+entities, followed
 by shortest paths of up to `--max-hops` edges that connect those seed entities
 and overlap the question context. Candidate triples are drawn from the source
 record, its optional `reasoning_path` or `original_reasoning_path`, and the
-matching full KG. Duplicate edges are removed and `--max-evidence` limits the
-total evidence for one record. Since the source is a structured graph rather
-than Wikipedia, provenance uses `source_id`, `source_type`, and `triple_index`
-instead of `wikipedia_id`.
+matching full KG. Duplicate edges are removed and `--max-evidence` limits only
+additional retrieved triples; it never removes provided source or reasoning-path
+evidence. Since the source is a structured graph rather than Wikipedia,
+provenance uses `source_id`, `source_type`, and `triple_index` instead of
+`wikipedia_id`.
 
 ## Candidate triple retrieval
 
@@ -22,19 +24,19 @@ flowchart TD
   split --> reasoning[Original reasoning path]
   graphLookup --> candidates[Candidate triples\nKG, source edges, reasoning path]
   reasoning --> candidates
-  split --> queryTerms[Build answer terms\nanswer + answer_entities]
+  split --> queryTerms[Extract question terms]
 
   reasoning --> seeds[Reasoning-path entities]
   split --> seeds
   candidates --> direct[For each seed, retain direct triples]
   seeds --> direct
-  queryTerms --> rank[Rank direct triples\nsource-edge preference, answer overlap,\nshorter relation, original order]
+  queryTerms --> rank[Rank direct triples\nsource preference, shorter relation,\noriginal order]
   direct --> rank
   rank --> topK[Keep top-k candidates\nper topic entity]
   candidates --> paths[Question-relevant shortest paths\nbetween seed entities]
   paths --> dedupe[De-duplicate triples across direct and path retrieval]
   topK --> dedupe
-  dedupe --> cap[Stop at max-evidence]
+  dedupe --> cap[Cap added retrieval\nat max-evidence]
   cap --> retrieval[Candidate-triple retrieval record\ntriples, provenance, metadata]
 ```
 
@@ -46,7 +48,9 @@ the question; `--max-hops` defaults to `3`. The exporter does not use `answer`
 or `answer_entities` for retrieval, avoiding target leakage.
 
 Use `unlimited` for `--top-k` or `--max-evidence` to remove that limit. This is
-useful for inspection, but can create large and noisy retrieval records.
+useful for inspection, but can create large and noisy retrieval records. The
+evidence limit applies only to added direct and multi-hop triples; source and
+reasoning-path triples are always preserved.
 
 ## Input contract
 
@@ -63,16 +67,16 @@ through `id` or `graph_id`, and store triples in `subgraph`, `graph`, or
 split records. `--graph-path` remains available for a JSONL graph file, which
 the exporter must stream to find matching IDs.
 
-Candidate triples are de-duplicated in this order: matching full KG, source
-edges, then reasoning-path triples. Source edges receive a ranking preference;
-answer overlap, shorter relations, and source order break remaining ties.
+Candidate triples are de-duplicated in this order: reasoning path, source edges,
+then added full-KG retrieval. Source and reasoning-path triples are always
+retained; source priority, shorter relations, and source order rank direct
+retrieval additions.
 
 ## Output contract
 
 Each record contains `id`, `question`, `candidate_triples`, structured-graph
-`provenance`, and `meta`. The record-level `meta.candidate_sources` reports the
-number of source edges, reasoning-path triples, and full-KG triples available
-for that example.
+`provenance`, and `meta`. The record-level metadata reports the available
+source counts plus `source_evidence_count` and `retrieved_evidence_count`.
 
 From the KILT repository root:
 

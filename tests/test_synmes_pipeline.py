@@ -59,6 +59,30 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertEqual(output["meta"]["candidate_sources"]["reasoning_path"], 1)
         self.assertEqual(output["provenance"][0]["topic_entity"], "reasoning_path")
 
+    def test_retrieval_preserves_all_source_edges_before_evidence_cap(self):
+        record = {
+            "graph_id": 15,
+            "question": "Which Entity A fact matters?",
+            "topic_entities": ["Entity A"],
+            "edges": [
+                ["Entity A", "related_to", "Entity B"],
+                ["Entity B", "located_in", "Entity C"],
+            ],
+        }
+        full_graph = [
+            ("Entity A", "related_to", "Entity B"),
+            ("Entity B", "located_in", "Entity C"),
+            ("Entity A", "has_type", "Entity Type"),
+        ]
+
+        output = build_retrieval_record(record, top_k=1, max_evidence=1, full_graph=full_graph)
+
+        self.assertEqual(
+            output["candidate_triples"][:2],
+            [["Entity A", "related_to", "Entity B"], ["Entity B", "located_in", "Entity C"]],
+        )
+        self.assertEqual(output["meta"]["source_evidence_count"], 2)
+
     def test_retrieval_expands_direct_edges_from_reasoning_path_entities(self):
         record = {
             "graph_id": 12,

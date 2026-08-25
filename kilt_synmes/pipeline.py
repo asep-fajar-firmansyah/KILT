@@ -244,11 +244,17 @@ def build_retrieval_record(
 
     evidence = []
     seen_triples = set()
+    retrieved_count = 0
 
-    def add_evidence(topic: str, triple: Triple) -> bool:
-        if (max_evidence is not None and len(evidence) >= max_evidence) or triple in seen_triples:
+    def add_evidence(topic: str, triple: Triple, mandatory: bool = False) -> bool:
+        nonlocal retrieved_count
+        if triple in seen_triples:
+            return False
+        if not mandatory and max_evidence is not None and retrieved_count >= max_evidence:
             return False
         seen_triples.add(triple)
+        if not mandatory:
+            retrieved_count += 1
         triple_index = triple_indices[triple]
         evidence.append(
             {
@@ -265,7 +271,10 @@ def build_retrieval_record(
         return True
 
     for triple in path_triples:
-        add_evidence("reasoning_path", triple)
+        add_evidence("reasoning_path", triple, mandatory=True)
+
+    for triple in original_triples:
+        add_evidence("source_edge", triple, mandatory=True)
 
     for topic, topic_triples in selected:
         direct_count = 0
@@ -274,9 +283,9 @@ def build_retrieval_record(
                 direct_count += 1
             if top_k is not None and direct_count >= top_k:
                 break
-            if max_evidence is not None and len(evidence) >= max_evidence:
+            if max_evidence is not None and retrieved_count >= max_evidence:
                 break
-        if max_evidence is not None and len(evidence) >= max_evidence:
+        if max_evidence is not None and retrieved_count >= max_evidence:
             break
 
     for topic, triple in multihop_paths:
@@ -294,6 +303,8 @@ def build_retrieval_record(
             "question_terms": sorted(question_terms),
             "top_k_per_entity": top_k,
             "max_evidence": max_evidence,
+            "source_evidence_count": len(set(path_triples) | set(original_triples)),
+            "retrieved_evidence_count": retrieved_count,
             "max_hops": max_hops,
             "retrieved_from_full_graph": full_graph is not None,
             "candidate_sources": {
