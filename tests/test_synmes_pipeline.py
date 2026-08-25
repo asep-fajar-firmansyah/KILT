@@ -55,6 +55,28 @@ class TestSynMESPipeline(unittest.TestCase):
             ["Entity A", "connected_to", "Entity B"],
         )
         self.assertEqual(output["meta"]["candidate_sources"]["reasoning_path"], 1)
+        self.assertEqual(output["provenance"][0]["topic_entity"], "reasoning_path")
+
+    def test_retrieval_expands_direct_edges_from_reasoning_path_entities(self):
+        record = {
+            "graph_id": 12,
+            "question": "Which extension is relevant?",
+            "topic_entities": ["Entity A"],
+            "edges": [],
+            "reasoning_path": [["Entity B", "leads_to", "Entity C"]],
+        }
+        full_graph = [
+            ("Entity A", "related_to", "Entity X"),
+            ("Entity B", "leads_to", "Entity C"),
+            ("Entity C", "has_extension", "Entity D"),
+        ]
+
+        output = build_retrieval_record(record, top_k=1, max_evidence=3, full_graph=full_graph)
+
+        self.assertIn(
+            ["Entity C", "has_extension", "Entity D"],
+            output["candidate_triples"],
+        )
 
     def test_build_retrieval_record_stops_before_annotation(self):
         record = {
@@ -70,17 +92,16 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertNotIn("output", output)
         self.assertNotIn("input", output)
 
-    def test_retrieval_expands_a_bounded_path_to_an_answer_entity(self):
+    def test_retrieval_expands_question_relevant_path_between_seed_entities(self):
         record = {
             "graph_id": 11,
-            "question": "Which entity is reached?",
-            "answer_entities": ["Entity C"],
-            "topic_entities": ["Entity A"],
+            "question": "Which bridge connects Entity A and Entity C?",
+            "topic_entities": ["Entity A", "Entity C"],
             "edges": [],
         }
         full_graph = [
-            ("Entity A", "connected_to", "Entity B"),
-            ("Entity B", "connected_to", "Entity C"),
+            ("Entity A", "bridge", "Entity B"),
+            ("Entity B", "bridge", "Entity C"),
         ]
 
         output = build_retrieval_record(
@@ -93,9 +114,10 @@ class TestSynMESPipeline(unittest.TestCase):
 
         self.assertEqual(
             output["candidate_triples"],
-            [["Entity A", "connected_to", "Entity B"], ["Entity B", "connected_to", "Entity C"]],
+            [["Entity A", "bridge", "Entity B"], ["Entity B", "bridge", "Entity C"]],
         )
         self.assertEqual(output["meta"]["max_hops"], 2)
+        self.assertIn("bridge", output["meta"]["question_terms"])
 
     def test_load_graphs_from_directory_uses_graph_id_filename(self):
         with tempfile.TemporaryDirectory() as temp_dir:

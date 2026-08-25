@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from collections import deque
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
@@ -74,16 +75,23 @@ def normalize_triples(edges: Sequence[Sequence[object]]) -> List[Triple]:
     return triples
 
 
-def answer_terms(record: dict) -> set[str]:
-    answer = record.get("answer")
-    values = record.get("answer_entities", [])
-    if not isinstance(values, list):
-        values = [values]
-    else:
-        values = list(values)
-    if answer is not None:
-        values.append(answer)
-    return {str(value).lower() for value in values if value is not None}
+STOP_WORDS = {
+    "a", "an", "and", "are", "as", "at", "based", "by", "for", "from", "in",
+    "is", "it", "of", "on", "or", "that", "the", "to", "what", "which", "who",
+    "with",
+}
+
+
+def text_terms(text: str) -> set[str]:
+    return {
+        term
+        for term in re.findall(r"[a-z0-9]+", text.lower())
+        if len(term) > 1 and term not in STOP_WORDS
+    }
+
+
+def triple_matches_question(triple: Triple, question_terms: set[str]) -> bool:
+    return bool(text_terms(" ".join(triple)) & question_terms)
 
 
 def reasoning_path_triples(record: dict) -> List[Triple]:
@@ -169,21 +177,24 @@ def shortest_path_triples(
 
 def select_multihop_paths(
     triples: Sequence[Triple],
-    topic_entities: Sequence[str],
-    answer_terms_set: set[str],
+    seed_entities: Sequence[str],
+    question_terms: set[str],
     max_hops: int,
 ) -> List[Tuple[str, Triple]]:
-    """Retrieve shortest bounded paths from each topic to related anchors."""
-    topics = [str(topic) for topic in topic_entities]
+    """Retrieve question-relevant paths that connect retrieval seed entities."""
+    seeds = [str(seed) for seed in seed_entities]
     paths = []
     seen_paths = set()
-    for topic in topics:
-        targets = set(topics) | answer_terms_set
-        path = shortest_path_triples(triples, topic, targets, max_hops)
+    for seed in seeds:
+        path = shortest_path_triples(triples, seed, set(seeds), max_hops)
         path_key = tuple(path)
-        if path and path_key not in seen_paths:
+        if (
+            path
+            and any(triple_matches_question(triple, question_terms) for triple in path)
+            and path_key not in seen_paths
+        ):
             seen_paths.add(path_key)
-            paths.extend((topic, triple) for triple in path)
+            paths.extend((seed, triple) for triple in path)
     return paths
 
 
@@ -206,46 +217,25 @@ def build_retrieval_record(
     path_triples = reasoning_path_triples(record)
     triples = combine_candidates(full_graph or original_triples, original_triples, path_triples)
     topics = [str(entity) for entity in record.get("topic_entities", [])]
-    answer_terms_set = answer_terms(record)
+    path_entities = [entity for triple in path_triples for entity in (triple[0], triple[2])]
+    seed_entities = list(dict.fromkeys(topics + path_entities))
+    question_terms = text_terms(record["question"])
     selected = select_topk_by_entity(
         triples,
-        topics,
-        answer_terms_set,
-        top_k,
-        preferred_triples=set(original_triples),
+        seed_entities,
+        set(),
+        len(triples),
+        preferred_triples=set(original_triples) | set(path_triples),
     )
-    multihop_paths = select_multihop_paths(triples, topics, answer_terms_set, max_hops)
+    multihop_paths = select_multihop_paths(triples, seed_entities, question_terms, max_hops)
     triple_indices = {triple: index for index, triple in enumerate(triples)}
 
     evidence = []
     seen_triples = set()
-    for topic, topic_triples in selected:
-        for triple_index, triple in topic_triples:
-            if triple in seen_triples:
-                continue
-            seen_triples.add(triple)
-            evidence.append(
-                {
-                    "source_id": f"m3gqa-{graph_id}-edge-{triple_index}",
-                    "source_type": "structured_graph",
-                    "graph_id": graph_id,
-                    "triple_index": triple_index,
-                    "title": f"M3GQA graph {graph_id}",
-                    "text": triple_to_text(triple),
-                    "topic_entity": topic,
-                    "triple": list(triple),
-                }
-            )
-            if len(evidence) >= max_evidence:
-                break
-        if len(evidence) >= max_evidence:
-            break
 
-    for topic, triple in multihop_paths:
-        if len(evidence) >= max_evidence:
-            break
-        if triple in seen_triples:
-            continue
+    def add_evidence(topic: str, triple: Triple) -> bool:
+        if len(evidence) >= max_evidence or triple in seen_triples:
+            return False
         seen_triples.add(triple)
         triple_index = triple_indices[triple]
         evidence.append(
@@ -260,6 +250,25 @@ def build_retrieval_record(
                 "triple": list(triple),
             }
         )
+        return True
+
+    for triple in path_triples:
+        add_evidence("reasoning_path", triple)
+
+    for topic, topic_triples in selected:
+        direct_count = 0
+        for _, triple in topic_triples:
+            if add_evidence(topic, triple):
+                direct_count += 1
+            if direct_count >= top_k:
+                break
+            if len(evidence) >= max_evidence:
+                break
+        if len(evidence) >= max_evidence:
+            break
+
+    for topic, triple in multihop_paths:
+        add_evidence(topic, triple)
 
     return {
         "id": f"m3gqa-{graph_id}",
@@ -269,8 +278,8 @@ def build_retrieval_record(
         "meta": {
             "graph_id": record["graph_id"],
             "topic_entities": topics,
-            "source_answer": record.get("answer"),
-            "answer_entities": record.get("answer_entities", []),
+            "reasoning_path_entities": path_entities,
+            "question_terms": sorted(question_terms),
             "top_k_per_entity": top_k,
             "max_evidence": max_evidence,
             "max_hops": max_hops,

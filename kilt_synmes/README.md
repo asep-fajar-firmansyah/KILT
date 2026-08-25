@@ -4,14 +4,15 @@ This package retrieves candidate triples from M3GQA/SynMES split records. It
 reads only the selected split files and does not load `new_graphs.jsonl` into
 memory.
 
-Each topic entity receives up to `--top-k` direct edges. The retriever also
-adds shortest paths of up to `--max-hops` edges from each topic to another
-topic entity or an exact answer-entity hint. Candidate triples are drawn from
-the source record, its optional `reasoning_path` or `original_reasoning_path`,
-and the matching full KG. Duplicate edges are removed and `--max-evidence`
-limits the total evidence for one record. Since the source is a structured
-graph rather than Wikipedia, provenance uses `source_id`, `source_type`, and
-`triple_index` instead of `wikipedia_id`.
+Provided `reasoning_path` triples are retained first. The retriever then adds
+up to `--top-k` direct edges from topic and reasoning-path entities, followed
+by shortest paths of up to `--max-hops` edges that connect those seed entities
+and overlap the question context. Candidate triples are drawn from the source
+record, its optional `reasoning_path` or `original_reasoning_path`, and the
+matching full KG. Duplicate edges are removed and `--max-evidence` limits the
+total evidence for one record. Since the source is a structured graph rather
+than Wikipedia, provenance uses `source_id`, `source_type`, and `triple_index`
+instead of `wikipedia_id`.
 
 ## Candidate triple retrieval
 
@@ -23,24 +24,26 @@ flowchart TD
   reasoning --> candidates
   split --> queryTerms[Build answer terms\nanswer + answer_entities]
 
-  candidates --> direct[For each topic, retain triples\nwhere topic is the head or tail]
-  split --> direct
+  reasoning --> seeds[Reasoning-path entities]
+  split --> seeds
+  candidates --> direct[For each seed, retain direct triples]
+  seeds --> direct
   queryTerms --> rank[Rank direct triples\nsource-edge preference, answer overlap,\nshorter relation, original order]
   direct --> rank
   rank --> topK[Keep top-k candidates\nper topic entity]
-  candidates --> paths[Shortest paths from each topic\nto another topic or answer hint]
+  candidates --> paths[Question-relevant shortest paths\nbetween seed entities]
   paths --> dedupe[De-duplicate triples across direct and path retrieval]
   topK --> dedupe
   dedupe --> cap[Stop at max-evidence]
   cap --> retrieval[Candidate-triple retrieval record\ntriples, provenance, metadata]
 ```
 
-The rank first enforces direct topic-entity membership; all remaining rank
+The rank first enforces direct seed-entity membership; all remaining rank
 signals only order those direct candidates. Multi-hop expansion uses bounded
 breadth-first search and returns only the first shortest path found for each
-topic; `--max-hops` defaults to `3`. The exporter stops after candidate
-retrieval and writes one JSON object per source record with `question`,
-`candidate_triples`, `provenance`, and retrieval metadata.
+seed. A path is retained only when one of its triples has lexical overlap with
+the question; `--max-hops` defaults to `3`. The exporter does not use `answer`
+or `answer_entities` for retrieval, avoiding target leakage.
 
 ## Input contract
 
