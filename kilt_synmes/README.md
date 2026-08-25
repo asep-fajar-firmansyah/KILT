@@ -5,8 +5,7 @@ reads only the selected split files and does not load `new_graphs.jsonl` into
 memory.
 
 Provided `reasoning_path` and source `edges` triples are retained first. The
-retriever then adds up to `--top-k` direct edges from topic and reasoning-path
-entities, followed
+retriever then adds direct edges from topic and reasoning-path entities, followed
 by shortest paths of up to `--max-hops` edges that connect those seed entities
 and overlap the question context. Candidate triples are drawn from the source
 record, its optional `reasoning_path` or `original_reasoning_path`, and the
@@ -33,26 +32,26 @@ flowchart TD
   seeds --> direct
   queryTerms --> rank[Rank direct triples\nsource preference, shorter relation,\noriginal order]
   direct --> rank
-  rank --> topK[Keep top-k candidates\nper topic entity]
+  rank --> budget[Apply shared per-topic budget\nto direct and path retrieval]
   candidates --> paths[Question-relevant shortest paths\nbetween seed entities]
   paths --> dedupe[De-duplicate triples across direct and path retrieval]
-  topK --> dedupe
+  budget --> dedupe
   dedupe --> cap[Cap added retrieval\nat topics x max-evidence]
   cap --> retrieval[Candidate-triple retrieval record\ntriples, provenance, metadata]
 ```
 
 The rank first enforces direct seed-entity membership; all remaining rank
-signals only order those direct candidates. Multi-hop expansion uses bounded
-breadth-first search and returns only the first shortest path found for each
-seed. A path is retained only when one of its triples has lexical overlap with
-the question; `--max-hops` defaults to `3`. The exporter does not use `answer`
-or `answer_entities` for retrieval, avoiding target leakage.
+signals only order those direct candidates. Direct and multi-hop additions share
+the `--max-evidence` budget for each retrieval seed. Multi-hop expansion uses
+bounded breadth-first search and returns only the first shortest path found for
+each seed. A path is retained only when one of its triples has lexical overlap
+with the question; `--max-hops` defaults to `3`. The exporter does not use
+`answer` or `answer_entities` for retrieval, avoiding target leakage.
 
-Use `unlimited` for `--top-k` or `--max-evidence` to remove that limit. This is
-useful for inspection, but can create large and noisy retrieval records. The
-total added-evidence budget is `number_of_topic_entities * max-evidence` and
-applies only to direct and multi-hop triples; source and reasoning-path triples
-are always preserved.
+Use `unlimited` for `--max-evidence` to remove that limit. This is useful for
+inspection, but can create large and noisy retrieval records. The per-seed
+budget applies to both direct and multi-hop triples; source and reasoning-path
+triples are always preserved.
 
 ## Input contract
 
@@ -87,7 +86,6 @@ From the KILT repository root:
 python3 -m kilt_synmes.pipeline \
   --data-dir /path/to/M3GQA/data \
   --split test \
-  --top-k 5 \
   --max-evidence 15 \
   --max-hops 3 \
   --limit 1 \
@@ -95,13 +93,12 @@ python3 -m kilt_synmes.pipeline \
   --output predictions/synmes/retrieval
 ```
 
-To retain every direct triple and remove the total evidence cap:
+To remove the per-topic retrieval cap:
 
 ```bash
 python3 -m kilt_synmes.pipeline \
   --data-dir /path/to/M3GQA/data \
   --split test \
-  --top-k unlimited \
   --max-evidence unlimited \
   --graph-dir /path/to/M3GQA/data/graphs \
   --output predictions/synmes/retrieval-unlimited

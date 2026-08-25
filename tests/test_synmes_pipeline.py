@@ -13,7 +13,7 @@ from kilt_synmes.visualize import render_html
 
 
 class TestSynMESPipeline(unittest.TestCase):
-    def test_retrieval_selects_top_k_per_entity_and_deduplicates(self):
+    def test_retrieval_selects_per_seed_evidence_and_deduplicates(self):
         record = {
             "graph_id": 7,
             "question": "Which city connects the entities?",
@@ -33,12 +33,12 @@ class TestSynMESPipeline(unittest.TestCase):
             ("Entity B", "related_to", "City X"),
             ("Entity B", "located_in", "City Y"),
         ]
-        output = build_retrieval_record(record, top_k=2, max_evidence=10, full_graph=full_graph)
+        output = build_retrieval_record(record, max_evidence=10, full_graph=full_graph)
 
         self.assertEqual(output["id"], "m3gqa-7")
         self.assertEqual(len(output["provenance"]), 4)
         self.assertEqual(output["provenance"][0]["source_type"], "structured_graph")
-        self.assertEqual(output["meta"]["top_k_per_entity"], 2)
+        self.assertEqual(output["meta"]["max_evidence_per_topic"], 10)
         self.assertTrue(output["meta"]["retrieved_from_full_graph"])
 
     def test_retrieval_uses_reasoning_path_candidates(self):
@@ -50,7 +50,7 @@ class TestSynMESPipeline(unittest.TestCase):
             "reasoning_path": [["Entity A", "connected_to", "Entity B"]],
         }
 
-        output = build_retrieval_record(record, top_k=1, max_evidence=1)
+        output = build_retrieval_record(record, max_evidence=1)
 
         self.assertEqual(
             output["provenance"][0]["triple"],
@@ -75,7 +75,7 @@ class TestSynMESPipeline(unittest.TestCase):
             ("Entity A", "has_type", "Entity Type"),
         ]
 
-        output = build_retrieval_record(record, top_k=1, max_evidence=1, full_graph=full_graph)
+        output = build_retrieval_record(record, max_evidence=1, full_graph=full_graph)
 
         self.assertEqual(
             output["candidate_triples"][:2],
@@ -96,7 +96,7 @@ class TestSynMESPipeline(unittest.TestCase):
             ("Entity B", "related_to", "Entity E"),
         ]
 
-        output = build_retrieval_record(record, top_k=None, max_evidence=1, full_graph=full_graph)
+        output = build_retrieval_record(record, max_evidence=1, full_graph=full_graph)
 
         self.assertEqual(output["meta"]["max_evidence_per_topic"], 1)
         self.assertEqual(output["meta"]["max_retrieved_evidence"], 2)
@@ -116,7 +116,7 @@ class TestSynMESPipeline(unittest.TestCase):
             ("Entity C", "has_extension", "Entity D"),
         ]
 
-        output = build_retrieval_record(record, top_k=1, max_evidence=3, full_graph=full_graph)
+        output = build_retrieval_record(record, max_evidence=3, full_graph=full_graph)
 
         self.assertIn(
             ["Entity C", "has_extension", "Entity D"],
@@ -136,10 +136,9 @@ class TestSynMESPipeline(unittest.TestCase):
             ("Entity A", "related_to", "Entity D"),
         ]
 
-        output = build_retrieval_record(record, top_k=None, max_evidence=None, full_graph=full_graph)
+        output = build_retrieval_record(record, max_evidence=None, full_graph=full_graph)
 
         self.assertEqual(len(output["candidate_triples"]), 3)
-        self.assertIsNone(output["meta"]["top_k_per_entity"])
         self.assertIsNone(output["meta"]["max_evidence_per_topic"])
         self.assertIsNone(output["meta"]["max_retrieved_evidence"])
 
@@ -170,7 +169,7 @@ class TestSynMESPipeline(unittest.TestCase):
             "edges": [["Entity A", "related_to", "Entity B"]],
         }
 
-        output = build_retrieval_record(record, top_k=1, max_evidence=1)
+        output = build_retrieval_record(record, max_evidence=1)
 
         self.assertEqual(output["candidate_triples"], [["Entity A", "related_to", "Entity B"]])
         self.assertNotIn("output", output)
@@ -190,7 +189,6 @@ class TestSynMESPipeline(unittest.TestCase):
 
         output = build_retrieval_record(
             record,
-            top_k=1,
             max_evidence=2,
             full_graph=full_graph,
             max_hops=2,

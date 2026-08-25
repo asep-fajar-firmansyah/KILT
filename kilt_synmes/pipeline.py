@@ -218,7 +218,6 @@ def triple_to_text(triple: Triple) -> str:
 
 def build_retrieval_record(
     record: dict,
-    top_k: int | None,
     max_evidence: int | None,
     full_graph: Sequence[Triple] | None = None,
     max_hops: int = 3,
@@ -229,7 +228,6 @@ def build_retrieval_record(
     path_triples = reasoning_path_triples(record)
     triples = combine_candidates(full_graph or original_triples, original_triples, path_triples)
     topics = [str(entity) for entity in record.get("topic_entities", [])]
-    retrieval_budget = None if max_evidence is None else max_evidence * len(topics)
     path_entities = [entity for triple in path_triples for entity in (triple[0], triple[2])]
     seed_entities = list(dict.fromkeys(topics + path_entities))
     question_terms = text_terms(record["question"])
@@ -246,16 +244,18 @@ def build_retrieval_record(
     evidence = []
     seen_triples = set()
     retrieved_count = 0
+    retrieved_by_seed = {seed: 0 for seed in seed_entities}
 
     def add_evidence(topic: str, triple: Triple, mandatory: bool = False) -> bool:
         nonlocal retrieved_count
         if triple in seen_triples:
             return False
-        if not mandatory and retrieval_budget is not None and retrieved_count >= retrieval_budget:
+        if not mandatory and max_evidence is not None and retrieved_by_seed[topic] >= max_evidence:
             return False
         seen_triples.add(triple)
         if not mandatory:
             retrieved_count += 1
+            retrieved_by_seed[topic] += 1
         triple_index = triple_indices[triple]
         evidence.append(
             {
@@ -278,16 +278,10 @@ def build_retrieval_record(
         add_evidence("source_edge", triple, mandatory=True)
 
     for topic, topic_triples in selected:
-        direct_count = 0
         for _, triple in topic_triples:
-            if add_evidence(topic, triple):
-                direct_count += 1
-            if top_k is not None and direct_count >= top_k:
+            add_evidence(topic, triple)
+            if max_evidence is not None and retrieved_by_seed[topic] >= max_evidence:
                 break
-            if retrieval_budget is not None and retrieved_count >= retrieval_budget:
-                break
-        if retrieval_budget is not None and retrieved_count >= retrieval_budget:
-            break
 
     for topic, triple in multihop_paths:
         add_evidence(topic, triple)
@@ -302,11 +296,13 @@ def build_retrieval_record(
             "topic_entities": topics,
             "reasoning_path_entities": path_entities,
             "question_terms": sorted(question_terms),
-            "top_k_per_entity": top_k,
             "max_evidence_per_topic": max_evidence,
-            "max_retrieved_evidence": retrieval_budget,
+            "max_retrieved_evidence": (
+                None if max_evidence is None else max_evidence * len(seed_entities)
+            ),
             "source_evidence_count": len(set(path_triples) | set(original_triples)),
             "retrieved_evidence_count": retrieved_count,
+            "retrieved_evidence_by_seed": retrieved_by_seed,
             "max_hops": max_hops,
             "retrieved_from_full_graph": full_graph is not None,
             "candidate_sources": {
@@ -322,7 +318,6 @@ def export_dataset(
     data_dir: Path,
     split: str,
     output: Path,
-    top_k: int | None,
     max_evidence: int | None,
     source_file: str | None = None,
     limit: int | None = None,
@@ -363,7 +358,7 @@ def export_dataset(
             for record in records_by_path[path]:
                 graph = graph_index.get(str(record["graph_id"]))
                 json.dump(
-                    build_retrieval_record(record, top_k, max_evidence, graph, max_hops),
+                    build_retrieval_record(record, max_evidence, graph, max_hops),
                     handle,
                     ensure_ascii=False,
                 )
@@ -377,7 +372,6 @@ def main() -> None:
     parser.add_argument("--data-dir", required=True, type=Path)
     parser.add_argument("--split", choices=["train", "valid", "test"], default="test")
     parser.add_argument("--output", required=True, type=Path)
-    parser.add_argument("--top-k", type=positive_int_or_unlimited, default=5)
     parser.add_argument("--max-evidence", type=positive_int_or_unlimited, default=15)
     parser.add_argument("--max-hops", type=int, default=3)
     parser.add_argument("--source-file", default=None)
@@ -396,7 +390,6 @@ def main() -> None:
         args.data_dir,
         args.split,
         args.output,
-        args.top_k,
         args.max_evidence,
         args.source_file,
         args.limit,
