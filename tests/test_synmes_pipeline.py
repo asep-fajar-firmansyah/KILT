@@ -6,8 +6,10 @@ from pathlib import Path
 from kilt_synmes.pipeline import (
     build_retrieval_record,
     load_graphs_from_directory,
+    map_reasoning_triples_to_topics,
     positive_int_or_unlimited,
     select_topk_by_entity,
+    triple_rank_score,
 )
 from kilt_synmes.visualize import render_html
 
@@ -57,7 +59,21 @@ class TestSynMESPipeline(unittest.TestCase):
             ["Entity A", "connected_to", "Entity B"],
         )
         self.assertEqual(output["meta"]["candidate_sources"]["reasoning_path"], 1)
-        self.assertEqual(output["provenance"][0]["topic_entity"], "reasoning_path")
+        self.assertEqual(output["provenance"][0]["topic_entity"], "Entity A")
+        self.assertEqual(output["provenance"][0]["initial_topic_entities"], ["Entity A"])
+
+    def test_maps_reasoning_triples_to_matching_topic_entities(self):
+        triples = [
+            ("Entity A", "related_to", "Bridge"),
+            ("Bridge", "related_to", "Entity B"),
+            ("Other", "related_to", "Node"),
+        ]
+
+        mapped = map_reasoning_triples_to_topics(triples, ["Entity A", "Entity B"])
+
+        self.assertEqual(mapped[0][1], ["Entity A"])
+        self.assertEqual(mapped[1][1], ["Entity B"])
+        self.assertEqual(mapped[2][1], [])
 
     def test_retrieval_preserves_all_source_edges_before_evidence_cap(self):
         record = {
@@ -101,6 +117,25 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertEqual(output["meta"]["max_evidence_per_topic"], 1)
         self.assertEqual(output["meta"]["max_retrieved_evidence"], 2)
         self.assertEqual(output["meta"]["retrieved_evidence_count"], 2)
+
+    def test_question_relevance_outranks_noise_relation(self):
+        question_terms = {"law", "industry"}
+        weights = {"question_match": 4, "source_priority": 1, "noise_penalty": -4, "generic_relation_penalty": -2}
+
+        relevant = triple_rank_score(
+            ("Entity A", "business.business_operation.industry", "Law"),
+            question_terms,
+            set(),
+            weights,
+        )
+        noise = triple_rank_score(
+            ("Entity A", "common.topic.image", "Logo"),
+            question_terms,
+            set(),
+            weights,
+        )
+
+        self.assertGreater(relevant, noise)
 
     def test_retrieval_expands_direct_edges_from_reasoning_path_entities(self):
         record = {

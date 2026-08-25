@@ -16,6 +16,10 @@ is $n \times \text{max-evidence}$. Since the source is a structured graph
 rather than Wikipedia, provenance uses `source_id`, `source_type`, and
 `triple_index` instead of `wikipedia_id`.
 
+Each reasoning-path triple is mapped to topic entities matching its head or
+tail and emitted as that topic's initial evidence. A reasoning triple that does
+not contain a topic entity is retained as shared initial evidence.
+
 ## Candidate triple retrieval
 
 ```mermaid
@@ -41,13 +45,18 @@ flowchart TD
 ```
 
 The rank first enforces direct seed-entity membership; all remaining rank
-signals only order those direct candidates. Direct and multi-hop additions share
+signals order direct candidates using question-token overlap, source priority,
+and penalties for metadata and generic relations. Direct and multi-hop additions share
 the `--max-evidence` budget for each retrieval seed. Multi-hop expansion uses
 bounded breadth-first search to fill unused seed capacity with shortest paths
 that connect another seed or reach question-matching graph context. A path is
 retained only when it contains a seed connection or a triple with lexical
 overlap with the question; `--max-hops` defaults to `3`. The exporter does not
 use `answer` or `answer_entities` for retrieval, avoiding target leakage.
+
+The default ranking weights are heuristic and can be tuned on development data:
+`--question-match-weight 4`, `--source-priority-weight 1`,
+`--noise-penalty -4`, and `--generic-relation-penalty -2`.
 
 Use `unlimited` for `--max-evidence` to remove that limit. This is useful for
 inspection, but can create large and noisy retrieval records. The per-seed

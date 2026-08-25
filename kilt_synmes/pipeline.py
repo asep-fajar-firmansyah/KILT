@@ -13,6 +13,16 @@ from typing import Dict, Iterable, List, Sequence, Tuple
 Triple = Tuple[str, str, str]
 
 
+DEFAULT_RANKING_WEIGHTS = {
+    "question_match": 4,
+    "source_priority": 1,
+    "noise_penalty": -4,
+    "generic_relation_penalty": -2,
+}
+NOISE_RELATION_TERMS = {"article", "image", "reviewed", "type"}
+GENERIC_RELATIONS = {"common.topic.subject_of", "common.topic.subjects"}
+
+
 def positive_int_or_unlimited(value: str) -> int | None:
     if value == "unlimited":
         return None
@@ -106,6 +116,25 @@ def triple_matches_question(triple: Triple, question_terms: set[str]) -> bool:
     return bool(text_terms(" ".join(triple)) & question_terms)
 
 
+def triple_rank_score(
+    triple: Triple,
+    question_terms: set[str],
+    preferred_triples: set[Triple],
+    weights: Dict[str, int],
+) -> int:
+    """Return a transparent, training-free relevance score for one triple."""
+    _, relation, _ = triple
+    relation_terms = text_terms(relation)
+    score = weights["question_match"] * len(text_terms(" ".join(triple)) & question_terms)
+    if triple in preferred_triples:
+        score += weights["source_priority"]
+    if relation in GENERIC_RELATIONS:
+        score += weights["generic_relation_penalty"]
+    if relation_terms & NOISE_RELATION_TERMS:
+        score += weights["noise_penalty"]
+    return score
+
+
 def reasoning_path_triples(record: dict) -> List[Triple]:
     """Read triples from either supported original reasoning-path field."""
     triples = []
@@ -114,6 +143,20 @@ def reasoning_path_triples(record: dict) -> List[Triple]:
         if value:
             triples.extend(normalize_triples(value))
     return triples
+
+
+def map_reasoning_triples_to_topics(
+    triples: Sequence[Triple],
+    topic_entities: Sequence[str],
+) -> List[Tuple[Triple, List[str]]]:
+    """Map each reasoning triple to topic entities occurring at either endpoint."""
+    topics = [str(topic) for topic in topic_entities]
+    mapped = []
+    for triple in triples:
+        endpoints = {triple[0].lower(), triple[2].lower()}
+        owners = [topic for topic in topics if topic.lower() in endpoints]
+        mapped.append((triple, owners))
+    return mapped
 
 
 def combine_candidates(*triple_sets: Sequence[Triple]) -> List[Triple]:
@@ -130,11 +173,14 @@ def combine_candidates(*triple_sets: Sequence[Triple]) -> List[Triple]:
 def select_topk_by_entity(
     triples: Sequence[Triple],
     topic_entities: Sequence[str],
-    answer_terms_set: set[str],
+    question_terms: set[str],
     top_k: int | None,
     preferred_triples: set[Triple] | None = None,
+    ranking_weights: Dict[str, int] | None = None,
 ) -> List[Tuple[str, List[Tuple[int, Triple]]]]:
-    """Select direct, answer-relevant edges independently for each topic."""
+    """Rank direct edges independently for each retrieval seed."""
+    preferred_triples = preferred_triples or set()
+    ranking_weights = ranking_weights or DEFAULT_RANKING_WEIGHTS
     selected = []
     for topic in (str(entity) for entity in topic_entities):
         topic_lower = topic.lower()
@@ -143,9 +189,7 @@ def select_topk_by_entity(
             head, relation, tail = triple
             endpoints = {head.lower(), tail.lower()}
             direct = int(topic_lower in endpoints)
-            answer_hit = int(bool(endpoints & answer_terms_set))
-            preferred = int(preferred_triples is not None and triple in preferred_triples)
-            score = (direct, preferred, answer_hit, -len(relation), -index)
+            score = (direct, triple_rank_score(triple, question_terms, preferred_triples, ranking_weights), -len(relation), -index)
             if direct:
                 ranked.append((score, index, triple))
         ranked.sort(key=lambda item: item[0], reverse=True)
@@ -217,6 +261,7 @@ def build_retrieval_record(
     max_evidence: int | None,
     full_graph: Sequence[Triple] | None = None,
     max_hops: int = 3,
+    ranking_weights: Dict[str, int] | None = None,
 ) -> dict:
     """Build the candidate-triple retrieval result without summarization."""
     graph_id = str(record["graph_id"])
@@ -224,15 +269,18 @@ def build_retrieval_record(
     path_triples = reasoning_path_triples(record)
     triples = combine_candidates(full_graph or original_triples, original_triples, path_triples)
     topics = [str(entity) for entity in record.get("topic_entities", [])]
+    mapped_path_triples = map_reasoning_triples_to_topics(path_triples, topics)
     path_entities = [entity for triple in path_triples for entity in (triple[0], triple[2])]
     seed_entities = list(dict.fromkeys(topics + path_entities))
     question_terms = text_terms(record["question"])
+    ranking_weights = ranking_weights or DEFAULT_RANKING_WEIGHTS
     selected = select_topk_by_entity(
         triples,
         seed_entities,
-        set(),
+        question_terms,
         len(triples),
         preferred_triples=set(original_triples) | set(path_triples),
+        ranking_weights=ranking_weights,
     )
     multihop_paths = select_multihop_paths(triples, seed_entities, question_terms, max_hops)
     triple_indices = {triple: index for index, triple in enumerate(triples)}
@@ -242,7 +290,12 @@ def build_retrieval_record(
     retrieved_count = 0
     retrieved_by_seed = {seed: 0 for seed in seed_entities}
 
-    def add_evidence(topic: str, triple: Triple, mandatory: bool = False) -> bool:
+    def add_evidence(
+        topic: str,
+        triple: Triple,
+        mandatory: bool = False,
+        initial_topics: Sequence[str] | None = None,
+    ) -> bool:
         nonlocal retrieved_count
         if triple in seen_triples:
             return False
@@ -263,12 +316,13 @@ def build_retrieval_record(
                 "text": triple_to_text(triple),
                 "topic_entity": topic,
                 "triple": list(triple),
+                "initial_topic_entities": list(initial_topics or []),
             }
         )
         return True
 
-    for triple in path_triples:
-        add_evidence("reasoning_path", triple, mandatory=True)
+    for triple, owners in mapped_path_triples:
+        add_evidence(owners[0] if owners else "reasoning_path", triple, mandatory=True, initial_topics=owners)
 
     for triple in original_triples:
         add_evidence("source_edge", triple, mandatory=True)
@@ -291,7 +345,12 @@ def build_retrieval_record(
             "graph_id": record["graph_id"],
             "topic_entities": topics,
             "reasoning_path_entities": path_entities,
+            "reasoning_path_initial_triples": [
+                {"triple": list(triple), "topic_entities": owners}
+                for triple, owners in mapped_path_triples
+            ],
             "question_terms": sorted(question_terms),
+            "ranking_weights": ranking_weights,
             "max_evidence_per_topic": max_evidence,
             "max_retrieved_evidence": (
                 None if max_evidence is None else max_evidence * len(seed_entities)
@@ -320,6 +379,7 @@ def export_dataset(
     graph_path: Path | None = None,
     graph_dir: Path | None = None,
     max_hops: int = 3,
+    ranking_weights: Dict[str, int] | None = None,
 ) -> int:
     split_dir = data_dir / split
     if not split_dir.is_dir():
@@ -354,7 +414,7 @@ def export_dataset(
             for record in records_by_path[path]:
                 graph = graph_index.get(str(record["graph_id"]))
                 json.dump(
-                    build_retrieval_record(record, max_evidence, graph, max_hops),
+                    build_retrieval_record(record, max_evidence, graph, max_hops, ranking_weights),
                     handle,
                     ensure_ascii=False,
                 )
@@ -369,6 +429,10 @@ def main() -> None:
     parser.add_argument("--split", choices=["train", "valid", "test"], default="test")
     parser.add_argument("--output", required=True, type=Path)
     parser.add_argument("--max-evidence", type=positive_int_or_unlimited, default=15)
+    parser.add_argument("--question-match-weight", type=int, default=DEFAULT_RANKING_WEIGHTS["question_match"])
+    parser.add_argument("--source-priority-weight", type=int, default=DEFAULT_RANKING_WEIGHTS["source_priority"])
+    parser.add_argument("--noise-penalty", type=int, default=DEFAULT_RANKING_WEIGHTS["noise_penalty"])
+    parser.add_argument("--generic-relation-penalty", type=int, default=DEFAULT_RANKING_WEIGHTS["generic_relation_penalty"])
     parser.add_argument("--max-hops", type=int, default=3)
     parser.add_argument("--source-file", default=None)
     parser.add_argument("--limit", type=int, default=None)
@@ -392,6 +456,12 @@ def main() -> None:
         args.graph_path or (None if args.graph_dir is not None else args.data_dir / "new_graphs.jsonl"),
         args.graph_dir,
         args.max_hops,
+        {
+            "question_match": args.question_match_weight,
+            "source_priority": args.source_priority_weight,
+            "noise_penalty": args.noise_penalty,
+            "generic_relation_penalty": args.generic_relation_penalty,
+        },
     )
     print(f"Wrote {count} KILT records to {args.output}")
 
