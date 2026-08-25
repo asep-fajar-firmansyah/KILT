@@ -45,6 +45,9 @@ seed. A path is retained only when one of its triples has lexical overlap with
 the question; `--max-hops` defaults to `3`. The exporter does not use `answer`
 or `answer_entities` for retrieval, avoiding target leakage.
 
+Use `unlimited` for `--top-k` or `--max-evidence` to remove that limit. This is
+useful for inspection, but can create large and noisy retrieval records.
+
 ## Input contract
 
 Each split JSONL record requires `graph_id`, `question`, `topic_entities`, and
@@ -83,4 +86,16 @@ python3 -m kilt_synmes.pipeline \
   --limit 1 \
   --graph-dir /path/to/M3GQA/data/graphs \
   --output predictions/synmes/retrieval
+```
+
+To retain every direct triple and remove the total evidence cap:
+
+```bash
+python3 -m kilt_synmes.pipeline \
+  --data-dir /path/to/M3GQA/data \
+  --split test \
+  --top-k unlimited \
+  --max-evidence unlimited \
+  --graph-dir /path/to/M3GQA/data/graphs \
+  --output predictions/synmes/retrieval-unlimited
 ```

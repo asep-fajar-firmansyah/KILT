@@ -6,6 +6,7 @@ from pathlib import Path
 from kilt_synmes.pipeline import (
     build_retrieval_record,
     load_graphs_from_directory,
+    positive_int_or_unlimited,
     select_topk_by_entity,
 )
 
@@ -77,6 +78,29 @@ class TestSynMESPipeline(unittest.TestCase):
             ["Entity C", "has_extension", "Entity D"],
             output["candidate_triples"],
         )
+
+    def test_retrieval_allows_unlimited_budgets(self):
+        record = {
+            "graph_id": 13,
+            "question": "Find Entity A facts.",
+            "topic_entities": ["Entity A"],
+            "edges": [],
+        }
+        full_graph = [
+            ("Entity A", "related_to", "Entity B"),
+            ("Entity A", "related_to", "Entity C"),
+            ("Entity A", "related_to", "Entity D"),
+        ]
+
+        output = build_retrieval_record(record, top_k=None, max_evidence=None, full_graph=full_graph)
+
+        self.assertEqual(len(output["candidate_triples"]), 3)
+        self.assertIsNone(output["meta"]["top_k_per_entity"])
+        self.assertIsNone(output["meta"]["max_evidence"])
+
+    def test_positive_int_or_unlimited(self):
+        self.assertEqual(positive_int_or_unlimited("3"), 3)
+        self.assertIsNone(positive_int_or_unlimited("unlimited"))
 
     def test_build_retrieval_record_stops_before_annotation(self):
         record = {

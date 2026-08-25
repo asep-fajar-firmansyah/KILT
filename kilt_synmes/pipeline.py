@@ -13,6 +13,18 @@ from typing import Dict, Iterable, List, Sequence, Tuple
 Triple = Tuple[str, str, str]
 
 
+def positive_int_or_unlimited(value: str) -> int | None:
+    if value == "unlimited":
+        return None
+    try:
+        parsed = int(value)
+    except ValueError as error:
+        raise argparse.ArgumentTypeError("must be a positive integer or 'unlimited'") from error
+    if parsed < 1:
+        raise argparse.ArgumentTypeError("must be a positive integer or 'unlimited'")
+    return parsed
+
+
 def load_jsonl(path: Path) -> Iterable[dict]:
     with path.open("r", encoding="utf-8") as handle:
         for line_number, line in enumerate(handle, start=1):
@@ -119,7 +131,7 @@ def select_topk_by_entity(
     triples: Sequence[Triple],
     topic_entities: Sequence[str],
     answer_terms_set: set[str],
-    top_k: int,
+    top_k: int | None,
     preferred_triples: set[Triple] | None = None,
 ) -> List[Tuple[str, List[Tuple[int, Triple]]]]:
     """Select direct, answer-relevant edges independently for each topic."""
@@ -206,8 +218,8 @@ def triple_to_text(triple: Triple) -> str:
 
 def build_retrieval_record(
     record: dict,
-    top_k: int,
-    max_evidence: int,
+    top_k: int | None,
+    max_evidence: int | None,
     full_graph: Sequence[Triple] | None = None,
     max_hops: int = 3,
 ) -> dict:
@@ -234,7 +246,7 @@ def build_retrieval_record(
     seen_triples = set()
 
     def add_evidence(topic: str, triple: Triple) -> bool:
-        if len(evidence) >= max_evidence or triple in seen_triples:
+        if (max_evidence is not None and len(evidence) >= max_evidence) or triple in seen_triples:
             return False
         seen_triples.add(triple)
         triple_index = triple_indices[triple]
@@ -260,11 +272,11 @@ def build_retrieval_record(
         for _, triple in topic_triples:
             if add_evidence(topic, triple):
                 direct_count += 1
-            if direct_count >= top_k:
+            if top_k is not None and direct_count >= top_k:
                 break
-            if len(evidence) >= max_evidence:
+            if max_evidence is not None and len(evidence) >= max_evidence:
                 break
-        if len(evidence) >= max_evidence:
+        if max_evidence is not None and len(evidence) >= max_evidence:
             break
 
     for topic, triple in multihop_paths:
@@ -297,8 +309,8 @@ def export_dataset(
     data_dir: Path,
     split: str,
     output: Path,
-    top_k: int,
-    max_evidence: int,
+    top_k: int | None,
+    max_evidence: int | None,
     source_file: str | None = None,
     limit: int | None = None,
     graph_path: Path | None = None,
@@ -352,8 +364,8 @@ def main() -> None:
     parser.add_argument("--data-dir", required=True, type=Path)
     parser.add_argument("--split", choices=["train", "valid", "test"], default="test")
     parser.add_argument("--output", required=True, type=Path)
-    parser.add_argument("--top-k", type=int, default=5)
-    parser.add_argument("--max-evidence", type=int, default=15)
+    parser.add_argument("--top-k", type=positive_int_or_unlimited, default=5)
+    parser.add_argument("--max-evidence", type=positive_int_or_unlimited, default=15)
     parser.add_argument("--max-hops", type=int, default=3)
     parser.add_argument("--source-file", default=None)
     parser.add_argument("--limit", type=int, default=None)
@@ -365,8 +377,8 @@ def main() -> None:
         help="Directory containing <split>/<graph_id>.json graph files for direct lookup.",
     )
     args = parser.parse_args()
-    if args.top_k < 1 or args.max_evidence < 1 or args.max_hops < 1 or (args.limit is not None and args.limit < 1):
-        parser.error("--top-k, --max-evidence, --max-hops, and --limit must be positive")
+    if args.max_hops < 1 or (args.limit is not None and args.limit < 1):
+        parser.error("--max-hops and --limit must be positive")
     count = export_dataset(
         args.data_dir,
         args.split,
