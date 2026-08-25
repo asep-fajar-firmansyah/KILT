@@ -17,8 +17,8 @@ is a structured graph rather than Wikipedia, provenance uses `source_id`,
 `source_type`, and `triple_index` instead of `wikipedia_id`.
 
 Initial reasoning and source triples are assigned to one topic entity using the
-following lexicographic score: direct topic touch, answer-entity hit,
-relation-question token overlap, and negative BFS distance from the topic to
+following lexicographic score: direct topic touch, relation-question token
+overlap, and negative BFS distance from the topic to
 the triple. Each topic retains its top `--max-evidence` initial triples; graph
 retrieval fills any remaining capacity for that topic.
 
@@ -30,11 +30,11 @@ flowchart TD
   split --> reasoning[Original reasoning path]
   graphLookup --> candidates[Candidate triples\nKG, source edges, reasoning path]
   reasoning --> candidates
-  split --> queryTerms[Extract question and answer terms]
+  split --> queryTerms[Extract question terms]
 
   reasoning --> seeds[Reasoning-path entities]
   split --> seeds
-  candidates --> initial[Assign initial triples by\ntouch, answer hit, overlap, BFS distance]
+  candidates --> initial[Assign initial triples by\ntouch, overlap, BFS distance]
   initial --> direct[For each seed, retain direct triples]
   seeds --> direct
   queryTerms --> rank[Rank direct triples\nsource preference, shorter relation,\noriginal order]
@@ -55,9 +55,8 @@ bounded breadth-first search to fill unused seed capacity with shortest paths
 that connect another seed or reach question-matching graph context. A path is
 retained only when it contains a seed connection or a triple with lexical
 overlap with the question; `--max-hops` defaults to `3`. Initial triple
-assignment uses `answer` and `answer_entities` as an answer-hit signal, as
-specified by the BFS assignment algorithm. It is therefore appropriate for
-dataset construction or oracle analysis, rather than answer-blind evaluation.
+assignment is answer-blind and uses only topic-touch, question overlap, and BFS
+distance.
 
 The default ranking weights are heuristic and can be tuned on development data:
 `--question-match-weight 4`, `--source-priority-weight 1`,
@@ -73,8 +72,7 @@ triples are always preserved.
 Each split JSONL record requires `graph_id`, `question`, `topic_entities`, and
 `edges`. An edge is a three-item `[head, relation, tail]` array. To supply the
 original reasoning path, use either `reasoning_path` or
-`original_reasoning_path`, with the same triple-array format. `answer` and
-`answer_entities` are optional ranking hints.
+`original_reasoning_path`, with the same triple-array format.
 
 For efficient direct lookup, provide `--graph-dir` for graph files stored as
 `<graph-dir>/<split>/<graph_id>.json`. Each graph file must identify the graph

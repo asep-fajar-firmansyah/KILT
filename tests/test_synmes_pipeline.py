@@ -88,7 +88,6 @@ class TestSynMESPipeline(unittest.TestCase):
             triples,
             ["Entity A", "Entity B"],
             "Which question relation identifies the answer?",
-            {"answer"},
             max_evidence=1,
         )
 

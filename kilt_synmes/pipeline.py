@@ -145,18 +145,6 @@ def reasoning_path_triples(record: dict) -> List[Triple]:
     return triples
 
 
-def answer_entities(record: dict) -> set[str]:
-    values = record.get("answer_entities", [])
-    if not isinstance(values, list):
-        values = [values]
-    answer = record.get("answer")
-    if isinstance(answer, list):
-        values.extend(answer)
-    elif answer is not None:
-        values.append(answer)
-    return {str(value).lower() for value in values if value is not None}
-
-
 def bfs_distances(triples: Sequence[Triple], start: str) -> Dict[str, int]:
     """Return undirected shortest-path distances from one topic entity."""
     adjacency: Dict[str, List[str]] = {}
@@ -178,10 +166,9 @@ def assign_initial_triples(
     triples: Sequence[Triple],
     topic_entities: Sequence[str],
     question: str,
-    answer_entity_set: set[str],
     max_evidence: int | None,
-) -> List[Tuple[Triple, str, Tuple[int, int, int, float]]]:
-    """Assign top initial triples to topics by touch, answer hit, overlap, and BFS distance."""
+) -> List[Tuple[Triple, str, Tuple[int, int, float]]]:
+    """Assign top initial triples to topics by touch, overlap, and BFS distance."""
     topics = [str(topic) for topic in topic_entities]
     distances = {topic: bfs_distances(triples, topic) for topic in topics}
     question_terms = text_terms(question)
@@ -199,7 +186,6 @@ def assign_initial_triples(
             )
             score = (
                 int(topic.lower() in endpoints),
-                int(bool(endpoints & answer_entity_set)),
                 len(text_terms(relation) & question_terms),
                 -distance,
             )
@@ -354,7 +340,6 @@ def build_retrieval_record(
         initial_triples,
         topics,
         record["question"],
-        answer_entities(record),
         max_evidence,
     )
     path_entities = [
