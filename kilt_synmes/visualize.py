@@ -95,9 +95,38 @@ def render_html(record: dict) -> str:
             f'<text>{label}</text></g>'
         )
 
+    grouped_provenance = {topic: [] for topic in record["meta"].get("topic_entities", [])}
+    shared_provenance = []
+    provenance = record.get("provenance", [])
+    for item in provenance:
+        owner = item.get("topic_entity")
+        if owner in grouped_provenance:
+            grouped_provenance[owner].append(item)
+        else:
+            shared_provenance.append(item)
+    if not provenance:
+        for triple in triples:
+            owners = [topic for topic in grouped_provenance if topic in {triple[0], triple[2]}]
+            item = {"triple": triple}
+            if owners:
+                grouped_provenance[owners[0]].append(item)
+            else:
+                shared_provenance.append(item)
+
+    table_groups = []
+    for topic, items in grouped_provenance.items():
+        if items:
+            table_groups.append((topic, items))
+    if shared_provenance:
+        table_groups.append(("Shared evidence", shared_provenance))
+
     rows = "".join(
-        f"<tr><td>{html.escape(head)}</td><td>{html.escape(relation)}</td><td>{html.escape(tail)}</td></tr>"
-        for head, relation, tail in triples
+        f'<tr class="group-row"><th colspan="3">{html.escape(topic)} ({len(items)} triples)</th></tr>'
+        + "".join(
+            f"<tr><td>{html.escape(item['triple'][0])}</td><td>{html.escape(item['triple'][1])}</td><td>{html.escape(item['triple'][2])}</td></tr>"
+            for item in items
+        )
+        for topic, items in table_groups
     )
     question = html.escape(record["question"])
     graph_id = html.escape(str(record["id"]))
@@ -129,6 +158,7 @@ line {{ stroke: #64748b; stroke-width: 1.5; }}
 table {{ width: 100%; border-collapse: collapse; background: #ffffff; font: 14px sans-serif; }}
 th, td {{ border: 1px solid #cbd5e1; padding: 8px; text-align: left; vertical-align: top; }}
 th {{ background: #e2e8f0; }}
+.group-row th {{ background: #dbeafe; color: #1e3a8a; font-size: 15px; text-align: left; }}
 </style>
 </head>
 <body>
