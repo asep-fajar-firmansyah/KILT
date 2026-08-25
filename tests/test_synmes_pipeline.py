@@ -201,6 +201,31 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertEqual(output["meta"]["max_hops"], 2)
         self.assertIn("bridge", output["meta"]["question_terms"])
 
+    def test_multihop_fills_remaining_seed_budget_with_question_context(self):
+        record = {
+            "graph_id": 17,
+            "question": "Which relevant detail follows Entity A?",
+            "topic_entities": ["Entity A"],
+            "edges": [],
+        }
+        full_graph = [
+            ("Entity A", "starts_at", "Entity B"),
+            ("Entity B", "relevant_detail", "Entity C"),
+        ]
+
+        output = build_retrieval_record(
+            record,
+            max_evidence=2,
+            full_graph=full_graph,
+            max_hops=2,
+        )
+
+        self.assertEqual(
+            output["candidate_triples"],
+            [["Entity A", "starts_at", "Entity B"], ["Entity B", "relevant_detail", "Entity C"]],
+        )
+        self.assertEqual(output["meta"]["retrieved_evidence_by_seed"]["Entity A"], 2)
+
     def test_load_graphs_from_directory_uses_graph_id_filename(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             graph_path = Path(temp_dir) / "test" / "38.json"

@@ -43,10 +43,11 @@ flowchart TD
 The rank first enforces direct seed-entity membership; all remaining rank
 signals only order those direct candidates. Direct and multi-hop additions share
 the `--max-evidence` budget for each retrieval seed. Multi-hop expansion uses
-bounded breadth-first search and returns only the first shortest path found for
-each seed. A path is retained only when one of its triples has lexical overlap
-with the question; `--max-hops` defaults to `3`. The exporter does not use
-`answer` or `answer_entities` for retrieval, avoiding target leakage.
+bounded breadth-first search to fill unused seed capacity with shortest paths
+that connect another seed or reach question-matching graph context. A path is
+retained only when it contains a seed connection or a triple with lexical
+overlap with the question; `--max-hops` defaults to `3`. The exporter does not
+use `answer` or `answer_entities` for retrieval, avoiding target leakage.
 
 Use `unlimited` for `--max-evidence` to remove that limit. This is useful for
 inspection, but can create large and noisy retrieval records. The per-seed

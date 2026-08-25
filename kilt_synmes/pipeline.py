@@ -153,18 +153,16 @@ def select_topk_by_entity(
     return selected
 
 
-def shortest_path_triples(
+def question_relevant_paths(
     triples: Sequence[Triple],
     start: str,
     targets: set[str],
+    question_terms: set[str],
     max_hops: int,
-) -> List[Triple]:
-    """Find a shortest undirected graph path from start to any target."""
+) -> List[List[Triple]]:
+    """Find bounded shortest paths to seed or question-relevant graph context."""
     start_lower = start.lower()
     targets = {target.lower() for target in targets} - {start_lower}
-    if not targets:
-        return []
-
     adjacency: Dict[str, List[Tuple[str, Triple]]] = {}
     for triple in triples:
         head, _, tail = triple
@@ -173,18 +171,24 @@ def shortest_path_triples(
 
     queue = deque([(start_lower, [])])
     visited = {start_lower}
+    paths = []
+    seen_paths = set()
     while queue:
         node, path = queue.popleft()
         if len(path) >= max_hops:
             continue
         for neighbor, triple in adjacency.get(node, []):
             next_path = path + [triple]
-            if neighbor in targets:
-                return next_path
+            path_key = tuple(next_path)
+            reaches_target = neighbor in targets
+            matches_question = triple_matches_question(triple, question_terms)
+            if (reaches_target or matches_question) and path_key not in seen_paths:
+                seen_paths.add(path_key)
+                paths.append(next_path)
             if neighbor not in visited:
                 visited.add(neighbor)
                 queue.append((neighbor, next_path))
-    return []
+    return paths
 
 
 def select_multihop_paths(
@@ -193,19 +197,11 @@ def select_multihop_paths(
     question_terms: set[str],
     max_hops: int,
 ) -> List[Tuple[str, Triple]]:
-    """Retrieve question-relevant paths that connect retrieval seed entities."""
+    """Retrieve bounded paths connecting seeds or reaching question context."""
     seeds = [str(seed) for seed in seed_entities]
     paths = []
-    seen_paths = set()
     for seed in seeds:
-        path = shortest_path_triples(triples, seed, set(seeds), max_hops)
-        path_key = tuple(path)
-        if (
-            path
-            and any(triple_matches_question(triple, question_terms) for triple in path)
-            and path_key not in seen_paths
-        ):
-            seen_paths.add(path_key)
+        for path in question_relevant_paths(triples, seed, set(seeds), question_terms, max_hops):
             paths.extend((seed, triple) for triple in path)
     return paths
 
