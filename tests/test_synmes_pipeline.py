@@ -70,6 +70,33 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertNotIn("output", output)
         self.assertNotIn("input", output)
 
+    def test_retrieval_expands_a_bounded_path_to_an_answer_entity(self):
+        record = {
+            "graph_id": 11,
+            "question": "Which entity is reached?",
+            "answer_entities": ["Entity C"],
+            "topic_entities": ["Entity A"],
+            "edges": [],
+        }
+        full_graph = [
+            ("Entity A", "connected_to", "Entity B"),
+            ("Entity B", "connected_to", "Entity C"),
+        ]
+
+        output = build_retrieval_record(
+            record,
+            top_k=1,
+            max_evidence=2,
+            full_graph=full_graph,
+            max_hops=2,
+        )
+
+        self.assertEqual(
+            output["candidate_triples"],
+            [["Entity A", "connected_to", "Entity B"], ["Entity B", "connected_to", "Entity C"]],
+        )
+        self.assertEqual(output["meta"]["max_hops"], 2)
+
     def test_load_graphs_from_directory_uses_graph_id_filename(self):
         with tempfile.TemporaryDirectory() as temp_dir:
             graph_path = Path(temp_dir) / "test" / "38.json"

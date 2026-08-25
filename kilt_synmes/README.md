@@ -4,12 +4,14 @@ This package retrieves candidate triples from M3GQA/SynMES split records. It
 reads only the selected split files and does not load `new_graphs.jsonl` into
 memory.
 
-Each topic entity receives up to `--top-k` direct edges. Candidate triples are
-drawn from the source record, its optional `reasoning_path` or
-`original_reasoning_path`, and the matching full KG. Duplicate edges are
-removed and `--max-evidence` limits the total evidence for one record. Since
-the source is a structured graph rather than Wikipedia, provenance uses
-`source_id`, `source_type`, and `triple_index` instead of `wikipedia_id`.
+Each topic entity receives up to `--top-k` direct edges. The retriever also
+adds shortest paths of up to `--max-hops` edges from each topic to another
+topic entity or an exact answer-entity hint. Candidate triples are drawn from
+the source record, its optional `reasoning_path` or `original_reasoning_path`,
+and the matching full KG. Duplicate edges are removed and `--max-evidence`
+limits the total evidence for one record. Since the source is a structured
+graph rather than Wikipedia, provenance uses `source_id`, `source_type`, and
+`triple_index` instead of `wikipedia_id`.
 
 ## Candidate triple retrieval
 
@@ -26,13 +28,17 @@ flowchart TD
   queryTerms --> rank[Rank direct triples\nsource-edge preference, answer overlap,\nshorter relation, original order]
   direct --> rank
   rank --> topK[Keep top-k candidates\nper topic entity]
-  topK --> dedupe[De-duplicate triples across topics]
+  candidates --> paths[Shortest paths from each topic\nto another topic or answer hint]
+  paths --> dedupe[De-duplicate triples across direct and path retrieval]
+  topK --> dedupe
   dedupe --> cap[Stop at max-evidence]
   cap --> retrieval[Candidate-triple retrieval record\ntriples, provenance, metadata]
 ```
 
 The rank first enforces direct topic-entity membership; all remaining rank
-signals only order those direct candidates. The exporter stops after candidate
+signals only order those direct candidates. Multi-hop expansion uses bounded
+breadth-first search and returns only the first shortest path found for each
+topic; `--max-hops` defaults to `3`. The exporter stops after candidate
 retrieval and writes one JSON object per source record with `question`,
 `candidate_triples`, `provenance`, and retrieval metadata.
 
@@ -70,6 +76,7 @@ python3 -m kilt_synmes.pipeline \
   --split test \
   --top-k 5 \
   --max-evidence 15 \
+  --max-hops 3 \
   --limit 1 \
   --graph-dir /path/to/M3GQA/data/graphs \
   --output predictions/synmes/retrieval

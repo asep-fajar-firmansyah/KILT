@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+from collections import deque
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
 
@@ -132,6 +133,60 @@ def select_topk_by_entity(
     return selected
 
 
+def shortest_path_triples(
+    triples: Sequence[Triple],
+    start: str,
+    targets: set[str],
+    max_hops: int,
+) -> List[Triple]:
+    """Find a shortest undirected graph path from start to any target."""
+    start_lower = start.lower()
+    targets = {target.lower() for target in targets} - {start_lower}
+    if not targets:
+        return []
+
+    adjacency: Dict[str, List[Tuple[str, Triple]]] = {}
+    for triple in triples:
+        head, _, tail = triple
+        adjacency.setdefault(head.lower(), []).append((tail.lower(), triple))
+        adjacency.setdefault(tail.lower(), []).append((head.lower(), triple))
+
+    queue = deque([(start_lower, [])])
+    visited = {start_lower}
+    while queue:
+        node, path = queue.popleft()
+        if len(path) >= max_hops:
+            continue
+        for neighbor, triple in adjacency.get(node, []):
+            next_path = path + [triple]
+            if neighbor in targets:
+                return next_path
+            if neighbor not in visited:
+                visited.add(neighbor)
+                queue.append((neighbor, next_path))
+    return []
+
+
+def select_multihop_paths(
+    triples: Sequence[Triple],
+    topic_entities: Sequence[str],
+    answer_terms_set: set[str],
+    max_hops: int,
+) -> List[Tuple[str, Triple]]:
+    """Retrieve shortest bounded paths from each topic to related anchors."""
+    topics = [str(topic) for topic in topic_entities]
+    paths = []
+    seen_paths = set()
+    for topic in topics:
+        targets = set(topics) | answer_terms_set
+        path = shortest_path_triples(triples, topic, targets, max_hops)
+        path_key = tuple(path)
+        if path and path_key not in seen_paths:
+            seen_paths.add(path_key)
+            paths.extend((topic, triple) for triple in path)
+    return paths
+
+
 def triple_to_text(triple: Triple) -> str:
     head, relation, tail = triple
     relation_text = relation.replace("_", " ").replace(".", " ")
@@ -143,6 +198,7 @@ def build_retrieval_record(
     top_k: int,
     max_evidence: int,
     full_graph: Sequence[Triple] | None = None,
+    max_hops: int = 3,
 ) -> dict:
     """Build the candidate-triple retrieval result without summarization."""
     graph_id = str(record["graph_id"])
@@ -150,13 +206,16 @@ def build_retrieval_record(
     path_triples = reasoning_path_triples(record)
     triples = combine_candidates(full_graph or original_triples, original_triples, path_triples)
     topics = [str(entity) for entity in record.get("topic_entities", [])]
+    answer_terms_set = answer_terms(record)
     selected = select_topk_by_entity(
         triples,
         topics,
-        answer_terms(record),
+        answer_terms_set,
         top_k,
         preferred_triples=set(original_triples),
     )
+    multihop_paths = select_multihop_paths(triples, topics, answer_terms_set, max_hops)
+    triple_indices = {triple: index for index, triple in enumerate(triples)}
 
     evidence = []
     seen_triples = set()
@@ -182,6 +241,26 @@ def build_retrieval_record(
         if len(evidence) >= max_evidence:
             break
 
+    for topic, triple in multihop_paths:
+        if len(evidence) >= max_evidence:
+            break
+        if triple in seen_triples:
+            continue
+        seen_triples.add(triple)
+        triple_index = triple_indices[triple]
+        evidence.append(
+            {
+                "source_id": f"m3gqa-{graph_id}-edge-{triple_index}",
+                "source_type": "structured_graph",
+                "graph_id": graph_id,
+                "triple_index": triple_index,
+                "title": f"M3GQA graph {graph_id}",
+                "text": triple_to_text(triple),
+                "topic_entity": topic,
+                "triple": list(triple),
+            }
+        )
+
     return {
         "id": f"m3gqa-{graph_id}",
         "question": record["question"],
@@ -194,6 +273,7 @@ def build_retrieval_record(
             "answer_entities": record.get("answer_entities", []),
             "top_k_per_entity": top_k,
             "max_evidence": max_evidence,
+            "max_hops": max_hops,
             "retrieved_from_full_graph": full_graph is not None,
             "candidate_sources": {
                 "source_edges": len(original_triples),
@@ -214,6 +294,7 @@ def export_dataset(
     limit: int | None = None,
     graph_path: Path | None = None,
     graph_dir: Path | None = None,
+    max_hops: int = 3,
 ) -> int:
     split_dir = data_dir / split
     if not split_dir.is_dir():
@@ -248,7 +329,7 @@ def export_dataset(
             for record in records_by_path[path]:
                 graph = graph_index.get(str(record["graph_id"]))
                 json.dump(
-                    build_retrieval_record(record, top_k, max_evidence, graph),
+                    build_retrieval_record(record, top_k, max_evidence, graph, max_hops),
                     handle,
                     ensure_ascii=False,
                 )
@@ -264,6 +345,7 @@ def main() -> None:
     parser.add_argument("--output", required=True, type=Path)
     parser.add_argument("--top-k", type=int, default=5)
     parser.add_argument("--max-evidence", type=int, default=15)
+    parser.add_argument("--max-hops", type=int, default=3)
     parser.add_argument("--source-file", default=None)
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--graph-path", type=Path, default=None)
@@ -274,8 +356,8 @@ def main() -> None:
         help="Directory containing <split>/<graph_id>.json graph files for direct lookup.",
     )
     args = parser.parse_args()
-    if args.top_k < 1 or args.max_evidence < 1 or (args.limit is not None and args.limit < 1):
-        parser.error("--top-k, --max-evidence, and --limit must be positive")
+    if args.top_k < 1 or args.max_evidence < 1 or args.max_hops < 1 or (args.limit is not None and args.limit < 1):
+        parser.error("--top-k, --max-evidence, --max-hops, and --limit must be positive")
     count = export_dataset(
         args.data_dir,
         args.split,
@@ -286,6 +368,7 @@ def main() -> None:
         args.limit,
         args.graph_path or (None if args.graph_dir is not None else args.data_dir / "new_graphs.jsonl"),
         args.graph_dir,
+        args.max_hops,
     )
     print(f"Wrote {count} KILT records to {args.output}")
 
