@@ -1,11 +1,9 @@
-"""Build extractive multi-entity summaries in a KILT-shaped format."""
+"""Retrieve candidate triples for SynMeS multi-entity summarization."""
 
 from __future__ import annotations
 
 import argparse
 import json
-import shlex
-import subprocess
 from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
 
@@ -36,6 +34,33 @@ def load_graphs(path: Path, graph_ids: set[str]) -> Dict[str, List[Triple]]:
     missing = graph_ids - set(graphs)
     if missing:
         raise KeyError(f"Missing graph records for graph_id(s): {sorted(missing)[:5]}")
+    return graphs
+
+
+def load_graphs_from_directory(
+    graph_dir: Path,
+    split: str,
+    graph_ids: set[str],
+) -> Dict[str, List[Triple]]:
+    """Load graph files directly by graph ID without scanning a JSONL file."""
+    split_dir = graph_dir / split
+    graphs: Dict[str, List[Triple]] = {}
+    missing = []
+    for graph_id in graph_ids:
+        path = split_dir / f"{graph_id}.json"
+        if not path.is_file():
+            missing.append(graph_id)
+            continue
+        with path.open("r", encoding="utf-8") as handle:
+            record = json.load(handle)
+        file_graph_id = str(record.get("graph_id", record.get("id", graph_id)))
+        if file_graph_id != graph_id:
+            raise ValueError(f"Graph file {path} contains graph_id {file_graph_id}, expected {graph_id}")
+        graphs[graph_id] = normalize_triples(
+            record.get("subgraph", record.get("graph", record.get("edges", [])))
+        )
+    if missing:
+        raise KeyError(f"Missing graph file(s) for graph_id(s): {sorted(missing)[:5]}")
     return graphs
 
 
@@ -113,37 +138,13 @@ def triple_to_text(triple: Triple) -> str:
     return f"{head} {relation_text.strip()} {tail}."
 
 
-def build_annotation_request(record: dict, evidence: Sequence[dict]) -> dict:
-    return {
-        "question": record["question"],
-        "topic_entities": record.get("topic_entities", []),
-        "candidate_triples": [item["triple"] for item in evidence],
-        "evidence": [item["text"] for item in evidence],
-        "instruction": "Write a concise multi-entity summary grounded only in the candidate triples.",
-    }
-
-
-def run_annotator(command: str, request: dict) -> str:
-    result = subprocess.run(
-        shlex.split(command),
-        input=json.dumps(request, ensure_ascii=False),
-        capture_output=True,
-        check=True,
-        encoding="utf-8",
-    )
-    summary = result.stdout.strip()
-    if not summary:
-        raise ValueError(f"Annotator produced no summary: {command}")
-    return summary
-
-
-def build_record(
+def build_retrieval_record(
     record: dict,
     top_k: int,
     max_evidence: int,
     full_graph: Sequence[Triple] | None = None,
-    annotator_commands: Sequence[str] | None = None,
 ) -> dict:
+    """Build the candidate-triple retrieval result without summarization."""
     graph_id = str(record["graph_id"])
     original_triples = normalize_triples(record.get("edges", []))
     path_triples = reasoning_path_triples(record)
@@ -181,33 +182,11 @@ def build_record(
         if len(evidence) >= max_evidence:
             break
 
-    extractive_summary = " ".join(item["text"] for item in evidence)
-    if not extractive_summary:
-        extractive_summary = "No supporting evidence was selected."
-
-    annotation_request = build_annotation_request(record, evidence)
-    outputs = []
-    for command in annotator_commands or []:
-        outputs.append(
-            {
-                "answer": run_annotator(command, annotation_request),
-                "provenance": evidence,
-                "meta": {"annotator": command},
-            }
-        )
-    if not outputs:
-        outputs.append(
-            {
-                "answer": extractive_summary,
-                "provenance": evidence,
-                "meta": {"annotator": "extractive"},
-            }
-        )
-
     return {
         "id": f"m3gqa-{graph_id}",
-        "input": f"Summarize the relevant facts needed to answer: {record['question']}",
-        "output": outputs,
+        "question": record["question"],
+        "candidate_triples": [item["triple"] for item in evidence],
+        "provenance": evidence,
         "meta": {
             "graph_id": record["graph_id"],
             "topic_entities": topics,
@@ -234,7 +213,7 @@ def export_dataset(
     source_file: str | None = None,
     limit: int | None = None,
     graph_path: Path | None = None,
-    annotator_commands: Sequence[str] | None = None,
+    graph_dir: Path | None = None,
 ) -> int:
     split_dir = data_dir / split
     if not split_dir.is_dir():
@@ -256,8 +235,10 @@ def export_dataset(
         all_records.extend(records)
 
     graph_index = {}
-    if graph_path is not None:
-        graph_ids = {str(record["graph_id"]) for record in all_records}
+    graph_ids = {str(record["graph_id"]) for record in all_records}
+    if graph_dir is not None:
+        graph_index = load_graphs_from_directory(graph_dir, split, graph_ids)
+    elif graph_path is not None:
         graph_index = load_graphs(graph_path, graph_ids)
 
     count = 0
@@ -267,7 +248,7 @@ def export_dataset(
             for record in records_by_path[path]:
                 graph = graph_index.get(str(record["graph_id"]))
                 json.dump(
-                    build_record(record, top_k, max_evidence, graph, annotator_commands),
+                    build_retrieval_record(record, top_k, max_evidence, graph),
                     handle,
                     ensure_ascii=False,
                 )
@@ -287,10 +268,10 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=None)
     parser.add_argument("--graph-path", type=Path, default=None)
     parser.add_argument(
-        "--annotator-command",
-        action="append",
-        default=[],
-        help="Command that reads an annotation request as JSON from stdin and writes one summary to stdout. Repeat for multiple annotators.",
+        "--graph-dir",
+        type=Path,
+        default=None,
+        help="Directory containing <split>/<graph_id>.json graph files for direct lookup.",
     )
     args = parser.parse_args()
     if args.top_k < 1 or args.max_evidence < 1 or (args.limit is not None and args.limit < 1):
@@ -303,8 +284,8 @@ def main() -> None:
         args.max_evidence,
         args.source_file,
         args.limit,
-        args.graph_path or args.data_dir / "new_graphs.jsonl",
-        args.annotator_command,
+        args.graph_path or (None if args.graph_dir is not None else args.data_dir / "new_graphs.jsonl"),
+        args.graph_dir,
     )
     print(f"Wrote {count} KILT records to {args.output}")
 

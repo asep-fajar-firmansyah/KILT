@@ -1,11 +1,17 @@
-import sys
+import json
+import tempfile
 import unittest
+from pathlib import Path
 
-from kilt_synmes.pipeline import build_record, select_topk_by_entity
+from kilt_synmes.pipeline import (
+    build_retrieval_record,
+    load_graphs_from_directory,
+    select_topk_by_entity,
+)
 
 
 class TestSynMESPipeline(unittest.TestCase):
-    def test_build_record_selects_top_k_per_entity_and_deduplicates(self):
+    def test_retrieval_selects_top_k_per_entity_and_deduplicates(self):
         record = {
             "graph_id": 7,
             "question": "Which city connects the entities?",
@@ -25,16 +31,15 @@ class TestSynMESPipeline(unittest.TestCase):
             ("Entity B", "related_to", "City X"),
             ("Entity B", "located_in", "City Y"),
         ]
-        output = build_record(record, top_k=2, max_evidence=10, full_graph=full_graph)
+        output = build_retrieval_record(record, top_k=2, max_evidence=10, full_graph=full_graph)
 
         self.assertEqual(output["id"], "m3gqa-7")
-        self.assertEqual(len(output["output"]), 1)
-        self.assertEqual(len(output["output"][0]["provenance"]), 4)
-        self.assertEqual(output["output"][0]["provenance"][0]["source_type"], "structured_graph")
+        self.assertEqual(len(output["provenance"]), 4)
+        self.assertEqual(output["provenance"][0]["source_type"], "structured_graph")
         self.assertEqual(output["meta"]["top_k_per_entity"], 2)
         self.assertTrue(output["meta"]["retrieved_from_full_graph"])
 
-    def test_build_record_uses_reasoning_path_candidates(self):
+    def test_retrieval_uses_reasoning_path_candidates(self):
         record = {
             "graph_id": 8,
             "question": "How are the entities connected?",
@@ -43,33 +48,45 @@ class TestSynMESPipeline(unittest.TestCase):
             "reasoning_path": [["Entity A", "connected_to", "Entity B"]],
         }
 
-        output = build_record(record, top_k=1, max_evidence=1)
+        output = build_retrieval_record(record, top_k=1, max_evidence=1)
 
         self.assertEqual(
-            output["output"][0]["provenance"][0]["triple"],
+            output["provenance"][0]["triple"],
             ["Entity A", "connected_to", "Entity B"],
         )
         self.assertEqual(output["meta"]["candidate_sources"]["reasoning_path"], 1)
 
-    def test_build_record_runs_each_annotator(self):
+    def test_build_retrieval_record_stops_before_annotation(self):
         record = {
-            "graph_id": 9,
-            "question": "Summarize the relation.",
+            "graph_id": 10,
+            "question": "Which entity is connected?",
             "topic_entities": ["Entity A"],
             "edges": [["Entity A", "related_to", "Entity B"]],
         }
-        command = f'{sys.executable} -c "import sys; sys.stdin.read(); print(\'Annotated summary.\')"'
 
-        output = build_record(
-            record,
-            top_k=1,
-            max_evidence=1,
-            annotator_commands=[command, command],
-        )
+        output = build_retrieval_record(record, top_k=1, max_evidence=1)
 
-        self.assertEqual(len(output["output"]), 2)
-        self.assertEqual([item["answer"] for item in output["output"]], ["Annotated summary."] * 2)
-        self.assertEqual(len(output["output"][0]["provenance"]), 1)
+        self.assertEqual(output["candidate_triples"], [["Entity A", "related_to", "Entity B"]])
+        self.assertNotIn("output", output)
+        self.assertNotIn("input", output)
+
+    def test_load_graphs_from_directory_uses_graph_id_filename(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            graph_path = Path(temp_dir) / "test" / "38.json"
+            graph_path.parent.mkdir()
+            graph_path.write_text(
+                json.dumps(
+                    {
+                        "graph_id": 38,
+                        "subgraph": [["Entity A", "related_to", "Entity B"]],
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            graphs = load_graphs_from_directory(Path(temp_dir), "test", {"38"})
+
+        self.assertEqual(graphs, {"38": [("Entity A", "related_to", "Entity B")]})
 
     def test_select_topk_preserves_topic_entity_occurrences(self):
         selected = select_topk_by_entity(
