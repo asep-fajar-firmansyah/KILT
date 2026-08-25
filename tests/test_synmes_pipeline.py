@@ -195,6 +195,7 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertIn("Entity A", document)
         self.assertIn("linked_to", document)
         self.assertIn("pointerdown", document)
+        self.assertIn('class="cluster"', document)
 
     def test_build_retrieval_record_stops_before_annotation(self):
         record = {
