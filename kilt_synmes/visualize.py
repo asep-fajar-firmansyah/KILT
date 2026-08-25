@@ -29,10 +29,11 @@ def render_html(record: dict) -> str:
     for index, entity in enumerate(entities):
         angle = 2 * math.pi * index / max(len(entities), 1) - math.pi / 2
         positions[entity] = (450 + 320 * math.cos(angle), 375 + 260 * math.sin(angle))
+    node_ids = {entity: f"node-{index}" for index, entity in enumerate(entities)}
 
     marker = '<defs><marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/></marker></defs>'
     edge_svg = []
-    for head, relation, tail in triples:
+    for index, (head, relation, tail) in enumerate(triples):
         start_x, start_y = positions[head]
         end_x, end_y = positions[tail]
         direction_x, direction_y = end_x - start_x, end_y - start_y
@@ -42,8 +43,9 @@ def render_html(record: dict) -> str:
         line_end_x, line_end_y = end_x - offset_x, end_y - offset_y
         label_x, label_y = (start_x + end_x) / 2, (start_y + end_y) / 2 - 8
         edge_svg.append(
+            f'<g class="edge" data-head="{node_ids[head]}" data-tail="{node_ids[tail]}">'
             f'<line x1="{line_start_x:.1f}" y1="{line_start_y:.1f}" x2="{line_end_x:.1f}" y2="{line_end_y:.1f}" marker-end="url(#arrow)"/>'
-            f'<text class="edge-label" x="{label_x:.1f}" y="{label_y:.1f}">{html.escape(abbreviated_relation(relation))}</text>'
+            f'<text class="edge-label" x="{label_x:.1f}" y="{label_y:.1f}">{html.escape(abbreviated_relation(relation))}</text></g>'
         )
 
     node_svg = []
@@ -51,7 +53,7 @@ def render_html(record: dict) -> str:
         node_class = "topic" if entity in topics else "candidate"
         label = html.escape(entity)
         node_svg.append(
-            f'<g class="node {node_class}" transform="translate({x:.1f},{y:.1f})">'
+            f'<g id="{node_ids[entity]}" class="node {node_class}" transform="translate({x:.1f},{y:.1f})">'
             '<ellipse rx="62" ry="34"/>'
             f'<text>{label}</text></g>'
         )
@@ -76,6 +78,8 @@ h1 {{ font-size: 24px; margin: 0 0 8px; }}
 .graph {{ width: 100%; height: auto; background: #ffffff; border: 1px solid #cbd5e1; }}
 line {{ stroke: #64748b; stroke-width: 1.5; }}
 .edge-label {{ fill: #334155; font: 12px sans-serif; text-anchor: middle; paint-order: stroke; stroke: #ffffff; stroke-width: 4px; stroke-linejoin: round; }}
+.node {{ cursor: grab; }}
+.node.dragging {{ cursor: grabbing; }}
 .node ellipse {{ stroke-width: 2; }}
 .node text {{ font: 12px sans-serif; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }}
 .topic ellipse {{ fill: #bfdbfe; stroke: #1d4ed8; }}
@@ -92,10 +96,71 @@ th {{ background: #e2e8f0; }}
 <h1>Candidate Triple Retrieval: {graph_id}</h1>
 <p class="question">{question}</p>
 <svg class="graph" viewBox="0 0 900 750" role="img" aria-label="Candidate triple knowledge graph">{marker}{''.join(edge_svg)}{''.join(node_svg)}</svg>
-<div class="legend"><span><span class="swatch" style="background:#bfdbfe"></span>Topic entity</span><span><span class="swatch" style="background:#f1f5f9"></span>Retrieved entity</span></div>
+<div class="legend"><span><span class="swatch" style="background:#bfdbfe"></span>Topic entity</span><span><span class="swatch" style="background:#f1f5f9"></span>Retrieved entity</span><span>Drag any node to rearrange the graph.</span></div>
 <h2>Retrieved Triples ({len(triples)})</h2>
 <table><thead><tr><th>Head</th><th>Relation</th><th>Tail</th></tr></thead><tbody>{rows}</tbody></table>
 </main>
+<script>
+const graph = document.querySelector('.graph');
+let activeNode = null;
+
+function positionOf(node) {{
+    const match = node.getAttribute('transform').match(/translate\\(([-\\d.]+),([-.\\d]+)\\)/);
+    return {{ x: Number(match[1]), y: Number(match[2]) }};
+}}
+
+function updateEdges() {{
+    document.querySelectorAll('.edge').forEach((edge) => {{
+        const head = positionOf(document.getElementById(edge.dataset.head));
+        const tail = positionOf(document.getElementById(edge.dataset.tail));
+        const dx = tail.x - head.x;
+        const dy = tail.y - head.y;
+        const distance = Math.max(Math.hypot(dx, dy), 1);
+        const offsetX = dx / distance * 62;
+        const offsetY = dy / distance * 34;
+        const line = edge.querySelector('line');
+        const label = edge.querySelector('text');
+        line.setAttribute('x1', head.x + offsetX);
+        line.setAttribute('y1', head.y + offsetY);
+        line.setAttribute('x2', tail.x - offsetX);
+        line.setAttribute('y2', tail.y - offsetY);
+        label.setAttribute('x', (head.x + tail.x) / 2);
+        label.setAttribute('y', (head.y + tail.y) / 2 - 8);
+    }});
+}}
+
+function svgPoint(event) {{
+    const point = graph.createSVGPoint();
+    point.x = event.clientX;
+    point.y = event.clientY;
+    return point.matrixTransform(graph.getScreenCTM().inverse());
+}}
+
+graph.addEventListener('pointerdown', (event) => {{
+    const node = event.target.closest('.node');
+    if (!node) return;
+    activeNode = node;
+    activeNode.classList.add('dragging');
+    graph.setPointerCapture(event.pointerId);
+}});
+
+graph.addEventListener('pointermove', (event) => {{
+    if (!activeNode) return;
+    const point = svgPoint(event);
+    activeNode.setAttribute('transform', `translate(${{point.x.toFixed(1)}},${{point.y.toFixed(1)}})`);
+    updateEdges();
+}});
+
+function endDrag(event) {{
+    if (!activeNode) return;
+    activeNode.classList.remove('dragging');
+    if (graph.hasPointerCapture(event.pointerId)) graph.releasePointerCapture(event.pointerId);
+    activeNode = null;
+}}
+
+graph.addEventListener('pointerup', endDrag);
+graph.addEventListener('pointercancel', endDrag);
+</script>
 </body>
 </html>"""
 
