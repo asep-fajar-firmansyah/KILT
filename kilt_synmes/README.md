@@ -16,12 +16,11 @@ the total candidate budget is $n \times \text{max-evidence}$. Since the source
 is a structured graph rather than Wikipedia, provenance uses `source_id`,
 `source_type`, and `triple_index` instead of `wikipedia_id`.
 
-Each reasoning-path or source triple is mapped to topic entities matching its
-head or tail and emitted as that topic's initial evidence. These initial triples
-consume their topic's evidence budget; remaining capacity is filled from the
-full graph. A reasoning triple without a topic endpoint is retained as shared
-evidence; an unmatched source edge remains in the graph candidate pool and is
-included only when retrieval selects it.
+Initial reasoning and source triples are assigned to one topic entity using the
+following lexicographic score: direct topic touch, answer-entity hit,
+relation-question token overlap, and negative BFS distance from the topic to
+the triple. Each topic retains its top `--max-evidence` initial triples; graph
+retrieval fills any remaining capacity for that topic.
 
 ## Candidate triple retrieval
 
@@ -31,11 +30,12 @@ flowchart TD
   split --> reasoning[Original reasoning path]
   graphLookup --> candidates[Candidate triples\nKG, source edges, reasoning path]
   reasoning --> candidates
-  split --> queryTerms[Extract question terms]
+  split --> queryTerms[Extract question and answer terms]
 
   reasoning --> seeds[Reasoning-path entities]
   split --> seeds
-  candidates --> direct[For each seed, retain direct triples]
+  candidates --> initial[Assign initial triples by\ntouch, answer hit, overlap, BFS distance]
+  initial --> direct[For each seed, retain direct triples]
   seeds --> direct
   queryTerms --> rank[Rank direct triples\nsource preference, shorter relation,\noriginal order]
   direct --> rank
@@ -54,8 +54,10 @@ the `--max-evidence` budget for each retrieval seed. Multi-hop expansion uses
 bounded breadth-first search to fill unused seed capacity with shortest paths
 that connect another seed or reach question-matching graph context. A path is
 retained only when it contains a seed connection or a triple with lexical
-overlap with the question; `--max-hops` defaults to `3`. The exporter does not
-use `answer` or `answer_entities` for retrieval, avoiding target leakage.
+overlap with the question; `--max-hops` defaults to `3`. Initial triple
+assignment uses `answer` and `answer_entities` as an answer-hit signal, as
+specified by the BFS assignment algorithm. It is therefore appropriate for
+dataset construction or oracle analysis, rather than answer-blind evaluation.
 
 The default ranking weights are heuristic and can be tuned on development data:
 `--question-match-weight 4`, `--source-priority-weight 1`,

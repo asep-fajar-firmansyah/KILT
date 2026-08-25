@@ -145,6 +145,78 @@ def reasoning_path_triples(record: dict) -> List[Triple]:
     return triples
 
 
+def answer_entities(record: dict) -> set[str]:
+    values = record.get("answer_entities", [])
+    if not isinstance(values, list):
+        values = [values]
+    answer = record.get("answer")
+    if isinstance(answer, list):
+        values.extend(answer)
+    elif answer is not None:
+        values.append(answer)
+    return {str(value).lower() for value in values if value is not None}
+
+
+def bfs_distances(triples: Sequence[Triple], start: str) -> Dict[str, int]:
+    """Return undirected shortest-path distances from one topic entity."""
+    adjacency: Dict[str, List[str]] = {}
+    for head, _, tail in triples:
+        adjacency.setdefault(head.lower(), []).append(tail.lower())
+        adjacency.setdefault(tail.lower(), []).append(head.lower())
+    distances = {start.lower(): 0}
+    queue = deque([start.lower()])
+    while queue:
+        entity = queue.popleft()
+        for neighbor in adjacency.get(entity, []):
+            if neighbor not in distances:
+                distances[neighbor] = distances[entity] + 1
+                queue.append(neighbor)
+    return distances
+
+
+def assign_initial_triples(
+    triples: Sequence[Triple],
+    topic_entities: Sequence[str],
+    question: str,
+    answer_entity_set: set[str],
+    max_evidence: int | None,
+) -> List[Tuple[Triple, str, Tuple[int, int, int, float]]]:
+    """Assign top initial triples to topics by touch, answer hit, overlap, and BFS distance."""
+    topics = [str(topic) for topic in topic_entities]
+    distances = {topic: bfs_distances(triples, topic) for topic in topics}
+    question_terms = text_terms(question)
+    assigned = {topic: [] for topic in topics}
+
+    for index, triple in enumerate(triples):
+        head, relation, tail = triple
+        endpoints = {head.lower(), tail.lower()}
+        best_topic = None
+        best_score = None
+        for topic in topics:
+            distance = min(
+                distances[topic].get(head.lower(), float("inf")),
+                distances[topic].get(tail.lower(), float("inf")),
+            )
+            score = (
+                int(topic.lower() in endpoints),
+                int(bool(endpoints & answer_entity_set)),
+                len(text_terms(relation) & question_terms),
+                -distance,
+            )
+            if best_score is None or score > best_score:
+                best_topic = topic
+                best_score = score
+        if best_topic is not None:
+            assigned[best_topic].append((best_score, index, triple))
+
+    result = []
+    for topic in topics:
+        assigned[topic].sort(key=lambda item: (item[0], -item[1]), reverse=True)
+        for score, _, triple in assigned[topic][:max_evidence]:
+            result.append((triple, topic, score))
+    return result
+
+
 def map_triples_to_topics(
     triples: Sequence[Triple],
     topic_entities: Sequence[str],
@@ -277,13 +349,23 @@ def build_retrieval_record(
     path_triples = reasoning_path_triples(record)
     triples = combine_candidates(full_graph or original_triples, original_triples, path_triples)
     topics = [str(entity) for entity in record.get("topic_entities", [])]
-    mapped_path_triples = map_triples_to_topics(path_triples, topics)
-    mapped_source_triples = map_triples_to_topics(original_triples, topics)
-    path_entities = [entity for triple in path_triples for entity in (triple[0], triple[2])]
+    initial_triples = combine_candidates(path_triples, original_triples)
+    assigned_initial = assign_initial_triples(
+        initial_triples,
+        topics,
+        record["question"],
+        answer_entities(record),
+        max_evidence,
+    )
+    path_entities = [
+        entity
+        for triple, owner, _ in assigned_initial
+        if triple in path_triples
+        for entity in (triple[0], triple[2])
+    ]
     expansion_pairs = [(topic, topic) for topic in topics]
-    for triple, owners in mapped_path_triples:
-        for owner in owners:
-            expansion_pairs.extend((entity, owner) for entity in (triple[0], triple[2]))
+    for triple, owner, _ in assigned_initial:
+        expansion_pairs.extend((entity, owner) for entity in (triple[0], triple[2]))
     expansion_pairs = list(dict.fromkeys(expansion_pairs))
     seed_entities = list(dict.fromkeys(seed for seed, _ in expansion_pairs))
     seed_owners = {seed: owner for seed, owner in expansion_pairs}
@@ -344,12 +426,8 @@ def build_retrieval_record(
         )
         return True
 
-    for triple, owners in mapped_path_triples:
-        add_evidence(owners[0] if owners else "reasoning_path", triple, mandatory=True, initial_topics=owners)
-
-    for triple, owners in mapped_source_triples:
-        if owners:
-            add_evidence(owners[0], triple, mandatory=True, initial_topics=owners)
+    for triple, owner, score in assigned_initial:
+        add_evidence(owner, triple, mandatory=True, initial_topics=[owner])
 
     for topic, topic_triples in selected:
         for _, triple in topic_triples:
@@ -372,13 +450,9 @@ def build_retrieval_record(
             "graph_id": record["graph_id"],
             "topic_entities": topics,
             "reasoning_path_entities": path_entities,
-            "reasoning_path_initial_triples": [
-                {"triple": list(triple), "topic_entities": owners}
-                for triple, owners in mapped_path_triples
-            ],
-            "source_initial_triples": [
-                {"triple": list(triple), "topic_entities": owners}
-                for triple, owners in mapped_source_triples
+            "initial_topic_triples": [
+                {"triple": list(triple), "topic_entity": owner, "score": list(score)}
+                for triple, owner, score in assigned_initial
             ],
             "question_terms": sorted(question_terms),
             "ranking_weights": ranking_weights,
@@ -387,9 +461,7 @@ def build_retrieval_record(
                 None if max_evidence is None else max_evidence * len(topics)
             ),
             "initial_evidence_by_topic": initial_by_topic,
-            "source_evidence_count": len(
-                set(path_triples) | {triple for triple, owners in mapped_source_triples if owners}
-            ),
+            "source_evidence_count": len(assigned_initial),
             "retrieved_evidence_count": retrieved_count,
             "retrieved_evidence_by_seed": retrieved_by_seed,
             "max_hops": max_hops,

@@ -5,6 +5,7 @@ from pathlib import Path
 
 from kilt_synmes.pipeline import (
     build_retrieval_record,
+    assign_initial_triples,
     load_graphs_from_directory,
     map_reasoning_triples_to_topics,
     map_triples_to_topics,
@@ -75,6 +76,26 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertEqual(mapped[0][1], ["Entity A"])
         self.assertEqual(mapped[1][1], ["Entity B"])
         self.assertEqual(mapped[2][1], [])
+
+    def test_assigns_initial_triples_by_bfs_distance_and_relevance(self):
+        triples = [
+            ("Entity A", "question_relation", "Bridge"),
+            ("Bridge", "related_to", "Entity B"),
+            ("Entity B", "answer_relation", "Answer"),
+        ]
+
+        assigned = assign_initial_triples(
+            triples,
+            ["Entity A", "Entity B"],
+            "Which question relation identifies the answer?",
+            {"answer"},
+            max_evidence=1,
+        )
+
+        self.assertEqual([(triple, topic) for triple, topic, _ in assigned], [
+            (("Entity A", "question_relation", "Bridge"), "Entity A"),
+            (("Entity B", "answer_relation", "Answer"), "Entity B"),
+        ])
 
     def test_maps_source_triples_to_matching_topic_entities(self):
         mapped = map_triples_to_topics(
