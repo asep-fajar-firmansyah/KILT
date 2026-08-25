@@ -83,6 +83,25 @@ class TestSynMESPipeline(unittest.TestCase):
         )
         self.assertEqual(output["meta"]["source_evidence_count"], 2)
 
+    def test_retrieval_budget_scales_with_topic_entity_count(self):
+        record = {
+            "graph_id": 16,
+            "question": "Find topic facts.",
+            "topic_entities": ["Entity A", "Entity B"],
+            "edges": [],
+        }
+        full_graph = [
+            ("Entity A", "related_to", "Entity C"),
+            ("Entity A", "related_to", "Entity D"),
+            ("Entity B", "related_to", "Entity E"),
+        ]
+
+        output = build_retrieval_record(record, top_k=None, max_evidence=1, full_graph=full_graph)
+
+        self.assertEqual(output["meta"]["max_evidence_per_topic"], 1)
+        self.assertEqual(output["meta"]["max_retrieved_evidence"], 2)
+        self.assertEqual(output["meta"]["retrieved_evidence_count"], 2)
+
     def test_retrieval_expands_direct_edges_from_reasoning_path_entities(self):
         record = {
             "graph_id": 12,
@@ -121,7 +140,8 @@ class TestSynMESPipeline(unittest.TestCase):
 
         self.assertEqual(len(output["candidate_triples"]), 3)
         self.assertIsNone(output["meta"]["top_k_per_entity"])
-        self.assertIsNone(output["meta"]["max_evidence"])
+        self.assertIsNone(output["meta"]["max_evidence_per_topic"])
+        self.assertIsNone(output["meta"]["max_retrieved_evidence"])
 
     def test_positive_int_or_unlimited(self):
         self.assertEqual(positive_int_or_unlimited("3"), 3)

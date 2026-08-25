@@ -11,10 +11,11 @@ by shortest paths of up to `--max-hops` edges that connect those seed entities
 and overlap the question context. Candidate triples are drawn from the source
 record, its optional `reasoning_path` or `original_reasoning_path`, and the
 matching full KG. Duplicate edges are removed and `--max-evidence` limits only
-additional retrieved triples; it never removes provided source or reasoning-path
-evidence. Since the source is a structured graph rather than Wikipedia,
-provenance uses `source_id`, `source_type`, and `triple_index` instead of
-`wikipedia_id`.
+additional retrieved triples per topic entity; it never removes provided source
+or reasoning-path evidence. With $n$ topic entities, the total retrieval budget
+is $n \times \text{max-evidence}$. Since the source is a structured graph
+rather than Wikipedia, provenance uses `source_id`, `source_type`, and
+`triple_index` instead of `wikipedia_id`.
 
 ## Candidate triple retrieval
 
@@ -36,7 +37,7 @@ flowchart TD
   candidates --> paths[Question-relevant shortest paths\nbetween seed entities]
   paths --> dedupe[De-duplicate triples across direct and path retrieval]
   topK --> dedupe
-  dedupe --> cap[Cap added retrieval\nat max-evidence]
+  dedupe --> cap[Cap added retrieval\nat topics x max-evidence]
   cap --> retrieval[Candidate-triple retrieval record\ntriples, provenance, metadata]
 ```
 
@@ -49,8 +50,9 @@ or `answer_entities` for retrieval, avoiding target leakage.
 
 Use `unlimited` for `--top-k` or `--max-evidence` to remove that limit. This is
 useful for inspection, but can create large and noisy retrieval records. The
-evidence limit applies only to added direct and multi-hop triples; source and
-reasoning-path triples are always preserved.
+total added-evidence budget is `number_of_topic_entities * max-evidence` and
+applies only to direct and multi-hop triples; source and reasoning-path triples
+are always preserved.
 
 ## Input contract
 
@@ -76,7 +78,8 @@ retrieval additions.
 
 Each record contains `id`, `question`, `candidate_triples`, structured-graph
 `provenance`, and `meta`. The record-level metadata reports the available
-source counts plus `source_evidence_count` and `retrieved_evidence_count`.
+source counts plus `source_evidence_count`, `retrieved_evidence_count`,
+`max_evidence_per_topic`, and `max_retrieved_evidence`.
 
 From the KILT repository root:
 

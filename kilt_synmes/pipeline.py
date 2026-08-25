@@ -229,6 +229,7 @@ def build_retrieval_record(
     path_triples = reasoning_path_triples(record)
     triples = combine_candidates(full_graph or original_triples, original_triples, path_triples)
     topics = [str(entity) for entity in record.get("topic_entities", [])]
+    retrieval_budget = None if max_evidence is None else max_evidence * len(topics)
     path_entities = [entity for triple in path_triples for entity in (triple[0], triple[2])]
     seed_entities = list(dict.fromkeys(topics + path_entities))
     question_terms = text_terms(record["question"])
@@ -250,7 +251,7 @@ def build_retrieval_record(
         nonlocal retrieved_count
         if triple in seen_triples:
             return False
-        if not mandatory and max_evidence is not None and retrieved_count >= max_evidence:
+        if not mandatory and retrieval_budget is not None and retrieved_count >= retrieval_budget:
             return False
         seen_triples.add(triple)
         if not mandatory:
@@ -283,9 +284,9 @@ def build_retrieval_record(
                 direct_count += 1
             if top_k is not None and direct_count >= top_k:
                 break
-            if max_evidence is not None and retrieved_count >= max_evidence:
+            if retrieval_budget is not None and retrieved_count >= retrieval_budget:
                 break
-        if max_evidence is not None and retrieved_count >= max_evidence:
+        if retrieval_budget is not None and retrieved_count >= retrieval_budget:
             break
 
     for topic, triple in multihop_paths:
@@ -302,7 +303,8 @@ def build_retrieval_record(
             "reasoning_path_entities": path_entities,
             "question_terms": sorted(question_terms),
             "top_k_per_entity": top_k,
-            "max_evidence": max_evidence,
+            "max_evidence_per_topic": max_evidence,
+            "max_retrieved_evidence": retrieval_budget,
             "source_evidence_count": len(set(path_triples) | set(original_triples)),
             "retrieved_evidence_count": retrieved_count,
             "max_hops": max_hops,
