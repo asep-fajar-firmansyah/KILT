@@ -7,6 +7,7 @@ from kilt_synmes.pipeline import (
     build_retrieval_record,
     load_graphs_from_directory,
     map_reasoning_triples_to_topics,
+    map_triples_to_topics,
     positive_int_or_unlimited,
     select_topk_by_entity,
     triple_rank_score,
@@ -75,7 +76,16 @@ class TestSynMESPipeline(unittest.TestCase):
         self.assertEqual(mapped[1][1], ["Entity B"])
         self.assertEqual(mapped[2][1], [])
 
-    def test_retrieval_preserves_all_source_edges_before_evidence_cap(self):
+    def test_maps_source_triples_to_matching_topic_entities(self):
+        mapped = map_triples_to_topics(
+            [("Entity A", "related_to", "Bridge"), ("Other", "related_to", "Node")],
+            ["Entity A"],
+        )
+
+        self.assertEqual(mapped[0][1], ["Entity A"])
+        self.assertEqual(mapped[1][1], [])
+
+    def test_topic_owned_source_edges_consume_their_evidence_budget(self):
         record = {
             "graph_id": 15,
             "question": "Which Entity A fact matters?",
@@ -94,10 +104,12 @@ class TestSynMESPipeline(unittest.TestCase):
         output = build_retrieval_record(record, max_evidence=1, full_graph=full_graph)
 
         self.assertEqual(
-            output["candidate_triples"][:2],
-            [["Entity A", "related_to", "Entity B"], ["Entity B", "located_in", "Entity C"]],
+            output["candidate_triples"],
+            [["Entity A", "related_to", "Entity B"]],
         )
-        self.assertEqual(output["meta"]["source_evidence_count"], 2)
+        self.assertEqual(output["meta"]["source_evidence_count"], 1)
+        self.assertEqual(output["meta"]["initial_evidence_by_topic"]["Entity A"], 1)
+        self.assertEqual(output["meta"]["retrieved_evidence_count"], 0)
 
     def test_retrieval_budget_scales_with_topic_entity_count(self):
         record = {
@@ -143,11 +155,11 @@ class TestSynMESPipeline(unittest.TestCase):
             "question": "Which extension is relevant?",
             "topic_entities": ["Entity A"],
             "edges": [],
-            "reasoning_path": [["Entity B", "leads_to", "Entity C"]],
+            "reasoning_path": [["Entity A", "leads_to", "Entity C"]],
         }
         full_graph = [
             ("Entity A", "related_to", "Entity X"),
-            ("Entity B", "leads_to", "Entity C"),
+            ("Entity A", "leads_to", "Entity C"),
             ("Entity C", "has_extension", "Entity D"),
         ]
 

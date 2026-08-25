@@ -145,11 +145,11 @@ def reasoning_path_triples(record: dict) -> List[Triple]:
     return triples
 
 
-def map_reasoning_triples_to_topics(
+def map_triples_to_topics(
     triples: Sequence[Triple],
     topic_entities: Sequence[str],
 ) -> List[Tuple[Triple, List[str]]]:
-    """Map each reasoning triple to topic entities occurring at either endpoint."""
+    """Map triples to topic entities occurring at either endpoint."""
     topics = [str(topic) for topic in topic_entities]
     mapped = []
     for triple in triples:
@@ -157,6 +157,14 @@ def map_reasoning_triples_to_topics(
         owners = [topic for topic in topics if topic.lower() in endpoints]
         mapped.append((triple, owners))
     return mapped
+
+
+def map_reasoning_triples_to_topics(
+    triples: Sequence[Triple],
+    topic_entities: Sequence[str],
+) -> List[Tuple[Triple, List[str]]]:
+    """Backward-compatible reasoning-path mapping helper."""
+    return map_triples_to_topics(triples, topic_entities)
 
 
 def combine_candidates(*triple_sets: Sequence[Triple]) -> List[Triple]:
@@ -269,26 +277,37 @@ def build_retrieval_record(
     path_triples = reasoning_path_triples(record)
     triples = combine_candidates(full_graph or original_triples, original_triples, path_triples)
     topics = [str(entity) for entity in record.get("topic_entities", [])]
-    mapped_path_triples = map_reasoning_triples_to_topics(path_triples, topics)
+    mapped_path_triples = map_triples_to_topics(path_triples, topics)
+    mapped_source_triples = map_triples_to_topics(original_triples, topics)
     path_entities = [entity for triple in path_triples for entity in (triple[0], triple[2])]
-    seed_entities = list(dict.fromkeys(topics + path_entities))
+    expansion_pairs = [(topic, topic) for topic in topics]
+    for triple, owners in mapped_path_triples:
+        for owner in owners:
+            expansion_pairs.extend((entity, owner) for entity in (triple[0], triple[2]))
+    expansion_pairs = list(dict.fromkeys(expansion_pairs))
+    seed_entities = list(dict.fromkeys(seed for seed, _ in expansion_pairs))
+    seed_owners = {seed: owner for seed, owner in expansion_pairs}
     question_terms = text_terms(record["question"])
     ranking_weights = ranking_weights or DEFAULT_RANKING_WEIGHTS
-    selected = select_topk_by_entity(
-        triples,
-        seed_entities,
-        question_terms,
-        len(triples),
-        preferred_triples=set(original_triples) | set(path_triples),
-        ranking_weights=ranking_weights,
-    )
+    selected = []
+    for seed, owner in expansion_pairs:
+        ranked = select_topk_by_entity(
+            triples,
+            [seed],
+            question_terms,
+            len(triples),
+            preferred_triples=set(original_triples) | set(path_triples),
+            ranking_weights=ranking_weights,
+        )
+        selected.append((owner, ranked[0][1]))
     multihop_paths = select_multihop_paths(triples, seed_entities, question_terms, max_hops)
     triple_indices = {triple: index for index, triple in enumerate(triples)}
 
     evidence = []
     seen_triples = set()
     retrieved_count = 0
-    retrieved_by_seed = {seed: 0 for seed in seed_entities}
+    initial_by_topic = {topic: 0 for topic in topics}
+    retrieved_by_seed = {topic: 0 for topic in topics}
 
     def add_evidence(
         topic: str,
@@ -299,10 +318,14 @@ def build_retrieval_record(
         nonlocal retrieved_count
         if triple in seen_triples:
             return False
-        if not mandatory and max_evidence is not None and retrieved_by_seed[topic] >= max_evidence:
+        owners = [owner for owner in initial_topics or [topic] if owner in initial_by_topic]
+        if not mandatory and max_evidence is not None and retrieved_by_seed[topic] + initial_by_topic[topic] >= max_evidence:
             return False
         seen_triples.add(triple)
-        if not mandatory:
+        if mandatory:
+            for owner in owners:
+                initial_by_topic[owner] += 1
+        else:
             retrieved_count += 1
             retrieved_by_seed[topic] += 1
         triple_index = triple_indices[triple]
@@ -324,8 +347,9 @@ def build_retrieval_record(
     for triple, owners in mapped_path_triples:
         add_evidence(owners[0] if owners else "reasoning_path", triple, mandatory=True, initial_topics=owners)
 
-    for triple in original_triples:
-        add_evidence("source_edge", triple, mandatory=True)
+    for triple, owners in mapped_source_triples:
+        if owners:
+            add_evidence(owners[0], triple, mandatory=True, initial_topics=owners)
 
     for topic, topic_triples in selected:
         for _, triple in topic_triples:
@@ -334,7 +358,10 @@ def build_retrieval_record(
                 break
 
     for topic, triple in multihop_paths:
-        add_evidence(topic, triple)
+        owner = seed_owners.get(topic)
+        if owner is None:
+            continue
+        add_evidence(owner, triple)
 
     return {
         "id": f"m3gqa-{graph_id}",
@@ -349,13 +376,20 @@ def build_retrieval_record(
                 {"triple": list(triple), "topic_entities": owners}
                 for triple, owners in mapped_path_triples
             ],
+            "source_initial_triples": [
+                {"triple": list(triple), "topic_entities": owners}
+                for triple, owners in mapped_source_triples
+            ],
             "question_terms": sorted(question_terms),
             "ranking_weights": ranking_weights,
             "max_evidence_per_topic": max_evidence,
             "max_retrieved_evidence": (
-                None if max_evidence is None else max_evidence * len(seed_entities)
+                None if max_evidence is None else max_evidence * len(topics)
             ),
-            "source_evidence_count": len(set(path_triples) | set(original_triples)),
+            "initial_evidence_by_topic": initial_by_topic,
+            "source_evidence_count": len(
+                set(path_triples) | {triple for triple, owners in mapped_source_triples if owners}
+            ),
             "retrieved_evidence_count": retrieved_count,
             "retrieved_evidence_by_seed": retrieved_by_seed,
             "max_hops": max_hops,

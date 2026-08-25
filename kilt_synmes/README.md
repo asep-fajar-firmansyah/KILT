@@ -4,21 +4,24 @@ This package retrieves candidate triples from M3GQA/SynMES split records. It
 reads only the selected split files and does not load `new_graphs.jsonl` into
 memory.
 
-Provided `reasoning_path` and source `edges` triples are retained first. The
-retriever then adds direct edges from topic and reasoning-path entities, followed
+Provided `reasoning_path` and source `edges` triples are mapped to topic entities
+and retained as initial evidence. The retriever then adds direct graph edges,
+followed
 by shortest paths of up to `--max-hops` edges that connect those seed entities
 and overlap the question context. Candidate triples are drawn from the source
 record, its optional `reasoning_path` or `original_reasoning_path`, and the
-matching full KG. Duplicate edges are removed and `--max-evidence` limits only
-additional retrieved triples per topic entity; it never removes provided source
-or reasoning-path evidence. With $n$ topic entities, the total retrieval budget
-is $n \times \text{max-evidence}$. Since the source is a structured graph
-rather than Wikipedia, provenance uses `source_id`, `source_type`, and
-`triple_index` instead of `wikipedia_id`.
+matching full KG. Duplicate edges are removed and `--max-evidence` limits the
+combined initial and retrieved triples per topic entity. With $n$ topic entities,
+the total candidate budget is $n \times \text{max-evidence}$. Since the source
+is a structured graph rather than Wikipedia, provenance uses `source_id`,
+`source_type`, and `triple_index` instead of `wikipedia_id`.
 
-Each reasoning-path triple is mapped to topic entities matching its head or
-tail and emitted as that topic's initial evidence. A reasoning triple that does
-not contain a topic entity is retained as shared initial evidence.
+Each reasoning-path or source triple is mapped to topic entities matching its
+head or tail and emitted as that topic's initial evidence. These initial triples
+consume their topic's evidence budget; remaining capacity is filled from the
+full graph. A reasoning triple without a topic endpoint is retained as shared
+evidence; an unmatched source edge remains in the graph candidate pool and is
+included only when retrieval selects it.
 
 ## Candidate triple retrieval
 
