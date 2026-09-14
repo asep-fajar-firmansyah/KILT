@@ -117,6 +117,51 @@ python3 -m kilt_synmes.pipeline \
   --output predictions/synmes/retrieval-unlimited
 ```
 
+## Annotation stage (LLM in the loop)
+
+`kilt_synmes.annotate` turns candidate-triple retrieval records into multi-entity
+summaries. It follows the [ToT4ES](https://github.com/dice-group/ToT4ES) strategy:
+each annotator runs a task-decomposed Tree-of-Thought beam search where thought
+generation is split into three separate prompts — **relatedness**,
+**informativeness**, and **coverage** — and partial summaries are scored by an
+LLM value function that votes on the same three criteria. Coverage is adapted to
+the multi-entity setting: it rewards triples that describe a topic entity not yet
+represented in the summary.
+
+Running `--annotators 3` produces three independent summaries per record, one per
+LLM annotator, plus `annotator_agreement` (mean pairwise Jaccard over the selected
+triples).
+
+```bash
+python3 -m kilt_synmes.annotate \
+  --input predictions/synmes/retrieval/aggregation_setting.jsonl \
+  --output predictions/synmes/annotation \
+  --annotators 3 \
+  --model ollama:qwen3 \
+  --max-summary-len 5
+```
+
+Backends are selected through `--model` (or `--annotator-model`, repeated once per
+annotator to mix models):
+
+- `heuristic` — no LLM; thoughts and state scores come from the training-free R/I/C
+  scorer. Deterministic, so all annotators agree; useful for tests and dry runs.
+- `ollama:<model>` — local Ollama server, configured with `--ollama-url`.
+- `hf:<model-id>` or a bare Hugging Face model id — `transformers` text generation.
+
+Search hyper-parameters mirror the ToT4ES runner: `--max-summary-len` (search
+depth), `--n-candidates-per-task`, `--n-evals` (evaluation votes),
+`--breadth-limit`, `--prune-keep-multiplier`, `--thought-temperature`, and
+`--eval-temperature`. The value function weights default to
+`--w-relatedness 0.4`, `--w-informativeness 0.4`, `--w-coverage 0.2` and are
+normalized to sum to one. Whenever a backend returns an unparsable index or
+evaluation payload, the heuristic scorer is used as fallback so a run never stalls.
+
+Each output record follows the KILT shape: `id`, `input` (the question), one
+`output` entry per annotator (`answer` summary text, `provenance` of the selected
+triples, and `meta` with the selected indices, value, per-entity coverage, and the
+search trace), plus record-level `meta`.
+
 ## HTML visualization
 
 Render any retrieval record as a self-contained HTML knowledge graph:
