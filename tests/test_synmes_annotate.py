@@ -72,10 +72,30 @@ class TestSynMESAnnotation(unittest.TestCase):
 
         self.assertEqual(len(output["output"]), 3)
         self.assertEqual(output["meta"]["annotators"], ["annotator-1", "annotator-2", "annotator-3"])
+        self.assertEqual(output["meta"]["budget_scope"], "per-entity")
         for summary in output["output"]:
-            self.assertLessEqual(len(summary["meta"]["selected_candidate_indices"]), 3)
+            per_entity = summary["meta"]["triples_per_seed_entity"]
+            self.assertTrue(all(count <= 3 for count in per_entity.values()))
             self.assertEqual(len(summary["provenance"]), len(summary["meta"]["selected_triples"]))
             self.assertTrue(summary["answer"].strip())
+
+    def test_per_entity_budget_caps_each_entity(self):
+        config = ToTConfig(max_summary_len=2, n_candidates_per_task=2, n_evals=1)
+        annotators = build_annotators(1, "heuristic", None, seed=42, ollama_url="http://localhost:11434")
+
+        summary = annotate_record(self.record, annotators, config)["output"][0]
+
+        per_entity = summary["meta"]["triples_per_seed_entity"]
+        self.assertEqual(sorted(per_entity.values()), [2, 2])
+        self.assertEqual(len(summary["meta"]["selected_candidate_indices"]), 4)
+
+    def test_total_budget_scope_caps_whole_summary(self):
+        annotators = build_annotators(1, "heuristic", None, seed=42, ollama_url="http://localhost:11434")
+
+        output = annotate_record(self.record, annotators, self.config, per_entity_budget=False)
+
+        self.assertEqual(output["meta"]["budget_scope"], "total")
+        self.assertEqual(len(output["output"][0]["meta"]["selected_candidate_indices"]), 3)
 
     def test_summary_covers_every_topic_entity(self):
         annotators = build_annotators(1, "heuristic", None, seed=7, ollama_url="http://localhost:11434")
@@ -100,7 +120,7 @@ class TestSynMESAnnotation(unittest.TestCase):
 
         annotators = [{"name": "annotator-1", "model": "garbage", "seed": 0, "backend": GarbageBackend()}]
 
-        summary = annotate_record(self.record, annotators, self.config)["output"][0]
+        summary = annotate_record(self.record, annotators, self.config, per_entity_budget=False)["output"][0]
 
         self.assertEqual(len(summary["meta"]["selected_candidate_indices"]), 3)
 

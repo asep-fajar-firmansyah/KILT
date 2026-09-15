@@ -157,6 +157,18 @@ depth), `--n-candidates-per-task`, `--n-evals` (evaluation votes),
 normalized to sum to one. Whenever a backend returns an unparsable index or
 evaluation payload, the heuristic scorer is used as fallback so a run never stalls.
 
+`--budget-scope` decides what `--max-summary-len` caps:
+
+- `per-entity` (default) — a hard cap of `--max-summary-len` triples for each topic
+  entity, so `5` with three entities yields a balanced summary of up to 15 triples.
+  An entity is dropped from the candidate list once it reaches its quota, so the
+  cap cannot be violated regardless of how the LLM scores a triple.
+- `total` — `--max-summary-len` caps the whole summary; balance across entities is
+  then only encouraged by the soft coverage objective and can come out uneven.
+
+Per-annotator `meta.triples_per_seed_entity` reports the realized distribution; an
+entity can end below its quota when retrieval found fewer candidates for it.
+
 Each output record follows the KILT shape: `id`, `input` (the question), one
 `output` entry per annotator (`answer` summary text, `provenance` of the selected
 triples, and `meta` with the selected indices, value, per-entity coverage, and the

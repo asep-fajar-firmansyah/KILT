@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import json
+from collections import Counter
 from pathlib import Path
 from typing import Dict, List, Sequence, Tuple
 
@@ -30,9 +31,21 @@ from kilt_synmes.tot import (
 MAX_STATES_PER_EVAL_CHUNK = 5
 
 
+def availability_fn(owners: Sequence[str], num_candidates: int, per_entity_limit: int | None):
+    """Hard cap: an entity stops accepting triples once it reaches its quota."""
+
+    def available(state: Tuple[int, ...]) -> List[int]:
+        unselected = [index for index in range(num_candidates) if index not in state]
+        if per_entity_limit is None:
+            return unselected
+        used = Counter(owners[index] for index in state)
+        return [index for index in unselected if used[owners[index]] < per_entity_limit]
+
+    return available
+
+
 def heuristic_thought_fn(scorer: HeuristicScorer, config: ToTConfig):
-    def generate(task: str, state: Tuple[int, ...]) -> List[int]:
-        available = [index for index in range(len(scorer.triples)) if index not in state]
+    def generate(task: str, state: Tuple[int, ...], available: Sequence[int]) -> List[int]:
         ranked = sorted(
             available,
             key=lambda index: (-scorer.objective_score(task, index, state), index),
@@ -45,21 +58,22 @@ def heuristic_thought_fn(scorer: HeuristicScorer, config: ToTConfig):
 def llm_thought_fn(backend, prompts: PromptFactory, scorer: HeuristicScorer, config: ToTConfig):
     fallback = heuristic_thought_fn(scorer, config)
 
-    def generate(task: str, state: Tuple[int, ...]) -> List[int]:
-        prompt = prompts.task_prompt(task, state)
+    def generate(task: str, state: Tuple[int, ...], available: Sequence[int]) -> List[int]:
+        prompt = prompts.task_prompt(task, state, available)
         outputs = backend.chat(
             [{"role": "user", "content": prompt}],
             temperature=config.thought_temperature,
             max_new_tokens=32,
             n=config.n_candidates_per_task,
         )
+        allowed = set(available)
         indices = []
         for text in outputs:
             value = extract_first_int(text)
-            if value is not None and 1 <= value <= len(scorer.triples):
+            if value is not None and (value - 1) in allowed:
                 indices.append(value - 1)
-        unique = list(dict.fromkeys(index for index in indices if index not in state))
-        return unique or fallback(task, state)
+        unique = list(dict.fromkeys(indices))
+        return unique or fallback(task, state, available)
 
     return generate
 
@@ -134,6 +148,7 @@ def annotate_record(
     annotators: Sequence[dict],
     config: ToTConfig,
     progress: bool = False,
+    per_entity_budget: bool = True,
 ) -> dict:
     """Run every annotator over one retrieval record and collect its summaries."""
     triples = [tuple(triple) for triple in record["candidate_triples"]]
@@ -145,9 +160,16 @@ def annotate_record(
     scorer = HeuristicScorer(triples, question, topic_entities)
     prompts = PromptFactory(question, topic_entities, triples, owners, scorer)
 
+    per_entity_limit = config.max_summary_len if per_entity_budget else None
+    available_fn = availability_fn(owners, len(triples), per_entity_limit)
+    buckets = len(set(owners[: len(triples)])) or 1
+    max_steps = min(
+        config.max_summary_len * buckets if per_entity_budget else config.max_summary_len,
+        len(triples),
+    )
+
     outputs = []
     selections = []
-    steps = min(config.max_summary_len, len(triples))
     for annotator in annotators:
         backend = annotator["backend"]
         if backend is None:
@@ -157,9 +179,11 @@ def annotate_record(
             thought_fn = llm_thought_fn(backend, prompts, scorer, config)
             eval_fn = llm_eval_fn(backend, prompts, scorer, config)
 
-        search = TaskDecomposedToT(len(triples), thought_fn, eval_fn, config)
+        search = TaskDecomposedToT(
+            len(triples), thought_fn, eval_fn, config, available_fn, max_steps
+        )
         with tqdm(
-            total=steps,
+            total=max_steps,
             desc=f"{record['id']} {annotator['name']}",
             unit="triple",
             leave=False,
@@ -185,6 +209,7 @@ def annotate_record(
                     "selected_triples": [list(triples[index]) for index in selected],
                     "value": round(best.value, 4),
                     "entity_coverage": entity_coverage(triples, topic_entities, selected),
+                    "triples_per_seed_entity": dict(Counter(owners[index] for index in selected)),
                     "search_trace": trace,
                 },
             }
@@ -201,6 +226,8 @@ def annotate_record(
             "annotators": [annotator["name"] for annotator in annotators],
             "annotator_models": [annotator["model"] for annotator in annotators],
             "max_summary_len": config.max_summary_len,
+            "budget_scope": "per-entity" if per_entity_budget else "total",
+            "max_summary_triples": max_steps,
             "objective_weights": config.objective_weights,
             "thought_temperature": config.thought_temperature,
             "eval_temperature": config.eval_temperature,
@@ -249,6 +276,7 @@ def annotate_dataset(
     config: ToTConfig,
     limit: int | None = None,
     progress: bool = False,
+    per_entity_budget: bool = True,
 ) -> int:
     if not input_path.exists():
         raise FileNotFoundError(
@@ -276,7 +304,7 @@ def annotate_dataset(
                 records, desc=path.name, unit="record", disable=not progress
             ):
                 line = json.dumps(
-                    annotate_record(record, annotators, config, progress),
+                    annotate_record(record, annotators, config, progress, per_entity_budget),
                     ensure_ascii=False,
                 )
                 handle.write(line + "\n")
@@ -303,6 +331,12 @@ def main() -> None:
     )
     parser.add_argument("--ollama-url", default="http://localhost:11434")
     parser.add_argument("--max-summary-len", type=int, default=5)
+    parser.add_argument(
+        "--budget-scope",
+        choices=["per-entity", "total"],
+        default="per-entity",
+        help="Whether --max-summary-len caps triples per topic entity or for the whole summary",
+    )
     parser.add_argument("--n-candidates-per-task", type=int, default=2)
     parser.add_argument("--n-evals", type=int, default=3)
     parser.add_argument("--breadth-limit", type=int, default=3)
@@ -345,7 +379,13 @@ def main() -> None:
         args.annotators, args.model, args.annotator_model, args.seed, args.ollama_url
     )
     count = annotate_dataset(
-        args.input, args.output, annotators, config, args.limit, not args.no_progress
+        args.input,
+        args.output,
+        annotators,
+        config,
+        args.limit,
+        not args.no_progress,
+        args.budget_scope == "per-entity",
     )
     print(f"Annotated {count} records with {len(annotators)} annotators into {args.output}")
 

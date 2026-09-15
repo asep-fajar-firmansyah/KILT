@@ -153,12 +153,11 @@ class HeuristicScorer:
 def format_candidates(
     triples: Sequence[Triple],
     owners: Sequence[str],
-    selected: Sequence[int],
+    available: Sequence[int],
 ) -> str:
     lines = [
         f"{index + 1}. [{owners[index]}] {triples[index][0]} | {triples[index][1]} | {triples[index][2]}"
-        for index in range(len(triples))
-        if index not in set(selected)
+        for index in available
     ]
     return "\n".join(lines) if lines else "<no candidates>"
 
@@ -215,8 +214,8 @@ class PromptFactory:
         roles = sorted({semantic_role(self.triples[index][1]) for index in selected})
         return (", ".join(entities) or "None yet", ", ".join(roles) or "None yet")
 
-    def task_prompt(self, task: str, selected: Sequence[int]) -> str:
-        candidates = format_candidates(self.triples, self.owners, selected)
+    def task_prompt(self, task: str, selected: Sequence[int], available: Sequence[int]) -> str:
+        candidates = format_candidates(self.triples, self.owners, available)
         chosen = format_selected(self.triples, self.owners, selected)
         exclusion = (
             f"\nDO NOT select indices: {', '.join(str(index + 1) for index in selected)}"
@@ -369,27 +368,39 @@ class TaskDecomposedToT:
     def __init__(
         self,
         num_candidates: int,
-        thought_fn: Callable[[str, Tuple[int, ...]], List[int]],
+        thought_fn: Callable[[str, Tuple[int, ...], Sequence[int]], List[int]],
         eval_fn: Callable[[List[Tuple[int, ...]]], List[float]],
         config: ToTConfig,
+        available_fn: Callable[[Tuple[int, ...]], List[int]] | None = None,
+        max_steps: int | None = None,
     ):
         self.num_candidates = num_candidates
         self.thought_fn = thought_fn
         self.eval_fn = eval_fn
         self.config = config
+        self.available_fn = available_fn or (
+            lambda state: [index for index in range(num_candidates) if index not in state]
+        )
+        self.max_steps = (
+            max_steps if max_steps is not None else min(config.max_summary_len, num_candidates)
+        )
 
     def search(self, on_step: Callable[[int, int, float], None] | None = None) -> Tuple[TreeNode, List[dict]]:
         beam = [TreeNode(state=())]
         trace: List[dict] = []
-        steps = min(self.config.max_summary_len, self.num_candidates)
+        steps = self.max_steps
 
         for step in range(1, steps + 1):
             children: List[TreeNode] = []
             seen: set[frozenset[int]] = set()
             for node in beam:
+                available = self.available_fn(node.state)
+                if not available:
+                    continue
+                allowed = set(available)
                 for task in TASKS:
-                    for index in self.thought_fn(task, node.state):
-                        if not 0 <= index < self.num_candidates or index in node.state:
+                    for index in self.thought_fn(task, node.state, available):
+                        if index not in allowed:
                             continue
                         key = frozenset(node.state + (index,))
                         if key in seen:
