@@ -180,6 +180,35 @@ Within an annotator entry, the selected triples are grouped per topic entity:
 grouped order. `meta.selection_order` keeps the order in which the search picked
 the triples.
 
+## Synthetic benchmark export
+
+`kilt_synmes.benchmark` flattens annotation records into a nested benchmark keyed
+by record id, then topic entity, then triples:
+
+```bash
+python3 -m kilt_synmes.benchmark \
+  --input predictions/synmes/annotation \
+  --output predictions/synmes/synthetic_benchmark \
+  --print-tree
+```
+
+```
+synthetic_benchmark
+└──m3gqa-32220
+   ├──"In the Ring: The Trials of a Washington Lawyer"
+   │  └─triples
+   │    ├──Washington, D.C. | book.book_subject.works | In the Ring: ...
+   │    └──In the Ring: ... | book.written_work.subjects | Law
+   ├──"Lawyer"
+   │  └─triples
+   │    └──Lawyer | people.profession.part_of_professional_field | Law
+```
+
+A record with several annotators exports the first one unless `--annotator
+annotator-2` picks another. `--include-question` adds a `question` key next to the
+entity keys, and `--indent` controls JSON formatting. A directory input writes one
+`<name>.json` per input file, which keeps record ids from different settings apart.
+
 ## HTML visualization
 
 Render any retrieval record as a self-contained HTML knowledge graph:
