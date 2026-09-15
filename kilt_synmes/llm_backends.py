@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import urllib.error
 import urllib.parse
 import urllib.request
 from typing import Dict, List
@@ -105,8 +106,21 @@ class OllamaChat:
                 headers={"Content-Type": "application/json"},
                 method="POST",
             )
-            with urllib.request.urlopen(request, timeout=self.timeout) as response:
-                body = json.loads(response.read().decode("utf-8"))
+            try:
+                with urllib.request.urlopen(request, timeout=self.timeout) as response:
+                    body = json.loads(response.read().decode("utf-8"))
+            except urllib.error.HTTPError as error:
+                detail = error.read().decode("utf-8", errors="replace").strip()
+                raise RuntimeError(
+                    f"Ollama request failed ({error.code}) for model '{self.model_id}' "
+                    f"at {self.base_url}: {detail or error.reason}. "
+                    "Check `ollama list` and pull the model if it is missing."
+                ) from error
+            except urllib.error.URLError as error:
+                raise RuntimeError(
+                    f"Cannot reach the Ollama server at {self.base_url}: {error.reason}. "
+                    "Start it with `ollama serve` or set --ollama-url."
+                ) from error
             outputs.append(body.get("message", {}).get("content", "").strip())
         return outputs
 

@@ -378,7 +378,7 @@ class TaskDecomposedToT:
         self.eval_fn = eval_fn
         self.config = config
 
-    def search(self) -> Tuple[TreeNode, List[dict]]:
+    def search(self, on_step: Callable[[int, int, float], None] | None = None) -> Tuple[TreeNode, List[dict]]:
         beam = [TreeNode(state=())]
         trace: List[dict] = []
         steps = min(self.config.max_summary_len, self.num_candidates)
@@ -421,6 +421,8 @@ class TaskDecomposedToT:
                     "tasks": sorted({child.task for child in beam if child.task}),
                 }
             )
+            if on_step is not None:
+                on_step(step, steps, beam[0].value)
 
         best = max(beam, key=lambda node: node.value)
         return best, trace

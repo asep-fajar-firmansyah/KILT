@@ -12,6 +12,8 @@ import json
 from pathlib import Path
 from typing import Dict, List, Sequence, Tuple
 
+from tqdm import tqdm
+
 from kilt_synmes.llm_backends import build_backend
 from kilt_synmes.pipeline import load_jsonl, triple_to_text
 from kilt_synmes.tot import (
@@ -131,6 +133,7 @@ def annotate_record(
     record: dict,
     annotators: Sequence[dict],
     config: ToTConfig,
+    progress: bool = False,
 ) -> dict:
     """Run every annotator over one retrieval record and collect its summaries."""
     triples = [tuple(triple) for triple in record["candidate_triples"]]
@@ -144,6 +147,7 @@ def annotate_record(
 
     outputs = []
     selections = []
+    steps = min(config.max_summary_len, len(triples))
     for annotator in annotators:
         backend = annotator["backend"]
         if backend is None:
@@ -153,7 +157,20 @@ def annotate_record(
             thought_fn = llm_thought_fn(backend, prompts, scorer, config)
             eval_fn = llm_eval_fn(backend, prompts, scorer, config)
 
-        best, trace = TaskDecomposedToT(len(triples), thought_fn, eval_fn, config).search()
+        search = TaskDecomposedToT(len(triples), thought_fn, eval_fn, config)
+        with tqdm(
+            total=steps,
+            desc=f"{record['id']} {annotator['name']}",
+            unit="triple",
+            leave=False,
+            disable=not progress,
+        ) as bar:
+            best, trace = search.search(
+                on_step=lambda step, total, value: (
+                    bar.update(1),
+                    bar.set_postfix(value=f"{value:.3f}"),
+                )
+            )
         selected = list(best.state)
         selections.append(selected)
         outputs.append(
@@ -231,7 +248,13 @@ def annotate_dataset(
     annotators: Sequence[dict],
     config: ToTConfig,
     limit: int | None = None,
+    progress: bool = False,
 ) -> int:
+    if not input_path.exists():
+        raise FileNotFoundError(
+            f"Retrieval input does not exist: {input_path}. "
+            "Run kilt_synmes.pipeline first to produce candidate-triple records."
+        )
     paths = sorted(input_path.glob("*.jsonl")) if input_path.is_dir() else [input_path]
     if not paths:
         raise FileNotFoundError(f"No retrieval JSONL files found in {input_path}")
@@ -249,9 +272,15 @@ def annotate_dataset(
         if limit is not None:
             records = records[:limit]
         with target.open("w", encoding="utf-8") as handle:
-            for record in records:
-                json.dump(annotate_record(record, annotators, config), handle, ensure_ascii=False)
-                handle.write("\n")
+            for record in tqdm(
+                records, desc=path.name, unit="record", disable=not progress
+            ):
+                line = json.dumps(
+                    annotate_record(record, annotators, config, progress),
+                    ensure_ascii=False,
+                )
+                handle.write(line + "\n")
+                handle.flush()
                 count += 1
     return count
 
@@ -285,6 +314,7 @@ def main() -> None:
     parser.add_argument("--w-coverage", type=float, default=DEFAULT_OBJECTIVE_WEIGHTS["coverage"])
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument("--no-progress", action="store_true", help="Disable progress bars")
     args = parser.parse_args()
 
     if args.annotators < 1 or args.max_summary_len < 1 or args.breadth_limit < 1:
@@ -314,7 +344,9 @@ def main() -> None:
     annotators = build_annotators(
         args.annotators, args.model, args.annotator_model, args.seed, args.ollama_url
     )
-    count = annotate_dataset(args.input, args.output, annotators, config, args.limit)
+    count = annotate_dataset(
+        args.input, args.output, annotators, config, args.limit, not args.no_progress
+    )
     print(f"Annotated {count} records with {len(annotators)} annotators into {args.output}")
 
 
