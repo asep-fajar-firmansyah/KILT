@@ -131,6 +131,20 @@ def entity_coverage(
     return coverage
 
 
+def group_by_entity(
+    owners: Sequence[str],
+    topic_entities: Sequence[str],
+    selected: Sequence[int],
+) -> List[Tuple[str, List[int]]]:
+    """Bucket selected candidates by seed entity, keeping topic-entity order."""
+    groups: Dict[str, List[int]] = {}
+    for index in selected:
+        groups.setdefault(owners[index], []).append(index)
+    ordered = [entity for entity in topic_entities if entity in groups]
+    ordered += [entity for entity in groups if entity not in ordered]
+    return [(entity, groups[entity]) for entity in ordered]
+
+
 def mean_pairwise_jaccard(selections: Sequence[Sequence[int]]) -> float:
     pairs = [
         (set(selections[i]), set(selections[j]))
@@ -197,16 +211,28 @@ def annotate_record(
             )
         selected = list(best.state)
         selections.append(selected)
+        grouped = group_by_entity(owners, topic_entities, selected)
+        ordered = [index for _, indices in grouped for index in indices]
         outputs.append(
             {
-                "answer": summarize(triples, selected),
-                "provenance": [provenance[index] for index in selected if index < len(provenance)],
+                "answer": summarize(triples, ordered),
+                "provenance": [provenance[index] for index in ordered if index < len(provenance)],
+                "summary_by_entity": [
+                    {
+                        "topic_entity": entity,
+                        "answer": summarize(triples, indices),
+                        "candidate_indices": indices,
+                        "triples": [list(triples[index]) for index in indices],
+                    }
+                    for entity, indices in grouped
+                ],
                 "meta": {
                     "annotator": annotator["name"],
                     "model": annotator["model"],
                     "seed": annotator["seed"],
-                    "selected_candidate_indices": selected,
-                    "selected_triples": [list(triples[index]) for index in selected],
+                    "selected_candidate_indices": ordered,
+                    "selected_triples": [list(triples[index]) for index in ordered],
+                    "selection_order": selected,
                     "value": round(best.value, 4),
                     "entity_coverage": entity_coverage(triples, topic_entities, selected),
                     "triples_per_seed_entity": dict(Counter(owners[index] for index in selected)),

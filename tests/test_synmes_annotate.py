@@ -97,6 +97,21 @@ class TestSynMESAnnotation(unittest.TestCase):
         self.assertEqual(output["meta"]["budget_scope"], "total")
         self.assertEqual(len(output["output"][0]["meta"]["selected_candidate_indices"]), 3)
 
+    def test_summary_is_grouped_per_topic_entity(self):
+        annotators = build_annotators(1, "heuristic", None, seed=42, ollama_url="http://localhost:11434")
+
+        summary = annotate_record(self.record, annotators, self.config)["output"][0]
+        groups = summary["summary_by_entity"]
+
+        self.assertEqual([group["topic_entity"] for group in groups], ["Entity A", "Entity B"])
+        grouped_indices = [index for group in groups for index in group["candidate_indices"]]
+        self.assertEqual(grouped_indices, summary["meta"]["selected_candidate_indices"])
+        self.assertEqual(
+            [item["topic_entity"] for item in summary["provenance"]],
+            [group["topic_entity"] for group in groups for _ in group["candidate_indices"]],
+        )
+        self.assertEqual(sorted(summary["meta"]["selection_order"]), sorted(grouped_indices))
+
     def test_summary_covers_every_topic_entity(self):
         annotators = build_annotators(1, "heuristic", None, seed=7, ollama_url="http://localhost:11434")
 

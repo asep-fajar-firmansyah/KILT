@@ -174,6 +174,12 @@ Each output record follows the KILT shape: `id`, `input` (the question), one
 triples, and `meta` with the selected indices, value, per-entity coverage, and the
 search trace), plus record-level `meta`.
 
+Within an annotator entry, the selected triples are grouped per topic entity:
+`summary_by_entity` holds one block per entity with its own `answer`,
+`candidate_indices`, and `triples`, and `answer` plus `provenance` follow the same
+grouped order. `meta.selection_order` keeps the order in which the search picked
+the triples.
+
 ## HTML visualization
 
 Render any retrieval record as a self-contained HTML knowledge graph:
