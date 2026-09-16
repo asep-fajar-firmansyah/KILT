@@ -77,6 +77,7 @@ class OllamaChat:
         base_url: str = "http://localhost:11434",
         seed: int | None = None,
         timeout: float = 300.0,
+        options: Dict[str, object] | None = None,
     ):
         scheme = urllib.parse.urlparse(base_url).scheme
         if scheme not in ("http", "https"):
@@ -85,6 +86,7 @@ class OllamaChat:
         self.base_url = base_url.rstrip("/")
         self.seed = seed
         self.timeout = timeout
+        self.options = dict(options or {})
 
     def chat(
         self,
@@ -95,7 +97,7 @@ class OllamaChat:
     ) -> List[str]:
         outputs = []
         for offset in range(n):
-            options = {"temperature": temperature, "num_predict": max_new_tokens}
+            options = {"temperature": temperature, "num_predict": max_new_tokens, **self.options}
             if self.seed is not None:
                 options["seed"] = self.seed + offset
             payload = {
@@ -157,11 +159,18 @@ class OllamaChat:
         return f"OllamaChat(model={self.model_id}, base_url={self.base_url})"
 
 
-def build_backend(spec: str, seed: int | None = None, ollama_url: str = "http://localhost:11434"):
+def build_backend(
+    spec: str,
+    seed: int | None = None,
+    ollama_url: str = "http://localhost:11434",
+    ollama_options: Dict[str, object] | None = None,
+):
     """Build a chat backend from `heuristic`, `ollama:<model>`, or `hf:<model>`."""
     if spec == "heuristic":
         return None
     if spec.startswith("ollama:"):
-        return OllamaChat(spec[len("ollama:") :], base_url=ollama_url, seed=seed)
+        return OllamaChat(
+            spec[len("ollama:") :], base_url=ollama_url, seed=seed, options=ollama_options
+        )
     model_id = spec[len("hf:") :] if spec.startswith("hf:") else spec
     return TransformersChat(model_id, seed=seed)

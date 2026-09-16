@@ -169,6 +169,31 @@ evaluation payload, the heuristic scorer is used as fallback so a run never stal
 Per-annotator `meta.triples_per_seed_entity` reports the realized distribution; an
 entity can end below its quota when retrieval found fewer candidates for it.
 
+## Running annotators on several GPUs
+
+Annotators run sequentially by default. To keep more than one GPU busy, start one
+Ollama server per GPU, give each annotator its own endpoint, and raise
+`--max-workers`:
+
+```bash
+CUDA_VISIBLE_DEVICES=0 OLLAMA_HOST=127.0.0.1:11434 ollama serve &
+CUDA_VISIBLE_DEVICES=1 OLLAMA_HOST=127.0.0.1:11435 ollama serve &
+
+python3 -m kilt_synmes.annotate \
+  --input predictions/synmes/retrieval/multihop_setting.jsonl \
+  --output predictions/synmes/annotation \
+  --annotator-model ollama:qwen3-coder:30b --annotator-url http://127.0.0.1:11434 \
+  --annotator-model ollama:gemma3:27b      --annotator-url http://127.0.0.1:11435 \
+  --max-workers 2 \
+  --ollama-option num_ctx=8192
+```
+
+Annotators are dispatched to a thread pool, so the summaries keep their annotator
+order regardless of which finishes first. Nested progress bars are suppressed when
+`--max-workers` exceeds one. `--ollama-option` forwards generation options such as
+`num_ctx` or `top_p`; lowering `num_ctx` frees the KV cache, which lets several
+large models stay resident instead of being evicted between annotators.
+
 Each output record follows the KILT shape: `id`, `input` (the question), one
 `output` entry per annotator (`answer` summary text, `provenance` of the selected
 triples, and `meta` with the selected indices, value, per-entity coverage, and the

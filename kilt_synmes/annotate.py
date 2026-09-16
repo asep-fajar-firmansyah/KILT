@@ -11,6 +11,7 @@ import argparse
 import json
 import time
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from typing import Dict, List, Sequence, Tuple
 
@@ -164,6 +165,7 @@ def annotate_record(
     config: ToTConfig,
     progress: bool = False,
     per_entity_budget: bool = True,
+    max_workers: int = 1,
 ) -> dict:
     """Run every annotator over one retrieval record and collect its summaries."""
     triples = [tuple(triple) for triple in record["candidate_triples"]]
@@ -182,10 +184,9 @@ def annotate_record(
         config.max_summary_len * buckets if per_entity_budget else config.max_summary_len,
         len(triples),
     )
+    workers = max(1, min(max_workers, len(annotators)))
 
-    outputs = []
-    selections = []
-    for annotator in annotators:
+    def run_annotator(annotator: dict):
         backend = annotator["backend"]
         if backend is None:
             thought_fn = heuristic_thought_fn(scorer, config)
@@ -202,14 +203,24 @@ def annotate_record(
             desc=f"{record['id']} {annotator['name']}",
             unit="triple",
             leave=False,
-            disable=not progress,
+            disable=not progress or workers > 1,
         ) as bar:
-            best, trace = search.search(
+            return search.search(
                 on_step=lambda step, total, value: (
                     bar.update(1),
                     bar.set_postfix(value=f"{value:.3f}"),
                 )
             )
+
+    if workers > 1:
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            results = list(pool.map(run_annotator, annotators))
+    else:
+        results = [run_annotator(annotator) for annotator in annotators]
+
+    outputs = []
+    selections = []
+    for annotator, (best, trace) in zip(annotators, results):
         selected = list(best.state)
         selections.append(selected)
         grouped = group_by_entity(owners, topic_entities, selected)
@@ -267,24 +278,49 @@ def annotate_record(
     }
 
 
+def parse_ollama_options(pairs: Sequence[str] | None) -> Dict[str, object]:
+    options: Dict[str, object] = {}
+    for pair in pairs or []:
+        key, separator, raw = pair.partition("=")
+        if not separator:
+            raise ValueError(f"--ollama-option expects key=value, got {pair!r}")
+        value: object = raw
+        for caster in (int, float):
+            try:
+                value = caster(raw)
+                break
+            except ValueError:
+                continue
+        options[key.strip()] = value
+    return options
+
+
 def build_annotators(
     count: int,
     default_model: str,
     model_overrides: Sequence[str] | None,
     seed: int,
     ollama_url: str,
+    ollama_options: Dict[str, object] | None = None,
+    url_overrides: Sequence[str] | None = None,
 ) -> List[dict]:
     overrides = list(model_overrides or [])
     if overrides and len(overrides) not in (1, count):
         raise ValueError("--annotator-model must be given once or once per annotator")
+    urls = list(url_overrides or [])
+    if urls and len(urls) not in (1, count):
+        raise ValueError("--annotator-url must be given once or once per annotator")
     annotators = []
-    backends: Dict[Tuple[str, int], object] = {}
+    backends: Dict[Tuple[str, int, str], object] = {}
     for position in range(count):
         model = overrides[position] if len(overrides) == count else (overrides[0] if overrides else default_model)
+        url = urls[position] if len(urls) == count else (urls[0] if urls else ollama_url)
         annotator_seed = seed + position
-        key = (model, annotator_seed)
+        key = (model, annotator_seed, url)
         if key not in backends:
-            backends[key] = build_backend(model, seed=annotator_seed, ollama_url=ollama_url)
+            backends[key] = build_backend(
+                model, seed=annotator_seed, ollama_url=url, ollama_options=ollama_options
+            )
         annotators.append(
             {
                 "name": f"annotator-{position + 1}",
@@ -329,6 +365,7 @@ def annotate_dataset(
     limit: int | None = None,
     progress: bool = False,
     per_entity_budget: bool = True,
+    max_workers: int = 1,
 ) -> int:
     if not input_path.exists():
         raise FileNotFoundError(
@@ -356,7 +393,9 @@ def annotate_dataset(
                 records, desc=path.name, unit="record", disable=not progress
             ):
                 line = json.dumps(
-                    annotate_record(record, annotators, config, progress, per_entity_budget),
+                    annotate_record(
+                        record, annotators, config, progress, per_entity_budget, max_workers
+                    ),
                     ensure_ascii=False,
                 )
                 handle.write(line + "\n")
@@ -387,6 +426,25 @@ def main() -> None:
         help="Per-annotator backend spec; repeat once per annotator to mix models",
     )
     parser.add_argument("--ollama-url", default="http://localhost:11434")
+    parser.add_argument(
+        "--annotator-url",
+        action="append",
+        default=None,
+        help="Per-annotator Ollama URL; repeat once per annotator to spread over GPUs",
+    )
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        default=1,
+        help="Annotators to run concurrently; use with --annotator-url to keep GPUs busy",
+    )
+    parser.add_argument(
+        "--ollama-option",
+        action="append",
+        default=None,
+        metavar="KEY=VALUE",
+        help="Ollama generation option, e.g. num_ctx=8192; repeat for several",
+    )
     parser.add_argument("--max-summary-len", type=int, default=5)
     parser.add_argument(
         "--budget-scope",
@@ -436,7 +494,13 @@ def main() -> None:
     )
 
     annotators = build_annotators(
-        annotator_count, args.model, args.annotator_model, args.seed, args.ollama_url
+        annotator_count,
+        args.model,
+        args.annotator_model,
+        args.seed,
+        args.ollama_url,
+        parse_ollama_options(args.ollama_option),
+        args.annotator_url,
     )
     print(f"input        : {args.input}")
     print(f"output       : {args.output}")
@@ -452,6 +516,7 @@ def main() -> None:
         args.limit,
         not args.no_progress,
         args.budget_scope == "per-entity",
+        args.max_workers,
     )
     elapsed = time.monotonic() - started
     print("after run:")
