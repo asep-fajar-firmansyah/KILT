@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import time
 from collections import Counter
 from pathlib import Path
 from typing import Dict, List, Sequence, Tuple
@@ -295,6 +296,31 @@ def build_annotators(
     return annotators
 
 
+def describe_config(config: ToTConfig, budget_scope: str) -> str:
+    return "\n".join(
+        [
+            f"budget       : {config.max_summary_len} triples {budget_scope}",
+            f"search       : beam={config.breadth_limit}, "
+            f"{config.n_candidates_per_task} thoughts/task, {config.n_evals} eval votes",
+            f"weights      : {config.objective_weights}",
+        ]
+    )
+
+
+def describe_backends(annotators: Sequence[dict]) -> str:
+    lines = []
+    for annotator in annotators:
+        backend = annotator["backend"]
+        where = "in-process heuristic scorer (CPU, no LLM)"
+        if backend is not None:
+            try:
+                where = backend.describe()
+            except Exception as error:  # diagnostics must never abort a run
+                where = f"{type(backend).__name__} (probe failed: {error})"
+        lines.append(f"{annotator['name']}  : {annotator['model']} -> {where}")
+    return "\n".join(lines)
+
+
 def annotate_dataset(
     input_path: Path,
     output_path: Path,
@@ -412,6 +438,12 @@ def main() -> None:
     annotators = build_annotators(
         annotator_count, args.model, args.annotator_model, args.seed, args.ollama_url
     )
+    print(f"input        : {args.input}")
+    print(f"output       : {args.output}")
+    print(describe_config(config, args.budget_scope))
+    print(describe_backends(annotators))
+
+    started = time.monotonic()
     count = annotate_dataset(
         args.input,
         args.output,
@@ -421,7 +453,13 @@ def main() -> None:
         not args.no_progress,
         args.budget_scope == "per-entity",
     )
-    print(f"Annotated {count} records with {len(annotators)} annotators into {args.output}")
+    elapsed = time.monotonic() - started
+    print("after run:")
+    print(describe_backends(annotators))
+    print(
+        f"Annotated {count} records with {len(annotators)} annotators into {args.output} "
+        f"in {elapsed:.1f}s ({elapsed / max(count, 1):.1f}s per record)"
+    )
 
 
 if __name__ == "__main__":

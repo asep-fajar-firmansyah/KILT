@@ -60,6 +60,10 @@ class TransformersChat:
             texts.append(texts[-1])
         return texts[:n]
 
+    def describe(self) -> str:
+        devices = {str(parameter.device) for parameter in self.pipe.model.parameters()}
+        return f"transformers on {', '.join(sorted(devices))}"
+
     def __repr__(self) -> str:
         return f"TransformersChat(model={self.model_id})"
 
@@ -123,6 +127,31 @@ class OllamaChat:
                 ) from error
             outputs.append(body.get("message", {}).get("content", "").strip())
         return outputs
+
+    def _get(self, path: str) -> dict:
+        request = urllib.request.Request(f"{self.base_url}{path}", method="GET")
+        with urllib.request.urlopen(request, timeout=10) as response:
+            return json.loads(response.read().decode("utf-8"))
+
+    def describe(self) -> str:
+        """Report server version and where the model is currently resident."""
+        try:
+            version = self._get("/api/version").get("version", "unknown")
+        except (urllib.error.URLError, OSError, ValueError) as error:
+            return f"unreachable at {self.base_url} ({error})"
+
+        placement = "not loaded yet"
+        try:
+            for model in self._get("/api/ps").get("models", []):
+                if model.get("name", "").startswith(self.model_id):
+                    total = model.get("size", 0)
+                    vram = model.get("size_vram", 0)
+                    share = round(100 * vram / total) if total else 0
+                    placement = f"{share}% GPU / {100 - share}% CPU, {vram / 1e9:.1f} GB VRAM"
+                    break
+        except (urllib.error.URLError, OSError, ValueError):
+            placement = "unknown"
+        return f"ollama {version} at {self.base_url}, {placement}"
 
     def __repr__(self) -> str:
         return f"OllamaChat(model={self.model_id}, base_url={self.base_url})"
