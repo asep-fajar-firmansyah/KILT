@@ -343,7 +343,12 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--input", required=True, type=Path, help="Retrieval JSONL file or directory")
     parser.add_argument("--output", required=True, type=Path)
-    parser.add_argument("--annotators", type=int, default=3)
+    parser.add_argument(
+        "--annotators",
+        type=int,
+        default=None,
+        help="Number of LLM annotators (default: 3, or the number of --annotator-model flags)",
+    )
     parser.add_argument(
         "--model",
         default="heuristic",
@@ -377,7 +382,10 @@ def main() -> None:
     parser.add_argument("--no-progress", action="store_true", help="Disable progress bars")
     args = parser.parse_args()
 
-    if args.annotators < 1 or args.max_summary_len < 1 or args.breadth_limit < 1:
+    overrides = args.annotator_model or []
+    annotator_count = args.annotators if args.annotators is not None else (len(overrides) or 3)
+
+    if annotator_count < 1 or args.max_summary_len < 1 or args.breadth_limit < 1:
         parser.error("--annotators, --max-summary-len, and --breadth-limit must be positive")
     if args.limit is not None and args.limit < 1:
         parser.error("--limit must be positive")
@@ -402,7 +410,7 @@ def main() -> None:
     )
 
     annotators = build_annotators(
-        args.annotators, args.model, args.annotator_model, args.seed, args.ollama_url
+        annotator_count, args.model, args.annotator_model, args.seed, args.ollama_url
     )
     count = annotate_dataset(
         args.input,
