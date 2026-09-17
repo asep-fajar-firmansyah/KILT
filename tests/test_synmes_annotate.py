@@ -170,6 +170,21 @@ class TestSynMESAnnotation(unittest.TestCase):
             ids = [json.loads(line)["id"] for line in target.read_text(encoding="utf-8").splitlines()]
             self.assertEqual(ids, ["rec-0", "rec-1", "rec-2"])
 
+    def test_resume_counts_repeated_ids_instead_of_deduplicating(self):
+        with tempfile.TemporaryDirectory() as directory:
+            source = Path(directory) / "in.jsonl"
+            with source.open("w", encoding="utf-8") as handle:
+                for _ in range(3):
+                    handle.write(json.dumps({**self.record, "id": "shared"}) + "\n")
+            target = Path(directory) / "out.jsonl"
+            annotators = build_annotators(1, "heuristic", None, 42, "http://localhost:11434")
+
+            annotate_dataset(source, target, annotators, self.config, limit=1)
+            written = annotate_dataset(source, target, annotators, self.config, resume=True)
+
+            self.assertEqual(written, 2)
+            self.assertEqual(len(target.read_text(encoding="utf-8").splitlines()), 3)
+
     def test_aggregate_votes_parses_fenced_json(self):
         raw = '```json\n[{"idx": 0, "relatedness": 1.0, "informativeness": 1.0, "coverage": 1.0}]\n```'
 

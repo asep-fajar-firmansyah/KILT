@@ -357,11 +357,15 @@ def describe_backends(annotators: Sequence[dict]) -> str:
     return "\n".join(lines)
 
 
-def completed_ids(target: Path) -> set[str]:
-    """Return ids already written, dropping any truncated final line in place."""
+def completed_counts(target: Path) -> Counter:
+    """Count ids already written, dropping any truncated final line in place.
+
+    Record ids are not unique (one graph yields several questions), so resume
+    counts occurrences instead of deduplicating.
+    """
     if not target.is_file():
-        return set()
-    ids: set[str] = set()
+        return Counter()
+    counts: Counter = Counter()
     kept: List[str] = []
     with target.open("r", encoding="utf-8") as handle:
         for line in handle:
@@ -371,11 +375,11 @@ def completed_ids(target: Path) -> set[str]:
                 continue
             if "id" not in record:
                 continue
-            ids.add(record["id"])
+            counts[record["id"]] += 1
             kept.append(line if line.endswith("\n") else line + "\n")
     with target.open("w", encoding="utf-8") as handle:
         handle.writelines(kept)
-    return ids
+    return counts
 
 
 def annotate_dataset(
@@ -410,10 +414,16 @@ def annotate_dataset(
         records = list(load_jsonl(path))
         if limit is not None:
             records = records[:limit]
-        done = completed_ids(target) if resume else set()
-        pending = [record for record in records if record["id"] not in done]
-        if done:
-            print(f"{target.name}: resuming, {len(done)} done, {len(pending)} left")
+        done = completed_counts(target) if resume else Counter()
+        written = sum(done.values())
+        pending = []
+        for record in records:
+            if done[record["id"]] > 0:
+                done[record["id"]] -= 1
+            else:
+                pending.append(record)
+        if written:
+            print(f"{target.name}: resuming, {written} done, {len(pending)} left")
         with target.open("a" if resume else "w", encoding="utf-8") as handle:
             for record in tqdm(
                 pending, desc=path.name, unit="record", disable=not progress
