@@ -1,6 +1,14 @@
+import json
+import tempfile
 import unittest
+from pathlib import Path
 
-from kilt_synmes.annotate import annotate_record, build_annotators, mean_pairwise_jaccard
+from kilt_synmes.annotate import (
+    annotate_dataset,
+    annotate_record,
+    build_annotators,
+    mean_pairwise_jaccard,
+)
 from kilt_synmes.tot import (
     HeuristicScorer,
     ToTConfig,
@@ -142,6 +150,25 @@ class TestSynMESAnnotation(unittest.TestCase):
     def test_annotator_agreement_uses_mean_pairwise_jaccard(self):
         self.assertEqual(mean_pairwise_jaccard([[1, 2], [1, 2]]), 1.0)
         self.assertAlmostEqual(mean_pairwise_jaccard([[1, 2], [2, 3]]), 0.3333, places=4)
+
+    def test_resume_skips_written_records_and_drops_truncated_tail(self):
+        with tempfile.TemporaryDirectory() as directory:
+            source = Path(directory) / "in.jsonl"
+            with source.open("w", encoding="utf-8") as handle:
+                for index in range(3):
+                    handle.write(json.dumps({**self.record, "id": f"rec-{index}"}) + "\n")
+            target = Path(directory) / "out.jsonl"
+            annotators = build_annotators(1, "heuristic", None, 42, "http://localhost:11434")
+
+            annotate_dataset(source, target, annotators, self.config, limit=2)
+            with target.open("a", encoding="utf-8") as handle:
+                handle.write('{"id": "rec-2", "input": "trunca')
+
+            written = annotate_dataset(source, target, annotators, self.config, resume=True)
+
+            self.assertEqual(written, 1)
+            ids = [json.loads(line)["id"] for line in target.read_text(encoding="utf-8").splitlines()]
+            self.assertEqual(ids, ["rec-0", "rec-1", "rec-2"])
 
     def test_aggregate_votes_parses_fenced_json(self):
         raw = '```json\n[{"idx": 0, "relatedness": 1.0, "informativeness": 1.0, "coverage": 1.0}]\n```'

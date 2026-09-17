@@ -357,6 +357,27 @@ def describe_backends(annotators: Sequence[dict]) -> str:
     return "\n".join(lines)
 
 
+def completed_ids(target: Path) -> set[str]:
+    """Return ids already written, dropping any truncated final line in place."""
+    if not target.is_file():
+        return set()
+    ids: set[str] = set()
+    kept: List[str] = []
+    with target.open("r", encoding="utf-8") as handle:
+        for line in handle:
+            try:
+                record = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if "id" not in record:
+                continue
+            ids.add(record["id"])
+            kept.append(line if line.endswith("\n") else line + "\n")
+    with target.open("w", encoding="utf-8") as handle:
+        handle.writelines(kept)
+    return ids
+
+
 def annotate_dataset(
     input_path: Path,
     output_path: Path,
@@ -366,6 +387,7 @@ def annotate_dataset(
     progress: bool = False,
     per_entity_budget: bool = True,
     max_workers: int = 1,
+    resume: bool = False,
 ) -> int:
     if not input_path.exists():
         raise FileNotFoundError(
@@ -388,9 +410,13 @@ def annotate_dataset(
         records = list(load_jsonl(path))
         if limit is not None:
             records = records[:limit]
-        with target.open("w", encoding="utf-8") as handle:
+        done = completed_ids(target) if resume else set()
+        pending = [record for record in records if record["id"] not in done]
+        if done:
+            print(f"{target.name}: resuming, {len(done)} done, {len(pending)} left")
+        with target.open("a" if resume else "w", encoding="utf-8") as handle:
             for record in tqdm(
-                records, desc=path.name, unit="record", disable=not progress
+                pending, desc=path.name, unit="record", disable=not progress
             ):
                 line = json.dumps(
                     annotate_record(
@@ -463,6 +489,11 @@ def main() -> None:
     parser.add_argument("--w-coverage", type=float, default=DEFAULT_OBJECTIVE_WEIGHTS["coverage"])
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument(
+        "--resume",
+        action="store_true",
+        help="Skip records already present in the output and append to it",
+    )
     parser.add_argument("--no-progress", action="store_true", help="Disable progress bars")
     args = parser.parse_args()
 
@@ -517,6 +548,7 @@ def main() -> None:
         not args.no_progress,
         args.budget_scope == "per-entity",
         args.max_workers,
+        args.resume,
     )
     elapsed = time.monotonic() - started
     print("after run:")
