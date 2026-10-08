@@ -35,9 +35,10 @@ Open http://127.0.0.1:8765. The viewer lists JSONL datasets from
 `annotation-pools-3`. Select a folder and dataset, search by record ID,
 entity, or summary content, and navigate records. Each annotator's
 `output[].summary_by_entity` is shown as selected triples grouped by entity.
-Choose Qwen 3, Qwen 2.5, or DeepSeek to load datasets from its corresponding
-annotation-pool folder. Questions, combined answers, provenance, candidate
-indices, and search metadata are not displayed or returned by the viewer API.
+Choose a model by its full name from the annotation metadata to load datasets
+from its corresponding annotation-pool folder. Questions, combined answers,
+provenance, candidate indices, and search metadata are not displayed or returned
+by the viewer API.
 
 Use `--port 8766` if the default port is occupied, or
 `--data-dir /path/to/predictions/synmes` to choose a different data root.

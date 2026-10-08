@@ -23,6 +23,20 @@ def dataset_paths(root: Path) -> dict[str, Path]:
     }
 
 
+def dataset_model(path: Path) -> str | None:
+    with path.open(encoding="utf-8") as handle:
+        for line in handle:
+            if not line.strip():
+                continue
+            record = json.loads(line)
+            for output in record.get("output", []):
+                model = output.get("meta", {}).get("model")
+                if model:
+                    return str(model)
+            return None
+    return None
+
+
 def project_record(record: dict) -> dict:
     return {
         "id": str(record.get("id", "")),
@@ -80,7 +94,12 @@ def make_handler(root: Path) -> type[BaseHTTPRequestHandler]:
             route = request.path.rstrip("/")
             if route.endswith("/api/datasets"):
                 self.send_json(200, [
-                    {"key": key, "folder": key.split("/")[0], "name": path.name}
+                    {
+                        "key": key,
+                        "folder": key.split("/")[0],
+                        "name": path.name,
+                        "model": dataset_model(path),
+                    }
                     for key, path in paths.items()
                 ])
                 return

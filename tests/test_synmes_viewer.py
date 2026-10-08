@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import urlopen
 
-from kilt_synmes.viewer import dataset_paths, load_summaries, make_handler, project_record
+from kilt_synmes.viewer import dataset_model, dataset_paths, load_summaries, make_handler, project_record
 
 
 def annotation_record():
@@ -58,10 +58,21 @@ class TestSynMESViewer(unittest.TestCase):
     def test_http_limits_access_to_requested_pools(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
+            folder_models = {
+                "annotation-pools": "ollama:qwen3-coder:30b",
+                "annotation-pools-2": "ollama:qwen2.5-coder:32b",
+                "annotation-pools-3": "ollama:deepseek-coder:33b",
+            }
             for folder in ("annotation-pools", "annotation-pools-2", "annotation-pools-3", "retrieval"):
                 (root / folder).mkdir()
-                (root / folder / "sample.jsonl").write_text(json.dumps(annotation_record()) + "\n", encoding="utf-8")
+                record = annotation_record()
+                record["output"][0]["meta"]["model"] = folder_models.get(folder, "ollama:other")
+                (root / folder / "sample.jsonl").write_text(json.dumps(record) + "\n", encoding="utf-8")
             self.assertEqual(len(dataset_paths(root)), 3)
+            self.assertEqual(
+                dataset_model(root / "annotation-pools" / "sample.jsonl"),
+                "ollama:qwen3-coder:30b",
+            )
             (root / "annotation-pools" / "outside.jsonl").symlink_to(root.parent / "outside.jsonl")
             server = ThreadingHTTPServer(("127.0.0.1", 0), make_handler(root))
             thread = threading.Thread(target=server.serve_forever, daemon=True)
@@ -75,13 +86,20 @@ class TestSynMESViewer(unittest.TestCase):
                     self.assertNotIn(b"Prediction folder", page)
                     self.assertNotIn(b'id="folder"', page)
                 with urlopen(url + "/api/datasets") as response:
-                    self.assertEqual(len(json.load(response)), 3)
+                    listing = json.load(response)
+                    self.assertEqual(len(listing), 3)
+                    self.assertEqual(
+                        {item["folder"]: item["model"] for item in listing},
+                        folder_models,
+                    )
                 with urlopen(url + "/workspace/dataset/api/datasets") as response:
                     self.assertEqual(len(json.load(response)), 3)
+                    expected_record = annotation_record()
+                    expected_record["output"][0]["meta"]["model"] = folder_models["annotation-pools"]
                 with urlopen(url + "/api/records?dataset=annotation-pools/sample.jsonl") as response:
-                    self.assertEqual(json.load(response), [project_record(annotation_record())])
+                        self.assertEqual(json.load(response), [project_record(expected_record)])
                 with urlopen(url + "/workspace/dataset/api/records?dataset=annotation-pools/sample.jsonl") as response:
-                    self.assertEqual(json.load(response), [project_record(annotation_record())])
+                        self.assertEqual(json.load(response), [project_record(expected_record)])
                 for path in ("/api/records?dataset=../sample.jsonl", "/api/records?dataset=retrieval/sample.jsonl", "/setup.py"):
                     with self.assertRaises(HTTPError) as error:
                         urlopen(url + path)

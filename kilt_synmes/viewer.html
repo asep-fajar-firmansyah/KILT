@@ -92,11 +92,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <script>
 const element = (id) => document.getElementById(id);
 let datasets = [], records = [], filtered = [], selected = -1, requestNumber = 0;
-const MODEL_SOURCES = [
-  {label: 'Qwen 3', folder: 'annotation-pools'},
-  {label: 'Qwen 2.5', folder: 'annotation-pools-2'},
-  {label: 'DeepSeek', folder: 'annotation-pools-3'},
-];
+const MODEL_FOLDERS = ['annotation-pools', 'annotation-pools-2', 'annotation-pools-3'];
 const text = (tag, value, className) => {
   const node = document.createElement(tag);
   node.textContent = value;
@@ -208,8 +204,11 @@ async function initialize() {
   try {
     datasets = await getJSON(apiURL('api/datasets'));
     if (!datasets.length) { setStatus('No annotation-pool JSONL files found.'); return; }
-    const sources = MODEL_SOURCES.filter((source) => datasets.some((dataset) => dataset.folder === source.folder));
-    element('model').replaceChildren(...sources.map((source) => new Option(source.label, source.folder)));
+    const sources = MODEL_FOLDERS.map((folder) => ({
+      folder,
+      model: datasets.find((dataset) => dataset.folder === folder)?.model,
+    })).filter((source) => source.model);
+    element('model').replaceChildren(...sources.map((source) => new Option(source.model, source.folder)));
     element('model').disabled = false; element('dataset').disabled = false;
     chooseModel();
   } catch (error) { setStatus(error.message, true); }
