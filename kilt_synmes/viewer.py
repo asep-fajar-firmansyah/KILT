@@ -28,7 +28,8 @@ def project_record(record: dict) -> dict:
         "id": str(record.get("id", "")),
         "output": [
             {
-                "annotator": output.get("meta", {}).get("annotator", f"annotator-{index + 1}"),
+                "model": output.get("meta", {}).get("model")
+                or output.get("meta", {}).get("annotator", f"annotator-{index + 1}"),
                 "summary_by_entity": [
                     {
                         "topic_entity": group.get("topic_entity", ""),

@@ -19,7 +19,7 @@ def annotation_record():
             {
                 "answer": "Hidden combined answer",
                 "provenance": ["hidden"],
-                "meta": {"annotator": "annotator-1", "search_trace": "hidden"},
+                "meta": {"annotator": "annotator-1", "model": "ollama:qwen3", "search_trace": "hidden"},
                 "summary_by_entity": [{
                     "topic_entity": "Entity <A>",
                     "answer": "Entity A lives in Paris.",
@@ -27,7 +27,7 @@ def annotation_record():
                     "candidate_indices": [5],
                 }],
             },
-            {"meta": {"annotator": "annotator-2"}, "summary_by_entity": []},
+            {"meta": {"annotator": "annotator-2", "model": "hf:example/model"}, "summary_by_entity": []},
         ],
     }
 
@@ -37,7 +37,8 @@ class TestSynMESViewer(unittest.TestCase):
         projected = project_record(annotation_record())
         self.assertEqual(set(projected), {"id", "output"})
         self.assertEqual(len(projected["output"]), 2)
-        self.assertEqual(projected["output"][1]["annotator"], "annotator-2")
+        self.assertEqual(projected["output"][0]["model"], "ollama:qwen3")
+        self.assertEqual(projected["output"][1]["model"], "hf:example/model")
         group = projected["output"][0]["summary_by_entity"][0]
         self.assertEqual(set(group), {"topic_entity", "answer", "triples"})
         self.assertEqual(group["triples"], [["Entity A", "lives_in", "Paris"]])

@@ -34,9 +34,10 @@ Open http://127.0.0.1:8765. The viewer lists JSONL datasets from
 `predictions/synmes/annotation-pools`, `annotation-pools-2`, and
 `annotation-pools-3`. Select a folder and dataset, search by record ID,
 entity, or summary content, and navigate records. Each annotator's
-`output[].summary_by_entity` is available as summary text or selected triples
-grouped by entity. Questions, combined answers, provenance, candidate indices,
-and search metadata are not displayed or returned by the viewer API.
+`output[].summary_by_entity` is shown as selected triples grouped by entity;
+annotator choices are labeled with the LLM model. Questions, combined answers,
+provenance, candidate indices, and search metadata are not displayed or returned
+by the viewer API.
 
 Use `--port 8766` if the default port is occupied, or
 `--data-dir /path/to/predictions/synmes` to choose a different data root.
