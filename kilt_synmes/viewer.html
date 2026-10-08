@@ -183,7 +183,7 @@ async function loadDataset() {
   updateList(); setStatus('Loading summaries...');
   element('search').disabled = true;
   try {
-    const result = await getJSON(`/api/records?dataset=${encodeURIComponent(element('dataset').value)}`);
+    const result = await getJSON(`api/records?dataset=${encodeURIComponent(element('dataset').value)}`);
     if (currentRequest !== requestNumber) return;
     records = result;
     element('search').disabled = false;
@@ -213,7 +213,7 @@ element('previous').onclick = () => moveRecord(-1);
 element('next').onclick = () => moveRecord(1);
 async function initialize() {
   try {
-    datasets = await getJSON('/api/datasets');
+    datasets = await getJSON('api/datasets');
     if (!datasets.length) { setStatus('No annotation-pool JSONL files found.'); return; }
     element('folder').replaceChildren(...[...new Set(datasets.map((dataset) => dataset.folder))].map((folder) => new Option(folder, folder)));
     element('folder').disabled = false; element('dataset').disabled = false;
