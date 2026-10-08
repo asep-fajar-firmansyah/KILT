@@ -77,13 +77,14 @@ def make_handler(root: Path) -> type[BaseHTTPRequestHandler]:
                 self.respond(200, Path(__file__).with_name("viewer.html").read_bytes(), "text/html; charset=utf-8")
                 return
             paths = dataset_paths(root)
-            if request.path == "/api/datasets":
+            route = request.path.rstrip("/")
+            if route.endswith("/api/datasets"):
                 self.send_json(200, [
                     {"key": key, "folder": key.split("/")[0], "name": path.name}
                     for key, path in paths.items()
                 ])
                 return
-            if request.path == "/api/records":
+            if route.endswith("/api/records"):
                 key = parse_qs(request.query).get("dataset", [""])[0]
                 if key not in paths:
                     self.send_json(404, {"error": "Dataset not found"})

@@ -111,9 +111,17 @@ function setStatus(message, error = false) {
 }
 async function getJSON(url) {
   const response = await fetch(url);
+  const contentType = response.headers.get('content-type') || '';
+  if (!contentType.includes('application/json')) {
+    throw new Error(`Viewer API returned ${response.status}; check reverse-proxy path routing.`);
+  }
   const data = await response.json();
   if (!response.ok) throw new Error(data.error || 'Unable to load dataset');
   return data;
+}
+function apiURL(path) {
+  const prefix = location.pathname.endsWith('/') ? location.pathname : `${location.pathname}/`;
+  return `${prefix}${path}`;
 }
 function groups(record) { return record.output.flatMap((output) => output.summary_by_entity); }
 function updateList() {
@@ -174,7 +182,7 @@ async function loadDataset() {
   updateList(); setStatus('Loading summaries...');
   element('search').disabled = true;
   try {
-    const result = await getJSON(`/api/records?dataset=${encodeURIComponent(element('dataset').value)}`);
+    const result = await getJSON(apiURL(`api/records?dataset=${encodeURIComponent(element('dataset').value)}`));
     if (currentRequest !== requestNumber) return;
     records = result;
     element('search').disabled = false;
@@ -203,7 +211,7 @@ element('previous').onclick = () => moveRecord(-1);
 element('next').onclick = () => moveRecord(1);
 async function initialize() {
   try {
-    datasets = await getJSON('/api/datasets');
+    datasets = await getJSON(apiURL('api/datasets'));
     if (!datasets.length) { setStatus('No annotation-pool JSONL files found.'); return; }
     element('folder').replaceChildren(...[...new Set(datasets.map((dataset) => dataset.folder))].map((folder) => new Option(folder, folder)));
     element('folder').disabled = false; element('dataset').disabled = false;

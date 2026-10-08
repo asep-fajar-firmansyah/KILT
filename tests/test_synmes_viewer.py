@@ -72,7 +72,11 @@ class TestSynMESViewer(unittest.TestCase):
                     self.assertIn(b"Entity summaries", response.read())
                 with urlopen(url + "/api/datasets") as response:
                     self.assertEqual(len(json.load(response)), 3)
+                with urlopen(url + "/workspace/dataset/api/datasets") as response:
+                    self.assertEqual(len(json.load(response)), 3)
                 with urlopen(url + "/api/records?dataset=annotation-pools/sample.jsonl") as response:
+                    self.assertEqual(json.load(response), [project_record(annotation_record())])
+                with urlopen(url + "/workspace/dataset/api/records?dataset=annotation-pools/sample.jsonl") as response:
                     self.assertEqual(json.load(response), [project_record(annotation_record())])
                 for path in ("/api/records?dataset=../sample.jsonl", "/api/records?dataset=retrieval/sample.jsonl", "/setup.py"):
                     with self.assertRaises(HTTPError) as error:
