@@ -22,6 +22,70 @@ overlap, and negative BFS distance from the topic to
 the triple. Each topic retains its top `--max-evidence` initial triples; graph
 retrieval fills any remaining capacity for that topic.
 
+## Entity summary viewer
+
+From the repository root, start the read-only viewer:
+
+```bash
+python3 -m kilt_synmes.viewer
+```
+
+Open http://127.0.0.1:8765. The viewer lists JSONL datasets from
+`predictions/synmes/annotation-pools`, `annotation-pools-2`, and
+`annotation-pools-3`. Select a folder and dataset, search by record ID,
+entity, or summary content, and navigate records. Each annotator's
+`output[].summary_by_entity` is available as summary text or selected triples
+grouped by entity. Questions, combined answers, provenance, candidate indices,
+and search metadata are not displayed or returned by the viewer API.
+
+Use `--port 8766` if the default port is occupied, or
+`--data-dir /path/to/predictions/synmes` to choose a different data root.
+The server binds to localhost by default and requires no additional packages.
+
+### Dataset viewer service
+
+On another Linux server with systemd and Python 3.10+, copy the repository
+including the viewer files and the three annotation-pool folders. From the
+repository root, deploy only the read-only viewer:
+
+```bash
+sudo bash scripts/deploy_viewer.sh
+```
+
+The script installs `kilt-viewer.service`, starts it, and enables it at boot.
+It does not run retrieval, annotation, or any models. It uses the repository's
+`.venv/bin/python` if available, otherwise the server's `python3`. Recreate any
+virtual environment on the server rather than copying it from another machine.
+The service runs as the user invoking sudo; that user needs read access to the
+repository and datasets. When deploying directly as root, set `SERVICE_USER`
+to the desired existing user.
+
+For remote browser access:
+
+```bash
+sudo VIEWER_HOST=0.0.0.0 VIEWER_PORT=8765 bash scripts/deploy_viewer.sh
+```
+
+Open `http://SERVER_IP:8765`. Restrict firewall access to trusted networks:
+the viewer has no built-in authentication or HTTPS. For public access, use an
+authenticated HTTPS reverse proxy with the default localhost binding.
+
+```bash
+sudo systemctl start kilt-viewer
+sudo systemctl restart kilt-viewer
+sudo systemctl stop kilt-viewer
+sudo systemctl status kilt-viewer
+sudo journalctl -u kilt-viewer -f
+```
+
+Re-run the script to change the configuration. Supported environment overrides
+are `VIEWER_HOST`, `VIEWER_PORT`, `SERVICE_USER`, and `PYTHON_BIN` (an absolute
+interpreter path). To stop and disable automatic startup:
+
+```bash
+sudo systemctl disable --now kilt-viewer
+```
+
 ## Candidate triple retrieval
 
 ```mermaid
