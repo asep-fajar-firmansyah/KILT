@@ -1,7 +1,12 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-if [[ $EUID -ne 0 ]]; then
+if [[ $# -gt 1 || ( $# -eq 1 && "$1" != "--print-unit" ) ]]; then
+    printf 'Usage: bash scripts/deploy_viewer.sh [--print-unit]\n' >&2
+    exit 1
+fi
+
+if [[ $EUID -ne 0 && "${1:-}" != "--print-unit" ]]; then
     printf 'Run on the target server: sudo bash scripts/deploy_viewer.sh\n' >&2
     exit 1
 fi
@@ -47,7 +52,8 @@ systemd_quote() {
     printf '"%s"' "$value"
 }
 
-WORKING_DIR=$(systemd_quote "$REPO_DIR")
+systemd_quote "$REPO_DIR" >/dev/null
+WORKING_DIR=${REPO_DIR//%/%%}
 PYTHON_COMMAND=$(systemd_quote "$PYTHON_BIN")
 PYTHON_COMMAND=${PYTHON_COMMAND//\$/\$\$}
 TEMP_DIR=$(mktemp -d)
@@ -73,6 +79,11 @@ ProtectSystem=full
 [Install]
 WantedBy=multi-user.target
 EOF
+
+if [[ "${1:-}" == "--print-unit" ]]; then
+    cat "$TEMP_DIR/kilt-viewer.service"
+    exit 0
+fi
 
 systemd-analyze verify "$TEMP_DIR/kilt-viewer.service"
 install -m 0644 "$TEMP_DIR/kilt-viewer.service" /etc/systemd/system/kilt-viewer.service
