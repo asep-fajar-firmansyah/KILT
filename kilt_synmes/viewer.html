@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Entity Summaries | KILT</title>
+<style>
+:root { --ink: #202824; --muted: #64716a; --line: #dce3de; --paper: #fff; --accent: #166b48; --wash: #edf5ef; }
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: #f7f9f8; font-family: "Segoe UI", "Helvetica Neue", sans-serif; font-size: 14px; letter-spacing: 0; }
+button, input, select { font: inherit; }
+button, select { cursor: pointer; }
+button:disabled { cursor: default; opacity: .4; }
+button, input, select { border: 1px solid var(--line); border-radius: 4px; background: var(--paper); color: var(--ink); }
+button { min-height: 36px; padding: 6px 12px; }
+input, select { min-height: 40px; width: 100%; padding: 8px 10px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+header { background: var(--ink); color: white; min-height: 68px; padding: 16px 28px; display: flex; align-items: center; gap: 18px; }
+.brand { font-family: Georgia, serif; font-size: 26px; border-right: 1px solid #59635d; padding-right: 18px; }
+h1 { font-size: 17px; font-weight: 500; margin: 0; }
+.tag { margin-left: auto; color: #b9d8c5; font-size: 12px; }
+.workspace { display: grid; grid-template-columns: 300px minmax(0, 1fr); min-height: calc(100vh - 68px); }
+aside { border-right: 1px solid var(--line); background: var(--paper); padding: 24px 18px; }
+label, .label { display: block; color: var(--muted); font-size: 12px; font-weight: 600; margin-bottom: 7px; }
+.field { margin-bottom: 18px; }
+.list-heading { display: flex; justify-content: space-between; margin: 26px 0 12px; color: var(--muted); font-size: 12px; }
+#record-list { max-height: calc(100vh - 400px); overflow-y: auto; min-height: 150px; }
+.record-item { width: 100%; border: 0; border-bottom: 1px solid #edf0ee; border-radius: 0; padding: 12px 10px; text-align: left; }
+.record-item:hover { background: #f4f7f5; }
+.record-item[aria-current="true"] { background: var(--wash); box-shadow: inset 3px 0 var(--accent); }
+.record-id { display: block; overflow-wrap: anywhere; font-size: 13px; font-weight: 600; }
+.record-entities { display: block; color: var(--muted); font-size: 12px; margin-top: 5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+main { min-width: 0; padding: 28px 36px 64px; }
+.toolbar { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 20px; }
+.toolbar h2 { font-family: Georgia, serif; font-size: 25px; font-weight: 400; margin: 5px 0 8px; overflow-wrap: anywhere; }
+.record-meta { color: var(--muted); font-size: 12px; }
+.navigation { display: flex; align-items: center; gap: 8px; }
+.icon { width: 36px; height: 36px; padding: 0; font-size: 24px; line-height: 1; }
+#position { min-width: 80px; text-align: center; color: var(--muted); font-size: 12px; }
+.controls { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 18px 0; flex-wrap: wrap; }
+.controls select { width: auto; min-width: 160px; }
+.modes { display: flex; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; margin: 0; padding: 0; }
+.modes label { margin: 0; padding: 9px 12px; cursor: pointer; font-size: 13px; }
+.modes label:has(input:checked) { background: var(--wash); color: var(--accent); }
+.modes input { min-height: 0; width: auto; accent-color: var(--accent); margin-right: 5px; }
+.entity { border-top: 1px solid var(--line); padding: 24px 0 28px; }
+.entity-heading { display: flex; align-items: baseline; gap: 16px; justify-content: space-between; }
+.entity h3 { font-family: Georgia, serif; font-size: 21px; font-weight: 400; margin: 0 0 14px; overflow-wrap: anywhere; }
+.count { flex-shrink: 0; color: var(--accent); font-size: 12px; }
+.answer { margin: 0; line-height: 1.8; max-width: 960px; overflow-wrap: anywhere; white-space: pre-wrap; }
+table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+th { color: var(--muted); font-size: 11px; font-weight: 600; text-transform: uppercase; background: #f0f4f2; }
+th, td { text-align: left; padding: 12px; border-bottom: 1px solid var(--line); vertical-align: top; overflow-wrap: anywhere; line-height: 1.5; }
+td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; font-size: 12px; }
+.status { padding: 40px 0; color: var(--muted); line-height: 1.6; }
+.error { color: #a32944; }
+[hidden] { display: none !important; }
+@media (min-width: 1500px) { main { padding-left: 56px; padding-right: 56px; } }
+@media (max-width: 760px) {
+  header { padding: 14px 18px; gap: 12px; }
+  .brand { font-size: 23px; padding-right: 12px; }
+  h1 { font-size: 15px; }
+  .tag { display: none; }
+  .workspace { grid-template-columns: minmax(0, 1fr); }
+  aside { padding: 18px; border-right: 0; border-bottom: 1px solid var(--line); }
+  .filters { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .field { margin-bottom: 12px; min-width: 0; }
+  #record-list { max-height: 145px; min-height: 0; }
+  .list-heading { margin-top: 14px; }
+  main { padding: 22px 18px 40px; }
+  .toolbar h2 { font-size: 22px; }
+  .entity-heading { align-items: flex-start; }
+  th, td { padding: 9px 6px; font-size: 12px; }
+}
+</style>
+</head>
+<body>
+<header><span class="brand">KILT</span><h1>Entity summaries</h1><span class="tag">ANNOTATION POOLS</span></header>
+<div class="workspace">
+<aside aria-label="Datasets and records">
+  <div class="filters">
+    <div class="field"><label for="folder">Prediction folder</label><select id="folder" disabled></select></div>
+    <div class="field"><label for="dataset">Dataset</label><select id="dataset" disabled></select></div>
+  </div>
+  <label for="search">Search records</label><input id="search" type="search" placeholder="Record ID, entity, or summary" disabled>
+  <div class="list-heading"><span>RECORDS</span><span id="record-count">0</span></div>
+  <nav id="record-list" aria-label="Records"></nav>
+</aside>
+<main>
+  <div class="toolbar">
+    <div><span class="label">RECORD</span><h2 id="record-title">Entity summaries</h2><div class="record-meta" id="record-meta"></div></div>
+    <div class="navigation"><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
+  </div>
+  <div class="controls" id="controls" hidden>
+    <div><label for="annotator">Annotator</label><select id="annotator"></select></div>
+    <fieldset class="modes" aria-label="Summary view"><label><input type="radio" name="view" value="summary" checked>Summary</label><label><input type="radio" name="view" value="triples">Triples</label></fieldset>
+  </div>
+  <div id="status" class="status" role="status" aria-live="polite">Loading datasets...</div>
+  <div id="entities"></div>
+</main>
+</div>
+<script>
+const element = (id) => document.getElementById(id);
+let datasets = [], records = [], filtered = [], selected = -1, requestNumber = 0;
+let annotatorIndex = 0;
+const text = (tag, value, className) => {
+  const node = document.createElement(tag);
+  node.textContent = value;
+  if (className) node.className = className;
+  return node;
+};
+function setStatus(message, error = false) {
+  element('status').textContent = message;
+  element('status').hidden = !message;
+  element('status').classList.toggle('error', error);
+}
+async function getJSON(url) {
+  const response = await fetch(url);
+  const data = await response.json();
+  if (!response.ok) throw new Error(data.error || 'Unable to load dataset');
+  return data;
+}
+function groups(record) { return record.output.flatMap((output) => output.summary_by_entity); }
+function updateList() {
+  const query = element('search').value.trim().toLowerCase();
+  filtered = records.map((record, index) => ({record, index})).filter(({record}) => {
+    const contents = [record.id, ...groups(record).flatMap((group) => [group.topic_entity, group.answer, ...group.triples.flat()])];
+    return contents.join(' ').toLowerCase().includes(query);
+  });
+  if (!filtered.some((item) => item.index === selected)) selected = filtered[0]?.index ?? -1;
+  element('record-count').textContent = `${filtered.length} / ${records.length}`;
+  element('record-list').replaceChildren(...filtered.map(({record, index}) => {
+    const button = text('button', '', 'record-item');
+    button.setAttribute('aria-current', String(index === selected));
+    button.append(text('span', record.id || `Record ${index + 1}`, 'record-id'));
+    const names = [...new Set(groups(record).map((group) => group.topic_entity))];
+    button.append(text('span', names.join(' / ') || 'No entity summaries', 'record-entities'));
+    button.onclick = () => { selected = index; updateList(); };
+    return button;
+  }));
+  renderRecord();
+}
+function renderRecord() {
+  const record = records[selected];
+  const position = filtered.findIndex((item) => item.index === selected);
+  element('position').textContent = `${position + 1} / ${filtered.length}`;
+  element('previous').disabled = position <= 0;
+  element('next').disabled = position < 0 || position >= filtered.length - 1;
+  element('entities').replaceChildren();
+  element('controls').hidden = !record || !record.output.length;
+  element('record-title').textContent = record ? record.id || `Record ${selected + 1}` : 'Entity summaries';
+  element('record-meta').textContent = '';
+  if (!record) { setStatus(records.length ? 'No matching records.' : 'No records in this dataset.'); return; }
+  if (annotatorIndex >= record.output.length) annotatorIndex = 0;
+  element('annotator').replaceChildren(...record.output.map((output, index) => new Option(output.annotator, index)));
+  element('annotator').value = annotatorIndex;
+  const summaries = record.output[annotatorIndex]?.summary_by_entity || [];
+  const tripleCount = summaries.reduce((count, group) => count + group.triples.length, 0);
+  element('record-meta').textContent = `${summaries.length} entities / ${tripleCount} selected triples`;
+  setStatus(summaries.length ? '' : 'No entity summaries for this annotator.');
+  const mode = document.querySelector('input[name="view"]:checked').value;
+  for (const group of summaries) {
+    const section = text('section', '', 'entity');
+    const heading = text('div', '', 'entity-heading');
+    heading.append(text('h3', group.topic_entity || 'Unassigned entity'), text('span', `${group.triples.length} triples`, 'count'));
+    section.append(heading);
+    if (mode === 'summary') section.append(text('p', group.answer || 'No summary text.', 'answer'));
+    else {
+      const table = document.createElement('table');
+      const head = document.createElement('thead'), row = document.createElement('tr');
+      for (const name of ['Head', 'Relation', 'Tail']) { const cell = text('th', name); cell.scope = 'col'; row.append(cell); }
+      head.append(row); table.append(head);
+      const body = document.createElement('tbody');
+      for (const triple of group.triples) { const row = document.createElement('tr'); for (const value of triple) row.append(text('td', value)); body.append(row); }
+      table.append(body); section.append(table);
+    }
+    element('entities').append(section);
+  }
+}
+async function loadDataset() {
+  const currentRequest = ++requestNumber;
+  records = []; filtered = []; selected = -1;
+  updateList(); setStatus('Loading summaries...');
+  element('search').disabled = true;
+  try {
+    const result = await getJSON(`/api/records?dataset=${encodeURIComponent(element('dataset').value)}`);
+    if (currentRequest !== requestNumber) return;
+    records = result;
+    element('search').disabled = false;
+    updateList();
+  } catch (error) { if (currentRequest === requestNumber) setStatus(error.message, true); }
+}
+function chooseFolder() {
+  const previousName = element('dataset').selectedOptions[0]?.textContent;
+  const available = datasets.filter((dataset) => dataset.folder === element('folder').value);
+  element('dataset').replaceChildren(...available.map((dataset) => new Option(dataset.name, dataset.key)));
+  const previous = available.find((dataset) => dataset.name === previousName);
+  if (previous) element('dataset').value = previous.key;
+  element('search').value = '';
+  loadDataset();
+}
+element('folder').onchange = chooseFolder;
+element('dataset').onchange = () => { element('search').value = ''; loadDataset(); };
+element('search').oninput = updateList;
+element('annotator').onchange = () => { annotatorIndex = Number(element('annotator').value); renderRecord(); };
+for (const radio of document.querySelectorAll('input[name="view"]')) radio.onchange = renderRecord;
+function moveRecord(offset) {
+  const position = filtered.findIndex((item) => item.index === selected);
+  const target = filtered[position + offset];
+  if (target) { selected = target.index; updateList(); element('record-list').querySelector('[aria-current="true"]')?.scrollIntoView({block: 'nearest'}); }
+}
+element('previous').onclick = () => moveRecord(-1);
+element('next').onclick = () => moveRecord(1);
+async function initialize() {
+  try {
+    datasets = await getJSON('/api/datasets');
+    if (!datasets.length) { setStatus('No annotation-pool JSONL files found.'); return; }
+    element('folder').replaceChildren(...[...new Set(datasets.map((dataset) => dataset.folder))].map((folder) => new Option(folder, folder)));
+    element('folder').disabled = false; element('dataset').disabled = false;
+    chooseFolder();
+  } catch (error) { setStatus(error.message, true); }
+}
+initialize();
+</script>
+</body>
+</html>
