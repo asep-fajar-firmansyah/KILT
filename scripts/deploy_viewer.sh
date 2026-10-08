@@ -9,7 +9,7 @@ fi
 REPO_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
 SERVICE_USER=${SERVICE_USER:-${SUDO_USER:-root}}
 VIEWER_HOST=${VIEWER_HOST:-127.0.0.1}
-VIEWER_PORT=${VIEWER_PORT:-8765}
+VIEWER_PORT=${VIEWER_PORT:-8022}
 PYTHON_BIN=${PYTHON_BIN:-}
 if [[ -z "$PYTHON_BIN" ]]; then
     if [[ -x "$REPO_DIR/.venv/bin/python" ]]; then
