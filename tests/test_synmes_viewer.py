@@ -69,7 +69,11 @@ class TestSynMESViewer(unittest.TestCase):
             url = f"http://127.0.0.1:{server.server_port}"
             try:
                 with urlopen(url + "/") as response:
-                    self.assertIn(b"Entity summaries", response.read())
+                    page = response.read()
+                    self.assertIn(b"Entity summaries", page)
+                    self.assertIn(b'id="model"', page)
+                    self.assertNotIn(b"Prediction folder", page)
+                    self.assertNotIn(b'id="folder"', page)
                 with urlopen(url + "/api/datasets") as response:
                     self.assertEqual(len(json.load(response)), 3)
                 with urlopen(url + "/workspace/dataset/api/datasets") as response:
