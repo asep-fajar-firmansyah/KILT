@@ -1,0 +1,5090 @@
+{
+  "graph_id": 7328,
+  "subgraph": [
+    [
+      "Honduras",
+      "freebase.valuenotation.is_reviewed",
+      "Languages spoken"
+    ],
+    [
+      "Honduras",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Honduras"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Honduras"
+    ],
+    [
+      "Honduras",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Honduras"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Honduras"
+    ],
+    [
+      "Honduras",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Honduras",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Honduras",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Honduras"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Honduras"
+    ],
+    [
+      "Honduras",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Honduras"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Honduras"
+    ],
+    [
+      "Honduras",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Honduras",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Honduras",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Honduras",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Honduras",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Uruguay",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Uruguay",
+      "location.location.time_zones",
+      "Uruguay Time Zone"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Uruguay"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Uruguay"
+    ],
+    [
+      "Uruguay",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Uruguay"
+    ],
+    [
+      "Uruguay",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Uruguay"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Uruguay"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Uruguay"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Uruguay"
+    ],
+    [
+      "Uruguay",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Uruguay",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Uruguay",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Uruguay",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Uruguay"
+    ],
+    [
+      "Uruguay",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Uruguay",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Uruguay",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Uruguay"
+    ],
+    [
+      "Uruguay",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Uruguay",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Uruguay",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Uruguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Uruguay"
+    ],
+    [
+      "Uruguay",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Uruguay",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Uruguay",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Languages spoken",
+      "rdf-schema#range",
+      "Human Language"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Languages spoken"
+    ],
+    [
+      "Languages spoken",
+      "type.property.master_property",
+      "Spoken in countries"
+    ],
+    [
+      "Human Language",
+      "type.type.expected_by",
+      "Languages spoken"
+    ],
+    [
+      "Spoken in countries",
+      "type.property.reverse_property",
+      "Languages spoken"
+    ],
+    [
+      "Languages spoken",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Spoken in countries",
+      "owl#inverseOf",
+      "Languages spoken"
+    ],
+    [
+      "Languages spoken",
+      "type.property.expected_type",
+      "Human Language"
+    ],
+    [
+      "Languages spoken",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Argentina",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Paraguay",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Martinique"
+    ],
+    [
+      "Martinique",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Chile"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Costa Rica"
+    ],
+    [
+      "Brazil",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Trinidad and Tobago"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Colombia"
+    ],
+    [
+      "United States of America",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "El Salvador",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Brazil"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Venezuela"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Guatemala"
+    ],
+    [
+      "Trinidad and Tobago",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Argentina"
+    ],
+    [
+      "Chile",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Peru",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Panama"
+    ],
+    [
+      "Panama",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Paraguay"
+    ],
+    [
+      "Mexico",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "United States of America"
+    ],
+    [
+      "Ecuador",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Ecuador"
+    ],
+    [
+      "Costa Rica",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Peru"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Mexico"
+    ],
+    [
+      "Venezuela",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "El Salvador"
+    ],
+    [
+      "Colombia",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Guatemala",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "El Salvador"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Costa Rica"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "Central America"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "Central America"
+    ],
+    [
+      "La Amistad International Park",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Panama"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Guatemala"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "La Amistad International Park"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Belize"
+    ],
+    [
+      "Central America",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Costa Rica"
+    ],
+    [
+      "Dominica",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Costa Rica",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Bahamas",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Bahamas"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Guatemala"
+    ],
+    [
+      "Bermuda",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Alaska Time Zone"
+    ],
+    [
+      "Dominica",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Saint Vincent and the Grenadines"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Grenada"
+    ],
+    [
+      "Saba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Montserrat",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Nicaragua",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "El Salvador"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Cuba"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "British Virgin Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Newfoundland Time Zone"
+    ],
+    [
+      "North America",
+      "common.topic.notable_types",
+      "Continent"
+    ],
+    [
+      "Saint Lucia",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Dominica"
+    ],
+    [
+      "Grenada",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Trinidad and Tobago",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Panama"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Aruba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Barbados",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Barbados",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Trinidad and Tobago"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "West Greenland Time Zone"
+    ],
+    [
+      "Trinidad and Tobago",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Caribbean",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Jamaica",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Mexico",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Saint Lucia"
+    ],
+    [
+      "Grenada",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "West Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "North America"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Saint Pierre and Miquelon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Saint Pierre and Miquelon Time Zone"
+    ],
+    [
+      "Antigua and Barbuda",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Nicaragua"
+    ],
+    [
+      "Antigua and Barbuda",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "Bonaire",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Vcoins",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Martinique",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Haiti",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Jamaica"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Curaçao",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Guadeloupe",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Saint Lucia",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Antigua and Barbuda"
+    ],
+    [
+      "Canada",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Bahamas",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "Dominican Republic",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Saint Kitts and Nevis"
+    ],
+    [
+      "Anguilla",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Canada"
+    ],
+    [
+      "Guatemala",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "El Salvador",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Cuba",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Sixaola River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "East Greenland Time Zone"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Barbados"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Mexico"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Canada",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cerro Echandi",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mexico",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Nicaragua",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Panama",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Dominican Republic"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vcoins"
+    ],
+    [
+      "San Juan River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Belize",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "North America",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "Jamaica",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "East Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Belize"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Sint Eustatius",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Cerro Kamuk",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Sint Maarten",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Haiti"
+    ],
+    [
+      "Saint Barthélemy",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Argentina"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Chile"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Latin America",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "Argentina",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.partially_contains",
+      "Caribbean"
+    ],
+    [
+      "Latin America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Bolivia"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Panama"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Mexico"
+    ],
+    [
+      "Paraguay",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "El Salvador"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Haiti"
+    ],
+    [
+      "Caribbean",
+      "location.location.partially_containedby",
+      "Latin America"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Guatemala"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Belize"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Paraguay"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Venezuela"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Dominican Republic"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Nicaragua"
+    ],
+    [
+      "Argentina Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Cuba"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Nicaragua",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Peru",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "Venezuela",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Bolivia",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Chile",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Peru"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Costa Rica"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Mexico",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Argentina Time Zone"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "Latin America"
+    ],
+    [
+      "Costa Rica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Paraguay",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Bolivia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Chile",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Jamaica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Colombia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Brazil",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Saint Lucia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Argentina",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Barbados",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Peru",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Aruba",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Suriname",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Grenada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Trinidad and Tobago",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "El Salvador",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Nicaragua",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Guatemala",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Venezuela",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Belize",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Bermuda",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Dominican Republic",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Haiti",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Ecuador",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Mexico",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "British Virgin Islands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Guyana",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Dominica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Antigua and Barbuda",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Bahamas",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Cuba",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Cayman Islands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Saint Lucia"
+    ],
+    [
+      "Mexico",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Suriname"
+    ],
+    [
+      "Peru",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Saint Lucia",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Venezuela"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "United States of America"
+    ],
+    [
+      "Dominica",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Costa Rica",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Venezuela",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Chile",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Guyana"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Argentina"
+    ],
+    [
+      "Paraguay",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Mexico"
+    ],
+    [
+      "Barbados",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Guyana",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Costa Rica"
+    ],
+    [
+      "Belize",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Brazil",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Argentina",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Antigua and Barbuda",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Canada",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Brazil"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Peru"
+    ],
+    [
+      "Suriname",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Saint Vincent and the Grenadines"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Belize"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Barbados"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Dominica"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Canada"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Paraguay"
+    ],
+    [
+      "United States of America",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Antigua and Barbuda"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Chile"
+    ],
+    [
+      "Barbados",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Cuba",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Costa Rica",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Cuba",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Argentina"
+    ],
+    [
+      "Ecuador",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Chile",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Nicaragua",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Panama"
+    ],
+    [
+      "Venezuela",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Guatemala",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Dominican Republic"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Nicaragua"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Guatemala",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Chile"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Guyana"
+    ],
+    [
+      "Colombia",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Peru"
+    ],
+    [
+      "Ecuador",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Mexico",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Puerto Rico"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Mexico"
+    ],
+    [
+      "Argentina",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Chile",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Guyana",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Bolivia",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Saint Lucia"
+    ],
+    [
+      "Panama",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Belize",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Colombia",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Argentina",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Venezuela"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Belize"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Curaçao"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Cuba"
+    ],
+    [
+      "El Salvador",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Bolivia"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "El Salvador",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Peru",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Paraguay"
+    ],
+    [
+      "Saint Lucia",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Costa Rica",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Bolivia",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Costa Rica"
+    ],
+    [
+      "Paraguay",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Paraguay",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Peru",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Colombia"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Ecuador"
+    ],
+    [
+      "Venezuela",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Barbados"
+    ],
+    [
+      "Spanish Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Panama",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "El Salvador"
+    ],
+    [
+      "Trabajo",
+      "book.periodical.language",
+      "Spanish Language"
+    ],
+    [
+      "Nicaragua",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Curaçao",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Guatemala"
+    ],
+    [
+      "Venezuela",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Martinique",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "El Salvador",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Bermuda",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Nicaragua",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Dominican Republic",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Bahamas",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Main Country",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Cuba",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Falkland Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Collectivity of Saint Martin",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Saint Barthélemy",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Jamaica",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Chile",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Dominica",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Ecuador",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Belize",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Bolivia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Aruba",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Puerto Rico",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Paraguay",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Peru",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Saint Lucia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Main Country",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "United States Virgin Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Canada",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Argentina",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Official Language",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Bonaire",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Barbados",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Trinidad and Tobago",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "South Georgia and the South Sandwich Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Official Language",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Anguilla",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Official Language"
+    ],
+    [
+      "Montserrat",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Cayman Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Panama",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Colombia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Brazil",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Sint Maarten",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Costa Rica",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Mexico",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Guadeloupe",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Guatemala",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Antigua and Barbuda",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Guyana",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Curaçao",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "British Virgin Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Suriname",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Spoken in countries",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Spoken in countries",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Grenada",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Haiti",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Bahamas",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Mexico"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "French Guiana Time Zone"
+    ],
+    [
+      "Tunebo, Central Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Turks and Caicos Islands"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Belize"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Costa Rica"
+    ],
+    [
+      "Peru",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Barbados",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Aruba",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.statistical_region.population",
+      "m.0pdrw2s"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Ecuador"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Cuba Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Ecuador Time Zone"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "Americas"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Paraguay"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Philippi Corporate Solutions"
+    ],
+    [
+      "French Guiana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bolivia"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "El Salvador"
+    ],
+    [
+      "Bribri Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Sint Maarten",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "South Georgia and the South Sandwich Islands Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Antigua and Barbuda"
+    ],
+    [
+      "Americas",
+      "symbols.name_source.namesakes",
+      "Americium"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Sticky & Sweet Tour"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Sint Maarten"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "Americas",
+      "location.statistical_region.population",
+      "m.011n96gt"
+    ],
+    [
+      "Maryland Campaign",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "common.topic.webpage",
+      "m.09yfznn"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "South America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Navassa Island"
+    ],
+    [
+      "Burberry",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "2014 FINA Men's Water Polo World League",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.geolocation",
+      "m.0wn3cvp"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Burberry"
+    ],
+    [
+      "West Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Barí Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Pan American Health Organization",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Arhuaco Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Caribbean"
+    ],
+    [
+      "Paraguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Maryland Campaign"
+    ],
+    [
+      "South America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sudoku Master"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Peru"
+    ],
+    [
+      "Argentina",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Eastern Caribbean Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Nicaragua"
+    ],
+    [
+      "m.09yfznn",
+      "common.webpage.topic",
+      "Americas"
+    ],
+    [
+      "Montserrat",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Argentina"
+    ],
+    [
+      "Americas",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfx8r"
+    ],
+    [
+      "m.0b4647l",
+      "common.webpage.topic",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Brasília Time Zone"
+    ],
+    [
+      "Kogi Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Malayo Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Anguilla"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "g.122srxp9"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Amazon Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Barthélemy"
+    ],
+    [
+      "Jamaica",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Canada",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Falkland Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Mexico",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Guyana"
+    ],
+    [
+      "Americas",
+      "common.topic.notable_for",
+      "g.1255lzm84"
+    ],
+    [
+      "Caribbean",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Lucia"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Argentina Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Vincent and the Grenadines"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "British Virgin Islands"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Barbados"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Clipperton Island Time Zone"
+    ],
+    [
+      "Martinique",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Uruguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Chile",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Saint Pierre and Miquelon Time Zone"
+    ],
+    [
+      "Tunebo, Western Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Chile"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Martinique"
+    ],
+    [
+      "Suriname",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Uruguay Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Guyana Time Zone"
+    ],
+    [
+      "Sticky & Sweet Tour",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Nicaragua",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "common.topic.webpage",
+      "m.0b4647l"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Guatemala"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Pan American Health Organization"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Cayman Islands"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Grenada"
+    ],
+    [
+      "m.07nfx8r",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Americas"
+    ],
+    [
+      "Argentina Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Cuba"
+    ],
+    [
+      "Tunebo, Barro Negro Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Curaçao",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Antigua and Barbuda",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Brazil",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "m.09w_5_4",
+      "common.webpage.topic",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.statistical_region.population",
+      "m.0ngmdzd"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Montserrat"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Jamaica"
+    ],
+    [
+      "East Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "g.122nc6z5"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Guadeloupe"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Peru Time Zone"
+    ],
+    [
+      "Saint Barthélemy",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "Americas"
+    ],
+    [
+      "Bonaire",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Collectivity of Saint Martin"
+    ],
+    [
+      "Cofán Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Paraguay",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Newfoundland Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Dominican Republic"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vcoins"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Suriname"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Brazil"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Eastern Caribbean Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Trinidad and Tobago"
+    ],
+    [
+      "Guadeloupe",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Colombia"
+    ],
+    [
+      "Jamaican Creole English Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "British Virgin Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "United States Virgin Islands"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bahamas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Aruba"
+    ],
+    [
+      "Americas",
+      "common.topic.webpage",
+      "m.09w_5_4"
+    ],
+    [
+      "Collectivity of Saint Martin",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Amazon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Sint Eustatius"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "East Greenland Time Zone"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "United States of America"
+    ],
+    [
+      "Americas",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Curaçao"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Kitts and Nevis"
+    ],
+    [
+      "French Guiana",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Bermuda",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Brasília Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Jackson's Valley Campaign",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "West Greenland Time Zone"
+    ],
+    [
+      "Venezuela",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Bolivia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "common.topic.article",
+      "m.07c5x"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Anglo-Spanish War"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Haiti"
+    ],
+    [
+      "Grenada",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Trinidad and Tobago",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Suriname Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Pierre and Miquelon"
+    ],
+    [
+      "Americas",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Falkland Islands Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Suriname Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Colombia Time Zone"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Trade Union Confederation of the Americas"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Canada"
+    ],
+    [
+      "Bolivia",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Panama"
+    ],
+    [
+      "Falkland Islands Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Alaska Time Zone"
+    ],
+    [
+      "Guyana",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "common.topic.notable_types",
+      "Continent"
+    ],
+    [
+      "American Theater",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Galápagos Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Venezuela"
+    ],
+    [
+      "Colombia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Chile Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Fernando de Noronha Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Fernando de Noronha Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Venezuela Time Zone"
+    ],
+    [
+      "Philippi Corporate Solutions",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Colombia",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Paraguay Time Zone"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Ecuador",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Anguilla",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Bolivia Time Zone"
+    ],
+    [
+      "Kuna, Border Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Chile Time Zone"
+    ],
+    [
+      "South Georgia and the South Sandwich Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Anglo-Spanish War",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Jackson's Valley Campaign"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Falkland Islands"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bonaire"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "American Theater"
+    ],
+    [
+      "Americas",
+      "common.topic.image",
+      "LocationAmericas"
+    ],
+    [
+      "Sint Eustatius",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Tunebo, Angosturas Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Guyana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "2014 FINA Men's Water Polo World League"
+    ],
+    [
+      "Saint Lucia",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Saint Pierre and Miquelon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Saba",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saba"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "French Guiana"
+    ],
+    [
+      "Dominica",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_pbk6t"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Galápagos Time Zone"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Western European Time Zone"
+    ],
+    [
+      "Vcoins",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Dominica"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bermuda"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Bolivia"
+    ],
+    [
+      "Argentina",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Dominican Republic",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Ecuador"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Colombia"
+    ],
+    [
+      "Costa Rica",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "United States of America"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Paraguay"
+    ],
+    [
+      "Venezuela",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Canada"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Mexico"
+    ],
+    [
+      "Cuba",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Guatemala",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Brazil",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Venezuela"
+    ],
+    [
+      "Haiti",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Haiti"
+    ],
+    [
+      "Canada",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Ecuador",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United States of America",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Colombia",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Panama"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Dominican Republic"
+    ],
+    [
+      "Bolivia",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Paraguay",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Brazil"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Chile"
+    ],
+    [
+      "m.05kyh5f",
+      "organization.organization_membership.organization",
+      "United Nations"
+    ],
+    [
+      "El Salvador",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Nicaragua",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Cuba"
+    ],
+    [
+      "Panama",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Mexico",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Guatemala"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Costa Rica"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Argentina"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Nicaragua"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "El Salvador"
+    ],
+    [
+      "Chile",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Peru"
+    ],
+    [
+      "Peru",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Talamanca",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Curridabat",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Canada",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Barva",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "San José",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Belize",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Santa Bárbara",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "San Mateo",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Guatemala",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Panama",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Sovereign state"
+    ],
+    [
+      "Dominica",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.administrative_area_level.examples",
+      "Sovereign state"
+    ],
+    [
+      "Peru",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Paraguay",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Guyana",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Argentina",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Trinidad and Tobago",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Dominican Republic",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Colombia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Guatemala",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Antigua and Barbuda",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Suriname",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Sovereign state"
+    ],
+    [
+      "Belize",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Haiti",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Jamaica",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "El Salvador",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Canada",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Earth"
+    ],
+    [
+      "Nicaragua",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Barbados",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Earth"
+    ],
+    [
+      "Bolivia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Costa Rica",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Cuba",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Grenada",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Ecuador",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Chile",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.schema.administrative_area_type.level",
+      "Sovereign state"
+    ],
+    [
+      "Saint Lucia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Mexico",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Bahamas",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Venezuela",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Brazil",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Ecuador",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Suriname",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Guatemala",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Canada",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Belize",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Colombia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Saint Lucia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "United States of America"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Guyana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Venezuela",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Panama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Bolivia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Bahamas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Costa Rica",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Mexico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "El Salvador",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "South America",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "Paraguay",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Trinidad and Tobago",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Chile",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Dominican Republic",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Barbados",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Brazil",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Antigua and Barbuda",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Grenada",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Argentina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "Haiti",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Peru",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Jamaica",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Dominica",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Cuba",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Nicaragua",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "South America"
+    ],
+    [
+      "Martinique",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Dominican Republic",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Bolivia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Lucia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Falkland Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "South America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Canada",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Sint Maarten",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "French Guiana",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Curaçao",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Grenada",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Bermuda",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Dominica",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Bonaire",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Aruba",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Paraguay",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Guyana",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Brazil",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Suriname",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Sint Eustatius",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Barthélemy",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Venezuela",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saba",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "South Georgia and the South Sandwich Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Jamaica",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Anguilla",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Chile",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Montserrat",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Barbados",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Antigua and Barbuda",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Trinidad and Tobago",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Argentina",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "United States Virgin Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Uruguay Time Zone"
+    ],
+    [
+      "Uruguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Mexico"
+    ],
+    [
+      "Bolivia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Costa Rica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Bermuda",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Brazil"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Bolivia"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Chile"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Bermuda"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Mexico",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Costa Rica"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Colombia"
+    ],
+    [
+      "Brazil",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Argentina",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Colombia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Peru"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Argentina"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Chile",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Peru",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Trinidad and Tobago",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Guyana",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Colombia",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Cuba"
+    ],
+    [
+      "Haiti",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Bonaire"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Bahamas"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Peru"
+    ],
+    [
+      "Chile",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Panama",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Paraguay"
+    ],
+    [
+      "Bolivia",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Costa Rica"
+    ],
+    [
+      "Nicaragua",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Bolivia"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Nicaragua"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Colombia"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Chile"
+    ],
+    [
+      "Bahamas",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Guatemala"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Panama"
+    ],
+    [
+      "Paraguay",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Trinidad and Tobago"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Haiti"
+    ],
+    [
+      "Guatemala",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Guyana"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Ecuador"
+    ],
+    [
+      "Cuba",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Peru",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Martinique",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Bonaire",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Martinique"
+    ],
+    [
+      "Ecuador",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Dominican Republic"
+    ],
+    [
+      "Costa Rica",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Panama"
+    ],
+    [
+      "Costa Rica",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Guatemala",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "El Salvador",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Argentina",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Guatemala"
+    ],
+    [
+      "Nicaragua",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Venezuela"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Bolivia"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "United States of America"
+    ],
+    [
+      "Paraguay",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Peru",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Ecuador",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Peru"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Chile"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Costa Rica"
+    ],
+    [
+      "United States of America",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Brazil",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Panama",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Mexico"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Ecuador"
+    ],
+    [
+      "Bolivia",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Colombia",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Chile",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "El Salvador"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Argentina"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Colombia"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Nicaragua"
+    ],
+    [
+      "Mexico",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Brazil"
+    ],
+    [
+      "Venezuela",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Paraguay"
+    ],
+    [
+      "Falkland Islands",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "South America"
+    ],
+    [
+      "Chile",
+      "location.location.primarily_containedby",
+      "South America"
+    ],
+    [
+      "Ecuador",
+      "location.location.partially_containedby",
+      "South America"
+    ],
+    [
+      "Guyana",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Bolivia",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Bolivia Time Zone"
+    ],
+    [
+      "Peru",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Bolivia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.contains_major_portion_of",
+      "Ecuador"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Fernando de Noronha Time Zone"
+    ],
+    [
+      "Brazil",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.partially_contains",
+      "Ecuador"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Amazon Time Zone"
+    ],
+    [
+      "South America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vcoins"
+    ],
+    [
+      "Chibchan languages",
+      "language.language_family.geographic_distribution",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Ecuador Time Zone"
+    ],
+    [
+      "South America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Suriname",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Falkland Islands Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "South America",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "Colombia",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Vcoins",
+      "organization.organization.geographic_scope",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Paraguay Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Colombia Time Zone"
+    ],
+    [
+      "Argentina",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Amazon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Guyana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Argentina Time Zone"
+    ],
+    [
+      "French Guiana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Chile Time Zone"
+    ],
+    [
+      "Paraguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Ecuador",
+      "location.location.primarily_containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Guyana Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Brasília Time Zone"
+    ],
+    [
+      "Chile Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Paraguay",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "French Guiana Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Venezuela Time Zone"
+    ],
+    [
+      "South America",
+      "common.topic.notable_types",
+      "Continent"
+    ],
+    [
+      "Suriname Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.contains_major_portion_of",
+      "Chile"
+    ],
+    [
+      "Colombia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Fernando de Noronha Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Falkland Islands Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Brasília Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Suriname Time Zone"
+    ],
+    [
+      "Argentina Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "South America"
+    ],
+    [
+      "Venezuela",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "French Guiana",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Peru Time Zone"
+    ]
+  ]
+}

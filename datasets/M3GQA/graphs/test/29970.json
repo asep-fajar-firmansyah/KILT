@@ -1,0 +1,8485 @@
+{
+  "graph_id": 29970,
+  "subgraph": [
+    [
+      "Anaheim",
+      "location.location.contains",
+      "Disney California Adventure"
+    ],
+    [
+      "Disney California Adventure",
+      "location.location.containedby",
+      "Anaheim"
+    ],
+    [
+      "Disney California Adventure",
+      "location.location.containedby",
+      "Disneyland Resort"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.contains",
+      "Disney California Adventure"
+    ],
+    [
+      "Disney California Adventure",
+      "common.topic.notable_types",
+      "Amusement Park"
+    ],
+    [
+      "Disney California Adventure",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Disney California Adventure",
+      "travel.tourist_attraction.near_travel_destination",
+      "Anaheim"
+    ],
+    [
+      "Anaheim",
+      "travel.travel_destination.tourist_attractions",
+      "Disney California Adventure"
+    ],
+    [
+      "Disney California Adventure",
+      "amusement_parks.park.rides",
+      "Silly Symphony Swings"
+    ],
+    [
+      "California",
+      "travel.travel_destination.tourist_attractions",
+      "Disney California Adventure"
+    ],
+    [
+      "Disney California Adventure",
+      "travel.tourist_attraction.near_travel_destination",
+      "California"
+    ],
+    [
+      "Monsanto House of the Future",
+      "travel.tourist_attraction.near_travel_destination",
+      "Disneyland"
+    ],
+    [
+      "Disneyland",
+      "book.book_subject.works",
+      "Walt's Revolution!: By the Numbers"
+    ],
+    [
+      "Disneyland",
+      "freebase.valuenotation.is_reviewed",
+      "Contact webpages"
+    ],
+    [
+      "Disneyland",
+      "amusement_parks.park.areas",
+      "Fantasyland"
+    ],
+    [
+      "Disneyland",
+      "common.topic.notable_types",
+      "Amusement Park"
+    ],
+    [
+      "Anaheim",
+      "location.location.contains",
+      "Disneyland"
+    ],
+    [
+      "Disney Cruise Line",
+      "common.topic.subject_of",
+      "Disneyland"
+    ],
+    [
+      "Disneyland",
+      "travel.tourist_attraction.near_travel_destination",
+      "Los Angeles"
+    ],
+    [
+      "Disneyland",
+      "travel.hotel_brand.hotels_in_this_brand",
+      "Disney's Grand Californian Hotel & Spa"
+    ],
+    [
+      "Disneyland",
+      "travel.travel_destination.tourist_attractions",
+      "Monsanto House of the Future"
+    ],
+    [
+      "Disneyland",
+      "location.location.containedby",
+      "Anaheim"
+    ],
+    [
+      "Los Angeles",
+      "travel.travel_destination.tourist_attractions",
+      "Disneyland"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.ride.park",
+      "Disneyland"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Disneyland"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "book.written_work.subjects",
+      "Disneyland"
+    ],
+    [
+      "Disneyland",
+      "amusement_parks.park.rides",
+      "It's a Small World"
+    ],
+    [
+      "Disneyland",
+      "location.location.containedby",
+      "Disneyland Resort"
+    ],
+    [
+      "Disneyland",
+      "common.topic.subjects",
+      "Disney Cruise Line"
+    ],
+    [
+      "Disneyland",
+      "amusement_parks.park.rides",
+      "Disneyland Monorail System"
+    ],
+    [
+      "Disneyland",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "Anaheim",
+      "travel.travel_destination.tourist_attractions",
+      "Disneyland"
+    ],
+    [
+      "Disneyland",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Disneyland",
+      "travel.tourist_attraction.near_travel_destination",
+      "Anaheim"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.contains",
+      "Disneyland"
+    ],
+    [
+      "Downtown Disney",
+      "location.location.containedby",
+      "Anaheim"
+    ],
+    [
+      "Downtown Disney",
+      "location.location.containedby",
+      "Disneyland Resort"
+    ],
+    [
+      "Downtown Disney",
+      "common.topic.notable_types",
+      "Amusement Park"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.contains",
+      "Downtown Disney"
+    ],
+    [
+      "Anaheim",
+      "location.location.contains",
+      "Downtown Disney"
+    ],
+    [
+      "Anaheim",
+      "travel.travel_destination.tourist_attractions",
+      "Downtown Disney"
+    ],
+    [
+      "Downtown Disney",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Downtown Disney",
+      "travel.tourist_attraction.near_travel_destination",
+      "Anaheim"
+    ],
+    [
+      "Downtown Disney",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "WestCOT",
+      "common.topic.notable_types",
+      "Amusement Park"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.contains",
+      "WestCOT"
+    ],
+    [
+      "WestCOT",
+      "location.location.containedby",
+      "Disneyland Resort"
+    ],
+    [
+      "Anaheim",
+      "location.location.contains",
+      "Disneyland Resort"
+    ],
+    [
+      "Anaheim",
+      "location.location.contains",
+      "Monsanto House of the Future"
+    ],
+    [
+      "Anaheim",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Anaheim",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "Angel Stadium of Anaheim",
+      "location.location.containedby",
+      "Anaheim"
+    ],
+    [
+      "Anaheim",
+      "location.hud_county_place.place",
+      "Anaheim"
+    ],
+    [
+      "Angel Stadium of Anaheim",
+      "travel.tourist_attraction.near_travel_destination",
+      "Anaheim"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.containedby",
+      "Anaheim"
+    ],
+    [
+      "Anaheim",
+      "travel.travel_destination.tourist_attractions",
+      "Angel Stadium of Anaheim"
+    ],
+    [
+      "Anaheim",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Anaheim",
+      "location.location.contains",
+      "Angel Stadium of Anaheim"
+    ],
+    [
+      "Anaheim",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Monsanto House of the Future",
+      "location.location.containedby",
+      "Anaheim"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.geolocation",
+      "m.0j603mh"
+    ],
+    [
+      "Disneyland Resort",
+      "common.topic.article",
+      "m.01zy05"
+    ],
+    [
+      "Disneyland Resort",
+      "base.giftcards.gift_card_issuer.gift_cards",
+      "Disneyland Resort Gift Card"
+    ],
+    [
+      "Disneyland Resort",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Disneyland Resort",
+      "common.topic.notable_types",
+      "Venue"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.contains",
+      "Disney's Grand Californian Hotel & Spa"
+    ],
+    [
+      "Disneyland Resort",
+      "common.topic.notable_for",
+      "g.125bxswj6"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Disneyland Resort"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.contains",
+      "Disney's Paradise Pier Hotel"
+    ],
+    [
+      "Disneyland Resort",
+      "location.location.contains",
+      "Disneyland Hotel"
+    ],
+    [
+      "Walt Disney World",
+      "common.topic.notable_types",
+      "Amusement Park"
+    ],
+    [
+      "Amusement Park",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Walt Disney Studios Park",
+      "common.topic.notable_types",
+      "Amusement Park"
+    ],
+    [
+      "Amusement Park",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "m.0cgl863",
+      "location.mailing_address.state_province_region",
+      "California"
+    ],
+    [
+      "Napa",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "California",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Santa Monica",
+      "base.ndbcd.buoy.region",
+      "California"
+    ],
+    [
+      "Hollywood",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "Burbank",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Hollywood",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "North Hollywood",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "California",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Goofy"
+    ],
+    [
+      "Norman Palmer",
+      "people.person.place_of_birth",
+      "California"
+    ],
+    [
+      "Santa Monica",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "California"
+    ],
+    [
+      "Napa",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "Glendale",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "Glendale",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "m.0jdyx0n",
+      "location.mailing_address.state_province_region",
+      "California"
+    ],
+    [
+      "California",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "m.0_yzs0w",
+      "location.mailing_address.state_province_region",
+      "California"
+    ],
+    [
+      "California",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Santa Monica",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "California Institute of the Arts",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Los Angeles",
+      "base.ndbcd.buoy.region",
+      "California"
+    ],
+    [
+      "California",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "North Hollywood",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "California"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "California"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Goofy",
+      "fictional_universe.fictional_character.place_of_birth",
+      "California"
+    ],
+    [
+      "Monsanto House of the Future",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "m.02nrnp6",
+      "location.mailing_address.state_province_region",
+      "California"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "California"
+    ],
+    [
+      "California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Band Concert",
+      "amusement_parks.ride_theme.rides",
+      "Silly Symphony Swings"
+    ],
+    [
+      "Monsanto House of the Future",
+      "architecture.structure.architecture_firm",
+      "Walt Disney Imagineering"
+    ],
+    [
+      "Monsanto House of the Future",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Walt Disney Imagineering",
+      "architecture.architecture_firm.projects",
+      "Monsanto House of the Future"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "book.written_work.subjects",
+      "Walt Disney"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "book.written_work.author",
+      "Harrison Price"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "common.topic.notable_for",
+      "g.125824c16"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "book.book.editions",
+      "Walt's Revolution!: By the Numbers"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Walt Disney",
+      "book.book_subject.works",
+      "Walt's Revolution!: By the Numbers"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "book.book.genre",
+      "Non-fiction"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "book.written_work.subjects",
+      "Harrison Price"
+    ],
+    [
+      "Walt's Revolution!: By the Numbers",
+      "common.topic.article",
+      "m.065x51f"
+    ],
+    [
+      "Walt Disney World",
+      "freebase.valuenotation.is_reviewed",
+      "Contact webpages"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.ride.area",
+      "Fantasyland"
+    ],
+    [
+      "The Walt Disney Company",
+      "common.topic.subjects",
+      "Disney Cruise Line"
+    ],
+    [
+      "Disney Cruise Line",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Walt Disney World",
+      "common.topic.subjects",
+      "Disney Cruise Line"
+    ],
+    [
+      "Disney Cruise Line",
+      "common.topic.subject_of",
+      "The Walt Disney Company"
+    ],
+    [
+      "Disney Cruise Line",
+      "common.topic.subject_of",
+      "Walt Disney World"
+    ],
+    [
+      "Ted Sears",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles Music Center",
+      "location.location.containedby",
+      "Los Angeles"
+    ],
+    [
+      "Holmby Hills",
+      "location.neighborhood.neighborhood_of",
+      "Los Angeles"
+    ],
+    [
+      "m.02nrnp6",
+      "location.mailing_address.citytown",
+      "Los Angeles"
+    ],
+    [
+      "Joel Cox",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Hollywood",
+      "location.neighborhood.neighborhood_of",
+      "Los Angeles"
+    ],
+    [
+      "George Herriman",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Hollywood",
+      "location.location.containedby",
+      "Los Angeles"
+    ],
+    [
+      "Walt Disney Concert Hall",
+      "travel.tourist_attraction.near_travel_destination",
+      "Los Angeles"
+    ],
+    [
+      "Robert A. Israel",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "The Walt Disney Company",
+      "organization.organization.place_founded",
+      "Los Angeles"
+    ],
+    [
+      "North Hollywood",
+      "location.location.containedby",
+      "Los Angeles"
+    ],
+    [
+      "Bill Walsh",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles",
+      "location.hud_county_place.place",
+      "Los Angeles"
+    ],
+    [
+      "Holmby Hills",
+      "location.location.containedby",
+      "Los Angeles"
+    ],
+    [
+      "Sharon Mae Disney",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Los Angeles",
+      "travel.travel_destination.tourist_attractions",
+      "Walt Disney Concert Hall"
+    ],
+    [
+      "Diane Disney Miller",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "7th Primetime Emmy Awards",
+      "time.event.locations",
+      "Los Angeles"
+    ],
+    [
+      "Walt Disney Concert Hall",
+      "location.location.containedby",
+      "Los Angeles"
+    ],
+    [
+      "Oliver Wallace",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "William Garity",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "North Hollywood",
+      "location.neighborhood.neighborhood_of",
+      "Los Angeles"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.disney_ride.ticket",
+      "m.04kx9cx"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.ride.ride_type",
+      "Dark ride"
+    ],
+    [
+      "m.04kx9cx",
+      "amusement_parks.disney_ride_ticket_membership.ride",
+      "It's a Small World"
+    ],
+    [
+      "Walt Disney",
+      "amusement_parks.ride_designer.rides",
+      "It's a Small World"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.ride.manufacturer",
+      "Maurer AG"
+    ],
+    [
+      "It's a Small World",
+      "location.location.geolocation",
+      "m.0j1h3zw"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.ride.designer",
+      "Walt Disney"
+    ],
+    [
+      "It's a Small World",
+      "common.topic.article",
+      "m.028k92"
+    ],
+    [
+      "It's a Small World",
+      "common.topic.notable_for",
+      "g.1258t0m25"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.ride.designer",
+      "Walt Disney Imagineering"
+    ],
+    [
+      "It's a Small World",
+      "common.topic.image",
+      "It's a Small World"
+    ],
+    [
+      "It's a Small World",
+      "common.topic.image",
+      "SmallWorldFront83 wb"
+    ],
+    [
+      "It's a Small World",
+      "amusement_parks.ride.designer",
+      "Mary Blair"
+    ],
+    [
+      "It's a Small World",
+      "common.topic.notable_types",
+      "Disney Ride"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0gkf21g"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Mickey's Choo Choo"
+    ],
+    [
+      "m.0nfkflr",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Walt Disney Imagineering"
+    ],
+    [
+      "I love Mickey Mouse more than any woman I have ever known.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0p7gt6m"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0wc65zb"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Aristogatos, Los - Pintemos"
+    ],
+    [
+      "m.0w25ry0",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0lyy3r1"
+    ],
+    [
+      "The Chain Gang",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Reluctant Dragon",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Oh, What a Knight",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Flowers and Trees",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0wclrck",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Dateline: Disneyland"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0wclfdl"
+    ],
+    [
+      "Fun and Fancy Free",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6vn2",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0w8llxx",
+      "tv.tv_producer_term.producer",
+      "Walt Disney"
+    ],
+    [
+      "El Terrible Toreador",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0mw283l",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Somehow I can't believe that there are any heights that can't be scaled by a man who knows the secrets of making dreams come true. This special secret, it seems to me, can be summarized in four C s. They are curiosity, confidence, courage, and constancy, and the greatest of all is confidence. When you believe in a thing, believe in it all the way, implicitly and unquestionable.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Voice Actor"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Bird Store"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gg2f3x"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0nbc99l"
+    ],
+    [
+      "Walt Disney Concert Hall",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "m.05nn2dn",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6ddn",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0bvbxv1",
+      "award.hall_of_fame_induction.inductee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0ncdyr6"
+    ],
+    [
+      "Princesas",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jx3"
+    ],
+    [
+      "Snow White and the Seven Dwarfs (Dragonlance)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "m.09ncr46",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n5bc87"
+    ],
+    [
+      "Formas",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Alice's Orphan",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0hhyx1w"
+    ],
+    [
+      "m.0gy6d63",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Monkey Melodies"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w3rrft"
+    ],
+    [
+      "Winnie l'ourson à la fête",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Ferdinand the Bull",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.0b474ws"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Hungry Hoboes"
+    ],
+    [
+      "m.09ncr4j",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "Alice's Spooky Adventure",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Hungry Hoboes",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Barn Dance"
+    ],
+    [
+      "Lady and the Tramp",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "The Mechanical Cow",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0mtzsn2"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Puss in Boots"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track",
+      "Walt Disney and The Sherman Brothers Sing"
+    ],
+    [
+      "The Karnival Kid",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Les plus beaux dessins animés Walt Disney"
+    ],
+    [
+      "m.0n4tz3k",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Funny Little Bunnies",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_producer.programs_produced",
+      "m.0y63b2z"
+    ],
+    [
+      "Martha",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0t58wzx"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09xp1dk"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w5tdsj"
+    ],
+    [
+      "m.0s90lft",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Las Estaciones del Ano",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0b493lb",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.children",
+      "Sharon Mae Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Bugs in Love"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_program_creator.programs_created",
+      "Mickey Mouse Clubhouse"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Lady and the Tramp"
+    ],
+    [
+      "m.0nf3zx5",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney Imagineering",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Colores",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Donalds Crime",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Who Killed Cock Robin?",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w175g3",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track",
+      "Walt Disney's Dedication of Disneyland (July 17th, 1955)"
+    ],
+    [
+      "We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Men Against the Arctic",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "La Cola de Igor",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0ngwkqn",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0ncpxyx"
+    ],
+    [
+      "m.09ncr41",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.notable_for",
+      "g.125ddf86c"
+    ],
+    [
+      "Bajo El Mar",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vnk"
+    ],
+    [
+      "m.0nc_225",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Kevin Clash"
+    ],
+    [
+      "The Incredibles",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice the Toreador"
+    ],
+    [
+      "Walt Disney",
+      "people.person.places_lived",
+      "m.0gy73_t"
+    ],
+    [
+      "m.0vz563d",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Mickey meets the Giant"
+    ],
+    [
+      "Walt Disney",
+      "people.person.ethnicity",
+      "Irish Canadian"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "P.J. Pete"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09y842n"
+    ],
+    [
+      "m.010qccn6",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Fox Chase"
+    ],
+    [
+      "Intro: Disneyland Theme",
+      "music.recording.artist",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.parents",
+      "Elias Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Princesas"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.article",
+      "m.081nt"
+    ],
+    [
+      "Walt Disney",
+      "people.deceased_person.cause_of_death",
+      "Lung cancer"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.052c2jf"
+    ],
+    [
+      "Diane Disney Miller",
+      "people.person.parents",
+      "Walt Disney"
+    ],
+    [
+      "m.0nf3vyg",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney Records"
+    ],
+    [
+      "Walt Disney",
+      "film.writer.film",
+      "Jack the Giant Killer"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.09ncr41"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0jmyw9c"
+    ],
+    [
+      "Jungle Rhythm",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.children",
+      "Diane Disney Miller"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney Studios Motion Pictures"
+    ],
+    [
+      "Peculiar Penguins",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Sleeping Beauty"
+    ],
+    [
+      "Jack the Giant Killer",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0p7gt6m",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w487pl"
+    ],
+    [
+      "Minnie's Yoo Hoo",
+      "music.recording.artist",
+      "Walt Disney"
+    ],
+    [
+      "Hawaiian Holiday",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0ndsrf2",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.097k9k3",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track",
+      "Walt Disney's Dedication of Disneyland [July 17th, 1955]"
+    ],
+    [
+      "m.0gy73_t",
+      "people.place_lived.person",
+      "Walt Disney"
+    ],
+    [
+      "The Adventures of Ichabod and Mr. Toad",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Parade of the Award Nominees",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Orphan's Benefit",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Arctic Antics"
+    ],
+    [
+      "El Libro De La Selva 2",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Egyptian Melodies",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Rugged Bear",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "It's kind of fun to do the impossible."
+    ],
+    [
+      "m.0w00mgs",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Keith Haring",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0w17c38"
+    ],
+    [
+      "Donald y Los Numeros",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Springtime"
+    ],
+    [
+      "The Little Whirlwind",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Tall Timber"
+    ],
+    [
+      "m.09x6q0b",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6jx3",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.09dznhz"
+    ],
+    [
+      "m.0gy743x",
+      "people.sibling_relationship.sibling",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkfnx"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Dick Bruna"
+    ],
+    [
+      "Walt Disney",
+      "people.person.employment_history",
+      "m.0gy740_"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vlc"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.0h4smw_"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0pdt7nl"
+    ],
+    [
+      "Minnie's Yoo Hoo",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Monstruos S.A"
+    ],
+    [
+      "m.0gy6d6f",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "101 Dalmatians"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.09ncr3l"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf5w6b"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track_contributions",
+      "m.0njhq7_"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice's Wonderland - aka - Alice in Slumberland"
+    ],
+    [
+      "Walt Disney",
+      "people.person.sibling_s",
+      "m.0gy743x"
+    ],
+    [
+      "m.0nfkfqb",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Martha",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Beauty and the Beast/Book and Xylotone (Xylotone Fun)"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0mt_0f9"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Michael Jackson"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Cock o' the Walk"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track_contributions",
+      "m.0slf2ql"
+    ],
+    [
+      "Mysteries of the Deep",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Siblings"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkfms"
+    ],
+    [
+      "Alice's Wonderland - aka - Alice in Slumberland",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w16y_6",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Little Red Riding Hood",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Hot Choc-late Soldiers"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Lady and the Tramp"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Presenter"
+    ],
+    [
+      "m.0w3rrft",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "El Terrible Toreador",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0g8qddb"
+    ],
+    [
+      "m.012zhvxd",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Baby Einstein - Escucha y Descubre",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0nf3zr2",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Lady and the Tramp."
+    ],
+    [
+      "El Planeta del Tesoro",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Date of death"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track",
+      "Minnie's Yoo Hoo [Main Street Saxophone Quartet]"
+    ],
+    [
+      "m.0rdf4hp",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Entrepreneur"
+    ],
+    [
+      "Walt Disney",
+      "people.deceased_person.place_of_burial",
+      "Forest Lawn Memorial Park"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0ncz2jk"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0nf3y7t"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Disney Channel"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf3z0w"
+    ],
+    [
+      "No Hunting",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n5jyxt"
+    ],
+    [
+      "Old Yeller",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0vz4z44"
+    ],
+    [
+      "Poor Papa",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_producer.programs_produced",
+      "m.0w8llxx"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Rob Roy, the Highland Rogue"
+    ],
+    [
+      "m.0jmyw9c",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "m.09ncr4c",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "Rob Roy, the Highland Rogue",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Disney Interactive"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.010qccn6"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Treasure Island"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Egyptian Melodies"
+    ],
+    [
+      "m.0gy74j9",
+      "people.place_lived.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w3rn4h"
+    ],
+    [
+      "Hell's Bells",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Treasure Island",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Libro de La Selva 2, El. Pintemos",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Animator"
+    ],
+    [
+      "Chip and Dale",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Blue Rhythm",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Walt Disney Concert Hall"
+    ],
+    [
+      "Walt Disney",
+      "people.person.parents",
+      "Flora Call Disney"
+    ],
+    [
+      "m.0wclfdl",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "m.0gy6jv3",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0nf3z86",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Funny Little Bunnies",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Entertainer"
+    ],
+    [
+      "H. Jon Benjamin",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "Just Mickey",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Toy Story y Mas Alla !",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.0cg1f_6"
+    ],
+    [
+      "Michael Jackson",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "Alice Gets Stung",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.sibling_s",
+      "m.0gy7441"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths."
+    ],
+    [
+      "Kevin Clash",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0nfkfjg",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Trolley Troubles",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w17bgr",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Bebe Mickey y Sus Amigos"
+    ],
+    [
+      "Pigs is Pigs",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "All our dreams can come true, if we have the courage to pursue them."
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkflr"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Pirates of the Caribbean: At World's End"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jth"
+    ],
+    [
+      "George Herriman",
+      "influence.influence_node.influenced",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0wc5hx2"
+    ],
+    [
+      "Figaro",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Figaro"
+    ],
+    [
+      "The Mickey Mouse Club",
+      "tv.tv_program.program_creator",
+      "Walt Disney"
+    ],
+    [
+      "Cock o' the Walk",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.places_lived",
+      "m.0gy73g1"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6ddn"
+    ],
+    [
+      "m.0ncptm_",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0m22fcm"
+    ],
+    [
+      "m.0vz4z44",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jv3"
+    ],
+    [
+      "m.0ndc69x",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0nb9r5n",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n4mlrs"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0wfl924"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice Gets Stung"
+    ],
+    [
+      "m.07y5lc9",
+      "business.employment_tenure.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0nc_225"
+    ],
+    [
+      "Trolley Troubles",
+      "film.film.written_by",
+      "Walt Disney"
+    ],
+    [
+      "Aloha!",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0vz55y3"
+    ],
+    [
+      "Springtime",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "El Rey Leon",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney Imagineering"
+    ],
+    [
+      "m.0gy7441",
+      "people.sibling_relationship.sibling",
+      "Walt Disney"
+    ],
+    [
+      "When the Cat's Away",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0vxwwjf",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Bambi",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf3zr2"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Mickey's Follies"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Wet Paint"
+    ],
+    [
+      "Three Orphan Kittens",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Little Red Riding Hood"
+    ],
+    [
+      "Walt Disney Studios",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Snow White and the Seven Dwarfs (Studio Book) (Studio Book)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track",
+      "Walt Disney interviewed by Cecil B. DeMille, December 1938"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Sleigh Bells"
+    ],
+    [
+      "The New Spirit",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "symbols.namesake.named_after",
+      "Walter Parr"
+    ],
+    [
+      "m.0mxsbkj",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0pdt7nl",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Bob Clampett",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "The Little Mermaid/Book and Xylotone (Xylotone Fun)"
+    ],
+    [
+      "m.0n9hyqn",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jqq"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "California Institute of the Arts"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Cannibal Capers"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vm9"
+    ],
+    [
+      "Toy Tinkers",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vn2"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0wc4gzw"
+    ],
+    [
+      "Dick Bruna",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.09yk1_x",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Sleeping Beauty",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "The Cat's Out",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Fifinella"
+    ],
+    [
+      "Walt Disney",
+      "base.activism.activist.area_of_activism",
+      "Anti-communism"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Great Guns"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Oh, What a Knight"
+    ],
+    [
+      "m.0jmyw9j",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "Moose Hunters",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Truant Officer Donald",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Morris, the Midget Moose",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0w17bgr"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0w16w35"
+    ],
+    [
+      "Walt Disney's The Jungle Book, Piano/Songbook Edition",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "The more you like yourself, the less you are like anyone else, which makes you unique.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "El Rey Leon"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_program_creator.programs_created",
+      "The Mickey Mouse Club"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Snow White and the Seven Dwarfs (Easy Readers)"
+    ],
+    [
+      "The Opry House",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "The Great Locomotive Chase"
+    ],
+    [
+      "m.0myh_h7",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkfql"
+    ],
+    [
+      "Morris, the Midget Moose",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Monkey's Uncle",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.writer.film",
+      "Steamboat Willie"
+    ],
+    [
+      "De Los Animales Pequenos",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0nbc99l",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Pirates of the Caribbean: The Curse of the Black Pearl"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6hdw"
+    ],
+    [
+      "Tommy Tucker's Tooth",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Los Colores"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jr5"
+    ],
+    [
+      "m.02vc_j6",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Power Rangers Ninja Storm",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Goliath II",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Bright Lights",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Humphrey the Bear"
+    ],
+    [
+      "m.0p6wl70",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0njhq7_",
+      "music.track_contribution.contributor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0ngp5pf"
+    ],
+    [
+      "m.0w8v3ld",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Bajo El Mar"
+    ],
+    [
+      "The Country Bears",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09x5szd"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0vxwwjf"
+    ],
+    [
+      "Mickey's Orphans",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Un Raton de Biblioteca"
+    ],
+    [
+      "The Clock Store",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "The Bears and the Bees",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Mickey's Toontown Tunes - Sonoro",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Bebe Mickey y Sus Amigos",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Disney Before Mickey",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Aquamania",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "El Cuento de La Bella y La Bestia",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Babes in Toyland",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Dateline: Disneyland",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "De Los Piratas"
+    ],
+    [
+      "Gulliver Mickey",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Birds in the Spring",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.120rrf44"
+    ],
+    [
+      "m.0gy6dd9",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0n9hzk8",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "The Tortoise and the Hare",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jxc"
+    ],
+    [
+      "Mickey's Delayed Date",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Place of death"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Tres Princesas"
+    ],
+    [
+      "m.0n20p_0",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.052c2jv"
+    ],
+    [
+      "Walt Disney",
+      "people.deceased_person.cause_of_death",
+      "Circulatory collapse"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Pirates of the Caribbean: Dead Men Tell No Tales"
+    ],
+    [
+      "The Little Mermaid/Book and Xylotone (Xylotone Fun)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "The Skeleton Dance",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Bears and the Bees"
+    ],
+    [
+      "The Barnyard Concert",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "The Walt Disney Company",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6vp1",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Bright Lights",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Plane Crazy",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Las Semillas de Conejo",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0wc5hx2",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n54xjw"
+    ],
+    [
+      "Walt Disney World",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "The Barn Dance",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Jazz Fool"
+    ],
+    [
+      "Walt Disney interviewed by Cecil B. DeMille, December 1938",
+      "music.recording.artist",
+      "Walt Disney"
+    ],
+    [
+      "Alice in Wonderland - Rustica -",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.052bynr",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.image",
+      "Walt disney portrait"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Businessperson"
+    ],
+    [
+      "Walt Disney",
+      "music.composer.compositions",
+      "Minnie's Yoo-Hoo"
+    ],
+    [
+      "Walt Disney",
+      "people.person.employment_history",
+      "m.0gy732z"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vj9"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0w17cjn"
+    ],
+    [
+      "m.0j4k33p",
+      "people.marriage.spouse",
+      "Walt Disney"
+    ],
+    [
+      "m.0nf3zz2",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.writer.film",
+      "Alice's Wonderland - aka - Alice in Slumberland"
+    ],
+    [
+      "m.0w17cjn",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Hermosa",
+      "location.location.people_born_here",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.09ncr46"
+    ],
+    [
+      "Zdeněk Miler",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "Oh, What a Knight",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.012bw_ct",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Tigger y La Mudanza"
+    ],
+    [
+      "Squatter's Rights",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w6n1zl",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0mxxqwn"
+    ],
+    [
+      "Pluto",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney Records",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Fantasia",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Bambi"
+    ],
+    [
+      "Little Red Riding Hood",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Great Guns",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0wc5my8"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.120ylhlp"
+    ],
+    [
+      "Walt Disney World Company",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Mickey meets the Giant",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney Animation Studios"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Snow White and the Seven Dwarfs"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Plow Boy"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.052bynr"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.09ncr3r"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Funny Little Bunnies"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09w9m0h"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0ndr_dy"
+    ],
+    [
+      "The Band Concert",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0jmyw9j"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Golden Touch"
+    ],
+    [
+      "Greyfriars Bobby",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0ncdyr6",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Mickey's Follies",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "The Nifty Nineties",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6c_3"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney's Dedication of Disneyland (July 17th, 1955)",
+      "music.recording.artist",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Pirates of the Caribbean: Dead Man's Chest"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Formas y Mas Formas"
+    ],
+    [
+      "Walt Disney",
+      "people.person.employment_history",
+      "m.0gy740n"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0w14lq3"
+    ],
+    [
+      "The Ugly Duckling",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney World"
+    ],
+    [
+      "Canciones de Encanto. Disney Princesa",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "More Kittens",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Lady and the tramp.",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "Mickey's Circus",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Lady and the Tramp (Disney's Wonderful World of Reading)"
+    ],
+    [
+      "m.0h4smw_",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w6n1zl"
+    ],
+    [
+      "Snow White and the Seven Dwarfs",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "m.0t58wzx",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0mxsbkj"
+    ],
+    [
+      "m.0gy740_",
+      "business.employment_tenure.person",
+      "Walt Disney"
+    ],
+    [
+      "Minnie's Yoo Hoo [Main Street Saxophone Quartet]",
+      "music.recording.artist",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Donald Duck"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf1zfc"
+    ],
+    [
+      "Toot, Whistle, Plunk and Boom",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Lilo & Stitch",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "You can dream, create, design and build the most wonderful place in the world, but it requires people to make the dream a reality."
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jvg"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "You can dream, create, design and build the most wonderful place in the world, but it requires people to make the dream a reality.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Old Yeller"
+    ],
+    [
+      "The Country Cousin",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Jazz Fool",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Lady and the Tramp",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6jqq",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Mary Poppins",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0ly_w1_"
+    ],
+    [
+      "Alice's Day at Sea",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0s90lkl"
+    ],
+    [
+      "m.0gy73bb",
+      "people.place_lived.person",
+      "Walt Disney"
+    ],
+    [
+      "I would rather entertain and hope that people learned something than educate people and hope they were entertained.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0w16zqr",
+      "tv.regular_tv_appearance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "I do not like to repeat successes, I like to go on to other things."
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "I would rather entertain and hope that people learned something than educate people and hope they were entertained."
+    ],
+    [
+      "m.0gg2f3x",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "On Ice",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gfsr9y",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Sorcerer's Apprentice, the"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.097k9k3"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "The Story of Robin Hood and His Merrie Men"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0jy216"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track",
+      "Minnie's Yoo Hoo"
+    ],
+    [
+      "m.0n4v1c2",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Mother Goose Goes Hollywood",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0rdf4hp"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.0d9nx1k"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Canciones de Encanto. Disney Princesa"
+    ],
+    [
+      "Jack the Giant Killer",
+      "film.film.written_by",
+      "Walt Disney"
+    ],
+    [
+      "Plane Crazy",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Baby Einstein - Escucha y Descubre"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0w16r1m"
+    ],
+    [
+      "Alice's Egg Plant",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Snow White and the Seven Dwarfs (Disney)"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0wc3_bx"
+    ],
+    [
+      "m.0gy6jqd",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Circulatory collapse",
+      "people.cause_of_death.people",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.0b493lb"
+    ],
+    [
+      "m.0cq1t8h",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.ethnicity",
+      "German American"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Bright Lights"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0m3dq42"
+    ],
+    [
+      "Fifinella",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Parent Trap",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Pinocchio"
+    ],
+    [
+      "m.0wc3_bx",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n9hzk8"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Jack the Giant Killer"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Toy Story y Mas Alla !"
+    ],
+    [
+      "m.0gy6hd1",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.places_lived",
+      "m.0gy74j9"
+    ],
+    [
+      "m.0nd1s5y",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "The Golden Touch",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Fox Chase",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Alice the Toreador",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w25rjz"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0ncpws0"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Lady and the Tramp (Disney Studio Albums)"
+    ],
+    [
+      "m.0ncz2jk",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Minnie Mouse"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0ndb5nj"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.05nn2dn"
+    ],
+    [
+      "Alice's Day at Sea",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice's Spooky Adventure"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Aloha!"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_member.member_of",
+      "m.0hz7f64"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Merry Dwarfs"
+    ],
+    [
+      "m.09ncr3l",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "The Whalers",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Mickey's Toontown Tunes - Sonoro"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0myh_h7"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Jungle Rhythm"
+    ],
+    [
+      "m.0mt_0f9",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Martha"
+    ],
+    [
+      "Monstruos S.A",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney and The Sherman Brothers Sing",
+      "music.recording.artist",
+      "Walt Disney"
+    ],
+    [
+      "Lady and the Tramp (Disney: Classic Films)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkfht"
+    ],
+    [
+      "Lady and the Tramp",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "When the Cat's Away",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09yk1_x"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Colores"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Winnie l'ourson à la fête"
+    ],
+    [
+      "Walt Disney",
+      "people.person.employment_history",
+      "m.0gy742f"
+    ],
+    [
+      "Max Goof",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nbls7g"
+    ],
+    [
+      "The Merry Dwarfs",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w2wx6q"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Empty Socks"
+    ],
+    [
+      "Building a Building",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Goofy"
+    ],
+    [
+      "m.09dznhz",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "m.09xr18z",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "m.0mxr_9_",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0mtkrbl"
+    ],
+    [
+      "The Skeleton Dance",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w487pl",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy73mh",
+      "education.education.student",
+      "Walt Disney"
+    ],
+    [
+      "Jungle Book, the",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0hhyx1j",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0nbls7g",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "El Planeta del Tesoro"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Las Aventuras de Winnie Pooh",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Mickey's Polo Team",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Lend a Paw",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0ncpws0",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0ncz1sq"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09x6q0b"
+    ],
+    [
+      "Oswald the Lucky Rabbit",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "g.122qxy41"
+    ],
+    [
+      "Mickey's Amateurs",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Mad Doctor",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "White Wilderness"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0wclrck"
+    ],
+    [
+      "Saludos Amigos",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Haciendo Joyeria Con Lizzie Mcguire/making Jewelry With Lizzi Mcguire"
+    ],
+    [
+      "m.0w16r1m",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w00mgs"
+    ],
+    [
+      "Poor Papa",
+      "film.film.written_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.012zhvxd"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Walt Disney's The Jungle Book, Piano/Songbook Edition"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.05bs963"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w25ry0"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Paul Bunyan"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Pete"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0pl4y7f"
+    ],
+    [
+      "Switzerland",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6jvq",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Gallopin' Gaucho",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0jmyw96"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Disneynature"
+    ],
+    [
+      "m.09w61zs",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "m.0nds0k0",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Skeleton Dance"
+    ],
+    [
+      "Sharon Mae Disney",
+      "people.person.parents",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Zdeněk Miler"
+    ],
+    [
+      "Walt Disney",
+      "people.person.education",
+      "m.0gy73g6"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nb9rc5"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0w16y_6"
+    ],
+    [
+      "Der Fuehrer's Face",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Evil Queen",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "m.09wsxbm",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Haunted House"
+    ],
+    [
+      "Disney Interactive",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0m228wn"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "The Country Bears"
+    ],
+    [
+      "m.0gy6vpj",
+      "people.place_lived.person",
+      "Walt Disney"
+    ],
+    [
+      "Ben and Me",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Evil Queen"
+    ],
+    [
+      "m.09x5szd",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Cannibal Capers",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gkf0xv",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Tigger y La Mudanza",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0ndrxfv",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Irish Canadian",
+      "people.ethnicity.people",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.sibling_s",
+      "m.0gy738f"
+    ],
+    [
+      "m.0wc5my8",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6d63"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Mickey Mouse"
+    ],
+    [
+      "m.09y842n",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy73g6",
+      "education.education.student",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Las Semillas de Conejo"
+    ],
+    [
+      "m.0_gjwtk",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Lady and the Tramp (Disney Studio Albums)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.12340v7v"
+    ],
+    [
+      "m.0lyy3r1",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy73n_",
+      "education.education.student",
+      "Walt Disney"
+    ],
+    [
+      "Ludwig Von Drake",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Lambert the Sheepish Lion",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney Pictures",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "music.artist.track",
+      "Intro: Disneyland Theme"
+    ],
+    [
+      "m.09ncr3x",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gcpcq0"
+    ],
+    [
+      "Minnie Mouse",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Jim Henson",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "Rito a Los Saltos",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Los Colores",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Minnie's Yoo-Hoo",
+      "music.composition.composer",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "m.0nbxqnq",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Tea for Two Hundred",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0ndsrf2"
+    ],
+    [
+      "The Karnival Kid",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n4v1c2"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Lady and the Tramp (Disney: Classic Films)"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice's Egg Plant"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Television producer"
+    ],
+    [
+      "Alice Solves the Puzzle",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_director.episodes_directed",
+      "More Kittens"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Harmonica Fun"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0ndc69x"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Fox Hunt"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "The Wetback Hound"
+    ],
+    [
+      "Alice's Orphan",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0m01_kg",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Retlaw Enterprises"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Las Aventuras de Winnie Pooh"
+    ],
+    [
+      "m.0nfkfht",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney World Company"
+    ],
+    [
+      "Stormy, the Thoroughbred",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6vnk",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Jim Henson"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0t_6lyk"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0nb9r5n"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nds010"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0hhyx1j"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Mama Al Ataque/mama to the Rescue"
+    ],
+    [
+      "Un Raton de Biblioteca",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0w175g3"
+    ],
+    [
+      "Reason and Emotion",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Woodland Café",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Ama Girls",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy740n",
+      "business.employment_tenure.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w8v3ld"
+    ],
+    [
+      "Tall Timber",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Bella y La Bestia, La - Lector Magico"
+    ],
+    [
+      "m.0gy744c",
+      "people.sibling_relationship.sibling",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "I love Mickey Mouse more than any woman I have ever known."
+    ],
+    [
+      "m.0nc_283",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0nf3y7t",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "The Pointer",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "101 Dalmatians",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Winnie the Pooh and the Blustery Day",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0pl4y7f",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Society Dog Show",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Beauty and the Beast/Book and Xylotone (Xylotone Fun)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "m.052c2jv",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0mw283l"
+    ],
+    [
+      "Walt Disney",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf_vw"
+    ],
+    [
+      "Water Birds",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w14lq3",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Egyptian Melodies",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "The Walt Disney Company",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0mzrx2q"
+    ],
+    [
+      "m.0n4mltw",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "royalty.chivalric_order_member.belongs_to_order",
+      "m.0y7s3pq"
+    ],
+    [
+      "Great Guns",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "The Three Little Pigs",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w6n26k",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Winnie y Sus Amigos",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.09ncr4c"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0hz7h8k"
+    ],
+    [
+      "m.0ndb5nj",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vlp"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "The more you like yourself, the less you are like anyone else, which makes you unique."
+    ],
+    [
+      "Donald in Mathmagic Land",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0nfkfms",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf3z86"
+    ],
+    [
+      "Snow White and the Seven Dwarfs (Easy Readers)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6vm9",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.09g3f32"
+    ],
+    [
+      "m.0gy6d6t",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Pirates of the Caribbean: On Stranger Tides"
+    ],
+    [
+      "m.0bykjd1",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0wfl924",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Bugs in Love",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0bykjd1"
+    ],
+    [
+      "Snow White and the Seven Dwarfs (Disney)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "m.09ywcw9",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "m.0ngp5pf",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Formas"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Keith Haring"
+    ],
+    [
+      "m.052c2jf",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6c_f",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Disney Channel",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n9xdw3"
+    ],
+    [
+      "Alice Gets Stung",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Disney Consumer Products"
+    ],
+    [
+      "The Old Mill",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0y7s3pq",
+      "royalty.chivalric_order_membership.recipient",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "El Terrible Toreador"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Cactus Kid"
+    ],
+    [
+      "Walt Disney",
+      "people.person.employment_history",
+      "m.07y5lc9"
+    ],
+    [
+      "Haciendo Joyeria Con Lizzie Mcguire/making Jewelry With Lizzi Mcguire",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Clock Cleaners",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Horace Horsecollar"
+    ],
+    [
+      "m.0nfkfql",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "The Horse with the Flying Tail"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Walt Disney Studios Park"
+    ],
+    [
+      "m.0gy6c_3",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "The Brave Little Tailor",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Bird Store",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Bright Lights"
+    ],
+    [
+      "m.0gy6vlc",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Formas y Mas Formas",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09ywcw9"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0k2v3q"
+    ],
+    [
+      "Bright Lights",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Alice the Toreador",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Donald y Los Numeros"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Trolley Troubles"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0ncptm_"
+    ],
+    [
+      "m.0lz07tl",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Tarzan -Los Dibujos de Jane"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Parade of the Award Nominees"
+    ],
+    [
+      "Tall Timber",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0nfkfnx",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vp1"
+    ],
+    [
+      "Disney Learning Adventures: Mickey and the Beanstalk",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.places_lived",
+      "m.0gy73bh"
+    ],
+    [
+      "m.0n4mgym",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Plane Crazy"
+    ],
+    [
+      "La Dama y El Vagabundo",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Alguien Muy Especial",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "The Cactus Kid",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter."
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09xr18z"
+    ],
+    [
+      "m.0gy6d03",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Good Scouts",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Paul Bunyan",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Giantland",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "When the Cat's Away"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.121_zz7g"
+    ],
+    [
+      "Retlaw Enterprises",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Alice's Wonderland - aka - Alice in Slumberland",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w3rn4h",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6hdw",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "The Haunted Mansion"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0ndrxfv"
+    ],
+    [
+      "Bambi",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6vj9",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0m01_kg"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6vpc"
+    ],
+    [
+      "Walt Disney: The Triumph of the American Imagination",
+      "book.written_work.subjects",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy742f",
+      "business.employment_tenure.person",
+      "Walt Disney"
+    ],
+    [
+      "Alice's Wonderland - aka - Alice in Slumberland",
+      "film.film.written_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gb047j"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Las Estaciones del Ano"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "Somehow I can't believe that there are any heights that can't be scaled by a man who knows the secrets of making dreams come true. This special secret, it seems to me, can be summarized in four C s. They are curiosity, confidence, courage, and constancy, and the greatest of all is confidence. When you believe in a thing, believe in it all the way, implicitly and unquestionable."
+    ],
+    [
+      "Mr. Mouse Takes a Trip",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Les plus beaux dessins animés Walt Disney",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6vlp",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Mickey's Trailer",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Hot Choc-late Soldiers",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0cg1f_6",
+      "tv.tv_regular_personal_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "m.0w5tdsj",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Clock Store"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Clarabelle Cow"
+    ],
+    [
+      "The Wetback Hound",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0w14hd1"
+    ],
+    [
+      "Arctic Antics",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Pete",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Humphrey the Bear",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "El Cuento de La Bella y La Bestia"
+    ],
+    [
+      "Walt Disney",
+      "people.person.religion",
+      "Christianity"
+    ],
+    [
+      "Tommy Tucker's Tooth",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Mickey's Birthday Party",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "The Monkey's Uncle"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkfqb"
+    ],
+    [
+      "Tarzan -Los Dibujos de Jane",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n4mltw"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0nf3w6x"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Stormy, the Thoroughbred"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Morris, the Midget Moose"
+    ],
+    [
+      "Wet Paint",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w17f0j"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Greyfriars Bobby"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0n4tz3k"
+    ],
+    [
+      "Walt Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0vz4zrt"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jqd"
+    ],
+    [
+      "Walt disney portrait",
+      "common.image.appears_in_topic_gallery",
+      "Walt Disney"
+    ],
+    [
+      "m.0g8qddb",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Oh, What a Knight",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Donald Duck",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Alguien Muy Especial"
+    ],
+    [
+      "m.0w17f0j",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0s90lkl",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.book_subject.works",
+      "Walt Disney: The Triumph of the American Imagination"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.011p3ksk"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf3zx5"
+    ],
+    [
+      "m.0b474ws",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.place_of_birth",
+      "Hermosa"
+    ],
+    [
+      "m.0gy73g1",
+      "people.place_lived.person",
+      "Walt Disney"
+    ],
+    [
+      "There is more treasure in books than in all the pirates loot on Treasure Island and best of all, you can enjoy these riches every day of your life.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Oh Teacher",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf4s0q"
+    ],
+    [
+      "m.0nf4qbs",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "base.schemastaging.person_extra.net_worth",
+      "m.0n4ylhn"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "The Sword and the Rose"
+    ],
+    [
+      "Walt Disney Studios Park",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "The Walt Disney Company"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0s90lft"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkfpp"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Birds in the Spring"
+    ],
+    [
+      "Empty Socks",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced_by",
+      "George Herriman"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0n9hyqn"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Bob Clampett"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.02vc_j6"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Barnyard Concert"
+    ],
+    [
+      "m.0j76dwb",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "g.11btvc5trv"
+    ],
+    [
+      "Servants' Entrance",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Tall Timber"
+    ],
+    [
+      "m.0n9xdw3",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0n1v479",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Film director"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0n1v479"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0csqmzh"
+    ],
+    [
+      "Elias Disney",
+      "people.person.children",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0mxr_9_"
+    ],
+    [
+      "m.0t_6lyk",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "Mickey y Los Colores",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Ama Girls"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "La Cola de Igor"
+    ],
+    [
+      "m.0nf5w6b",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Tres Princesas",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.120jw_pn"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.0cq1t8h"
+    ],
+    [
+      "m.0hz7h8k",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6d6t"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "El Libro De La Selva 2"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "Spike Milligan"
+    ],
+    [
+      "Walt Disney",
+      "people.person.sibling_s",
+      "m.0gy744c"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0n4mgym"
+    ],
+    [
+      "m.0vz4zrt",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0n5bc87",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Symphony Hour",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gb047j",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Walt Disney Studios"
+    ],
+    [
+      "Mickey's Revue",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf4qbs"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Ludwig Von Drake"
+    ],
+    [
+      "m.0wc65zb",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0n1w_sg"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6hf3"
+    ],
+    [
+      "m.0gkf21g",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "The Mechanical Cow",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Disneyland, Inc."
+    ],
+    [
+      "m.0w17c38",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "m.0ly_w1_",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "m.0d9nx1k",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "m.0nb9rc5",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf400p"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Peculiar Penguins"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "The Walt Disney Company"
+    ],
+    [
+      "m.0nf4s0q",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nbxqnq"
+    ],
+    [
+      "If you can dream it, you can do it. Always remember this whole thing was started by a mouse.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Puss in Boots",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09w61zs"
+    ],
+    [
+      "m.0n4mlrs",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Mechanical Cow"
+    ],
+    [
+      "m.0gy738f",
+      "people.sibling_relationship.sibling",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6dd9"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nf3zz2"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Alice in Wonderland - Rustica -"
+    ],
+    [
+      "Walt Disney",
+      "people.person.spouse_s",
+      "m.0j4k33p"
+    ],
+    [
+      "I do not like to repeat successes, I like to go on to other things.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "There is more treasure in books than in all the pirates loot on Treasure Island and best of all, you can enjoy these riches every day of your life."
+    ],
+    [
+      "The Haunted Mansion",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0mxxqwn",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Snow White and the Seven Dwarfs",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walter Parr",
+      "symbols.name_source.namesakes",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Libro de La Selva 2, El. Pintemos"
+    ],
+    [
+      "Disney Consumer Products",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Operation Wonderland",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney Pictures",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.places_lived",
+      "m.0gy73bb"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6d6f"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Parade of the Award Nominees",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Mickey Mouse",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Mickey's Choo Choo",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Tommy Tucker's Tooth"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09wsxbm"
+    ],
+    [
+      "Walt Disney",
+      "film.writer.film",
+      "Poor Papa"
+    ],
+    [
+      "Walt Disney",
+      "film.writer.film",
+      "Disney Princess Sing-Along Songs: Enchanted Tea Party"
+    ],
+    [
+      "Monkey Melodies",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice's Day at Sea"
+    ],
+    [
+      "Goofy",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy732z",
+      "business.employment_tenure.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0p6wl70"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Pluto"
+    ],
+    [
+      "m.05bs963",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Mickey and the Seal",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney World Company",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6vpc",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Que Hora Es?",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6jth",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Spike Milligan",
+      "influence.influence_node.influenced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "The Incredibles"
+    ],
+    [
+      "Lullaby Land",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "The Golden Touch",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w6n2cv",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nds0k0"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "Operation Wonderland"
+    ],
+    [
+      "m.09ncr3r",
+      "tv.tv_guest_role.actor",
+      "Walt Disney"
+    ],
+    [
+      "Night",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0mtkrbl",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.09ncr4j"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice's Orphan"
+    ],
+    [
+      "m.0gy6jtt",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0nfkfpp",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Lullaby Land",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Mama Al Ataque/mama to the Rescue",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0mxxqx5"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "More Kittens"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Max Goof"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.122kc8_2"
+    ],
+    [
+      "m.0hz7f64",
+      "organization.organization_membership.member",
+      "Walt Disney"
+    ],
+    [
+      "Sleigh Bells",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Pluto's Blue Note",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nfkfjg"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.guest_roles",
+      "m.09ncr3x"
+    ],
+    [
+      "m.0wc4gzw",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.07nf_vw",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.deceased_person.place_of_death",
+      "Burbank"
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "You may not realize it when it happens, but a kick in the teeth may be the best thing in the world for you."
+    ],
+    [
+      "Walt Disney",
+      "people.person.quotations",
+      "If you can dream it, you can do it. Always remember this whole thing was started by a mouse."
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0nf3vyg"
+    ],
+    [
+      "It's kind of fun to do the impossible.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "The Whoopee Party",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6hf3",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.011p3ksk",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Pinocchio",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Winnie y Sus Amigos"
+    ],
+    [
+      "m.0slf2ql",
+      "music.track_contribution.contributor",
+      "Walt Disney"
+    ],
+    [
+      "m.0nd1slf",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "The Fox Hunt",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Woodland Café"
+    ],
+    [
+      "Disneynature",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "influence.influence_node.influenced",
+      "H. Jon Benjamin"
+    ],
+    [
+      "Through the Mirror",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jtt"
+    ],
+    [
+      "m.0y63b2z",
+      "tv.tv_producer_term.producer",
+      "Walt Disney"
+    ],
+    [
+      "m.0w179pd",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_actor.starring_roles",
+      "m.0w16zqr"
+    ],
+    [
+      "The Plow Boy",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "De Los Piratas",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Mickey y Los Colores"
+    ],
+    [
+      "m.0gy6jwn",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0gy6jvg",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0wcz0l_"
+    ],
+    [
+      "m.0n5jyxt",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney Imagineering",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "Disney Princess Sing-Along Songs: Enchanted Tea Party",
+      "film.film.written_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Minnie's Yoo Hoo"
+    ],
+    [
+      "m.0gkdxvp",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Disney Before Mickey"
+    ],
+    [
+      "m.09g3f32",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "m.0gcpcq0",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0vz55y3",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Screenwriter"
+    ],
+    [
+      "m.0k2v3q",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "film.film.story_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0mxxqx5",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w6n26k"
+    ],
+    [
+      "m.0jmyw96",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "White Wilderness",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "The Story of Robin Hood and His Merrie Men",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney Pictures"
+    ],
+    [
+      "m.09yjf2x",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.education",
+      "m.0gy73n_"
+    ],
+    [
+      "Clarabelle Cow",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w2wx6q",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Just Mickey",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Karnival Kid"
+    ],
+    [
+      "m.0nf1zfc",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Alice's Spooky Adventure",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0n1w_sg",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nc_283"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jvq"
+    ],
+    [
+      "Walt Disney",
+      "common.topic.webpage",
+      "m.09yjf2x"
+    ],
+    [
+      "m.0ncz1sq",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0w25rjz",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0ncpxyx",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0gkf0xv"
+    ],
+    [
+      "Aristogatos, Los - Pintemos",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "m.0csqmzh",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0n9p34j"
+    ],
+    [
+      "m.0nf3w6x",
+      "film.personal_film_appearance.person",
+      "Walt Disney"
+    ],
+    [
+      "m.0m22fcm",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Opry House"
+    ],
+    [
+      "Walt Disney Studios",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "Oh Teacher",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Frolicking Fish"
+    ],
+    [
+      "m.0gy6jr5",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Lady and the tramp."
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0w179pd"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Servants' Entrance"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "De Los Animales Pequenos"
+    ],
+    [
+      "Sorcerer's Apprentice, the",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "California Institute of the Arts",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6c_f"
+    ],
+    [
+      "m.0hhyx1w",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Lilo & Stitch"
+    ],
+    [
+      "Walt Disney Studios Motion Pictures",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "m.0m228wn",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Rito a Los Saltos"
+    ],
+    [
+      "The Truth About Mother Goose",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Lady and the Tramp (Disney's Wonderful World of Reading)",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "m.0n9p34j",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "The Barn Dance",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "tv.tv_program_creator.programs_created",
+      "Walt Disney's Wonderful World of Color"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0gkdxvp"
+    ],
+    [
+      "The Band Concert",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Lady and the Tramp.",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "m.0m3j6wh",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gfsr9y"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Bella y La Bestia, La - Lector Magico",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney's Dedication of Disneyland [July 17th, 1955]",
+      "music.recording.artist",
+      "Walt Disney"
+    ],
+    [
+      "m.0nf3z0w",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6hd1"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Vacas Vaqueras Paso2"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0n20p_0"
+    ],
+    [
+      "m.0gy6jxc",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "P.J. Pete",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.education",
+      "m.0gy73mh"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Poor Papa"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0nd1s5y"
+    ],
+    [
+      "Walt Disney",
+      "freebase.valuenotation.is_reviewed",
+      "Cause of death"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Steamboat Willie"
+    ],
+    [
+      "All our dreams can come true, if we have the courage to pursue them.",
+      "media_common.quotation.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Lullaby Land"
+    ],
+    [
+      "The Alaskan Eskimo",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Snow White and the Seven Dwarfs (Dragonlance)"
+    ],
+    [
+      "Horace Horsecollar",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0w14hd1",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Oswald the Lucky Rabbit"
+    ],
+    [
+      "Mickey's Mellerdrammer",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.film_story_contributor.film_story_credits",
+      "Oh, What a Knight"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney Studios"
+    ],
+    [
+      "m.0nf400p",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Flora Call Disney",
+      "people.person.children",
+      "Walt Disney"
+    ],
+    [
+      "m.0mzrx2q",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney Animation Studios",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "m.09xp1dk",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0j76dwb"
+    ],
+    [
+      "m.09w9m0h",
+      "common.webpage.topic",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.profession",
+      "Film Editor"
+    ],
+    [
+      "Mickey Mouse Clubhouse",
+      "tv.tv_program.program_creator",
+      "Walt Disney"
+    ],
+    [
+      "The Plow Boy",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0ndr_dy",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.hall_of_fame_inductee.hall_of_fame_inductions",
+      "m.0bvbxv1"
+    ],
+    [
+      "m.0ly_1lt",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Walt Disney World Company"
+    ],
+    [
+      "m.0nds010",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0wcz0l_",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0m3j6wh"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0lz07tl"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0_gjwtk"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6d03"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Night"
+    ],
+    [
+      "m.0ncql7w",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "people.person.places_lived",
+      "m.0gy6vpj"
+    ],
+    [
+      "m.0gy73bh",
+      "people.place_lived.person",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.012bw_ct"
+    ],
+    [
+      "Walt Disney",
+      "film.actor.film",
+      "m.0gy6jwn"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0ncql7w"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Just Mickey"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Alice Solves the Puzzle"
+    ],
+    [
+      "Disneyland, Inc.",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.written_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.book_editions_published",
+      "Snow White and the Seven Dwarfs (Studio Book) (Studio Book)"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0ngwkqn"
+    ],
+    [
+      "Wet Paint",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Magician Mickey",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Vacas Vaqueras Paso2",
+      "book.written_work.author",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.12340v7w"
+    ],
+    [
+      "m.0mtzsn2",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Jungle Book, the"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "Oh Teacher"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w6n2cv"
+    ],
+    [
+      "The Sword and the Rose",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "La Dama y El Vagabundo"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0nd1slf"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0ly_1lt"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "g.12209100"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0vz563d"
+    ],
+    [
+      "Mickey in Arabia",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Power Rangers Ninja Storm"
+    ],
+    [
+      "Alice Solves the Puzzle",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0m3dq42",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.director.film",
+      "The Band Concert"
+    ],
+    [
+      "The Opry House",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "m.0n54xjw",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "m.0w16w35",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "m.0jy216",
+      "film.performance.actor",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "film.writer.film",
+      "Trolley Troubles"
+    ],
+    [
+      "Walt Disney",
+      "book.author.works_written",
+      "Que Hora Es?"
+    ],
+    [
+      "Frolicking Fish",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney's Wonderful World of Color",
+      "tv.tv_program.program_creator",
+      "Walt Disney"
+    ],
+    [
+      "The Great Locomotive Chase",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Harmonica Fun",
+      "book.book_edition.author_editor",
+      "Walt Disney"
+    ],
+    [
+      "The Haunted House",
+      "film.film.directed_by",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney Imagineering",
+      "amusement_parks.ride_manufacturer.rides",
+      "Disneyland Monorail System"
+    ],
+    [
+      "Through the Mirror",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Little Whirlwind",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Men Against the Arctic",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Babes in Toyland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0116jhhd",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Water Birds",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice's Spooky Adventure",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "El Terrible Toreador",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Robert B. Sherman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Chip and Dale",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Haunted House",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mr. Mouse Takes a Trip",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joel Cox",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mickey's Circus",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hermosa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Kansas City Art Institute",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Man in Space",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Amateurs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Raymond Arnold Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Living Desert",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "George Herriman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Country Cousin",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "North Hollywood",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ferdinand the Bull",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Building a Building",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Gulliver Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Midwestern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Great Guns",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.011jygpj",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Ama Girls",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Haunted Mansion",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice's Day at Sea",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Martha",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Servants' Entrance",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice Gets Stung",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Pixar Story",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Puss in Boots",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Truth About Mother Goose",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Reluctant Dragon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Milt Kahl",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "H. Jon Benjamin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Barnyard Concert",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0n58nr_",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "The Mad Doctor",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "A Disney Christmas Gift",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Greyfriars Bobby",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Martin Short",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Keith Haring",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Wet Paint",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cannibal Capers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Alice's Wonderland - aka - Alice in Slumberland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lonesome Ghosts",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Marceline",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Carroll Clark",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pigs is Pigs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "G (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Alice's Orphan",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ruth Flora Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Little Red Riding Hood",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Springtime",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Cat's Out",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "White Wilderness",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Sharon Mae Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Rudolf Ising",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Trolley Troubles",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cook County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "The Mechanical Cow",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "More Kittens",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Choo Choo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Der Fuehrer's Face",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Michael Jackson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0lbn5ny",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Richard M. Sherman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hollywood",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "The Brave Little Tailor",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Disney Learning Adventures: Mickey and the Beanstalk",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Napa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Bears and the Bees",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Old Mill",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Herbert Arthur Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Old Yeller",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Wilfred Jackson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Plane Crazy",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joe Grant",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Glendale",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "The Three Little Pigs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Parade of the Award Nominees",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "A Trip Through the Walt Disney Studios",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Perri",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Reason and Emotion",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "German American",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "Switzerland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hal Mohr",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bob Clampett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Rugged Bear",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Frolicking Fish",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Karnival Kid",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Whalers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Donal Logue",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Rob Roy, the Highland Rogue",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Mickey's Revue",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jean-Michel Basquiat",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Disney's Halloween Treat",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.011f5vhy",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Neal Gabler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0n4jq08",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Lady and the Tramp",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hiawatha's Rabbit Hunt",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Surprise Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Funny Little Bunnies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0n4jqlw",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Tall Timber",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cock o' the Walk",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0k00ppd",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "Donald in Mathmagic Land",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lcxb9f",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "m.0pdk6ht",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Larry Lansburgh",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Robert Florey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hawaiian Holiday",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Great Locomotive Chase",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Moose Hunters",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Aquamania",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Who Killed Cock Robin?",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tea for Two Hundred",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey in Arabia",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0l0d53j",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Grain That Built a Hemisphere",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lambert the Sheepish Lion",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.011k29w3",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Plow Boy",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ron W. Miller",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "The Bird Store",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "m.01175myt",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Magician Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Monkey's Uncle",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Egyptian Melodies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lillian Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Walt & El Grupo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Oliver Wallace",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Tortoise and the Hare",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Saludos Amigos",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Mechanical Man",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "m.0nbg0cf",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Nifty Nineties",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Fantasia",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bright Lights",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "The Band Concert",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey and the Seal",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Country Bears",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jungle Rhythm",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Cactus Kid",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Santa Monica",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "Rich Little",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lake Buena Vista",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "PG (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Goliath II",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lullaby Land",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Roy O. Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Pointer",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Disneyland '59",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Parent Trap",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kansas City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "On Ice",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Symphony Hour",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0nk0bk7",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Hell's Bells",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Orphans",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Walt Disney's Wonderful World of Color",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "m.0_yzs0w",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "The Wetback Hound",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lm3c2k",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Walter Parr",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Hollywood",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Pluto's Blue Note",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "The Ugly Duckling",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Walt Disney Concert Hall",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Whoopee Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lm3c2v",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "m.0jrtl6c",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "m.0kw_5jn",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Cole Porter",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "RCA",
+      "organization.organization.place_founded",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Idaho"
+    ],
+    [
+      "Burbank",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Diane Disney Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Fox Hunt",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "School of the Art Institute of Chicago",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Glendale",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jim Henson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Truant Officer Donald",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Night",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Gallopin' Gaucho",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Story of Robin Hood and His Merrie Men",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Three Orphan Kittens",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ron W. Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "Terry Rossio",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Snow White and the Seven Dwarfs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ted Sears",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Fox Chase",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Good Scouts",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Seal Island",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Napa",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0cgl863",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Steuben",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Birds in the Spring",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Donalds Crime",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Chain Gang",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Morris, the Midget Moose",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ben and Me",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Society Dog Show",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "The Opry House",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0115wpd4",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Paul Bunyan",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice the Toreador",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "A Symposium on Popular Songs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Peculiar Penguins",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Mellerdrammer",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Star Wars: Episode VIII",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "No Hunting",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Fantasia 2000",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Treasure Island",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "Norman Palmer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Jazz Fool",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Oh Teacher",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "California Institute of the Arts",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Clock Cleaners",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Sword and the Rose",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Skeleton Dance",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0115wpbg",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Polo Team",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Woodland Café",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Chicago"
+    ],
+    [
+      "Get A Horse",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Idaho"
+    ],
+    [
+      "Idaho",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oh, What a Knight",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "Lend a Paw",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Birthday Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Toy Tinkers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Mickey Mouse Club",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Monkey Melodies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Winnie the Pooh and the Blustery Day",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Emile Kuri",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0n3lstj",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Barn Dance",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bambi",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "William Garity",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mickey's Good Deed",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mysteries of the Deep",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bugs in Love",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "James Dietrich",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Frank Gehry",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Flowers and Trees",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hungry Hoboes",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "The New Spirit",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Fun and Fancy Free",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Blue Rhythm",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Gala Premier",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Chicago metropolitan area",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0n3lt44",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Disney Before Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Arctic Antics",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Samson Raphaelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Clock Store",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Delayed Date",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0ndc90c",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Alaskan Eskimo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Margaret J. Winkler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Muppet Treasure Island",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Robert A. Israel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0nbw1wj",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Santa Monica",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Lawrence Edward Watkin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Siam - Land und Leute",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tommy Tucker's Tooth",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Alice Solves the Puzzle",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Toot, Whistle, Plunk and Boom",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "When the Cat's Away",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lcrhc2",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Playful Pluto",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Flora Call Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mother Goose Goes Hollywood",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Trailer",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hollywood",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Squatter's Rights",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Merry Dwarfs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mary Poppins",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "South of the Border with Disney",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Leigh Harline",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hollywood Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Dognapper",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Kevin Clash",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bill Walsh",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Idaho"
+    ],
+    [
+      "Ub Iwerks",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Quincy Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Orphan's Benefit",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Follies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Kansas City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Disneyland: The Secrets, Stories & Magic of the Happiest Place on Earth",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey Mouse Clubhouse",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "The Adventures of Ichabod and Mr. Toad",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Disney Princess Sing-Along Songs: Enchanted Tea Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Golden Touch",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ted Elliott",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Giantland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bear Country",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Just Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Idaho"
+    ]
+  ]
+}

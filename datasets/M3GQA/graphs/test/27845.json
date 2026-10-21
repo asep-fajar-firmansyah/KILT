@@ -1,0 +1,2900 @@
+{
+  "graph_id": 27845,
+  "subgraph": [
+    [
+      "m.0g9pydw",
+      "base.events.performance.event",
+      "Super Bowl XLV"
+    ],
+    [
+      "m.0g9pyd3",
+      "base.events.performance.event",
+      "Super Bowl XLV"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLV"
+    ],
+    [
+      "Super Bowl XLV",
+      "base.events.performance_event.performance",
+      "m.0g9pyf6"
+    ],
+    [
+      "Super Bowl XLV",
+      "sports.sports_championship_event.champion",
+      "Green Bay Packers"
+    ],
+    [
+      "Super Bowl XLV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "m.0g9pyf6",
+      "base.events.performance.event",
+      "Super Bowl XLV"
+    ],
+    [
+      "2010 NFL season",
+      "sports.sports_league_season.championship",
+      "Super Bowl XLV"
+    ],
+    [
+      "Green Bay Packers",
+      "sports.sports_team.championships",
+      "Super Bowl XLV"
+    ],
+    [
+      "m.0g9pydj",
+      "base.events.performance.event",
+      "Super Bowl XLV"
+    ],
+    [
+      "Super Bowl XLV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XLV",
+      "base.events.performance_event.performance",
+      "m.0g9pydj"
+    ],
+    [
+      "Super Bowl XLV",
+      "sports.sports_championship_event.runner_up",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "AT&T Stadium",
+      "location.location.events",
+      "Super Bowl XLV"
+    ],
+    [
+      "Super Bowl XLV",
+      "common.topic.article",
+      "m.079k9n"
+    ],
+    [
+      "Super Bowl XLV",
+      "time.event.locations",
+      "AT&T Stadium"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLV"
+    ],
+    [
+      "Super Bowl XLV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XLV",
+      "sports.sports_championship_event.season",
+      "2010 NFL season"
+    ],
+    [
+      "Super Bowl XLV",
+      "common.topic.notable_for",
+      "g.1254z11hg"
+    ],
+    [
+      "Super Bowl XLV",
+      "base.events.performance_event.performance",
+      "m.0g9pyd3"
+    ],
+    [
+      "Super Bowl XLV",
+      "base.events.performance_event.performance",
+      "m.0g9pydw"
+    ],
+    [
+      "Super Bowl XXXI",
+      "common.topic.notable_for",
+      "g.125cvctyb"
+    ],
+    [
+      "Super Bowl XXXI",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Super Bowl XXXI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXI",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_pbzcl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXI"
+    ],
+    [
+      "Super Bowl XXXI",
+      "common.topic.article",
+      "m.076xh"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXI"
+    ],
+    [
+      "Super Bowl XXXI",
+      "sports.sports_championship_event.champion",
+      "Green Bay Packers"
+    ],
+    [
+      "Super Bowl XXXI",
+      "sports.sports_championship_event.runner_up",
+      "New England Patriots"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "Super Bowl XXXI"
+    ],
+    [
+      "Super Bowl XXXI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "1996 NFL season",
+      "sports.sports_league_season.championship",
+      "Super Bowl XXXI"
+    ],
+    [
+      "Super Bowl XXXI",
+      "sports.sports_championship_event.season",
+      "1996 NFL season"
+    ],
+    [
+      "Green Bay Packers",
+      "sports.sports_team.championships",
+      "Super Bowl XXXI"
+    ],
+    [
+      "Super Bowl XXXI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl X",
+      "time.event.locations",
+      "Miami Orange Bowl"
+    ],
+    [
+      "Miami Orange Bowl",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Miami Orange Bowl",
+      "location.location.events",
+      "Super Bowl X"
+    ],
+    [
+      "Super Bowl V",
+      "time.event.locations",
+      "Miami Orange Bowl"
+    ],
+    [
+      "Miami Orange Bowl",
+      "location.location.events",
+      "Super Bowl XIII"
+    ],
+    [
+      "Super Bowl II",
+      "time.event.locations",
+      "Miami Orange Bowl"
+    ],
+    [
+      "Miami Orange Bowl",
+      "location.location.events",
+      "Super Bowl II"
+    ],
+    [
+      "Miami Orange Bowl",
+      "location.location.events",
+      "Super Bowl V"
+    ],
+    [
+      "Super Bowl III",
+      "time.event.locations",
+      "Miami Orange Bowl"
+    ],
+    [
+      "Super Bowl XIII",
+      "time.event.locations",
+      "Miami Orange Bowl"
+    ],
+    [
+      "Miami Orange Bowl",
+      "location.location.events",
+      "Super Bowl III"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXVII"
+    ],
+    [
+      "Super Bowl XII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "book.book_subject.works",
+      "Boys Will Be Boys: The Glory Days and Party Nights of the Dallas Cowboys Dynasty"
+    ],
+    [
+      "Super Bowl XVIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XV"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXX"
+    ],
+    [
+      "Super Bowl XXXIV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XIV"
+    ],
+    [
+      "Super Bowl LI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XII"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl X"
+    ],
+    [
+      "Super Bowl XLVII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl III",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XLVII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XV"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXIV"
+    ],
+    [
+      "m.09klkgr",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLIV"
+    ],
+    [
+      "Super Bowl XXXVI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl 50",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXX",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XLVI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXVII"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXVIII"
+    ],
+    [
+      "Super Bowl XVIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XX"
+    ],
+    [
+      "Super Bowl XIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl IV"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLVI"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl LI"
+    ],
+    [
+      "Super Bowl VI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XVII"
+    ],
+    [
+      "Super Bowl",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09klkgr"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XIII"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XIII"
+    ],
+    [
+      "Super Bowl XLVIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLVIII"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXVIII"
+    ],
+    [
+      "Super Bowl XXXVI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLII"
+    ],
+    [
+      "Super Bowl XVI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXVIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXVI"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXIII"
+    ],
+    [
+      "Super Bowl XXIV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl V"
+    ],
+    [
+      "Super Bowl I",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl VII"
+    ],
+    [
+      "Super Bowl",
+      "common.topic.notable_for",
+      "g.125d4rv3b"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXIX"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXV"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXII"
+    ],
+    [
+      "Super Bowl XLIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXVII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXIV"
+    ],
+    [
+      "Super Bowl XLVIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XLVI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XIX"
+    ],
+    [
+      "Boys Will Be Boys: The Glory Days and Party Nights of the Dallas Cowboys Dynasty",
+      "book.written_work.subjects",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXV"
+    ],
+    [
+      "Super Bowl IX",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXIX",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "common.topic.notable_types",
+      "Sports League Championship"
+    ],
+    [
+      "Super Bowl",
+      "common.image.appears_in_topic_gallery",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "freebase.valuenotation.is_reviewed",
+      "Events"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XIX"
+    ],
+    [
+      "Super Bowl IX",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl III"
+    ],
+    [
+      "Super Bowl XXIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl IX"
+    ],
+    [
+      "Super Bowl",
+      "freebase.valuenotation.is_reviewed",
+      "Current frequency"
+    ],
+    [
+      "Super Bowl XLII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl I",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl X"
+    ],
+    [
+      "Super Bowl XV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XVII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLVIII"
+    ],
+    [
+      "Super Bowl XXV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl V",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super bowl",
+      "freebase.type_profile.equivalent_topic",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXVII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXI"
+    ],
+    [
+      "Super Bowl",
+      "common.topic.article",
+      "m.06x62"
+    ],
+    [
+      "Super Bowl XXXVII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXVIII"
+    ],
+    [
+      "Super Bowl V",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLVII"
+    ],
+    [
+      "Super Bowl XXX",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXIII"
+    ],
+    [
+      "Super Bowl XXIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Superbowl Trophy Crop",
+      "common.image.appears_in_topic_gallery",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XLIV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLIII"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl LII"
+    ],
+    [
+      "Super Bowl",
+      "common.topic.image",
+      "Superbowl Trophy Crop"
+    ],
+    [
+      "Super Bowl",
+      "common.image.size",
+      "m.02912_0"
+    ],
+    [
+      "Super Bowl XIX",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXVII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXIII"
+    ],
+    [
+      "Super Bowl XLIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl VIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXVI"
+    ],
+    [
+      "Super Bowl X",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLIX"
+    ],
+    [
+      "Super Bowl XIV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XL"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl VI"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl IX"
+    ],
+    [
+      "Super Bowl",
+      "freebase.equivalent_topic.equivalent_type",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XX",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XL",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl LII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl 50"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXIII"
+    ],
+    [
+      "Super Bowl XXXVIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl VIII"
+    ],
+    [
+      "Super Bowl VII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XVII"
+    ],
+    [
+      "Super Bowl XXXIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl V"
+    ],
+    [
+      "Super Bowl XXVI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXIV"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XIV"
+    ],
+    [
+      "Super Bowl III",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XVIII"
+    ],
+    [
+      "Super Bowl XIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl IV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl IV"
+    ],
+    [
+      "National Football League",
+      "sports.sports_league.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.current_frequency",
+      "Yearly"
+    ],
+    [
+      "Super Bowl XLIV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Moment Factory",
+      "business.business_operation.major_customer",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl III"
+    ],
+    [
+      "Super Bowl VII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXIX",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XIV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl X",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XL",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXVIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXVI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXIX"
+    ],
+    [
+      "Super Bowl XXIX",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "business.customer.supplier",
+      "Moment Factory"
+    ],
+    [
+      "Super Bowl",
+      "common.topic.image",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XVI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl I"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXIX"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XVI"
+    ],
+    [
+      "Super Bowl XXII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXVIII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXVII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl I"
+    ],
+    [
+      "Super Bowl II",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "symbols.namesake.named_after",
+      "Super Ball"
+    ],
+    [
+      "Super Bowl XVII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XVIII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XI"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLI"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XX"
+    ],
+    [
+      "Super Bowl",
+      "freebase.valuenotation.is_reviewed",
+      "Date of first occurrence"
+    ],
+    [
+      "Super Bowl XLI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXXVI"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl VIII"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XI"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXX"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXII"
+    ],
+    [
+      "Super Bowl II",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXIV"
+    ],
+    [
+      "Super Bowl XXII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Ball",
+      "symbols.name_source.namesakes",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XX",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXIX"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLIII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXVII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXV"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl II"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXVIII"
+    ],
+    [
+      "Super Bowl XLIX",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XLII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXVI"
+    ],
+    [
+      "Super Bowl VIII",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl IV",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl II"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XL"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLVI"
+    ],
+    [
+      "Super Bowl XXIV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl XXXIX",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXXV"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XVI"
+    ],
+    [
+      "Super Bowl XXXIV",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLIV"
+    ],
+    [
+      "Super Bowl XIX",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XXII"
+    ],
+    [
+      "Super Bowl",
+      "common.image.appears_in_topic_gallery",
+      "Vince Lombardi Trophy"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XXI"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLI"
+    ],
+    [
+      "Super Bowl",
+      "freebase.valuenotation.has_no_value",
+      "Date of final occurrence"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl VII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl VI"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.league",
+      "National Football League"
+    ],
+    [
+      "Super Bowl XXXII",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl VI",
+      "sports.sports_championship_event.championship",
+      "Super Bowl"
+    ],
+    [
+      "Super Bowl",
+      "time.recurring_event.instances",
+      "Super Bowl XLII"
+    ],
+    [
+      "Super Bowl",
+      "sports.sports_championship.events",
+      "Super Bowl XLVII"
+    ],
+    [
+      "Super Bowl XLI",
+      "time.event.instance_of_recurring_event",
+      "Super Bowl"
+    ],
+    [
+      "Green Bay Packers",
+      "sports.sports_team.championships",
+      "Super Bowl II"
+    ],
+    [
+      "Super Bowl II",
+      "sports.sports_championship_event.champion",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jn_1",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnyj",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "Super Bowl XXXII",
+      "sports.sports_championship_event.runner_up",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnw8",
+      "american_football.game_rushing_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnws",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnzq",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "Green Bay Packers",
+      "sports.sports_team.colors",
+      "Gold"
+    ],
+    [
+      "Baltimore Ravens at Green Bay Packers, 2009-12-07",
+      "american_football.football_game.home_team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnv8",
+      "american_football.game_rushing_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "Green Bay Packers",
+      "sports.sports_team.sport",
+      "American football"
+    ],
+    [
+      "m.098jny5",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnx4",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnz1",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnxh",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnxv",
+      "american_football.game_receiving_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "Super Bowl I",
+      "sports.sports_championship_event.champion",
+      "Green Bay Packers"
+    ],
+    [
+      "m.098jnvs",
+      "american_football.game_rushing_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "Green Bay Packers",
+      "sports.sports_team.championships",
+      "Super Bowl I"
+    ],
+    [
+      "m.098jnth",
+      "american_football.game_passing_statistics.team",
+      "Green Bay Packers"
+    ],
+    [
+      "Green Bay Packers",
+      "american_football.football_team.home_games",
+      "Baltimore Ravens at Green Bay Packers, 2009-12-07"
+    ],
+    [
+      "2010 NFL season",
+      "sports.sports_league_season.league",
+      "National Football League"
+    ],
+    [
+      "National Football League",
+      "sports.sports_league.seasons",
+      "2010 NFL season"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.colors",
+      "Gold"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.colors",
+      "Black"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.championships",
+      "Super Bowl XL"
+    ],
+    [
+      "m.09kng8_",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Super Bowl XIII",
+      "sports.sports_championship_event.champion",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng6y",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792b9p",
+      "american_football.game_passing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.championships",
+      "Super Bowl XIII"
+    ],
+    [
+      "Super Bowl XL",
+      "sports.sports_championship_event.champion",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "american_football.football_team.away_games",
+      "Pittsburgh Steelers at Baltimore Ravens, 2009-11-29"
+    ],
+    [
+      "m.0792dy8",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dxy",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "american_football.football_team.away_games",
+      "Pittsburgh Steelers at Baltimore Ravens, 2008-12-14"
+    ],
+    [
+      "m.0792dtd",
+      "american_football.game_passing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dwx",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Super Bowl X",
+      "sports.sports_championship_event.champion",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dxl",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bb_",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Super Bowl XIV",
+      "sports.sports_championship_event.champion",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qbn3",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.league",
+      "m.0crt9f8"
+    ],
+    [
+      "m.096qbrz",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dtv",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "American Football Conference",
+      "american_football.football_conference.teams",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d4p",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d5c",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.championships",
+      "Super Bowl XLIII"
+    ],
+    [
+      "Baltimore Ravens at Pittsburgh Steelers, 2008-09-29",
+      "american_football.football_game.home_team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dvj",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "AFC North",
+      "american_football.football_division.teams",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d7s",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bcp",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bj6",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Super Bowl XLIII",
+      "sports.sports_championship_event.champion",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bhs",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers at Baltimore Ravens, 2009-11-29",
+      "american_football.football_game.away_team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dym",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "m.0792bb4",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "american_football.football_team.conference",
+      "American Football Conference"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.championships",
+      "Super Bowl XIV"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "american_football.football_team.home_games",
+      "Baltimore Ravens at Pittsburgh Steelers, 2009-12-27"
+    ],
+    [
+      "m.096qbp0",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qbj1",
+      "american_football.game_passing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qbpj",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d6d",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng9b",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng7z",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qbl0",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.championships",
+      "Super Bowl X"
+    ],
+    [
+      "Baltimore Ravens at Pittsburgh Steelers, 2009-12-27",
+      "american_football.football_game.home_team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0crtf9f",
+      "sports.sports_league_participation.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.league",
+      "m.0crtf9f"
+    ],
+    [
+      "m.0792d72",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng9p",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qbr3",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.sport",
+      "American football"
+    ],
+    [
+      "m.0792d61",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Baltimore Ravens at Pittsburgh Steelers, 2009-01-18",
+      "american_football.football_game.home_team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d5q",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng6l",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dvw",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dx7",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d83",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng89",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qbnk",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng7m",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bdq",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0crt9f8",
+      "sports.sports_league_participation.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bbk",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dwk",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Super Bowl IX",
+      "sports.sports_championship_event.champion",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d6r",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bg6",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d50",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng8n",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d7f",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bjl",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Super Bowl XXX",
+      "sports.sports_championship_event.runner_up",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qblw",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.096qbq8",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "sports.sports_team.championships",
+      "Super Bowl IX"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "american_football.football_team.home_games",
+      "Baltimore Ravens at Pittsburgh Steelers, 2009-01-18"
+    ],
+    [
+      "Pittsburgh Steelers at Baltimore Ravens, 2008-12-14",
+      "american_football.football_game.away_team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dv5",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng64",
+      "american_football.game_passing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.09kng78",
+      "american_football.game_rushing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "american_football.football_team.home_games",
+      "Baltimore Ravens at Pittsburgh Steelers, 2008-09-29"
+    ],
+    [
+      "Pittsburgh Steelers",
+      "american_football.football_team.division",
+      "AFC North"
+    ],
+    [
+      "m.0792bh4",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792dw6",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bk2",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792d47",
+      "american_football.game_passing_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "m.0792bfk",
+      "american_football.game_receiving_statistics.team",
+      "Pittsburgh Steelers"
+    ],
+    [
+      "AT&T Stadium",
+      "sports.sports_facility.teams",
+      "Dallas Cowboys"
+    ],
+    [
+      "AT&T Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Dallas Cowboys",
+      "sports.sports_team.arena_stadium",
+      "AT&T Stadium"
+    ],
+    [
+      "Super Bowl II",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl hosted",
+      "rdf-schema#range",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XLIV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XLII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl III",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXXIV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XLIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super bowl",
+      "freebase.documented_object.documentation",
+      "m.01z0ffp"
+    ],
+    [
+      "Super Bowl XXXVII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XIX",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XLI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl IV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super bowl",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Super Bowl hosted",
+      "type.property.expected_type",
+      "Super bowl"
+    ],
+    [
+      "American football",
+      "type.domain.types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl VII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super bowl",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Super Bowl V",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl I",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXXIX",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XLVI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXXVI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXXVIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super bowl",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Super Bowl XI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super bowl",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Super Bowl XVII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XLVIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super bowl",
+      "type.type.expected_by",
+      "Super Bowl hosted"
+    ],
+    [
+      "Super bowl",
+      "type.type.domain",
+      "American football"
+    ],
+    [
+      "Super Bowl XXIV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXVI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XVIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXIX",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXVIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl VI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XX",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XIV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl LII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super bowl",
+      "common.topic.article",
+      "m.01z0ffp"
+    ],
+    [
+      "Super Bowl VIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXXII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXX",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXXIII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XVI",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XL",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXVII",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl XXXV",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl IX",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Super Bowl X",
+      "common.topic.notable_types",
+      "Super bowl"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "Super Bowl XXIV"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "2011–12 NFL playoffs"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "Super Bowl XLVII"
+    ],
+    [
+      "Super Bowl XLVII",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "2012–13 NFL playoffs"
+    ],
+    [
+      "2012 NFL season",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Super Bowl XXXVI",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "2012 NFL season"
+    ],
+    [
+      "Super Bowl XXIV",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "Super Bowl XII"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "sports.sports_facility.teams",
+      "New Orleans Saints"
+    ],
+    [
+      "2011–12 NFL playoffs",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Super Bowl XX",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "Super Bowl XXXVI"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "Super Bowl XV"
+    ],
+    [
+      "New Orleans Saints",
+      "sports.sports_team.arena_stadium",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Mercedes-Benz Superdome",
+      "location.location.events",
+      "Super Bowl XX"
+    ],
+    [
+      "Super Bowl XV",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "Super Bowl XII",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "2012–13 NFL playoffs",
+      "time.event.locations",
+      "Mercedes-Benz Superdome"
+    ],
+    [
+      "New England Patriots",
+      "american_football.football_team.home_games",
+      "Baltimore Ravens at New England Patriots, 2010-01-10"
+    ],
+    [
+      "m.09rls8c",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wxg",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "sports.sports_team.sport",
+      "American football"
+    ],
+    [
+      "New England Patriots",
+      "sports.sports_team.championships",
+      "Super Bowl XXXVI"
+    ],
+    [
+      "m.07p5wy5",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "sports.sports_team.league",
+      "m.0crt9jt"
+    ],
+    [
+      "Super Bowl XLVI",
+      "sports.sports_championship_event.runner_up",
+      "New England Patriots"
+    ],
+    [
+      "Super Bowl XLII",
+      "sports.sports_championship_event.runner_up",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wzj",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wsk",
+      "american_football.game_passing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "Baltimore Ravens at New England Patriots, 2009-10-04",
+      "american_football.football_game.home_team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "sports.sports_team.championships",
+      "Super Bowl XXXVIII"
+    ],
+    [
+      "m.07p5wz5",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wws",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "Gillette Stadium",
+      "sports.sports_facility.teams",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls91",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "sports.sports_team.championships",
+      "Super Bowl XXXIX"
+    ],
+    [
+      "New England Patriots",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "m.07p5wwf",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wxt",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls8q",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "Baltimore Ravens at New England Patriots, 2010-01-10",
+      "american_football.football_game.home_team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "american_football.football_team.home_games",
+      "Baltimore Ravens at New England Patriots, 2009-10-04"
+    ],
+    [
+      "AFC East",
+      "american_football.football_division.teams",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wvr",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "Super Bowl XXXVIII",
+      "sports.sports_championship_event.champion",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "sports.sports_team.arena_stadium",
+      "Gillette Stadium"
+    ],
+    [
+      "2013 AFC Championship Game",
+      "sports.sports_championship_event.runner_up",
+      "New England Patriots"
+    ],
+    [
+      "Patriot Reign",
+      "book.written_work.subjects",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls7b",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "american_football.football_team.conference",
+      "American Football Conference"
+    ],
+    [
+      "m.09rls7p",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5ww2",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.0crt9jt",
+      "sports.sports_league_participation.team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "american_football.football_team.division",
+      "AFC East"
+    ],
+    [
+      "Super Bowl XX",
+      "sports.sports_championship_event.runner_up",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls5w",
+      "american_football.game_passing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls6n",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls6_",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls9r",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wx3",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "New England Patriots",
+      "book.book_subject.works",
+      "Patriot Reign"
+    ],
+    [
+      "m.09rls80",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls69",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "Super Bowl XXXIX",
+      "sports.sports_championship_event.champion",
+      "New England Patriots"
+    ],
+    [
+      "American Football Conference",
+      "american_football.football_conference.teams",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wv1",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.09rls9d",
+      "american_football.game_receiving_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5ws_",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "Super Bowl XXXVI",
+      "sports.sports_championship_event.champion",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wtq",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.07p5wvd",
+      "american_football.game_rushing_statistics.team",
+      "New England Patriots"
+    ],
+    [
+      "m.075fgq3",
+      "sports.sports_team_season_record.season",
+      "1996 NFL season"
+    ],
+    [
+      "Super Bowl X",
+      "common.topic.notable_for",
+      "g.1255dkj26"
+    ],
+    [
+      "Super Bowl X",
+      "sports.sports_championship_event.runner_up",
+      "Dallas Cowboys"
+    ],
+    [
+      "Super Bowl X",
+      "common.topic.article",
+      "m.076pl"
+    ],
+    [
+      "1975 NFL season",
+      "sports.sports_league_season.championship",
+      "Super Bowl X"
+    ],
+    [
+      "Super Bowl X",
+      "sports.sports_championship_event.season",
+      "1975 NFL season"
+    ],
+    [
+      "Super Bowl X",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_lrgqj"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Gillette Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Hubert H. Humphrey Metrodome",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "U.S. Bank Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Raymond James Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Lucas Oil Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_profile.strict_included_types",
+      "Non-Agent"
+    ],
+    [
+      "MetLife Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sports Facility"
+    ],
+    [
+      "University of Phoenix Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Rice Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Georgia Dome",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sun Life Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Ford Field",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "EverBank Field",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Sports Facility",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Silverdome",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Oakland-Alameda County Coliseum",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "NRG Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Tulane Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "M&T Bank Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Tampa Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Super Bowl V",
+      "common.topic.notable_for",
+      "g.1259cc3_r"
+    ],
+    [
+      "1970 NFL season",
+      "sports.sports_league_season.championship",
+      "Super Bowl V"
+    ],
+    [
+      "Super Bowl V",
+      "sports.sports_championship_event.season",
+      "1970 NFL season"
+    ],
+    [
+      "Super Bowl V",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_n7_qt"
+    ],
+    [
+      "Super Bowl V",
+      "common.topic.article",
+      "m.076mw"
+    ],
+    [
+      "Super Bowl V",
+      "common.topic.image",
+      "SCAN 390"
+    ],
+    [
+      "Baltimore Colts",
+      "sports.sports_team.championships",
+      "Super Bowl V"
+    ],
+    [
+      "Super Bowl V",
+      "base.events.performance_event.performance",
+      "m.09kgyzq"
+    ],
+    [
+      "Super Bowl V",
+      "sports.sports_championship_event.champion",
+      "Baltimore Colts"
+    ],
+    [
+      "Super Bowl V",
+      "sports.sports_championship_event.runner_up",
+      "Dallas Cowboys"
+    ],
+    [
+      "m.09kgyzq",
+      "base.events.performance.event",
+      "Super Bowl V"
+    ],
+    [
+      "1978 NFL season",
+      "sports.sports_league_season.championship",
+      "Super Bowl XIII"
+    ],
+    [
+      "Super Bowl XIII",
+      "common.topic.notable_for",
+      "g.12559n3x9"
+    ],
+    [
+      "Super Bowl XIII",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_kmv77"
+    ],
+    [
+      "Super Bowl XIII",
+      "sports.sports_championship_event.runner_up",
+      "Dallas Cowboys"
+    ],
+    [
+      "Super Bowl XIII",
+      "sports.sports_championship_event.season",
+      "1978 NFL season"
+    ],
+    [
+      "Super Bowl XIII",
+      "common.topic.article",
+      "m.076qm"
+    ],
+    [
+      "1967 NFL season",
+      "sports.sports_league_season.championship",
+      "Super Bowl II"
+    ],
+    [
+      "Super Bowl II",
+      "sports.sports_championship_event.season",
+      "1967 NFL season"
+    ],
+    [
+      "Super Bowl II",
+      "common.topic.notable_for",
+      "g.125dkwsc8"
+    ],
+    [
+      "Super Bowl II",
+      "sports.sports_championship_event.runner_up",
+      "Oakland Raiders"
+    ],
+    [
+      "Super Bowl II",
+      "common.topic.article",
+      "m.076m5"
+    ],
+    [
+      "New York Jets",
+      "sports.sports_team.championships",
+      "Super Bowl III"
+    ],
+    [
+      "Super Bowl III",
+      "common.topic.article",
+      "m.075mz"
+    ],
+    [
+      "Super Bowl III",
+      "common.topic.notable_for",
+      "g.125dv3rjd"
+    ],
+    [
+      "Super Bowl III",
+      "sports.sports_championship_event.season",
+      "1968 NFL season"
+    ],
+    [
+      "Super Bowl III",
+      "sports.sports_championship_event.champion",
+      "New York Jets"
+    ],
+    [
+      "Super Bowl III",
+      "sports.sports_championship_event.runner_up",
+      "Baltimore Colts"
+    ],
+    [
+      "1968 NFL season",
+      "sports.sports_league_season.championship",
+      "Super Bowl III"
+    ]
+  ]
+}

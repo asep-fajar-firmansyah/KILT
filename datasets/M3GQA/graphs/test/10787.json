@@ -1,0 +1,1785 @@
+{
+  "graph_id": 10787,
+  "subgraph": [
+    [
+      "Wheel of Fortune",
+      "tv.tv_program.regular_personal_appearances",
+      "m.062vfps"
+    ],
+    [
+      "Wheel of Fortune",
+      "tv.tv_program.regular_cast",
+      "m.03jprnv"
+    ],
+    [
+      "m.062vfps",
+      "tv.tv_regular_personal_appearance.program",
+      "Wheel of Fortune"
+    ],
+    [
+      "Wheel of Fortune",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Wheel of Fortune",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Wheel of Fortune",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "m.03jprnv",
+      "tv.regular_tv_appearance.series",
+      "Wheel of Fortune"
+    ],
+    [
+      "Hayley Walsh",
+      "people.person.place_of_birth",
+      "England"
+    ],
+    [
+      "Hayley Walsh",
+      "people.person.sibling_s",
+      "m.0m_c478"
+    ],
+    [
+      "Hayley Walsh",
+      "common.topic.notable_for",
+      "g.125fj8by2"
+    ],
+    [
+      "Hayley Walsh",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Hayley Walsh",
+      "people.person.parents",
+      "Bradley Walsh"
+    ],
+    [
+      "Hayley Walsh",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.children",
+      "Hayley Walsh"
+    ],
+    [
+      "Hayley Walsh",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "m.0m_c478",
+      "people.sibling_relationship.sibling",
+      "Hayley Walsh"
+    ],
+    [
+      "Hayley Walsh",
+      "people.person.profession",
+      "Recruitment Officer"
+    ],
+    [
+      "Torn",
+      "tv.tv_program.regular_cast",
+      "m.04dcy12"
+    ],
+    [
+      "Torn",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Torn",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Torn",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Torn",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "m.04dcy12",
+      "tv.regular_tv_appearance.series",
+      "Torn"
+    ],
+    [
+      "The Chase",
+      "tv.tv_program.regular_personal_appearances",
+      "m.06wk4fp"
+    ],
+    [
+      "The Chase",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "m.06wk4fp",
+      "tv.tv_regular_personal_appearance.program",
+      "The Chase"
+    ],
+    [
+      "The Chase",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Chase",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.062vfps"
+    ],
+    [
+      "m.062vfps",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.03jprnv"
+    ],
+    [
+      "m.03jprnv",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Maestro",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Odd One In",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "No. 1 Soap Fan",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "TV",
+      "type.domain.types",
+      "TV Program"
+    ],
+    [
+      "Come on Down! The Game Show Story",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Midas Touch",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "TV Program",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Turn the Beat Around",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "TV Program",
+      "type.type.domain",
+      "TV"
+    ],
+    [
+      "The Weakest Link",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "TV Program",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "TV Program",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "The National Lottery on Tour",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "TV's 50 Greatest Stars",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "The Northern Rock All*Star Cup",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Law & Order: UK",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Spin Star",
+      "common.topic.notable_types",
+      "TV Program"
+    ],
+    [
+      "Hertfordshire",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "Spin Star",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Maestro",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Night and Day",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Donna Derby",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The National Lottery on Tour",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "TV's 50 Greatest Stars",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Odd One In",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.location.time_zones",
+      "Greenwich Mean Time Zone"
+    ],
+    [
+      "Law & Order: UK",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Come on Down! The Game Show Story",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "England",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "Wartime Wanderers",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "England",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Barney Walsh",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Coronation Street",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Aaron Morris",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Equity",
+      "organization.organization.geographic_scope",
+      "United Kingdom"
+    ],
+    [
+      "ITV",
+      "tv.tv_network.areas_served",
+      "United Kingdom"
+    ],
+    [
+      "Mike Bassett: England Manager",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "ITV",
+      "organization.organization.place_founded",
+      "United Kingdom"
+    ],
+    [
+      "Hertfordshire",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Midas Touch",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Hertfordshire",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "The Weakest Link",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Keep It in the Family",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Intu Watford",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.first_level_divisions",
+      "England"
+    ],
+    [
+      "England",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "England",
+      "location.administrative_division.first_level_division_of",
+      "United Kingdom"
+    ],
+    [
+      "Watford",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "England"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "The Northern Rock All*Star Cup",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "England",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United Kingdom"
+    ],
+    [
+      "Mike Bassett: England Manager",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Keep It in the Family",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Canada"
+    ],
+    [
+      "Night and Day",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Weakest Link",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Law & Order: UK",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Coronation Street",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Spin Star",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Bleona",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Wartime Wanderers",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Turn the Beat Around",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Canada",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Midas Touch",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "England",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "England"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "Odd One In",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Come on Down! The Game Show Story",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Turn the Beat Around",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Maestro",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Michael Palance",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "TV's 50 Greatest Stars",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Johnny Briggs",
+      "people.person.nationality",
+      "England"
+    ],
+    [
+      "Jane Danson",
+      "people.person.nationality",
+      "England"
+    ],
+    [
+      "Barney Walsh",
+      "people.person.place_of_birth",
+      "England"
+    ],
+    [
+      "Hertfordshire",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "England"
+    ],
+    [
+      "Donna Derby",
+      "people.person.place_of_birth",
+      "England"
+    ],
+    [
+      "Watford",
+      "location.location.containedby",
+      "England"
+    ],
+    [
+      "West Herts College",
+      "location.location.containedby",
+      "England"
+    ],
+    [
+      "Hertfordshire",
+      "location.location.containedby",
+      "England"
+    ],
+    [
+      "Vicarage Road",
+      "location.location.containedby",
+      "England"
+    ],
+    [
+      "England",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "England",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hertfordshire"
+    ],
+    [
+      "Elstree Airfield",
+      "location.location.containedby",
+      "England"
+    ],
+    [
+      "England",
+      "location.location.time_zones",
+      "Greenwich Mean Time Zone"
+    ],
+    [
+      "Hertfordshire",
+      "location.administrative_division.second_level_division_of",
+      "England"
+    ],
+    [
+      "m.0m_c478",
+      "people.sibling_relationship.sibling",
+      "Barney Walsh"
+    ],
+    [
+      "Barney Walsh",
+      "people.person.sibling_s",
+      "m.0m_c478"
+    ],
+    [
+      "Nat Manning",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Riki Lindhome",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Vivian",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Sonny Munroe",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Maria Pitillo",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Kate Micucci",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Female"
+    ],
+    [
+      "Zora Lancaster",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Jackie Burkhart",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Jane Danson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Inessa Kraft",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Fanny Brice",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Donna Derby",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Tawni Hart",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Bleona",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Harmony Kendall",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Liz Lemon",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Bradley Walsh",
+      "award.award_nominee.award_nominations",
+      "m.0y_vzx3"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0dkk597"
+    ],
+    [
+      "Barney Walsh",
+      "people.person.parents",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0wxz",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.0j3jsm4"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0c0wdvq"
+    ],
+    [
+      "m.09p0wx3",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0bmpjmn",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.spouse_s",
+      "m.0j6jn5d"
+    ],
+    [
+      "m.0_yyc1_",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0wvm",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.0125tqqm"
+    ],
+    [
+      "Margaret Walsh",
+      "people.person.children",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.0_yyc1_"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0gh0ff8"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.06wk4fp"
+    ],
+    [
+      "m.0bmqq8x",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0wtw",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0bmr145",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.places_lived",
+      "m.0h8jzzr"
+    ],
+    [
+      "Bradley Walsh",
+      "common.topic.notable_for",
+      "g.1256k9v6d"
+    ],
+    [
+      "m.0bgrqpx",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.052gg34",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0x0m220",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "common.topic.notable_types",
+      "TV Actor"
+    ],
+    [
+      "m.09p0wtk",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wx3"
+    ],
+    [
+      "m.09p0wwn",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0ww7"
+    ],
+    [
+      "m.0bgx7rz",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0j3jsm4",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "m.0y_vzx3",
+      "award.award_nomination.award_nominee",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0g77h4p",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0wtq",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0wwz",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wvm"
+    ],
+    [
+      "m.0bgrsl_",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.011lnz3p",
+      "film.personal_film_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.04dcy12"
+    ],
+    [
+      "Bradley Walsh",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0dl0fm0"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.0bgx7rz"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.03js8bs"
+    ],
+    [
+      "m.011l_4y8",
+      "people.sibling_relationship.sibling",
+      "Bradley Walsh"
+    ],
+    [
+      "m.02vbjfl",
+      "film.performance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0g02wgw",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0n0r2vh",
+      "education.education.student",
+      "Bradley Walsh"
+    ],
+    [
+      "m.04m6_2_",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wwz"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wtq"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.profession",
+      "Presenter"
+    ],
+    [
+      "m.0dkw7yn",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0j6jn5d",
+      "people.marriage.spouse",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.0bgrsl_"
+    ],
+    [
+      "Bradley Walsh",
+      "award.award_nominee.award_nominations",
+      "m.0x0m1vv"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.education",
+      "m.0n0r2vh"
+    ],
+    [
+      "m.04jsphg",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wwn"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0bmpjmn"
+    ],
+    [
+      "Bradley Walsh",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.011lnz3p"
+    ],
+    [
+      "m.0bmm770",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0zytdpp",
+      "award.award_nomination.award_nominee",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.04z57t4"
+    ],
+    [
+      "m.0bmmwnd",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0wtd",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "film.actor.film",
+      "m.0h30d_y"
+    ],
+    [
+      "Bradley Walsh",
+      "common.topic.image",
+      "BradleyWalsh"
+    ],
+    [
+      "m.0bns9n4",
+      "common.webpage.topic",
+      "Bradley Walsh"
+    ],
+    [
+      "m.03js8bs",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0wwd",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0g01lpq",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0c0wdvq",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.0f_tzbr"
+    ],
+    [
+      "Bradley Walsh",
+      "film.director.film",
+      "Turn the Beat Around"
+    ],
+    [
+      "m.04z57t4",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0g01lpq"
+    ],
+    [
+      "m.0dkk597",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_director.episodes_directed",
+      "Sympathy for the Devil"
+    ],
+    [
+      "m.09p0wv7",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "award.award_nominee.award_nominations",
+      "m.0x0myjx"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0g77h4p"
+    ],
+    [
+      "m.0gh0ff8",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_director.episodes_directed",
+      "Won't Get Fooled Again"
+    ],
+    [
+      "m.04dcy12",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.place_of_birth",
+      "Watford"
+    ],
+    [
+      "Bradley Walsh",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wv7"
+    ],
+    [
+      "m.0h8jzzl",
+      "people.place_lived.person",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0x0my5d",
+      "award.award_honor.award_winner",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.0x0m220"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0bmn9gw"
+    ],
+    [
+      "Bradley Walsh",
+      "award.award_nominee.award_nominations",
+      "m.0x0mwsj"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0bmr145"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wwd"
+    ],
+    [
+      "Bradley Walsh",
+      "film.actor.film",
+      "m.02vbjfl"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.04m6_2_"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.0bgrqpx"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wtk"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.places_lived",
+      "m.0h8jzzl"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.012vzg7y"
+    ],
+    [
+      "Daniel Terence Danny Walsh",
+      "people.person.children",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.parents",
+      "Daniel Terence Danny Walsh"
+    ],
+    [
+      "m.0wlbk3h",
+      "business.employment_tenure.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.04jsphg"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.0dkw7yn"
+    ],
+    [
+      "Bradley Walsh",
+      "common.topic.webpage",
+      "m.0h6gx28"
+    ],
+    [
+      "m.0dl0fm0",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_director.episodes_directed",
+      "Lose This Skin"
+    ],
+    [
+      "m.06wk4fp",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.sibling_s",
+      "m.011l_4y8"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.employment_history",
+      "m.0wlbk3h"
+    ],
+    [
+      "Bradley Walsh",
+      "sports.pro_athlete.sports_played_professionally",
+      "m.0d6jckm"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0g02wgw"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0bmmwnd"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_personality.tv_regular_appearances",
+      "m.052gg34"
+    ],
+    [
+      "m.0hgvtxy",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.09p0ww7",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0x0mwsj",
+      "award.award_nomination.award_nominee",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0g76vpy"
+    ],
+    [
+      "Bradley Walsh",
+      "common.topic.webpage",
+      "m.0bns9n4"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wtw"
+    ],
+    [
+      "m.0bmn9gw",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "m.012vzg7y",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0y_m48z",
+      "award.award_nomination.award_nominee",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0x0m1vv",
+      "award.award_nomination.award_nominee",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0bmm770"
+    ],
+    [
+      "m.0125tqqm",
+      "tv.tv_regular_personal_appearance.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.starring_roles",
+      "m.0hgvtxy"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wtd"
+    ],
+    [
+      "m.0g76vpy",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wxz"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.0bmqq8x"
+    ],
+    [
+      "Bradley Walsh",
+      "common.topic.article",
+      "m.05h48h"
+    ],
+    [
+      "m.0d6jckm",
+      "sports.pro_sports_played.athlete",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.parents",
+      "Margaret Walsh"
+    ],
+    [
+      "m.09p0wxb",
+      "tv.tv_guest_role.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.children",
+      "Barney Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "award.award_nominee.award_nominations",
+      "m.0zytdpp"
+    ],
+    [
+      "m.0x0myjx",
+      "award.award_nomination.award_nominee",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "award.award_nominee.award_nominations",
+      "m.0y_m48z"
+    ],
+    [
+      "m.0f_tzbr",
+      "tv.regular_tv_appearance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Turn the Beat Around",
+      "film.film.directed_by",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0h30d_y",
+      "film.performance.actor",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "award.award_winner.awards_won",
+      "m.0x0my5d"
+    ],
+    [
+      "BradleyWalsh",
+      "common.image.appears_in_topic_gallery",
+      "Bradley Walsh"
+    ],
+    [
+      "Bradley Walsh",
+      "people.person.profession",
+      "Comedian"
+    ],
+    [
+      "Bradley Walsh",
+      "tv.tv_actor.guest_roles",
+      "m.09p0wxb"
+    ],
+    [
+      "Bradley Walsh",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "m.0h6gx28",
+      "common.webpage.topic",
+      "Bradley Walsh"
+    ],
+    [
+      "m.0h8jzzr",
+      "people.place_lived.person",
+      "Bradley Walsh"
+    ],
+    [
+      "Children",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Barney Walsh",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Comedian",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Physically Instantiable"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Aaron Morris",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "TV Actor",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "People born here",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Children",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Kerri Walsh",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Donna Derby",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Film actor",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Daniel Terence Danny Walsh",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "People born here",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Margaret Walsh",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Children",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Comedian",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Turn the Beat Around",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Night and Day",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "Drama",
+      "common.topic.subjects",
+      "Randy M. Roberts"
+    ],
+    [
+      "Law & Order: UK",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "Coronation Street",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "Turn the Beat Around",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Drama",
+      "award.award_discipline.awards_in_this_discipline",
+      "Golden Globe Award for Best Actress – Motion Picture – Drama"
+    ],
+    [
+      "Randy M. Roberts",
+      "common.topic.subject_of",
+      "Drama"
+    ],
+    [
+      "Turn the Beat Around",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "Wartime Wanderers",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Golden Globe Award for Best Actress – Motion Picture – Drama",
+      "award.award_category.disciplines_or_subjects",
+      "Drama"
+    ],
+    [
+      "m.06wk4fp",
+      "tv.tv_regular_personal_appearance.appearance_type",
+      "Host"
+    ]
+  ]
+}

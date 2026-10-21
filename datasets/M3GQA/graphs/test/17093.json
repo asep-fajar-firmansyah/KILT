@@ -1,0 +1,5775 @@
+{
+  "graph_id": 17093,
+  "subgraph": [
+    [
+      "Veneto",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Venice",
+      "location.location.containedby",
+      "Veneto"
+    ],
+    [
+      "Veneto",
+      "location.administrative_division.first_level_division_of",
+      "Italy"
+    ],
+    [
+      "m.0jvvn6m",
+      "location.administrative_division_capital_relationship.administrative_division",
+      "Veneto"
+    ],
+    [
+      "Italy",
+      "location.country.first_level_divisions",
+      "Veneto"
+    ],
+    [
+      "Province of Venice",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Veneto"
+    ],
+    [
+      "Province of Venice",
+      "location.location.containedby",
+      "Veneto"
+    ],
+    [
+      "Veneto",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Italy"
+    ],
+    [
+      "Veneto",
+      "location.administrative_division.capital",
+      "m.0jvvn6m"
+    ],
+    [
+      "Veneto",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Venice"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Veneto"
+    ],
+    [
+      "Eraclea",
+      "location.location.containedby",
+      "Veneto"
+    ],
+    [
+      "Veneto",
+      "base.aareas.schema.administrative_area.capital",
+      "Venice"
+    ],
+    [
+      "Veneto",
+      "location.it_region.capital",
+      "Venice"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Florence"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "location.location.nearby_airports",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.serves",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Rialto Bridge",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Adriatic Sea"
+    ],
+    [
+      "Florence",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "location.location.nearby_airports",
+      "Venice Marco Polo Airport"
+    ],
+    [
+      "Adriatic Sea",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "aviation.airport.serves",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Rialto Bridge"
+    ],
+    [
+      "Rome",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Rome"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Venice"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Doge's Palace"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Tuscany"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Tuscany",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Doge's Palace",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Venice",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "The Tourist",
+      "film.film.featured_film_locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1942 Venice International Film Festival"
+    ],
+    [
+      "Venice: The Prison",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.image",
+      "Venezia"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "m.0nfj24s"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2001 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbdzft"
+    ],
+    [
+      "m.065pcbq",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.065pd15"
+    ],
+    [
+      "1935 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venezia",
+      "common.image.appears_in_topic_gallery",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.065pbh4"
+    ],
+    [
+      "San Giorgio Maggiore",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "1968 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2008 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Piazza San Marco",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "2001 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1937 Venice International Film Festival"
+    ],
+    [
+      "m.09xrv32",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "government.governmental_jurisdiction.government_positions",
+      "Doge of Venice"
+    ],
+    [
+      "2011 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1951 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Bridge of Sighs"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "aviation.airport.serves",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Palazzo Venier dei Leoni"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Venice: The Prison"
+    ],
+    [
+      "Lido di Venezia",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "m.0b6s33x",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "1995 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1959 Venice International Film Festival"
+    ],
+    [
+      "m.065pd15",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "m.05ckhlm"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1964 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1975 Venice International Film Festival"
+    ],
+    [
+      "Province of Venice",
+      "location.it_province.capital",
+      "Venice"
+    ],
+    [
+      "Venezia veduta aerea",
+      "common.image.appears_in_topic_gallery",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "symbols.name_source.namesakes",
+      "487 Venetia"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "The next best thing"
+    ],
+    [
+      "1999 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1970 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "m.0nfld2f"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1950 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1951 Venice International Film Festival"
+    ],
+    [
+      "m.09y2ytl",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "View of Venice: Ducal Palace, Dogana, and San Giorgio",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Palazzo Grassi"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2013 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1999 Venice International Film Festival"
+    ],
+    [
+      "2003 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "m.0jvvn6m",
+      "location.administrative_division_capital_relationship.capital",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Grand Canal, Venice"
+    ],
+    [
+      "1937 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Aldus and his dream book"
+    ],
+    [
+      "2009 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1938 Venice International Film Festival"
+    ],
+    [
+      "1961 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Gondola in Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1936 Venice International Film Festival"
+    ],
+    [
+      "m.09yhqcj",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Myths of Venice"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2000 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "1992 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1934 Venice International Film Festival"
+    ],
+    [
+      "The History of Venice in Painting",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Through a Glass, Darkly"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Rialto Bridge"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2012 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2003 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Saint Mark's Basilica",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "1972 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2011 Venice International Film Festival"
+    ],
+    [
+      "2005 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1982 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1946 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1984 Venice International Film Festival"
+    ],
+    [
+      "Doge's Palace",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "1991 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "The paradise of cities",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "The quest for Corvo",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1957 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Venice: City of Art"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Saint Mark's Basilica"
+    ],
+    [
+      "Venice",
+      "base.casinos.casino_theme.casinos_in_this_theme",
+      "The Venetian Las Vegas"
+    ],
+    [
+      "Rosalba Carriera",
+      "people.person.place_of_birth",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2009 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "film.film_location.featured_in_films",
+      "Casanova"
+    ],
+    [
+      "1964 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1953 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.notable_for",
+      "g.125bmb4bb"
+    ],
+    [
+      "Venice",
+      "film.film_location.featured_in_films",
+      "Don Giovanni"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1986 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2011 CinemadaMare Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1962 Venice International Film Festival"
+    ],
+    [
+      "Death in Venice",
+      "film.film.featured_film_locations",
+      "Venice"
+    ],
+    [
+      "1959 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2010 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "The City of Falling Angels"
+    ],
+    [
+      "Teatro La Fenice",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Daughter of Venice"
+    ],
+    [
+      "1958 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2012 CinemadaMare Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2012 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1955 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Caffè Florian"
+    ],
+    [
+      "Venice and the Grand Tour",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Rosalba Carriera",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1987 Venice International Film Festival"
+    ],
+    [
+      "2014 Cartoons on the Bay Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Don't Look Now"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2007 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "Battle of Salvore"
+    ],
+    [
+      "Rialto Bridge",
+      "transportation.bridge.locale",
+      "Venice"
+    ],
+    [
+      "2013 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1976 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Lido di Venezia",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2009 Venice International Film Festival"
+    ],
+    [
+      "Piazza San Marco",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Casanova",
+      "film.film.featured_film_locations",
+      "Venice"
+    ],
+    [
+      "2013 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Daughter of Venice",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "1947 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Vive Venise",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1994 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Sofia Sartor"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1969 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Venetian Colour: Marble, Mosaic, Painting and Glass, 1250-1550"
+    ],
+    [
+      "1938 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.article",
+      "m.07_pr"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Painting in sixteenth-century Venice"
+    ],
+    [
+      "1996 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.09yhqcj"
+    ],
+    [
+      "m.052kjq1",
+      "media_common.dedication.dedicated_to",
+      "Venice"
+    ],
+    [
+      "Province of Venice",
+      "base.aareas.schema.administrative_area.capital",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1967 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "common.topic.image",
+      "Venezia veduta aerea"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1992 Venice International Film Festival"
+    ],
+    [
+      "Venice: City of Art",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Battle of Pirano",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2000 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "protected_sites.listed_site.designation_as_natural_or_cultural_site",
+      "m.02h91qx"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2007 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Teatro La Fenice"
+    ],
+    [
+      "Palazzo Dario, Venice",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "m.064gyyw",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "1987 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "m.04lswwb"
+    ],
+    [
+      "2008 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbgjqb"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2013 Think Forward Film Festival"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "View of Venice"
+    ],
+    [
+      "1956 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1961 Venice International Film Festival"
+    ],
+    [
+      "1934 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2004 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1995 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09kln7y"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Palazzo Dario, Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1946 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Doge's Palace"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1983 Venice International Film Festival"
+    ],
+    [
+      "2010 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "487 Venetia",
+      "symbols.namesake.named_after",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "San Giorgio Maggiore"
+    ],
+    [
+      "2013 CinemadaMare Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice: Canaletto and His Rivals",
+      "exhibitions.exhibition.subjects",
+      "Venice"
+    ],
+    [
+      "1979 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Venice, Fragile City: 1797-1997"
+    ],
+    [
+      "Niccolò Fontana Tartaglia",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "1981 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1958 Venice International Film Festival"
+    ],
+    [
+      "Republic of Venice",
+      "location.country.capital",
+      "Venice"
+    ],
+    [
+      "2010 Cartoons on the Bay Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1954 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbhqv8"
+    ],
+    [
+      "Venice",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvvmpj"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2002 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "2008 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "Battle of Pirano"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1935 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2010 Cartoons on the Bay Film Festival"
+    ],
+    [
+      "Mediterranean Harbor",
+      "amusement_parks.ride.theme",
+      "Venice"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "people.person.place_of_birth",
+      "Venice"
+    ],
+    [
+      "m.09wvk36",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "2002 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1980 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "The paradise of cities"
+    ],
+    [
+      "1998 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1953 Venice International Film Festival"
+    ],
+    [
+      "1969 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Casino Royale",
+      "film.film.featured_film_locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "View of Venice: Ducal Palace, Dogana, and San Giorgio"
+    ],
+    [
+      "m.064st8k",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "1990 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "View of Venice",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "m.064slqz",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "2012 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbjxzm"
+    ],
+    [
+      "1950 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.065pdds"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2011 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "1939 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1998 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2002 Venice International Film Festival"
+    ],
+    [
+      "2014 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Palazzo Venier dei Leoni",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "The Pope, His Banker, and Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbdzfw"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.063h3gv"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1965 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2013 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2001 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1956 Venice International Film Festival"
+    ],
+    [
+      "1932 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2000 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Letters from the Palazzo Barbaro",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "amusement_parks.ride_theme.rides",
+      "Mediterranean Harbor"
+    ],
+    [
+      "1967 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1960  Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1948 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1989 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1980 Venice International Film Festival"
+    ],
+    [
+      "The Venetian Las Vegas",
+      "base.casinos.casino.theme",
+      "Venice"
+    ],
+    [
+      "1949 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1952 Venice International Film Festival"
+    ],
+    [
+      "The Grand Canal, Venice",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "2001 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Grand Canal, Venice"
+    ],
+    [
+      "Venice, Fragile City: 1797-1997",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "The City of Falling Angels",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2010 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "1940 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2006 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Don Giovanni",
+      "film.film.featured_film_locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1997 Venice International Film Festival"
+    ],
+    [
+      "1986 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1960  Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1962 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2004 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2006 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1966 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1976 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1991 Venice International Film Festival"
+    ],
+    [
+      "1971 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2004 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1972 Venice International Film Festival"
+    ],
+    [
+      "2003 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Sofia Sartor",
+      "fictional_universe.fictional_character.places_lived",
+      "Venice"
+    ],
+    [
+      "m.065pbh4",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "The next best thing",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "1941 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Titian",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "1983 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1966 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2003 Venice International Film Festival"
+    ],
+    [
+      "m.063h3gv",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.09x87kn"
+    ],
+    [
+      "2007 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2005 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Caffè Florian",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1941 Venice International Film Festival"
+    ],
+    [
+      "Myths of Venice",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Rialto Bridge",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "Paolo Veronese",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.064gyyw"
+    ],
+    [
+      "1975 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.064slqz"
+    ],
+    [
+      "Venice",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Grand Canal of Venice"
+    ],
+    [
+      "m.010qtlst",
+      "government.government_position_held.jurisdiction_of_office",
+      "Venice"
+    ],
+    [
+      "Grand Canal, Venice",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "A Thousand Days in Venice",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1996 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "film.film_location.featured_in_films",
+      "Casino Royale"
+    ],
+    [
+      "Grand Canal",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "m.064snrl",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "Palazzo Venier dei Leoni",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Battle of Salvore",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.11b7tnfpsh"
+    ],
+    [
+      "1955 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2005 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1985 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "Ottoman wars in Europe"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1947 Venice International Film Festival"
+    ],
+    [
+      "2002 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1988 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1971 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.geolocation",
+      "m.02_dkgx"
+    ],
+    [
+      "The Pope, His Banker, and Venice",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbdzfv"
+    ],
+    [
+      "Venice",
+      "common.topic.image",
+      "Coat of arms of Comune di Venezia"
+    ],
+    [
+      "m.09kln7y",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2013 CinemadaMare Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1990 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "film.film_location.featured_in_films",
+      "The Tourist"
+    ],
+    [
+      "Palazzo Grassi",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1970 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "media_common.dedicatee.dedications",
+      "m.052kjq1"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1932 Venice International Film Festival"
+    ],
+    [
+      "1954 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "m.03ldrtd",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "film.film_location.featured_in_films",
+      "Death in Venice"
+    ],
+    [
+      "1942 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1940 Venice International Film Festival"
+    ],
+    [
+      "1952 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Palma il Giovane",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1963 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Vive Venise"
+    ],
+    [
+      "Bridge of Sighs",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Dead Lagoon"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2006 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2014 Cartoons on the Bay Film Festival"
+    ],
+    [
+      "Venice",
+      "common.topic.notable_types",
+      "Italian comune"
+    ],
+    [
+      "Venice",
+      "location.location.containedby",
+      "Province of Venice"
+    ],
+    [
+      "Gondola in Venice",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "2012 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Fra Mauro",
+      "people.person.place_of_birth",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2000 Venice International Film Festival"
+    ],
+    [
+      "m.09xk5g8",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1939 Venice International Film Festival"
+    ],
+    [
+      "Saint Mark's Basilica",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "Doge's Palace",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.09xrv32"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Letters from the Palazzo Barbaro"
+    ],
+    [
+      "Ottoman wars in Europe",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2008 Venice International Film Festival"
+    ],
+    [
+      "Dead Lagoon",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Bridge of Sighs",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.064th1f"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2005 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "1993 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1957 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Lido di Venezia"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.0b6s33x"
+    ],
+    [
+      "1948 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "2011 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.09xk5g8"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2014 Venice International Film Festival"
+    ],
+    [
+      "m.065pdds",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbhfcb"
+    ],
+    [
+      "2009 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbf8y9"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2012 CinemadaMare Film Festival"
+    ],
+    [
+      "1985 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "A Thousand Days in Venice"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "The History of Venice in Painting"
+    ],
+    [
+      "1963 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Palazzo Grassi",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010qtlst"
+    ],
+    [
+      "Venetian Colour: Marble, Mosaic, Painting and Glass, 1250-1550",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.1jmcbj0jx"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.064st8k"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "The quest for Corvo"
+    ],
+    [
+      "Coat of arms of Comune di Venezia",
+      "common.image.appears_in_topic_gallery",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.064snrl"
+    ],
+    [
+      "1984 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Painting in sixteenth-century Venice",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Grand Canal"
+    ],
+    [
+      "Venice Against the Sea: A City Besieged",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "1936 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Grand Canal",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "m.0nfj9g2"
+    ],
+    [
+      "Giorgione",
+      "people.deceased_person.place_of_death",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2006 Venice International Film Festival"
+    ],
+    [
+      "2007 Circuito Off Venice International Short Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "m.02h91qx",
+      "protected_sites.natural_or_cultural_site_listing.listed_site",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1988 Venice International Film Festival"
+    ],
+    [
+      "m.064th1f",
+      "base.popstra.vacation_choice.location",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1979 Venice International Film Festival"
+    ],
+    [
+      "1965 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Aldus and his dream book",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.03ldrtd"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.09wvk36"
+    ],
+    [
+      "Palma il Giovane",
+      "people.person.place_of_birth",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1982 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvvn6m"
+    ],
+    [
+      "Venice",
+      "exhibitions.exhibition_subject.exhibitions_created_about_this_subject",
+      "Venice: Canaletto and His Rivals"
+    ],
+    [
+      "Venice",
+      "location.location.nearby_airports",
+      "Venice Marco Polo Airport"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Venice and the Grand Tour"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2004 Circuito Off Venice International Short Film Festival"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1949 Venice International Film Festival"
+    ],
+    [
+      "Venice",
+      "location.statistical_region.population",
+      "g.11b7tpq7vf"
+    ],
+    [
+      "Venice",
+      "book.book_subject.works",
+      "Venice Against the Sea: A City Besieged"
+    ],
+    [
+      "2013 Think Forward Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "1997 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "m.09x87kn",
+      "common.webpage.topic",
+      "Venice"
+    ],
+    [
+      "m.0jvvmpj",
+      "location.administrative_division_capital_relationship.capital",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "base.popstra.location.vacationers",
+      "m.065pcbq"
+    ],
+    [
+      "Venice",
+      "common.topic.webpage",
+      "m.09y2ytl"
+    ],
+    [
+      "1989 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1993 Venice International Film Festival"
+    ],
+    [
+      "Don't Look Now",
+      "fictional_universe.work_of_fiction.setting",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1968 Venice International Film Festival"
+    ],
+    [
+      "Teatro La Fenice",
+      "travel.tourist_attraction.near_travel_destination",
+      "Venice"
+    ],
+    [
+      "The Grand Canal of Venice",
+      "visual_art.artwork.art_subject",
+      "Venice"
+    ],
+    [
+      "Doge of Venice",
+      "government.government_office_or_title.jurisdiction",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "travel.travel_destination.tourist_attractions",
+      "Piazza San Marco"
+    ],
+    [
+      "Rialto Bridge",
+      "location.location.containedby",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "1981 Venice International Film Festival"
+    ],
+    [
+      "Through a Glass, Darkly",
+      "book.written_work.subjects",
+      "Venice"
+    ],
+    [
+      "Lorenzo Lotto",
+      "people.person.place_of_birth",
+      "Venice"
+    ],
+    [
+      "2011 CinemadaMare Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Venice",
+      "location.location.events",
+      "2010 Venice International Film Festival"
+    ],
+    [
+      "1994 Venice International Film Festival",
+      "time.event.locations",
+      "Venice"
+    ],
+    [
+      "Mariotto Albertinelli",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Piero Fruosino di Antonio da Vinci",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Alessandro Agostini",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Dosso Dossi",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Ludovico Sforza",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Anchiano",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Alessandra Giliani",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Fra Mauro",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Eraclea",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Florence",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "A Thousand Days in Venice",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Luca Signorelli",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Vinci",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Lisa del Giocondo",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Titian",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Vive Venise",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.country.first_level_divisions",
+      "Tuscany"
+    ],
+    [
+      "Marsilio Ficino",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Pope Julius II",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Rome",
+      "base.biblioness.bibs_location.country",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.country.official_language",
+      "Italian Language"
+    ],
+    [
+      "The City of Falling Angels",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Dante Alighieri",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Giorgione",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "The next best thing",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Leonardo, paintings and drawings",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Paolo Uccello",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.location.partially_containedby",
+      "Mediterranean Sea"
+    ],
+    [
+      "Gerolamo Cardano",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Southern Europe",
+      "location.location.contains",
+      "Italy"
+    ],
+    [
+      "Michelangelo",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Fiumicino",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Dead Lagoon",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Massimo Zanini",
+      "freebase.domain_profile.category",
+      "Italy"
+    ],
+    [
+      "Piero della Francesca",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "University of Padua",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Paolo Veronese",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Parmigianino",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Tuscany",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Italy"
+    ],
+    [
+      "Tuscany",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Myths of Venice",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Sandro Botticelli",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "The quest for Corvo",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Pontormo",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Province of Florence",
+      "location.administrative_division.second_level_division_of",
+      "Italy"
+    ],
+    [
+      "Rome",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Raphael",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Province of Venice",
+      "location.administrative_division.country",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Florence",
+      "base.biblioness.bibs_location.country",
+      "Italy"
+    ],
+    [
+      "Doge's Palace",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Province of Venice",
+      "location.administrative_division.second_level_division_of",
+      "Italy"
+    ],
+    [
+      "Giorgio Vasari",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Masaccio",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Lorenzo di Credi",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Isabella d'Este",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "The paradise of cities",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Mediterranean Sea",
+      "location.location.partially_contains",
+      "Italy"
+    ],
+    [
+      "The Tourist",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Milan",
+      "base.biblioness.bibs_location.country",
+      "Italy"
+    ],
+    [
+      "Alessandra Giliani",
+      "people.person.place_of_birth",
+      "Italy"
+    ],
+    [
+      "Province of Venice",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.location.containedby",
+      "Southern Europe"
+    ],
+    [
+      "Leon Battista Alberti",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Tuscany",
+      "location.administrative_division.first_level_division_of",
+      "Italy"
+    ],
+    [
+      "Lorenzo Lotto",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Milan",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Bernardino Luini",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Domenico Ghirlandaio",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Aldus and his dream book",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Province of Florence",
+      "location.administrative_division.country",
+      "Italy"
+    ],
+    [
+      "Painting in sixteenth-century Venice",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Annibale Carracci",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Pirro Ligorio",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "The Pope, His Banker, and Venice",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Don Giovanni",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "Rebecca Rocchini",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Death in Venice",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Arnaldo Faustini",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Italian Language",
+      "language.human_language.main_country",
+      "Italy"
+    ],
+    [
+      "Letters from the Palazzo Barbaro",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.country.capital",
+      "Rome"
+    ],
+    [
+      "Donato Bramante",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Lake Maggiore",
+      "geography.lake.basin_countries",
+      "Italy"
+    ],
+    [
+      "Palma il Giovane",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.country.languages_spoken",
+      "Italian Language"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tuscany"
+    ],
+    [
+      "Antonio da Correggio",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Niccolò Machiavelli",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Luca Pacioli",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Italian Language",
+      "language.human_language.countries_spoken_in",
+      "Italy"
+    ],
+    [
+      "Daughter of Venice",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Melozzo da Forlì",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Alesso Baldovinetti",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Lido di Venezia",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Province of Florence",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "freebase.domain_category.domains",
+      "Massimo Zanini"
+    ],
+    [
+      "Eraclea",
+      "location.location.containedby",
+      "Province of Venice"
+    ],
+    [
+      "m.0jvvmpj",
+      "location.administrative_division_capital_relationship.administrative_division",
+      "Province of Venice"
+    ],
+    [
+      "Province of Venice",
+      "location.administrative_division.capital",
+      "m.0jvvmpj"
+    ],
+    [
+      "Eraclea",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Republic of Venice",
+      "location.country.capital",
+      "Eraclea"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Giorgio Vasari",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "location.location.containedby",
+      "Province of Florence"
+    ],
+    [
+      "Paolo dal Pozzo Toscanelli",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "m.03pg9zy",
+      "people.place_lived.location",
+      "Florence"
+    ],
+    [
+      "Sandro Botticelli",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Pontormo",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Tuscany",
+      "base.aareas.schema.administrative_area.capital",
+      "Florence"
+    ],
+    [
+      "Paolo Uccello",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Lorenzo di Credi",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Domenico Ghirlandaio",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Lorenzo de' Medici",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Niccolò Machiavelli",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Paolo Uccello",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Mariotto Albertinelli",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Province of Florence",
+      "location.it_province.capital",
+      "Florence"
+    ],
+    [
+      "Dante Alighieri",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Domenico Ghirlandaio",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Province of Florence",
+      "base.aareas.schema.administrative_area.capital",
+      "Florence"
+    ],
+    [
+      "Alesso Baldovinetti",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Tuscany",
+      "location.it_region.capital",
+      "Florence"
+    ],
+    [
+      "Paolo dal Pozzo Toscanelli",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "m.03pg9qz",
+      "people.place_lived.location",
+      "Florence"
+    ],
+    [
+      "m.04d01tl",
+      "people.place_lived.location",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "common.topic.notable_types",
+      "Italian comune"
+    ],
+    [
+      "Niccolò Machiavelli",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Lorenzo di Credi",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "John Argyropoulos",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Republic of Florence",
+      "location.country.capital",
+      "Florence"
+    ],
+    [
+      "Sandro Botticelli",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Alesso Baldovinetti",
+      "people.person.place_of_birth",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "location.location.containedby",
+      "Tuscany"
+    ],
+    [
+      "Mariotto Albertinelli",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Lisa del Giocondo",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Blue Panorama Airlines"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.webpage",
+      "m.040ql52"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.webpage",
+      "m.04yvjky"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Eurofly"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.image",
+      "Rom Fiumicino 08"
+    ],
+    [
+      "EasyJet",
+      "aviation.airline.hubs",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "m.052lyzd",
+      "travel.transportation.transport_terminus",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Alitalia"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "symbols.namesake.named_after",
+      "Leonardo da Vinci"
+    ],
+    [
+      "Fiumicino",
+      "location.location.nearby_airports",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "ItAli Airlines"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Vueling"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Aermediterranea"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.serves",
+      "Fiumicino"
+    ],
+    [
+      "Leonardo da Vinci",
+      "symbols.name_source.namesakes",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Small Planet Airlines"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.focus_city_for",
+      "Blue Panorama Airlines"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Blu-express"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Air Italy"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Alitalia CityLiner"
+    ],
+    [
+      "Alitalia",
+      "aviation.airline.hubs",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.image",
+      "Fiumicino Station"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.focus_city_for",
+      "Air One"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.focus_city_for",
+      "Small Planet Airlines"
+    ],
+    [
+      "m.040ql52",
+      "common.webpage.topic",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.serves",
+      "Rome"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.notable_for",
+      "g.125g279jq"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Avianova"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Mistral Air"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "location.location.geolocation",
+      "m.02_j8sl"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052lyzd"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "Alitalia-Linee Aeree Italiane"
+    ],
+    [
+      "Rome",
+      "location.location.nearby_airports",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.image",
+      "Leonardo da Vinci International Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "m.04yvjky",
+      "common.webpage.topic",
+      "Leonardo da Vinci–Fiumicino Airport"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "C.A.I. First"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "aviation.airport.hub_for",
+      "EasyJet"
+    ],
+    [
+      "Leonardo da Vinci–Fiumicino Airport",
+      "common.topic.article",
+      "m.01ky60"
+    ],
+    [
+      "Rialto Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Grand Canal"
+    ],
+    [
+      "Grand Canal",
+      "geography.body_of_water.bridges",
+      "Rialto Bridge"
+    ],
+    [
+      "Šibenik",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Milan",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Palazzo Grassi",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Saint Mark's Basilica",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Croatia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Rome",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Doge's Palace",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Fiumicino",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "France",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Palazzo Venier dei Leoni",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Centre-Val de Loire",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Lake Maggiore",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Piazza San Marco",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vinci",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Lido di Venezia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adriatic Sea",
+      "location.location.containedby",
+      "Mediterranean Sea"
+    ],
+    [
+      "Battle of Pirano",
+      "time.event.locations",
+      "Adriatic Sea"
+    ],
+    [
+      "Battle of Salvore",
+      "time.event.locations",
+      "Adriatic Sea"
+    ],
+    [
+      "Adriatic Sea",
+      "base.scubadiving.ecoregion.contained_by",
+      "Mediterranean Sea"
+    ],
+    [
+      "Mediterranean Sea",
+      "location.location.contains",
+      "Adriatic Sea"
+    ],
+    [
+      "Adriatic Sea",
+      "location.location.events",
+      "Battle of Pirano"
+    ],
+    [
+      "Adriatic Sea",
+      "location.location.events",
+      "Battle of Salvore"
+    ],
+    [
+      "Prvić",
+      "geography.island.body_of_water",
+      "Adriatic Sea"
+    ],
+    [
+      "Marco Polo",
+      "symbols.name_source.namesakes",
+      "Venice Marco Polo Airport"
+    ],
+    [
+      "Alitalia",
+      "aviation.airline.focus_cities",
+      "Venice Marco Polo Airport"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "aviation.airport.focus_city_for",
+      "Air One"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "aviation.airport.focus_city_for",
+      "Alitalia"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "aviation.airport.focus_city_for",
+      "Alitalia CityLiner"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "aviation.airport.focus_city_for",
+      "Alitalia-Linee Aeree Italiane"
+    ],
+    [
+      "Venice Marco Polo Airport",
+      "symbols.namesake.named_after",
+      "Marco Polo"
+    ],
+    [
+      "Rome",
+      "common.topic.notable_types",
+      "Italian comune"
+    ],
+    [
+      "Raphael",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Gerolamo Cardano",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Annibale Carracci",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Rome",
+      "travel.travel_destination.how_to_get_here",
+      "m.052lyzd"
+    ],
+    [
+      "Masaccio",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Nicolas Poussin",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Pope Julius II",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Donato Bramante",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Arnaldo Faustini",
+      "people.person.place_of_birth",
+      "Rome"
+    ],
+    [
+      "m.052lyzd",
+      "travel.transportation.travel_destination",
+      "Rome"
+    ],
+    [
+      "Leon Battista Alberti",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Luca Pacioli",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Michelangelo",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Irma A Richter",
+      "people.deceased_person.place_of_death",
+      "Rome"
+    ],
+    [
+      "Province of Florence",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Tuscany"
+    ],
+    [
+      "Province of Florence",
+      "location.location.containedby",
+      "Tuscany"
+    ],
+    [
+      "Tuscany",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Florence"
+    ],
+    [
+      "Vinci",
+      "location.location.containedby",
+      "Tuscany"
+    ],
+    [
+      "Anchiano",
+      "location.location.containedby",
+      "Tuscany"
+    ],
+    [
+      "Tuscany",
+      "location.location.people_born_here",
+      "Andrea del Sarto"
+    ],
+    [
+      "The Tourist",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Tourist",
+      "film.film.language",
+      "Italian Language"
+    ],
+    [
+      "The Tourist",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Tourist",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Venice: The Prison",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Venice: The Prison",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Venice: The Prison",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "Venice: The Prison",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "Venice: The Prison",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "m.09xrv32",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Republic of Venice",
+      "government.governmental_jurisdiction.government_positions",
+      "Doge of Venice"
+    ],
+    [
+      "Doge of Venice",
+      "royalty.noble_title.noble_rank",
+      "Doge"
+    ],
+    [
+      "Doge of Venice",
+      "government.government_office_or_title.jurisdiction",
+      "Republic of Venice"
+    ],
+    [
+      "m.0b6s33x",
+      "common.webpage.category",
+      "Tag"
+    ],
+    [
+      "487 Venetia",
+      "astronomy.asteroid.member_of_asteroid_group",
+      "Asteroid belt"
+    ],
+    [
+      "487 Venetia",
+      "common.topic.notable_types",
+      "Asteroid"
+    ],
+    [
+      "487 Venetia",
+      "astronomy.star_system_body.star_system",
+      "Solar System"
+    ],
+    [
+      "487 Venetia",
+      "astronomy.celestial_object.category",
+      "Asteroid"
+    ],
+    [
+      "487 Venetia",
+      "astronomy.orbital_relationship.orbits",
+      "Sun"
+    ],
+    [
+      "487 Venetia",
+      "astronomy.celestial_object.category",
+      "Small Solar System body"
+    ],
+    [
+      "The next best thing",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "m.09y2ytl",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "View of Venice: Ducal Palace, Dogana, and San Giorgio",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "View of Venice: Ducal Palace, Dogana, and San Giorgio",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "View of Venice: Ducal Palace, Dogana, and San Giorgio",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Palazzo Grassi",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Grand Canal",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Grand Canal, Venice"
+    ],
+    [
+      "Grand Canal, Venice",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Grand Canal, Venice",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Grand Canal, Venice",
+      "visual_art.artwork.art_subject",
+      "Grand Canal"
+    ],
+    [
+      "Aldus and his dream book",
+      "book.book.genre",
+      "Biography"
+    ],
+    [
+      "Aldus and his dream book",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Aldus and his dream book",
+      "book.written_work.subjects",
+      "Art"
+    ],
+    [
+      "Gondola in Venice",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "Gondola in Venice",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Gondola in Venice",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Gondola in Venice",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "Gondola in Venice",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "m.09yhqcj",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Myths of Venice",
+      "book.written_work.subjects",
+      "Art"
+    ],
+    [
+      "Myths of Venice",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Michele Veranzio",
+      "people.person.children",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "freebase.valuenotation.is_reviewed",
+      "Date of death"
+    ],
+    [
+      "Logica nova",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "m.0y988kf",
+      "education.education.student",
+      "Fausto Veranzio"
+    ],
+    [
+      "Dictionarium quinque nobilissimarum Europæ linguarum, Latinæ, Italicæ, Germanicæ, Dalmatiæ, & Vngaricæ",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Dictionarium quinque nobilissimarum Europæ linguarum, Latinæ, Italicæ, Germanicæ, Dalmatiæ, & Vngaricæ"
+    ],
+    [
+      "m.0y982rt",
+      "people.sibling_relationship.sibling",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Machinae novae Fausti Verantii Siceni cum declaratione Latina Italica Hispanica Gallica et Germanica"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Scriptores rerum hungaricum"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.children",
+      "Alba Rosa Vrančić"
+    ],
+    [
+      "Život nikoliko izabranih divic",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.deceased_person.place_of_burial",
+      "Prvić"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Popis dalmatinskih riječi koje su Mađari prihvatili"
+    ],
+    [
+      "Antun Vrancic by Martin Rota",
+      "common.image.appears_in_topic_gallery",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.profession",
+      "Scientist"
+    ],
+    [
+      "Fausto Veranzio",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Ethica christiana"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.profession",
+      "Inventor"
+    ],
+    [
+      "Ethica christiana",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Homo Volans",
+      "common.image.appears_in_topic_gallery",
+      "Fausto Veranzio"
+    ],
+    [
+      "Regulae cancellariae regni Hungariae",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "common.topic.image",
+      "Antun Vrancic by Martin Rota"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "De Slavinis seu Sarmatis in Dalmatia"
+    ],
+    [
+      "Machinae novae Fausti Verantii Siceni cum declaratione Latina Italica Hispanica Gallica et Germanica",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Machinae Novae"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Regulae cancellariae regni Hungariae"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.places_lived",
+      "m.0wkm479"
+    ],
+    [
+      "Fausto Veranzio",
+      "law.inventor.inventions",
+      "Parachute"
+    ],
+    [
+      "Fausto Veranzio",
+      "common.topic.notable_for",
+      "g.1258tztyc"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.education",
+      "m.0y988kf"
+    ],
+    [
+      "Fausto Veranzio",
+      "common.topic.article",
+      "m.02f1gl"
+    ],
+    [
+      "Logika oblikovana samim svojim dokazima",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Život nikoliko izabranih divic"
+    ],
+    [
+      "Prvić",
+      "people.place_of_interment.interred_here",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "common.topic.notable_types",
+      "Inventor"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.place_of_birth",
+      "Šibenik"
+    ],
+    [
+      "Fausto Veranzio",
+      "common.topic.image",
+      "Homo volans"
+    ],
+    [
+      "Scriptores rerum hungaricum",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Logika oblikovana samim svojim dokazima"
+    ],
+    [
+      "m.0wkm479",
+      "people.place_lived.person",
+      "Fausto Veranzio"
+    ],
+    [
+      "m.0zf9pyr",
+      "people.marriage.spouse",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.nationality",
+      "Republic of Venice"
+    ],
+    [
+      "Fausto Veranzio",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Parachute",
+      "law.invention.inventor",
+      "Fausto Veranzio"
+    ],
+    [
+      "Alba Rosa Vrančić",
+      "people.person.parents",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.parents",
+      "Michele Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.spouse_s",
+      "m.0zf9pyr"
+    ],
+    [
+      "Fausto Veranzio",
+      "people.person.sibling_s",
+      "m.0y982rt"
+    ],
+    [
+      "Homo volans",
+      "common.image.appears_in_topic_gallery",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "book.author.works_written",
+      "Logica nova"
+    ],
+    [
+      "Popis dalmatinskih riječi koje su Mađari prihvatili",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "De Slavinis seu Sarmatis in Dalmatia",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "Fausto Veranzio",
+      "common.topic.image",
+      "Homo Volans"
+    ],
+    [
+      "Machinae Novae",
+      "book.written_work.author",
+      "Fausto Veranzio"
+    ],
+    [
+      "The History of Venice in Painting",
+      "book.book.genre",
+      "Coffee table book"
+    ],
+    [
+      "The History of Venice in Painting",
+      "book.written_work.subjects",
+      "Painting"
+    ],
+    [
+      "The History of Venice in Painting",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Through a Glass, Darkly",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The paradise of cities",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The quest for Corvo",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Venice: City of Art",
+      "book.book.genre",
+      "Non-fiction"
+    ],
+    [
+      "Venice: City of Art",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Venetian Las Vegas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rosalba Carriera",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Rosalba Carriera",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Pastel Art"
+    ],
+    [
+      "Rosalba Carriera",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Rosalba Carriera",
+      "people.person.profession",
+      "Painter"
+    ],
+    [
+      "Pastel Art",
+      "visual_art.art_period_movement.associated_artists",
+      "Rosalba Carriera"
+    ],
+    [
+      "Rosalba Carriera",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Casanova",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Casanova",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Casanova",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Don Giovanni",
+      "film.film.language",
+      "Italian Language"
+    ],
+    [
+      "Don Giovanni",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Death in Venice",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Death in Venice",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Death in Venice",
+      "film.film.language",
+      "Italian Language"
+    ],
+    [
+      "Death in Venice",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Book",
+      "common.topic.subjects",
+      "Scientist"
+    ],
+    [
+      "Scientist",
+      "common.topic.subject_of",
+      "Book"
+    ],
+    [
+      "Leonardo Da Vinci",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Venice and the Grand Tour",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Jingo",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.strict_included_types",
+      "Written Work"
+    ],
+    [
+      "Venice Against the Sea: A City Besieged",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Leonardo Da Vinci: The Complete Paintings",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Fortune is a River: Leonardo Da Vinci and Niccolo Machiavelli's Magnificent Dream to Change the Course of Florentine History",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Machinae novae Fausti Verantii Siceni cum declaratione Latina Italica Hispanica Gallica et Germanica",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.equivalent_topic",
+      "Book"
+    ],
+    [
+      "Book",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Codex Atlanticus",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "De divina proportione",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Da Vinci",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Leonardo's Last Supper resurrected, by Fernanda Wittgens",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Art and Mathematics",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Leonardo on the eye",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Venetian Colour: Marble, Mosaic, Painting and Glass, 1250-1550",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Conscious Cook",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Cuadernos de Notas",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Pope, His Banker, and Venice",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Dead Lagoon",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Men at Arms",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "The City of Falling Angels",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Venice, Fragile City: 1797-1997",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Street Music",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "A Thousand Days in Venice",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Book",
+      "freebase.type_hints.included_types",
+      "Written Work"
+    ],
+    [
+      "Vive Venise",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Daughter of Venice",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Painting in sixteenth-century Venice",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Popis dalmatinskih riječi koje su Mađari prihvatili",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Vegan Sourcebook",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Tutta la pittura di Leonardo",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Letters from the Palazzo Barbaro",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Fifth Elephant",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Book",
+      "freebase.equivalent_topic.equivalent_type",
+      "Book"
+    ],
+    [
+      "No Royalty A/C Notebooks of Leonardo DA Vinci",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Fables of Leonardo da Vinci",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Il paragone delle arti",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Degnen, Lisa",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Notebooks of Leonardo Da Vinci",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Last Hero",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "Leonardo, paintings and drawings",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The City of Falling Angels",
+      "book.book.genre",
+      "Non-fiction"
+    ],
+    [
+      "The City of Falling Angels",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Daughter of Venice",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Venice and the Grand Tour",
+      "book.book.genre",
+      "Non-fiction"
+    ],
+    [
+      "Battle of Salvore",
+      "base.culturalevent.event.entity_involved",
+      "Republic of Venice"
+    ],
+    [
+      "Constantinople",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Sofia Sartor"
+    ],
+    [
+      "Sofia Sartor",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Constantinople"
+    ],
+    [
+      "Assassin's Creed Universe",
+      "fictional_universe.fictional_universe.characters",
+      "Sofia Sartor"
+    ],
+    [
+      "Sofia Sartor",
+      "fictional_universe.fictional_character.places_lived",
+      "Constantinople"
+    ],
+    [
+      "Sofia Sartor",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Assassin's Creed Universe"
+    ],
+    [
+      "Sofia Sartor",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Constantinople",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Sofia Sartor"
+    ],
+    [
+      "Venetian Colour: Marble, Mosaic, Painting and Glass, 1250-1550",
+      "book.book.genre",
+      "Coffee table book"
+    ],
+    [
+      "Painting in sixteenth-century Venice",
+      "book.written_work.subjects",
+      "Painting"
+    ],
+    [
+      "Painting in sixteenth-century Venice",
+      "book.written_work.subjects",
+      "Visual arts"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "Madonna with Sts John the Baptist and Donatus"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "common.topic.image",
+      "Andrea del Verrocchio 003"
+    ],
+    [
+      "Alesso Baldovinetti",
+      "influence.influence_node.influenced",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "Tobias and the Angel"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "common.topic.article",
+      "m.01fgc0"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "Christ and St. Thomas"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "common.topic.notable_for",
+      "g.125ghc6y2"
+    ],
+    [
+      "Lorenzo di Credi",
+      "influence.influence_node.influenced_by",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "g.122m42jf"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Florentine painting"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "business.employer.employees",
+      "m.0c87rwf"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "symbols.name_source.namesakes",
+      "6105 Verrocchio"
+    ],
+    [
+      "m.0c87rwf",
+      "business.employment_tenure.company",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "influence.influence_node.influenced",
+      "Lorenzo di Credi"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Italian Renaissance"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "David"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "g.121g0yst"
+    ],
+    [
+      "Madonna with Sts John the Baptist and Donatus",
+      "visual_art.artwork.artist",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "g.122h61kw"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "influence.influence_node.influenced_by",
+      "Alesso Baldovinetti"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "g.120z6_1y"
+    ],
+    [
+      "Domenico Ghirlandaio",
+      "influence.influence_node.influenced_by",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Italian Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "people.person.places_lived",
+      "m.03pg9qz"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "common.topic.image",
+      "Verrocchio Madonna"
+    ],
+    [
+      "Christ and St. Thomas",
+      "visual_art.artwork.artist",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "The Baptism of Christ"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "g.1229bz_t"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "Putto"
+    ],
+    [
+      "The Baptism of Christ",
+      "visual_art.artwork.artist",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "influence.influence_node.influenced",
+      "Domenico Ghirlandaio"
+    ],
+    [
+      "m.03pg9qz",
+      "people.place_lived.person",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Leonardo da Vinci",
+      "influence.influence_node.influenced_by",
+      "Andrea del Verrocchio"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.art_forms",
+      "Sculpture"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "influence.influence_node.influenced",
+      "Leonardo da Vinci"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "The Virgin and Child with Two Angels"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "visual_art.visual_artist.artworks",
+      "g.121dcwfn"
+    ],
+    [
+      "Andrea del Verrocchio",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Palazzo Dario, Venice",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "Palazzo Dario, Venice",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Palazzo Dario, Venice",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "View of Venice",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "View of Venice",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "View of Venice",
+      "visual_art.artwork.support",
+      "Paper"
+    ],
+    [
+      "m.09kln7y",
+      "base.ontologies.ontology_instance_mapping.ontology",
+      "OpenCyc"
+    ],
+    [
+      "Venice: Canaletto and His Rivals",
+      "common.topic.notable_types",
+      "Exhibition"
+    ],
+    [
+      "Venice: Canaletto and His Rivals",
+      "exhibitions.exhibition.exhibition_types",
+      "Art exhibition"
+    ],
+    [
+      "Venice, Fragile City: 1797-1997",
+      "book.book.genre",
+      "Non-fiction"
+    ],
+    [
+      "Niccolò Fontana Tartaglia",
+      "people.person.profession",
+      "Engineer"
+    ],
+    [
+      "leonardo da vinci influenced niccolo fontana tartaglia",
+      "base.kwebbase.kwconnection.other",
+      "Niccolò Fontana Tartaglia"
+    ],
+    [
+      "Niccolò Fontana Tartaglia",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Niccolò Fontana Tartaglia",
+      "base.kwebbase.kwtopic.connections_to",
+      "leonardo da vinci influenced niccolo fontana tartaglia"
+    ],
+    [
+      "Niccolò Fontana Tartaglia",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Niccolò Fontana Tartaglia",
+      "people.person.profession",
+      "Mathematician"
+    ],
+    [
+      "m.0b_wwyg",
+      "military.military_command.military_combatant",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05zrj"
+    ],
+    [
+      "m.0c0946t",
+      "military.military_command.military_combatant",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05kf6",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05lgq",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05bms"
+    ],
+    [
+      "m.0c05yjk",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Catherine Cornaro"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05w5g"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05ds_"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05cmw"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05lmx"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_commanders",
+      "m.0b_wq5h"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05cw9"
+    ],
+    [
+      "m.0ccdgt6",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05_ft"
+    ],
+    [
+      "m.0c059l9",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "common.topic.notable_for",
+      "g.125bn2x4q"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Marco Polo"
+    ],
+    [
+      "m.0c05pp7",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Marco Polo",
+      "people.person.place_of_birth",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0ccc_yl"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05mkd"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Nikolaos Doxaras"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Stefano Celesti"
+    ],
+    [
+      "Marco Polo",
+      "people.person.nationality",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05ds_",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05lmx",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05f66",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Battle of La Motta",
+      "base.culturalevent.event.entity_involved",
+      "Republic of Venice"
+    ],
+    [
+      "m.05z3h6f",
+      "government.government_position_held.jurisdiction_of_office",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Giovanni Gradenigo"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05kd4"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.force_deployments",
+      "m.0b_wxsg"
+    ],
+    [
+      "Giorgione",
+      "people.person.nationality",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Giovanni II Cornaro"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c0565p"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Giammaria Ortes"
+    ],
+    [
+      "m.0c05jcp",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05kd4",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05vsj"
+    ],
+    [
+      "Fra Mauro",
+      "people.person.nationality",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05phk"
+    ],
+    [
+      "m.0b_wq57",
+      "military.military_command.military_combatant",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05f66"
+    ],
+    [
+      "Republic of Venice",
+      "common.topic.image",
+      "Horses of Saint Mark, brought as loot from Constantinople in 1204"
+    ],
+    [
+      "m.0b_wx1_",
+      "military.military_command.military_combatant",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05jcp"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05yjk"
+    ],
+    [
+      "m.0c05mkd",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0hhy9kv",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "common.topic.article",
+      "m.02wm6x"
+    ],
+    [
+      "m.0h6gt02",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Marco Polo",
+      "people.deceased_person.place_of_death",
+      "Republic of Venice"
+    ],
+    [
+      "Battle of La Motta",
+      "time.event.locations",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05zm1"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05w2j"
+    ],
+    [
+      "Republic of Venice",
+      "government.governmental_jurisdiction.government_bodies",
+      "Council of Ten"
+    ],
+    [
+      "m.0hhz974",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05zrj",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05fhp"
+    ],
+    [
+      "m.0c05w2j",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0b_wxsg",
+      "military.force_strength.combatant",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Giorgio Cornaro"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Christine de Pizan"
+    ],
+    [
+      "m.0c0565p",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_commanders",
+      "m.0c0946t"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Marco Foscarini"
+    ],
+    [
+      "m.0c05bf7",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_commanders",
+      "m.0b_wx1_"
+    ],
+    [
+      "m.0c05phk",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05fhp",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c059l9"
+    ],
+    [
+      "m.0c05_ft",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c056hy"
+    ],
+    [
+      "Republic of Venice",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Republic of Venice",
+      "location.country.form_of_government",
+      "Demarchy"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Nikolaos Koutouzis"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0ccdgt6"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05mkt"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Giovanni Contarini"
+    ],
+    [
+      "Republic of Venice",
+      "government.governmental_jurisdiction.government_positions",
+      "Doge"
+    ],
+    [
+      "m.0c056vd",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05cw9",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Sebastiano Venier"
+    ],
+    [
+      "Republic of Venice",
+      "common.topic.image",
+      "Flag"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Ludovico Manin"
+    ],
+    [
+      "Republic of Venice",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.05z3h6f"
+    ],
+    [
+      "m.0c05bms",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05pp7"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05lgq"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.containedby",
+      "Southern Europe"
+    ],
+    [
+      "m.0c0596h",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Catherine Cornaro",
+      "people.person.place_of_birth",
+      "Republic of Venice"
+    ],
+    [
+      "m.0wkm479",
+      "people.place_lived.location",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05cmw",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05kf6"
+    ],
+    [
+      "Republic of Venice",
+      "common.topic.image",
+      "Location of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_commanders",
+      "m.0b_wq57"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05bf7"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "g.1hb_db5q3"
+    ],
+    [
+      "m.0c05zm1",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0104p9ph"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c056vd"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Marco Barbarigo di Croia"
+    ],
+    [
+      "m.0c05yrr",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c056hy",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Alessandro Benedetti",
+      "people.person.nationality",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0hhz974"
+    ],
+    [
+      "m.0c05w5g",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Southern Europe",
+      "location.location.contains",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0h6gt02"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0hhy9kv"
+    ],
+    [
+      "m.0b_wq5h",
+      "military.military_command.military_combatant",
+      "Republic of Venice"
+    ],
+    [
+      "m.0104p9ph",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05pts"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.geolocation",
+      "m.0cncqtn"
+    ],
+    [
+      "m.0c05mkt",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "m.0c05pts",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_commanders",
+      "m.0b_wwyg"
+    ],
+    [
+      "m.0c05vsj",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c05yrr"
+    ],
+    [
+      "m.0h7vg7j",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "Giambattista Rubini"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "John Peter Marchi"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.people_born_here",
+      "g.120x6y_3"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0c0596h"
+    ],
+    [
+      "m.0ccc_yl",
+      "military.military_combatant_group.combatants",
+      "Republic of Venice"
+    ],
+    [
+      "Republic of Venice",
+      "location.country.form_of_government",
+      "Republic"
+    ],
+    [
+      "Republic of Venice",
+      "location.location.events",
+      "Battle of La Motta"
+    ],
+    [
+      "Republic of Venice",
+      "military.military_combatant.military_conflicts",
+      "m.0h7vg7j"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "High Renaissance"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "High Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Sebastiano del Piombo"
+    ],
+    [
+      "Sebastiano del Piombo",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Mannerism"
+    ],
+    [
+      "m.09wvk36",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Casino Royale",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Casino Royale",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Casino Royale",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Grand Canal, Venice",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "The Grand Canal, Venice",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Grand Canal, Venice",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "Grand Canal",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Grand Canal, Venice"
+    ],
+    [
+      "The Grand Canal, Venice",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Grand Canal, Venice",
+      "visual_art.artwork.art_subject",
+      "Grand Canal"
+    ],
+    [
+      "Titian",
+      "people.person.profession",
+      "Visual Artist"
+    ],
+    [
+      "High Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Titian"
+    ],
+    [
+      "Titian",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Italian Renaissance"
+    ],
+    [
+      "Titian",
+      "influence.influence_node.influenced",
+      "Nicolas Poussin"
+    ],
+    [
+      "The Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Titian"
+    ],
+    [
+      "Titian",
+      "people.person.profession",
+      "Artist"
+    ],
+    [
+      "Italian Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Titian"
+    ],
+    [
+      "Titian",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "The Renaissance"
+    ],
+    [
+      "Titian",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Titian",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Titian",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Nicolas Poussin",
+      "influence.influence_node.influenced_by",
+      "Titian"
+    ],
+    [
+      "Titian",
+      "people.person.ethnicity",
+      "Italian people"
+    ],
+    [
+      "Titian",
+      "people.person.profession",
+      "Painter"
+    ],
+    [
+      "Titian",
+      "influence.influence_node.influenced",
+      "Peter Paul Rubens"
+    ],
+    [
+      "Titian",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "High Renaissance"
+    ],
+    [
+      "Titian",
+      "influence.influence_node.influenced",
+      "Dosso Dossi"
+    ],
+    [
+      "Titian",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Peter Paul Rubens",
+      "influence.influence_node.influenced_by",
+      "Titian"
+    ],
+    [
+      "Dosso Dossi",
+      "influence.influence_node.influenced_by",
+      "Titian"
+    ],
+    [
+      "m.09x87kn",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Annibale Carracci",
+      "influence.influence_node.influenced_by",
+      "Paolo Veronese"
+    ],
+    [
+      "leonardo da vinci work related to paolo veronese",
+      "base.kwebbase.kwconnection.other",
+      "Paolo Veronese"
+    ],
+    [
+      "The Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Paolo Veronese"
+    ],
+    [
+      "Paolo Veronese",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Paolo Veronese",
+      "base.kwebbase.kwtopic.connections_to",
+      "leonardo da vinci work related to paolo veronese"
+    ],
+    [
+      "Paolo Veronese",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Paolo Veronese",
+      "influence.influence_node.influenced",
+      "Peter Paul Rubens"
+    ],
+    [
+      "Paolo Veronese",
+      "people.person.profession",
+      "Painter"
+    ],
+    [
+      "Paolo Veronese",
+      "visual_art.visual_artist.artworks",
+      "The Supper of St. Gregory the Great"
+    ],
+    [
+      "Paolo Veronese",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Paolo Veronese",
+      "influence.influence_node.influenced",
+      "Antonio Vassilacchi"
+    ],
+    [
+      "Peter Paul Rubens",
+      "influence.influence_node.influenced_by",
+      "Paolo Veronese"
+    ],
+    [
+      "Paolo Veronese",
+      "people.person.profession",
+      "Artist"
+    ],
+    [
+      "Paolo Veronese",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "The Renaissance"
+    ],
+    [
+      "Paolo Veronese",
+      "influence.influence_node.influenced",
+      "Annibale Carracci"
+    ],
+    [
+      "Paolo Veronese",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paolo Veronese",
+      "people.person.profession",
+      "Visual Artist"
+    ],
+    [
+      "The Grand Canal of Venice",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "The Grand Canal of Venice",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "Grand Canal",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Grand Canal of Venice"
+    ],
+    [
+      "The Grand Canal of Venice",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "The Grand Canal of Venice",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Grand Canal of Venice",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Grand Canal of Venice",
+      "visual_art.artwork.art_subject",
+      "Grand Canal"
+    ],
+    [
+      "A Thousand Days in Venice",
+      "book.book.genre",
+      "Biography"
+    ],
+    [
+      "Ottoman wars in Europe",
+      "base.culturalevent.event.entity_involved",
+      "France"
+    ],
+    [
+      "Croatia",
+      "location.location.events",
+      "Ottoman wars in Europe"
+    ],
+    [
+      "Ottoman wars in Europe",
+      "time.event.locations",
+      "Croatia"
+    ],
+    [
+      "Palma il Giovane",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "High Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Palma il Giovane"
+    ],
+    [
+      "Palma il Giovane",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "High Renaissance"
+    ],
+    [
+      "Palma il Giovane",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Palma il Giovane",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Dead Lagoon",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Milan",
+      "common.topic.notable_types",
+      "Italian comune"
+    ],
+    [
+      "Italian comune",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Italian comune",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Italian comune",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Italian comune",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Italian comune",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Cartographer",
+      "people.profession.people_with_this_profession",
+      "Fra Mauro"
+    ],
+    [
+      "Fra Mauro",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Fra Mauro",
+      "people.person.profession",
+      "Cartographer"
+    ],
+    [
+      "Fra Mauro",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.09xk5g8",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Venice Against the Sea: A City Besieged",
+      "book.book.genre",
+      "Non-fiction"
+    ],
+    [
+      "Giorgione",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Italian Renaissance"
+    ],
+    [
+      "Dosso Dossi",
+      "influence.influence_node.influenced_by",
+      "Giorgione"
+    ],
+    [
+      "Giorgione",
+      "people.person.ethnicity",
+      "Italian people"
+    ],
+    [
+      "Italian Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Giorgione"
+    ],
+    [
+      "Giorgione",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Giorgione",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Giorgione",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Giorgione",
+      "influence.influence_node.influenced",
+      "Dosso Dossi"
+    ],
+    [
+      "Leonardo da Vinci",
+      "influence.influence_node.influenced",
+      "Giorgione"
+    ],
+    [
+      "High Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Giorgione"
+    ],
+    [
+      "Giorgione",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "High Renaissance"
+    ],
+    [
+      "Giorgione",
+      "influence.influence_node.influenced_by",
+      "Leonardo da Vinci"
+    ],
+    [
+      "Lorenzo Lotto",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "High Renaissance",
+      "visual_art.art_period_movement.associated_artists",
+      "Lorenzo Lotto"
+    ],
+    [
+      "Lorenzo Lotto",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "High Renaissance"
+    ],
+    [
+      "Lorenzo Lotto",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Lorenzo Lotto",
+      "people.person.languages",
+      "Italian Language"
+    ],
+    [
+      "Lorenzo Lotto",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lorenzo Lotto",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Lorenzo Lotto",
+      "people.person.profession",
+      "Painter"
+    ],
+    [
+      "Lorenzo Lotto",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ]
+  ]
+}

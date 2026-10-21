@@ -1,0 +1,2450 @@
+{
+  "graph_id": 32432,
+  "subgraph": [
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Burgos"
+    ],
+    [
+      "Province of Burgos",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Burgos"
+    ],
+    [
+      "Province of Burgos",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Burgos",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Burgos",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Burgos"
+    ],
+    [
+      "Province of Burgos",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Burgos"
+    ],
+    [
+      "Province of Las Palmas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Canary Islands"
+    ],
+    [
+      "Canary Islands",
+      "location.location.contains",
+      "Province of Las Palmas"
+    ],
+    [
+      "Province of Las Palmas",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Las Palmas"
+    ],
+    [
+      "Province of Las Palmas",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Las Palmas",
+      "location.location.containedby",
+      "Canary Islands"
+    ],
+    [
+      "Canary Islands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Las Palmas"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Las Palmas"
+    ],
+    [
+      "Province of Las Palmas",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Toledo"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.location.contains",
+      "Province of Toledo"
+    ],
+    [
+      "Province of Toledo",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Toledo",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Toledo",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Toledo"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Toledo"
+    ],
+    [
+      "Province of Toledo",
+      "location.location.containedby",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Province of Toledo",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Galicia",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of A Coruña",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of León",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Biscay",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Almería",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Ávila",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Spain"
+    ],
+    [
+      "Province of Badajoz",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Barcelona",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Community of Madrid"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Ceuta"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Segovia"
+    ],
+    [
+      "Extremadura",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Community of Madrid",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Region of Murcia"
+    ],
+    [
+      "Province of Seville",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Alicante",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Girona"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Córdoba"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Huesca"
+    ],
+    [
+      "Balearic Islands",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Badajoz",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Pontevedra"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Zamora"
+    ],
+    [
+      "Cantabria",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spanish place of sovereignty",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "La Rioja"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Jaén"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Cantabria"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Extremadura"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Castile and León"
+    ],
+    [
+      "Peñón de Vélez de la Gomera",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Catalonia",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Ciudad Real",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Melilla",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Spanish autonomous community"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Aragon"
+    ],
+    [
+      "Catalonia",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Andalusia"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Asturias"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Barcelona"
+    ],
+    [
+      "Castile and León",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Cádiz",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Guadalajara",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Canary Islands",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of A Coruña",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Region of Murcia"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Cáceres"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Andalusia"
+    ],
+    [
+      "Navarre",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of A Coruña",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Navarre",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Teruel",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Region of Murcia",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Battle of Havana (1762)",
+      "base.culturalevent.event.entity_involved",
+      "Spain"
+    ],
+    [
+      "Spanish autonomous city",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Community of Madrid"
+    ],
+    [
+      "Navarre",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Balearic Islands"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Valencian Community"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Melilla"
+    ],
+    [
+      "Province of Lugo",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Canary Islands",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Biscay",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Catalonia"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Biscay"
+    ],
+    [
+      "Action of 23 August 1806",
+      "base.culturalevent.event.entity_involved",
+      "Spain"
+    ],
+    [
+      "Álava",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Valencia"
+    ],
+    [
+      "Province of Girona",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Spanish place of sovereignty"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Málaga"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Extremadura"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Basque Country"
+    ],
+    [
+      "Navarre",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Palencia",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Canary Islands",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Balearic Islands"
+    ],
+    [
+      "Extremadura",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Peñón de Vélez de la Gomera"
+    ],
+    [
+      "Province of Huesca",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Valladolid",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Valencia",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Peñón de Vélez de la Gomera"
+    ],
+    [
+      "Province of Santa Cruz de Tenerife",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Zaragoza",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Tarragona"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Peñón de Alhucemas"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Navarre"
+    ],
+    [
+      "Province of Cuenca",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Valencian Community"
+    ],
+    [
+      "Galicia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Salamanca"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Community of Madrid"
+    ],
+    [
+      "Province of Huesca",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Ávila",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Cádiz",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Asturias",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Basque Country",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Girona",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Seville",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Zaragoza",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Huelva",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Lleida",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Cuenca",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Ceuta"
+    ],
+    [
+      "Province of Soria",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.location.primarily_containedby",
+      "Iberian Peninsula"
+    ],
+    [
+      "Province of Albacete",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Biscay",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Cantabria",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Region of Murcia",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Galicia",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Ceuta",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Melilla",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Málaga",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Seville",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Navarre"
+    ],
+    [
+      "Province of Ourense",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Extremadura",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "La Rioja",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ceuta"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Granada"
+    ],
+    [
+      "Province of Almería",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Galicia"
+    ],
+    [
+      "Peñón de Vélez de la Gomera",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Valencian Community",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Santa Cruz de Tenerife"
+    ],
+    [
+      "Spanish autonomous community",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Melilla"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Lleida"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Andalusia"
+    ],
+    [
+      "Peñón de Alhucemas",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Castile and León",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Navarre"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "La Rioja"
+    ],
+    [
+      "Province of León",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Alicante"
+    ],
+    [
+      "Province of Tarragona",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Galicia"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Peñón de Alhucemas"
+    ],
+    [
+      "Region of Murcia",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Badajoz"
+    ],
+    [
+      "Province of Granada",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Santervás de Campos",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Salamanca",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Soria"
+    ],
+    [
+      "Galicia",
+      "base.biblioness.bibs_location.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Cantabria"
+    ],
+    [
+      "Juan Ponce de León",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Province of Alicante",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Granada",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Region of Murcia",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Palencia"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Seville"
+    ],
+    [
+      "Province of Zamora",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Melilla",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Lleida"
+    ],
+    [
+      "Aragon",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Spanish autonomous community"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Gipuzkoa"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.location.partially_containedby",
+      "Iberian Peninsula"
+    ],
+    [
+      "La Rioja",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Segovia",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Cantabria",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Andalusia",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Pontevedra"
+    ],
+    [
+      "Province of Jaén",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Castile and León",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Málaga"
+    ],
+    [
+      "Province of Ávila",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Lleida",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Province of Pontevedra",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Valladolid",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Valladolid",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Province of Jaén",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spanish autonomous community",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Asturias"
+    ],
+    [
+      "Zaragoza",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Castellón"
+    ],
+    [
+      "Province of Palencia",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spanish place of sovereignty",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of León"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Salamanca"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Lugo"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.main_country",
+      "Spain"
+    ],
+    [
+      "Province of Málaga",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Balearic Islands",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Salamanca",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Palencia"
+    ],
+    [
+      "Province of Lugo",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spanish autonomous city",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Spain"
+    ],
+    [
+      "Ceuta",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Cádiz"
+    ],
+    [
+      "Basque Country",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Aragon",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Basque Country"
+    ],
+    [
+      "Iberian Peninsula",
+      "location.location.contains_major_portion_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Catalonia"
+    ],
+    [
+      "Navarre",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Pontevedra",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Ciudad Real"
+    ],
+    [
+      "Province of Castellón",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Asturias",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Cantabria"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Castile and León"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Spain"
+    ],
+    [
+      "Community of Madrid",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Canary Islands"
+    ],
+    [
+      "Asturias",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of Ciudad Real",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Basque Country"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Spanish autonomous city"
+    ],
+    [
+      "Province of Huesca",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Guadalajara"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Biscay"
+    ],
+    [
+      "Aragon",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Córdoba"
+    ],
+    [
+      "Province of Jaén",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Girona",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Andalusia",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of A Coruña"
+    ],
+    [
+      "Basque Country",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of Tarragona",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Ávila"
+    ],
+    [
+      "Spain",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Asturias"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Zaragoza"
+    ],
+    [
+      "Álava",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Seville"
+    ],
+    [
+      "Province of Guadalajara",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Ceuta",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Balearic Islands"
+    ],
+    [
+      "Peñón de Vélez de la Gomera",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Huelva"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "La Rioja"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Alicante"
+    ],
+    [
+      "Spanish autonomous community",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Gipuzkoa"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Melilla"
+    ],
+    [
+      "Province of Teruel",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Palencia",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "La Rioja",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Huelva",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Tarragona"
+    ],
+    [
+      "Province of Córdoba",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Valladolid"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Cáceres"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Ciudad Real"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Valencian Community"
+    ],
+    [
+      "Gipuzkoa",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Córdoba",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Galicia"
+    ],
+    [
+      "Spanish place of sovereignty",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Huelva"
+    ],
+    [
+      "Province of Cádiz",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Extremadura",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of Málaga",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Cádiz"
+    ],
+    [
+      "Asturias",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Castilla-La Mancha",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of Lleida",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Jaén"
+    ],
+    [
+      "Province of Cuenca",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Barcelona",
+      "base.biblioness.bibs_location.country",
+      "Spain"
+    ],
+    [
+      "Province of Cáceres",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Valencian Community",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Extremadura"
+    ],
+    [
+      "Province of Alicante",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Ourense"
+    ],
+    [
+      "Province of Salamanca",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Huelva",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Almería"
+    ],
+    [
+      "Andalusia",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Santa Cruz de Tenerife"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Navarre"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Teruel"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Spanish place of sovereignty",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Spain"
+    ],
+    [
+      "Canary Islands",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Almería"
+    ],
+    [
+      "Spanish autonomous city",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Lugo"
+    ],
+    [
+      "Community of Madrid",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Catalonia",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Community of Madrid",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Granada"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Valladolid"
+    ],
+    [
+      "Ceuta",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Cuenca"
+    ],
+    [
+      "Province of Cáceres",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Soria",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Community of Madrid"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Huesca"
+    ],
+    [
+      "Province of Ciudad Real",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Aragon"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Ávila"
+    ],
+    [
+      "Melilla",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Andalusia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Badajoz"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Cantabria"
+    ],
+    [
+      "Peñón de Alhucemas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spanish autonomous city",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Teruel"
+    ],
+    [
+      "Province of Soria",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spanish autonomous community",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Spain"
+    ],
+    [
+      "Peñón de Alhucemas",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Ourense",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Francisco de Quevedo",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Catalonia"
+    ],
+    [
+      "Province of Granada",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Catalonia",
+      "base.biblioness.bibs_location.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Castellón"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Segovia"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Santa Cruz de Tenerife",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Teruel",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Aragon"
+    ],
+    [
+      "Region of Murcia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of Badajoz",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Cuenca"
+    ],
+    [
+      "José Ortega y Gasset",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Pedro Calderón de la Barca",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Canary Islands"
+    ],
+    [
+      "Province of Albacete",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Canary Islands"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Albacete"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Álava"
+    ],
+    [
+      "Province of Córdoba",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Segovia",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Basque Country",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Álava",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Valencian Community",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of Cáceres",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Asturias"
+    ],
+    [
+      "Enrique Iglesias",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Pedro Almodóvar",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of León"
+    ],
+    [
+      "Province of Castellón",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Guadalajara"
+    ],
+    [
+      "La Rioja",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Girona"
+    ],
+    [
+      "Galicia",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Fernando Torres",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Albacete"
+    ],
+    [
+      "Province of Valencia",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Spanish autonomous city"
+    ],
+    [
+      "Asturias",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Province of Castellón",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Province of Pontevedra",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Cantabria",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Guadalajara",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Navarre",
+      "base.biblioness.bibs_location.country",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Region of Murcia"
+    ],
+    [
+      "Province of Zamora",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Community of Madrid",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of León",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Province of Zamora",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Balearic Islands",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Baldomero Espartero, Prince of Vergara",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "La Rioja"
+    ],
+    [
+      "Province of Almería",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Catalonia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Valencia"
+    ],
+    [
+      "Province of Segovia",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Balearic Islands",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Region of Murcia"
+    ],
+    [
+      "Valencian Community",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of Barcelona"
+    ],
+    [
+      "Spain",
+      "location.country.second_level_divisions",
+      "Province of A Coruña"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Zamora"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Spanish place of sovereignty"
+    ],
+    [
+      "Miguel de Cervantes",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Province of Barcelona",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Barcelona",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "La Rioja",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Province of Valencia",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Province of Albacete",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Gipuzkoa",
+      "location.administrative_division.second_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Álava"
+    ],
+    [
+      "Province of Lugo",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Iberian Peninsula",
+      "location.location.partially_contains",
+      "Spain"
+    ],
+    [
+      "Province of Ourense",
+      "location.administrative_division.country",
+      "Spain"
+    ],
+    [
+      "Lope de Vega",
+      "people.person.nationality",
+      "Spain"
+    ],
+    [
+      "Province of Tarragona",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Cantabria",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.first_level_divisions",
+      "Castile and León"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Zaragoza"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Soria"
+    ],
+    [
+      "Gipuzkoa",
+      "location.location.containedby",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "location.country.administrative_divisions",
+      "Province of Ourense"
+    ],
+    [
+      "Aragon",
+      "location.administrative_division.first_level_division_of",
+      "Spain"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Segovia"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Valladolid"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of León"
+    ],
+    [
+      "Province of Valladolid",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Segovia"
+    ],
+    [
+      "Province of Salamanca",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Province of Soria",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Zamora"
+    ],
+    [
+      "Province of Salamanca",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Province of Zamora",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Palencia"
+    ],
+    [
+      "Province of Ávila",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Zamora"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Spanish autonomous community"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Palencia"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of León"
+    ],
+    [
+      "Province of Soria",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Soria"
+    ],
+    [
+      "Province of Ávila",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Soria"
+    ],
+    [
+      "Castile and León",
+      "location.location.containedby",
+      "Iberian Peninsula"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Ávila"
+    ],
+    [
+      "Province of León",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Province of Palencia",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Salamanca"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Ávila"
+    ],
+    [
+      "Castile and León",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Salamanca"
+    ],
+    [
+      "Province of Palencia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Province of León",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Castile and León",
+      "location.location.contains",
+      "Province of Valladolid"
+    ],
+    [
+      "Province of Valladolid",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Province of Segovia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Province of Segovia",
+      "location.location.containedby",
+      "Castile and León"
+    ],
+    [
+      "Iberian Peninsula",
+      "location.location.contains",
+      "Castile and León"
+    ],
+    [
+      "Province of Zamora",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castile and León"
+    ],
+    [
+      "Province of Santa Cruz de Tenerife",
+      "location.location.containedby",
+      "Canary Islands"
+    ],
+    [
+      "Canary Islands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Santa Cruz de Tenerife"
+    ],
+    [
+      "Canary Islands",
+      "location.location.contains",
+      "Province of Santa Cruz de Tenerife"
+    ],
+    [
+      "Province of Santa Cruz de Tenerife",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Canary Islands"
+    ],
+    [
+      "Canary Islands",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Spanish autonomous community"
+    ],
+    [
+      "Province of Albacete",
+      "location.location.containedby",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Albacete"
+    ],
+    [
+      "Castilla-La Mancha",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Spanish autonomous community"
+    ],
+    [
+      "Castilla-La Mancha",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Guadalajara"
+    ],
+    [
+      "Province of Ciudad Real",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.location.contains",
+      "Province of Albacete"
+    ],
+    [
+      "Province of Ciudad Real",
+      "location.location.containedby",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.location.contains",
+      "Province of Guadalajara"
+    ],
+    [
+      "Province of Cuenca",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.location.containedby",
+      "Iberian Peninsula"
+    ],
+    [
+      "Province of Albacete",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Ciudad Real"
+    ],
+    [
+      "Province of Guadalajara",
+      "location.location.containedby",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Province of Guadalajara",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Iberian Peninsula",
+      "location.location.contains",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.location.contains",
+      "Province of Cuenca"
+    ],
+    [
+      "Province of Cuenca",
+      "location.location.containedby",
+      "Castilla-La Mancha"
+    ],
+    [
+      "Castilla-La Mancha",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Province of Cuenca"
+    ],
+    [
+      "Castilla-La Mancha",
+      "location.location.contains",
+      "Province of Ciudad Real"
+    ]
+  ]
+}

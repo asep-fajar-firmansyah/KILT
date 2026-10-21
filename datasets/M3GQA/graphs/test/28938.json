@@ -1,0 +1,6030 @@
+{
+  "graph_id": 28938,
+  "subgraph": [
+    [
+      "Bear Country",
+      "film.film.genre",
+      "Nature"
+    ],
+    [
+      "White Wilderness",
+      "film.film.genre",
+      "Nature"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.genre",
+      "Nature"
+    ],
+    [
+      "Nature",
+      "film.film_genre.films_in_this_genre",
+      "Water Birds"
+    ],
+    [
+      "The Living Desert",
+      "film.film.genre",
+      "Nature"
+    ],
+    [
+      "Nature",
+      "film.film_genre.films_in_this_genre",
+      "White Wilderness"
+    ],
+    [
+      "Nature",
+      "film.film_genre.films_in_this_genre",
+      "In Beaver Valley"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.genre",
+      "Nature"
+    ],
+    [
+      "Nature",
+      "film.film_genre.films_in_this_genre",
+      "The Living Desert"
+    ],
+    [
+      "Water Birds",
+      "film.film.genre",
+      "Nature"
+    ],
+    [
+      "Nature",
+      "film.film_genre.films_in_this_genre",
+      "Bear Country"
+    ],
+    [
+      "Nature",
+      "film.film_genre.films_in_this_genre",
+      "The Vanishing Prairie"
+    ],
+    [
+      "Nature",
+      "freebase.valuenotation.has_no_value",
+      "Official website"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "The Living Desert"
+    ],
+    [
+      "White Wilderness",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "Water Birds"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "In Beaver Valley"
+    ],
+    [
+      "Bear Country",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "Seal Island"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "Seal Island",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "Nature's Half Acre"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "Perri"
+    ],
+    [
+      "Perri",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "Bear Country"
+    ],
+    [
+      "The Living Desert",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "Water Birds",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "White Wilderness"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "True-Life Adventures",
+      "film.film_series.films_in_series",
+      "The Vanishing Prairie"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.film_series",
+      "True-Life Adventures"
+    ],
+    [
+      "m.0w00mgs",
+      "award.award_nomination.nominated_for",
+      "Nature's Half Acre"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.edited_by",
+      "Norman Palmer"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Nature's Half Acre",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Nature's Half Acre",
+      "award.award_nominated_work.award_nominations",
+      "m.0w00mgs"
+    ],
+    [
+      "Norman Palmer",
+      "film.editor.film",
+      "Nature's Half Acre"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "Nature's Half Acre"
+    ],
+    [
+      "Nature's Half Acre",
+      "award.award_winning_work.awards_won",
+      "m.0nbc99l"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "m.0nbc99l",
+      "award.award_honor.honored_for",
+      "Nature's Half Acre"
+    ],
+    [
+      "Nature's Half Acre",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "m.0ncptm_",
+      "award.award_honor.honored_for",
+      "Bear Country"
+    ],
+    [
+      "Bear Country",
+      "award.award_winning_work.awards_won",
+      "m.0ncptm_"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "Bear Country"
+    ],
+    [
+      "Bear Country",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bear Country",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bear Country",
+      "film.film.produced_by",
+      "Ben Sharpsteen"
+    ],
+    [
+      "Bear Country",
+      "film.film.production_companies",
+      "The Walt Disney Company"
+    ],
+    [
+      "Bear Country",
+      "award.award_nominated_work.award_nominations",
+      "m.0vz55y3"
+    ],
+    [
+      "Bear Country",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Bear Country",
+      "film.film.genre",
+      "Animal"
+    ],
+    [
+      "Bear Country",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Bear Country",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Ben Sharpsteen",
+      "film.producer.film",
+      "Bear Country"
+    ],
+    [
+      "Animal",
+      "film.film_genre.films_in_this_genre",
+      "Bear Country"
+    ],
+    [
+      "m.0vz55y3",
+      "award.award_nomination.nominated_for",
+      "Bear Country"
+    ],
+    [
+      "Bear Country",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "White Wilderness",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Lemmus lemmus",
+      "common.image.appears_in_topic_gallery",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "film.film.production_companies",
+      "The Walt Disney Company"
+    ],
+    [
+      "m.0ncyn_c",
+      "award.award_nomination.nominated_for",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "common.topic.webpage",
+      "m.0gw8z5l"
+    ],
+    [
+      "Animal",
+      "film.film_genre.films_in_this_genre",
+      "White Wilderness"
+    ],
+    [
+      "m.04yvz1m",
+      "film.film_cut.film",
+      "White Wilderness"
+    ],
+    [
+      "Walt Disney",
+      "film.producer.films_executive_produced",
+      "White Wilderness"
+    ],
+    [
+      "m.0cjlzgl",
+      "common.webpage.topic",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "White Wilderness",
+      "film.film.starring",
+      "m.0h0_hlj"
+    ],
+    [
+      "White Wilderness",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Denali National Park and Preserve",
+      "film.film_location.featured_in_films",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "White Wilderness",
+      "film.film.personal_appearances",
+      "m.0gdknpk"
+    ],
+    [
+      "m.0gw8z5l",
+      "common.webpage.topic",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "White Wilderness",
+      "award.award_nominated_work.award_nominations",
+      "m.0ndsfn0"
+    ],
+    [
+      "White Wilderness",
+      "media_common.netflix_title.netflix_genres",
+      "Science and Nature Documentaries"
+    ],
+    [
+      "m.0gdknpk",
+      "film.personal_film_appearance.film",
+      "White Wilderness"
+    ],
+    [
+      "1959 Berlin International Film Festival",
+      "film.film_festival_event.films",
+      "White Wilderness"
+    ],
+    [
+      "m.0fpld59",
+      "film.film_film_distributor_relationship.film",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "film.film.runtime",
+      "m.04yvz1m"
+    ],
+    [
+      "White Wilderness",
+      "film.film.edited_by",
+      "Norman Palmer"
+    ],
+    [
+      "White Wilderness",
+      "common.topic.article",
+      "m.029dpq"
+    ],
+    [
+      "White Wilderness",
+      "common.topic.webpage",
+      "m.0cjlzgl"
+    ],
+    [
+      "m.0ndr_n6",
+      "award.award_honor.honored_for",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "award.award_nominated_work.award_nominations",
+      "m.0vv8dln"
+    ],
+    [
+      "White Wilderness",
+      "common.topic.image",
+      "Lemmus lemmus"
+    ],
+    [
+      "White Wilderness",
+      "media_common.netflix_title.netflix_genres",
+      "Science & Nature Documentaries"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "White Wilderness"
+    ],
+    [
+      "Ben Sharpsteen",
+      "film.producer.film",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "film.film.featured_film_locations",
+      "Denali National Park and Preserve"
+    ],
+    [
+      "White Wilderness",
+      "common.topic.notable_for",
+      "g.1255thzkj"
+    ],
+    [
+      "White Wilderness",
+      "film.film.film_festivals",
+      "1959 Berlin International Film Festival"
+    ],
+    [
+      "m.0ndsfn0",
+      "award.award_nomination.nominated_for",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "film.film.executive_produced_by",
+      "Walt Disney"
+    ],
+    [
+      "White Wilderness",
+      "film.film.genre",
+      "Animal"
+    ],
+    [
+      "White Wilderness",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_mxync"
+    ],
+    [
+      "White Wilderness",
+      "award.award_winning_work.awards_won",
+      "m.0ndr_n6"
+    ],
+    [
+      "White Wilderness",
+      "film.film.distributors",
+      "m.0fpld59"
+    ],
+    [
+      "White Wilderness",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "White Wilderness",
+      "film.film.rating",
+      "G (USA)"
+    ],
+    [
+      "White Wilderness",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "White Wilderness",
+      "film.film.produced_by",
+      "Ben Sharpsteen"
+    ],
+    [
+      "m.0h0_hlj",
+      "film.performance.film",
+      "White Wilderness"
+    ],
+    [
+      "Norman Palmer",
+      "film.editor.film",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "m.0vv8dln",
+      "award.award_nomination.nominated_for",
+      "White Wilderness"
+    ],
+    [
+      "White Wilderness",
+      "award.award_nominated_work.award_nominations",
+      "m.0ncyn_c"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.production_companies",
+      "The Walt Disney Company"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "m.0nc_225",
+      "award.award_honor.honored_for",
+      "The Vanishing Prairie"
+    ],
+    [
+      "The Vanishing Prairie",
+      "media_common.netflix_title.netflix_genres",
+      "Science & Nature Documentaries"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "The Vanishing Prairie",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "The Vanishing Prairie",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Ben Sharpsteen",
+      "film.producer.film",
+      "The Vanishing Prairie"
+    ],
+    [
+      "The Vanishing Prairie",
+      "media_common.netflix_title.netflix_genres",
+      "Science and Nature Documentaries"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "The Vanishing Prairie"
+    ],
+    [
+      "The Vanishing Prairie",
+      "award.award_winning_work.awards_won",
+      "m.0nc_225"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.produced_by",
+      "Ben Sharpsteen"
+    ],
+    [
+      "The Vanishing Prairie",
+      "award.award_nominated_work.award_nominations",
+      "m.0nc_283"
+    ],
+    [
+      "The Vanishing Prairie",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "m.0nc_283",
+      "award.award_nomination.nominated_for",
+      "The Vanishing Prairie"
+    ],
+    [
+      "Ben Sharpsteen",
+      "film.director.film",
+      "Water Birds"
+    ],
+    [
+      "Water Birds",
+      "award.award_winning_work.awards_won",
+      "m.0wfl924"
+    ],
+    [
+      "Water Birds",
+      "film.film.production_companies",
+      "The Walt Disney Company"
+    ],
+    [
+      "Norman Palmer",
+      "film.editor.film",
+      "Water Birds"
+    ],
+    [
+      "Water Birds",
+      "film.film.directed_by",
+      "Ben Sharpsteen"
+    ],
+    [
+      "Water Birds",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Water Birds",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Water Birds",
+      "film.film.produced_by",
+      "Walt Disney"
+    ],
+    [
+      "Water Birds",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Water Birds",
+      "award.award_nominated_work.award_nominations",
+      "m.0nbxqnq"
+    ],
+    [
+      "Water Birds",
+      "film.film.edited_by",
+      "Norman Palmer"
+    ],
+    [
+      "m.0nbxqnq",
+      "award.award_nomination.nominated_for",
+      "Water Birds"
+    ],
+    [
+      "Animal",
+      "film.film_genre.films_in_this_genre",
+      "Water Birds"
+    ],
+    [
+      "m.0wfl924",
+      "award.award_honor.honored_for",
+      "Water Birds"
+    ],
+    [
+      "Water Birds",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Water Birds",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Water Birds",
+      "film.film.genre",
+      "Animal"
+    ],
+    [
+      "Water Birds",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Living Desert",
+      "media_common.netflix_title.netflix_genres",
+      "Science & Nature Documentaries"
+    ],
+    [
+      "Ben Sharpsteen",
+      "film.producer.film",
+      "The Living Desert"
+    ],
+    [
+      "Norman Palmer",
+      "film.editor.film",
+      "The Living Desert"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "The Living Desert"
+    ],
+    [
+      "The Living Desert",
+      "film.film.genre",
+      "Animal"
+    ],
+    [
+      "The Living Desert",
+      "award.award_nominated_work.award_nominations",
+      "m.0m22fcm"
+    ],
+    [
+      "m.0nf4s0q",
+      "award.award_nomination.nominated_for",
+      "The Living Desert"
+    ],
+    [
+      "m.0m22fcm",
+      "award.award_nomination.nominated_for",
+      "The Living Desert"
+    ],
+    [
+      "The Living Desert",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Living Desert",
+      "film.film.production_companies",
+      "The Walt Disney Company"
+    ],
+    [
+      "The Living Desert",
+      "film.film.produced_by",
+      "Ben Sharpsteen"
+    ],
+    [
+      "The Living Desert",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Living Desert",
+      "media_common.netflix_title.netflix_genres",
+      "Science and Nature Documentaries"
+    ],
+    [
+      "The Living Desert",
+      "award.award_winning_work.awards_won",
+      "m.0ncql7w"
+    ],
+    [
+      "Animal",
+      "film.film_genre.films_in_this_genre",
+      "The Living Desert"
+    ],
+    [
+      "The Living Desert",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Living Desert",
+      "award.award_winning_work.awards_won",
+      "m.0m228wn"
+    ],
+    [
+      "The Living Desert",
+      "film.film.edited_by",
+      "Norman Palmer"
+    ],
+    [
+      "The Living Desert",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "The Living Desert",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "m.0ncql7w",
+      "award.award_honor.honored_for",
+      "The Living Desert"
+    ],
+    [
+      "The Living Desert",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "The Living Desert",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Living Desert",
+      "award.award_nominated_work.award_nominations",
+      "m.0nf4s0q"
+    ],
+    [
+      "m.0m228wn",
+      "award.award_honor.honored_for",
+      "The Living Desert"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "In Beaver Valley"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.edited_by",
+      "Norman Palmer"
+    ],
+    [
+      "m.0nb9rc5",
+      "award.award_nomination.nominated_for",
+      "In Beaver Valley"
+    ],
+    [
+      "Norman Palmer",
+      "film.editor.film",
+      "In Beaver Valley"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "In Beaver Valley",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "In Beaver Valley",
+      "award.award_nominated_work.award_nominations",
+      "m.0nb9rc5"
+    ],
+    [
+      "m.0nb9r5n",
+      "award.award_honor.honored_for",
+      "In Beaver Valley"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "In Beaver Valley",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "In Beaver Valley",
+      "award.award_winning_work.awards_won",
+      "m.0nb9r5n"
+    ],
+    [
+      "The Fox Chase",
+      "freebase.valuenotation.has_value",
+      "Official website"
+    ],
+    [
+      "Influenza",
+      "freebase.valuenotation.has_no_value",
+      "Official website"
+    ],
+    [
+      "1993 San Francisco International Film Festival",
+      "freebase.valuenotation.has_value",
+      "Official website"
+    ],
+    [
+      "Sleigh Bells",
+      "freebase.valuenotation.has_value",
+      "Official website"
+    ],
+    [
+      "Homo sapiens",
+      "freebase.valuenotation.has_no_value",
+      "Official website"
+    ],
+    [
+      "Republic of Ireland",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "France",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Los Angeles",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Pirates of the Caribbean",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Seal Island",
+      "award.award_winning_work.awards_won",
+      "m.0n9hyqn"
+    ],
+    [
+      "m.0n9hzk8",
+      "award.award_nomination.nominated_for",
+      "Seal Island"
+    ],
+    [
+      "Seal Island",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Seal Island",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Seal Island",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "Seal Island",
+      "award.award_nominated_work.award_nominations",
+      "m.0n9hzk8"
+    ],
+    [
+      "Seal Island",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Seal Island",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Seal Island",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Seal Island",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "m.0n9hyqn",
+      "award.award_honor.honored_for",
+      "Seal Island"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "Seal Island"
+    ],
+    [
+      "Perri",
+      "film.film.production_companies",
+      "The Walt Disney Company"
+    ],
+    [
+      "Perri",
+      "film.film.genre",
+      "Family"
+    ],
+    [
+      "Perri",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Perri",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Perri",
+      "film.film.personal_appearances",
+      "m.09g3f32"
+    ],
+    [
+      "Perri",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "m.09g3f32",
+      "film.personal_film_appearance.film",
+      "Perri"
+    ],
+    [
+      "Perri",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Perri",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "m.0w00mgs",
+      "award.award_nomination.award",
+      "Academy Award for Best Short Subject, Two-reel"
+    ],
+    [
+      "m.0w00mgs",
+      "award.award_nomination.ceremony",
+      "24th Academy Awards"
+    ],
+    [
+      "Academy Award for Best Short Subject, Two-reel",
+      "award.award_category.nominees",
+      "m.0w00mgs"
+    ],
+    [
+      "m.0w00mgs",
+      "award.award_nomination.award_nominee",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_nominee.award_nominations",
+      "m.0w00mgs"
+    ],
+    [
+      "Norman Palmer",
+      "people.person.place_of_birth",
+      "California"
+    ],
+    [
+      "Norman Palmer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Norman Palmer",
+      "film.editor.film",
+      "Grand Canyon"
+    ],
+    [
+      "Norman Palmer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.edited_by",
+      "Norman Palmer"
+    ],
+    [
+      "Norman Palmer",
+      "people.person.profession",
+      "Film Editor"
+    ],
+    [
+      "Cock o' the Walk",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Toy Tinkers",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Cannibal Capers",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey and the Seal",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Springtime",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Man in Space",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Pigs is Pigs",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "El Terrible Toreador",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Amateurs",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Walt Before Mickey",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Disney Learning Adventures: Mickey and the Beanstalk",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Frozen",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Arctic Antics",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Aquamania",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Bird Store",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Earth to Echo",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Good Deed",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Fantasia 2000",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Tea for Two Hundred",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Little Whirlwind",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.dialects",
+      "Canadian English"
+    ],
+    [
+      "Hollywood Party",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "No Hunting",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Republic of Ireland",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Saludos Amigos",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Canadian English",
+      "language.language_dialect.language",
+      "English Language"
+    ],
+    [
+      "The Mad Doctor",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Jay Baruchel",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Delayed Date",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Brother, Can You Spare a Dime?",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Alice's Spooky Adventure",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Dragonfly",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Gulliver Mickey",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mary Poppins",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "The Karnival Kid",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Canada"
+    ],
+    [
+      "The Plow Boy",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Disney Princess Sing-Along Songs: Enchanted Tea Party",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Blue Rhythm",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Reason and Emotion",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Republic of Ireland",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "The Band Concert",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Der Fuehrer's Face",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Grain That Built a Hemisphere",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Michael Jackson",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Alice Solves the Puzzle",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Alaskan Eskimo",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Hawaiian Holiday",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lady and the Tramp",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Clock Store",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Ama Girls",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Ben and Me",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Great Guns",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Hot Choc-late Soldiers",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Country Bears",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey Mouse Clubhouse",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Bears and the Bees",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Wetback Hound",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Revue",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "A Trip Through the Walt Disney Studios",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Haunted House",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Giantland",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Switzerland",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Cat's Out",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Gala Premier",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Surprise Party",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Merry Dwarfs",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Squatter's Rights",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "More Kittens",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "Egyptian Melodies",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Toot, Whistle, Plunk and Boom",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lambert the Sheepish Lion",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Monkey Kingdom",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Circus",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.dialects",
+      "American English"
+    ],
+    [
+      "Hell's Bells",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Chain Gang",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Get A Horse",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Orphans",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The New Spirit",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "South of the Border with Disney",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Nifty Nineties",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Golden Touch",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Disneyland '59",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Gallopin' Gaucho",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Muppet Treasure Island",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Moose Hunters",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "A Disney Christmas Gift",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Ugly Duckling",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Skeleton Dance",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Reluctant Dragon",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Oh, What a Knight",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Wet Paint",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Sword and the Rose",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Monkey Melodies",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Frolicking Fish",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Old Yeller",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Opry House",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Republic of Ireland"
+    ],
+    [
+      "Pluto's Blue Note",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Who Killed Cock Robin?",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Puss in Boots",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lonesome Ghosts",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Mechanical Cow",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Greyfriars Bobby",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Donald in Mathmagic Land",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lullaby Land",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Disney's Halloween Treat",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "On Ice",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Servants' Entrance",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Whoopee Party",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Disneyland: The Secrets, Stories & Magic of the Happiest Place on Earth",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Oh Teacher",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Polo Team",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Goliath II",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Birds in the Spring",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Martin Short",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Republic of Ireland"
+    ],
+    [
+      "Mysteries of the Deep",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Playful Pluto",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Dognapper",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Magician Mickey",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Society Dog Show",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "When the Cat's Away",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Fun and Fancy Free",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Great Locomotive Chase",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Fox Hunt",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Three Little Pigs",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "United Kingdom",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Babes in Toyland",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Symphony Hour",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lend a Paw",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Birthday Party",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Walt & El Grupo",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Donalds Crime",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Peculiar Penguins",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Men Against the Arctic",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Paul Bunyan",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bright Lights",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "American English",
+      "language.language_dialect.language",
+      "English Language"
+    ],
+    [
+      "Tall Timber",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mother Goose Goes Hollywood",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mr. Mouse Takes a Trip",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Parent Trap",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Funny Little Bunnies",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey in Arabia",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Mechanical Man",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Pixar Story",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Truth About Mother Goose",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Good Scouts",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Walt Disney",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Mickey's Follies",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Star Wars: Episode VIII",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Three Orphan Kittens",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Story of Robin Hood and His Merrie Men",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "The Brave Little Tailor",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Through the Mirror",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Jean-Michel Basquiat",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Rob Roy, the Highland Rogue",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Monkey's Uncle",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Mellerdrammer",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Alice the Toreador",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "My Little Pony: The Movie",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Chip and Dale",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Truant Officer Donald",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Parade of the Award Nominees",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Canada",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Rugged Bear",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Woodland Café",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Alice Gets Stung",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Country Cousin",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Pointer",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Just Mickey",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bambi",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Treasure Island",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Orphan's Benefit",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Plane Crazy",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "A Symposium on Popular Songs",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Whalers",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Adventures of Ichabod and Mr. Toad",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Building a Building",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Hiawatha's Rabbit Hunt",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lexa Doig",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "The Barn Dance",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Alice's Orphan",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Walt Disney's Wonderful World of Color",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Flowers and Trees",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Snow White and the Seven Dwarfs",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mickey's Trailer",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bugs in Love",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Haunted Mansion",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Ferdinand the Bull",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Alice's Day at Sea",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Fantasia",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Morris, the Midget Moose",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Irish Canadian",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Night",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Clock Cleaners",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Michael Palance",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "The Mickey Mouse Club",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Tortoise and the Hare",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Winnie the Pooh and the Blustery Day",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Old Mill",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Babes in Toyland",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Trolley Troubles",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Old Mill",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Fantasia 2000",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Get A Horse",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Whoopee Party",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "m.0134khdy",
+      "film.film_film_distributor_relationship.distributor",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Hungry Hoboes",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "When the Cat's Away",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Karnival Kid",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Mary Poppins",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Mickey's Revue",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Parent Trap",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Three Little Pigs",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Daisy Duck",
+      "fictional_universe.fictional_character.character_created_by",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Toot, Whistle, Plunk and Boom",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "business.business_operation.industry",
+      "Film"
+    ],
+    [
+      "The Little Whirlwind",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Tall Timber",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Orphan's Benefit",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Flowers and Trees",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Squatter's Rights",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Plow Boy",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Plane Crazy",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Saludos Amigos",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Nifty Nineties",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "organization.organization.place_founded",
+      "Burbank"
+    ],
+    [
+      "Funny Little Bunnies",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Hell's Bells",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Parade of the Award Nominees",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "organization.organization.founders",
+      "Walt Disney"
+    ],
+    [
+      "Building a Building",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Daisy Duck"
+    ],
+    [
+      "Ferdinand the Bull",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney",
+      "organization.organization_founder.organizations_founded",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Three Orphan Kittens",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Treasure Island",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Tortoise and the Hare",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Egyptian Melodies",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Haunted Mansion",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "common.topic.notable_types",
+      "Production company"
+    ],
+    [
+      "Walt Disney Pictures",
+      "common.resource.annotations",
+      "m.0d9nx1k"
+    ],
+    [
+      "The Monkey's Uncle",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Mickey's Gala Premier",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Mickey's Birthday Party",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Skeleton Dance",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Sword and the Rose",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "South of the Border with Disney",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Great Locomotive Chase",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Rob Roy, the Highland Rogue",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "organization.organization.organization_type",
+      "Subsidiary"
+    ],
+    [
+      "The Country Bears",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "symbols.namesake.named_after",
+      "Walt Disney"
+    ],
+    [
+      "Aquamania",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Country Cousin",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "business.business_operation.industry",
+      "Film industry"
+    ],
+    [
+      "Subsidiary",
+      "organization.organization_type.organizations_of_this_type",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Greyfriars Bobby",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Old Yeller",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Der Fuehrer's Face",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Chain Gang",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Pigs is Pigs",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Opry House",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Lullaby Land",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "business.business_operation.industry",
+      "Motion Picture and Video Production"
+    ],
+    [
+      "m.0d9nx1k",
+      "common.webpage.resource",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Magician Mickey",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Morris, the Midget Moose",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Brave Little Tailor",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Story of Robin Hood and His Merrie Men",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Frozen",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney Pictures",
+      "organization.organization.legal_structure",
+      "Division"
+    ],
+    [
+      "Playful Pluto",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Bright Lights",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Through the Mirror",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Ugly Duckling",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Mickey's Mellerdrammer",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Walt Disney",
+      "symbols.name_source.namesakes",
+      "Walt Disney Pictures"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "Muppet Treasure Island",
+      "film.film.production_companies",
+      "Walt Disney Pictures"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.is_reviewed",
+      "Date of death"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "The Adventures of Ichabod and Mr. Toad"
+    ],
+    [
+      "James Algar",
+      "people.person.profession",
+      "Screenwriter"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "Fantasia 2000"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "The Adventures of Ichabod and Mr. Toad",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "James Algar",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Fantasia",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "James Algar",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Bambi",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.has_value",
+      "Cause of death"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.is_reviewed",
+      "Place of death"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "Fantasia"
+    ],
+    [
+      "Fantasia 2000",
+      "film.film.directed_by",
+      "James Algar"
+    ],
+    [
+      "James Algar",
+      "people.person.profession",
+      "Film director"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "Bambi"
+    ],
+    [
+      "James Algar",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0ncyn_c",
+      "award.award_nomination.award_nominee",
+      "James Algar"
+    ],
+    [
+      "James Algar",
+      "award.award_nominee.award_nominations",
+      "m.0ncyn_c"
+    ],
+    [
+      "James Algar",
+      "film.director.film",
+      "Grand Canyon"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "James Algar",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Monsanto House of the Future",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ben Sharpsteen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mickey in Arabia",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "South of the Border with Disney",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey Mouse Clubhouse",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "California"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Glendale",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Whalers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Trolley Troubles",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Great Guns",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Jazz Fool",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice's Spooky Adventure",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cole Porter",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kevin Clash",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The New Spirit",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Santa Monica",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.011jygpj",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "m.0115wpbg",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "The Adventures of Ichabod and Mr. Toad",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Puss in Boots",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Rugged Bear",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0115wpd4",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Frank Gehry",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Disney's Halloween Treat",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0n4jqlw",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "William Garity",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "George Herriman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Diane Disney Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Little Red Riding Hood",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Springtime",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.011k29w3",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Fantasia",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tamara Scheer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Great Locomotive Chase",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "North Hollywood",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0nbg0cf",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice Solves the Puzzle",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice the Toreador",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Nikola Trbojevich",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hermosa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Old Yeller",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Old Mill",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lonesome Ghosts",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Giantland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Three Orphan Kittens",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Plane Crazy",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "More Kittens",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Follies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Golden Touch",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Haunted Mansion",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Cactus Kid",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lady and the Tramp",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lend a Paw",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Moose Hunters",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Playful Pluto",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mickey's Revue",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Birds in the Spring",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Bird Store",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Rob Roy, the Highland Rogue",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mary Poppins",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bill Walsh",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Woodland Café",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Donal Logue",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "H. Jon Benjamin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Pixar Story",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Reluctant Dragon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "Bob Clampett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Anaheim",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pigs is Pigs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "Ama Girls",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cook County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Symphony Hour",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bright Lights",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Herbert Arthur Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mickey's Good Deed",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Chicago"
+    ],
+    [
+      "Magician Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "m.0n58nr_",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Donalds Crime",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Bears and the Bees",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Circus",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Men Against the Arctic",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Man in Space",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joel Cox",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Goliath II",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Servants' Entrance",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tommy Tucker's Tooth",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jim Henson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "California"
+    ],
+    [
+      "Ben and Me",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pluto's Blue Note",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Winfield R. Sheehan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Donald in Mathmagic Land",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Truant Officer Donald",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Walt Before Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "Disneyland: The Secrets, Stories & Magic of the Happiest Place on Earth",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Emile Kuri",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0pdk6ht",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "California",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0l0d53j",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Little Whirlwind",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Peculiar Penguins",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "No Hunting",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Band Concert",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lm3c2k",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Hungry Hoboes",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Walter Parr",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Disney Before Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ub Iwerks",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Hal Mohr",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ronald Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Mad Doctor",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lm3c2v",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Alice Gets Stung",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "Neal Gabler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Walt Disney's Wonderful World of Color",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "The Fox Hunt",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Idaho"
+    ],
+    [
+      "Blue Rhythm",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Barnyard Concert",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tall Timber",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Oh, What a Knight",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Kansas City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "The Plow Boy",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Delayed Date",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Martin Short",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Fred Gipson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ferdinand the Bull",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Clock Cleaners",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Winnie the Pooh and the Blustery Day",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Disney Princess Sing-Along Songs: Enchanted Tea Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Idaho"
+    ],
+    [
+      "The Chain Gang",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Dwight Hauser",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Star Wars: Episode VIII",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice's Wonderland - aka - Alice in Slumberland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "David Hand",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bob Kuwahara",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.011f5vhy",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Just Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Rudolf Ising",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Michael Palance",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Egyptian Melodies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Raymond Arnold Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Napa",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Wilfred Jackson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Who Killed Cock Robin?",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0nk0bk7",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Hiawatha's Rabbit Hunt",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joanna Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Barn Dance",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ted Sears",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Quincy Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Monkey's Uncle",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mickey's Birthday Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bugs in Love",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lillian Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0116jhhd",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Mickey's Mechanical Man",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "A Trip Through the Walt Disney Studios",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Opry House",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Through the Mirror",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Walt Disney Concert Hall",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Monkey Kingdom",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "Mickey's Mellerdrammer",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Disneyland '59",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Charles Mintz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0k00ppd",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "m.0n3lt44",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Fantasia 2000",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "School of the Art Institute of Chicago",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Fox Chase",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Karnival Kid",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hawaiian Holiday",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Paul Bunyan",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Dragonfly",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Aquamania",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Morris, the Midget Moose",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Society Dog Show",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "A Disney Christmas Gift",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Burbank",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Disney Learning Adventures: Mickey and the Beanstalk",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hollywood",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Hollywood Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Surprise Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "El Terrible Toreador",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "When the Cat's Away",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Kansas City Art Institute",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Muppet Treasure Island",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Gallopin' Gaucho",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "California"
+    ],
+    [
+      "Lambert the Sheepish Lion",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Leigh Harline",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Oh Teacher",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0ndc90c",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Whoopee Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mysteries of the Deep",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cock o' the Walk",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Gala Premier",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Siam - Land und Leute",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lcxb9f",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "m.0n3lstj",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Santa Monica",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Monkey Melodies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ruth Flora Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Sword and the Rose",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Richard M. Sherman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jean-Michel Basquiat",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Wet Paint",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Kansas City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Carroll Clark",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Haunted House",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cannibal Capers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Walt & El Grupo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hollywood",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "Saludos Amigos",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mr. Mouse Takes a Trip",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ron W. Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Walt Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Hollywood",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Idaho"
+    ],
+    [
+      "m.0jrtl6c",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "The Nifty Nineties",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Toot, Whistle, Plunk and Boom",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "The Merry Dwarfs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lullaby Land",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mother Goose Goes Hollywood",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Glendale",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "A Symposium on Popular Songs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Martha",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Gary D. Roach",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alice's Day at Sea",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "California"
+    ],
+    [
+      "The Skeleton Dance",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Reason and Emotion",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Billy Sorrentino",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "On Ice",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Pointer",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Treasure Island",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Choo Choo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Brave Little Tailor",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "German American",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "m.0cgl863",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Night",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Sharon Mae Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tea for Two Hundred",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Rich Little",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0n4jq08",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Mary Blair",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Milt Kahl",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Roy O. Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Greyfriars Bobby",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Clock Store",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hell's Bells",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Parade of the Award Nominees",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Building a Building",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Orphans",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Country Cousin",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Jungle Rhythm",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Country Bears",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Fun and Fancy Free",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Trailer",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Walter Elias Disney Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Robert A. Israel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Anaheim",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Frank Churchill",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jay Wolpert",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "The Alaskan Eskimo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Samson Raphaelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "m.0_yzs0w",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Lawrence Edward Watkin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "James Dietrich",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Squatter's Rights",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Jennifer Miller-Goff",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.01175myt",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Arctic Antics",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Idaho"
+    ],
+    [
+      "The Mechanical Cow",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Get A Horse",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Flowers and Trees",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "G (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Snow White and the Seven Dwarfs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Switzerland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Napa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0kw_5jn",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "My Little Pony: The Movie",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Grain That Built a Hemisphere",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Parent Trap",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Carl Stalling",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mickey and the Seal",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lbn5ny",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Keith Haring",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Earth to Echo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Funny Little Bunnies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joe Grant",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Charles August Nichols",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Frozen",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0lcrhc2",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Wetback Hound",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "The Story of Robin Hood and His Merrie Men",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Tortoise and the Hare",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Margaret J. Winkler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Robert Florey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Flora Call Disney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Marceline",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Toy Tinkers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0nbw1wj",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Eric Gurney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Chicago metropolitan area",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Bambi",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Michael Jackson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Steuben",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Cat's Out",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "The Three Little Pigs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice's Orphan",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Truth About Mother Goose",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Ugly Duckling",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Gulliver Mickey",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "California Institute of the Arts",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oliver Wallace",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Lake Buena Vista",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Babes in Toyland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Robert B. Sherman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Terry Rossio",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "PG (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Der Fuehrer's Face",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Larry Lansburgh",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Dognapper",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Good Scouts",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ted Elliott",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mickey's Polo Team",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Downtown Disney",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Orphan's Benefit",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "RCA",
+      "organization.organization.place_founded",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Burt Gillett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ron W. Miller",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Chip and Dale",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Mickey Mouse Club",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Frolicking Fish",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mickey's Amateurs",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Ugly Duckling",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Old Mill",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Award-Winning Work",
+      "type.type.expected_by",
+      "Winning work"
+    ],
+    [
+      "Grand Canyon",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Fantasia",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Ama Girls",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Fantasia 2000",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Wetback Hound",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Ferdinand the Bull",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Toot, Whistle, Plunk and Boom",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Bambi",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Winnie the Pooh and the Blustery Day",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Alaskan Eskimo",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Three Little Pigs",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Winning work",
+      "rdf-schema#range",
+      "Award-Winning Work"
+    ],
+    [
+      "Der Fuehrer's Face",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Lady and the Tramp",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Winning work",
+      "type.property.expected_type",
+      "Award-Winning Work"
+    ],
+    [
+      "Flowers and Trees",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Adventures of Ichabod and Mr. Toad",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Three Orphan Kittens",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Men Against the Arctic",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Mickey Mouse",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Tortoise and the Hare",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Mary Poppins",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Reluctant Dragon",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Frozen",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "The Country Cousin",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "m.0nbc99l",
+      "award.award_honor.award_winner",
+      "Walt Disney"
+    ],
+    [
+      "Walt Disney",
+      "award.award_winner.awards_won",
+      "m.0nbc99l"
+    ],
+    [
+      "m.0nbc99l",
+      "award.award_honor.ceremony",
+      "24th Academy Awards"
+    ],
+    [
+      "Academy Award for Best Short Subject, Two-reel",
+      "award.award_category.winners",
+      "m.0nbc99l"
+    ],
+    [
+      "24th Academy Awards",
+      "award.award_ceremony.awards_presented",
+      "m.0nbc99l"
+    ],
+    [
+      "m.0nbc99l",
+      "award.award_honor.award",
+      "Academy Award for Best Short Subject, Two-reel"
+    ],
+    [
+      "Steamboat Willie",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Society Dog Show",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Alaskan Eskimo",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Circus",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Whalers",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Delayed Date",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Tommy Tucker's Tooth",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Hell's Bells",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Through the Mirror",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Winnie the Pooh and the Blustery Day",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Toy Tinkers",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Wet Paint",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Moose Hunters",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Golden Touch",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Mechanical Man",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Jungle Rhythm",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Building a Building",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Siam - Land und Leute",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Peculiar Penguins",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Great Guns",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Hungry Hoboes",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Reason and Emotion",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Aquamania",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Parade of the Award Nominees",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Skeleton Dance",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Cannibal Capers",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Blue Rhythm",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Good Scouts",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Whoopee Party",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Just Mickey",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Bright Lights",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Old Mill",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "South of the Border with Disney",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Squatter's Rights",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Oh, What a Knight",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Alice's Day at Sea",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Lullaby Land",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Der Fuehrer's Face",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Morris, the Midget Moose",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Springtime",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Oh Teacher",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Lend a Paw",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Wetback Hound",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Grain That Built a Hemisphere",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Dognapper",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Disney Learning Adventures: Mickey and the Beanstalk",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Haunted House",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Opry House",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Night",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Tall Timber",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Clock Cleaners",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Alice Solves the Puzzle",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Chain Gang",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Symphony Hour",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Goliath II",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Frolicking Fish",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "On Ice",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "A Trip Through the Walt Disney Studios",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Cat's Out",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Brave Little Tailor",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Pointer",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Orphans",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Alice the Toreador",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Alice's Orphan",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Little Whirlwind",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Follies",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Fox Hunt",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Hawaiian Holiday",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Bears and the Bees",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The New Spirit",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Orphan's Benefit",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Get A Horse",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "No Hunting",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Cock o' the Walk",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Cactus Kid",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Puss in Boots",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Truant Officer Donald",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Three Little Pigs",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Reluctant Dragon",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Tea for Two Hundred",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Clock Store",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Country Cousin",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Little Red Riding Hood",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Magician Mickey",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Switzerland",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Martha",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Men Against the Arctic",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Man in Space",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Gala Premier",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey and the Seal",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Birds in the Spring",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Surprise Party",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Arctic Antics",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Mellerdrammer",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Pluto's Blue Note",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Trailer",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Woodland Café",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Donald in Mathmagic Land",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Lambert the Sheepish Lion",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Short Film",
+      "award.award_discipline.awards_in_this_discipline",
+      "Academy Award for Best Documentary Short Subject"
+    ],
+    [
+      "The Nifty Nineties",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mr. Mouse Takes a Trip",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Paul Bunyan",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Alice Gets Stung",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Monkey Melodies",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Lonesome Ghosts",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Saludos Amigos",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Truth About Mother Goose",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Ama Girls",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Alice's Wonderland - aka - Alice in Slumberland",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Alice's Spooky Adventure",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Flowers and Trees",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Bugs in Love",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Mechanical Cow",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Rugged Bear",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Band Concert",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Disney Princess Sing-Along Songs: Enchanted Tea Party",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Bird Store",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "A Walt Disney Christmas",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Ben and Me",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Barnyard Concert",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Hiawatha's Rabbit Hunt",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "More Kittens",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Mad Doctor",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Poupi",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Funny Little Bunnies",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Revue",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mysteries of the Deep",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Good Deed",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Birthday Party",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mother Goose Goes Hollywood",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Barn Dance",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Merry Dwarfs",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Chip and Dale",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Polo Team",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Who Killed Cock Robin?",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Plane Crazy",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Pigs is Pigs",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Tortoise and the Hare",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey's Amateurs",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "When the Cat's Away",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Donalds Crime",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Mickey in Arabia",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Three Orphan Kittens",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Gallopin' Gaucho",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Trolley Troubles",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Academy Award for Best Documentary Short Subject",
+      "award.award_category.disciplines_or_subjects",
+      "Short Film"
+    ],
+    [
+      "The Karnival Kid",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "The Plow Boy",
+      "film.film.genre",
+      "Short Film"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Muppet Treasure Island",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "media_common.netflix_title.netflix_genres",
+      "Adventure Film"
+    ],
+    [
+      "Disney Learning Adventures: Mickey and the Beanstalk",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Old Yeller",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Adventure Film",
+      "media_common.media_genre.child_genres",
+      "Swashbuckler film"
+    ],
+    [
+      "Entertainment",
+      "media_common.media_genre.child_genres",
+      "Adventure Film"
+    ],
+    [
+      "Frozen",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Lady and the Tramp",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "The Story of Robin Hood and His Merrie Men",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "media_common.netflix_title.netflix_genres",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "media_common.netflix_title.netflix_genres",
+      "Adventure Film"
+    ],
+    [
+      "Action/Adventure",
+      "media_common.media_genre.parent_genre",
+      "Adventure Film"
+    ],
+    [
+      "Man in Space",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Adventure Film",
+      "media_common.media_genre.child_genres",
+      "Action/Adventure"
+    ],
+    [
+      "Adventure Film",
+      "media_common.media_genre.parent_genre",
+      "Entertainment"
+    ],
+    [
+      "Swashbuckler film",
+      "media_common.media_genre.parent_genre",
+      "Adventure Film"
+    ],
+    [
+      "Earth to Echo",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: On Stranger Tides",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Bambi",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "The Sword and the Rose",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Rob Roy, the Highland Rogue",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Treasure Island",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Greyfriars Bobby",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Fun and Fancy Free",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Mickey's Trailer",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: At World's End",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "The Great Locomotive Chase",
+      "media_common.netflix_title.netflix_genres",
+      "Adventure Film"
+    ],
+    [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "media_common.netflix_title.netflix_genres",
+      "Adventure Film"
+    ],
+    [
+      "The Great Locomotive Chase",
+      "film.film.genre",
+      "Adventure Film"
+    ],
+    [
+      "Disneyland '59",
+      "tv.tv_program.genre",
+      "Documentary film"
+    ],
+    [
+      "The Pixar Story",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "The Pixar Story",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Grand Canyon",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Men Against the Arctic",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "Mysteries of the Deep",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "The New Spirit",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Walt & El Grupo",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "The Horse with the Flying Tail",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "The Alaskan Eskimo",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "South of the Border with Disney",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Walt & El Grupo",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "A Trip Through the Walt Disney Studios",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Siam - Land und Leute",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Disneyland '59",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Toot, Whistle, Plunk and Boom",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Brother, Can You Spare a Dime?",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "Documentary film",
+      "media_common.media_genre.parent_genre",
+      "Non-fiction"
+    ],
+    [
+      "Non-fiction",
+      "media_common.media_genre.child_genres",
+      "Documentary film"
+    ],
+    [
+      "Monkey Kingdom",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Disneyland: The Secrets, Stories & Magic of the Happiest Place on Earth",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Brother, Can You Spare a Dime?",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "The Grain That Built a Hemisphere",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Switzerland",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Disneyland: The Secrets, Stories & Magic of the Happiest Place on Earth",
+      "media_common.netflix_title.netflix_genres",
+      "Documentary film"
+    ],
+    [
+      "Man in Space",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Ama Girls",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "The Truth About Mother Goose",
+      "film.film.genre",
+      "Documentary film"
+    ]
+  ]
+}

@@ -1,0 +1,4105 @@
+{
+  "graph_id": 15148,
+  "subgraph": [
+    [
+      "Chris McKay",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Chris McKay",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Chris McKay",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chris McKay",
+      "tv.tv_director.episodes_directed",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.directed_by",
+      "Chris McKay"
+    ],
+    [
+      "Chris McKay",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Chris McKay",
+      "film.director.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Chris McKay",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Matthew Beans",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Matthew Beans"
+    ],
+    [
+      "Matthew Beans",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Matthew Beans",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Matthew Beans",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Matthew Beans",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Matthew Beans",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Matthew Beans",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Matthew Beans",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Matthew Beans",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Erik Weiner",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Erik Weiner",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Erik Weiner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Erik Weiner",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Erik Weiner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Erik Weiner"
+    ],
+    [
+      "Erik Weiner",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Erik Weiner",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Erik Weiner",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Erik Weiner",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Tim James",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Tom Gormican",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "owl#inverseOf",
+      "People born here"
+    ],
+    [
+      "Zac Efron",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Tommy Sands",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Matthew Gerrard",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Marc Shaiman",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Christina Aguilera",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Nikki Blonsky",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Michelle Pfeiffer",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Robbie Nevil",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.reverse_property",
+      "People born here"
+    ],
+    [
+      "Queen Latifah",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Annette Funicello",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Miles Teller",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Rudolph Valentino",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jerry Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jesse McCartney",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Frank Sinatra",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ashley Tisdale",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ben Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jessica Alba",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Anna Bingemann",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Geoff Johns",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "People born here",
+      "type.property.master_property",
+      "Place of birth"
+    ],
+    [
+      "Paul Dooley",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Elvis Presley",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Tom Root",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Corey Campodonico",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jeff Gardner",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Seth Green",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Zeb Wells",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Paul Anka",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Brandon Trost",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Lucas Grabeel",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Taylor Schilling",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "James Marsden",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Hugh Davidson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Monique Coleman",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Christopher Walken",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jamie Houston",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Chris Warren, Jr.",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Dylan Efron",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Amanda Bynes",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Elijah Kelley",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Judy Garland",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Paula Abdul",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ryne Sanborn",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Vanessa Hudgens",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Rasmus Bille Bähncke",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Kyle Arneson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Brittany Snow",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Olesya Rulin",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Sterling Knight",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Breckin Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Christopher Mintz-Plasse",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Drew Seeley",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Justin Bieber",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Matt Prokop",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Dave Franco",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Corbin Bleu",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Starla Baskett",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Donny Osmond",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Michael B. Jordan",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Allison Janney",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Hugh Sterbakov",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Matt Mariska",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Trisha Gum",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Neil Sedaka",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Alexander Bulkley",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "John Travolta",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "David Efron",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Kaycee Stroh",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Dan Milano",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ricky Nelson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Drew Seeley",
+      "music.artist.origin",
+      "United States of America"
+    ],
+    [
+      "Neighbors",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Judy Garland",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "If You Lived Here, You'd Be Home Now",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Doug Goldstein",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "At Any Price",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Breckin Meyer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Me and Orson Welles",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "John Varvatos",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Hawaii"
+    ],
+    [
+      "Robbie Nevil",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Johnny Crawford",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Santa Monica",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Jerry Stiller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Donny Osmond",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "High School Musical",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "If You Lived Here, You'd Be Home Now",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0_lq_21",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Santa Monica",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "We Are Your Friends",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Olesya Rulin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Elvis Presley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Charlie St. Cloud",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ben Stiller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "David Cassidy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Lorax",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Liberal Arts",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Arroyo Grande",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.010rmm4b",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Hawaii"
+    ],
+    [
+      "The Paperboy",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Fabian",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Lucky One",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ashkenazi Jews",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "2011 MTV Movie Awards",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "Jesse McCartney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Derby Stallion",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.010wv8j1",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Seth Green",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "San Luis Obispo",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Matthew Senreich",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "Ivy Isenberg",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Miracle Run",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tommy Sands",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "David Torn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Brittany Snow",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Zac Efron",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "James Marsden",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Yiddish Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Shaun Cassidy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ricky Nelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Parkland",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Nikki Blonsky",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Taylor Parks",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Neil Sedaka",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Marc Shaiman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Christina Aguilera",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Frank Sinatra",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "R (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Kaycee Stroh",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dave Franco",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Queen Latifah",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Vanessa Hudgens",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "Sterling Knight",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Adam Watts",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Corbin Bleu",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "It's 'Hairspray'!",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hairspray: Inside the Recording Booth",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Robert G. Ingersoll",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Hawaii"
+    ],
+    [
+      "High School Musical",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tim James",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Amanda Bynes",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Halston Sage",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Shawn Patterson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Summerland",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Adam Anders",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Christopher Walken",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hugh Davidson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dylan Efron",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "17 Again",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Bel Air",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Zac Efron's Pool Party",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jessica Alba",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Melinda's World",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "New Year's Eve",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hawaii"
+    ],
+    [
+      "Brandon Trost",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lucas Grabeel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Antonina Armato",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "San Luis Obispo",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Christopher Mintz-Plasse",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "That Awkward Moment",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hairspray",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "John Travolta",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Leif Garrett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Matt Prokop",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Autobahn",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Zeb Wells",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Michael B. Jordan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Elijah Kelley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Geoff Johns",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Monique Coleman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ryne Sanborn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Doug Goldstein",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Allison Janney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Chris Warren, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "'Hairspray' Extensions",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Paul Anka",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Rudolph Valentino",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Zac Efron: The Ultimate Idol",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Michelle Pfeiffer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Taylor Schilling",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Miley Cyrus",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dan Milano",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tom Root",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "You Can't Stop the Beat: The Long Journey of 'Hairspray'",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "High School Musical 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Mike Fasolo",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Paul Dooley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "High School Musical 3: Senior Year",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Going Back to 17",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Annette Funicello",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Paula Abdul",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Miles Teller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kevin Shinick",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ashley Tisdale",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "High School Musical 2",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Elvis Presley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Christopher Walken",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kyle Arneson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Zeb Wells",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Travolta",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Matthew Senreich",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Davy Jones",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jerry Stiller",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kevin Shinick",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dan Milano",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Seth Dawson",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Christopher Mintz-Plasse",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Breckin Meyer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Brandon Trost",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Matt Prokop",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Seth Green",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Doug Goldstein",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Torn",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Shaun Cassidy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ben Stiller",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Gormican",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Fasolo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chris Warren, Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jamie Houston",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hugh Sterbakov",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Zac Efron",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marc Shaiman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert G. Ingersoll",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tommy Sands",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Justin Bieber",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Geoff Johns",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Neil Sedaka",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jack Jansen",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Hugh Davidson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jesse McCartney",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael B. Jordan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stuart Wasser",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "John Varvatos",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Adam Anders",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Corey Campodonico",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul de Leeuw",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alexander Bulkley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dylan Efron",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robbie Nevil",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Cassidy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Richard Samuels",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Rudolph Valentino",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Donny Osmond",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fabian",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Adam Watts",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sterling Knight",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Matthew Gerrard",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dave Franco",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Shawn Patterson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Josue Diaz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Elijah Kelley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Efron",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Davey Hunkerhoff",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Rasmus Bille Bähncke",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Leif Garrett",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bertrand Russell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Drew Seeley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "James Marsden",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Matt Mariska",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lucas Grabeel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul Anka",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Root",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Johnny Crawford",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike O'Donnell",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Miles Teller",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jeff Gardner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tim James",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Darth Vader",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul Dooley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Link Larkin",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Frank Sinatra",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Corbin Bleu",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bobby Neville",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Ricky Nelson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ryne Sanborn",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles Horn",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.runtime",
+      "m.010wv870"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode II",
+      "film.film.sequel",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.release_date_s",
+      "m.010wv8kx"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvf73"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.0h2jz23"
+    ],
+    [
+      "Kevin Shinick",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "common.topic.notable_for",
+      "g.125f3xg3l"
+    ],
+    [
+      "Charles Horn",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Alexander Bulkley",
+      "film.producer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Breckin Meyer",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.genre",
+      "Science Fiction"
+    ],
+    [
+      "Trisha Gum",
+      "film.film_art_director.films_art_directed",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.0y5kksv"
+    ],
+    [
+      "Jeff Gardner",
+      "film.cinematographer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.0h2jz23",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wvf0x",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wvc8j",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Seth Green"
+    ],
+    [
+      "m.010wvb1d",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.executive_produced_by",
+      "Seth Green"
+    ],
+    [
+      "Dan Milano",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wvf3v",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Seth Green",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Matthew Senreich"
+    ],
+    [
+      "m.010wvd2r",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Seth Green",
+      "film.producer.films_executive_produced",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wvbml",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvf3v"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.produced_by",
+      "Alexander Bulkley"
+    ],
+    [
+      "Breckin Meyer",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Corey Campodonico",
+      "film.producer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.film_series",
+      "Robot Chicken: Star Wars Trilogy"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Kevin Shinick"
+    ],
+    [
+      "Hugh Davidson",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvb1d"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.film_art_direction_by",
+      "Trisha Gum"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.story_by",
+      "Matthew Senreich"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.story_by",
+      "Seth Green"
+    ],
+    [
+      "Shawn Patterson",
+      "film.music_contributor.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvd2r"
+    ],
+    [
+      "Hugh Sterbakov",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.0y5kksv",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Hugh Sterbakov"
+    ],
+    [
+      "m.010wv9n4",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wv8j1",
+      "film.film_regional_release_date.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvfh6"
+    ],
+    [
+      "Ivy Isenberg",
+      "film.film_casting_director.films_casting_directed",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wvc44",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvc8j"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.prequel",
+      "Robot Chicken: Star Wars Episode II"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.genre",
+      "Animation"
+    ],
+    [
+      "Matthew Senreich",
+      "film.film_story_contributor.film_story_credits",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Mike Fasolo",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Zeb Wells"
+    ],
+    [
+      "Mike Fasolo",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Geoff Johns",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Charles Horn"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Geoff Johns"
+    ],
+    [
+      "Geoff Johns",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Jordan Allen-Dutton"
+    ],
+    [
+      "Robotchicken starwars3 dvd",
+      "common.image.appears_in_topic_gallery",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.produced_by",
+      "Corey Campodonico"
+    ],
+    [
+      "m.010wvf73",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.edited_by",
+      "Matt Mariska"
+    ],
+    [
+      "Dan Milano",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wvfj9",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Hugh Davidson"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.cinematography",
+      "Jeff Gardner"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvf0x"
+    ],
+    [
+      "Matthew Senreich",
+      "film.producer.films_executive_produced",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wv896",
+      "film.film_cut.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wv870",
+      "film.film_cut.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Trilogy",
+      "film.film_series.films_in_series",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvc44"
+    ],
+    [
+      "Tom Root",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "common.topic.article",
+      "m.0g55yqn"
+    ],
+    [
+      "m.010wvd76",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.release_date_s",
+      "m.010wv8j1"
+    ],
+    [
+      "Hugh Davidson",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.genre",
+      "Comedy"
+    ],
+    [
+      "Kevin Shinick",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "m.010wvfh6",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Doug Goldstein",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "common.topic.notable_types",
+      "TV Episode"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Tom Root"
+    ],
+    [
+      "Matthew Senreich",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvbml"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvff9"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Doug Goldstein"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Mike Fasolo"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvd76"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wv9n4"
+    ],
+    [
+      "m.010wv8kx",
+      "film.film_regional_release_date.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.executive_produced_by",
+      "Matthew Senreich"
+    ],
+    [
+      "Matt Mariska",
+      "film.editor.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Tom Root",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Kyle Arneson",
+      "film.film_production_designer.films_production_designed",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "common.topic.image",
+      "Robotchicken starwars3 dvd"
+    ],
+    [
+      "Doug Goldstein",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Dan Milano"
+    ],
+    [
+      "Seth Green",
+      "film.film_story_contributor.film_story_credits",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "freebase.valuenotation.has_no_value",
+      "Sequel"
+    ],
+    [
+      "Zeb Wells",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.film_casting_director",
+      "Ivy Isenberg"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.runtime",
+      "m.010wv896"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.film_production_design_by",
+      "Kyle Arneson"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.written_by",
+      "Breckin Meyer"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "film.writer.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.starring",
+      "m.010wvfj9"
+    ],
+    [
+      "m.010wvff9",
+      "film.performance.film",
+      "Robot Chicken: Star Wars Episode III"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode III",
+      "film.film.music",
+      "Shawn Patterson"
+    ],
+    [
+      "Trisha Gum",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Christina Aguilera",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Judy Garland",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "David Efron",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.reverse_property",
+      "Children"
+    ],
+    [
+      "Hugh Davidson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Taylor Parks",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Allison Janney",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Rasmus Bille Bähncke",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Alexander Bulkley",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Elijah Kelley",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Matthew Senreich",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Elvis Presley",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Sterling Knight",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Jessica Alba",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Dan Milano",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ivy Isenberg",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Drew Seeley",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Tim James",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "owl#inverseOf",
+      "Children"
+    ],
+    [
+      "Tom Root",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kyle Arneson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Brittany Snow",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Ben Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Matthew Gerrard",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Jamie Houston",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Rudolph Valentino",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Monique Coleman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Doug Goldstein",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Seth Green",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Antonina Armato",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Matt Mariska",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Olesya Rulin",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Hugh Sterbakov",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jeff Gardner",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Anna Bingemann",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mike Fasolo",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Robbie Nevil",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jesse McCartney",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "James Marsden",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Kevin Shinick",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Justin Bieber",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Children",
+      "type.property.master_property",
+      "Parents"
+    ],
+    [
+      "Shawn Patterson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Zac Efron",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "John Travolta",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Davy Jones",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Christopher Walken",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Marc Shaiman",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Paula Abdul",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Starla Baskett",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Paul Dooley",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Frank Sinatra",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Christopher Walken",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Corey Campodonico",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Hugh Sterbakov",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Justin Bieber",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Queen Latifah",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "James Marsden",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Neil Sedaka",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jamie Houston",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Michael B. Jordan",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Rasmus Bille Bähncke",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Tommy Sands",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Brittany Snow",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Olesya Rulin",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Starla Baskett",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Amanda Bynes",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Drew Seeley",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Matt Prokop",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Annette Funicello",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Monique Coleman",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Sterling Knight",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Michelle Pfeiffer",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Anna Bingemann",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Ricky Nelson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Donny Osmond",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Charles Horn",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Miles Teller",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jerry Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Paul Anka",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Judy Garland",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tom Root",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Hugh Davidson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Christopher Mintz-Plasse",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Brandon Trost",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jesse McCartney",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Dave Franco",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Allison Janney",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Elvis Presley",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Zac Efron",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Dylan Efron",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Robbie Nevil",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Nikki Blonsky",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ashley Tisdale",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "John Travolta",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Matt Mariska",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Alexander Bulkley",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Rudolph Valentino",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "David Efron",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Zeb Wells",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Kaycee Stroh",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Matthew Gerrard",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Frank Sinatra",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Elijah Kelley",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Christina Aguilera",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ben Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Paula Abdul",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tom Gormican",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Breckin Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Geoff Johns",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Chris Warren, Jr.",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Paul Dooley",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jessica Alba",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Dan Milano",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Trisha Gum",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Taylor Schilling",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Seth Green",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ryne Sanborn",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Vanessa Hudgens",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tim James",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Lucas Grabeel",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jeff Gardner",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Ivy Isenberg",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Corbin Bleu",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Marc Shaiman",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Kyle Arneson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Zac Efron",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Rudolph Valentino",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Vanessa Hudgens",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Ryne Sanborn",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Breckin Meyer",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Ricky Nelson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Frank Sinatra",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Marc Shaiman",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Taylor Schilling",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Fabian",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Donny Osmond",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Chris Warren, Jr.",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jerry Stiller",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Christopher Walken",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "David Cassidy",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Elijah Kelley",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Johnny Crawford",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Amanda Bynes",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Elvis Presley",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Monique Coleman",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Paul Dooley",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Christina Aguilera",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Lucas Grabeel",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Olesya Rulin",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Paul de Leeuw",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jesse McCartney",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Leif Garrett",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Queen Latifah",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Judy Garland",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Brittany Snow",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Shaun Cassidy",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Paula Abdul",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kevin Shinick",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Sterling Knight",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Halston Sage",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Paul Anka",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Taylor Parks",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Nikki Blonsky",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Miles Teller",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "John Travolta",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Christopher Mintz-Plasse",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Allison Janney",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Michael B. Jordan",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Michelle Pfeiffer",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Justin Bieber",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Voice Actor",
+      "people.profession.specialization_of",
+      "Actor"
+    ],
+    [
+      "Hugh Davidson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Drew Seeley",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "James Marsden",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Brandon Trost",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "people.profession.specializations",
+      "Voice Actor"
+    ],
+    [
+      "Annette Funicello",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Miley Cyrus",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Dave Franco",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Davy Jones",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Tommy Sands",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Ashley Tisdale",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jemma McKenzie-Brown",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kaycee Stroh",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jessica Alba",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Seth Green",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Matt Prokop",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Bertrand Russell",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Tom Gormican",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Corbin Bleu",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Ben Stiller",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "David Efron",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Paul Dooley",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ashley Tisdale",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Olesya Rulin",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Matt Prokop",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Christopher Walken",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Dave Franco",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Frank Sinatra",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ben Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Miles Teller",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Marc Shaiman",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jamie Houston",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Vanessa Hudgens",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jeff Gardner",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Paula Abdul",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Hugh Sterbakov",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jessica Alba",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Judy Garland",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Starla Baskett",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Christopher Mintz-Plasse",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Allison Janney",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Corey Campodonico",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Michelle Pfeiffer",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Elvis Presley",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Chris Warren, Jr.",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Annette Funicello",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Sterling Knight",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Tom Gormican",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "James Marsden",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Brandon Trost",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Lucas Grabeel",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Zac Efron",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Seth Green",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Ryne Sanborn",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Alexander Bulkley",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Michael B. Jordan",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jerry Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Kyle Arneson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Tommy Sands",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Trisha Gum",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Elijah Kelley",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Nikki Blonsky",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Monique Coleman",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Drew Seeley",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Queen Latifah",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Brittany Snow",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Taylor Schilling",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Kaycee Stroh",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Corbin Bleu",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jesse McCartney",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Matt Mariska",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Justin Bieber",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Neil Sedaka",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Dan Milano",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Robbie Nevil",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Tim James",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "John Travolta",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Christina Aguilera",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Breckin Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Amanda Bynes",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Geoff Johns",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ricky Nelson",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Leonardo DiCaprio",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "John Travolta",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Breckin Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michael B. Jordan",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Nikki Blonsky",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Allison Janney",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Queen Latifah",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Frank Sinatra",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Kaycee Stroh",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Lucas Grabeel",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Judy Garland",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Monique Coleman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Christina Aguilera",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Christopher Mintz-Plasse",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Matthew Gerrard",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Vanessa Hudgens",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Paula Abdul",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jerry Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Elijah Kelley",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Paul Anka",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Taylor Schilling",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jessica Alba",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#range",
+      "Gender"
+    ],
+    [
+      "James Marsden",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tim James",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Sterling Knight",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Chris Warren, Jr.",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Dan Milano",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Elvis Presley",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Corbin Bleu",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Miles Teller",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.expected_type",
+      "Gender"
+    ],
+    [
+      "Tommy Sands",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Donny Osmond",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ben Stiller",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Olesya Rulin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ashley Tisdale",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Seth Green",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Marc Shaiman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Justin Bieber",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Zac Efron",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Dave Franco",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Trisha Gum",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Matt Prokop",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Drew Seeley",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Christopher Walken",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Geoff Johns",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Rudolph Valentino",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jesse McCartney",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Brandon Trost",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Paul Dooley",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ricky Nelson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ryne Sanborn",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ivy Isenberg",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Annette Funicello",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Robbie Nevil",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Amanda Bynes",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Brittany Snow",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michelle Pfeiffer",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Neil Sedaka",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Breckin Meyer",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "m.0j8hn_1",
+      "common.image.appears_in_topic_gallery",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "m.09y3wpt",
+      "common.webpage.topic",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Seth Green",
+      "tv.tv_director.episodes_directed",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars Episode II",
+      "film.film.prequel",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Mike Fasolo",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "common.topic.webpage",
+      "m.09y3wpt"
+    ],
+    [
+      "m.09y3pk5",
+      "common.webpage.topic",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Hugh Sterbakov",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "common.topic.article",
+      "m.0j8hn_w"
+    ],
+    [
+      "Matthew Senreich",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Tom Root",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "common.topic.notable_for",
+      "g.1259hgdh5"
+    ],
+    [
+      "Jordan Allen-Dutton",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "film.film.film_series",
+      "Robot Chicken: Star Wars Trilogy"
+    ],
+    [
+      "Seth Green",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Doug Goldstein",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "common.topic.image",
+      "m.0j8hn_1"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "film.film.sequel",
+      "Robot Chicken: Star Wars Episode II"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "common.topic.article",
+      "m.02rj954"
+    ],
+    [
+      "Charles Horn",
+      "tv.tv_writer.episodes_written",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "common.topic.webpage",
+      "m.09y3pk5"
+    ],
+    [
+      "Robot Chicken: Star Wars Trilogy",
+      "film.film_series.films_in_series",
+      "Robot Chicken: Star Wars"
+    ],
+    [
+      "Robot Chicken: Star Wars",
+      "common.topic.notable_types",
+      "TV Episode"
+    ]
+  ]
+}

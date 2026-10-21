@@ -1,0 +1,1710 @@
+{
+  "graph_id": 2987,
+  "subgraph": [
+    [
+      "Sports League Season",
+      "freebase.type_hints.included_types",
+      "Event"
+    ],
+    [
+      "Event",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Sports League Season",
+      "freebase.type_profile.strict_included_types",
+      "Event"
+    ],
+    [
+      "Event",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Event",
+      "freebase.type_profile.strict_included_types",
+      "Non-Agent"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_hints.included_types",
+      "Event"
+    ],
+    [
+      "Event",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_profile.strict_included_types",
+      "Event"
+    ],
+    [
+      "Sports League Championship",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Sports League Championship",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Professional Sports Team",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Mascot",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Sports League Season",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Professional Sports Team",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Mascot",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Sports League Season",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Mascot",
+      "type.type.expected_by",
+      "sports_team_mascot"
+    ],
+    [
+      "Mascot",
+      "type.type.expected_by",
+      "Team Mascot"
+    ],
+    [
+      "Team",
+      "rdf-schema#domain",
+      "Mascot"
+    ],
+    [
+      "Mascot",
+      "freebase.documented_object.documentation",
+      "m.02ht4bx"
+    ],
+    [
+      "Lucky the Leprechaun",
+      "common.topic.notable_types",
+      "Mascot"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Mascot"
+    ],
+    [
+      "Mascot",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Mascot",
+      "common.topic.article",
+      "m.02ht4bx"
+    ],
+    [
+      "Mascot",
+      "freebase.type_profile.equivalent_topic",
+      "Mascot"
+    ],
+    [
+      "Mascot",
+      "freebase.type_profile.kind",
+      "Title"
+    ],
+    [
+      "Team Mascot",
+      "type.property.expected_type",
+      "Mascot"
+    ],
+    [
+      "Mascot",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Team",
+      "type.property.schema",
+      "Mascot"
+    ],
+    [
+      "Team Mascot",
+      "rdf-schema#range",
+      "Mascot"
+    ],
+    [
+      "Mascot",
+      "type.type.properties",
+      "Team"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship"
+    ],
+    [
+      "Sports League Championship",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Events",
+      "type.property.schema",
+      "Sports League Championship"
+    ],
+    [
+      "Sports League Championship",
+      "type.type.properties",
+      "Events"
+    ],
+    [
+      "Sports League Championship",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Sports League Championship",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Sports League Championship",
+      "type.type.expected_by",
+      "Championship"
+    ],
+    [
+      "Sports League Championship",
+      "freebase.type_profile.strict_included_types",
+      "Non-Agent"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sports League Championship"
+    ],
+    [
+      "Events",
+      "rdf-schema#domain",
+      "Sports League Championship"
+    ],
+    [
+      "Sports League Season",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sports League Season"
+    ],
+    [
+      "Sports League Season",
+      "type.type.properties",
+      "Championship"
+    ],
+    [
+      "Sports League Season",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Sports League Season",
+      "type.type.expected_by",
+      "Season"
+    ],
+    [
+      "2009–10 NBA season",
+      "common.topic.notable_types",
+      "Sports League Season"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_profile.strict_included_types",
+      "Non-Agent"
+    ],
+    [
+      "1976 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1956 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.expected_by",
+      "Championship"
+    ],
+    [
+      "2002 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Events",
+      "rdf-schema#range",
+      "Sports League Championship Event"
+    ],
+    [
+      "1974 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2007 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1970 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1996 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1951 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1985 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1950 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1971 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1982 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1969 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1960 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1987 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2005 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Championships",
+      "rdf-schema#range",
+      "Sports League Championship Event"
+    ],
+    [
+      "1991 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2000 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2011 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1947 BAA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1981 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.properties",
+      "Championship"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.properties",
+      "Champion"
+    ],
+    [
+      "2006 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1979 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1975 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2013 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1965 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1952 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1997 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1983 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1980 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2012 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1984 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1968 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2014 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1986 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1993 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.properties",
+      "Runner-up"
+    ],
+    [
+      "1961 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2004 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2010 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.expected_by",
+      "Championships"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.expected_by",
+      "sports_undefined"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "1966 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "freebase.type_profile.kind",
+      "Description"
+    ],
+    [
+      "1972 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1963 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.properties",
+      "Result"
+    ],
+    [
+      "1990 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2008 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1962 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1948 NBL Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2003 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1957 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1992 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1959 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1953 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1948 BAA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1967 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1998 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1949 BAA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1994 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1989 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1999 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2009 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "2001 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1954 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "1955 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.expected_by",
+      "Events"
+    ],
+    [
+      "Championships",
+      "type.property.expected_type",
+      "Sports League Championship Event"
+    ],
+    [
+      "1958 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1973 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1977 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1964 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1988 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1995 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "1978 NBA Finals",
+      "common.topic.notable_types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.properties",
+      "Season"
+    ],
+    [
+      "Sports League Championship Event",
+      "common.topic.article",
+      "m.02_xg_3"
+    ],
+    [
+      "Events",
+      "type.property.expected_type",
+      "Sports League Championship Event"
+    ],
+    [
+      "Boston Celtics",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Los Angeles Lakers",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Professional Sports Team"
+    ],
+    [
+      "Professional Sports Team",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Team Mascot",
+      "owl#inverseOf",
+      "Team"
+    ],
+    [
+      "Team Mascot",
+      "type.property.reverse_property",
+      "Team"
+    ],
+    [
+      "Team",
+      "type.property.master_property",
+      "Team Mascot"
+    ],
+    [
+      "Lucky the Leprechaun",
+      "common.topic.image",
+      "Lucky-The-Leprechaun.jpg"
+    ],
+    [
+      "Lucky-The-Leprechaun.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Lucky the Leprechaun"
+    ],
+    [
+      "Lucky the Leprechaun",
+      "common.topic.article",
+      "m.0jvt57q"
+    ],
+    [
+      "Lucky the Leprechaun",
+      "sports.mascot.team",
+      "Boston Celtics"
+    ],
+    [
+      "Boston Celtics",
+      "sports.sports_team.team_mascot",
+      "Lucky the Leprechaun"
+    ],
+    [
+      "Lucky the Leprechaun",
+      "common.topic.notable_for",
+      "g.1257jmbbb"
+    ],
+    [
+      "2011 NBA Finals",
+      "time.event.instance_of_recurring_event",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2000 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "freebase.valuenotation.is_reviewed",
+      "Date of first occurrence"
+    ],
+    [
+      "2014 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1990 NBA Finals"
+    ],
+    [
+      "1969 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1959 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "National Basketball Association",
+      "sports.sports_league.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2014 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2005 NBA Finals"
+    ],
+    [
+      "2002 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1953 NBA Finals"
+    ],
+    [
+      "1973 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "time.recurring_event.instances",
+      "2011 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1954 NBA Finals"
+    ],
+    [
+      "2012 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.webpage",
+      "m.09wdcm7"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2006 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1964 NBA Finals"
+    ],
+    [
+      "1986 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1996 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1960 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.webpage",
+      "m.09wdc12"
+    ],
+    [
+      "1949 BAA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1973 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.webpage",
+      "m.09w74wk"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1963 NBA Finals"
+    ],
+    [
+      "1980 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "2013 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1970 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.webpage",
+      "m.09wzs_4"
+    ],
+    [
+      "2014 NBA Finals",
+      "time.event.instance_of_recurring_event",
+      "The NBA Finals"
+    ],
+    [
+      "2006 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.article",
+      "m.03m5xb"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2012 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1985 NBA Finals"
+    ],
+    [
+      "1991 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1982 NBA Finals"
+    ],
+    [
+      "1972 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1948 BAA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1960 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2009 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1956 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2013 NBA Finals"
+    ],
+    [
+      "1993 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1948 BAA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1965 NBA Finals"
+    ],
+    [
+      "1954 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1985 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2001 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1998 NBA Finals"
+    ],
+    [
+      "1983 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "2008 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1947 BAA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1987 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1989 NBA Finals"
+    ],
+    [
+      "2013 NBA Finals",
+      "time.event.instance_of_recurring_event",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1984 NBA Finals"
+    ],
+    [
+      "1976 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2008 NBA Finals"
+    ],
+    [
+      "1965 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1987 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.league",
+      "National Basketball Association"
+    ],
+    [
+      "1999 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1994 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "base.popstra.business_location.customer",
+      "m.064wg_z"
+    ],
+    [
+      "2003 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1961 NBA Finals"
+    ],
+    [
+      "1961 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1983 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1959 NBA Finals"
+    ],
+    [
+      "2001 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "m.0b4992q",
+      "common.webpage.topic",
+      "The NBA Finals"
+    ],
+    [
+      "1988 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1996 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1979 NBA Finals"
+    ],
+    [
+      "2004 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "2000 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1958 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "m.09wytr4",
+      "common.webpage.topic",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1968 NBA Finals"
+    ],
+    [
+      "1971 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2004 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1962 NBA Finals"
+    ],
+    [
+      "m.09wzs_4",
+      "common.webpage.topic",
+      "The NBA Finals"
+    ],
+    [
+      "1966 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2010 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1997 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "freebase.valuenotation.is_reviewed",
+      "Current frequency"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.notable_for",
+      "g.1254y3jh4"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1970 NBA Finals"
+    ],
+    [
+      "m.09wdc12",
+      "common.webpage.topic",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.webpage",
+      "m.09wytr4"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1972 NBA Finals"
+    ],
+    [
+      "1951 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1968 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1984 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "2005 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1974 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1998 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1957 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2011 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2002 NBA Finals"
+    ],
+    [
+      "1995 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1971 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2003 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1995 NBA Finals"
+    ],
+    [
+      "1964 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1952 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1950 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1949 BAA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "time.recurring_event.instances",
+      "2014 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1947 BAA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1999 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "time.recurring_event.instances",
+      "2013 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1978 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1974 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1977 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1975 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1950 NBA Finals"
+    ],
+    [
+      "2009 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1975 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "time.recurring_event.current_frequency",
+      "Yearly"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1992 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1991 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.webpage",
+      "m.0b4992q"
+    ],
+    [
+      "1981 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1967 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "time.recurring_event.instances",
+      "2012 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "common.topic.webpage",
+      "m.09wddf9"
+    ],
+    [
+      "1955 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1967 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1982 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1957 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1966 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "2007 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1969 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1988 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1993 NBA Finals"
+    ],
+    [
+      "1979 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1986 NBA Finals"
+    ],
+    [
+      "1977 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1963 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1953 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1955 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "freebase.valuenotation.has_no_value",
+      "Date of final occurrence"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1958 NBA Finals"
+    ],
+    [
+      "1989 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "2010 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1976 NBA Finals"
+    ],
+    [
+      "2011 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1980 NBA Finals"
+    ],
+    [
+      "1992 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1978 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "m.064wg_z",
+      "base.popstra.hangout.business_location",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1951 NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1952 NBA Finals"
+    ],
+    [
+      "m.09w74wk",
+      "common.webpage.topic",
+      "The NBA Finals"
+    ],
+    [
+      "1997 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "2012 NBA Finals",
+      "time.event.instance_of_recurring_event",
+      "The NBA Finals"
+    ],
+    [
+      "1962 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1994 NBA Finals"
+    ],
+    [
+      "m.09wdcm7",
+      "common.webpage.topic",
+      "The NBA Finals"
+    ],
+    [
+      "1990 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "1956 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "2007 NBA Finals",
+      "sports.sports_championship_event.championship",
+      "The NBA Finals"
+    ],
+    [
+      "The NBA Finals",
+      "sports.sports_championship.events",
+      "1981 NBA Finals"
+    ],
+    [
+      "m.09wddf9",
+      "common.webpage.topic",
+      "The NBA Finals"
+    ],
+    [
+      "Events",
+      "type.property.reverse_property",
+      "Championship"
+    ],
+    [
+      "Events",
+      "owl#inverseOf",
+      "Championship"
+    ],
+    [
+      "2014 NBA Finals",
+      "freebase.valuenotation.is_reviewed",
+      "Championship"
+    ],
+    [
+      "2014 NBA Finals",
+      "freebase.valuenotation.is_reviewed",
+      "Season"
+    ],
+    [
+      "2010 NBA Finals",
+      "sports.sports_championship_event.season",
+      "2009–10 NBA season"
+    ],
+    [
+      "2009–10 NBA season",
+      "sports.sports_league_season.championship",
+      "2010 NBA Finals"
+    ],
+    [
+      "2009–10 NBA season",
+      "common.topic.image",
+      "Jordan Lipofsky"
+    ],
+    [
+      "2009–10 NBA season",
+      "sports.sports_league_season.awards",
+      "m.0_qrm1m"
+    ],
+    [
+      "m.0j31td5",
+      "sports.sports_award.season",
+      "2009–10 NBA season"
+    ],
+    [
+      "m.0_qrm1m",
+      "sports.sports_award.season",
+      "2009–10 NBA season"
+    ],
+    [
+      "2009–10 NBA season",
+      "sports.sports_league_season.awards",
+      "m.0y4l8_m"
+    ],
+    [
+      "2009–10 NBA season",
+      "common.topic.article",
+      "m.05zwpx2"
+    ],
+    [
+      "m.0y4l8_m",
+      "sports.sports_award.season",
+      "2009–10 NBA season"
+    ],
+    [
+      "m.0cr2jqf",
+      "basketball.basketball_team_stats.season",
+      "2009–10 NBA season"
+    ],
+    [
+      "National Basketball Association",
+      "sports.sports_league.seasons",
+      "2009–10 NBA season"
+    ],
+    [
+      "2009–10 NBA season",
+      "sports.sports_league_season.league",
+      "National Basketball Association"
+    ],
+    [
+      "m.0y4sbmz",
+      "sports.sports_award.season",
+      "2009–10 NBA season"
+    ],
+    [
+      "2009–10 NBA season",
+      "sports.sports_league_season.awards",
+      "m.0j31td5"
+    ],
+    [
+      "Jordan Lipofsky",
+      "common.image.appears_in_topic_gallery",
+      "2009–10 NBA season"
+    ],
+    [
+      "2009–10 NBA season",
+      "common.topic.notable_for",
+      "g.1258bjxwr"
+    ],
+    [
+      "2009–10 NBA season",
+      "sports.sports_league_season.awards",
+      "m.0y4sbmz"
+    ]
+  ]
+}

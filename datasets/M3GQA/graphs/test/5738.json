@@ -1,0 +1,3260 @@
+{
+  "graph_id": 5738,
+  "subgraph": [
+    [
+      "m.052mzq7",
+      "travel.transportation.travel_destination",
+      "San Diego"
+    ],
+    [
+      "San Diego",
+      "location.hud_county_place.place",
+      "San Diego"
+    ],
+    [
+      "San Diego County",
+      "location.us_county.hud_county_place",
+      "San Diego"
+    ],
+    [
+      "Moss Lee Love",
+      "people.deceased_person.place_of_death",
+      "San Diego"
+    ],
+    [
+      "San Diego",
+      "location.location.containedby",
+      "San Diego–Tijuana"
+    ],
+    [
+      "San Diego–Tijuana",
+      "location.location.contains",
+      "San Diego"
+    ],
+    [
+      "San Diego",
+      "location.hud_county_place.county",
+      "San Diego County"
+    ],
+    [
+      "San Diego County",
+      "location.us_county.county_seat",
+      "San Diego"
+    ],
+    [
+      "Ashford University",
+      "organization.organization.geographic_scope",
+      "San Diego"
+    ],
+    [
+      "Ashford University",
+      "location.location.containedby",
+      "San Diego"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "San Diego"
+    ],
+    [
+      "San Diego",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "San Diego",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "San Diego",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Ashford University"
+    ],
+    [
+      "San Diego",
+      "location.location.containedby",
+      "San Diego County"
+    ],
+    [
+      "San Diego",
+      "travel.travel_destination.how_to_get_here",
+      "m.052mzq7"
+    ],
+    [
+      "San Diego",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "San Diego",
+      "location.location.nearby_airports",
+      "San Diego International Airport"
+    ],
+    [
+      "Virgin America",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Virgin America"
+    ],
+    [
+      "Virgin America",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Virgin America"
+    ],
+    [
+      "Virgin America",
+      "aviation.airline.focus_cities",
+      "San Diego International Airport"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.focus_city_for",
+      "Virgin America"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.focus_city_for",
+      "Virgin America"
+    ],
+    [
+      "Virgin America",
+      "aviation.airline.focus_cities",
+      "McCarran International Airport"
+    ],
+    [
+      "Virgin America",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Ashford University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "San Diego County",
+      "location.location.contains_major_portion_of",
+      "Ashford University"
+    ],
+    [
+      "Ashford University",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Ashford University",
+      "location.location.nearby_airports",
+      "San Diego International Airport"
+    ],
+    [
+      "Ashford University",
+      "education.educational_institution_campus.educational_institution",
+      "Ashford University"
+    ],
+    [
+      "Ashford University",
+      "education.educational_institution.campuses",
+      "Ashford University"
+    ],
+    [
+      "Ashford University",
+      "location.location.primarily_containedby",
+      "San Diego County"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Ashford University"
+    ],
+    [
+      "San Diego International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052mzq7"
+    ],
+    [
+      "m.052mzq7",
+      "travel.transportation.mode_of_transportation",
+      "Air travel"
+    ],
+    [
+      "m.052mzq7",
+      "travel.transportation.transport_terminus",
+      "San Diego International Airport"
+    ],
+    [
+      "San Diego County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "San Diego County",
+      "location.us_county.hud_county_place",
+      "Valley Center"
+    ],
+    [
+      "Valley Center",
+      "location.location.containedby",
+      "San Diego County"
+    ],
+    [
+      "Park Hyatt Resort Aviara",
+      "location.location.containedby",
+      "San Diego County"
+    ],
+    [
+      "San Diego International Airport",
+      "location.location.containedby",
+      "San Diego County"
+    ],
+    [
+      "San Diego County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Valley Center",
+      "location.hud_county_place.county",
+      "San Diego County"
+    ],
+    [
+      "San Diego County",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Moss Lee Love",
+      "symbols.name_source.namesakes",
+      "Dallas Love Field"
+    ],
+    [
+      "Dallas Love Field",
+      "symbols.namesake.named_after",
+      "Moss Lee Love"
+    ],
+    [
+      "San Diego–Tijuana",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "San Diego–Tijuana"
+    ],
+    [
+      "San Diego–Tijuana",
+      "location.location.nearby_airports",
+      "San Diego International Airport"
+    ],
+    [
+      "San Diego–Tijuana",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Courtyard San Diego Sorrento Mesa/La Jolla"
+    ],
+    [
+      "San Diego International Airport",
+      "location.location.geolocation",
+      "m.02_jgn3"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Residence Inn San Juan Capistrano"
+    ],
+    [
+      "Valley Center",
+      "location.location.nearby_airports",
+      "San Diego International Airport"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.focus_cities",
+      "San Diego International Airport"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Park Hyatt Resort Aviara"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.hub_for",
+      "Southwest Airlines"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Valley Center"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.hub_for",
+      "West Air"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.focus_city_for",
+      "Southwest Airlines"
+    ],
+    [
+      "San Diego International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Coronado Island Marriott Resort & Spa"
+    ],
+    [
+      "San Diego International Airport",
+      "common.topic.notable_for",
+      "g.1256hz043"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Tower23 Hotel"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.hub_for",
+      "SeaPort Airlines"
+    ],
+    [
+      "San Diego International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "m.03lbmb6",
+      "common.webpage.topic",
+      "San Diego International Airport"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Courtyard Irvine John Wayne Airport/Orange County"
+    ],
+    [
+      "Pacific Southwest Airlines",
+      "aviation.airline.hubs",
+      "San Diego International Airport"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.serves",
+      "Residence Inn San Diego Rancho Bernardo/Carmel Mountain Ranch"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.hubs",
+      "San Diego International Airport"
+    ],
+    [
+      "San Diego International Airport",
+      "common.topic.article",
+      "m.01n2wl"
+    ],
+    [
+      "San Diego International Airport",
+      "common.topic.webpage",
+      "m.03lbmb6"
+    ],
+    [
+      "San Diego International Airport",
+      "aviation.airport.hub_for",
+      "Pacific Southwest Airlines"
+    ],
+    [
+      "West Air",
+      "aviation.airline.hubs",
+      "San Diego International Airport"
+    ],
+    [
+      "Park Hyatt Resort Aviara",
+      "location.location.nearby_airports",
+      "San Diego International Airport"
+    ],
+    [
+      "Baltimore",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Mexico"
+    ],
+    [
+      "Louis Caldera",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Tampa International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Orlando International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Houston Marriott Medical Center",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0plzpnn",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "St. Louis County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Colorado"
+    ],
+    [
+      "San Jose State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maryland"
+    ],
+    [
+      "Robert Morris",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Phoenix",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bob Hope Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "Baltimore",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "St. Louis",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "St. Louis",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "JW Marriott Houston",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Orlando",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Denver",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0plzn33",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "St. Louis",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Eric Steelberg",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Nashville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "William P. Hobby",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0plzq91",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "Up in the Air",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Norman Mineta",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Capitol Hill",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Albuquerque International Sunport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Albert Bond Lambert",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Philadelphia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Daniel Dubiecki",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Renaissance Houston Greenway Plaza Hotel",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Sarasota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Airplane!",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Baltimore–Washington International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Platte County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Oakland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Robert R. Wright",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Colorado"
+    ],
+    [
+      "Nashville International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Dallas Love Field",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Sarasota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Houston",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Philadelphia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Prince George's County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.0mycl1_",
+      "common.phone_number.service_location",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Colorado"
+    ],
+    [
+      "Philadelphia International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "San Jose International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Glen Burnie",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0plzlt1",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "m.0plzr6w",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "Kansas City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Walter Kirn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kansas City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0_gj_z0",
+      "common.phone_number.service_location",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Denver",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "California Institute of Technology",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0w22qkd",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "John C. Tune Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Clearwater Beach",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Albuquerque",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "John T. Montford",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Sacramento",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "University of Colorado Boulder",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Simeone Foundation Automotive Museum",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "Kansas City International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dallas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Tom Pollock",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Linthicum",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Chicago Midway International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maryland"
+    ],
+    [
+      "Dallas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Mexico"
+    ],
+    [
+      "Saint Louis University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Electronic Labyrinth: THX 1138 4EB",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "m.0plzlgx",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "m.0plzqn0",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Washington metropolitan area",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tampa",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Oakland International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "James Fallows",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "San Jose",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Dana E. Glauberman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Baltimore",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Dead Heat on a Merry-Go-Round",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hyatt Regency Chicago",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Valley Center",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jodi Wincheski",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "El Paso",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Koyaanisqatsi",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Logan International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "75235",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maryland"
+    ],
+    [
+      "Ernest A. Love Field",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "m.09j2mr_",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Las Vegas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Detroit Metropolitan Wayne County Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mindy Marin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Oakland",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Raleigh–Durham International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "Will Nicholson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "Tampa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Colleen Barrett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0plznq8",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "Jackson County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hillsborough County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Las Vegas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "McCarran International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.capital",
+      "Washington, D.C."
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Chicago"
+    ],
+    [
+      "m.010q_r4c",
+      "internet.localized_uri.location",
+      "United States of America"
+    ],
+    [
+      "High Anxiety",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0plzq22",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "Lambert–St. Louis International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Mexico"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Washington, D.C."
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Mexico"
+    ],
+    [
+      "Clay County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Denver",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "Albuquerque",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "75235",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Thurgood Marshall",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Linda Lee Sutton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Christie Volkmer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cass County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Nashville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "m.0plzls4",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "Prescott",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Sacramento",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Colorado"
+    ],
+    [
+      "William P. Hobby Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Gary C. Kelly",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Walter Kirn",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Sacramento International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Speed",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "R (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Houston",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0plzpgj",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "m.0gl9wbk",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Renaissance Dallas Hotel",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Denver International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ted Griffin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "m.0plzn__",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Orlando",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Shimer College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Anne Arundel County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Herb Kelleher",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jason Reitman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.03v5h9q",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Pat McCarran",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alameda County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "Phoenix",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "San Jose State University",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Las Vegas",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Sacramento",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Baltimore–Washington Metropolitan Area",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Valley Center",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Veterans Memorial Auditorium",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Greater Los Angeles Area",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "San Jose Marriott",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Park Hyatt Resort Aviara",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Santa Clara Marriott",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Los Angeles",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "San Jose",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Oakland",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Alameda County",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Pacific Southwest Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wvw72",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "MBSF - Private Jets"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "America West Express"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Braniff International Airways"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "California Institute of Technology"
+    ],
+    [
+      "m.09x3jx7",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "V Australia"
+    ],
+    [
+      "Speed",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Atlas Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09w3r9s"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfz9"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Avianca El Salvador"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Pan American World Airways"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "America West Express"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "United p.s."
+    ],
+    [
+      "TWA Flight 128",
+      "time.event.locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Envoy Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Alaska Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Laguna Hills Irvine Spectrum/Orange County"
+    ],
+    [
+      "m.09w3r9s",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.063wn6r",
+      "base.popstra.arrest.location",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard San Diego Sorrento Mesa/La Jolla"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.popstra.location.arrestee",
+      "m.063wn6r"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09yk8rc"
+    ],
+    [
+      "m.09yqdq3",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.notable_for",
+      "g.1258t5xjw"
+    ],
+    [
+      "United Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wy1q7"
+    ],
+    [
+      "Public airport",
+      "aviation.airport_type.airports_of_this_type",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Ted"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_l36vc"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Wings West Airlines"
+    ],
+    [
+      "Koyaanisqatsi",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wpvq1",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Western Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Mexicana de Aviación"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Flying Tiger Line"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "United p.s."
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Camarillo"
+    ],
+    [
+      "Pan American World Airways",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Southwest Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.03l722l"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Veterans Memorial Auditorium",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wv7n6",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Great Lakes Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Polar Air Cargo"
+    ],
+    [
+      "United p.s.",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.0b46t_0",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5mp"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "TWA Flight 128",
+      "aviation.airliner_accident.flight_origin",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.063v5j4",
+      "base.popstra.arrest.location",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wpwhb",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfzz"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Air New Zealand"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Dead Heat on a Merry-Go-Round"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09x4hqq"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wty8v"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wpvq1"
+    ],
+    [
+      "m.03l722l",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Los Angeles Torrance/Palos Verdes"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Airplane!"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfzj"
+    ],
+    [
+      "Horizon Air",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Kalitta Air"
+    ],
+    [
+      "m.07nf9gl",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Pet Airways"
+    ],
+    [
+      "Alaska Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.events",
+      "2013 Los Angeles International Airport shooting"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Allegiant Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wpwhb"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5bz"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Speed"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Huntington Beach Fountain Valley"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.059qk3b"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "American Eagle"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "California Institute of Technology",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Avianca El Salvador",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Ted",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Southwest Airlines"
+    ],
+    [
+      "m.09x4hqq",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Electronic Labyrinth: THX 1138 4EB"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09yqdq3"
+    ],
+    [
+      "m.02kwfzz",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "American Airlines"
+    ],
+    [
+      "m.09w83j7",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Delta Air Lines"
+    ],
+    [
+      "m.02kwf_c",
+      "measurement_unit.dated_integer.source",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Pacific Southwest Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "book.book_subject.musical_compositions_about_this_topic",
+      "L.A. International Airport"
+    ],
+    [
+      "Greater Los Angeles Area",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "United Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.geolocation",
+      "m.049xwt7"
+    ],
+    [
+      "m.062t7mw",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airport_type",
+      "Public airport"
+    ],
+    [
+      "United Express",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "L'Ermitage Beverly Hills",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Allegiant Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Volaris"
+    ],
+    [
+      "m.052lsk3",
+      "travel.transportation.transport_terminus",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09x3jx7"
+    ],
+    [
+      "Airplane!",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Fairfield Inn Anaheim Disneyland Resort"
+    ],
+    [
+      "m.0y5b5bz",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Compass Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Irvine Spectrum"
+    ],
+    [
+      "m.02kwfzr",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.events",
+      "2002 Los Angeles International Airport shooting"
+    ],
+    [
+      "Atlas Air",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Great Lakes Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.02kwfz9",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5f6"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Koyaanisqatsi"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Trans World Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "SpringHill Suites Los Angeles LAX/Manhattan Beach"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Horizon Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.0b46t_0"
+    ],
+    [
+      "m.09wy1q7",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.popstra.location.arrestee",
+      "m.063v5j4"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Veterans Memorial Auditorium"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.events",
+      "TWA Flight 128"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wvw72"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "United Express"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Qantas"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Irvine John Wayne Airport/Orange County"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.article",
+      "m.04lyv"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5kb"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.062t7mw"
+    ],
+    [
+      "High Anxiety",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Air New Zealand",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wty8v",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.02kwfzj",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09w83j7"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "L'Ermitage Beverly Hills"
+    ],
+    [
+      "Dead Heat on a Merry-Go-Round",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Delta Air Lines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.notable_types",
+      "Transport terminus"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wv7n6"
+    ],
+    [
+      "m.09yk8rc",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Delta Air Lines",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "American Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Greater Los Angeles Area"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Foothill Ranch Irvine East"
+    ],
+    [
+      "Electronic Labyrinth: THX 1138 4EB",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.image",
+      "LAX LA"
+    ],
+    [
+      "m.059qk3b",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Costa Mesa South Coast Metro"
+    ],
+    [
+      "Qantas",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "High Anxiety"
+    ],
+    [
+      "m.0y5b5mp",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052lsk3"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "JW Marriott Los Angeles L.A. LIVE"
+    ],
+    [
+      "United p.s.",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfzr"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Los Angeles LAX/El Segundo"
+    ],
+    [
+      "m.0y5b5f6",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Delta Connection"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.number_of_passengers",
+      "m.02kwf_c"
+    ],
+    [
+      "m.0y5b5kb",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf9gl"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Camarillo"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "ICAO designator"
+    ],
+    [
+      "WestJet",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "ExpressJet",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Ted",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "WestJet",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "UAL Corporation",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Callsign"
+    ],
+    [
+      "Airline",
+      "business.industry.child_industry",
+      "Air Transportation, Scheduled (passenger)"
+    ],
+    [
+      "Ted",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "ATA Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Hub for",
+      "rdf-schema#range",
+      "Airline"
+    ],
+    [
+      "United Express",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Business Operation"
+    ],
+    [
+      "Pan American World Airways",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.domain",
+      "Aviation"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "IATA airline designator"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w3hj5"
+    ],
+    [
+      "Focus city for",
+      "type.property.expected_type",
+      "Airline"
+    ],
+    [
+      "Qantas",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Airports Served"
+    ],
+    [
+      "Cathay Pacific",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Focus cities",
+      "type.property.schema",
+      "Airline"
+    ],
+    [
+      "SkyWest Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Alliance"
+    ],
+    [
+      "Aer Lingus",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "SkyWest Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Norwegian Air Shuttle",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "organization.organization_sector.organizations_in_this_sector",
+      "American Eagle"
+    ],
+    [
+      "Cathay Pacific",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "MetroJet",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "AirTran Holdings",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Song",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Norwegian Air Shuttle",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Airline"
+    ],
+    [
+      "US Airways",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Delta Air Lines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "US Airways",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "West Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Hubs"
+    ],
+    [
+      "Qantas",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "common.topic.article",
+      "m.021ys49"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Fleet size"
+    ],
+    [
+      "Airline",
+      "common.topic.notable_types",
+      "Industry"
+    ],
+    [
+      "Airline",
+      "freebase.documented_object.documentation",
+      "m.021ys49"
+    ],
+    [
+      "Horizon Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "U.S. Domestic Airline",
+      "business.competitive_space.related_industries",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.strict_included_types",
+      "Business Operation"
+    ],
+    [
+      "AirTran Airways",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "UPS Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Aviation",
+      "type.domain.types",
+      "Airline"
+    ],
+    [
+      "Hubs",
+      "type.property.schema",
+      "Airline"
+    ],
+    [
+      "Alaska Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "PSA Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Frequent flyer program"
+    ],
+    [
+      "Air New Zealand",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Focus city for"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Member airlines"
+    ],
+    [
+      "Pan American World Airways",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Atlas Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "AirNet Systems, Inc.",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "IATA designator"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Number of destinations"
+    ],
+    [
+      "Delta Air Lines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Great Lakes Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "American Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Focus cities"
+    ],
+    [
+      "Air New Zealand",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "operating_airline"
+    ],
+    [
+      "United Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Southwest Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Continental Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "ICAO Airline designator"
+    ],
+    [
+      "Airline",
+      "freebase.equivalent_topic.equivalent_type",
+      "Airline"
+    ],
+    [
+      "JetBlue",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Hub for",
+      "type.property.expected_type",
+      "Airline"
+    ],
+    [
+      "West Air",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "ATA Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.equivalent_topic",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b1p3m"
+    ],
+    [
+      "PSA Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Continental Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01064ssd"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01064t3w"
+    ],
+    [
+      "JetBlue",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "American Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Aircraft Owner"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Operator"
+    ],
+    [
+      "Air Canada",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Focus city for",
+      "rdf-schema#range",
+      "Airline"
+    ],
+    [
+      "FedEx Express",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Avianca El Salvador",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Airlines"
+    ],
+    [
+      "Great Lakes Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Ameriflight",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "ExpressJet",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Piedmont Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Pacific Southwest Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "AirTran Airways",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Endeavor Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Air Canada",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Republic Airways Holdings",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Southwest Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Avianca El Salvador",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Hub for"
+    ],
+    [
+      "MetroJet",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Accidents"
+    ],
+    [
+      "Hubs",
+      "rdf-schema#domain",
+      "Airline"
+    ],
+    [
+      "Focus cities",
+      "rdf-schema#domain",
+      "Airline"
+    ],
+    [
+      "Pacific Southwest Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "West Air",
+      "aviation.airline.hubs",
+      "McCarran International Airport"
+    ],
+    [
+      "WestJet",
+      "aviation.airline.focus_cities",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "Key Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.serves",
+      "JW Marriott Las Vegas"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.focus_city_for",
+      "US Airways"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "National Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "Southwest Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "Great Lakes Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "common.topic.article",
+      "m.01mz2q"
+    ],
+    [
+      "Pat McCarran",
+      "symbols.name_source.namesakes",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "Allegiant Air"
+    ],
+    [
+      "m.0cc2bm1",
+      "aviation.aviation_incident_aircraft_relationship.flight_destination",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "common.topic.notable_for",
+      "g.125bxt4rn"
+    ],
+    [
+      "Paradise",
+      "location.location.nearby_airports",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "symbols.namesake.named_after",
+      "Pat McCarran"
+    ],
+    [
+      "McCarran International Airport",
+      "location.location.geolocation",
+      "m.02_jg68"
+    ],
+    [
+      "m.03lbkyk",
+      "common.webpage.topic",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052v776"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.hubs",
+      "McCarran International Airport"
+    ],
+    [
+      "m.09x0dvx",
+      "common.webpage.topic",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "Janet"
+    ],
+    [
+      "McCarran International Airport",
+      "metropolitan_transit.transit_stop.transit_lines",
+      "Route 109 - Maryland Parkway"
+    ],
+    [
+      "Southwest Airlines Flight 1248",
+      "aviation.airliner_accident.flight_destination",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.focus_city_for",
+      "WestJet"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.focus_city_for",
+      "Spirit Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.focus_city_for",
+      "Southwest Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "common.topic.webpage",
+      "m.041m05z"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "West Air"
+    ],
+    [
+      "McCarran International Airport",
+      "common.topic.webpage",
+      "m.09x0dvx"
+    ],
+    [
+      "Las Vegas",
+      "location.location.nearby_airports",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.serves",
+      "Las Vegas"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.serves",
+      "Courtyard Las Vegas Henderson/Green Valley"
+    ],
+    [
+      "m.052v776",
+      "travel.transportation.transport_terminus",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.focus_city_for",
+      "Allegiant Air"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "Mesa Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.serves",
+      "Paradise"
+    ],
+    [
+      "McCarran International Airport",
+      "location.location.containedby",
+      "Las Vegas"
+    ],
+    [
+      "McCarran International Airport",
+      "metropolitan_transit.transit_stop.transit_lines",
+      "Route 108 - Paradise"
+    ],
+    [
+      "m.041m05z",
+      "common.webpage.topic",
+      "McCarran International Airport"
+    ],
+    [
+      "US Airways",
+      "aviation.airline.focus_cities",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Las Vegas Henderson/Green Valley"
+    ],
+    [
+      "McCarran International Airport",
+      "common.topic.webpage",
+      "m.03lbkyk"
+    ],
+    [
+      "McCarran International Airport",
+      "metropolitan_transit.transit_stop.terminus_for_lines",
+      "Route 108 - Paradise"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "America West Express"
+    ],
+    [
+      "Great Lakes Airlines",
+      "aviation.airline.hubs",
+      "McCarran International Airport"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.focus_cities",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.serves",
+      "Las Vegas Marriott"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "Primaris Airlines"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.hub_for",
+      "America West Airlines"
+    ],
+    [
+      "JW Marriott Las Vegas",
+      "location.location.nearby_airports",
+      "McCarran International Airport"
+    ],
+    [
+      "McCarran International Airport",
+      "aviation.airport.operator",
+      "Clark County Department of Aviation"
+    ]
+  ]
+}

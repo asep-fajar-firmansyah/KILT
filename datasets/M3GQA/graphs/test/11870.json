@@ -1,0 +1,4900 @@
+{
+  "graph_id": 11870,
+  "subgraph": [
+    [
+      "Tennessee",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Tri-State Defender"
+    ],
+    [
+      "Tri-State Defender",
+      "book.newspaper.circulation_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Tri-State Defender"
+    ],
+    [
+      "Tri-State Defender",
+      "book.newspaper.circulation_areas",
+      "Tennessee"
+    ],
+    [
+      "Cherry Mansion",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Savannah",
+      "location.location.contains",
+      "Cherry Mansion"
+    ],
+    [
+      "Cherry Mansion",
+      "location.location.containedby",
+      "Savannah"
+    ],
+    [
+      "Charlie Hodge",
+      "people.deceased_person.place_of_death",
+      "Knoxville"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Charlie Hodge"
+    ],
+    [
+      "Charlie Hodge",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Charlie Hodge",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Marion Memorial Bridge",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Fort Southwest Point",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Tennessee"
+    ],
+    [
+      "Knoxville",
+      "base.biblioness.bibs_location.state",
+      "Tennessee"
+    ],
+    [
+      "Clifton",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Area code 423",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "Big South Fork of the Cumberland River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "St. Elmo Historic District",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "m.0wg8qf4",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Tennessee"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partiallycontains",
+      "m.0wg8q52"
+    ],
+    [
+      "Roane County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Hatchie River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Hurricane Danny",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Area code 865",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Tennessee River"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Tuscumbia River"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Big South Fork of the Cumberland River"
+    ],
+    [
+      "Cumberland River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Hurricane Babe",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.adjoin_s",
+      "m.02th83k"
+    ],
+    [
+      "Wolf River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Tennessee"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Soddy-Daisy",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Marion County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Pine Mountain"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tennessee"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "m.0wg8q52",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Ruby Falls",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Hamilton County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Tennessee",
+      "location.location.adjoin_s",
+      "m.02thc30"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "Remote Area Medical",
+      "film.film.featured_film_locations",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Confederate Heartland Offensive",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "French Broad River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Elk River"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "South Pittsburg",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Signal Mountain",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partiallycontains",
+      "m.0wg8qf4"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Hatchie River"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Lookout Mountain"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Morgan's Raid"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Confederate Heartland Offensive"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee Aquarium",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "French Broad River"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Holston River"
+    ],
+    [
+      "Loudon County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Tennessee"
+    ],
+    [
+      "B'nai B'rith District Grand Lodge 7",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "Chattanooga",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Babe"
+    ],
+    [
+      "Wayne County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Ridge-and-Valley Appalachians"
+    ],
+    [
+      "New Johnsonville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Danny"
+    ],
+    [
+      "Knoxville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "Southeastern United States"
+    ],
+    [
+      "Tennessee College of Applied Technology - Crump",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "B'nai B'rith District Grand Lodge 7"
+    ],
+    [
+      "Newport",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.us_state.capital",
+      "Nashville"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Lower Mississippi River"
+    ],
+    [
+      "Elk River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Loudon",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Cherokee–American wars",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "Pine Mountain",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Crump",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "m.02th83k",
+      "location.adjoining_relationship.adjoins",
+      "Tennessee"
+    ],
+    [
+      "Holston River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Great Smoky Mountains"
+    ],
+    [
+      "Tennessee",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "Nickajack Lake",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Morgan's Raid",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Anglo-Cherokee War"
+    ],
+    [
+      "Tuscumbia River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.capital",
+      "Nashville"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Cumberland River"
+    ],
+    [
+      "Haletown",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Anglo-Cherokee War",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "m.0wk7czd",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Tennessee"
+    ],
+    [
+      "John Ross",
+      "people.person.place_of_birth",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Humphreys County"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Cherokee–American wars"
+    ],
+    [
+      "Knox County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Wolf River"
+    ],
+    [
+      "Tennessee",
+      "location.location.partiallycontains",
+      "m.0wk7czd"
+    ],
+    [
+      "m.02thb92",
+      "location.adjoining_relationship.adjoins",
+      "Tennessee"
+    ],
+    [
+      "Humphreys County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.contains",
+      "Tennessee"
+    ],
+    [
+      "Lookout Mountain",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "Savannah",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Kingston",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Sevierville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "m.02thc30",
+      "location.adjoining_relationship.adjoins",
+      "Tennessee"
+    ],
+    [
+      "Hardin County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.location.adjoin_s",
+      "m.02thb92"
+    ],
+    [
+      "Area code 931",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "freebase.valuenotation.has_no_value",
+      "Minimum wage"
+    ],
+    [
+      "Humphreys County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Tennessee"
+    ],
+    [
+      "Nashville",
+      "base.biblioness.bibs_location.state",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Nashville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Lenoir City",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Roane County Courthouse",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "film.film_location.featured_in_films",
+      "Remote Area Medical"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Mississippi Department of Public Safety"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dennis"
+    ],
+    [
+      "Hurricane Hilda",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Gulf Coast of the United States",
+      "location.location.contains",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Danny",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "1987 Gulf Coast tropical storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_pf"
+    ],
+    [
+      "m.09n68ft",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6crm"
+    ],
+    [
+      "m.0wg8_qh",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Hatchie River",
+      "geography.river.origin",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Danny"
+    ],
+    [
+      "1926 Miami hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.0wg8_pf",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Matthew",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Hanna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.agencies",
+      "Mississippi Department of Public Safety"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Bertha"
+    ],
+    [
+      "Mississippi",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Hurricane Florence (1988)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Hatchie River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Camille",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Edouard"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Sucarnoochee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tuscumbia River"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Frederic"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "Tuscumbia River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1987 Gulf Coast tropical storm"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Juan"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Come love a stranger"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Elena"
+    ],
+    [
+      "Tropical Storm Hermine",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "m.0ncsbq6",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Ida",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Tennessee–Tombigbee Waterway",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n68ft"
+    ],
+    [
+      "Mississippi",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Buttahatchee River"
+    ],
+    [
+      "Mississippi",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Industrial Worker"
+    ],
+    [
+      "m.09xfv2n",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Lower Mississippi River"
+    ],
+    [
+      "Mississippi",
+      "freebase.valuenotation.has_no_value",
+      "Minimum wage"
+    ],
+    [
+      "Tombigbee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Tropical Storm Arlene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Mississippi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Hurricane Cindy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Edouard",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Erin",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isaac"
+    ],
+    [
+      "Hurricane Elena",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1953)"
+    ],
+    [
+      "B'nai B'rith District Grand Lodge 7",
+      "organization.organization.geographic_scope",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Hatchie River"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1917 Nueva Gerona hurricane"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Sucarnoochee River"
+    ],
+    [
+      "Jackson",
+      "base.biblioness.bibs_location.state",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Frederic",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.adjoin_s",
+      "m.02th83k"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1926 Miami hurricane"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tennessee–Tombigbee Waterway"
+    ],
+    [
+      "1837 Racer's Storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.02th8c9",
+      "location.adjoining_relationship.adjoins",
+      "Mississippi"
+    ],
+    [
+      "m.02th83k",
+      "location.adjoining_relationship.adjoins",
+      "Mississippi"
+    ],
+    [
+      "Industrial Worker",
+      "book.newspaper.circulation_areas",
+      "Mississippi"
+    ],
+    [
+      "m.09n6crm",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.0ncsbq6"
+    ],
+    [
+      "Tishomingo Blues",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Tishomingo Blues"
+    ],
+    [
+      "Hurricane Isidore",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Dennis",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.aareas.schema.administrative_area.capital",
+      "Jackson"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Cindy"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "1917 Nueva Gerona hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "Tennessee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Buttahatchee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Freedom walk",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Come love a stranger",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Isaac",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Babe"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Hermine"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hilda"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "Southeastern United States"
+    ],
+    [
+      "Hurricane Juan",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Matthew"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Erin"
+    ],
+    [
+      "Tropical Storm Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xfv2n"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Hanna"
+    ],
+    [
+      "Hurricane Gustav",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Camille"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Arlene"
+    ],
+    [
+      "Wolf River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gustav"
+    ],
+    [
+      "Hurricane Flossy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isidore"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.contains",
+      "Mississippi"
+    ],
+    [
+      "Noxubee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Mississippi"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "B'nai B'rith District Grand Lodge 7"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1988)"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Noxubee River"
+    ],
+    [
+      "Mississippi",
+      "location.location.adjoin_s",
+      "m.02th8c9"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tennessee River"
+    ],
+    [
+      "Jackson",
+      "location.location.containedby",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Babe",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ida"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "Gulf Coast of the United States"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Wolf River"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tombigbee River"
+    ],
+    [
+      "Mississippi",
+      "location.us_state.capital",
+      "Jackson"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flossy"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_qh"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1837 Racer's Storm"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Conversations with Shelby Foote"
+    ],
+    [
+      "Hurricane Florence (1953)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Freedom walk"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1jrgp6"
+    ],
+    [
+      "Hardin County",
+      "location.us_county.hud_county_place",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1fpd_x"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1kc6py"
+    ],
+    [
+      "Savannah",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpfc"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Hank DeBerry"
+    ],
+    [
+      "Savannah",
+      "location.hud_foreclosure_area.estimated_number_of_mortgages",
+      "m.07fyhjz"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpd7"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Edgar Gillock"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Elizabeth Patterson"
+    ],
+    [
+      "Savannah",
+      "common.topic.webpage",
+      "m.0704g11"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpgq"
+    ],
+    [
+      "Hank DeBerry",
+      "people.deceased_person.place_of_death",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1f16gv"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpg8"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Simon Haley"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcphd"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1gjn6f"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpgy"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.12vqhvbf2"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcph4"
+    ],
+    [
+      "Tennessee River",
+      "geography.river.cities",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvvvmt"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11b674pwhz"
+    ],
+    [
+      "Savannah",
+      "location.hud_foreclosure_area.total_90_day_vacant_residential_addresses",
+      "m.07fyhk5"
+    ],
+    [
+      "Savannah",
+      "location.citytown.postal_codes",
+      "38372"
+    ],
+    [
+      "Kelly Shiver",
+      "people.person.place_of_birth",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1ft_c4"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1l16_9"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1fr9b2"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1knv75"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Bolden Reush Harrison"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpgh"
+    ],
+    [
+      "m.0704g11",
+      "common.webpage.topic",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1ckcv1"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpf4"
+    ],
+    [
+      "Savannah",
+      "location.hud_county_place.county",
+      "Hardin County"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcphv"
+    ],
+    [
+      "Hank DeBerry",
+      "people.person.place_of_birth",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcphm"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1jwnmk"
+    ],
+    [
+      "Savannah",
+      "location.hud_foreclosure_area.hhuniv",
+      "m.07fyhjj"
+    ],
+    [
+      "Savannah",
+      "common.topic.image",
+      "Savannah tennessee square"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1d3nwm"
+    ],
+    [
+      "m.0jvvvmt",
+      "location.administrative_division_capital_relationship.capital",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1g16nd"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpdg"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1dm917"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1kykzj"
+    ],
+    [
+      "Savannah",
+      "location.hud_foreclosure_area.ofheo_price_change",
+      "m.07fyhkt"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpdx"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1kndpd"
+    ],
+    [
+      "Savannah",
+      "common.topic.article",
+      "m.0_vcf"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpfv"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1ft_c3"
+    ],
+    [
+      "Savannah",
+      "location.hud_foreclosure_area.total_residential_addresses",
+      "m.07fyhkd"
+    ],
+    [
+      "Savannah",
+      "common.topic.image",
+      "Location of Savannah, Tennessee"
+    ],
+    [
+      "Savannah",
+      "location.location.containedby",
+      "Hardin County"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0k6l326"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0jt55yj"
+    ],
+    [
+      "Savannah",
+      "location.hud_foreclosure_area.bls_unemployment_rate",
+      "m.07fyhkm"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1h75c0"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1hmmyv"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1fzn28"
+    ],
+    [
+      "Bolden Reush Harrison",
+      "people.deceased_person.place_of_death",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpj8"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "R. V. Kerr"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Tom Hampton"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpdp"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1dm9zc"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11bc88q_8n"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0k6l32f"
+    ],
+    [
+      "Hardin County",
+      "location.us_county.county_seat",
+      "Savannah"
+    ],
+    [
+      "Elizabeth Patterson",
+      "people.person.place_of_birth",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "g.11x1dsrz6"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpg1"
+    ],
+    [
+      "Savannah",
+      "location.hud_foreclosure_area.estimated_number_foreclosures",
+      "m.07fyhjr"
+    ],
+    [
+      "Savannah",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "John Barnhill",
+      "people.person.place_of_birth",
+      "Savannah"
+    ],
+    [
+      "Bolden Reush Harrison",
+      "people.person.place_of_birth",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area code 731"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "John Barnhill"
+    ],
+    [
+      "Savannah",
+      "location.location.geolocation",
+      "m.0kh0nb"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpfm"
+    ],
+    [
+      "Savannah",
+      "location.statistical_region.population",
+      "m.0hmcpj1"
+    ],
+    [
+      "Savannah",
+      "common.topic.notable_for",
+      "g.1254yfrrb"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Kelly Shiver"
+    ],
+    [
+      "Savannah",
+      "location.hud_county_place.place",
+      "Savannah"
+    ],
+    [
+      "Hardin County",
+      "location.location.contains",
+      "Savannah"
+    ],
+    [
+      "Savannah",
+      "location.location.people_born_here",
+      "Granville Hinton"
+    ],
+    [
+      "Knoxville",
+      "common.topic.subject_of",
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston"
+    ],
+    [
+      "Knoxville",
+      "location.location.containedby",
+      "Area code 865"
+    ],
+    [
+      "Knoxville",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Knox County",
+      "location.us_county.hud_county_place",
+      "Knoxville"
+    ],
+    [
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston",
+      "book.written_work.subjects",
+      "Knoxville"
+    ],
+    [
+      "Tennessee River",
+      "geography.river.cities",
+      "Knoxville"
+    ],
+    [
+      "Henley Street Bridge",
+      "transportation.bridge.locale",
+      "Knoxville"
+    ],
+    [
+      "Knoxville",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "French Broad River",
+      "geography.river.cities",
+      "Knoxville"
+    ],
+    [
+      "Knoxville",
+      "location.hud_county_place.place",
+      "Knoxville"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.contains",
+      "Knoxville"
+    ],
+    [
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston",
+      "common.topic.subjects",
+      "Knoxville"
+    ],
+    [
+      "Knoxville",
+      "location.location.containedby",
+      "Great Smoky Mountains"
+    ],
+    [
+      "Knoxville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Knox County",
+      "location.us_county.county_seat",
+      "Knoxville"
+    ],
+    [
+      "Knoxville",
+      "location.location.containedby",
+      "Knox County"
+    ],
+    [
+      "Knoxville",
+      "book.book_subject.works",
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston"
+    ],
+    [
+      "Knoxville",
+      "location.hud_county_place.county",
+      "Knox County"
+    ],
+    [
+      "Knoxville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Thomas Amos Rogers Nelson",
+      "people.deceased_person.place_of_death",
+      "Knoxville"
+    ],
+    [
+      "Area code 865",
+      "location.location.contains",
+      "Knoxville"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Ken Scott"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.12vqjb2w9"
+    ],
+    [
+      "Marv Breeding",
+      "people.deceased_person.place_of_death",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7p7"
+    ],
+    [
+      "Richard Cranor",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.containedby",
+      "Morgan County"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1gc6tp"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Seybourn Harris Lynne"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m2n"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1ksfby"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7mc"
+    ],
+    [
+      "Decatur",
+      "location.location.containedby",
+      "Limestone County"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1gv6zl"
+    ],
+    [
+      "Arthur Orr",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11b674hkcc"
+    ],
+    [
+      "Decatur",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1mhpcy"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "New Decatur-Albany Historic District"
+    ],
+    [
+      "Pop Gates",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Hayden Naumann",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1gc5w3"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m4x"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Calhoun Community College"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m3j"
+    ],
+    [
+      "Decatur",
+      "location.location.events",
+      "Battle of Decatur"
+    ],
+    [
+      "Lucas Black",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Lucas Black"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "The Brick Deli & Tavern"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Carson Tinker"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0jstms_"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Allen E. Hill"
+    ],
+    [
+      "Decatur",
+      "location.location.geolocation",
+      "m.0k9zjp"
+    ],
+    [
+      "Decatur",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Ben Neill"
+    ],
+    [
+      "Decatur",
+      "location.citytown.postal_codes",
+      "35699"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Ogle Stadium"
+    ],
+    [
+      "Robin Henderson",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Taye Biddle"
+    ],
+    [
+      "Philip Rivers",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7pm"
+    ],
+    [
+      "Decatur",
+      "location.citytown.postal_codes",
+      "35601"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Fletcher Skidmore"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Anna Rivers"
+    ],
+    [
+      "Leon Jones",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Earl Gaines"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Bank Street-Old Decatur Historic District"
+    ],
+    [
+      "Tennessee River",
+      "geography.river.cities",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Rhea-McEntire House"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m67"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m32"
+    ],
+    [
+      "Gary Knotts",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1kjcgn"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Dancy-Polk House"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Mae Jemison"
+    ],
+    [
+      "Richard Hendrix",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.citytown.postal_codes",
+      "35603"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1dgnpd"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Point Mallard Aquatic Center"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Rolando McClain"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1l0bst"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m39"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Dean Jones"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m5t"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Leslie Kelley"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1fx9jn"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Point Mallard Park"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1mp67j"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Robert-Allen Reynolds"
+    ],
+    [
+      "Ben Neill",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Alan Koch"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Donold Lourie"
+    ],
+    [
+      "Decatur",
+      "location.hud_county_place.place",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "John-Paul Howard"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Charlie Burse"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Lee Fanning"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7n3"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Richard Hendrix"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m45"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1kl3cs"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m2w"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Caroline Duncan"
+    ],
+    [
+      "Dean Jones",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.hud_foreclosure_area.estimated_number_foreclosures",
+      "m.07ghc60"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7mr"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0k6mt3h"
+    ],
+    [
+      "Charlie Burse",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Arthur Orr"
+    ],
+    [
+      "Decatur",
+      "common.topic.article",
+      "m.0q8sb"
+    ],
+    [
+      "m.062t93t",
+      "common.webpage.topic",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m5b"
+    ],
+    [
+      "Morgan County",
+      "location.us_county.hud_county_place",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m4g"
+    ],
+    [
+      "Marv Breeding",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Gordon Terry"
+    ],
+    [
+      "Desmond LaVelle",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1gv6zm"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Derica W. Rice"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Joseph Abbott"
+    ],
+    [
+      "David Stewart",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Stephen Decatur",
+      "symbols.name_source.namesakes",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1cn1x0"
+    ],
+    [
+      "Decatur",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Allen E. Hill",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Ray Pepper"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Pop Gates"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m3z"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1l5x5l"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1k2h0_"
+    ],
+    [
+      "Decatur",
+      "location.hud_foreclosure_area.total_residential_addresses",
+      "m.07ghc6p"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Richard Cranor"
+    ],
+    [
+      "John-Paul Howard",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Southern Railway Depot"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Jerry Gillespie"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7pf"
+    ],
+    [
+      "Charles Redding Pitt",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.citytown.postal_codes",
+      "35609"
+    ],
+    [
+      "Decatur",
+      "location.hud_county_place.county",
+      "Morgan County"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1cpxvr"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m26"
+    ],
+    [
+      "Decatur",
+      "common.topic.notable_for",
+      "g.12557ctqh"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1kpqz4"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "State Bank Building, Decatur Branch"
+    ],
+    [
+      "Albany, Decatur",
+      "location.location.containedby",
+      "Decatur"
+    ],
+    [
+      "Leslie Kelley",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7p1"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Juwan Simpson"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m5l"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7mk"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Marv Breeding"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1dh3wg"
+    ],
+    [
+      "Decatur",
+      "location.location.nearby_airports",
+      "Pryor Field Regional Airport"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Rip Sewell"
+    ],
+    [
+      "Stephen Rivers",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 256 and 938"
+    ],
+    [
+      "Decatur",
+      "location.citytown.postal_codes",
+      "35602"
+    ],
+    [
+      "Decatur",
+      "common.topic.webpage",
+      "m.062t93t"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Albany, Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Kristopher Reisz"
+    ],
+    [
+      "Mae Jemison",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Philip Rivers"
+    ],
+    [
+      "Decatur",
+      "location.hud_foreclosure_area.total_90_day_vacant_residential_addresses",
+      "m.07ghc6g"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m3r"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Desmond LaVelle"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m53"
+    ],
+    [
+      "m.0jvvqx3",
+      "location.administrative_division_capital_relationship.capital",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Jason Carthen"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m60"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7nh"
+    ],
+    [
+      "Decatur",
+      "common.topic.image",
+      "P4150170"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7n9"
+    ],
+    [
+      "Calhoun Community College",
+      "location.location.containedby",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Gary Knotts"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Anna Laura Bryan"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Emerald Lane Observatory"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Kendrick Burton"
+    ],
+    [
+      "Alan Koch",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "David Stewart"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1dqz7g"
+    ],
+    [
+      "Taye Biddle",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Leon Jones"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Jerraud Powers"
+    ],
+    [
+      "Rolando McClain",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Bank Street Historic District"
+    ],
+    [
+      "Lee Fanning",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1d0ws0"
+    ],
+    [
+      "Decatur",
+      "location.hud_foreclosure_area.estimated_number_of_mortgages",
+      "m.07ghc67"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m2f"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1dpm8t"
+    ],
+    [
+      "Donold Lourie",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Battle of Decatur",
+      "time.event.locations",
+      "Decatur"
+    ],
+    [
+      "Morgan County",
+      "location.us_county.county_seat",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.hud_foreclosure_area.hhuniv",
+      "m.07ghc5t"
+    ],
+    [
+      "Jerraud Powers",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Ray Pepper",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Charles Redding Pitt"
+    ],
+    [
+      "Decatur",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvvqx3"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Peyton Fanning"
+    ],
+    [
+      "Robert-Allen Reynolds",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "g.11x1kknfl"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "David Charles"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Hayden Naumann"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Col. Francis Dancy House"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Robin Henderson"
+    ],
+    [
+      "Decatur",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Decatur Daily"
+    ],
+    [
+      "Derica W. Rice",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Noah Armstrong"
+    ],
+    [
+      "Ken Scott",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Redstone Rocket"
+    ],
+    [
+      "Rip Sewell",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Juwan Simpson",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Earl Gaines",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Noah Armstrong",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Hard Dock Cafe"
+    ],
+    [
+      "Seybourn Harris Lynne",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Alonzo Boone"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7m5"
+    ],
+    [
+      "Decatur",
+      "symbols.namesake.named_after",
+      "Stephen Decatur"
+    ],
+    [
+      "Decatur",
+      "location.hud_foreclosure_area.bls_unemployment_rate",
+      "m.07ghc6x"
+    ],
+    [
+      "Carson Tinker",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.location.people_born_here",
+      "Stephen Rivers"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0jthvw9"
+    ],
+    [
+      "Gordon Terry",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.0hk4m4p"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7nw"
+    ],
+    [
+      "Decatur",
+      "location.location.contains",
+      "Cotaco Opera House"
+    ],
+    [
+      "Jason Carthen",
+      "people.person.place_of_birth",
+      "Decatur"
+    ],
+    [
+      "Decatur",
+      "location.statistical_region.population",
+      "m.066d7np"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Montana"
+    ],
+    [
+      "Kelly Shiver",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Elk River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Terrell Robinson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "film.film_location.featured_in_films",
+      "Remote Area Medical"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "West Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Virginia"
+    ],
+    [
+      "Rachel Boston",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Remote Area Medical",
+      "film.film.featured_film_locations",
+      "United States of America"
+    ],
+    [
+      "On the Storied Ohio",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Morgan County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Albany, Decatur",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Pennsylvania"
+    ],
+    [
+      "35814",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "35894",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Chattanooga",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "35897",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Tombigbee River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Nashville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kentucky"
+    ],
+    [
+      "35816",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Desmond LaVelle",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jackson",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Madison County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.0ncsbq6",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Ohio"
+    ],
+    [
+      "Colbert County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "35810",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "McCracken County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Limestone County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Grand Rivers",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rolando McClain",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jackson County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Paducah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Evie Liles",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Asheville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "35804",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wisconsin"
+    ],
+    [
+      "Limestone County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Triana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "Tennessee College of Applied Technology - Crump",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "Richard Cranor",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Industrial Worker",
+      "book.newspaper.circulation_areas",
+      "United States of America"
+    ],
+    [
+      "James Barney Marsh",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Montana"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Frankfort",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Indiana"
+    ],
+    [
+      "Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Allegheny River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Industrial Worker"
+    ],
+    [
+      "Lee Fanning",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Montana"
+    ],
+    [
+      "35806",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Loudon County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Gordon Terry",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Sheffield",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lauderdale County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Wolf River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dominique Croom",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mississippi River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Carolina"
+    ],
+    [
+      "Pat Trammell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "35809",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Holston River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Indiana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "Trigg County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Fred Thompson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Brett Granstaff",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Marsha Thornton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Vaughn Thacker",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jackson",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Allegheny River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Elk River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Robert-Allen Reynolds",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "35803",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "m.09n6crm",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Tennessee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Stephen Rivers",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Thomas Sigismund Stribling",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Stephen Decatur",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Carson Tinker",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "David Briggs",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Asheville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Big South Fork of the Cumberland River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Minnesota"
+    ],
+    [
+      "Jason Carthen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Big South Fork of the Cumberland River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Montgomery",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Adam Lazzara",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Constellation",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "35808",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Hamilton County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "35815",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Waterloo",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Guntersville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Charles Redding Pitt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Pennsylvania"
+    ],
+    [
+      "Madison County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Carolina"
+    ],
+    [
+      "Roane County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Buttahatchee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Huntsville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dean Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mississippi River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Leon Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Minnesota"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Eddie Moore",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pop Gates",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kentucky"
+    ],
+    [
+      "John-Paul Howard",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "West Virginia"
+    ],
+    [
+      "Rip Sewell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pittsburgh",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "35807",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "35893",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Cairo",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mitch McConnell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Virginia"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "35896",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "David Stewart",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Ben Neill",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bryan Harvey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Marion County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hurricane Elena",
+      "meteorology.tropical_cyclone.affected_areas",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kentucky"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "Wayne County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "Pine Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Cumberland River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "Sucarnoochee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ken Scott",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jerraud Powers",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "35811",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Virginia"
+    ],
+    [
+      "Lucille Benson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "Nashville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Taye Biddle",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "William Lenoir",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Charles H. Coolidge",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Colbert County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Johnsonville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Cumberland River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "French Broad River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Indiana"
+    ],
+    [
+      "Humphreys County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jackson County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Freedom walk",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Crump",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee–Tombigbee Waterway",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "35805",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Tom and Huck",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cherokee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Richard Hendrix",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Redstone Army Airfield",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Bobby E. Denton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "35801",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "35802",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Chattanooga Metropolitan Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Marshall County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Remote Area Medical",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wisconsin"
+    ],
+    [
+      "Chris Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Langston",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lauderdale County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Elena"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wisconsin"
+    ],
+    [
+      "Willard Scissum",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "Livingston County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "French Broad River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Bridgeport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Knox County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Bland County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Killen",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "The Ravagers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Florence",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Philip Rivers",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "George Lewis Gillespie, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Noah Armstrong",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Humphreys County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Don Deforest Paul",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hayden Naumann",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Scottsboro",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "35813",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Calhoun Community College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Gulf Coast of the United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Huntsville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Marshall County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Robert E. Jones, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Carolina"
+    ],
+    [
+      "35895",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kentucky"
+    ],
+    [
+      "Robin Henderson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Ohio River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Harlon Hill",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Lucas Black",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tuscumbia River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Pittsburgh",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "Allen E. Hill",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Frankfort",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Monongahela River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Crisis: Behind a Presidential Commitment",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hardin County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Wesley Liles",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Virginia"
+    ],
+    [
+      "Montana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Kentucky Lake",
+      "geography.lake.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "West Virginia"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Ohio"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Ready, Set, Bag",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Noxubee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "SpaceCamp",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rosman",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Lookout Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Nickajack Lake",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "John Ross",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mae Jemison",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Nickajack Lake",
+      "geography.lake.basin_countries",
+      "United States of America"
+    ],
+    [
+      "35824",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Montgomery",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "David Hood",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Carolina"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n68ft",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Thomas Amos Rogers Nelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "35812",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Battle Beyond the Stars",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "Jobyna Ralston",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tombigbee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Sam Rayburn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Elizabeth Patterson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jimmy Johnson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hatchie River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "West Virginia"
+    ],
+    [
+      "Eloise Popeil",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Indiana"
+    ],
+    [
+      "Shawneetown Bridge",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "35899",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Bland County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "35898",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Tana Patrick",
+      "people.person.nationality",
+      "United States of America"
+    ]
+  ]
+}

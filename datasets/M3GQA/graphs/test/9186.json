@@ -1,0 +1,5030 @@
+{
+  "graph_id": 9186,
+  "subgraph": [
+    [
+      "Greater Antilles",
+      "location.location.containedby",
+      "Antilles"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "Greater Antilles"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.contains",
+      "Cayman Islands"
+    ],
+    [
+      "Cuba in War Time",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Slavery and the French and Haitian revolutionists =",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Jamaica",
+      "location.location.containedby",
+      "Greater Antilles"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "Greater Antilles"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "Slipstream"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "The Immaculate Invasion"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "In Cuba"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.contains",
+      "Navassa Island"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.partially_contains",
+      "United States, with Territories"
+    ],
+    [
+      "Drumblair",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "An Island Called Home",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.contains",
+      "Jamaica"
+    ],
+    [
+      "Tell my horse",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "An Island Called Home"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "Cuba in War Time"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "Tell my horse"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.contains",
+      "Cuba"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "Greater Antilles"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "Drumblair"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.contains",
+      "Haiti"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "Havana Before Castro: When Cuba was a Tropical Playground"
+    ],
+    [
+      "The Immaculate Invasion",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Havana Before Castro: When Cuba was a Tropical Playground",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "Greater Antilles"
+    ],
+    [
+      "United States, with Territories",
+      "location.location.partially_containedby",
+      "Greater Antilles"
+    ],
+    [
+      "Slipstream",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Greater Antilles",
+      "location.location.contains",
+      "Dominican Republic"
+    ],
+    [
+      "Antilles",
+      "location.location.contains",
+      "Greater Antilles"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.containedby",
+      "Greater Antilles"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Greater Antilles"
+    ],
+    [
+      "In Cuba",
+      "book.written_work.subjects",
+      "Greater Antilles"
+    ],
+    [
+      "Greater Antilles",
+      "book.book_subject.works",
+      "Slavery and the French and Haitian revolutionists ="
+    ],
+    [
+      "Municipality of Puerto Rico",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Puerto Rico"
+    ],
+    [
+      "Municipality of Puerto Rico",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Puerto Rico"
+    ],
+    [
+      "Municipality of Puerto Rico",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Municipality of Puerto Rico"
+    ],
+    [
+      "Municipality of Puerto Rico",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Municipality of Puerto Rico",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Puerto Rico",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Municipality of Puerto Rico"
+    ],
+    [
+      "Municipality of Puerto Rico",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "United States, with Territories"
+    ],
+    [
+      "Hurricane Ella",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ella"
+    ],
+    [
+      "Hurricane Ella",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ella"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ella"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ella"
+    ],
+    [
+      "Hurricane Ella",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Hurricane Ella",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Antilles",
+      "location.location.time_zones",
+      "Cuba Time Zone"
+    ],
+    [
+      "Lesser Antilles",
+      "location.location.containedby",
+      "Antilles"
+    ],
+    [
+      "Antilles",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Martin (Island)",
+      "geography.island.island_group",
+      "Antilles"
+    ],
+    [
+      "Battle of the Saintes",
+      "time.event.locations",
+      "Antilles"
+    ],
+    [
+      "Caribbean",
+      "location.location.contains",
+      "Antilles"
+    ],
+    [
+      "Saint Thomas",
+      "geography.island.island_group",
+      "Antilles"
+    ],
+    [
+      "Antilles",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Guadeloupe",
+      "geography.island.island_group",
+      "Antilles"
+    ],
+    [
+      "Antilles",
+      "location.location.time_zones",
+      "Venezuela Time Zone"
+    ],
+    [
+      "Antilles",
+      "location.location.containedby",
+      "Caribbean"
+    ],
+    [
+      "Antilles",
+      "location.location.events",
+      "Battle of the Saintes"
+    ],
+    [
+      "Antilles",
+      "location.location.contains",
+      "Lesser Antilles"
+    ],
+    [
+      "Antilles",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Cuba",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ernesto"
+    ],
+    [
+      "An Island Called Home",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Beyond Slavery",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Hurricane Wilma",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Cuban Kids"
+    ],
+    [
+      "Hurricane Emily",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Tropical Storm Claudette",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane David"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1900 Galveston hurricane"
+    ],
+    [
+      "Hurricane Isbell",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Havana",
+      "location.administrative_division.first_level_division_of",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "location.country.first_level_divisions",
+      "Havana"
+    ],
+    [
+      "Havana",
+      "location.administrative_division.country",
+      "Cuba"
+    ],
+    [
+      "Hurricane Dean",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Hurricane Ida",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dolly"
+    ],
+    [
+      "Cuba in War Time",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Che Guervara and the FBI",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Cuba"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Cuba",
+      "location.country.form_of_government",
+      "Republic"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Rina"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Cuba",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Havana Before Castro: When Cuba was a Tropical Playground"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gordon"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_formerly_used",
+      "Cuba"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Hurricane Flora",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Cuba",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "In Cuba"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Beyond Slavery"
+    ],
+    [
+      "Cuba",
+      "common.topic.subject_of",
+      "Ensip"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "1900 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "location.country.languages_spoken",
+      "Haitian Creole"
+    ],
+    [
+      "Persona Non Grata",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Fidel Castro",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Havana",
+      "base.biblioness.bibs_location.country",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cuba",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "1991 Pan American Games"
+    ],
+    [
+      "Haitian Creole",
+      "language.human_language.countries_spoken_in",
+      "Cuba"
+    ],
+    [
+      "Higher Institute of Medical Sciences. main campus",
+      "location.location.containedby",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1899 San Ciriaco hurricane"
+    ],
+    [
+      "Hurricane Ernesto",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "1899 San Ciriaco hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Hurricane Donna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Ensip",
+      "common.topic.subjects",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Donna"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Cuba"
+    ],
+    [
+      "Havana",
+      "location.location.containedby",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Claudette"
+    ],
+    [
+      "Cuba",
+      "location.country.administrative_divisions",
+      "Havana"
+    ],
+    [
+      "Cuba",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "The Cuba project"
+    ],
+    [
+      "Hurricane Dolly",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dean"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ida"
+    ],
+    [
+      "Cuba",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Cuba"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Havana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Cuba"
+    ],
+    [
+      "In Cuba",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "1919 Florida Keys hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuban Kids",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "The Cuba project",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "location.country.currency_formerly_used",
+      "United States Dollar"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isbell"
+    ],
+    [
+      "1991 Pan American Games",
+      "sports.multi_event_tournament.participating_countries",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Fidel Castro"
+    ],
+    [
+      "Cuba",
+      "travel.travel_destination.tour_operators",
+      "FOX Vakanties"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Persona Non Grata"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Che Guervara and the FBI"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Emily"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "An Island Called Home"
+    ],
+    [
+      "Havana Before Castro: When Cuba was a Tropical Playground",
+      "book.written_work.subjects",
+      "Cuba"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "FOX Vakanties",
+      "travel.tour_operator.travel_destinations",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Havana"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Wilma"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "Hurricane Gordon",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Hurricane David",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Hurricane Rina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Cuba",
+      "freebase.valuenotation.is_reviewed",
+      "Date dissolved"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1919 Florida Keys hurricane"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Cuba"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flora"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Cuba",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Cuba",
+      "book.book_subject.works",
+      "Cuba in War Time"
+    ],
+    [
+      "Cuba",
+      "location.country.capital",
+      "Havana"
+    ],
+    [
+      "Cuba",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Cayman Islands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Wilma"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dolly"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "Hurricane Ida",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ida"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Cayman Islands"
+    ],
+    [
+      "Hurricane Dolly",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Cayman Islands",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Cayman Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dean"
+    ],
+    [
+      "Cayman Islands",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Cayman Islands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Hurricane Emily",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gordon"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Cayman Islands"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Hurricane Isbell",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Cayman Islands"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Emily"
+    ],
+    [
+      "Cayman Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isbell"
+    ],
+    [
+      "Hurricane Gordon",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Hurricane Wilma",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Hurricane Dean",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cayman Islands"
+    ],
+    [
+      "Cayman Islands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cuba in War Time",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "Cuba in War Time",
+      "book.written_work.subjects",
+      "World"
+    ],
+    [
+      "Cuba in War Time",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Cuba in War Time"
+    ],
+    [
+      "Slavery and the French and Haitian revolutionists =",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "Haiti",
+      "book.book_subject.works",
+      "Slavery and the French and Haitian revolutionists ="
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Slavery and the French and Haitian revolutionists ="
+    ],
+    [
+      "Slavery and the French and Haitian revolutionists =",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "Slavery and the French and Haitian revolutionists =",
+      "book.written_work.subjects",
+      "Haiti"
+    ],
+    [
+      "Hurricane Fifi–Orlene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Hurricane Anna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Jamaica"
+    ],
+    [
+      "Hurricane Emily",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Culture and Customs of Jamaica",
+      "book.written_work.subjects",
+      "Jamaica"
+    ],
+    [
+      "Tell my horse",
+      "book.written_work.subjects",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Wilma"
+    ],
+    [
+      "Jamaica",
+      "book.book_subject.works",
+      "Beyond Slavery"
+    ],
+    [
+      "1900 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Bustamante Industrial Trade Union"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dean"
+    ],
+    [
+      "Jamaica",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Drumblair",
+      "book.written_work.subjects",
+      "Jamaica"
+    ],
+    [
+      "Hurricane Gordon",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Hurricane Flora",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1932 San Ciprian hurricane"
+    ],
+    [
+      "Hurricane Dean",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flora"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "location.country.first_level_divisions",
+      "Clarendon Parish"
+    ],
+    [
+      "Jamaica",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Jamaica",
+      "freebase.valuenotation.is_reviewed",
+      "Capital"
+    ],
+    [
+      "Hurricane Wilma",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Hurricane Abby",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Iris"
+    ],
+    [
+      "Jamaica",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Emily"
+    ],
+    [
+      "Clarendon Parish",
+      "location.location.containedby",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "book.book_subject.works",
+      "Tell my horse"
+    ],
+    [
+      "Jamaica",
+      "freebase.valuenotation.is_reviewed",
+      "Currency Used"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "book.book_subject.works",
+      "Slipstream"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Jamaica",
+      "book.book_subject.works",
+      "Drumblair"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Anna"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1900 Galveston hurricane"
+    ],
+    [
+      "Jamaica",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Fifi–Orlene"
+    ],
+    [
+      "Clarendon Parish",
+      "location.administrative_division.country",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "book.book_subject.works",
+      "Culture and Customs of Jamaica"
+    ],
+    [
+      "Jamaica",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Slipstream",
+      "book.written_work.subjects",
+      "Jamaica"
+    ],
+    [
+      "Clarendon Parish",
+      "location.administrative_division.first_level_division_of",
+      "Jamaica"
+    ],
+    [
+      "Hurricane Iris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "1932 San Ciprian hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "location.country.administrative_divisions",
+      "Clarendon Parish"
+    ],
+    [
+      "Jamaica",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Clarendon Parish",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "University of the West Indies",
+      "location.location.containedby",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "book.book_subject.works",
+      "The History, Civil and Commercial, of the British West Indies"
+    ],
+    [
+      "Jamaica",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Clarendon Parish"
+    ],
+    [
+      "The History, Civil and Commercial, of the British West Indies",
+      "book.written_work.subjects",
+      "Jamaica"
+    ],
+    [
+      "Beyond Slavery",
+      "book.written_work.subjects",
+      "Jamaica"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gordon"
+    ],
+    [
+      "Jamaica",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Jamaica",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Abby"
+    ],
+    [
+      "Bustamante Industrial Trade Union",
+      "organization.organization.geographic_scope",
+      "Jamaica"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Navassa Island"
+    ],
+    [
+      "Navassa Island",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Navassa Island",
+      "location.administrative_division.second_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Navassa Island"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Slipstream"
+    ],
+    [
+      "Slipstream",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "Slipstream",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Sint Eustatius",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Curaçao",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Bermuda",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Saint Thomas",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Saint Barthélemy",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Leeward Islands",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Timezoneswest",
+      "common.image.appears_in_topic_gallery",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Sint Maarten",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Atlantic Time Zone",
+      "time.time_zone.day_dst_ends",
+      "First Sunday in November"
+    ],
+    [
+      "Netherlands",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Trinidad and Tobago",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Saba",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Netherlands Antilles",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Atlantic Time Zone",
+      "common.topic.image",
+      "Timezoneswest"
+    ],
+    [
+      "Lesser Antilles",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Saint Martin (Island)",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "San Juan",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Canada",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Atlantic Time Zone",
+      "time.time_zone.day_dst_begins",
+      "Second Sunday in March"
+    ],
+    [
+      "Atlantic Time Zone",
+      "common.topic.notable_types",
+      "Time Zone"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Aruba",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "British Virgin Islands",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Bonaire",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "The Immaculate Invasion",
+      "book.written_work.subjects",
+      "Haiti"
+    ],
+    [
+      "The Immaculate Invasion",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "The Immaculate Invasion",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "The Immaculate Invasion"
+    ],
+    [
+      "Haiti",
+      "book.book_subject.works",
+      "The Immaculate Invasion"
+    ],
+    [
+      "In Cuba",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "In Cuba"
+    ],
+    [
+      "In Cuba",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "Puerto Rico",
+      "location.administrative_division.country",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Lesser Antilles",
+      "location.location.partially_contains",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States Virgin Islands"
+    ],
+    [
+      "United States, with Territories",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "United States Virgin Islands",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "Puerto Rico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "San Juan",
+      "location.administrative_division.second_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.administrative_divisions",
+      "United States Virgin Islands"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.administrative_divisions",
+      "Puerto Rico"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Puerto Rico"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States Virgin Islands"
+    ],
+    [
+      "San Juan",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Puerto Rico",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.administrative_division.country",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.location.partially_containedby",
+      "Lesser Antilles"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States, with Territories"
+    ],
+    [
+      "Saint Thomas",
+      "location.administrative_division.second_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "Puerto Rico"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Drumblair"
+    ],
+    [
+      "Drumblair",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "Drumblair",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "An Island Called Home",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "An Island Called Home",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "An Island Called Home"
+    ],
+    [
+      "An Island Called Home",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Tell my horse",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "Tell my horse",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "Tell my horse",
+      "book.written_work.subjects",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "book.book_subject.works",
+      "Tell my horse"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Tell my horse"
+    ],
+    [
+      "1919 Florida Keys hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Dean",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1919 Florida Keys hurricane"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "1899 San Ciriaco hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "San Juan",
+      "base.biblioness.bibs_location.country",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Donna"
+    ],
+    [
+      "Tropical Storm Claudette",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "San Juan",
+      "location.location.containedby",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Donna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1932 San Ciprian hurricane"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.form_of_government",
+      "Republic"
+    ],
+    [
+      "1900 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.events",
+      "2014 Caribbean Earthquake"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "1932 San Ciprian hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dean"
+    ],
+    [
+      "Hurricane Jeanne",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "San Juan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Puerto Rico"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Puerto Rico"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Emily",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Abby",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Flora",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Jeanne"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1985 Puerto Rico floods"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane David"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ernesto"
+    ],
+    [
+      "Caribbean",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Emily"
+    ],
+    [
+      "2014 Caribbean Earthquake",
+      "time.event.locations",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Odette"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.capital",
+      "San Juan"
+    ],
+    [
+      "Hurricane David",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1899 San Ciriaco hurricane"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Caribbean"
+    ],
+    [
+      "Puerto Rico",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "San Juan"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Claudette"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Haitian Creole",
+      "language.human_language.main_country",
+      "Puerto Rico"
+    ],
+    [
+      "San Juan",
+      "base.ndbcd.buoy.region",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "1985 Puerto Rico floods",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Hurricane Ernesto",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Puerto Rico",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Abby"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flora"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1900 Galveston hurricane"
+    ],
+    [
+      "Tropical Storm Odette",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "Puerto Rico"
+    ],
+    [
+      "Monroe County",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Haiti",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "UTC−05:00",
+      "common.topic.notable_types",
+      "Time Zone"
+    ],
+    [
+      "Lesser Antilles",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Ecuador",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Panama",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Bahamas",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Peru",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Odette"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.official_language",
+      "Spanish Language"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.events",
+      "2014 Caribbean Earthquake"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dean"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flora"
+    ],
+    [
+      "Dominican Republic",
+      "freebase.valuenotation.is_reviewed",
+      "Official Language"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Tropical Storm Claudette",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "freebase.valuenotation.is_reviewed",
+      "Capital"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Dominican Republic"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Dominican Republic"
+    ],
+    [
+      "Hurricane Flora",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Hurricane Iris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1900 Galveston hurricane"
+    ],
+    [
+      "1985 Puerto Rico floods",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "2014 Caribbean Earthquake",
+      "time.event.locations",
+      "Dominican Republic"
+    ],
+    [
+      "Hurricane Dean",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1919 Florida Keys hurricane"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gordon"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1985 Puerto Rico floods"
+    ],
+    [
+      "Dominican Republic",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "Dominican Republic"
+    ],
+    [
+      "Hurricane Donna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane David"
+    ],
+    [
+      "Haitian Creole",
+      "language.human_language.countries_spoken_in",
+      "Dominican Republic"
+    ],
+    [
+      "1900 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Hurricane David",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Dominican Republic",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Hurricane Gordon",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Donna"
+    ],
+    [
+      "1932 San Ciprian hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "1899 San Ciriaco hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Iris"
+    ],
+    [
+      "Hurricane Jeanne",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Claudette"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Dominican Republic",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Dominican Republic",
+      "freebase.valuenotation.is_reviewed",
+      "Currency Used"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.form_of_government",
+      "Republic"
+    ],
+    [
+      "1919 Florida Keys hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1932 San Ciprian hurricane"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Jeanne"
+    ],
+    [
+      "Dominican Republic",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Dominican Republic",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1899 San Ciriaco hurricane"
+    ],
+    [
+      "Dominican Republic",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Tropical Storm Odette",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Dominican Republic"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Dominican Republic",
+      "location.country.languages_spoken",
+      "Haitian Creole"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1899 San Ciriaco hurricane"
+    ],
+    [
+      "Hurricane Wilma",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "1932 San Ciprian hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Claudette"
+    ],
+    [
+      "Tropical Storm Odette",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "French Revolutionary Wars",
+      "base.culturalevent.event.entity_involved",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Donna"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Odette"
+    ],
+    [
+      "1900 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Wilma"
+    ],
+    [
+      "Haiti",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Haiti",
+      "book.book_subject.works",
+      "Haiti"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane David"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "freebase.valuenotation.has_no_value",
+      "Date dissolved"
+    ],
+    [
+      "Hurricane Flora",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "The History, Civil and Commercial, of the British West Indies",
+      "book.written_work.subjects",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1932 San Ciprian hurricane"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gordon"
+    ],
+    [
+      "Haiti",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Hurricane David",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Jeanne"
+    ],
+    [
+      "Haiti",
+      "location.country.form_of_government",
+      "Republic"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Tropical Storm Claudette",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Haiti"
+    ],
+    [
+      "Hurricane Ernesto",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haitian Creole",
+      "language.human_language.main_country",
+      "Haiti"
+    ],
+    [
+      "Hurricane Gordon",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Hurricane Jeanne",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "location.country.official_language",
+      "Haitian Creole"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Haiti"
+    ],
+    [
+      "Haitian Creole",
+      "language.human_language.countries_spoken_in",
+      "Haiti"
+    ],
+    [
+      "1899 San Ciriaco hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "book.book_subject.works",
+      "The History, Civil and Commercial, of the British West Indies"
+    ],
+    [
+      "Haiti",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flora"
+    ],
+    [
+      "1985 Puerto Rico floods",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "Haiti",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Hurricane Dean",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1900 Galveston hurricane"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "book.written_work.subjects",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ernesto"
+    ],
+    [
+      "Hurricane Donna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dean"
+    ],
+    [
+      "Haiti",
+      "location.country.languages_spoken",
+      "Haitian Creole"
+    ],
+    [
+      "Haiti",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1985 Puerto Rico floods"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Haiti"
+    ],
+    [
+      "Haiti",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Haiti",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Haiti"
+    ],
+    [
+      "Havana Before Castro: When Cuba was a Tropical Playground",
+      "book.written_work.subjects",
+      "Latin America"
+    ],
+    [
+      "Caribbean",
+      "book.book_subject.works",
+      "Havana Before Castro: When Cuba was a Tropical Playground"
+    ],
+    [
+      "Havana Before Castro: When Cuba was a Tropical Playground",
+      "book.written_work.subjects",
+      "Caribbean"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.kind",
+      "Meta"
+    ],
+    [
+      "Notable types",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Article"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "US State",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Literature Subject",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Chinese province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "US State",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Literature Subject",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Subjects",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Meta",
+      "freebase.type_kind.types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.documented_object.documentation",
+      "m.0kpqw_"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Weblink"
+    ],
+    [
+      "Mexican federal district borough",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Description",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Description"
+    ],
+    [
+      "Founding Figure",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Subjects",
+      "type.property.expected_type",
+      "Topic"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Concert tour",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Newspaper",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Structure",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Religious Leader",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Event",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Notable for",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Subjects"
+    ],
+    [
+      "Weblink",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Continent",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Subjects",
+      "rdf-schema#range",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "common.topic.article",
+      "m.0kpqw_"
+    ],
+    [
+      "Description",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Top Level Domain",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Location",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Properties"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Official website"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Topical webpage"
+    ],
+    [
+      "Official website",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.domain",
+      "Common"
+    ],
+    [
+      "Notable for",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Also known as",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Weblink",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Recurring event",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Social media presence",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Sovereign state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Subjects",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Australian State",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Deity",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Founding Figure",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Mexican state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Official website",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Canadian Province",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Concert tour",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Newspaper",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Top Level Domain",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Subject of"
+    ],
+    [
+      "Social media presence",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Human Language",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.kind",
+      "Portrayal"
+    ],
+    [
+      "Vietnamese province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Image",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Nonprofit organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Image"
+    ],
+    [
+      "Administrative Division",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Time Zone",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Mexican state",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Olympic venue",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Deity",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Recurring event",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Argentine province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Dated location",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "US County",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "US County",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Canadian Province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Also known as"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Currency",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Form of Government",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Event",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Social media presence"
+    ],
+    [
+      "Topic equivalent webpage",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Web Link(s)"
+    ],
+    [
+      "Brazilian state",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Nonprofit organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Australian State",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Notable for"
+    ],
+    [
+      "Form of Government",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Topic equivalent webpage"
+    ],
+    [
+      "US President",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "German state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Currency",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Notable types"
+    ],
+    [
+      "Dated location",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Statistical region",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Olympic venue",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Image",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "South Korean province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Religious Leader",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic equivalent webpage",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Time Zone",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Also known as",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "US President",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Chinese province",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Human Language",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Notable types",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "South Korean province",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Argentine province",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Statistical region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Structure",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Brazilian state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Region",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Administrative Division",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Continent",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Land area",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "German state",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Mean elevation",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "m.0y4fw24",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Argentine province",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "City/Town"
+    ],
+    [
+      "Region",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Water area",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "HUD Nonmetro FMR Area"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Events"
+    ],
+    [
+      "GEOnet feature ID",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Geolocation"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "andreasl"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Countries by Population"
+    ],
+    [
+      "point",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "UN/LOCODE",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Street address",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Partially contained by"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "thejackal"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Water area"
+    ],
+    [
+      "m.0cz8yxt",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Contains major portion of"
+    ],
+    [
+      "Partially contained by",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "gkamp"
+    ],
+    [
+      "Statistical region",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Adjoins"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "konstantin"
+    ],
+    [
+      "Events",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "maxoliver"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "politicalscientist"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Street address"
+    ],
+    [
+      "Contains major portion of",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "UN/LOCODE"
+    ],
+    [
+      "Chinese province",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "marcos9"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "azdak"
+    ],
+    [
+      "Geometry",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "USBG name"
+    ],
+    [
+      "Statistical region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "wonderant"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "midness"
+    ],
+    [
+      "Nearby airports",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "leybzon"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Partially contains"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Country"
+    ],
+    [
+      "Location",
+      "common.topic.article",
+      "m.0kpqs_"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "HUD HFMA"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "clhubert"
+    ],
+    [
+      "inside",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Southern Caribbean",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "hfarrington"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Contained by"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "rajrsingh"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "mlssgrimshaw20"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Primarily contained by"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "m.0d25k82"
+    ],
+    [
+      "Contained by",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Brazilian state",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "US State",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Partially contained by",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "m.0wkbqym",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "shiv_18919"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "US Metropolitan Statistical Area"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "HUD Foreclosure Area"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "premierco"
+    ],
+    [
+      "GNIS ID",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.equivalent_topic.equivalent_domain",
+      "Location"
+    ],
+    [
+      "Street address",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "kdsandeep"
+    ],
+    [
+      "Land area",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "People born here",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Partially contains",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Geolocation",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "gndjeng"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Mean elevation"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Argentine province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "fpassantino"
+    ],
+    [
+      "Continent",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Time zone(s)",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Primarily contained by",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Eastern Europe",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "common.topic.article",
+      "m.0kpqf7"
+    ],
+    [
+      "Events",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "cm2dude"
+    ],
+    [
+      "Country",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Administrative Division",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Contained by",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Countries by GDP"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "smithcomputer"
+    ],
+    [
+      "Primarily contained by",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "monurohila"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.equivalent_topic",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "m.0d3by0t"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "kennyadams"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "avances123"
+    ],
+    [
+      "near",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "gavinjock"
+    ],
+    [
+      "US County",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Places in Queensland (not suburbs/cities/towns)"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "fmkatz"
+    ],
+    [
+      "Adjectival form",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "jon"
+    ],
+    [
+      "Canadian Province",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Area"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "HUD County Place"
+    ],
+    [
+      "Geometry",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "andy_st"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "seoexpert"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "bmwiedemann"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Ukraine Autonomous Republic"
+    ],
+    [
+      "USBG name",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "South Korean province",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Contains",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "UN/LOCODE",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Adjectival form"
+    ],
+    [
+      "Central Asia",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Structure",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Region",
+      "type.type.expected_by",
+      "Location"
+    ],
+    [
+      "Sovereign state",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.category",
+      "Time & Space"
+    ],
+    [
+      "Dated location",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "penumbra2000"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "yandeara"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Queensland suburbs"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Metropolitan and Micropolitan Statistical Areas"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.category",
+      "General"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "a_olympia"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "rdhyee"
+    ],
+    [
+      "Partially contains",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Contains major portion of",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "West Africa",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "shape"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "colemanm"
+    ],
+    [
+      "Northern Europe",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Ukraine Oblast"
+    ],
+    [
+      "Australian State",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Nearby airports",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Canadian Province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Administrative Division",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "shape",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Partially contained by",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Brazilian municipality"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "davidmetcalfe"
+    ],
+    [
+      "Contains major portion of",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Contained by",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Contains"
+    ],
+    [
+      "German state",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Structure",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Adjoins",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Brazilian state",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Area",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "GNIS ID",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.kind",
+      "Meta"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "ssal97"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "bteoman"
+    ],
+    [
+      "Australian State",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "mnfbmf"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "adichad"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "brendan"
+    ],
+    [
+      "near",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "inside"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "point"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "HUD Foreclosure Area Type"
+    ],
+    [
+      "Río de la Plata Basin",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Contains",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "ma_graceaguilar"
+    ],
+    [
+      "GEOnet feature ID",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Contains",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "People born here",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Cities and towns in Iraq"
+    ],
+    [
+      "Partially contained by",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Location",
+      "rdf-schema#range",
+      "Region"
+    ],
+    [
+      "Olympic venue",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Puerto Rico Municipality"
+    ],
+    [
+      "Primarily contained by",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Statistical region",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "gangofnuns"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "United States Cities by Population"
+    ],
+    [
+      "Meta",
+      "freebase.type_kind.types",
+      "Location"
+    ],
+    [
+      "Dated location",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "m.04yw69p",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Mexican state",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "joegermuska"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "karanams"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Time zone(s)"
+    ],
+    [
+      "US County",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Nearby airports"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "maxim75"
+    ],
+    [
+      "Partially contains",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "erlindawamz"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "HUD Section 8 Zone"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "GNIS ID"
+    ],
+    [
+      "Water area",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.category",
+      "Commons"
+    ],
+    [
+      "Time zone(s)",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "GEOnet feature ID"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "jamie"
+    ],
+    [
+      "Primarily contained by",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "sprocketonline"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "pmackay"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.tasks",
+      "fix /location/adjoining property"
+    ],
+    [
+      "Dated location",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "thimon"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "HUD Vacancy Rates"
+    ],
+    [
+      "point",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Chinese province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "People born here"
+    ],
+    [
+      "Mexican state",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "mgershma"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "lukeschubert"
+    ],
+    [
+      "Adjectival form",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "sibolesk"
+    ],
+    [
+      "Area",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Vietnamese province",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "near"
+    ],
+    [
+      "US State",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Countries by per capita GDP"
+    ],
+    [
+      "m.04d4zn9",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.equivalent_topic",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "junxi"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "spatialed"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "jonjaques"
+    ],
+    [
+      "m.0cp4d5b",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Coterminous with",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Continent"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "marcelt"
+    ],
+    [
+      "Continent",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Vietnamese province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.documented_object.documentation",
+      "m.0kpqs_"
+    ],
+    [
+      "Geolocation",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Mean elevation",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "h4ck3rm1k3"
+    ],
+    [
+      "Contains major portion of",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Mexican federal district borough",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "simplify3"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Ukraine Raion"
+    ],
+    [
+      "Coterminous with",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "m.0d37vth"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "njwebservices"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Administrative Division"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "asparagirl"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "rchk"
+    ],
+    [
+      "Location",
+      "freebase.documented_object.documentation",
+      "m.0kpqf7"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "diplodocus"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "aris"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "arulns"
+    ],
+    [
+      "Location",
+      "type.type.expected_by",
+      "location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Census Tract"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "villalafnouil"
+    ],
+    [
+      "Location",
+      "freebase.equivalent_topic.equivalent_type",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Land area"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "pdeisenberg"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Malaysian division"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "cdlp1704"
+    ],
+    [
+      "Contains",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "sharaf_al_islam"
+    ],
+    [
+      "Administrative Division",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "m.063m12d"
+    ],
+    [
+      "Contained by",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "litianlei"
+    ],
+    [
+      "Northern Hemisphere",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Geometry"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "gamerate"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "US Metropolitan Division"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.expert_group",
+      "Location Experts"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "markce"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "borkzorkorc"
+    ],
+    [
+      "Location",
+      "common.topic.notable_types",
+      "Literature Subject"
+    ],
+    [
+      "USBG name",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_views",
+      "Neighborhood"
+    ],
+    [
+      "inside",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.announcements",
+      "m.0kjj45"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "freebass"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "sunzu"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.featured_topic",
+      "Nairobi"
+    ],
+    [
+      "Adjoins",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "potencial"
+    ],
+    [
+      "shape",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.domain_profile.users",
+      "pana"
+    ],
+    [
+      "Location",
+      "type.domain.owners",
+      "Location Domain owners"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Coterminous with"
+    ],
+    [
+      "South Korean province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "type.property.expected_type",
+      "Region"
+    ],
+    [
+      "Partially contains",
+      "type.property.expected_type",
+      "Location"
+    ]
+  ]
+}

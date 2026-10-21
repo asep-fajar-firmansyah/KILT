@@ -1,0 +1,4825 @@
+{
+  "graph_id": 29352,
+  "subgraph": [
+    [
+      "Tilburg",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "North Brabant"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Tilburg"
+    ],
+    [
+      "Tilburg",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Tilburg",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Tilburg",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Tilburg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Tilburg",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Tilburg",
+      "base.biblioness.bibs_location.state",
+      "North Brabant"
+    ],
+    [
+      "Tilburg",
+      "location.location.containedby",
+      "North Brabant"
+    ],
+    [
+      "Tilburg",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "North Brabant",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tilburg"
+    ],
+    [
+      "Tilburg",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Tilburg",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Almere"
+    ],
+    [
+      "Almere",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Almere",
+      "location.location.containedby",
+      "Flevoland"
+    ],
+    [
+      "Flevoland",
+      "location.location.contains",
+      "Almere"
+    ],
+    [
+      "Almere",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Almere",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Almere",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Almere",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Almere",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Flevoland",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Almere"
+    ],
+    [
+      "Almere",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Flevoland"
+    ],
+    [
+      "Almere",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Groningen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Groningen",
+      "location.location.containedby",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Groningen",
+      "location.nl_province.capital",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Groningen",
+      "base.aareas.schema.administrative_area.capital",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Groningen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Groningen",
+      "base.biblioness.bibs_location.state",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Groningen",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Groningen",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Groningen"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Groningen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Groningen",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Groningen",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Groningen"
+    ],
+    [
+      "Groningen",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Groningen"
+    ],
+    [
+      "North Brabant",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "North Brabant",
+      "location.location.adjoin_s",
+      "m.02whhkg"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "location.location.containedby",
+      "North Brabant"
+    ],
+    [
+      "North Brabant",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "North Brabant",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "North Brabant"
+    ],
+    [
+      "North Brabant",
+      "base.aareas.schema.administrative_area.capital",
+      "'s-Hertogenbosch"
+    ],
+    [
+      "North Brabant",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Brabant"
+    ],
+    [
+      "North Brabant",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Eindhoven"
+    ],
+    [
+      "North Brabant",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "North Brabant",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "'s-Hertogenbosch"
+    ],
+    [
+      "North Brabant",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "North Brabant",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "m.02whhkg",
+      "location.adjoining_relationship.adjoins",
+      "North Brabant"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "North Brabant"
+    ],
+    [
+      "North Brabant",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "North Brabant",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Breda"
+    ],
+    [
+      "North Brabant",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "De Gelderlander"
+    ],
+    [
+      "Eindhoven",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "North Brabant"
+    ],
+    [
+      "North Brabant",
+      "location.nl_province.capital",
+      "'s-Hertogenbosch"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "North Brabant"
+    ],
+    [
+      "Breda",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "North Brabant"
+    ],
+    [
+      "North Brabant",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Breda",
+      "location.location.containedby",
+      "North Brabant"
+    ],
+    [
+      "Eindhoven",
+      "location.location.containedby",
+      "North Brabant"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "North Brabant"
+    ],
+    [
+      "University",
+      "organization.organization_sector.organizations_in_this_sector",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Arnhem"
+    ],
+    [
+      "StageMax",
+      "organization.organization.email",
+      "m.01313tx2"
+    ],
+    [
+      "StageMax",
+      "organization.organization.sectors",
+      "Graduation"
+    ],
+    [
+      "Internship",
+      "organization.organization_sector.organizations_in_this_sector",
+      "StageMax"
+    ],
+    [
+      "Apeldoorn",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.sectors",
+      "University"
+    ],
+    [
+      "Hilversum",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Arnhem",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Leiden"
+    ],
+    [
+      "The Hague",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "'s-Hertogenbosch"
+    ],
+    [
+      "Internship",
+      "common.topic.subject_of",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Utrecht"
+    ],
+    [
+      "Leiden",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Leeuwarden",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Amsterdam"
+    ],
+    [
+      "Purmerend",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Eindhoven"
+    ],
+    [
+      "StageMax",
+      "common.topic.subjects",
+      "Internship"
+    ],
+    [
+      "Rotterdam",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Amsterdam",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Purmerend"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Hilversum"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Leeuwarden"
+    ],
+    [
+      "StageMax",
+      "organization.organization.sectors",
+      "Mediation"
+    ],
+    [
+      "Utrecht",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Breda"
+    ],
+    [
+      "StageMax",
+      "organization.organization.sectors",
+      "Employment agency"
+    ],
+    [
+      "StageMax",
+      "organization.organization.place_founded",
+      "Nijmegen"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Alkmaar"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Netherlands"
+    ],
+    [
+      "Breda",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Nijmegen",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Eindhoven",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "Alkmaar",
+      "organization.organization_scope.organizations_with_this_scope",
+      "StageMax"
+    ],
+    [
+      "StageMax",
+      "organization.organization.phone_number",
+      "m.01313tx_"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Nijmegen"
+    ],
+    [
+      "StageMax",
+      "organization.organization.sectors",
+      "Internship"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Rotterdam"
+    ],
+    [
+      "StageMax",
+      "common.topic.subjects",
+      "Thesis"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "Apeldoorn"
+    ],
+    [
+      "StageMax",
+      "organization.organization.headquarters",
+      "m.01313tn0"
+    ],
+    [
+      "StageMax",
+      "organization.organization.geographic_scope",
+      "The Hague"
+    ],
+    [
+      "StageMax",
+      "common.topic.subjects",
+      "Graduation"
+    ],
+    [
+      "Neerijnen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Berkelland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Millingen aan de Rijn",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Culemborg",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Alkmaar",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Zevenaar",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Buren",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Rotterdam",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Apeldoorn",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Maasdriel",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Bronckhorst",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Rijnwaarden",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Doesburg",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Winterswijk",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Groesbeek",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Oldebroek",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Ede",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Leeuwarden",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Wijchen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Utrecht",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Ede",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Geldermalsen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Division"
+    ],
+    [
+      "Bronckhorst",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Duiven",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Arnhem",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Nijkerk",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Wageningen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch province",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Dutch municipality"
+    ],
+    [
+      "Neerijnen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Oude IJsselstreek",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Aalten",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Hattem",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Eindhoven",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Neder-Betuwe",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Leiden",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "common.topic.article",
+      "m.077l4r6"
+    ],
+    [
+      "Duiven",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Netherlands"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Putten",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Druten",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Hilversum",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Lingewaal",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Millingen aan de Rijn",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Lochem",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Doesburg",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Maasdriel",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Epe",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Voorst",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Ubbergen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Lingewaard",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Westervoort",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Heumen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "type.type.domain",
+      "Administrative Areas"
+    ],
+    [
+      "Neder-Betuwe",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Overbetuwe",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Rozendaal",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Rozendaal",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Heerde",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "West Maas en Waal",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Nunspeet",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "West Maas en Waal",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Netherlands"
+    ],
+    [
+      "Renkum",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Brummen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Aalten",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Ermelo",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Apeldoorn",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Rheden",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Hattem",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Hilversum",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.equivalent_topic.equivalent_type",
+      "Dutch municipality"
+    ],
+    [
+      "Zutphen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Breda",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Voorst",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Montferland",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_profile.equivalent_topic",
+      "Dutch municipality"
+    ],
+    [
+      "Oldebroek",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "type.type.properties",
+      "Province"
+    ],
+    [
+      "Scherpenzeel, Gelderland",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Beuningen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Zaltbommel",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Dutch municipality"
+    ],
+    [
+      "Breda",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Harderwijk",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Zevenaar",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Wijchen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Nijmegen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Doetinchem",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Elburg",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Arnhem",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Eindhoven",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Elburg",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Barneveld",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Montferland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Rheden",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Westervoort",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Leeuwarden",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Groesbeek",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Dutch province"
+    ],
+    [
+      "Purmerend",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Doetinchem",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_hints.included_types",
+      "Dated location"
+    ],
+    [
+      "Ermelo",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Epe",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Heumen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Groenlo",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Tiel",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Druten",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Nijkerk",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Groenlo",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Heerde",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Purmerend",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Winterswijk",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Zaltbommel",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Beuningen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Wageningen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Ubbergen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Barneveld",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Netherlands"
+    ],
+    [
+      "Nunspeet",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Harderwijk",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Lingewaal",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Rijnwaarden",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_hints.included_types",
+      "Statistical region"
+    ],
+    [
+      "Overbetuwe",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Putten",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Leiden",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Lochem",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Scherpenzeel, Gelderland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "The Hague",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Alkmaar",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_profile.strict_included_types",
+      "Administrative Division"
+    ],
+    [
+      "Rotterdam",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Tiel",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Culemborg",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Nijmegen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "base.aareas.schema.administrative_area_type.administrative_division_type",
+      "Dutch municipality"
+    ],
+    [
+      "Oude IJsselstreek",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Lingewaard",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Brummen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Zutphen",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Utrecht",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Dutch municipality",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Renkum",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Berkelland",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Buren",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "The Hague",
+      "common.topic.notable_types",
+      "Dutch municipality"
+    ],
+    [
+      "Geldermalsen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch municipality"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Culemborg",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Elburg",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Amsterdam"
+    ],
+    [
+      "South Holland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Neerijnen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Utrecht",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Flevoland",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Zaltbommel",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Westervoort",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Westervoort",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "North Holland",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Flevoland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Drenthe"
+    ],
+    [
+      "Wijchen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Nijkerk",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "South Holland",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Alkmaar",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Caribbean special municipalities of the Netherlands",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Hidde Van Beest",
+      "people.person.nationality",
+      "Netherlands"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains_major_portion_of",
+      "Netherlands"
+    ],
+    [
+      "Doesburg",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Zevenaar",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Operation Market Garden",
+      "time.event.locations",
+      "Netherlands"
+    ],
+    [
+      "Duiven",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Montferland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Rheden",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "States General of the Netherlands",
+      "government.governmental_body.jurisdiction",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Friesland"
+    ],
+    [
+      "Maasdriel",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "White Rose",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Rotterdam",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Ermelo",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Overijssel",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Overijssel"
+    ],
+    [
+      "Hattem",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Zeeland",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Flevoland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Holland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Neder-Betuwe",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Harderwijk",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Utrecht",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Rozendaal",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Friesland"
+    ],
+    [
+      "Netherlands",
+      "location.location.primarily_containedby",
+      "Western Europe"
+    ],
+    [
+      "Zaltbommel",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Geldermalsen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "North Holland"
+    ],
+    [
+      "Netherlands",
+      "location.country.capital",
+      "Amsterdam"
+    ],
+    [
+      "Bronckhorst",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Winterswijk",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Wageningen",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.location.partially_containedby",
+      "Western Europe"
+    ],
+    [
+      "Ermelo",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Drenthe",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "South Holland"
+    ],
+    [
+      "Voorst",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Limburg"
+    ],
+    [
+      "Scherpenzeel, Gelderland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Buren",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.location.partially_containedby",
+      "Lesser Antilles"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "South Holland"
+    ],
+    [
+      "Netherlands",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "Waalbrug",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Limburg",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Dutch province",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "The Hague"
+    ],
+    [
+      "Putten",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "European Netherlands",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Limburg"
+    ],
+    [
+      "Nunspeet",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "government.governmental_jurisdiction.government_bodies",
+      "States General of the Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Rotterdam",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Epe",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Buren",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.internet_tld",
+      "nl"
+    ],
+    [
+      "Friesland",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Barneveld",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Berkelland",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Zeeland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Drenthe"
+    ],
+    [
+      "Netherlands",
+      "location.administrative_division.first_level_division_of",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Overijssel"
+    ],
+    [
+      "Leeuwarden",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Hilversum",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "The Hague",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Friesland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Adriaan de Lelie",
+      "people.person.nationality",
+      "Netherlands"
+    ],
+    [
+      "Limburg",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Bronckhorst",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Flevoland",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "Netherlands"
+    ],
+    [
+      "Zutphen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.languages_spoken",
+      "Frisian languages"
+    ],
+    [
+      "Amsterdam",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Zeeland",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Utrecht",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Eindhoven",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.languages_spoken",
+      "Dutch Language"
+    ],
+    [
+      "Breda",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Elburg",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Friesland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Drenthe",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Aalten",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Arnhem",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Flevoland",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Limburg"
+    ],
+    [
+      "Zutphen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Radboud University Nijmegen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Lesser Antilles",
+      "location.location.partially_contains",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Lingewaard",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Doesburg",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Utrecht",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Zeeland"
+    ],
+    [
+      "Netherlands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Rhine",
+      "location.location.partially_containedby",
+      "Netherlands"
+    ],
+    [
+      "Western Europe",
+      "location.location.partially_contains",
+      "Netherlands"
+    ],
+    [
+      "Lochem",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Zeeland",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Leiden",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Drenthe",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Zaltbommel",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Holland"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Utrecht",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Beuningen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "South Holland",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Harderwijk",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Amsterdam",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Rotterdam",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Leeuwarden",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Aalten",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Eindhoven",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Epe",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Amsterdam",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Overijssel",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Netherlands"
+    ],
+    [
+      "Rozendaal",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Oude IJsselstreek",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Maasdriel",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Millingen aan de Rijn",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Arnhem",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Flevoland"
+    ],
+    [
+      "Voorst",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Wijchen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "The Hague",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Dutch province",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Netherlands"
+    ],
+    [
+      "Lochem",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Flevoland"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Dutch province"
+    ],
+    [
+      "Netherlands",
+      "location.country.form_of_government",
+      "Constitutional monarchy"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.first_level_divisions",
+      "Netherlands"
+    ],
+    [
+      "Culemborg",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "FiftyTwoDegrees",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "House of Representatives",
+      "government.governmental_body.jurisdiction",
+      "Netherlands"
+    ],
+    [
+      "North Holland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Frisian languages",
+      "language.human_language.countries_spoken_in",
+      "Netherlands"
+    ],
+    [
+      "North Holland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Oldebroek",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Holland"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "Wageningen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Overijssel",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Gelderland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Winterswijk",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Drenthe",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Berkelland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Heerde",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Erasmusgebouw",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Neder-Betuwe",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Scherpenzeel, Gelderland",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Hilversum",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Lingewaal",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.official_language",
+      "Dutch Language"
+    ],
+    [
+      "Overbetuwe",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Limburg",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Groesbeek",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch constituent country"
+    ],
+    [
+      "Beatrix of the Netherlands",
+      "people.person.nationality",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Overijssel"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Dutch province"
+    ],
+    [
+      "Frisian languages",
+      "language.human_language.main_country",
+      "Netherlands"
+    ],
+    [
+      "Sint-Stevenstoren",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "The Hague",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Lingewaard",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Groesbeek",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Renkum",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Amsterdam",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "Millingen aan de Rijn",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Zeeland"
+    ],
+    [
+      "West Maas en Waal",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Breda",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "South Holland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "Netherlands"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Netherlands"
+    ],
+    [
+      "Nijmegen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Drenthe",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.location.partially_contains",
+      "Rhine"
+    ],
+    [
+      "Neerijnen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Dutch province",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Netherlands"
+    ],
+    [
+      "Dutch Language",
+      "language.human_language.main_country",
+      "Netherlands"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "Brummen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "Heumen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Overbetuwe",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Leiden",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Overijssel",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Druten",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Renkum",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Gelderland",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Ede",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Putten",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Gelderland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Zeeland"
+    ],
+    [
+      "Oldebroek",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "North Holland",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Doetinchem",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "West Maas en Waal",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Arnhem",
+      "base.biblioness.bibs_location.country",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Flevoland"
+    ],
+    [
+      "Apeldoorn",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "The Hague",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Heumen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "Friesland",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Nijmegen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Culemborg",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Hogeschool van Arnhem en Nijmegen, Nijmegen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Doetinchem",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Gelderland"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Drenthe"
+    ],
+    [
+      "Frisian, Western Language",
+      "language.human_language.main_country",
+      "Netherlands"
+    ],
+    [
+      "Lingewaal",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Beuningen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Utrecht"
+    ],
+    [
+      "Rheden",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Oude IJsselstreek",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Barneveld",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "Netherlands"
+    ],
+    [
+      "Ubbergen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Rijnwaarden",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Ede",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Dutch Language",
+      "language.human_language.countries_spoken_in",
+      "Netherlands"
+    ],
+    [
+      "Willem-Alexander of the Netherlands",
+      "people.person.nationality",
+      "Netherlands"
+    ],
+    [
+      "Alkmaar",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Rijnwaarden",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "Netherlands"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Netherlands"
+    ],
+    [
+      "Purmerend",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.location.events",
+      "Operation Market Garden"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Gelderland"
+    ],
+    [
+      "Dutch province",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.form_of_government",
+      "Parliamentary system"
+    ],
+    [
+      "Groenlo",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Limburg",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Brummen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Hilversum",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Tiel",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Nijkerk",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Nunspeet",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Gelderland",
+      "location.administrative_division.country",
+      "Netherlands"
+    ],
+    [
+      "Heerde",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Montferland",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Purmerend",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "North Holland"
+    ],
+    [
+      "Parliamentary system",
+      "government.form_of_government.countries",
+      "Netherlands"
+    ],
+    [
+      "Hetty Blok",
+      "people.person.nationality",
+      "Netherlands"
+    ],
+    [
+      "Waal",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Gelderland",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Limburg",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Utrecht"
+    ],
+    [
+      "North Holland",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "Netherlands",
+      "location.country.administrative_divisions",
+      "Utrecht"
+    ],
+    [
+      "Electrabel Centrale Gelderland",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Utrecht",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Druten",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "location.country.first_level_divisions",
+      "Gelderland"
+    ],
+    [
+      "Tiel",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Zevenaar",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Wageningen",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "South Holland",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Netherlands",
+      "government.governmental_jurisdiction.government_bodies",
+      "House of Representatives"
+    ],
+    [
+      "Netherlands",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Friesland"
+    ],
+    [
+      "Ubbergen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Lochem",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Apeldoorn",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Hattem",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Leiden",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Zeeland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Netherlands"
+    ],
+    [
+      "Duiven",
+      "location.location.containedby",
+      "Netherlands"
+    ],
+    [
+      "Geldermalsen",
+      "location.administrative_division.second_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "Overijssel",
+      "location.administrative_division.first_level_division_of",
+      "Netherlands"
+    ],
+    [
+      "The Hague",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Ubbergen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Zaltbommel",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Oldebroek",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Neder-Betuwe",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Neerijnen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Voorst",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Oude IJsselstreek",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Groesbeek",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Millingen aan de Rijn",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Hungary",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Czech Republic",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Leeuwarden",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Eindhoven",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Culemborg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Rheden",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Maasdriel",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Ermelo",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Groenlo",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Denmark",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Heerde",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "ToÄen srednjeevropski Äas",
+      "common.image.appears_in_topic_gallery",
+      "Central European Time Zone"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.article",
+      "m.02llzr"
+    ],
+    [
+      "Alkmaar",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Renkum",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "time.time_zone.day_dst_ends",
+      "Last Sunday in October"
+    ],
+    [
+      "Tzdiff-Europe-winter",
+      "common.image.appears_in_topic_gallery",
+      "Central European Time Zone"
+    ],
+    [
+      "Belgium",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.image",
+      "ToÄen srednjeevropski Äas"
+    ],
+    [
+      "France",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Hamburg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Heumen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Castel Sant'Angelo",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Winterswijk",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Berkelland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Hilversum",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Zevenaar",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Switzerland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.notable_for",
+      "g.1254yq_hs"
+    ],
+    [
+      "Austria",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Epe",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vatican City",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Bosnia and Herzegovina",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_n1f0t"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.image",
+      "Tzdiff-Europe-winter"
+    ],
+    [
+      "Purmerend",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Rozendaal",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Zutphen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Buren",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Brummen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Geldermalsen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Putten",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Tiel",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Luxembourg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Montferland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Wijchen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Amsterdam",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Nunspeet",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Elburg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Bronckhorst",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Utrecht",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Holland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Lingewaal",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Breda",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "West Maas en Waal",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Rome",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Lochem",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Westervoort",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Wageningen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Arnhem",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Duiven",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Germany",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Beuningen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Africa",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Nijmegen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Slovakia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Poland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Rijnwaarden",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Doesburg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.notable_types",
+      "Time Zone"
+    ],
+    [
+      "Scherpenzeel, Gelderland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Lingewaard",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Rotterdam",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Harderwijk",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Doetinchem",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Druten",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Europe",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Leiden",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Italy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Overbetuwe",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Nijkerk",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Aalten",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Slovenia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "time.time_zone.day_dst_begins",
+      "Last Sunday in March"
+    ],
+    [
+      "Apostolic Palace",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Ede",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Apeldoorn",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Hattem",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Barneveld",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Eindhoven",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Parliamentary system",
+      "government.form_of_government.countries",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.official_language",
+      "Dutch Language"
+    ],
+    [
+      "Lingewaard",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Paul F. van der Heijden"
+    ],
+    [
+      "Lesser Antilles",
+      "location.location.partially_contains",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Zevenaar",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "West Maas en Waal",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Drenthe",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Beuningen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Wijchen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Pirate Party of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.internet_tld",
+      ".sx"
+    ],
+    [
+      "Druten",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Lochem",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "m.0tjsrmz",
+      "government.government_position_held.jurisdiction_of_office",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign domain"
+    ],
+    [
+      "Aalten",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Doesburg",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "government.governmental_jurisdiction.agencies",
+      "Ministry of Infrastructure and the Environment"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Hermann Witsius"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "common.topic.article",
+      "m.049nz"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.internet_tld",
+      "nl"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.currency_used",
+      "Netherlands Antillean guilder"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Geertje Dircx"
+    ],
+    [
+      "Ede",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Dutch overseas territory"
+    ],
+    [
+      "Limburg",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Anton Blok"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "government.governmental_jurisdiction.agencies",
+      "Netherlands Authority for the Financial Markets"
+    ],
+    [
+      "Culemborg",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Friesland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Winterswijk",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Heerde",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Utrecht",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Purmerend",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Caribbean special municipalities of the Netherlands"
+    ],
+    [
+      "Rijnwaarden",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Berkelland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Dutch Language",
+      "language.human_language.countries_spoken_in",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.languages_spoken",
+      "Dutch Language"
+    ],
+    [
+      "Nijmegen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "common.topic.image",
+      "Locatie Koninkrijk1"
+    ],
+    [
+      "Aruba",
+      "location.administrative_division.first_level_division_of",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Catchbudget"
+    ],
+    [
+      "m.0wpbgfj",
+      "olympics.olympic_athlete_affiliation.country",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.internet_tld",
+      "aw"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Dutch constituent country"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Frits Went"
+    ],
+    [
+      "States General of the Netherlands",
+      "government.governmental_body.jurisdiction",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "olympics.olympic_participating_country.medals_won",
+      "m.0wpbgd3"
+    ],
+    [
+      "Overijssel",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "'s-Hertogenbosch",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Willem-Alexander of the Netherlands",
+      "royalty.monarch.kingdom",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Renkum",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Aruba",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.geolocation",
+      "m.02h_dnp"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Dutch constituent country"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Voorst",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Bronckhorst",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Putten",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0tjsrmz"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.form_of_government",
+      "Constitutional monarchy"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "Sint Maarten"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "m.0wpbgd3",
+      "olympics.olympic_medal_honor.country",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Sint Maarten"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Janneke Jonkman"
+    ],
+    [
+      "Gelderland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Overbetuwe",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.national_anthem",
+      "m.063w97w"
+    ],
+    [
+      "Ermelo",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Adriaan de Lelie",
+      "people.person.place_of_birth",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Leeuwarden",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Dutch overseas territory"
+    ],
+    [
+      "Sint Maarten",
+      "location.administrative_division.country",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Dutch constituent country",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "royalty.kingdom.rulers",
+      "Willem-Alexander of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.statistical_region.population",
+      "g.11bymmpsjt"
+    ],
+    [
+      "Dutch constituent country",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.currency_used",
+      "Aruban florin"
+    ],
+    [
+      "Wageningen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Caribbean special municipalities of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Neerijnen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "government.governmental_jurisdiction.government_bodies",
+      "House of Representatives"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "royalty.kingdom.rulers",
+      "Beatrix of the Netherlands"
+    ],
+    [
+      "Aruba",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Curaçao",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Buren",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Brummen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.currency_formerly_used",
+      "Guilder"
+    ],
+    [
+      "Zaltbommel",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Judith Meulendijks"
+    ],
+    [
+      "Sint Maarten",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_lctm0"
+    ],
+    [
+      "Barneveld",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Sint Maarten",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Geldermalsen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.form_of_government",
+      "Democracy"
+    ],
+    [
+      "Groenlo",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Dutch constituent country",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0j5yvxl"
+    ],
+    [
+      "Millingen aan de Rijn",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Westervoort",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Harderwijk",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Catchbudget",
+      "organization.organization.geographic_scope",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.administrative_divisions",
+      "Aruba"
+    ],
+    [
+      "Curaçao",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Duiven",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "common.topic.notable_for",
+      "g.12554ltqk"
+    ],
+    [
+      "Heumen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Jan Verschuren"
+    ],
+    [
+      "Elburg",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.first_level_divisions",
+      "Curaçao"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "The Hague",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Aruba",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.first_level_divisions",
+      "Sint Maarten"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Adriaan de Lelie"
+    ],
+    [
+      "Scherpenzeel, Gelderland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Arnhem",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.statistical_region.gdp_nominal",
+      "m.063w991"
+    ],
+    [
+      "Neder-Betuwe",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.statistical_region.population",
+      "m.063w98s"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Montferland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "House of Representatives",
+      "government.governmental_body.jurisdiction",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Democracy",
+      "government.form_of_government.countries",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "olympics.olympic_participating_country.athletes",
+      "m.0wpbgfj"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "government.governmental_jurisdiction.government_bodies",
+      "States General of the Netherlands"
+    ],
+    [
+      "Oude IJsselstreek",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "m.0j5yvxl",
+      "government.government_position_held.jurisdiction_of_office",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Diederik Stapel"
+    ],
+    [
+      "Lingewaal",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "m.0wg9fp_",
+      "location.partial_containment_relationship.partially_contains",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.partially_containedby",
+      "Lesser Antilles"
+    ],
+    [
+      "Breda",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.form_of_government",
+      "Parliamentary system"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.official_language",
+      "Frisian, Western Language"
+    ],
+    [
+      "Aruba",
+      "location.administrative_division.country",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Rheden",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Curaçao",
+      "location.administrative_division.country",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Zutphen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Willem van Eijk"
+    ],
+    [
+      "Zeeland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Apeldoorn",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Hilversum",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.first_level_divisions",
+      "Aruba"
+    ],
+    [
+      "Doetinchem",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Epe",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.administrative_divisions",
+      "Sint Maarten"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.official_language",
+      "Frisian languages"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "Oldebroek",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Rozendaal",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "m.063w99b"
+    ],
+    [
+      "Beatrix of the Netherlands",
+      "royalty.monarch.kingdom",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Nijkerk",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Groesbeek",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "South Holland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Nunspeet",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Leiden",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Sint Maarten",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Tiel",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Maasdriel",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "m.063w97w",
+      "government.national_anthem_of_a_country.country",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Sint Maarten",
+      "location.administrative_division.first_level_division_of",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "North Holland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "Aruba"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.people_born_here",
+      "Gerrit Jan Meulenbeld"
+    ],
+    [
+      "Flevoland",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Curaçao"
+    ],
+    [
+      "Curaçao",
+      "location.administrative_division.first_level_division_of",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.official_language",
+      "Papiamento language"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.capital",
+      "Amsterdam"
+    ],
+    [
+      "Hattem",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.internet_tld",
+      ".cw"
+    ],
+    [
+      "Ubbergen",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.partially_contained_by",
+      "m.0wg9fp_"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.internet_tld",
+      "an"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "Curaçao"
+    ],
+    [
+      "Alkmaar",
+      "location.location.containedby",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.country.administrative_divisions",
+      "Curaçao"
+    ],
+    [
+      "Curaçao",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Kingdom of the Netherlands"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Aruba"
+    ],
+    [
+      "Flevoland",
+      "location.location.adjoin_s",
+      "m.02whhl3"
+    ],
+    [
+      "Flevoland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "m.02whhl3",
+      "location.adjoining_relationship.adjoins",
+      "Flevoland"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Flevoland"
+    ],
+    [
+      "Flevoland",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "Flevoland",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Limburg",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Overijssel",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Overijssel",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Friesland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Friesland",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "South Holland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "base.aareas.schema.administrative_area_type.administrative_division_type",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "type.type.domain",
+      "Administrative Areas"
+    ],
+    [
+      "Dutch province",
+      "freebase.equivalent_topic.equivalent_type",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_profile.equivalent_topic",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Zeeland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "South Holland",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_hints.included_types",
+      "Statistical region"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_hints.included_types",
+      "Dated location"
+    ],
+    [
+      "Utrecht",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Gelderland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Zeeland",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Drenthe",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Gelderland",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_hints.included_types",
+      "Administrative Division"
+    ],
+    [
+      "North Holland",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Drenthe",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Utrecht",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "North Holland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Dutch province"
+    ],
+    [
+      "Dutch province",
+      "freebase.type_profile.strict_included_types",
+      "Administrative Division"
+    ],
+    [
+      "Limburg",
+      "common.topic.notable_types",
+      "Dutch province"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "European Netherlands"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Amsterdam"
+    ],
+    [
+      "European Netherlands",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Zeeland"
+    ],
+    [
+      "South Holland",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "Amsterdam",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "Utrecht",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "South Holland"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Drenthe"
+    ],
+    [
+      "Drenthe",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "Overijssel",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "Zeeland",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "Limburg",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Overijssel"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Friesland"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Gelderland"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Limburg"
+    ],
+    [
+      "European Netherlands",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "Utrecht"
+    ],
+    [
+      "Gelderland",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "North Holland",
+      "location.location.containedby",
+      "European Netherlands"
+    ],
+    [
+      "European Netherlands",
+      "location.location.contains",
+      "North Holland"
+    ],
+    [
+      "Friesland",
+      "location.location.containedby",
+      "European Netherlands"
+    ]
+  ]
+}

@@ -1,0 +1,4040 @@
+{
+  "graph_id": 12528,
+  "subgraph": [
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Legislator"
+    ],
+    [
+      "Legislator",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Legislator",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Percy Bysshe Shelley",
+      "influence.influence_node.influenced",
+      "Bertrand Russell"
+    ],
+    [
+      "Bertrand Russell",
+      "influence.influence_node.influenced_by",
+      "Percy Bysshe Shelley"
+    ],
+    [
+      "Bertrand Russell",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Bertrand Russell",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Bertrand Russell",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Why I Am Not a Christian",
+      "book.written_work.author",
+      "Bertrand Russell"
+    ],
+    [
+      "Bertrand Russell",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Bertrand Russell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Bertrand Russell"
+    ],
+    [
+      "Bertrand Russell",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Jacques Hébert",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Jacques Hébert",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Jacques Hébert"
+    ],
+    [
+      "Jacques Hébert",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Jacques Hébert",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Ceann Comhairle"
+    ],
+    [
+      "m.09yw165",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "rdf-schema#range",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010678lx"
+    ],
+    [
+      "Statesman",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.part_of_professional_field",
+      "Politics"
+    ],
+    [
+      "Vladimir Lenin",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Jimi Agbaje",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.onephylogeny.type_of_thing.things_of_this_type",
+      "Mayor"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010660xd"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zn30"
+    ],
+    [
+      "Tribal Rights Leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066119"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Candidate"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Public Health Leader"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Civil Rights Leader"
+    ],
+    [
+      "m.09w_20n",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011cm0ng"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066lws"
+    ],
+    [
+      "Officeholder",
+      "rdf-schema#range",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Politician & Trade Unionist"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011njjmy"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066154"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010661zf"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Mayor of Auckland"
+    ],
+    [
+      "Politician",
+      "common.topic.notable_for",
+      "g.1258k4n_t"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Energy Policy Specialist"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010661zx"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0108dn6c"
+    ],
+    [
+      "Advocacy",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Party organizer",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "m.09xt6w_",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09x1dpm"
+    ],
+    [
+      "Politician",
+      "people.profession.corresponding_type",
+      "Politician"
+    ],
+    [
+      "Tyrant",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Housing and Community Development Leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.0b45tny"
+    ],
+    [
+      "Akinwunmi Ambode",
+      "common.topic.subject_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09w1p59"
+    ],
+    [
+      "Politician",
+      "base.onephylogeny.type_of_thing.things_of_this_type",
+      "Diplomat"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010678kt"
+    ],
+    [
+      "m.07ngkqq",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5pml"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "AIDS Policy Specialist"
+    ],
+    [
+      "Anacharsis Cloots",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011njjqg"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fm0ds"
+    ],
+    [
+      "Gwynfor Evans",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fm0fs"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09x5gkq"
+    ],
+    [
+      "Party",
+      "rdf-schema#domain",
+      "Politician"
+    ],
+    [
+      "Mayor of Montazels",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "m.0dj2gvd",
+      "base.ontologies.ontology_class_mapping.freebase_topic",
+      "Politician"
+    ],
+    [
+      "Enver Hoxha",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Bureaucrat"
+    ],
+    [
+      "Politician",
+      "type.type.properties",
+      "Election campaigns"
+    ],
+    [
+      "John Douglas, 9th Marquess of Queensberry",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Rebel",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106622v"
+    ],
+    [
+      "Gwynfor Evans",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Tomás Garrido Canabal",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "type.type.properties",
+      "Government Positions Held"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fm06y"
+    ],
+    [
+      "Politician",
+      "common.topic.article",
+      "m.02xlj10"
+    ],
+    [
+      "Environmentalist",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Jimi Agbaje",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Alaskan Health Care Leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Officeholder",
+      "type.property.expected_type",
+      "Politician"
+    ],
+    [
+      "Consul",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Political Attache",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "m.09x3j7h",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Mayor of Montazels"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010660mk"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010661x1"
+    ],
+    [
+      "Nicola Roxon",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09xrn7q"
+    ],
+    [
+      "Tariq Ali",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Tribal chief",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Consul"
+    ],
+    [
+      "Politician",
+      "base.ontologies.ontology_class.equivalent_classes",
+      "m.0dj2gvd"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010661wn"
+    ],
+    [
+      "Politician",
+      "base.onephylogeny.type_of_thing.things_of_this_type",
+      "United States Representative"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Party organizer"
+    ],
+    [
+      "Usurper",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Children’s Rights Leader"
+    ],
+    [
+      "Damian Green",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010660hr"
+    ],
+    [
+      "Politician",
+      "owl#inverseOf",
+      "Party"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5phw"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Resulting head of state"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zmdy"
+    ],
+    [
+      "Vladimir Lenin",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politics",
+      "people.professional_field.professions_in_this_field",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "book.book_subject.works",
+      "All the King's Men"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Political strategist"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Alaskan Health Care Leader"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "local politician"
+    ],
+    [
+      "Politician & Trade Unionist",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106614m"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Sponsor"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Politician"
+    ],
+    [
+      "m.0b45tny",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Rebel"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zn9p"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "City council"
+    ],
+    [
+      "Nathalie Kosciusko-Morizet",
+      "common.topic.subject_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09w_20n"
+    ],
+    [
+      "Party leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "type.property.reverse_property",
+      "Party"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Member"
+    ],
+    [
+      "Politician",
+      "common.topic.subjects",
+      "Akinwunmi Ambode"
+    ],
+    [
+      "Political strategist",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066mfd"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066mgb"
+    ],
+    [
+      "City council",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "type.property.expected_type",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.article",
+      "m.0fj9r"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.equivalent_topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Candidates"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fm0hm"
+    ],
+    [
+      "Politician",
+      "base.onephylogeny.type_of_thing.things_of_this_type",
+      "Ambassador"
+    ],
+    [
+      "Prefect",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fm0ln"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09y01p3"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106623h"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Tyrant"
+    ],
+    [
+      "Nathalie Kosciusko-Morizet",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010660kd"
+    ],
+    [
+      "Politician",
+      "common.topic.subjects",
+      "Nathalie Kosciusko-Morizet"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Oficer-Major of King Zog  I"
+    ],
+    [
+      "Viktor Lennstrand",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.onephylogeny.type_of_thing.things_of_this_type",
+      "United States Senator"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Polican"
+    ],
+    [
+      "local politician",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Mayor of Auckland",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Taoiseach"
+    ],
+    [
+      "Politician",
+      "base.onephylogeny.type_of_thing.things_of_this_type",
+      "Prime minister"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Advocacy"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5pjs"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09xt6w_"
+    ],
+    [
+      "Joseph Stalin",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09x3j7h"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105znf1"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Usurper"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zpl2"
+    ],
+    [
+      "Chairman, Chivalry Democratic Party",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Public Health Leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010dyb1l"
+    ],
+    [
+      "Nathalie Kosciusko-Morizet",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011vfplb"
+    ],
+    [
+      "Politician",
+      "type.type.properties",
+      "Legislative committees served on"
+    ],
+    [
+      "m.09x1dpm",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Labor leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Party",
+      "type.property.schema",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Political Attache"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010hn395"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Rural Development Leader"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105znt_"
+    ],
+    [
+      "Politician",
+      "type.type.domain",
+      "Government"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Chairman, Chivalry Democratic Party"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010678nn"
+    ],
+    [
+      "Politician",
+      "freebase.equivalent_topic.equivalent_type",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Winner(s)"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011njjp5"
+    ],
+    [
+      "Leon Trotsky",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Environmentalist"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zp46"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106789c"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Prefect"
+    ],
+    [
+      "Politician",
+      "type.type.properties",
+      "Party"
+    ],
+    [
+      "Politician",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010661vm"
+    ],
+    [
+      "Children’s Rights Leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fm0mg"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.kind",
+      "Title"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106612h"
+    ],
+    [
+      "m.09w1p59",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0101bdq3"
+    ],
+    [
+      "m.09y01p3",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09yw165"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0101h_l2"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010662rx"
+    ],
+    [
+      "Nicola Roxon",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010662by"
+    ],
+    [
+      "Ayaan Hirsi Ali",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Tribal chief"
+    ],
+    [
+      "Civil Rights Leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Julia Gillard",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Winner"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Town supervisor"
+    ],
+    [
+      "AIDS Policy Specialist",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010g6wtj"
+    ],
+    [
+      "Akinwunmi Ambode",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "All the King's Men",
+      "book.written_work.subjects",
+      "Politician"
+    ],
+    [
+      "m.09x5gkq",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011r12cq"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Responsible Minister"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Housing and Community Development Leader"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Officeholder"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Tribal Rights Leader"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.strict_included_types",
+      "Physically Instantiable"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Statesman"
+    ],
+    [
+      "Oficer-Major of King Zog  I",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zmmt"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012vsxv7"
+    ],
+    [
+      "m.09x20cj",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "common.topic.subject_of",
+      "Jimi Agbaje"
+    ],
+    [
+      "Politician",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_lw10d"
+    ],
+    [
+      "Energy Policy Specialist",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106629x"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5pl8"
+    ],
+    [
+      "m.09xrn7q",
+      "common.webpage.topic",
+      "Politician"
+    ],
+    [
+      "Julia Gillard",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Jimi Agbaje",
+      "common.topic.subjects",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011njjm1"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066106"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010679yq"
+    ],
+    [
+      "Politician",
+      "common.topic.webpage",
+      "m.09x20cj"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105znh0"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106b4sm"
+    ],
+    [
+      "Rural Development Leader",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Karl Marx",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.strict_included_types",
+      "Animate"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zndc"
+    ],
+    [
+      "Nick Griffiths",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5prp"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Party leader"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010678k6"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010661yt"
+    ],
+    [
+      "Politician",
+      "type.type.expected_by",
+      "Resulting head of government"
+    ],
+    [
+      "Town supervisor",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105zn7k"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106613k"
+    ],
+    [
+      "Politician",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07ngkqq"
+    ],
+    [
+      "Politician",
+      "people.profession.specializations",
+      "Labor leader"
+    ],
+    [
+      "Damian Green",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0101bdn_"
+    ],
+    [
+      "Politician",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Enver Hoxha",
+      "common.topic.notable_types",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066mdj"
+    ],
+    [
+      "Party",
+      "type.property.master_property",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010660nv"
+    ],
+    [
+      "Bureaucrat",
+      "people.profession.specialization_of",
+      "Politician"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Public Health Leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Mayor of Montazels",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Alaskan Health Care Leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Environmentalist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Political strategist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "AIDS Policy Specialist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "type.property.expected_type",
+      "Profession"
+    ],
+    [
+      "Politician & Trade Unionist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Consul",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Tribal Rights Leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Party organizer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Rural Development Leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Political Attache",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Town supervisor",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Labor leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Profession",
+      "rdf-schema#range",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "type.type.expected_by",
+      "Profession"
+    ],
+    [
+      "local politician",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Bureaucrat",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Tyrant",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Energy Policy Specialist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Oficer-Major of King Zog  I",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Moira Gillard",
+      "freebase.valuenotation.has_value",
+      "Profession"
+    ],
+    [
+      "Civil Rights Leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "type.type.domain",
+      "People"
+    ],
+    [
+      "Diplomat",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Profession",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Rebel",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Children’s Rights Leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Statesman",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Housing and Community Development Leader",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Chairman, Chivalry Democratic Party",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Profession"
+    ],
+    [
+      "Usurper",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Mayor of Auckland",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Prefect",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Percy Bysshe Shelley",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Percy Bysshe Shelley"
+    ],
+    [
+      "Percy Bysshe Shelley",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Percy Bysshe Shelley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Percy Bysshe Shelley",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "The Blind Watchmaker",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Erkki Hartikainen",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Anacharsis Cloots",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Forth from his dark and lonely hiding-place, (Portentous sight!) the owlet Atheism, sailing on obscene wings athwart the noon, drops his blue-fringed lids, and holds them close, and hooting at the glorious sun in Heaven, cries out, Where is it?",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "No one can be an unbeliever nowadays. The Christian Apologists have left one nothing to disbelieve."
+    ],
+    [
+      "Friedrich Engels",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "An atheist is a person who has no invisible means of support",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "The divine is perhaps that quality in man which permits him to endure the lack of God.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Letter to a Christian Nation"
+    ],
+    [
+      "Theo van Gogh",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Joseph Stalin",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Tomás Garrido Canabal",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Sergio Fernández",
+      "people.person.ethnicity",
+      "Atheism"
+    ],
+    [
+      "Sergio Fernández",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "m.0gyj7s7",
+      "base.popstra.religion_choice.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Joseph Stalin"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Dawkins' God"
+    ],
+    [
+      "Hollow Be Thy Name",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "We shall say without hesitation that the atheist who is moved by love is moved by the Spirit of God; an atheist who lives by love is saved by his faith in the God whose existence (under that name) he denies."
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Forth from his dark and lonely hiding-place, (Portentous sight!) the owlet Atheism, sailing on obscene wings athwart the noon, drops his blue-fringed lids, and holds them close, and hooting at the glorious sun in Heaven, cries out, Where is it?"
+    ],
+    [
+      "An atheist is a man who looks through a telescope and tries to explain all that he can't see.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "We shall say without hesitation that the atheist who is moved by love is moved by the Spirit of God; an atheist who lives by love is saved by his faith in the God whose existence (under that name) he denies.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "PZ Myers",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Atheism: The Case Against God"
+    ],
+    [
+      "An atheist is a man who watches a Notre Dame -- Southern Methodist University game and doesn't care who wins.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "George Carlin",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheist Ireland",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "There is no God, Nature sufficeth unto herself; in no wise hath she need of an author."
+    ],
+    [
+      "The Portable Atheist",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Nobody talks so constantly about God as those who insist that there is no God.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Leon Trotsky"
+    ],
+    [
+      "Existence of God",
+      "base.argumentmaps.intellectual_dispute.positions",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Capitalism: The Unknown Ideal"
+    ],
+    [
+      "John Douglas, 9th Marquess of Queensberry",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Salman Rushdie",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Why I Am Not a Muslim",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.argumentmaps.position_in_debate.debate",
+      "Existence of God"
+    ],
+    [
+      "m.07ndk7_",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Atheism"
+    ],
+    [
+      "Stellan Skarsgård",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Ultimate Boeing 747 gambit",
+      "base.argumentmaps.idea.includes",
+      "Atheism"
+    ],
+    [
+      "God Is Not Great: How Religion Poisons Everything",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Friedrich Engels"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Internet Infidels"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Small amounts of philosophy lead to atheism, but larger amounts bring us back to God."
+    ],
+    [
+      "There are few people so stubborn in their atheism who when danger is pressing in will not acknowledge the divine power.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "An atheist is a person who has no invisible means of support"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Federation of Indian Rationalist Associations"
+    ],
+    [
+      "Irreligion. The principal one of the great faiths of the world.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Those thinkers who cannot believe in any gods often assert that the love of humanity would be in itself sufficient for them; and so, perhaps, it would, if they had it.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Sanal Edamaruku",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Philosophy: Who Needs It",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Atheist Alliance International"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Those thinkers who cannot believe in any gods often assert that the love of humanity would be in itself sufficient for them; and so, perhaps, it would, if they had it."
+    ],
+    [
+      "Now we have no God. We have had two: the old God that our fathers handed down to us, that we hated, and never liked; the new one that we made for ourselves, that we loved; but now he has flitted away from us, and we see what he was made of -- the shadow of our highest ideal, crowned and throned. Now we have no God.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "The Portable Atheist"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "An atheist may be simply one whose faith and love are concentrated on the impersonal aspects of God."
+    ],
+    [
+      "Theo van Gogh",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "There are few people so stubborn in their atheism who when danger is pressing in will not acknowledge the divine power."
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Salman Rushdie"
+    ],
+    [
+      "Tariq Ali",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Erkki Hartikainen"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Viktor Lennstrand"
+    ],
+    [
+      "Anacharsis Cloots",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Waiting for God",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Turan Dursun",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "When I told the people of Northern Ireland that I was an atheist, a woman in the audience stood up and said,  yes, but is it the God of the Catholics or the God of the Protestants in whom you don't believe?"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "I had rather believe all the Fables in the Legend, and the Talmud, and the Alcoran, than that this universal frame is without a Mind."
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "An atheist is a man who watches a Notre Dame -- Southern Methodist University game and doesn't care who wins."
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Atheism is rather in the lip than in the heart of man."
+    ],
+    [
+      "Atheism",
+      "common.topic.webpage",
+      "m.0b6r_sq"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "The divine is perhaps that quality in man which permits him to endure the lack of God."
+    ],
+    [
+      "Atheism",
+      "religion.religion.organizations",
+      "International Humanist and Ethical Union"
+    ],
+    [
+      "Vladimir Lenin",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheist and Agnostic Group",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "American Atheists",
+      "religion.religious_organization.associated_with",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "American Atheists"
+    ],
+    [
+      "Leon Trotsky",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "He was an embittered atheist (the sort of atheist who does not so much disbelieve in God as personally dislike Him).",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "How to trap an atheist: Serve him a fine meal, then ask him if he believes there is a cook.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Union of Rationalist Atheists and Agnostics",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "If you don't believe in God, all you have to believe in is decency. Decency is very good. Better decent than indecent. But I don't think it's enough."
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Humanist Canada"
+    ],
+    [
+      "Fariborz Shamshiri",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Karl Marx"
+    ],
+    [
+      "Arnulf Øverland",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Ayn Rand"
+    ],
+    [
+      "God, No!",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "American Humanist Association",
+      "religion.religious_organization.associated_with",
+      "Atheism"
+    ],
+    [
+      "Leon Trotsky",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Internet Infidels",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Objectivism: The Philosophy of Ayn Rand"
+    ],
+    [
+      "Norwegian Heathen Society",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "The Dawkins Delusion?"
+    ],
+    [
+      "First, whenever a man talks loudly against religion, always suspect that it is not his reason, but his passions, which have got the better of his creed. A bad life and a good belief are disagreeable and troublesome neighbors, and where they separate, depend upon it,  'Tis for no other cause but quietness sake.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "National Secular Society",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "For the New Intellectual",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "John Douglas, 9th Marquess of Queensberry",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Goparaju Ramachandra Rao",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "religion.religion.organizations",
+      "American Atheists"
+    ],
+    [
+      "500 años fregados pero cristianos",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Vladimir Lenin"
+    ],
+    [
+      "Federation of Indian Rationalist Associations",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Military Association of Atheists & Freethinkers",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Central Council of Ex-Muslims",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Atheist Foundation of Australia"
+    ],
+    [
+      "Atheism",
+      "base.argumentmaps.idea.includes",
+      "Negative and positive atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "National Secular Society"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Why I Am Not a Muslim"
+    ],
+    [
+      "Capitalism: The Unknown Ideal",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "The Twilight of Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "The God Delusion"
+    ],
+    [
+      "Salman Rushdie",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "John Douglas, 9th Marquess of Queensberry"
+    ],
+    [
+      "Atheist Centre",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "International League of non-religious and atheists"
+    ],
+    [
+      "I'm an atheist and I thank God for it.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Julia Gillard",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "The God Delusion",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Fariborz Shamshiri"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Irreligion. The principal one of the great faiths of the world."
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Philosophy: Who Needs It"
+    ],
+    [
+      "Atheism",
+      "base.argumentmaps.idea.included_in",
+      "Nontheism"
+    ],
+    [
+      "Joseph Edamaruku",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "GOD"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "I Sold My Soul on eBay"
+    ],
+    [
+      "When I told the people of Northern Ireland that I was an atheist, a woman in the audience stood up and said,  yes, but is it the God of the Catholics or the God of the Protestants in whom you don't believe?",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "I had rather believe all the Fables in the Legend, and the Talmud, and the Alcoran, than that this universal frame is without a Mind.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "religion.religion.organizations",
+      "Atheist Alliance International"
+    ],
+    [
+      "None",
+      "religion.deity.deity_of",
+      "Atheism"
+    ],
+    [
+      "Karl Marx",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism is rather in the lip than in the heart of man.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Nicola Roxon",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "An atheist is a man who looks through a telescope and tries to explain all that he can't see."
+    ],
+    [
+      "Marc Broude",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Vladimir Lenin",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Among the repulsions of atheism for me has been its drastic uninterestingness as an intellectual position. Where was the ingenuity, the ambiguity, the humanity (in the Harvard sense) of saying that the universe just happened to happen and that when we're dead we're dead?",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Sanal Edamaruku"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "How to trap an atheist: Serve him a fine meal, then ask him if he believes there is a cook."
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Atheist Ireland"
+    ],
+    [
+      "Dawkins' God",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Agnosticism"
+    ],
+    [
+      "Atheism: The Case Against God",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheist Foundation of Australia",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "religion.religion.deities",
+      "None"
+    ],
+    [
+      "It is true, that a little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Nothing: Something to Believe In",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Why I Am Not a Christian"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Goparaju Ramachandra Rao"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "If there is no God, everything is permitted."
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Marc Broude"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Atheist and Agnostic Group"
+    ],
+    [
+      "Atheism",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07ndk7_"
+    ],
+    [
+      "Marc Broude",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "PZ Myers",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "By night an atheist half believes in God."
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "The Blind Watchmaker"
+    ],
+    [
+      "Ayaan Hirsi Ali",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "George Carlin",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "God Is Not Great: How Religion Poisons Everything"
+    ],
+    [
+      "Dilsa Demirbag Sten",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Agnosticism",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Enver Hoxha",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "An atheist may be simply one whose faith and love are concentrated on the impersonal aspects of God.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Nontheism",
+      "base.argumentmaps.idea.includes",
+      "Atheism"
+    ],
+    [
+      "Tomás Garrido Canabal",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Joseph Stalin",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Negative and positive atheism",
+      "base.argumentmaps.idea.included_in",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.popstra.religion.membership",
+      "m.0gyj7s7"
+    ],
+    [
+      "Why I Am Not a Christian",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "No one can be an unbeliever nowadays. The Christian Apologists have left one nothing to disbelieve.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "When ever a person talks loudly against religion, always suspect that it is not their reason, but their passions, which have got the better of their beliefs. A bad life and a good belief are disagreeable and troublesome neighbors; and when they separate, depend on it that it is for the sake of peace and quiet.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.argumentmaps.idea.included_in",
+      "Ultimate Boeing 747 gambit"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Arnulf Øverland"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "George Carlin"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "The Atheist Agenda"
+    ],
+    [
+      "Arnulf Øverland",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "International Humanist and Ethical Union",
+      "religion.religious_organization.associated_with",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Among the repulsions of atheism for me has been its drastic uninterestingness as an intellectual position. Where was the ingenuity, the ambiguity, the humanity (in the Harvard sense) of saying that the universe just happened to happen and that when we're dead we're dead?"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "The God of the Old testament is arguably the most unpleasant character in all fiction..."
+    ],
+    [
+      "Cedomil Lausic Glasinovic",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Society of the Godless",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Goparaju Ramachandra Rao",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "By night an atheist half believes in God.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Ayaan Hirsi Ali",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "people.ethnicity.people",
+      "Sergio Fernández"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Youp van 't Hek"
+    ],
+    [
+      "God is dead",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Doubt: A History - The Great Doubters and Their Legacy of Innovation from Socrates and Jesus to Thomas Jefferson and Emily Dickinson"
+    ],
+    [
+      "The Twilight of Atheism",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "If there was a god, I'd still have both nuts."
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "God, No!"
+    ],
+    [
+      "Non-Prophets Radio",
+      "broadcast.content.genre",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Nobody talks so constantly about God as those who insist that there is no God."
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Turan Dursun"
+    ],
+    [
+      "There is no God, Nature sufficeth unto herself; in no wise hath she need of an author.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "The New Atheist Crusaders and Their Unholy Grail",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "International League of non-religious and atheists",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "common.topic.image",
+      "Paul Heinrich Dietrich Baron d'Holbach Roslin"
+    ],
+    [
+      "Atheism",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_ms_7s"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "First, whenever a man talks loudly against religion, always suspect that it is not his reason, but his passions, which have got the better of his creed. A bad life and a good belief are disagreeable and troublesome neighbors, and where they separate, depend upon it,  'Tis for no other cause but quietness sake."
+    ],
+    [
+      "Paul Heinrich Dietrich Baron d'Holbach Roslin",
+      "common.image.appears_in_topic_gallery",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "He must pull out his own eyes, and see no creature, before he can say, he sees no God; He must be no man, and quench his reasonable soul, before he can say to himself, there is no God."
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Norwegian Heathen Society"
+    ],
+    [
+      "Atheism",
+      "religion.religion.organizations",
+      "American Humanist Association"
+    ],
+    [
+      "Humanist Canada",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Case Against Religion",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "broadcast.genre.content",
+      "Non-Prophets Radio"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Theo van Gogh"
+    ],
+    [
+      "Atheism",
+      "common.topic.notable_for",
+      "g.125f3xjkz"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Now we have no God. We have had two: the old God that our fathers handed down to us, that we hated, and never liked; the new one that we made for ourselves, that we loved; but now he has flitted away from us, and we see what he was made of -- the shadow of our highest ideal, crowned and throned. Now we have no God."
+    ],
+    [
+      "Joseph Edamaruku",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Rational Response Squad",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Friedrich Engels",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Ayn Rand",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Rational Response Squad"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Union of Rationalist Atheists and Agnostics"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Central Council of Ex-Muslims"
+    ],
+    [
+      "Youp van 't Hek",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheist Alliance International",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Tomás Garrido Canabal"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Joseph Edamaruku"
+    ],
+    [
+      "Erkki Hartikainen",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "500 años fregados pero cristianos"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "When ever a person talks loudly against religion, always suspect that it is not their reason, but their passions, which have got the better of their beliefs. A bad life and a good belief are disagreeable and troublesome neighbors; and when they separate, depend on it that it is for the sake of peace and quiet."
+    ],
+    [
+      "Turan Dursun",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Hollow Be Thy Name"
+    ],
+    [
+      "Atheist Alliance International",
+      "religion.religious_organization.associated_with",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Society of the Godless"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Paul Henri Thiry Holbach"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "It is true, that a little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion."
+    ],
+    [
+      "GOD",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Objectivism: The Philosophy of Ayn Rand",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "The New Atheist Crusaders and Their Unholy Grail"
+    ],
+    [
+      "Karl Marx",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "God: The Failed Hypothesis",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "God is dead"
+    ],
+    [
+      "The Atheist Agenda",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Small amounts of philosophy lead to atheism, but larger amounts bring us back to God.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Enver Hoxha",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Stellan Skarsgård"
+    ],
+    [
+      "Atheism",
+      "common.topic.article",
+      "m.0kpx"
+    ],
+    [
+      "I Sold My Soul on eBay",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Atheist Centre"
+    ],
+    [
+      "Ayn Rand",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "He must pull out his own eyes, and see no creature, before he can say, he sees no God; He must be no man, and quench his reasonable soul, before he can say to himself, there is no God.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Sanal Edamaruku",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Breaking the Spell: Religion as a Natural Phenomenon",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Letter to a Christian Nation",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Cedomil Lausic Glasinovic"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "God: The Failed Hypothesis"
+    ],
+    [
+      "Dilsa Demirbag Sten",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Doubt: A History - The Great Doubters and Their Legacy of Innovation from Socrates and Jesus to Thomas Jefferson and Emily Dickinson",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "If there is no God, everything is permitted.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Ayaan Hirsi Ali"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Enver Hoxha"
+    ],
+    [
+      "Freedom From Religion Foundation",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "Paul Henri Thiry Holbach",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Atheist Universe: Why God Didn't Have A Thing To Do With It"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Freedom From Religion Foundation"
+    ],
+    [
+      "Paul Henri Thiry Holbach",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "American Atheists",
+      "organization.organization.sectors",
+      "Atheism"
+    ],
+    [
+      "The Dawkins Delusion?",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Dilsa Demirbag Sten"
+    ],
+    [
+      "If you don't believe in God, all you have to believe in is decency. Decency is very good. Better decent than indecent. But I don't think it's enough.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Waiting for God"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Darwin's Angel"
+    ],
+    [
+      "Tariq Ali",
+      "people.person.religion",
+      "Atheism"
+    ],
+    [
+      "Darwin's Angel",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Nothing: Something to Believe In"
+    ],
+    [
+      "If there was a god, I'd still have both nuts.",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "common.topic.notable_types",
+      "Religion"
+    ],
+    [
+      "Viktor Lennstrand",
+      "base.activism.activist.area_of_activism",
+      "Atheism"
+    ],
+    [
+      "m.0b6r_sq",
+      "common.webpage.topic",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "I'm an atheist and I thank God for it."
+    ],
+    [
+      "The God of the Old testament is arguably the most unpleasant character in all fiction...",
+      "media_common.quotation.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Breaking the Spell: Religion as a Natural Phenomenon"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "The End of Faith"
+    ],
+    [
+      "Atheism",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Military Association of Atheists & Freethinkers"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "For the New Intellectual"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Tariq Ali"
+    ],
+    [
+      "Atheist Universe: Why God Didn't Have A Thing To Do With It",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "book.book_subject.works",
+      "Case Against Religion"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "PZ Myers"
+    ],
+    [
+      "Atheism",
+      "base.activism.activism_issue.activists",
+      "Anacharsis Cloots"
+    ],
+    [
+      "The End of Faith",
+      "book.written_work.subjects",
+      "Atheism"
+    ],
+    [
+      "Atheism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "He was an embittered atheist (the sort of atheist who does not so much disbelieve in God as personally dislike Him)."
+    ],
+    [
+      "Height",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Joseph Stalin",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Akinwunmi Ambode",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Height",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Height"
+    ],
+    [
+      "Theo van Gogh",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Friedrich Engels",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Karl Marx",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Children",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Employment history"
+    ],
+    [
+      "Ethnicity",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Signature"
+    ],
+    [
+      "Children",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Quotations"
+    ],
+    [
+      "Users Who Say They Are This Person",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Employment history",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Children",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.kind",
+      "Meta"
+    ],
+    [
+      "Ethnicity",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.equivalent_topic",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Education"
+    ],
+    [
+      "Tim Mathieson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Karl Marx",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Sam Lawn",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Dilsa Demirbag Sten",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Notable professions"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "TVRage ID"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "age"
+    ],
+    [
+      "Siblings",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Person",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Person",
+      "freebase.documented_object.documentation",
+      "m.0kpqvr"
+    ],
+    [
+      "Places lived",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Education",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Places lived"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Physically Instantiable"
+    ],
+    [
+      "Person",
+      "type.type.domain",
+      "People"
+    ],
+    [
+      "Weight",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Akinwunmi Ambode",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Users Who Say They Are This Person",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Languages"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Person",
+      "freebase.equivalent_topic.equivalent_type",
+      "Person"
+    ],
+    [
+      "Spouse (or domestic partner)",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Weight"
+    ],
+    [
+      "Tariq Ali",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Signature",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Siblings",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Employment history",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "common.topic.article",
+      "m.0kpqvr"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Animate"
+    ],
+    [
+      "Meta",
+      "freebase.type_kind.types",
+      "Person"
+    ],
+    [
+      "m.04gf613",
+      "base.ontologies.ontology_class_mapping.freebase_topic",
+      "Person"
+    ],
+    [
+      "Languages",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Places lived",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Moira Gillard",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Religion",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Signature",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "base.ontologies.ontology_class.equivalent_classes",
+      "m.04gf613"
+    ],
+    [
+      "Fariborz Shamshiri",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Ethnicity"
+    ],
+    [
+      "Children",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Users Who Say They Are This Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "QuotationsBook ID"
+    ],
+    [
+      "Spouse (or domestic partner)",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Languages",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Education",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Religion",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Erkki Hartikainen",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Group"
+    ],
+    [
+      "Weight",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Siblings"
+    ],
+    [
+      "Derek Brockway",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Alison Gillard",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Religion"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Children"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Arnulf Øverland",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tariq Ali",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Joseph Stalin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul Henri Thiry Holbach",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles Cullum",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Theo van Gogh",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Derek Brockway",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sanal Edamaruku",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Gwynfor Evans",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Karl Marx",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Davies",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Sergio Fernández",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bob John",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Irving Davies",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alastair Reynolds",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Dai Ward",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andrew Selby",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marc Broude",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jack Livesey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fariborz Shamshiri",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fred Sheldon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert Tear",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tomás Garrido Canabal",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Derek Tapscott",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Billy Jennings",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Friedrich Engels",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Young",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Douglas, 9th Marquess of Queensberry",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gareth Jones",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Viktor Lennstrand",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Vladimir Lenin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Salman Rushdie",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tim Mathieson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Albert Hall",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Turan Dursun",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kayne McLaggon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Leon Trotsky",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Male"
+    ],
+    [
+      "Roy Finch",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Damian Green",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lane Meddick",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Erkki Hartikainen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Cedomil Lausic Glasinovic",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Goparaju Ramachandra Rao",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Youp van 't Hek",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "George Carlin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nick Griffiths",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gerran Howell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bryn Merrick",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Wilf Cude",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Roger Livesey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stellan Skarsgård",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Anacharsis Cloots",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Gillard",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Peter Stead",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Akinwunmi Ambode",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ben Swallow",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jimi Agbaje",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Barry Livesey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Joseph Edamaruku",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "PZ Myers",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Enver Hoxha",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dean Gratton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "United Kingdom",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wales"
+    ],
+    [
+      "Glamorgan",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "National Secular Society",
+      "organization.organization.geographic_scope",
+      "United Kingdom"
+    ],
+    [
+      "Submarine",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Submarine",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Wales",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Dean Gratton",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Jack Livesey",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Alastair Reynolds",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Gareth Jones",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Andrew Selby",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Barry, Vale of Glamorgan",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Gwynfor Evans",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Beth Morris",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Salman Rushdie",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Irving Davies",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Avis Townes",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Damian Green",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Wales",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "Wales",
+      "location.administrative_division.first_level_division_of",
+      "United Kingdom"
+    ],
+    [
+      "Roger Livesey",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "John Douglas, 9th Marquess of Queensberry",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "David Davies",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.first_level_divisions",
+      "Wales"
+    ],
+    [
+      "Barry Livesey",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Wales",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United Kingdom"
+    ],
+    [
+      "Tariq Ali",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Charles Cullum",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Wales",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "Avis Townes",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Tomás Garrido Canabal",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Gareth Jones",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Joseph Edamaruku",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Goparaju Ramachandra Rao",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Physically Instantiable"
+    ],
+    [
+      "John Gillard",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Animate"
+    ],
+    [
+      "Deceased Person",
+      "type.type.domain",
+      "People"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Cedomil Lausic Glasinovic",
+      "common.topic.notable_types",
+      "Deceased Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ]
+  ]
+}

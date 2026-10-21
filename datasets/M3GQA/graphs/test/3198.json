@@ -1,0 +1,1165 @@
+{
+  "graph_id": 3198,
+  "subgraph": [
+    [
+      "m.0gxr3bt",
+      "film.performance.character",
+      "Jessica Carpenter"
+    ],
+    [
+      "Jessica Carpenter",
+      "film.film_character.portrayed_in_films",
+      "m.0gxr3bt"
+    ],
+    [
+      "Ian Somerhalder",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Ian Somerhalder",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Ian Somerhalder",
+      "award.award_nominee.award_nominations",
+      "m.0110_ngd"
+    ],
+    [
+      "m.0110_ngd",
+      "award.award_nomination.award_nominee",
+      "Ian Somerhalder"
+    ],
+    [
+      "Ian Somerhalder",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ian Somerhalder",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ian Somerhalder",
+      "award.award_nominee.award_nominations",
+      "m.0ytdc25"
+    ],
+    [
+      "Ian Somerhalder",
+      "award.award_winner.awards_won",
+      "m.0y5cwr7"
+    ],
+    [
+      "m.011cfpyp",
+      "award.award_honor.award_winner",
+      "Ian Somerhalder"
+    ],
+    [
+      "Ian Somerhalder",
+      "award.award_winner.awards_won",
+      "m.011cfpyp"
+    ],
+    [
+      "Ian Somerhalder",
+      "award.award_nominee.award_nominations",
+      "m.0yr76n8"
+    ],
+    [
+      "Ian Somerhalder",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ian Somerhalder",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0yr780x",
+      "award.long_list_nomination.nominee",
+      "Ian Somerhalder"
+    ],
+    [
+      "m.0yr76n8",
+      "award.award_nomination.award_nominee",
+      "Ian Somerhalder"
+    ],
+    [
+      "m.0ytdc25",
+      "award.award_nomination.award_nominee",
+      "Ian Somerhalder"
+    ],
+    [
+      "Ian Somerhalder",
+      "award.award_winner.awards_won",
+      "m.0zyv7xx"
+    ],
+    [
+      "Ian Somerhalder",
+      "people.person.profession",
+      "Model"
+    ],
+    [
+      "Ian Somerhalder",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "m.0l0wr_z",
+      "base.popstra.dated.participant",
+      "Ian Somerhalder"
+    ],
+    [
+      "Ian Somerhalder",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "m.0zyv7xx",
+      "award.award_honor.award_winner",
+      "Ian Somerhalder"
+    ],
+    [
+      "Ian Somerhalder",
+      "base.popstra.celebrity.dated",
+      "m.0l0wr_z"
+    ],
+    [
+      "m.0y5cwr7",
+      "award.award_honor.award_winner",
+      "Ian Somerhalder"
+    ],
+    [
+      "Ian Somerhalder",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ian Somerhalder",
+      "award.long_list_nominee.long_list_nominations",
+      "m.0yr780x"
+    ],
+    [
+      "Too Young to Marry",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Too Young to Marry",
+      "film.film.starring",
+      "m.0gxr3bt"
+    ],
+    [
+      "Too Young to Marry",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "m.0gxr3bt",
+      "film.performance.film",
+      "Too Young to Marry"
+    ],
+    [
+      "m.0z8gcl3",
+      "award.award_nomination.award",
+      "Teen Choice Award for Choice Vampire"
+    ],
+    [
+      "Teen Choice Award for Choice Vampire",
+      "award.award_category.nominees",
+      "m.0z8gcl3"
+    ],
+    [
+      "Nina Dobrev",
+      "film.actor.film",
+      "m.0gxr3bt"
+    ],
+    [
+      "m.0gxr3bt",
+      "film.performance.actor",
+      "Nina Dobrev"
+    ],
+    [
+      "Actor",
+      "base.lightweight.profession.professions_similar",
+      "Model"
+    ],
+    [
+      "Paul Wesley",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Model",
+      "base.lightweight.profession.similar_professions",
+      "Actor"
+    ],
+    [
+      "Nina Dobrev",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Voice Actor",
+      "people.profession.specialization_of",
+      "Actor"
+    ],
+    [
+      "Derek Hough",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Actor",
+      "people.profession.specializations",
+      "Voice Actor"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.reverse_property",
+      "Children"
+    ],
+    [
+      "Theodosii Spassov",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Adela Peeva",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Michaela Konstantinova",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Paul Wesley",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "owl#inverseOf",
+      "Children"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Victoria Terziyska",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Nikolai Dobrev",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Children",
+      "type.property.master_property",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Paul Wesley",
+      "award.award_nominee.award_nominations",
+      "m.0110_ngd"
+    ],
+    [
+      "m.0110_ngd",
+      "award.award_nomination.award_nominee",
+      "Paul Wesley"
+    ],
+    [
+      "m.0110_ngd",
+      "award.award_nomination.award_nominee",
+      "Nina Dobrev"
+    ],
+    [
+      "Nina Dobrev",
+      "award.award_nominee.award_nominations",
+      "m.0110_ngd"
+    ],
+    [
+      "m.0110_ngd",
+      "award.award_nomination.award",
+      "Young Hollywood Award for Best Threesome"
+    ],
+    [
+      "m.0110_ngd",
+      "award.award_nomination.ceremony",
+      "2014 Young Hollywood Awards"
+    ],
+    [
+      "m.0110_ngd",
+      "award.award_nomination.nominated_for",
+      "The Vampire Diaries"
+    ],
+    [
+      "Young Hollywood Award for Best Threesome",
+      "award.award_category.nominees",
+      "m.0110_ngd"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.award_nominated_work.award_nominations",
+      "m.0110_ngd"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Derek Hough",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#range",
+      "Gender"
+    ],
+    [
+      "Paul Wesley",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.expected_type",
+      "Gender"
+    ],
+    [
+      "Nina Dobrev",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Paul Wesley",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Derek Hough",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Nikolai Dobrev",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Country of nationality",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Michaela Konstantinova",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Alexander Dobrev",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Nina Dobrev",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "People's Choice Award for Favorite On-Screen Chemistry",
+      "award.award_category.nominees",
+      "m.0ytdc25"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.award_nominated_work.award_nominations",
+      "m.0ytdc25"
+    ],
+    [
+      "m.0ytdc25",
+      "award.award_nomination.award",
+      "People's Choice Award for Favorite On-Screen Chemistry"
+    ],
+    [
+      "m.0ytdc25",
+      "award.award_nomination.ceremony",
+      "40th People's Choice Awards"
+    ],
+    [
+      "m.0ytdc25",
+      "award.award_nomination.award_nominee",
+      "Nina Dobrev"
+    ],
+    [
+      "m.0ytdc25",
+      "award.award_nomination.nominated_for",
+      "The Vampire Diaries"
+    ],
+    [
+      "Nina Dobrev",
+      "award.award_nominee.award_nominations",
+      "m.0ytdc25"
+    ],
+    [
+      "Paul Wesley",
+      "award.award_winner.awards_won",
+      "m.0y5cwr7"
+    ],
+    [
+      "m.0y5cwr7",
+      "award.award_honor.award_winner",
+      "Paul Wesley"
+    ],
+    [
+      "m.0y5cwr7",
+      "award.award_honor.ceremony",
+      "2010 Young Hollywood Awards"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.award_winning_work.awards_won",
+      "m.0y5cwr7"
+    ],
+    [
+      "m.0y5cwr7",
+      "award.award_honor.award_winner",
+      "Nina Dobrev"
+    ],
+    [
+      "2010 Young Hollywood Awards",
+      "award.award_ceremony.awards_presented",
+      "m.0y5cwr7"
+    ],
+    [
+      "m.0y5cwr7",
+      "award.award_honor.award",
+      "Young Hollywood Award for Cast To Watch"
+    ],
+    [
+      "Nina Dobrev",
+      "award.award_winner.awards_won",
+      "m.0y5cwr7"
+    ],
+    [
+      "Young Hollywood Award for Cast To Watch",
+      "award.award_category.winners",
+      "m.0y5cwr7"
+    ],
+    [
+      "m.0y5cwr7",
+      "award.award_honor.honored_for",
+      "The Vampire Diaries"
+    ],
+    [
+      "2014 Young Hollywood Awards",
+      "award.award_ceremony.awards_presented",
+      "m.011cfpyp"
+    ],
+    [
+      "Paul Wesley",
+      "award.award_winner.awards_won",
+      "m.011cfpyp"
+    ],
+    [
+      "m.011cfpyp",
+      "award.award_honor.award",
+      "Young Hollywood Award for Best Threesome"
+    ],
+    [
+      "m.011cfpyp",
+      "award.award_honor.honored_for",
+      "The Vampire Diaries"
+    ],
+    [
+      "m.011cfpyp",
+      "award.award_honor.award_winner",
+      "Nina Dobrev"
+    ],
+    [
+      "m.011cfpyp",
+      "award.award_honor.ceremony",
+      "2014 Young Hollywood Awards"
+    ],
+    [
+      "Young Hollywood Award for Best Threesome",
+      "award.award_category.winners",
+      "m.011cfpyp"
+    ],
+    [
+      "Nina Dobrev",
+      "award.award_winner.awards_won",
+      "m.011cfpyp"
+    ],
+    [
+      "m.011cfpyp",
+      "award.award_honor.award_winner",
+      "Paul Wesley"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.award_winning_work.awards_won",
+      "m.011cfpyp"
+    ],
+    [
+      "m.0yr76n8",
+      "award.award_nomination.ceremony",
+      "2010 Young Hollywood Awards"
+    ],
+    [
+      "Nina Dobrev",
+      "award.award_nominee.award_nominations",
+      "m.0yr76n8"
+    ],
+    [
+      "m.0yr76n8",
+      "award.award_nomination.award_nominee",
+      "Nina Dobrev"
+    ],
+    [
+      "Young Hollywood Award for Cast To Watch",
+      "award.award_category.nominees",
+      "m.0yr76n8"
+    ],
+    [
+      "m.0yr76n8",
+      "award.award_nomination.nominated_for",
+      "The Vampire Diaries"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.award_nominated_work.award_nominations",
+      "m.0yr76n8"
+    ],
+    [
+      "2010 Young Hollywood Awards",
+      "award.award_ceremony.nominees",
+      "m.0yr76n8"
+    ],
+    [
+      "Paul Wesley",
+      "award.award_nominee.award_nominations",
+      "m.0yr76n8"
+    ],
+    [
+      "m.0yr76n8",
+      "award.award_nomination.award",
+      "Young Hollywood Award for Cast To Watch"
+    ],
+    [
+      "m.0yr76n8",
+      "award.award_nomination.award_nominee",
+      "Paul Wesley"
+    ],
+    [
+      "Alexander Dobrev",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Paul Wesley",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Derek Hough",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Nina Dobrev",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Michaela Konstantinova",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Nikolai Dobrev",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Theodosii Spassov",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nikolai Dobrev",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Osman Duraliev",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alexander Dobrev",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Derek Hough",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Petar Gabrovski",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul Wesley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nezir Sagir",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ivan Ivanov Bagryanov",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Emanuil Dyulgerov",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Shener Remzi",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0yr780x",
+      "award.long_list_nomination.nominee",
+      "Paul Wesley"
+    ],
+    [
+      "m.0yr780x",
+      "award.long_list_nomination.award",
+      "Young Hollywood Award for Cast To Watch"
+    ],
+    [
+      "m.0yr780x",
+      "award.long_list_nomination.nominated_work",
+      "The Vampire Diaries"
+    ],
+    [
+      "Young Hollywood Award for Cast To Watch",
+      "award.award_category.long_lists",
+      "m.0yr780x"
+    ],
+    [
+      "Nina Dobrev",
+      "award.long_list_nominee.long_list_nominations",
+      "m.0yr780x"
+    ],
+    [
+      "m.0yr780x",
+      "award.long_list_nomination.nominee",
+      "Nina Dobrev"
+    ],
+    [
+      "Paul Wesley",
+      "award.long_list_nominee.long_list_nominations",
+      "m.0yr780x"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.long_listed_work.long_list_nominations",
+      "m.0yr780x"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.award_winning_work.awards_won",
+      "m.0zyv7xx"
+    ],
+    [
+      "m.0zyv7xx",
+      "award.award_honor.award_winner",
+      "Nina Dobrev"
+    ],
+    [
+      "m.0zyv7xx",
+      "award.award_honor.ceremony",
+      "40th People's Choice Awards"
+    ],
+    [
+      "40th People's Choice Awards",
+      "award.award_ceremony.awards_presented",
+      "m.0zyv7xx"
+    ],
+    [
+      "m.0zyv7xx",
+      "award.award_honor.award",
+      "People's Choice Award for Favorite On-Screen Chemistry"
+    ],
+    [
+      "Nina Dobrev",
+      "award.award_winner.awards_won",
+      "m.0zyv7xx"
+    ],
+    [
+      "m.0zyv7xx",
+      "award.award_honor.honored_for",
+      "The Vampire Diaries"
+    ],
+    [
+      "People's Choice Award for Favorite On-Screen Chemistry",
+      "award.award_category.winners",
+      "m.0zyv7xx"
+    ],
+    [
+      "Mia Jones",
+      "fictional_universe.fictional_character.occupation",
+      "Model"
+    ],
+    [
+      "Paul Wesley",
+      "people.person.profession",
+      "Model"
+    ],
+    [
+      "Model",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Mia Jones"
+    ],
+    [
+      "Model",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Nina Dobrev",
+      "people.person.profession",
+      "Model"
+    ],
+    [
+      "Lili Ivanova",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "Children",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Adela Peeva",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Children",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Nina Dobrev",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "m.0l0wr_z",
+      "base.popstra.dated.participant",
+      "Nina Dobrev"
+    ],
+    [
+      "Nina Dobrev",
+      "base.popstra.celebrity.dated",
+      "m.0l0wr_z"
+    ],
+    [
+      "Derek Hough",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "owl#inverseOf",
+      "People born here"
+    ],
+    [
+      "Place of birth",
+      "type.property.reverse_property",
+      "People born here"
+    ],
+    [
+      "Nikolai Dobrev",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "People born here",
+      "type.property.master_property",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Michaela Konstantinova",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Nina Dobrev",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Alexander Dobrev",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Paul Wesley",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "The Roommate",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Poet",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.dialects",
+      "Canadian English"
+    ],
+    [
+      "My Daughter's Secret",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Canadian English",
+      "language.language_dialect.language",
+      "English Language"
+    ],
+    [
+      "Chloe",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Nina Dobrev",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Playing House",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "How She Move",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Canada"
+    ],
+    [
+      "The Final Girls",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Repo! The Genetic Opera",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "ninadobrev",
+      "internet.blog.language",
+      "English Language"
+    ],
+    [
+      "American English",
+      "language.language_dialect.language",
+      "English Language"
+    ],
+    [
+      "The American Mall",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Paul Wesley",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Degrassi: The Next Generation",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "God's House",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Playing House",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Canada",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Let's Be Cops",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Perks of Being a Wallflower",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "The Vampire Diaries",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.dialects",
+      "American English"
+    ],
+    [
+      "Merry Madagascar",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Mookie's Law",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Merry Madagascar",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Never Cry Werewolf",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Arena",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Away from Her",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.writing_system",
+      "Latin alphabet"
+    ],
+    [
+      "Never Cry Werewolf",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Fugitive Pieces",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Vampire Diaries",
+      "award.award_nominated_work.award_nominations",
+      "m.0z8gcl3"
+    ],
+    [
+      "m.0z8gcl3",
+      "award.award_nomination.award_nominee",
+      "Nina Dobrev"
+    ],
+    [
+      "Nina Dobrev",
+      "award.award_nominee.award_nominations",
+      "m.0z8gcl3"
+    ],
+    [
+      "m.0z8gcl3",
+      "award.award_nomination.nominated_for",
+      "The Vampire Diaries"
+    ],
+    [
+      "m.0z8gcl3",
+      "award.award_nomination.ceremony",
+      "2011 Teen Choice Awards"
+    ]
+  ]
+}

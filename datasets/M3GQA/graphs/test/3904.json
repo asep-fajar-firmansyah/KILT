@@ -1,0 +1,2130 @@
+{
+  "graph_id": 3904,
+  "subgraph": [
+    [
+      "Jiangsu",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Jiangsu"
+    ],
+    [
+      "Jiangsu",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Jiangsu"
+    ],
+    [
+      "Jiangsu",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Jiangsu",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Jiangsu",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Jiangsu",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Shanghai"
+    ],
+    [
+      "Shanghai",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Digital Jungle"
+    ],
+    [
+      "Shanghai",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "Shanghai",
+      "base.biblioness.bibs_location.country",
+      "China"
+    ],
+    [
+      "Shanghai",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Shanghai"
+    ],
+    [
+      "Digital Jungle",
+      "organization.organization.geographic_scope",
+      "Shanghai"
+    ],
+    [
+      "Shanghai",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Shanghai",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Shanghai",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese municipality"
+    ],
+    [
+      "Shanghai",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Beijing",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Beijing"
+    ],
+    [
+      "Beijing",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "China",
+      "location.country.capital",
+      "Beijing"
+    ],
+    [
+      "Beijing",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Digital Jungle"
+    ],
+    [
+      "Digital Jungle",
+      "organization.organization.geographic_scope",
+      "Beijing"
+    ],
+    [
+      "Beijing",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Beijing",
+      "base.biblioness.bibs_location.country",
+      "China"
+    ],
+    [
+      "Beijing",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese municipality"
+    ],
+    [
+      "Beijing",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Beijing",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Beijing"
+    ],
+    [
+      "Yulin",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "Yulin",
+      "location.administrative_division.second_level_division_of",
+      "China"
+    ],
+    [
+      "Yulin",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Yulin"
+    ],
+    [
+      "Yulin",
+      "location.location.containedby",
+      "Guangxi"
+    ],
+    [
+      "Guangxi",
+      "location.location.contains",
+      "Yulin"
+    ],
+    [
+      "Yulin",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.second_level_divisions",
+      "Yulin"
+    ],
+    [
+      "Chinese autonomous region",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "China"
+    ],
+    [
+      "Tibet",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Broad Peak",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Yunnan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Shanxi",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "smarTours",
+      "travel.tour_operator.travel_destinations",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Broad Peak"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Lhotse"
+    ],
+    [
+      "Pumori",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Jongsong Peak",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Hebei",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Hunan",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "base.schemastaging.disputed_location_claimant.disputed_territories",
+      "Gangkhar Puensum"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Kula Kangri"
+    ],
+    [
+      "Gangkhar Puensum",
+      "base.schemastaging.disputed_location.claimed_by",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Hunan"
+    ],
+    [
+      "m.0wg94v6",
+      "location.partial_containment_relationship.partially_contained_by",
+      "China"
+    ],
+    [
+      "Hong Kong",
+      "base.biblioness.bibs_location.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Hubei"
+    ],
+    [
+      "Gansu",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Chinese municipality"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "China"
+    ],
+    [
+      "Shanxi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Chinese province",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "China"
+    ],
+    [
+      "Yunnan",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Chinese municipality",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "China"
+    ],
+    [
+      "Jelep La",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Henan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Jongsong Peak"
+    ],
+    [
+      "China",
+      "location.country.languages_spoken",
+      "Nepali Language"
+    ],
+    [
+      "Anhui",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Digital Jungle",
+      "organization.organization.geographic_scope",
+      "China"
+    ],
+    [
+      "China",
+      "base.schemastaging.disputed_location_claimant.disputed_territories",
+      "Tongshanjiabu"
+    ],
+    [
+      "Tianjin",
+      "base.biblioness.bibs_location.country",
+      "China"
+    ],
+    [
+      "Chinese special administrative region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "China"
+    ],
+    [
+      "Guangxi",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Fujian",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.adjoin_s",
+      "m.043w210"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Taiwan Province, People's Republic of China"
+    ],
+    [
+      "Tibet",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Jiangxi",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "China"
+    ],
+    [
+      "Ghaghara",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "China"
+    ],
+    [
+      "m.043w210",
+      "location.adjoining_relationship.adjoins",
+      "China"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Tibet"
+    ],
+    [
+      "Shandong",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Zhejiang",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Heilongjiang"
+    ],
+    [
+      "Chinese special administrative region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "China"
+    ],
+    [
+      "Mount Everest",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Yunnan"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Fujian"
+    ],
+    [
+      "Zhejiang",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Shishapangma",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Anhui"
+    ],
+    [
+      "China",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Chinese language",
+      "language.human_language.countries_spoken_in",
+      "China"
+    ],
+    [
+      "Qinghai",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Heilongjiang",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Qinghai"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Chongqing"
+    ],
+    [
+      "Gangkhar Puensum",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Kula Kangri",
+      "base.schemastaging.disputed_location.claimed_by",
+      "China"
+    ],
+    [
+      "Taiwan Province, People's Republic of China",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Gansu",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Shaanxi"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Himalayas"
+    ],
+    [
+      "Anhui",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Chinese province"
+    ],
+    [
+      "Hebei",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Sichuan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Heilongjiang"
+    ],
+    [
+      "Makalu",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Chinese autonomous region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Chongqing"
+    ],
+    [
+      "Shaanxi",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Chomo Lonzo",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Shandong",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Chinese province",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Chinese special administrative region"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hainan"
+    ],
+    [
+      "Chongqing",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Chinese municipality",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Macau"
+    ],
+    [
+      "Heilongjiang",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Macau",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Arun River, China-Nepal",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Far Eastern Economic Review",
+      "book.periodical.subjects",
+      "China"
+    ],
+    [
+      "Sichuan",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Chongqing",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hubei"
+    ],
+    [
+      "China",
+      "location.statistical_region.places_exported_to",
+      "m.048_4r2"
+    ],
+    [
+      "Qinghai",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Siguang Ri",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Chinese special administrative region"
+    ],
+    [
+      "Jiangxi",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Ghaghara"
+    ],
+    [
+      "Chinese autonomous region traditional eighteen",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "China"
+    ],
+    [
+      "Hainan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Chinese special administrative region",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "China"
+    ],
+    [
+      "Shanxi",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Guangxi"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Zhejiang"
+    ],
+    [
+      "Yangra",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Tianjin",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "m.048_4r2",
+      "location.imports_and_exports.imported_from",
+      "China"
+    ],
+    [
+      "Changtse",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Chinese province",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Gansu"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Yangra"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Mount Everest"
+    ],
+    [
+      "China",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Jilin"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Guangxi"
+    ],
+    [
+      "Guizhou",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Anhui",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Jiangxi"
+    ],
+    [
+      "Chinese municipality",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "China"
+    ],
+    [
+      "Jilin",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Tianjin",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Trishuli River"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Henan"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Gyachung Kang"
+    ],
+    [
+      "Hunan",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Guizhou"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Gangkhar Puensum"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Liaoning"
+    ],
+    [
+      "Taiwan Province, People's Republic of China",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Guangdong Province",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Guizhou"
+    ],
+    [
+      "Henan",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Makalu II"
+    ],
+    [
+      "Gandaki River",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Zhejiang"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Chinese autonomous region"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Jiangxi"
+    ],
+    [
+      "Chinese language",
+      "language.human_language.main_country",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Shaanxi"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Macau"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Pumori"
+    ],
+    [
+      "Chinese province",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tianjin"
+    ],
+    [
+      "Zhejiang",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Kula Kangri",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Tongshanjiabu"
+    ],
+    [
+      "China",
+      "location.location.partiallycontains",
+      "m.0wg94v6"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Mukut Parbat"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Henan"
+    ],
+    [
+      "Fujian",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Heilongjiang",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Chinese special administrative region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "China"
+    ],
+    [
+      "Guangxi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Qinghai",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Hubei",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Liaoning",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Samsara",
+      "film.film.featured_film_locations",
+      "China"
+    ],
+    [
+      "Hainan",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Jiangxi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Makalu"
+    ],
+    [
+      "Shaanxi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Arun River, China-Nepal"
+    ],
+    [
+      "Trishuli River",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Liaoning"
+    ],
+    [
+      "China",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Hebei",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Qinghai"
+    ],
+    [
+      "Jilin",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Chinese municipality",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "China"
+    ],
+    [
+      "Hong Kong",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hunan"
+    ],
+    [
+      "China",
+      "location.location.partiallycontains",
+      "m.0wg94v1"
+    ],
+    [
+      "Himalayas",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Cho Oyu",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "Taiwan Province, People's Republic of China",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Guangdong Province"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hong Kong"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Hong Kong"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Shanxi"
+    ],
+    [
+      "China",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Hubei",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Macau",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Lhotse",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Chinese autonomous region traditional eighteen"
+    ],
+    [
+      "Chinese autonomous region traditional eighteen",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "China"
+    ],
+    [
+      "Shandong",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Sichuan",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Chinese autonomous region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "China"
+    ],
+    [
+      "China",
+      "film.film_location.featured_in_films",
+      "Samsara"
+    ],
+    [
+      "The Linq",
+      "base.casinos.casino.theme",
+      "China"
+    ],
+    [
+      "Chinese autonomous region traditional eighteen",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "China"
+    ],
+    [
+      "Liaoning",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Guangdong Province",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Anhui"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Chinese autonomous region traditional eighteen"
+    ],
+    [
+      "Chinese autonomous region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "China"
+    ],
+    [
+      "China",
+      "book.periodical_subject.periodicals",
+      "Far Eastern Economic Review"
+    ],
+    [
+      "K2",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Hainan"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "K2"
+    ],
+    [
+      "Guangdong Province",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hebei"
+    ],
+    [
+      "Macau",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Guizhou",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Khumbutse",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Tongshanjiabu",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Chinese autonomous region"
+    ],
+    [
+      "Hunan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Tongshanjiabu",
+      "base.schemastaging.disputed_location.claimed_by",
+      "China"
+    ],
+    [
+      "China",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Digital Jungle"
+    ],
+    [
+      "China",
+      "freebase.valuenotation.has_no_value",
+      "Date dissolved"
+    ],
+    [
+      "Hong Kong",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Hebei"
+    ],
+    [
+      "China",
+      "location.country.languages_spoken",
+      "Chinese language"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Gandaki River"
+    ],
+    [
+      "China",
+      "travel.travel_destination.tour_operators",
+      "smarTours"
+    ],
+    [
+      "m.0wg94v1",
+      "location.partial_containment_relationship.partially_contained_by",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Shandong"
+    ],
+    [
+      "Nepali Language",
+      "language.human_language.countries_spoken_in",
+      "China"
+    ],
+    [
+      "Hubei",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "China"
+    ],
+    [
+      "Gansu",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Taiwan Province, People's Republic of China"
+    ],
+    [
+      "China",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Sichuan"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Jilin"
+    ],
+    [
+      "Gyachung Kang",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "China",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Gansu"
+    ],
+    [
+      "China",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Shaanxi",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Tianjin"
+    ],
+    [
+      "China",
+      "base.schemastaging.disputed_location_claimant.disputed_territories",
+      "Kula Kangri"
+    ],
+    [
+      "Yunnan",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Samsara",
+      "film.film.country",
+      "China"
+    ],
+    [
+      "Hainan",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Chongqing",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.partially_contains",
+      "Cho Oyu"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "China"
+    ],
+    [
+      "Liaoning",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Hong Kong",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Chinese province"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Shanxi"
+    ],
+    [
+      "Henan",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Tianjin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Jilin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Guangxi",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Chinese municipality"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Guangdong Province"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Sichuan"
+    ],
+    [
+      "Makalu II",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Yunnan"
+    ],
+    [
+      "Fujian",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Mukut Parbat",
+      "location.location.partially_containedby",
+      "China"
+    ],
+    [
+      "China",
+      "base.casinos.casino_theme.casinos_in_this_theme",
+      "The Linq"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Shandong"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Fujian"
+    ],
+    [
+      "Guizhou",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Chinese autonomous region traditional eighteen",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "China"
+    ],
+    [
+      "China",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Chinese province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Guangdong Province",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Chinese province",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Chinese autonomous region"
+    ],
+    [
+      "Yunnan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Chinese province",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Heilongjiang",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Zhejiang",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Anhui",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Chinese province"
+    ],
+    [
+      "Qinghai",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Henan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Taiwan Province, People's Republic of China",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Chinese autonomous region traditional eighteen",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Chinese province"
+    ],
+    [
+      "Fujian",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Hainan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Shaanxi",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Shanxi",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Gansu",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Hebei",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Chinese province",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Chinese autonomous region traditional eighteen"
+    ],
+    [
+      "Sichuan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Guizhou",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Jilin",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Shandong",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Hunan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Chinese province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Chinese autonomous region",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Chinese province"
+    ],
+    [
+      "Jiangxi",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Liaoning",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province"
+    ],
+    [
+      "Henan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Anhui",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Zhejiang",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Chinese autonomous region",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Hunan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Shandong",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Yunnan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Sichuan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Hebei",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Gansu",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Chinese province traditional eighteen",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Chinese autonomous region"
+    ],
+    [
+      "Guangdong Province",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Fujian",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Shanxi",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Jiangxi",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Guizhou",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Shaanxi",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese province traditional eighteen"
+    ],
+    [
+      "Tianjin",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "Asia",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "Macau",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "Chongqing",
+      "location.location.time_zones",
+      "China Time Zone"
+    ],
+    [
+      "Digital Jungle",
+      "organization.organization.geographic_scope",
+      "Asia"
+    ],
+    [
+      "Digital Jungle",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Digital Jungle",
+      "organization.organization.geographic_scope",
+      "Japan"
+    ],
+    [
+      "Digital Jungle",
+      "internet.website_owner.websites_owned",
+      "Digital Jungle"
+    ],
+    [
+      "Digital Jungle",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Asia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Digital Jungle"
+    ],
+    [
+      "Digital Jungle",
+      "internet.website.owner",
+      "Digital Jungle"
+    ],
+    [
+      "Digital Jungle",
+      "freebase.valuenotation.is_reviewed",
+      "Founders"
+    ],
+    [
+      "Jordan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Lebanon",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Indonesia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Bahrain",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Turkmenistan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Iraq",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Tajikistan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Bhutan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Time zone(s)",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Syria",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Malaysia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "India",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Thailand",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Macau",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Bangladesh",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Israel",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Singapore",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Brunei",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Cambodia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Qatar",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Turkey",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Pakistan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Maldives",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Sri Lanka",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Kazakhstan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Yemen",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Japan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "North Korea",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "New Zealand",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Time zone(s)"
+    ],
+    [
+      "Russia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Iran",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Myanmar",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Time zone(s)",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Mongolia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Hong Kong",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Mount Kilimanjaro",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "United Arab Emirates",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Timor-Leste",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Nepal",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Laos",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Kuwait",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saudi Arabia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Philippines",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Chile",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Taiwan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Afghanistan",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Asia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Chinese municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Chinese municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Chongqing",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese municipality"
+    ],
+    [
+      "Tianjin",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese municipality"
+    ],
+    [
+      "Guangxi",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Chinese autonomous region traditional eighteen"
+    ]
+  ]
+}

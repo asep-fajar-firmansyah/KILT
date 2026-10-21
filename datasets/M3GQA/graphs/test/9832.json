@@ -1,0 +1,8585 @@
+{
+  "graph_id": 9832,
+  "subgraph": [
+    [
+      "Southwest Division",
+      "basketball.basketball_division.conference",
+      "Western Conference"
+    ],
+    [
+      "Dallas Mavericks",
+      "basketball.basketball_team.division",
+      "Southwest Division"
+    ],
+    [
+      "Western Conference",
+      "basketball.basketball_conference.divisions",
+      "Southwest Division"
+    ],
+    [
+      "Southwest Division",
+      "basketball.basketball_division.teams",
+      "Dallas Mavericks"
+    ],
+    [
+      "Los Angeles Lakers",
+      "basketball.basketball_team.conference",
+      "Western Conference"
+    ],
+    [
+      "Western Conference",
+      "basketball.basketball_conference.teams",
+      "Golden State Warriors"
+    ],
+    [
+      "Central Division",
+      "ice_hockey.hockey_division.conference",
+      "Western Conference"
+    ],
+    [
+      "Western Conference",
+      "basketball.basketball_conference.teams",
+      "Utah Jazz"
+    ],
+    [
+      "Western Conference",
+      "basketball.basketball_conference.teams",
+      "Dallas Mavericks"
+    ],
+    [
+      "Western Conference",
+      "basketball.basketball_conference.teams",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Western Conference",
+      "ice_hockey.hockey_conference.divisions",
+      "Central Division"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "basketball.basketball_team.conference",
+      "Western Conference"
+    ],
+    [
+      "Dallas Stars",
+      "ice_hockey.hockey_team.conference",
+      "Western Conference"
+    ],
+    [
+      "Western Conference",
+      "basketball.basketball_conference.teams",
+      "Oklahoma City Thunder"
+    ],
+    [
+      "Dallas Mavericks",
+      "basketball.basketball_team.conference",
+      "Western Conference"
+    ],
+    [
+      "Western Conference",
+      "ice_hockey.hockey_conference.teams",
+      "Dallas Stars"
+    ],
+    [
+      "Golden State Warriors",
+      "basketball.basketball_team.conference",
+      "Western Conference"
+    ],
+    [
+      "Utah Jazz",
+      "basketball.basketball_team.conference",
+      "Western Conference"
+    ],
+    [
+      "Dallas",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "m.09xlpgq",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "AT&T Stadium",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.popstra.location.vacationers",
+      "m.063hd6h"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Dallas Arboretum and Botanical Garden"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Greenland Hills"
+    ],
+    [
+      "m.09x_n8d",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Preston Hollow",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rsw5"
+    ],
+    [
+      "Kings Highway Conservation District, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Cityplace",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09y1nhl"
+    ],
+    [
+      "Dallas Express",
+      "book.newspaper.circulation_areas",
+      "Dallas"
+    ],
+    [
+      "Junius Heights, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.02nxwqp",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b496yz"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v94g"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Exposition Park, Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.how_to_get_here",
+      "m.052v8_n"
+    ],
+    [
+      "Dallas",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "L Bob Rife"
+    ],
+    [
+      "m.09wjjrz",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rswf"
+    ],
+    [
+      "Dallas",
+      "film.film_location.featured_in_films",
+      "Upstream Color"
+    ],
+    [
+      "SodaPop Media, LLC",
+      "organization.organization.place_founded",
+      "Dallas"
+    ],
+    [
+      "Platinum Corridor, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1kd54m"
+    ],
+    [
+      "Swiss Avenue, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "AT&T Stadium"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Farmers Market"
+    ],
+    [
+      "m.052v93x",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "FC Dallas Stadium"
+    ],
+    [
+      "Dallas",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Perry Heights"
+    ],
+    [
+      "m.09xgykc",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas Watch and Diamonds",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "m.0b48fp6",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Preston Highlands"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Eastwood"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Forest Hills"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Platinum Corridor, Dallas"
+    ],
+    [
+      "City Center District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Munger Place Historic District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.09ytqc0",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas Arboretum and Botanical Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Reunion Arena",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Texas Theatre",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v8r1",
+      "travel.transportation.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Meadows Museum"
+    ],
+    [
+      "Hollywood Heights",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "L Bob Rife",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Dallas"
+    ],
+    [
+      "m.09y1nhl",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.hud_foreclosure_area.estimated_number_of_mortgages",
+      "m.07ctg36"
+    ],
+    [
+      "Vickery Place, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Bryan Place, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas Times Herald",
+      "book.newspaper.circulation_areas",
+      "Dallas"
+    ],
+    [
+      "Convention Center District",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.03lm9zx",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West Kessler"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Moss Farm"
+    ],
+    [
+      "Al Día",
+      "book.newspaper.circulation_areas",
+      "Dallas"
+    ],
+    [
+      "Kay Bailey Hutchison Convention Center",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw7h"
+    ],
+    [
+      "Galleria Dallas",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Al Día"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw6k"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Casa View"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "American Airlines Center"
+    ],
+    [
+      "West End",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.subject_of",
+      "Hotel Lumen Dallas, a Kimpton Hotel"
+    ],
+    [
+      "Greenland Hills",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.09yx3g9",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas seal",
+      "common.image.appears_in_topic_gallery",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Stevens Park"
+    ],
+    [
+      "Sixth Floor Museum at Dealey Plaza",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wglb2"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lower Greenville"
+    ],
+    [
+      "m.09ywybl",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.containedby",
+      "Area code 972"
+    ],
+    [
+      "Dallas",
+      "location.hud_county_place.county",
+      "Rockwall County"
+    ],
+    [
+      "Arts District",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.popstra.location.vacationers",
+      "m.064sln6"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "State Thomas, Dallas"
+    ],
+    [
+      "L.O. Daniel",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09xgykc"
+    ],
+    [
+      "Xvisionx Dallas Stemmons",
+      "common.image.appears_in_topic_gallery",
+      "Dallas"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v934"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Reunion"
+    ],
+    [
+      "Texas Theatre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Quick",
+      "book.newspaper.circulation_areas",
+      "Dallas"
+    ],
+    [
+      "Cavanaugh Flight Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Perry Heights",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "The Document Scanning Guys",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw6y"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw6r"
+    ],
+    [
+      "Casa View",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "International Center, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.nearby_airports",
+      "Dallas Love Field"
+    ],
+    [
+      "m.052v94g",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "George W. Bush Presidential Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "m.063rswp",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.metropolitan_area_anchor.metropolitan_area",
+      "Dallas-Plano-Irving, TX Metropolitan Division"
+    ],
+    [
+      "Uptown, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Ridgewood Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Woodbridge",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bishop Arts District, Dallas"
+    ],
+    [
+      "Dallas County Courthouse",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "m.09wtylc",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09yx3g9"
+    ],
+    [
+      "Dallas",
+      "location.location.nearby_airports",
+      "Addison Airport"
+    ],
+    [
+      "Dallas World Aquarium",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.05ckhwq"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Scyene"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf39k"
+    ],
+    [
+      "Preston Highlands",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v94n",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Victory Park, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Arcadia Park",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Get Local Easy™",
+      "organization.organization.place_founded",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Stemmons Corridor, Dallas"
+    ],
+    [
+      "Area code 469",
+      "location.location.contains",
+      "Dallas"
+    ],
+    [
+      "Cotton Bowl",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3c0"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "m.0111drcp",
+      "government.government_position_held.jurisdiction_of_office",
+      "Dallas"
+    ],
+    [
+      "Melshire Estates",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Main Street"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v92z"
+    ],
+    [
+      "Lower Greenville",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "George W. Bush Presidential Center"
+    ],
+    [
+      "Dallas Holocaust Museum/Center for Education & Tolerance",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "m.064sln6",
+      "base.popstra.vacation_choice.location",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Trammell & Margaret Crow Collection of Asian Art"
+    ],
+    [
+      "Greenway Parks",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3b0"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Cotton Bowl"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3ck"
+    ],
+    [
+      "Dallas",
+      "base.biblioness.bibs_location.state",
+      "Texas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3c9"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09xlpgq"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1hb0gn"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Galleria Dallas"
+    ],
+    [
+      "m.063rswk",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09x5cwp"
+    ],
+    [
+      "Stemmons Corridor, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Victory Park, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Moss Farm",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Dallas Business Journal"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Preston Center, Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wz4g_"
+    ],
+    [
+      "Dallas",
+      "location.hud_foreclosure_area.hhuniv",
+      "m.07ctg2r"
+    ],
+    [
+      "Convention Center District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Merriman Park/University Manor",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09xxs3z"
+    ],
+    [
+      "Melshire Estates",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.metropolitan_area.anchor_city",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Winnetka Heights, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.1jmcbfmk3"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf387"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Arcadia Park"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Preston Hollow"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.052v920"
+    ],
+    [
+      "Trammell & Margaret Crow Collection of Asian Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "White Rock Lake",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0jtlv5n"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Cavanaugh Flight Museum"
+    ],
+    [
+      "m.09wv2p_",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.0dj_fb1"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09yt9x_"
+    ],
+    [
+      "Dallas",
+      "film.film_location.featured_in_films",
+      "Dixie Chicks: Shut Up and Sing"
+    ],
+    [
+      "Dallas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Quick"
+    ],
+    [
+      "Greenland Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "business.business_location.parent_company",
+      "Get Local Easy™"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf39b"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1d4mwq"
+    ],
+    [
+      "m.052v942",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3ct"
+    ],
+    [
+      "L Streets",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1jwnmy"
+    ],
+    [
+      "Cotton Bowl",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas World Aquarium",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.052m7rd"
+    ],
+    [
+      "Highland Hills",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v93q",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Main Street",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.09ykdzg",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.notable_for",
+      "g.125bnrq7g"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b47_zx"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0jt81k0"
+    ],
+    [
+      "Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Vickery Meadow, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Munger Place Historic District"
+    ],
+    [
+      "m.063rsw9",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Uptown, Dallas"
+    ],
+    [
+      "Town Creek",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.metropolitan_area_anchor.metropolitan_area",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Synergy Insulation",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Oak Lawn",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.052m7rd",
+      "government.government_position_held.jurisdiction_of_office",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Dallas Holocaust Museum/Center for Education & Tolerance"
+    ],
+    [
+      "Fair Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.0dj_fbg"
+    ],
+    [
+      "Koreatown",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.09ymls6",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Preston Center, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Merriman Park/University Manor"
+    ],
+    [
+      "m.063rsvp",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rsw1"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Dealey Plaza"
+    ],
+    [
+      "Dallas Executive Airport",
+      "aviation.airport.serves",
+      "Dallas"
+    ],
+    [
+      "Deep Ellum, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Old Lake Highlands",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wjjrz"
+    ],
+    [
+      "Shtickmen",
+      "film.film.featured_film_locations",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Junius Heights, Dallas"
+    ],
+    [
+      "Bishop Arts District, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.04hrfn1",
+      "location.mailing_address.citytown",
+      "Dallas"
+    ],
+    [
+      "m.052v93j",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Turtle Creek",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Get Local Easy™"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b48_d4"
+    ],
+    [
+      "L.O. Daniel",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Cityplace"
+    ],
+    [
+      "Dallas",
+      "base.popstra.location.vacationers",
+      "m.065pb85"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Vickery Place, Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b48fqj"
+    ],
+    [
+      "Get Local Easy™",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lake Cliff, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1gd530"
+    ],
+    [
+      "Highland Meadows",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw8m"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Synergy Insulation"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Greenway Parks"
+    ],
+    [
+      "Meadows Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Parkdale Heights"
+    ],
+    [
+      "Dallas",
+      "location.hud_county_place.place",
+      "Dallas"
+    ],
+    [
+      "Comerica Bank Tower",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Wheatley Place, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09ykdzg"
+    ],
+    [
+      "m.09xxs3z",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Eastwood",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.0dj_fbs",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v93q"
+    ],
+    [
+      "Government District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1g17l0"
+    ],
+    [
+      "License to Kill",
+      "film.film.featured_film_locations",
+      "Dallas"
+    ],
+    [
+      "Allie Beth Allman",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Old Lake Highlands",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Lochwood",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Turtle Creek",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.image",
+      "Xvisionx Dallas Stemmons"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1ffkf1"
+    ],
+    [
+      "m.09x0qg_",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw7w"
+    ],
+    [
+      "Preston Center, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas-Apartment.com",
+      "common.topic.subjects",
+      "Dallas"
+    ],
+    [
+      "State Thomas, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "West Kessler",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Swiss Avenue, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.09ytmyj",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "m.09yx236",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Eastwood",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "White Rock Lake",
+      "geography.lake.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw73"
+    ],
+    [
+      "Galleria Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Dallas Watch and Diamonds"
+    ],
+    [
+      "m.063rsw1",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Arts District"
+    ],
+    [
+      "m.0b47_zx",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Lake Park Estates, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Kessler Plaza",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas Watch and Diamonds",
+      "organization.organization.place_founded",
+      "Dallas"
+    ],
+    [
+      "Lochwood",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bluff View"
+    ],
+    [
+      "West End",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Bonton",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11btt6nwn8"
+    ],
+    [
+      "Winnetka Heights, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas Business Journal",
+      "book.newspaper.circulation_areas",
+      "Dallas"
+    ],
+    [
+      "Deep Ellum, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v948",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Woodbridge"
+    ],
+    [
+      "Arcadia Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.containedby",
+      "Area code 469"
+    ],
+    [
+      "Dealey Plaza",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Meadows Museum",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09ytmyj"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.how_to_get_here",
+      "m.052v8r1"
+    ],
+    [
+      "m.0b48vmv",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Northwood Heights",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v93j"
+    ],
+    [
+      "Lower Greenville",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Data Shredding Services Dallas"
+    ],
+    [
+      "Upstream Color",
+      "film.film.featured_film_locations",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11b7tfgqjr"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Swiss Avenue, Dallas"
+    ],
+    [
+      "Scyene",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas Love Field",
+      "aviation.airport.serves",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SodaPop Media, LLC"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1h07s4"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1d3ps_"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1j7f1d"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bryan Place, Dallas"
+    ],
+    [
+      "Dallas Museum of Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "m.0dj_f8c",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "Ridgewood Park",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "symbols.namesake.named_after",
+      "George M. Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.1jmcbfmk2"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw87"
+    ],
+    [
+      "Northwood Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rsvy"
+    ],
+    [
+      "m.063rsvt",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Town Creek"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Hamilton Park"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rsvp"
+    ],
+    [
+      "Winnetka Heights, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Koreatown",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "International Center, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1dtt_x"
+    ],
+    [
+      "Addison Airport",
+      "aviation.airport.serves",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "business.business_location.parent_company",
+      "MBSF - Private Jets"
+    ],
+    [
+      "Data Shredding Services Dallas",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wjhmt"
+    ],
+    [
+      "J. R. \\\"Bob\\\" Dobbs",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Wheatley Place, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Highland Meadows"
+    ],
+    [
+      "Vickery Meadow, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "sports.sports_team_location.teams",
+      "Dallas Cowboys"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.location",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.hud_foreclosure_area.estimated_number_foreclosures",
+      "m.07ctg2z"
+    ],
+    [
+      "m.09xzsch",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "m.09x15zk",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Exposition Park, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas Love Field",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.hud_foreclosure_area.bls_unemployment_rate",
+      "m.07ctg3x"
+    ],
+    [
+      "L Streets",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Casa Linda Estates, Dallas"
+    ],
+    [
+      "Dallas Zoo",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "White Rock Lake",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.location",
+      "Dallas"
+    ],
+    [
+      "Merriman Park/University Manor",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v942"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1fv098"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1gmwbb"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf38g"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bonton"
+    ],
+    [
+      "IPC Tabernacle",
+      "organization.organization.place_founded",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.image",
+      "Dallas Downtown"
+    ],
+    [
+      "Dallas",
+      "film.film_location.featured_in_films",
+      "Shtickmen"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.1jmcbfy8p"
+    ],
+    [
+      "m.0b4728m",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "MBSF - Private Jets",
+      "organization.organization.locations",
+      "Dallas"
+    ],
+    [
+      "Kings Highway Conservation District, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf38p"
+    ],
+    [
+      "Reyes Brown Reilley",
+      "organization.organization.place_founded",
+      "Dallas"
+    ],
+    [
+      "Cedars",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw8t"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09y838c"
+    ],
+    [
+      "Reunion",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b48fp6"
+    ],
+    [
+      "Preston Highlands",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lochwood"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3db"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Ridgewood Park"
+    ],
+    [
+      "Lake Cliff, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1h0t1j"
+    ],
+    [
+      "Dallas",
+      "sports.sports_team_location.teams",
+      "FC Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw8f"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "IPC Tabernacle"
+    ],
+    [
+      "m.09wjhmt",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11b66fv4_t"
+    ],
+    [
+      "Devonshire",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Bonton",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Bishop Arts District, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas-Plano-Irving, TX Metropolitan Division",
+      "location.metropolitan_area.anchor_city",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Dallas Morning News"
+    ],
+    [
+      "Dallas",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rsw9"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1dq2wt"
+    ],
+    [
+      "Rockwall County",
+      "location.us_county.hud_county_place",
+      "Dallas"
+    ],
+    [
+      "m.09y838c",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0k1bdx_"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09x_n8d"
+    ],
+    [
+      "m.0dj_fb1",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "Little Forest Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09w80nf"
+    ],
+    [
+      "SodaPop Media, LLC",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Town Creek",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.09wjvpn",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.article",
+      "m.0f2s0"
+    ],
+    [
+      "Lakewood",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Kay Bailey Hutchison Convention Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw65"
+    ],
+    [
+      "m.05ckhwq",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Bluff View",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09ybgjv"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lakewood"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Dallas World Aquarium"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1m0jbv"
+    ],
+    [
+      "SMU Mustangs men's basketball",
+      "sports.sports_team.location",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Los Altos, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "City Center District"
+    ],
+    [
+      "m.05k6mg3",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "City Center District",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Fair Park",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Knox Park, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "State Thomas, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v920",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Cityplace",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.03lm9zx"
+    ],
+    [
+      "Government District",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Love Field"
+    ],
+    [
+      "m.0dj_fbg",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1hxr9y"
+    ],
+    [
+      "Platinum Corridor, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.063hd6h",
+      "base.popstra.vacation_choice.location",
+      "Dallas"
+    ],
+    [
+      "Los Altos, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "L Streets"
+    ],
+    [
+      "Dallas",
+      "sports.sports_team_location.teams",
+      "Dallas Stars"
+    ],
+    [
+      "Knox Park, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Love Field",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Kidd Springs, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "West Kessler",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Area codes 214, 469, and 972",
+      "location.location.contains",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09ymls6"
+    ],
+    [
+      "Dallas",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "J. R. \\\"Bob\\\" Dobbs"
+    ],
+    [
+      "Dallas County Courthouse",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Renaissance Tower",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v8q3",
+      "travel.transportation.travel_destination",
+      "Dallas"
+    ],
+    [
+      "m.052v92s",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1cjhj6"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wv2p_"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Nasher Sculpture Center"
+    ],
+    [
+      "m.065pb85",
+      "base.popstra.vacation_choice.location",
+      "Dallas"
+    ],
+    [
+      "Farmers Market",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas Downtown",
+      "common.image.appears_in_topic_gallery",
+      "Dallas"
+    ],
+    [
+      "Belmont",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1gf45w"
+    ],
+    [
+      "m.09w80nf",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Northwood Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Nasher Sculpture Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b46w0l"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf39s"
+    ],
+    [
+      "Hotel Lumen Dallas, a Kimpton Hotel",
+      "common.topic.subjects",
+      "Dallas"
+    ],
+    [
+      "m.0jvw1yz",
+      "location.administrative_division_capital_relationship.capital",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Dallas Arboretum and Botanical Garden",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.0b48_d4",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Area code 972",
+      "location.location.contains",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v948"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Victory Park, Dallas"
+    ],
+    [
+      "m.09xwxgc",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Old Lake Highlands"
+    ],
+    [
+      "Dallas",
+      "location.location.geolocation",
+      "m.0dj_fch"
+    ],
+    [
+      "Little Forest Hills",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.0dj_fbs"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3d2"
+    ],
+    [
+      "Sixth Floor Museum at Dealey Plaza",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Main Street",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.12vqhxrhn"
+    ],
+    [
+      "Dallas",
+      "location.hud_foreclosure_area.total_90_day_vacant_residential_addresses",
+      "m.07ctg3f"
+    ],
+    [
+      "Dallas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dealey Plaza",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "American Airlines Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Belmont",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "West Village",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rswk"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Dallas County Courthouse"
+    ],
+    [
+      "Dallas",
+      "location.location.containedby",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Belmont"
+    ],
+    [
+      "Hollywood Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Deep Ellum, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.02nxwqp"
+    ],
+    [
+      "Moss Farm",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas Zoo",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wpnqd"
+    ],
+    [
+      "International Center, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Dallas",
+      "location.hud_foreclosure_area.total_residential_addresses",
+      "m.07ctg3n"
+    ],
+    [
+      "Kidd Springs, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Northwood Heights"
+    ],
+    [
+      "Wheatley Place, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Little Forest Hills"
+    ],
+    [
+      "m.09wglb2",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09xwxgc"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Sixth Floor Museum at Dealey Plaza"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Dallas Zoo"
+    ],
+    [
+      "NCC Data",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Woodbridge",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.063rsvy",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Trammell & Margaret Crow Collection of Asian Art",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wtylc"
+    ],
+    [
+      "m.052v8_n",
+      "travel.transportation.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Highland Meadows",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Kay Bailey Hutchison Convention Center"
+    ],
+    [
+      "Dallas",
+      "location.hud_foreclosure_area.ofheo_price_change",
+      "m.07ctg42"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v94n"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wjvpn"
+    ],
+    [
+      "Oak Lawn",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3bs"
+    ],
+    [
+      "Cedars",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "m.09wdxyy",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Lake Cliff, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.05k6mg3"
+    ],
+    [
+      "Get Local Easy™",
+      "organization.organization.locations",
+      "Dallas"
+    ],
+    [
+      "Munger Place Historic District",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.local_transportation",
+      "Dallas Area Rapid Transit"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Northwood Hills"
+    ],
+    [
+      "Forest Hills",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.0dj_f8c"
+    ],
+    [
+      "Dallas Cowboys",
+      "sports.sports_team.location",
+      "Dallas"
+    ],
+    [
+      "Arts District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.1jmcbhr4q"
+    ],
+    [
+      "Vickery Place, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Forest Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Lakewood",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1m9r8x"
+    ],
+    [
+      "George M. Dallas",
+      "symbols.name_source.namesakes",
+      "Dallas"
+    ],
+    [
+      "m.0b496yz",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Hamilton Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Parkdale Heights",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.09yt9x_",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West Village"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v956"
+    ],
+    [
+      "m.063rswf",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "1600 Pacific Tower",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v934",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Reyes Brown Reilley"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09ytqc0"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "NCC Data"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1h8k2w"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3bj"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3dk"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09x0qg_"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.11x1d_f5q"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b4728m"
+    ],
+    [
+      "Dallas Area Rapid Transit",
+      "metropolitan_transit.transit_system.area_served",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Fair Park"
+    ],
+    [
+      "m.0k1bdx_",
+      "government.government_position_held.jurisdiction_of_office",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kessler Plaza"
+    ],
+    [
+      "m.063rsvk",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Hamilton Park",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09yx236"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Texas Theatre"
+    ],
+    [
+      "Dallas",
+      "sports.sports_team_location.teams",
+      "SMU Mustangs men's basketball"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rsvk"
+    ],
+    [
+      "Junius Heights, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Lake Park Estates, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09xzsch"
+    ],
+    [
+      "m.0dj_f85",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.location",
+      "Dallas"
+    ],
+    [
+      "Perry Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Stevens Park",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Sam Pack Ford Dealers",
+      "common.topic.subjects",
+      "Dallas"
+    ],
+    [
+      "FC Dallas",
+      "sports.sports_team.location",
+      "Dallas"
+    ],
+    [
+      "m.063rsw5",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kidd Springs, Dallas"
+    ],
+    [
+      "m.09wz4g_",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Bryan Place, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Bluff View",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.09x5cwp",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.0dj_f85"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw7p"
+    ],
+    [
+      "IPC Tabernacle",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Preston Hollow",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Turtle Creek"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Koreatown"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v92s"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Convention Center District"
+    ],
+    [
+      "m.09wpnqd",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.location.nearby_airports",
+      "Dallas Executive Airport"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Knox Park, Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lake Park Estates, Dallas"
+    ],
+    [
+      "Kraft & Associates, Attorneys at Law, P.C",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kings Highway Conservation District, Dallas"
+    ],
+    [
+      "m.09ybgjv",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "Parkdale Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "film.film_location.featured_in_films",
+      "License to Kill"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Allie Beth Allman"
+    ],
+    [
+      "FC Dallas Stadium",
+      "travel.tourist_attraction.near_travel_destination",
+      "Dallas"
+    ],
+    [
+      "Scyene",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Highland Hills"
+    ],
+    [
+      "Casa Linda Estates, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "The Dallas Morning News",
+      "book.newspaper.circulation_areas",
+      "Dallas"
+    ],
+    [
+      "Kessler Plaza",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Hollywood Heights"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.how_to_get_here",
+      "m.052v8q3"
+    ],
+    [
+      "Dallas",
+      "sports.sports_team_location.teams",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas County",
+      "location.us_county.county_seat",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09x15zk"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf393"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0k6l8t4"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v93b"
+    ],
+    [
+      "Dallas",
+      "common.topic.subject_of",
+      "Dallas-Apartment.com"
+    ],
+    [
+      "Dallas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Dallas Express"
+    ],
+    [
+      "Dallas",
+      "common.topic.image",
+      "Dallas seal"
+    ],
+    [
+      "Dallas",
+      "location.location.adjoin_s",
+      "m.0dj_fb6"
+    ],
+    [
+      "Stevens Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Government District"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.0b48vmv"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf3b7"
+    ],
+    [
+      "Vickery Meadow, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.064hw79"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "Dallas Museum of Art"
+    ],
+    [
+      "Dallas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Dallas Times Herald"
+    ],
+    [
+      "Highland Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rswp"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.tourist_attractions",
+      "White Rock Lake"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Devonshire",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v93b",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Document Scanning Guys"
+    ],
+    [
+      "m.0b48fqj",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "West Village",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Love Field",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "L.O. Daniel"
+    ],
+    [
+      "Dallas",
+      "common.topic.subject_of",
+      "Sam Pack Ford Dealers"
+    ],
+    [
+      "Exposition Park, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "g.1jmcbjm_n"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Oak Lawn"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09ywybl"
+    ],
+    [
+      "m.0b46w0l",
+      "common.webpage.topic",
+      "Dallas"
+    ],
+    [
+      "m.0dj_fb6",
+      "location.adjoining_relationship.adjoins",
+      "Dallas"
+    ],
+    [
+      "Stemmons Corridor, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas Museum of Art",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v92z",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Devonshire"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Melshire Estates"
+    ],
+    [
+      "Northwood Hills",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Uptown, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Farmers Market",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "travel.travel_destination.climate",
+      "m.052v93x"
+    ],
+    [
+      "Dixie Chicks: Shut Up and Sing",
+      "film.film.featured_film_locations",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "location.statistical_region.population",
+      "m.0hmf38x"
+    ],
+    [
+      "Casa View",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Reyes Brown Reilley",
+      "organization.organization.geographic_scope",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Kraft & Associates, Attorneys at Law, P.C"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West End"
+    ],
+    [
+      "Greenway Parks",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Tom Hicks",
+      "people.person.place_of_birth",
+      "Dallas"
+    ],
+    [
+      "Allie Beth Allman",
+      "organization.organization.place_founded",
+      "Dallas"
+    ],
+    [
+      "Casa Linda Estates, Dallas",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "m.052v956",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0111drcp"
+    ],
+    [
+      "Reunion",
+      "location.neighborhood.neighborhood_of",
+      "Dallas"
+    ],
+    [
+      "Dallas",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063rsvt"
+    ],
+    [
+      "Dallas",
+      "common.topic.webpage",
+      "m.09wdxyy"
+    ],
+    [
+      "Dallas",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Cedars"
+    ],
+    [
+      "Dallas",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvw1yz"
+    ],
+    [
+      "m.0k1b_z7",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.02396yn"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.involves_in",
+      "Basketball"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.player_role",
+      "m.04_nt5h"
+    ],
+    [
+      "m.0123h27d",
+      "business.employment_tenure.company",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0110h779",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0k69nlk",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0wh8tqb",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0q_3tl8",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0h6lf3n",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0zb1ls8"
+    ],
+    [
+      "m.0w2w3zy",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0w6fnfv"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k1b_zt"
+    ],
+    [
+      "m.0w91ylw",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.04mt_vy"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09kmjs5"
+    ],
+    [
+      "m.0j2jh_q",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0w2m3t7"
+    ],
+    [
+      "m.0_qvvwx",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.011wszjd",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k2xhjs"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0n4lgjn"
+    ],
+    [
+      "180px-Dallas Mavericks logo.png",
+      "common.image.appears_in_topic_gallery",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jl1l"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.090d7h9"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.club_coach",
+      "Rick Carlisle"
+    ],
+    [
+      "Mark Cuban",
+      "sports.sports_team_owner.teams_owned",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.011cjnyz",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0s9hbsk"
+    ],
+    [
+      "m.0j2jj7v",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k69nlk"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "m.0k1c18m",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "DallasMavericksoldlogo.png",
+      "common.image.appears_in_topic_gallery",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0110jk93"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.venue",
+      "m.0x2m0g6"
+    ],
+    [
+      "m.0j2jl1l",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Basketball",
+      "base.sportbase.sport.played_by_clubs",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0k2l837",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.02nqxgm",
+      "sports.sports_league_draft_pick.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0q_3tl8"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k7n5wh"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0n4mnwj"
+    ],
+    [
+      "m.0k7n5wh",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0_qr9s0",
+      "award.award_honor.award_winner",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k4w0vz"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.professional_sports_team.owner_s",
+      "Mark Cuban"
+    ],
+    [
+      "m.0z3zkh0",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0pd54xm"
+    ],
+    [
+      "m.0j2gf87",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.professional_sports_team.draft_picks",
+      "m.04_ngz_"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.championships",
+      "2011 NBA Finals"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0z45c3t"
+    ],
+    [
+      "m.0z3_gq5",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0z45c3t",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "award.award_winner.awards_won",
+      "m.0_qr9s0"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.011cjnyz"
+    ],
+    [
+      "Dallas Mavericks",
+      "award.award_nominee.award_nominations",
+      "m.0ywg_mf"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.011bz3dt"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0wfb6tv"
+    ],
+    [
+      "m.02397qj",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k1b_zd"
+    ],
+    [
+      "Rick Carlisle",
+      "base.sportbase.sport_club_coach.coaches",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k1c18m"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.02397qj"
+    ],
+    [
+      "Champ",
+      "sports.mascot.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.colors",
+      "Light Royal Blue"
+    ],
+    [
+      "m.09w7fc9",
+      "common.webpage.topic",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0q_3pn6"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.professional_sports_team.draft_picks",
+      "m.02nqxgm"
+    ],
+    [
+      "m.090d7h9",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0115jkv5"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.player_role",
+      "m.04_nt4y"
+    ],
+    [
+      "m.0_qrlhp",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jhzc",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.professional_sports_team.draft_picks",
+      "m.05l48kl"
+    ],
+    [
+      "m.0k2xhjj",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.02nqx9b",
+      "sports.sports_league_draft_pick.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "basketball.basketball_team.head_coach",
+      "Rick Carlisle"
+    ],
+    [
+      "m.0j2jj51",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "m.0n9lth8",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0z2p0dv",
+      "award.award_honor.award_winner",
+      "Dallas Mavericks"
+    ],
+    [
+      "Mark Cuban",
+      "base.sportbase.club_owner.owns",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0k1b_zd",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0422g4c",
+      "common.webpage.topic",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0n9lvvs"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.article",
+      "m.0jmd4"
+    ],
+    [
+      "m.0w6fnfv",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jks2"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.notable_for",
+      "g.1255tk3kt"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2gf87"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.webpage",
+      "m.0b48t5h"
+    ],
+    [
+      "m.011bz3dt",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0_qvvwx"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jj51"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.player_role",
+      "m.04_nt56"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0118421x"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0pdgq35"
+    ],
+    [
+      "m.0w79ht1",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jjrw"
+    ],
+    [
+      "m.04mt_vy",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0w79ht1"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jh_q"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.arena_stadium",
+      "American Airlines Center"
+    ],
+    [
+      "m.0110jk93",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0rymd2y",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.colors",
+      "Silver"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.image",
+      "180px-Dallas Mavericks logo.png"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0110h779"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k7n5w2"
+    ],
+    [
+      "m.0j2jhgs",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0114pp1l",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0ngwqzm",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jhl9",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.011whldv"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0h6lf3n"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jjgm"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jj7v"
+    ],
+    [
+      "2011 NBA Finals",
+      "sports.sports_championship_event.champion",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jhl9"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0_qrlhp"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0114cx3y"
+    ],
+    [
+      "m.0pdgq35",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0ryd831"
+    ],
+    [
+      "m.0crt3lv",
+      "sports.sports_league_participation.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k2phkv"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.venue",
+      "m.0wz1zn0"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0nb9n_0"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.image",
+      "DallasMavericksoldlogo.png"
+    ],
+    [
+      "m.0k1b_zt",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0k7n5w9",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.04_bzky",
+      "sports.sports_league_draft_pick.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0n4mmn6"
+    ],
+    [
+      "m.011whldv",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0n9lth8"
+    ],
+    [
+      "m.05l48kl",
+      "sports.sports_league_draft_pick.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k7n5w9"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0w5g71r"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.webpage",
+      "m.0422g4c"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k06zjd"
+    ],
+    [
+      "m.04_ngz_",
+      "sports.sports_league_draft_pick.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0ryd831",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0b48t5h",
+      "common.webpage.topic",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0n65w6b"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jj24"
+    ],
+    [
+      "m.0n9lvvs",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0z45j5l",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0w5g71r",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.professional_sports_team.draft_picks",
+      "m.02nqxcf"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k2xhjj"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jhgs"
+    ],
+    [
+      "m.02396yn",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jj11",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "award.award_winner.awards_won",
+      "m.0z2p0dv"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j7rs8_"
+    ],
+    [
+      "m.09kmjs5",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0ngwqzm"
+    ],
+    [
+      "m.0wz1zn0",
+      "sports.team_venue_relationship.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "business.employer.employees",
+      "m.0123h27d"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.team_mascot",
+      "Champ"
+    ],
+    [
+      "Mavs Man",
+      "sports.mascot.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.01159l6h",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "American Airlines Center",
+      "sports.sports_facility.teams",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "basketball.basketball_team.previous_coaches",
+      "m.04nscwv"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jhzc"
+    ],
+    [
+      "m.0s9hbsk",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0114cx3y",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.professional_sports_team.draft_picks",
+      "m.02nqx9b"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0114p1nq"
+    ],
+    [
+      "m.0k06zjd",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0nb9n_0",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0118421x",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0n4mnwj",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0p9fj0r",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0z45zkq",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jjrw",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jjgm",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k2l837"
+    ],
+    [
+      "m.0n4mmn6",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.professional_sports_team.draft_picks",
+      "m.04_bzky"
+    ],
+    [
+      "Rick Carlisle",
+      "basketball.basketball_coach.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0z3_gq5"
+    ],
+    [
+      "m.0q_3pn6",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0zb1ls8",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j7rs8_",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0wfb6tv",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0w2m3t7",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0n4lgjn",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0x2m0g6",
+      "sports.team_venue_relationship.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0pd54xm",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jjh1"
+    ],
+    [
+      "m.0j2jhpk",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jhpk"
+    ],
+    [
+      "m.02nqxcf",
+      "sports.sports_league_draft_pick.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0k1b_z7"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0z3zkh0"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.webpage",
+      "m.09w7fc9"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.club_owner",
+      "Mark Cuban"
+    ],
+    [
+      "Dallas Mavericks",
+      "award.award_nominee.award_nominations",
+      "m.0z2p5q3"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.011wszjd"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.colors",
+      "Navy Blue"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.league",
+      "m.0crt3lv"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.team_mascot",
+      "Mavs Man"
+    ],
+    [
+      "m.0114p1nq",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0k4w0vz",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0115jkv5",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jj24",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0z45zkq"
+    ],
+    [
+      "m.0z2p5q3",
+      "award.award_nomination.award_nominee",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jjh1",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0k2xhjs",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0j2jj11"
+    ],
+    [
+      "m.0k2phkv",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0j2jks2",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0w7bszc"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0p9fj0r"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0rymd2y"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0z45j5l"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0114pp1l"
+    ],
+    [
+      "m.0n65w6b",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0k7n5w2",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.0w7bszc",
+      "sports.sports_team_roster.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0w91ylw"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.01159l6h"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0wh8tqb"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.roster",
+      "m.0w2w3zy"
+    ],
+    [
+      "m.0ywg_mf",
+      "award.award_nomination.award_nominee",
+      "Dallas Mavericks"
+    ],
+    [
+      "m.04nscwv",
+      "basketball.basketball_historical_coach_position.team",
+      "Dallas Mavericks"
+    ],
+    [
+      "Los Angeles Lakers",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "m.04qhk3g",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.0j5fs5z",
+      "sports.sports_team_roster.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Los Angeles Lakers",
+      "sports.professional_sports_team.draft_picks",
+      "m.0cr2kgn"
+    ],
+    [
+      "m.030qjdb",
+      "business.employment_tenure.company",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.04qmyvq",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Los Angeles Lakers",
+      "sports.sports_team.roster",
+      "m.0j5fs5z"
+    ],
+    [
+      "Los Angeles Lakers",
+      "business.employer.employees",
+      "m.030qjbl"
+    ],
+    [
+      "Los Angeles Lakers",
+      "business.employer.employees",
+      "m.030qjdb"
+    ],
+    [
+      "m.04qc3sv",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "1970 NBA Finals",
+      "sports.sports_championship_event.runner_up",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.04qrnft",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.04qs0gk",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.030qjbl",
+      "business.employment_tenure.company",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Staples Center",
+      "sports.sports_facility.teams",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Los Angeles Lakers",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "1973 NBA Finals",
+      "sports.sports_championship_event.runner_up",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.04ql4bq",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.0j2j7sh",
+      "base.schemastaging.athlete_salary.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Los Angeles Lakers",
+      "sports.sports_team.arena_stadium",
+      "Staples Center"
+    ],
+    [
+      "m.0cr2kgn",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.04qk66q",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.04qkqr7",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "Los Angeles Lakers",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "m.04qm025",
+      "basketball.basketball_player_stats.team",
+      "Los Angeles Lakers"
+    ],
+    [
+      "m.030qjcl",
+      "business.employment_tenure.company",
+      "Golden State Warriors"
+    ],
+    [
+      "Golden State Warriors",
+      "sports.sports_team.arena_stadium",
+      "Oracle Arena"
+    ],
+    [
+      "SAP Center at San Jose",
+      "sports.sports_facility.teams",
+      "Golden State Warriors"
+    ],
+    [
+      "m.04qj74s",
+      "basketball.basketball_player_stats.team",
+      "Golden State Warriors"
+    ],
+    [
+      "Golden State Warriors",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Golden State Warriors",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Oracle Arena",
+      "sports.sports_facility.teams",
+      "Golden State Warriors"
+    ],
+    [
+      "Golden State Warriors",
+      "sports.sports_team.arena_stadium",
+      "SAP Center at San Jose"
+    ],
+    [
+      "Golden State Warriors",
+      "business.employer.employees",
+      "m.030qjcl"
+    ],
+    [
+      "m.04q9tdk",
+      "basketball.basketball_player_stats.team",
+      "Golden State Warriors"
+    ],
+    [
+      "Dallas Stars",
+      "ice_hockey.hockey_team.division",
+      "Central Division"
+    ],
+    [
+      "Central Division",
+      "ice_hockey.hockey_division.teams",
+      "Dallas Stars"
+    ],
+    [
+      "Utah Jazz",
+      "business.employer.employees",
+      "m.030qjcz"
+    ],
+    [
+      "Utah Jazz",
+      "sports.sports_team.roster",
+      "m.0z58tq8"
+    ],
+    [
+      "m.0z58tq8",
+      "sports.sports_team_roster.team",
+      "Utah Jazz"
+    ],
+    [
+      "m.04qkyxn",
+      "basketball.basketball_player_stats.team",
+      "Utah Jazz"
+    ],
+    [
+      "m.030qjcz",
+      "business.employment_tenure.company",
+      "Utah Jazz"
+    ],
+    [
+      "Utah Jazz",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Utah Jazz",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "business.employer.employees",
+      "m.0j5fs49"
+    ],
+    [
+      "m.0n4p4t5",
+      "sports.sports_team_roster.team",
+      "Oklahoma City Thunder"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "sports.sports_team.colors",
+      "Orange"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "sports.sports_team.roster",
+      "m.0n4p4t5"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "sports.sports_team.roster",
+      "m.0r5_59q"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "m.0j5fs49",
+      "business.employment_tenure.company",
+      "Oklahoma City Thunder"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "sports.sports_team.colors",
+      "Navy Blue"
+    ],
+    [
+      "m.0r5_59q",
+      "sports.sports_team_roster.team",
+      "Oklahoma City Thunder"
+    ],
+    [
+      "m.0422gd7",
+      "common.webpage.topic",
+      "Dallas Stars"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.coaches",
+      "m.0w14w6d"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "m.09kmk0v",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Dallas Stars"
+    ],
+    [
+      "Dallas Stars",
+      "common.topic.article",
+      "m.0jnq2"
+    ],
+    [
+      "m.09x5cwx",
+      "common.webpage.topic",
+      "Dallas Stars"
+    ],
+    [
+      "Dallas Stars",
+      "base.schemastaging.sports_team_extra.training_ground",
+      "m.0x2m17g"
+    ],
+    [
+      "Dallas Stars",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09kmk0v"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.league",
+      "m.0crt3zn"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.championships",
+      "1999 Stanley Cup Finals"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.arena_stadium",
+      "American Airlines Center"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.venue",
+      "m.0wz1zn6"
+    ],
+    [
+      "Dallas Stars",
+      "ice_hockey.hockey_team.coach",
+      "Lindy Ruff"
+    ],
+    [
+      "Dallas Stars",
+      "common.topic.webpage",
+      "m.09x5cwx"
+    ],
+    [
+      "m.0crt3zn",
+      "sports.sports_league_participation.team",
+      "Dallas Stars"
+    ],
+    [
+      "American Airlines Center",
+      "sports.sports_facility.teams",
+      "Dallas Stars"
+    ],
+    [
+      "m.0w14w6d",
+      "sports.sports_team_coach_tenure.team",
+      "Dallas Stars"
+    ],
+    [
+      "Dallas Stars",
+      "common.topic.webpage",
+      "m.0422gd7"
+    ],
+    [
+      "Lindy Ruff",
+      "ice_hockey.hockey_coach.current_team",
+      "Dallas Stars"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.arena_stadium",
+      "Dr Pepper Arena"
+    ],
+    [
+      "m.0wz1zn6",
+      "sports.team_venue_relationship.team",
+      "Dallas Stars"
+    ],
+    [
+      "Dallas Stars",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Dallas Stars",
+      "ice_hockey.hockey_team.captain",
+      "Jamie Benn"
+    ],
+    [
+      "Dallas Stars",
+      "common.topic.notable_for",
+      "g.1259ks4s6"
+    ],
+    [
+      "Dallas Stars",
+      "sports.professional_sports_team.owner_s",
+      "Tom Hicks"
+    ],
+    [
+      "Tom Hicks",
+      "sports.sports_team_owner.teams_owned",
+      "Dallas Stars"
+    ],
+    [
+      "m.0x2m17g",
+      "base.schemastaging.team_training_ground_relationship.team",
+      "Dallas Stars"
+    ],
+    [
+      "Meadows Museum",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Dallas County",
+      "location.administrative_division.capital",
+      "m.0jvw1yz"
+    ],
+    [
+      "m.0jvw1yz",
+      "location.administrative_division_capital_relationship.administrative_division",
+      "Dallas County"
+    ],
+    [
+      "Addison Airport",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Dallas County",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Dallas Executive Airport",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Dallas County",
+      "symbols.namesake.named_after",
+      "George M. Dallas"
+    ],
+    [
+      "The Dallas Morning News",
+      "book.newspaper.circulation_areas",
+      "Dallas County"
+    ],
+    [
+      "Nasher Sculpture Center",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Kay Bailey Hutchison Convention Center",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Galleria Dallas",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Dallas-Plano-Irving, TX Metropolitan Division",
+      "location.location.contains",
+      "Dallas County"
+    ],
+    [
+      "1600 Pacific Tower",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Dallas County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Dallas County",
+      "location.location.containedby",
+      "Dallas-Plano-Irving, TX Metropolitan Division"
+    ],
+    [
+      "George M. Dallas",
+      "symbols.name_source.namesakes",
+      "Dallas County"
+    ],
+    [
+      "Renaissance Tower",
+      "location.location.containedby",
+      "Dallas County"
+    ],
+    [
+      "Dallas County",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Dallas Morning News"
+    ],
+    [
+      "AT&T Stadium",
+      "architecture.structure.architecture_firm",
+      "HKS, Inc."
+    ],
+    [
+      "AT&T Stadium",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "AT&T Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "AT&T Stadium",
+      "common.topic.image",
+      "Cowboysstadium js"
+    ],
+    [
+      "Dallas Cowboys",
+      "sports.sports_team.arena_stadium",
+      "AT&T Stadium"
+    ],
+    [
+      "AT&T Stadium",
+      "sports.sports_facility.teams",
+      "Dallas Cowboys"
+    ],
+    [
+      "Cowboysstadium js",
+      "common.image.appears_in_topic_gallery",
+      "AT&T Stadium"
+    ],
+    [
+      "HKS, Inc.",
+      "architecture.architecture_firm.projects",
+      "AT&T Stadium"
+    ],
+    [
+      "Dallas Arboretum and Botanical Garden",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dallas Arboretum and Botanical Garden",
+      "common.topic.notable_types",
+      "Venue"
+    ],
+    [
+      "Dallas Arboretum and Botanical Garden",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Dallas Arboretum and Botanical Garden",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Greenland Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Greenland Hills"
+    ],
+    [
+      "Greenland Hills",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Greenland Hills"
+    ],
+    [
+      "Greenland Hills",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Preston Hollow"
+    ],
+    [
+      "Preston Hollow",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Preston Hollow",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Preston Hollow",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Preston Hollow"
+    ],
+    [
+      "Kings Highway Conservation District, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Kings Highway Conservation District, Dallas"
+    ],
+    [
+      "Kings Highway Conservation District, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kings Highway Conservation District, Dallas"
+    ],
+    [
+      "Cityplace",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Cityplace",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Cityplace"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Cityplace"
+    ],
+    [
+      "Cityplace",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas Express",
+      "book.newspaper.circulation_areas",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Dallas Express"
+    ],
+    [
+      "Dallas Express",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Junius Heights, Dallas"
+    ],
+    [
+      "Junius Heights, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Junius Heights, Dallas"
+    ],
+    [
+      "Junius Heights, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Exposition Park, Dallas"
+    ],
+    [
+      "Exposition Park, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Exposition Park, Dallas"
+    ],
+    [
+      "Exposition Park, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "L Bob Rife",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Upstream Color",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Upstream Color",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SodaPop Media, LLC"
+    ],
+    [
+      "Texas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SodaPop Media, LLC"
+    ],
+    [
+      "SodaPop Media, LLC",
+      "organization.organization.geographic_scope",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "SodaPop Media, LLC",
+      "organization.organization.geographic_scope",
+      "Texas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Platinum Corridor, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Platinum Corridor, Dallas"
+    ],
+    [
+      "Platinum Corridor, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Platinum Corridor, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Platinum Corridor, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Swiss Avenue, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Swiss Avenue, Dallas"
+    ],
+    [
+      "Swiss Avenue, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Swiss Avenue, Dallas"
+    ],
+    [
+      "Farmers Market",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Farmers Market"
+    ],
+    [
+      "Farmers Market",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Farmers Market",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Farmers Market"
+    ],
+    [
+      "HKS, Inc.",
+      "architecture.architecture_firm.projects",
+      "FC Dallas Stadium"
+    ],
+    [
+      "FC Dallas Stadium",
+      "architecture.structure.architecture_firm",
+      "HKS, Inc."
+    ],
+    [
+      "FC Dallas",
+      "sports.sports_team.arena_stadium",
+      "FC Dallas Stadium"
+    ],
+    [
+      "FC Dallas Stadium",
+      "sports.sports_facility.teams",
+      "FC Dallas"
+    ],
+    [
+      "FC Dallas Stadium",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Highland Hills",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Kraft & Associates, Attorneys at Law, P.C",
+      "organization.organization.geographic_scope",
+      "Texas"
+    ],
+    [
+      "Lochwood",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Parkdale Heights",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Rockwall County",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas Zoo",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Eastwood",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Ridgewood Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "L Streets",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas County Courthouse",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Merriman Park/University Manor",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "Area code 972",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Sixth Floor Museum at Dealey Plaza",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Galleria Dallas",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dallas-Plano-Irving, TX Metropolitan Division",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Munger Place Historic District",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Los Altos, Dallas",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Belmont",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Woodbridge",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Hollywood Heights",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas Museum of Art",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas Theatre",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Hamilton Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Rangers Ballpark in Arlington",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "The Document Scanning Guys",
+      "organization.organization.geographic_scope",
+      "Texas"
+    ],
+    [
+      "Stevens Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Kraft & Associates, Attorneys at Law, P.C"
+    ],
+    [
+      "Texas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Document Scanning Guys"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "Vickery Meadow, Dallas",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas World Aquarium",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Perry Heights",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Greenway Parks",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Wheatley Place, Dallas",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "White Rock Lake",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Lower Greenville",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Area codes 214, 469, and 972",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Northwood Hills",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Town Creek",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Melshire Estates",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Northwood Heights",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "L.O. Daniel",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Dealey Plaza",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "West Kessler",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Arcadia Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Kessler Plaza",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Highland Meadows",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Old Lake Highlands",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Love Field",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Cotton Bowl",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Preston Highlands",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Fair Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Toyota Center",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Area code 469",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Perry Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Perry Heights"
+    ],
+    [
+      "Perry Heights",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Perry Heights"
+    ],
+    [
+      "Perry Heights",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Preston Highlands"
+    ],
+    [
+      "Preston Highlands",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Preston Highlands"
+    ],
+    [
+      "Preston Highlands",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Preston Highlands",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Eastwood"
+    ],
+    [
+      "Eastwood",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Eastwood"
+    ],
+    [
+      "Eastwood",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Forest Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Forest Hills",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Forest Hills"
+    ],
+    [
+      "Forest Hills",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Forest Hills"
+    ],
+    [
+      "City Center District",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "City Center District",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "City Center District"
+    ],
+    [
+      "City Center District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "City Center District"
+    ],
+    [
+      "Munger Place Historic District",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Munger Place Historic District"
+    ],
+    [
+      "Munger Place Historic District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Munger Place Historic District"
+    ],
+    [
+      "Munger Place Historic District",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "HKS, Inc.",
+      "architecture.architecture_firm.projects",
+      "Reunion Arena"
+    ],
+    [
+      "m.0x2m0g6",
+      "sports.team_venue_relationship.venue",
+      "Reunion Arena"
+    ],
+    [
+      "Reunion Arena",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Reunion Arena",
+      "sports.sports_facility.home_venue_for",
+      "m.0x2m0g6"
+    ],
+    [
+      "Reunion Arena",
+      "architecture.structure.architecture_firm",
+      "HKS, Inc."
+    ],
+    [
+      "Texas Theatre",
+      "common.topic.notable_types",
+      "Venue"
+    ],
+    [
+      "Hollywood Heights",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Hollywood Heights"
+    ],
+    [
+      "Hollywood Heights",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Hollywood Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Hollywood Heights"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Vickery Place, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Vickery Place, Dallas"
+    ],
+    [
+      "Vickery Place, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Vickery Place, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bryan Place, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Bryan Place, Dallas"
+    ],
+    [
+      "Bryan Place, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Bryan Place, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Convention Center District"
+    ],
+    [
+      "Convention Center District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Convention Center District"
+    ],
+    [
+      "Convention Center District",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Convention Center District",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "West Kessler",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "West Kessler"
+    ],
+    [
+      "West Kessler",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West Kessler"
+    ],
+    [
+      "Moss Farm",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Moss Farm",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Moss Farm"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Moss Farm"
+    ],
+    [
+      "Moss Farm",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Al Día",
+      "book.periodical.language",
+      "Spanish Language"
+    ],
+    [
+      "Kay Bailey Hutchison Convention Center",
+      "common.topic.notable_types",
+      "Venue"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Casa View"
+    ],
+    [
+      "Casa View",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Casa View",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Casa View"
+    ],
+    [
+      "2006 NCAA Men's Division I Basketball Tournament",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "The Circus Tour Dallas, TX Concert"
+    ],
+    [
+      "UFC 103",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Funhouse Tour, Dallas, TX Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2002 NCAA Men's Division I Basketball Tournament- Midwest Regional Second Round"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2006 NCAA Men's Division I Basketball Tournament - Oakland Regional Second Round"
+    ],
+    [
+      "American Airlines Center",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "The Circus Tour Dallas, TX Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "common.image.appears_in_topic_gallery",
+      "American Airlines Center"
+    ],
+    [
+      "Metallica: World Magnetic Tour, Dallas, TX Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Metallica: World Magnetic Tour, Dallas, TX Concert"
+    ],
+    [
+      "Sex and Love Tour",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "UFC 185"
+    ],
+    [
+      "American Airlines Center",
+      "common.image.size",
+      "m.029q58t"
+    ],
+    [
+      "2002 NCAA Men's Division I Basketball Tournament- Midwest Regional Second Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Texas-Boston College 2002 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Texas-Pennsylvania 2006 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "World Domination Tour, Dallas, TX Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Arkansas-Bucknell 2006 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "Memphis-Oral Roberts 2006 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Taylor Swift: Fearless Tour 2009 Dallas, TX Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Night of Champions",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "sports.sports_facility.home_venue_for",
+      "m.0wz1zn0"
+    ],
+    [
+      "American Airlines Center",
+      "business.sponsored_recipient.sponsorship",
+      "m.060bxdd"
+    ],
+    [
+      "Survivor Series (2003)",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "On With The Show Tour",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "2006 NCAA Men's Division I Basketball Tournament -  Atlanta Regional First Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Noth Carolina State-Texas 2006 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Mississippi State-McNeese State 2002 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Sex and Love Tour"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2006 NCAA Men's Division I Basketball Tournament - Oakland Regional First Round"
+    ],
+    [
+      "American Airlines Center",
+      "common.topic.notable_for",
+      "g.125dcyn5h"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "On With The Show Tour"
+    ],
+    [
+      "m.060bxdd",
+      "business.sponsorship.sponsored_recipient",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Viva la Vida World Tour, Dallas, TX - American Airlines Center Concert"
+    ],
+    [
+      "California-North Carolina State 2006 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "I Am… Tour, Dallas, TX Concert"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2002 NCAA Men's Division I Basketball Tournament- West Regional Second Round"
+    ],
+    [
+      "2002 NCAA Men's Division I Basketball Tournament",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "2006 NCAA Men's Division I Basketball Tournament - Oakland Regional Second Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "2002  NCAA Men's Division I Basketball Tournament- West Regional First Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2002 NCAA Men's Division I Basketball Tournament"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "55th National Hockey League All-Star Game"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Memphis-Bucknell 2006 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "2011 NBA Finals",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Texas-Mississippi State 2002 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "55th National Hockey League All-Star Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "UFC 185",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "2006 NCAA Men's Division I Basketball Tournament - Atlanta Regional Second Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2011 NBA Finals"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Texas-Boston College 2002 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "2002 NCAA Men's Division I Basketball Tournament- Midwest Regional First Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "common.image.size",
+      "m.01xgrpv"
+    ],
+    [
+      "Oklahoma-UIC 2002 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Texas-Pennsylvania 2006 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Black Ice World Tour, Dallas, TX Concert"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Night of Champions"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Xavier-Hawaii 2002 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Taylor Swift: Fearless Tour 2009 Dallas, TX Concert"
+    ],
+    [
+      "2002 NCAA Men's Division I Basketball Tournament- West Regional Second Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Memphis-Bucknell 2006 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Oklahoma-Xavier 2002 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "2006 NCAA Men's Division I Basketball Tournament - Oakland Regional First Round",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Arkansas-Bucknell 2006 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Noth Carolina State-Texas 2006 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Funhouse Tour, Dallas, TX Concert"
+    ],
+    [
+      "Let Rock Rule Tour",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Xavier-Hawaii 2002 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Hell in a Cell (2010)",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2002 NCAA Men's Division I Basketball Tournament- Midwest Regional First Round"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Memphis-Oral Roberts 2006 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "American Airlines Center",
+      "common.topic.article",
+      "m.01phyf"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Hell in a Cell (2014)"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2006 NCAA Men's Division I Basketball Tournament - Atlanta Regional Second Round"
+    ],
+    [
+      "Mississippi State-McNeese State 2002 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "World Domination Tour, Dallas, TX Concert"
+    ],
+    [
+      "HKS, Inc.",
+      "architecture.architecture_firm.projects",
+      "American Airlines Center"
+    ],
+    [
+      "m.0wz1zn6",
+      "sports.team_venue_relationship.venue",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "common.topic.image",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "UFC 171"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "California-North Carolina State 2006 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2002  NCAA Men's Division I Basketball Tournament- West Regional First Round"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "UFC 103"
+    ],
+    [
+      "I Am… Tour, Dallas, TX Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2006 NCAA Men's Division I Basketball Tournament -  Atlanta Regional First Round"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Let Rock Rule Tour"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Survivor Series (2003)"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.geolocation",
+      "m.02_sx__"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Texas-Mississippi State 2002 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "Black Ice World Tour, Dallas, TX Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "UFC 171",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Hell in a Cell (2010)"
+    ],
+    [
+      "Viva la Vida World Tour, Dallas, TX - American Airlines Center Concert",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "Oklahoma-UIC 2002 NCAA Men's Division I Basketball Tournament Game"
+    ],
+    [
+      "Hell in a Cell (2014)",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "m.0wz1zn0",
+      "sports.team_venue_relationship.venue",
+      "American Airlines Center"
+    ],
+    [
+      "American Airlines Center",
+      "sports.sports_facility.home_venue_for",
+      "m.0wz1zn6"
+    ],
+    [
+      "American Airlines Center",
+      "architecture.structure.architecture_firm",
+      "HKS, Inc."
+    ],
+    [
+      "American Airlines Center",
+      "location.location.events",
+      "2006 NCAA Men's Division I Basketball Tournament"
+    ],
+    [
+      "Oklahoma-Xavier 2002 NCAA Men's Division I Basketball Tournament Game",
+      "time.event.locations",
+      "American Airlines Center"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West End"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "West End"
+    ],
+    [
+      "West End",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "West End",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "West End",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Stevens Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Stevens Park",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Stevens Park"
+    ],
+    [
+      "Stevens Park",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Stevens Park"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lower Greenville"
+    ],
+    [
+      "Lower Greenville",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Lower Greenville",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Lower Greenville"
+    ],
+    [
+      "Rockwall County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Rockwall County",
+      "location.location.containedby",
+      "Dallas-Plano-Irving, TX Metropolitan Division"
+    ],
+    [
+      "Dallas-Plano-Irving, TX Metropolitan Division",
+      "location.location.contains",
+      "Rockwall County"
+    ],
+    [
+      "Rockwall County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Arts District"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Arts District"
+    ],
+    [
+      "Arts District",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Arts District",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Arts District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "State Thomas, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "State Thomas, Dallas"
+    ],
+    [
+      "State Thomas, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "State Thomas, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "L.O. Daniel",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "L.O. Daniel",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "L.O. Daniel",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "L.O. Daniel"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "L.O. Daniel"
+    ],
+    [
+      "Stemmons Corridor, Dallas",
+      "common.topic.image",
+      "Xvisionx Dallas Stemmons"
+    ],
+    [
+      "Xvisionx Dallas Stemmons",
+      "common.image.appears_in_topic_gallery",
+      "Stemmons Corridor, Dallas"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052v8q3"
+    ],
+    [
+      "m.052v8q3",
+      "travel.transportation.transport_terminus",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "American Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "MBSF - Private Jets"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.hubs",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Reunion"
+    ],
+    [
+      "Reunion",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Reunion",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Reunion",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Reunion"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Document Scanning Guys"
+    ],
+    [
+      "The Document Scanning Guys",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "The Document Scanning Guys",
+      "organization.organization.geographic_scope",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "International Center, Dallas"
+    ],
+    [
+      "International Center, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "International Center, Dallas"
+    ],
+    [
+      "International Center, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.nearby_airports",
+      "Dallas Love Field"
+    ],
+    [
+      "Dallas Love Field",
+      "aviation.airport.serves",
+      "MBSF - Private Jets"
+    ],
+    [
+      "Dallas Love Field",
+      "aviation.airport.serves",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas Love Field",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.nearby_airports",
+      "Dallas Love Field"
+    ],
+    [
+      "Dallas Love Field",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052v8q3"
+    ],
+    [
+      "m.052v8q3",
+      "travel.transportation.transport_terminus",
+      "Dallas Love Field"
+    ],
+    [
+      "Dallas-Plano-Irving, TX Metropolitan Division",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Dallas-Plano-Irving, TX Metropolitan Division"
+    ],
+    [
+      "Uptown, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Uptown, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Uptown, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Uptown, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Uptown, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Ridgewood Park"
+    ],
+    [
+      "Ridgewood Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Ridgewood Park",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Ridgewood Park"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Woodbridge"
+    ],
+    [
+      "Woodbridge",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Woodbridge",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Woodbridge",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Woodbridge"
+    ],
+    [
+      "Bishop Arts District, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Bishop Arts District, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Bishop Arts District, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bishop Arts District, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Bishop Arts District, Dallas"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.nearby_airports",
+      "Addison Airport"
+    ],
+    [
+      "Addison Airport",
+      "aviation.airport.serves",
+      "NCC Data"
+    ],
+    [
+      "NCC Data",
+      "location.location.nearby_airports",
+      "Addison Airport"
+    ],
+    [
+      "Addison Airport",
+      "aviation.airport.serves",
+      "MBSF - Private Jets"
+    ],
+    [
+      "Addison Airport",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Scyene"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Scyene"
+    ],
+    [
+      "Scyene",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Scyene",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Victory Park, Dallas"
+    ],
+    [
+      "Victory Park, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Victory Park, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Victory Park, Dallas"
+    ],
+    [
+      "Victory Park, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Arcadia Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Arcadia Park"
+    ],
+    [
+      "Arcadia Park",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Arcadia Park"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Stemmons Corridor, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Stemmons Corridor, Dallas"
+    ],
+    [
+      "Stemmons Corridor, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Stemmons Corridor, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Stemmons Corridor, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Fair Park",
+      "location.location.contains",
+      "Cotton Bowl"
+    ],
+    [
+      "Cotton Bowl",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Cotton Bowl",
+      "location.location.containedby",
+      "Fair Park"
+    ],
+    [
+      "Arkansas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Arkansas"
+    ],
+    [
+      "Melshire Estates",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Melshire Estates"
+    ],
+    [
+      "Melshire Estates",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Melshire Estates"
+    ],
+    [
+      "Melshire Estates",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Main Street",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Main Street"
+    ],
+    [
+      "Main Street",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Main Street",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Main Street"
+    ],
+    [
+      "Trammell & Margaret Crow Collection of Asian Art",
+      "common.topic.notable_types",
+      "Venue"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Greenway Parks"
+    ],
+    [
+      "Greenway Parks",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Greenway Parks"
+    ],
+    [
+      "Greenway Parks",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Greenway Parks",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Preston Center, Dallas"
+    ],
+    [
+      "Preston Center, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Preston Center, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Preston Center, Dallas"
+    ],
+    [
+      "Preston Center, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Merriman Park/University Manor",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Merriman Park/University Manor"
+    ],
+    [
+      "Merriman Park/University Manor",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Merriman Park/University Manor",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Merriman Park/University Manor"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Oak Lawn"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Parkdale Heights"
+    ],
+    [
+      "Love Field",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Cedars"
+    ],
+    [
+      "Northwood Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Turtle Creek"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Highland Hills"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Parkdale Heights"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Wheatley Place, Dallas"
+    ],
+    [
+      "Old Lake Highlands",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Love Field"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Lake Cliff, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Kessler Plaza"
+    ],
+    [
+      "Belmont",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Deep Ellum, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Knox Park, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Winnetka Heights, Dallas"
+    ],
+    [
+      "Kidd Springs, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Vickery Meadow, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bonton"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Fair Park"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Casa Linda Estates, Dallas"
+    ],
+    [
+      "Belmont",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Reyes Brown Reilley"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "L Streets"
+    ],
+    [
+      "Cedars",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Vickery Meadow, Dallas"
+    ],
+    [
+      "Highland Hills",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Old Lake Highlands"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Deep Ellum, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Lake Park Estates, Dallas"
+    ],
+    [
+      "Bonton",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Town Creek",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Devonshire",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Vickery Meadow, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Koreatown"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Highland Meadows"
+    ],
+    [
+      "Highland Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Northwood Hills",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Fair Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Kessler Plaza",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Winnetka Heights, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Hamilton Park"
+    ],
+    [
+      "Koreatown",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Hamilton Park"
+    ],
+    [
+      "Lochwood",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Bonton"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lakewood"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Oak Lawn"
+    ],
+    [
+      "Hamilton Park",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Wheatley Place, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Cedars"
+    ],
+    [
+      "Love Field",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Belmont"
+    ],
+    [
+      "Northwood Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Northwood Heights",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Northwood Hills"
+    ],
+    [
+      "L Streets",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Parkdale Heights",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Knox Park, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "West Village"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Town Creek"
+    ],
+    [
+      "Parkdale Heights",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Government District"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bluff View"
+    ],
+    [
+      "Kessler Plaza",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Deep Ellum, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Bonton",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Koreatown"
+    ],
+    [
+      "Devonshire",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Casa Linda Estates, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Lakewood",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Casa Linda Estates, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Kidd Springs, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Little Forest Hills"
+    ],
+    [
+      "Reyes Brown Reilley",
+      "organization.organization.geographic_scope",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Lakewood"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West Village"
+    ],
+    [
+      "Winnetka Heights, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Knox Park, Dallas"
+    ],
+    [
+      "Winnetka Heights, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "West Village",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "organization.organization_scope.organizations_with_this_scope",
+      "NCC Data"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Old Lake Highlands"
+    ],
+    [
+      "Lochwood",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Government District",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Lake Park Estates, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kidd Springs, Dallas"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Highland Meadows"
+    ],
+    [
+      "L Streets",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Bluff View",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Little Forest Hills",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Hamilton Park",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Lake Cliff, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "West Village",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Town Creek"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Fair Park"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Belmont"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Turtle Creek"
+    ],
+    [
+      "Wheatley Place, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lochwood"
+    ],
+    [
+      "Lake Park Estates, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Northwood Heights"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Northwood Hills"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Devonshire"
+    ],
+    [
+      "Town Creek",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Turtle Creek",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Government District"
+    ],
+    [
+      "Oak Lawn",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Devonshire"
+    ],
+    [
+      "Lake Cliff, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Turtle Creek",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "NCC Data",
+      "organization.organization.geographic_scope",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Kidd Springs, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Little Forest Hills"
+    ],
+    [
+      "Old Lake Highlands",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Lochwood"
+    ],
+    [
+      "Koreatown",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Deep Ellum, Dallas"
+    ],
+    [
+      "Oak Lawn",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Lakewood",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Vickery Meadow, Dallas",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Knox Park, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Highland Hills"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lake Park Estates, Dallas"
+    ],
+    [
+      "Highland Meadows",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Government District",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Cedars",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Bluff View",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Bluff View"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Love Field"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kessler Plaza"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lake Cliff, Dallas"
+    ],
+    [
+      "Casa Linda Estates, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Fair Park",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Little Forest Hills",
+      "location.location.containedby",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Highland Meadows",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "Northwood Heights"
+    ],
+    [
+      "Wheatley Place, Dallas",
+      "location.neighborhood.neighborhood_of",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.contains",
+      "L Streets"
+    ],
+    [
+      "Winnetka Heights, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "White Rock Lake",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "White Rock Lake",
+      "geography.lake.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Dixie Chicks: Shut Up and Sing",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Dixie Chicks: Shut Up and Sing",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Highland Hills",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Los Altos, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Oak Lawn",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Lake Park Estates, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Cedars",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Old Lake Highlands",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Knox Park, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Bluff View",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Parkdale Heights",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Government District",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Lake Cliff, Dallas",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Northwood Hills",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Devonshire",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Little Forest Hills",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Love Field",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Town Creek",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Northwood Heights",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 214, 469, and 972"
+    ],
+    [
+      "Synergy Insulation",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Synergy Insulation",
+      "organization.organization.place_founded",
+      "United States of America"
+    ],
+    [
+      "Shtickmen",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Shtickmen",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.04hrfn1",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "m.04hrfn1",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "HKS, Inc.",
+      "organization.organization.headquarters",
+      "m.04hrfn1"
+    ],
+    [
+      "Comerica Bank Tower",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Comerica Bank Tower",
+      "architecture.structure.architecture_firm",
+      "HKS, Inc."
+    ],
+    [
+      "HKS, Inc.",
+      "architecture.architecture_firm.projects",
+      "Comerica Bank Tower"
+    ],
+    [
+      "License to Kill",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "License to Kill",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Allie Beth Allman",
+      "organization.organization.founders",
+      "Allie Beth Allman"
+    ],
+    [
+      "Allie Beth Allman",
+      "organization.organization_founder.organizations_founded",
+      "Allie Beth Allman"
+    ],
+    [
+      "George M. Dallas",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "George M. Dallas",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "business.business_location.parent_company",
+      "MBSF - Private Jets"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "MBSF - Private Jets",
+      "organization.organization.locations",
+      "New York City"
+    ],
+    [
+      "Dallas Cowboys",
+      "sports.sports_team.colors",
+      "Navy Blue"
+    ],
+    [
+      "Dallas Cowboys",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "Dallas Cowboys",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Dallas Cowboys",
+      "sports.sports_team.colors",
+      "Silver"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Little Rock",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "New York City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Little Rock",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Arkansas",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Pulaski County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "SMU Mustangs men's basketball",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "HKS, Inc.",
+      "architecture.architecture_firm.projects",
+      "Renaissance Tower"
+    ],
+    [
+      "Renaissance Tower",
+      "architecture.structure.architecture_firm",
+      "HKS, Inc."
+    ],
+    [
+      "Renaissance Tower",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Funhouse Tour",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "I Am... World Tour",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Tom Hicks",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arkansas"
+    ],
+    [
+      "University of Arkansas at Little Rock",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Little Rock",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "African American",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "Black Ice World Tour",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "Rick Carlisle",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Georgia Dome",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana Creole French Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Sea Island Creole English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.country",
+      "United States of America"
+    ],
+    [
+      "Little Rock",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arkansas"
+    ],
+    [
+      "James L. Dolan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Madison Square Garden",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Taylor Swift Fearless 2009 Tour",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kobe Doin' Work",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Frost Bank Tower",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Duane Washington",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Circus Starring Britney Spears",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "One Congress Plaza",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.010gz7w8",
+      "base.schemastaging.phone_sandbox.service_location",
+      "United States of America"
+    ],
+    [
+      "African American Vernacular English",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "m.0_ytx33",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Robbie Lawler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Enrique Iglesias",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Gorge Amphitheatre",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Garden City High School",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bank of America Corporate Center",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arkansas"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Pulaski County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Mark Cuban",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Derek Fisher",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arkansas"
+    ],
+    [
+      "Doll Domination Tour",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "University of Arkansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Energy Centre",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Winning Time: Reggie Miller vs. the New York Knicks",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "1600 Pacific Tower",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "100 North Tampa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York City"
+    ],
+    [
+      "Southern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "1600 Pacific Tower",
+      "architecture.structure.architecture_firm",
+      "HKS, Inc."
+    ],
+    [
+      "HKS, Inc.",
+      "architecture.architecture_firm.projects",
+      "1600 Pacific Tower"
+    ],
+    [
+      "Sam Pack Ford Dealers",
+      "common.topic.subject_of",
+      "Sam Pack Ford Dealers"
+    ],
+    [
+      "Sam Pack Ford Dealers",
+      "common.topic.subjects",
+      "Sam Pack Ford Dealers"
+    ],
+    [
+      "Tom Hicks",
+      "people.person.gender",
+      "Male"
+    ]
+  ]
+}

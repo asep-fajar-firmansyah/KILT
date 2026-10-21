@@ -1,0 +1,5715 @@
+{
+  "graph_id": 27341,
+  "subgraph": [
+    [
+      "George Wallace, Jr.",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "George Wallace, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "George Wallace, Jr."
+    ],
+    [
+      "George Wallace, Jr.",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "George Wallace, Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles S. McDowell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Charles S. McDowell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles S. McDowell",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Charles S. McDowell"
+    ],
+    [
+      "Courtney Upshaw",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Courtney Upshaw"
+    ],
+    [
+      "Courtney Upshaw",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Courtney Upshaw",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Courtney Upshaw",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Martha Reeves",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Martha Reeves",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Martha Reeves",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Martha Reeves",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Martha Reeves"
+    ],
+    [
+      "Martha Reeves",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Lula Mae Hardaway",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Lula Mae Hardaway",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "Lula Mae Hardaway",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lula Mae Hardaway",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Lula Mae Hardaway",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Lula Mae Hardaway"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Walter Reeves"
+    ],
+    [
+      "Walter Reeves",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Walter Reeves",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Whitney Davis",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Jack Emmer",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "John J. Collett",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "rdf-schema#range",
+      "TV Personality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Physically Instantiable"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Aaron Morris",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Person",
+      "owl#inverseOf",
+      "TV regular appearances"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Trisha Ventker",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Kenneth King Burnett",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "TV Personality",
+      "type.type.expected_by",
+      "Person"
+    ],
+    [
+      "G. Monty Brinson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Kimberly Jackson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "John Jackson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Brooke Brinson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.property.expected_type",
+      "TV Personality"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Frances Townsend",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.property.reverse_property",
+      "TV regular appearances"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Chad Davis",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Matt Moniz",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Conor Sparacio",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0gl9qmr",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "La Plata",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hunter Wyatt-Brown",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maryland"
+    ],
+    [
+      "Peter Walker",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.04zr93l",
+      "base.firsts.first_achievement.category",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Kiersten Fay",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0cg2spq",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Brooke Brinson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Whiz Kid and the Mystery at Riverton",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Matt Moniz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Paul Harmon",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tuff Turf",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Robert B. Silvers",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lenny Bruce",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Jerome Courtland",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arizona"
+    ],
+    [
+      "Kansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.militaryinfiction.location_in_fiction.contains",
+      "Kansas"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "The Real Housewives of Beverly Hills",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.militaryinfiction.location_in_fiction.contained_by",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Eufaula",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ron W. Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New York"
+    ],
+    [
+      "Chris Free",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "College of Southern Maryland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Omaha",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "John B. Mansbridge",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hans Rice",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Race to Witch Mountain",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Barbour County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "Manny Matos",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mike Cucinotta",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Return from Witch Mountain",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Whitney Davis",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "J. D. Daniels",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kevin M. Costello",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kenneth King Burnett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Johnny Mandel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kathy Hilton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Daryl Thompson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kansas"
+    ],
+    [
+      "Alexander Key",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kansas"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New York",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Ned Balbo",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kiersten Fay",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Lillian Watson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "Kansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kathleen Richards",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.country",
+      "United States of America"
+    ],
+    [
+      "El Centro",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Devil Dog: The Hound of Hell",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mike Lisi",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "United States of America",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wyfrp"
+    ],
+    [
+      "Black Snake Moan",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States women's national gymnastics team",
+      "sports.sports_team.location",
+      "United States of America"
+    ],
+    [
+      "Kevin Corcoran",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hal Gausman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Frances Townsend",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Paul Mougey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Beyond Witch Mountain",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Trevor Rabin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Barbour County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maryland"
+    ],
+    [
+      "Justine Cotsonas",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Here We Go Again",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Frank Wilczek",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arizona"
+    ],
+    [
+      "Owen Bento",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jerrel Jernigan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kansas"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Nanny and the Professor",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arizona"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Susan Rose-Ackerman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Robert M. Young",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Raid on Entebbe",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "G (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Bob Bill",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Kyle Richards",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kenneth I. Chenault",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mark Bomback",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.04wyfrp",
+      "base.firsts.first_achievement.category",
+      "United States of America"
+    ],
+    [
+      "Frank R. McKelvy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Michael Burns",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ed Ra",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "No Deposit, No Return",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Emmy Clarke",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Escape to Witch Mountain",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04zr93l"
+    ],
+    [
+      "Omaha",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "The Car",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Charles County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Aud Brindley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "New York College of Traditional Chinese Medicine",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michael Palance",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Juwan Wells",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kevin James",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New York"
+    ],
+    [
+      "Brian Mullan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maryland"
+    ],
+    [
+      "Kim Richards",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "James at 15",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Waymon McCoo",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Brimstone",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Nassau County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Sally Menke",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "J. Martling",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kansas"
+    ],
+    [
+      "William Vogt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Linda Jean Marlowe",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "PG (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arizona"
+    ],
+    [
+      "David Rennie",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "John Barry Nusum",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "sports.sports_team_location.teams",
+      "United States women's national gymnastics team"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Hello, Larry",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Michael Vario",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Gerry Studds",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Meatballs Part II",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Greg Gardiner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ron W. Miller",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "James Patrick Kelly",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Carlos Mendes",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Andy Fickman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Gary Valentine",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Eufaula",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Shorter Mansion"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0k6mn_w"
+    ],
+    [
+      "Eufaula",
+      "location.citytown.postal_codes",
+      "36072"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1k74yd"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1hjtmx"
+    ],
+    [
+      "Eufaula",
+      "location.hud_foreclosure_area.total_residential_addresses",
+      "m.07ggzzh"
+    ],
+    [
+      "Hunter Wyatt-Brown",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Waymon McCoo"
+    ],
+    [
+      "Eufaula",
+      "location.location.nearby_airports",
+      "Weedon Field"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1hglb2"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1k05zc"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "The Tavern"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q3b"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Kendall Manor"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Gov. Chauncy Sparks House"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q2x"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q5k"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q1_"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Sheppard Cottage"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Daryon Brutley"
+    ],
+    [
+      "Eufaula",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area code 334"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Hunter Wyatt-Brown"
+    ],
+    [
+      "Eufaula",
+      "common.topic.webpage",
+      "m.062t8rb"
+    ],
+    [
+      "Eufaula",
+      "location.hud_foreclosure_area.bls_unemployment_rate",
+      "m.07ggzzq"
+    ],
+    [
+      "Eufaula",
+      "location.citytown.postal_codes",
+      "36027"
+    ],
+    [
+      "Eufaula",
+      "location.hud_foreclosure_area.total_90_day_vacant_residential_addresses",
+      "m.07ggzz8"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1mn8wm"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1kvsdr"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Lakepoint State Park"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q26"
+    ],
+    [
+      "Hans Rice",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Bertha Merrill Holt"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1gr172"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "McNab Bank Building"
+    ],
+    [
+      "Eufaula",
+      "common.topic.article",
+      "m.0pmyx"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q33"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Kiels-McNab House"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1fqt63"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Fendall Hall"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0jtj_6m"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1h6p3c"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1mp67m"
+    ],
+    [
+      "m.062t8rb",
+      "common.webpage.topic",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.location.containedby",
+      "Barbour County"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Bray-Barron House"
+    ],
+    [
+      "Eufaula",
+      "location.location.geolocation",
+      "m.0k9znf"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q53"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1mfcjr"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Jerrel Jernigan"
+    ],
+    [
+      "Eufaula",
+      "location.hud_county_place.county",
+      "Barbour County"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1jbzzj"
+    ],
+    [
+      "Alexander Key",
+      "people.deceased_person.place_of_death",
+      "Eufaula"
+    ],
+    [
+      "Barbour County",
+      "location.us_county.hud_county_place",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q3s"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q5s"
+    ],
+    [
+      "Eufaula",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Barbour County",
+      "location.location.contains",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q5_"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Lore Historic District"
+    ],
+    [
+      "Les Snead",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q3k"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1l3nh3"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q2f"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q4x"
+    ],
+    [
+      "Eufaula",
+      "common.topic.image",
+      "Shorter Mansion"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.12vqj55zj"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11bc88dwbt"
+    ],
+    [
+      "Waymon McCoo",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q47"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q2p"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1hcdpd"
+    ],
+    [
+      "Eufaula",
+      "location.location.events",
+      "Eufaula Pilgrimage"
+    ],
+    [
+      "Eufaula",
+      "common.topic.image",
+      "Shorter Mansion 01"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Drewry-Mitchell-Moorer House"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1lv12l"
+    ],
+    [
+      "Eufaula",
+      "location.hud_county_place.place",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "common.topic.notable_for",
+      "g.125918wfw"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0k6mn_n"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1lct7t"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q3_"
+    ],
+    [
+      "Eufaula",
+      "location.hud_foreclosure_area.estimated_number_foreclosures",
+      "m.07ggzyv"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Hans Rice"
+    ],
+    [
+      "Eufaula",
+      "location.hud_foreclosure_area.hhuniv",
+      "m.07ggzym"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11b674j1wz"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Humphrey Foy"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "William Henry Harrison Hart"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "S. Hubert Dent, Jr."
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1dydg8"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1c_2hh"
+    ],
+    [
+      "Eufaula",
+      "location.hud_foreclosure_area.estimated_number_of_mortgages",
+      "m.07ggzz1"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1kpq0w"
+    ],
+    [
+      "Bertha Merrill Holt",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q4g"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q4p"
+    ],
+    [
+      "Eufaula",
+      "location.location.contains",
+      "Wellborn"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1ksxfc"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "m.0hk4q5b"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1fdlsp"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Dave Watson"
+    ],
+    [
+      "Eufaula",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Eufaula",
+      "location.statistical_region.population",
+      "g.11x1fxbdg"
+    ],
+    [
+      "Eufaula",
+      "location.location.people_born_here",
+      "Les Snead"
+    ],
+    [
+      "Jerrel Jernigan",
+      "people.person.place_of_birth",
+      "Eufaula"
+    ],
+    [
+      "Mouth McFadden",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Obstructive sleep apnea",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Hirschsprung's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "William Vogt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Burn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Benign prostatic hyperplasia"
+    ],
+    [
+      "Inguinal hernia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Burn",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Stuttering",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Attention deficit hyperactivity disorder"
+    ],
+    [
+      "Shadow Figure",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Alcohol abuse"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "neilplus's types"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.07n73w_"
+    ],
+    [
+      "Phone Trick",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "m.0d521lm",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Kenneth I. Chenault",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hirschsprung's disease"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrvl"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Bladder cancer"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Autism"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_1x1x"
+    ],
+    [
+      "Liver tumour",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "m.0kfyrvl",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Robert B. Silvers",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hypospadias",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Myocardial Ischemia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Corneal abrasion",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Ken Richards",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64rh"
+    ],
+    [
+      "Aud Brindley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Steve Falteisek",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pyloric stenosis"
+    ],
+    [
+      "J. Martling",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Michael Palance",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kawasaki disease"
+    ],
+    [
+      "Actinic keratosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "John B. Mansbridge",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0d5218t",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Mark Robinson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0bm6pqb",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Steve Farr",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael Vario",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Inguinal hernia"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Toby Isaacs",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Trevor Rabin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Meningococcal disease"
+    ],
+    [
+      "Seth Mortensen",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Owen Bento",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Transient ischemic attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Retroperitoneal fibrosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Gastritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Gary Valentine",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Daryl Thompson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alexander Key",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Thomas M. Middleton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Vive Targi Kielce",
+      "sports.sports_team.gender",
+      "Male"
+    ],
+    [
+      "m.0blp5sr",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Gregg Davis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsy"
+    ],
+    [
+      "Lalo Schifrin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.article",
+      "m.05zpq8"
+    ],
+    [
+      "Emphysema",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Noah Solloway",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Ed Ra",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ron W. Miller",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Antisocial personality disorder"
+    ],
+    [
+      "Antisocial personality disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0d522bn",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Hodgkin's lymphoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Matt Dyson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrw1"
+    ],
+    [
+      "Gary Christenson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Male"
+    ],
+    [
+      "m.0zm9_69",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Juwan Wells",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lm"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Peter Walker",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Golfer's elbow"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrt3"
+    ],
+    [
+      "m.04j64q8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Brimstone",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.05bvjy3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Andrew Gunn",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Non-Hodgkin lymphoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "John Grant Chapman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actor"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sr"
+    ],
+    [
+      "Gerry Studds",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kevin M. Costello",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pqb"
+    ],
+    [
+      "John Hough",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pyloric stenosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Aaron Morris",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "male.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Male"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218t"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney cancer"
+    ],
+    [
+      "neilplus's types",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Waymon McCoo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kenneth King Burnett",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Mouth McFadden",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Frank Wilczek",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Parkinson's disease"
+    ],
+    [
+      "Jack Emmer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Shadow Figure"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Urethritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Mike Lisi",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kevin James",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "Shane Halter",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hunter Wyatt-Brown",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.04j647l",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Acute myeloid leukemia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ventricular tachycardia"
+    ],
+    [
+      "m.02_98hd",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.02_1x1x",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Golfer's elbow",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Club foot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckn4"
+    ],
+    [
+      "Lenny Bruce",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Valentin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.04j64rh",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "John Jackson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "Bruce Butler",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.05cckn4",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Chad Davis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Leprosy"
+    ],
+    [
+      "Males",
+      "base.skosbase.skos_concept.equivalent_topic",
+      "Male"
+    ],
+    [
+      "Hal Gausman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hypospadias"
+    ],
+    [
+      "Matt Moniz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jerrel Jernigan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Malcolm Marmorstein",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urethritis"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_69"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Tim Drummond",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_98hd"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "Sean T. Buffington",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Barrett's esophagus"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvklm"
+    ],
+    [
+      "Nephrotic syndrome",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "John R. Jensen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Mario Iscovich",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ankylosing spondylitis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Syphilis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Mitchell Van Yahres",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Barrett's esophagus",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Al Roelofs",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_4"
+    ],
+    [
+      "m.0gxvv0q",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Steve Serio",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0h"
+    ],
+    [
+      "Chris Free",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "J. D. Daniels",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0gxvv0h",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Mark Bomback",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Manny Matos",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Acute myeloid leukemia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ectodermal dysplasia"
+    ],
+    [
+      "Kidney Stone",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pectus excavatum"
+    ],
+    [
+      "Jean Pierre Félicien Mallefille",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "SFX Award for Best Actor",
+      "award.award_category.disciplines_or_subjects",
+      "Male"
+    ],
+    [
+      "Michael Burns",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "m.0hzxnsy",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Les Snead",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alcohol abuse",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bn"
+    ],
+    [
+      "Kevin Corcoran",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nathaniel Hawthorne",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrw1",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Mike Cucinotta",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Conor Sparacio",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Autism",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Urolithiasis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Amyotrophic lateral sclerosis"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Meningococcal disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0gxvt_4",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrv7"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Dupuytren's contracture"
+    ],
+    [
+      "Pete Koegel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ned Balbo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0q"
+    ],
+    [
+      "Carlos Mendes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64q8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Club foot"
+    ],
+    [
+      "William Daniel Mayer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Brian Mullan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Donohue",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Paget's disease of bone"
+    ],
+    [
+      "m.0kfyrt3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Actinic keratosis"
+    ],
+    [
+      "Benign prostatic hyperplasia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.02zd4tr",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Liver tumour"
+    ],
+    [
+      "Male",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Males"
+    ],
+    [
+      "Male",
+      "common.topic.image",
+      "male.jpg"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Male"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.07n73w_",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Male",
+      "sports.sports_gender.sports_teams",
+      "Vive Targi Kielce"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02zd4tr"
+    ],
+    [
+      "Gout",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Ectodermal dysplasia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Anaplastic thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Bob Bill",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ventricular tachycardia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "m.0kfyrv7",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkm6"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney Stone"
+    ],
+    [
+      "Andy Fickman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gastritis"
+    ],
+    [
+      "G. Monty Brinson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dupuytren's contracture",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0blp580",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk3z"
+    ],
+    [
+      "Massimo Zanini",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "David Wilson",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Paul Mougey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Anaplastic thyroid cancer"
+    ],
+    [
+      "Pectus excavatum",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Phone Trick"
+    ],
+    [
+      "Paul Harmon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Male",
+      "common.topic.notable_for",
+      "g.1255p_jgc"
+    ],
+    [
+      "B. J. LaMura",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.09td39b"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Sebaceous cyst"
+    ],
+    [
+      "Hans Rice",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stuttering"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Emphysema"
+    ],
+    [
+      "Jerome Courtland",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.04mmfr8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Greg Gardiner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Barry Nusum",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Corneal abrasion"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Leprosy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "David J. Bomba",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Esophageal cancer"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__g"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Tetralogy of Fallot"
+    ],
+    [
+      "Non-gonococcal urethritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urolithiasis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp580"
+    ],
+    [
+      "Male",
+      "base.schemastaging.context_name.pronunciation",
+      "m.011sf4j6"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "Massimo Zanini"
+    ],
+    [
+      "Robert M. Young",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Rennie",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tetralogy of Fallot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04mmfr8"
+    ],
+    [
+      "James Patrick Kelly",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Athlete's foot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Johnny Mandel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.05bvk3z",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Sebaceous cyst",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjy3"
+    ],
+    [
+      "m.05bvkm6",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Ben Galley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0j7v__g",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j647l"
+    ],
+    [
+      "m.05bvklm",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Frank R. McKelvy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.09td39b",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "David J. Bomba",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Andrew Gunn",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Gary Valentine",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Justine Cotsonas",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mario Iscovich",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Andy Fickman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Frank R. McKelvy",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kathleen Richards",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Waymon McCoo",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "J. D. Daniels",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "G. Monty Brinson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John Jackson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John R. Jensen",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kenneth King Burnett",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Sarah Finn",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Randi Hiller",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Emily Sundby",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Robert M. Young",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Genevieve Tyrrell",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kyle Richards",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Linda Jean Marlowe",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kenneth I. Chenault",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mark Bomback",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Hal Gausman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John B. Mansbridge",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "James Patrick Kelly",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Emmy Clarke",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Rennie",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ron W. Miller",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "J. Martling",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mike Cucinotta",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kevin James",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Malcolm Marmorstein",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jerome Courtland",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ken Richards",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Peter Walker",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Greg Gardiner",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Spokesperson",
+      "people.profession.specialization_of",
+      "Actor"
+    ],
+    [
+      "Jerome Courtland",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Jeremy Yablan"
+    ],
+    [
+      "Michael Palance",
+      "common.topic.subjects",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Aaron Morris"
+    ],
+    [
+      "G. Monty Brinson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kyle Richards",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "people.profession.specializations",
+      "Spokesperson"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Chris Free"
+    ],
+    [
+      "Paul Mougey",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Justine Cotsonas",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Chris Free"
+    ],
+    [
+      "Lalo Schifrin",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Chris Free",
+      "common.topic.subject_of",
+      "Actor"
+    ],
+    [
+      "Lenny Bruce",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kathy Hilton",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jeremy Yablan",
+      "common.topic.subjects",
+      "Actor"
+    ],
+    [
+      "Emmy Clarke",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Aaron Morris",
+      "common.topic.subject_of",
+      "Actor"
+    ],
+    [
+      "Michael Burns",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kevin James",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kevin Corcoran",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Whitney Davis",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Michael Palance"
+    ],
+    [
+      "Michael Palance",
+      "common.topic.subject_of",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Jeremy Yablan"
+    ],
+    [
+      "Kevin M. Costello",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Michael Palance",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "J. Martling",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Michael Palance"
+    ],
+    [
+      "Paul Harmon",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Owen Bento",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jeremy Yablan",
+      "common.topic.subject_of",
+      "Actor"
+    ],
+    [
+      "J. D. Daniels",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Chris Free",
+      "common.topic.subjects",
+      "Actor"
+    ],
+    [
+      "Gary Valentine",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Peter Walker",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kim Richards",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbtr"
+    ],
+    [
+      "Author",
+      "book.book_subject.works",
+      "Events, Books Highlight Flannery O'Connor Legacy (part 2) Her Life and Times"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Playwright"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbxq"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011nj8nh"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Contributing authors"
+    ],
+    [
+      "“Sociologically, politically, psychologically, spiritually, it was never enough for him [James Baldwin] to categorize himself as one thing or the other: not just black, not just sexual, not just American, nor even just as a world-class literary artist. He embraced the whole of life the way the sun’s gravitational passion embraces everything from the smallest wandering comet to the largest looming planet. He both confronted and cultivated creative vision with a drive, passion, and brilliance that few have matched, and simply being able to watch his genius sparkle from one sentence to the next could generate both awe and revelation.”",
+      "media_common.quotation.subjects",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Editor"
+    ],
+    [
+      "Editor",
+      "type.property.expected_type",
+      "Author"
+    ],
+    [
+      "Works edited",
+      "type.property.schema",
+      "Author"
+    ],
+    [
+      "Ned Balbo",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Series Written (or Contributed To)"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Author(s)"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Open Library ID"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011qyfwc"
+    ],
+    [
+      "J. Martling",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Kiersten Fay",
+      "common.topic.subjects",
+      "Author"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "book.book_subject.works",
+      "Contemporary Authors: A Bio-Bibliographical Guide to Current Writers in Fiction, General Nonfiction, Poetry, Journalism, Drama, Motion Pictures, Television. Vol. 249"
+    ],
+    [
+      "Author",
+      "common.topic.subject_of",
+      "The Passion-Driven Writer and the Digital-Age Literary Marketplace"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Author/editor"
+    ],
+    [
+      "Kiersten Fay",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.property.master_property",
+      "Works written"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbyn"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Editor of this edition"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "/knowledge/literature/name"
+    ],
+    [
+      "Playwright",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Novelist",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "The Passion-Driven Writer and the Digital-Age Literary Marketplace",
+      "book.written_work.subjects",
+      "Author"
+    ],
+    [
+      "Works written",
+      "owl#inverseOf",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.equivalent_topic.equivalent_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "rdf-schema#range",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01283tsj"
+    ],
+    [
+      "Very little in science fiction can transcend the gimmickry of a technical conceit, yet without that conceit at its heart a book is not truly science fiction. Furthermore, so little emerging thought and technology is employed by sf writers today that the genre is lagging far behind reality both in the cosmology area and the technology area: sf is no longer a place to experiment, but is now very derivative.",
+      "media_common.quotation.subjects",
+      "Author"
+    ],
+    [
+      "Jeremy Yablan",
+      "common.topic.subject_of",
+      "Author"
+    ],
+    [
+      "Crime writer",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "School or Movement"
+    ],
+    [
+      "Satirist",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Works written",
+      "type.property.reverse_property",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbvx"
+    ],
+    [
+      "Works written",
+      "type.property.schema",
+      "Author"
+    ],
+    [
+      "Works written",
+      "rdf-schema#domain",
+      "Author"
+    ],
+    [
+      "Alexander Key",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdb_h"
+    ],
+    [
+      "Playwright",
+      "rdf-schema#range",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.property.expected_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.kind",
+      "Title"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdccz"
+    ],
+    [
+      "Jeremy Yablan",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Book editions edited"
+    ],
+    [
+      "Playwright",
+      "type.property.expected_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbzz"
+    ],
+    [
+      "Authors Frequently Mentioned on the Web",
+      "book.written_work.subjects",
+      "Author"
+    ],
+    [
+      "Playwright",
+      "type.property.delegated",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01260pzp"
+    ],
+    [
+      "Science writer",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Works written"
+    ],
+    [
+      "Author",
+      "freebase.documented_object.documentation",
+      "m.021y5yr"
+    ],
+    [
+      "James Patrick Kelly",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Lenny Bruce",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01283tsy"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Authors"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011nj8pr"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Associated Authors"
+    ],
+    [
+      "Jeremy Yablan",
+      "common.topic.subjects",
+      "Author"
+    ],
+    [
+      "Kiersten Fay",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "common.topic.subjects",
+      "Jeremy Yablan"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Test1"
+    ],
+    [
+      "Ben Galley",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "Author",
+      "common.topic.subjects",
+      "Ben Galley"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Contemporary Authors: A Bio-Bibliographical Guide to Current Writers in Fiction, General Nonfiction, Poetry, Journalism, Drama, Motion Pictures, Television. Vol. 249",
+      "book.written_work.subjects",
+      "Author"
+    ],
+    [
+      "Author",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Very little in science fiction can transcend the gimmickry of a technical conceit, yet without that conceit at its heart a book is not truly science fiction. Furthermore, so little emerging thought and technology is employed by sf writers today that the genre is lagging far behind reality both in the cosmology area and the technology area: sf is no longer a place to experiment, but is now very derivative."
+    ],
+    [
+      "Writers and Authors",
+      "base.lightweight.profession.specialization",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.lightweight.profession.specialization_of",
+      "Writers and Authors"
+    ],
+    [
+      "Author",
+      "book.book_subject.works",
+      "The Passion-Driven Writer and the Digital-Age Literary Marketplace"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012r6gx3"
+    ],
+    [
+      "Author",
+      "common.topic.subject_of",
+      "Kiersten Fay"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "author"
+    ],
+    [
+      "Ben Galley",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Works edited",
+      "rdf-schema#domain",
+      "Author"
+    ],
+    [
+      "Trisha Ventker",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "common.topic.article",
+      "m.021y5yr"
+    ],
+    [
+      "James Patrick Kelly",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Events, Books Highlight Flannery O'Connor Legacy (part 2) Her Life and Times",
+      "book.written_work.subjects",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "made by"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbxg"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Contributing author to"
+    ],
+    [
+      "Media",
+      "type.domain.types",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.equivalent_topic",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdby5"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdcrs"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbvg"
+    ],
+    [
+      "Author",
+      "type.type.domain",
+      "Media"
+    ],
+    [
+      "Journalist",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Essayist",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Ben Galley",
+      "common.topic.subject_of",
+      "Author"
+    ],
+    [
+      "Author",
+      "book.book_subject.works",
+      "Authors Frequently Mentioned on the Web"
+    ],
+    [
+      "Editor",
+      "rdf-schema#range",
+      "Author"
+    ],
+    [
+      "Author",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "“Sociologically, politically, psychologically, spiritually, it was never enough for him [James Baldwin] to categorize himself as one thing or the other: not just black, not just sexual, not just American, nor even just as a world-class literary artist. He embraced the whole of life the way the sun’s gravitational passion embraces everything from the smallest wandering comet to the largest looming planet. He both confronted and cultivated creative vision with a drive, passion, and brilliance that few have matched, and simply being able to watch his genius sparkle from one sentence to the next could generate both awe and revelation.”"
+    ],
+    [
+      "William Vogt",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbt3"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Book editions published"
+    ],
+    [
+      "Writer",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "book_author"
+    ],
+    [
+      "Author",
+      "common.topic.subject_of",
+      "Jeremy Yablan"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Works edited"
+    ],
+    [
+      "The Passion-Driven Writer and the Digital-Age Literary Marketplace",
+      "common.topic.subjects",
+      "Author"
+    ],
+    [
+      "Necrobiosis lipoidica",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_c"
+    ],
+    [
+      "m.07nf1bk",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.pethealth.pet_disease_risk_factor.pet_diseases_with_this_risk_factor",
+      "Hypoadrenocorticism in dogs"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pyelonephritis"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wyfrp"
+    ],
+    [
+      "Rhinitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Nat Manning",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Justine Cotsonas",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Follicular thyroid cancer"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Female",
+      "common.topic.webpage",
+      "m.0b6rypp"
+    ],
+    [
+      "m.02yxhns",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pyogenic granuloma"
+    ],
+    [
+      "Cushing's syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dermatitis"
+    ],
+    [
+      "Rheumatoid arthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Trigger finger",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.notable_types",
+      "Literature Subject"
+    ],
+    [
+      "Iron-deficiency anemia",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04zr93l"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Bartholin's cyst"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0y"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wvp27"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Macular degeneration"
+    ],
+    [
+      "Sarah Finn",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Polymorphous light eruption",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Canker sore"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02yxhp8"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymorphous light eruption"
+    ],
+    [
+      "Females",
+      "base.skosbase.skos_concept.equivalent_topic",
+      "Female"
+    ],
+    [
+      "Cirrhosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Kathy Hilton",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "sports.sports_gender.sports_teams",
+      "United States women's national gymnastics team"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Graves' disease"
+    ],
+    [
+      "Nephritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "g.122zk0s8"
+    ],
+    [
+      "Female",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Females"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Conversion disorder"
+    ],
+    [
+      "m.0b6rypp",
+      "common.webpage.topic",
+      "Female"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "m.04zr93l",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Nebraska Correctional Center for Women"
+    ],
+    [
+      "Hidradenitis suppurativa",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Urethral syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hidradenitis suppurativa"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02_98hp"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cystitis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Multiple sclerosis"
+    ],
+    [
+      "Lichen planus",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Pain disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Female"
+    ],
+    [
+      "Carpal tunnel syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Hypoadrenocorticism in dogs",
+      "base.pethealth.pet_disease_or_medical_condition.risk_factors",
+      "Female"
+    ],
+    [
+      "m.0d522bw",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Pelvic inflammatory disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Restless legs syndrome"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjxs"
+    ],
+    [
+      "Canker sore",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Nebraska Correctional Center for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteoarthritis"
+    ],
+    [
+      "Kiersten Fay",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Alcoholic hepatitis"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04w1jx1",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Sally Menke",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Anterior cruciate ligament injury",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Brooke Brinson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.0blp5sb",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1jfn"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Acne"
+    ],
+    [
+      "Frances Townsend",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Randi Hiller",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Medullary thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "SFX Award for Best Actress",
+      "award.award_category.disciplines_or_subjects",
+      "Female"
+    ],
+    [
+      "Osteoporosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Bayview Correctional Facility"
+    ],
+    [
+      "m.02zd4v3",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Camino Nuevo Correctional Center",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wxl92"
+    ],
+    [
+      "m.0d5218k",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Postpartum thyroiditis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1jx1"
+    ],
+    [
+      "Arthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04j64qg"
+    ],
+    [
+      "m.0j7v__p",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Kim Richards",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Plantar fasciitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Plantar fasciitis"
+    ],
+    [
+      "Gallstone",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Adhesive capsulitis of shoulder"
+    ],
+    [
+      "Coffee Creek Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Second Glance"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Trigeminal neuralgia"
+    ],
+    [
+      "Jackie Burkhart",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218k"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lf"
+    ],
+    [
+      "m.0j0ywwk",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Dermatomyositis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Erythema nodosum",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Carpal tunnel syndrome"
+    ],
+    [
+      "Trigeminal neuralgia",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteochondritis dissecans"
+    ],
+    [
+      "Somatic symptom disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Arthritis"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pr2"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Federal Prison Camp, Alderson"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrtw"
+    ],
+    [
+      "m.05bvk47",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Multiple sclerosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hirsutism"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04j647d"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Polycystic ovary syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Scleroderma",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04w1g24",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__p"
+    ],
+    [
+      "female.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Female"
+    ],
+    [
+      "Osteochondritis dissecans",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Rett syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Erythema nodosum"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cushing's syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hypothyroidism"
+    ],
+    [
+      "Bedford Hills Correctional Facility for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Bartholin's cyst",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02yxhns"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrth"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Irritable bowel syndrome"
+    ],
+    [
+      "Female",
+      "common.topic.article",
+      "m.04tkq_2"
+    ],
+    [
+      "Taconic Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Silhouette"
+    ],
+    [
+      "m.0hzxnsq",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Acne",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Urethral syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteoporosis"
+    ],
+    [
+      "Pyelonephritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Bayview Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Follicular thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Seasonal affective disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Anterior cruciate ligament injury"
+    ],
+    [
+      "Federal Correctional Institution, Danbury",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Urinary tract infection"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Postpartum thyroiditis"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.0h8ldqh"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sb"
+    ],
+    [
+      "Scleritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Alcoholic hepatitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Somatic symptom disorder"
+    ],
+    [
+      "Ureterocele",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Irritable bowel syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_hw"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Taconic Correctional Facility"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Livedo reticularis"
+    ],
+    [
+      "m.052j3w3",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Female",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actress"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Bedford Hills Correctional Facility for Women"
+    ],
+    [
+      "m.052m17c",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "m.05cckl0",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Medullary thyroid cancer"
+    ],
+    [
+      "m.04w1jfn",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Spina bifida",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Trigger finger"
+    ],
+    [
+      "m.05ndsqk",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.05bvkmk",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pain disorder"
+    ],
+    [
+      "m.0kfyrtw",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "m.05c6k96",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scoliosis"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Edna Mahan Correctional Facility for Women"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Somatization disorder"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Alzheimer's disease"
+    ],
+    [
+      "Varicose veins",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Ovarian cancer"
+    ],
+    [
+      "Macular degeneration",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Iron-deficiency anemia"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02zd4v3"
+    ],
+    [
+      "Alzheimer's disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.05z1cdk",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Acrodermatitis chronica atrophicans",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04j647d",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Spina bifida"
+    ],
+    [
+      "m.02yxhp8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.0blp57t",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Edna Mahan Correctional Facility for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Dyshidrosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04wyfrp",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rett syndrome"
+    ],
+    [
+      "Kyle Richards",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Thyroid cancer"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymyalgia rheumatica"
+    ],
+    [
+      "m.0gxvt_c",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Lupus erythematosus"
+    ],
+    [
+      "Cystitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Pyogenic granuloma",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymyositis"
+    ],
+    [
+      "Whitney Davis",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.04wvp27",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Susan Rose-Ackerman",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Polymyositis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pelvic inflammatory disease"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05c6k96"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Chronic fatigue syndrome"
+    ],
+    [
+      "Polymyalgia rheumatica",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05z1cdk"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.052m17c"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polycystic ovary syndrome"
+    ],
+    [
+      "m.0gxvv0y",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Apology",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Female"
+    ],
+    [
+      "Chronic fatigue syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Linda Jean Marlowe",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Somatization disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.article",
+      "m.02zsy"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Myasthenia gravis"
+    ],
+    [
+      "Adhesive capsulitis of shoulder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Hirsutism",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Myasthenia gravis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Emily Sundby",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Kathleen Richards",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.0h8ldqh",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "m.0bm6pr2",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Gallstone"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Seasonal affective disorder"
+    ],
+    [
+      "Conversion disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckl0"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Massachusetts Correctional Institution – Framingham"
+    ],
+    [
+      "m.04wxl92",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Massachusetts Correctional Institution – Framingham",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dyshidrosis"
+    ],
+    [
+      "Lupus erythematosus",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Genevieve Tyrrell",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Apology"
+    ],
+    [
+      "United States women's national gymnastics team",
+      "sports.sports_team.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf1bk"
+    ],
+    [
+      "Federal Prison Camp, Alderson",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Lillian Watson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Ovarian cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Harmony Kendall",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsq"
+    ],
+    [
+      "Female",
+      "common.topic.notable_for",
+      "g.125ft2__h"
+    ],
+    [
+      "Kimberly Jackson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.05bvjxs",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0j0ywwk"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dermatomyositis"
+    ],
+    [
+      "Goitre",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.05ndsqk"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Nephritis"
+    ],
+    [
+      "m.0kfyrth",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scleroderma"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cirrhosis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rhinitis"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bw"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Necrobiosis lipoidica"
+    ],
+    [
+      "Emmy Clarke",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Osteoarthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Ann Marie Sanderlin",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Camino Nuevo Correctional Center"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp57t"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Ureterocele"
+    ],
+    [
+      "Female",
+      "common.topic.image",
+      "female.jpg"
+    ],
+    [
+      "Scoliosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Bertha Merrill Holt",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.052j3w3"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkmk"
+    ],
+    [
+      "Liz Lemon",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Federal Correctional Institution, Danbury"
+    ],
+    [
+      "Second Glance",
+      "visual_art.artwork.art_subject",
+      "Female"
+    ],
+    [
+      "m.0zm9_hw",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Goitre"
+    ],
+    [
+      "m.02_98hp",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.0d521lf",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Acrodermatitis chronica atrophicans"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk47"
+    ],
+    [
+      "m.04j64qg",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Varicose veins"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Lichen planus"
+    ],
+    [
+      "Hypothyroidism",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scleritis"
+    ],
+    [
+      "Silhouette",
+      "visual_art.artwork.art_subject",
+      "Female"
+    ],
+    [
+      "Graves' disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1g24"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Coffee Creek Correctional Facility"
+    ],
+    [
+      "Livedo reticularis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Waymon McCoo",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "The Walt Disney Company",
+      "organization.organization.place_founded",
+      "Los Angeles"
+    ],
+    [
+      "Al Roelofs",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Los Angeles",
+      "location.hud_county_place.place",
+      "Los Angeles"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Frank R. McKelvy",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "Whitney Davis",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ]
+  ]
+}

@@ -1,0 +1,5095 @@
+{
+  "graph_id": 30500,
+  "subgraph": [
+    [
+      "Elton John",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Elton John",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Elton John",
+      "people.person.profession",
+      "Television producer"
+    ],
+    [
+      "Elton John",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Elton John",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "Elton John",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Elton John",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Elton John",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Elton John",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Elton John",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Elton John"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.championships",
+      "1988 World Series"
+    ],
+    [
+      "1988 World Series",
+      "sports.sports_championship_event.champion",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "1988 World Series",
+      "time.event.locations",
+      "Dodger Stadium"
+    ],
+    [
+      "Dodger Stadium",
+      "location.location.events",
+      "1988 World Series"
+    ],
+    [
+      "Zhou Dan",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "Zhou Dan",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Zhou Dan"
+    ],
+    [
+      "Zhou Dan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kalina Ivanov",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jerry West",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Richard Gere",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Sharon Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Kim Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Evelyn Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Joe Torre",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Earvin III Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Larry Bird",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Wil Emling",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Steve James",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Mary Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Elizabeth Taylor",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Enrique Chediak",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Larry Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "owl#inverseOf",
+      "People born here"
+    ],
+    [
+      "Quincy Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Magic Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Lois Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Earvin Johnson Sr.",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Yvonne Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.reverse_property",
+      "People born here"
+    ],
+    [
+      "Michael Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Mary Tyler Moore",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Elisa Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Andre Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Bono",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Pearl Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Ron Digman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Bill Clinton",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Beyoncé Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Christine Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jackie MacMullan",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Bono",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Gender",
+      "type.property.expected_type",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#range",
+      "Gender"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Bill Clinton",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Larry Bird",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Mary Tyler Moore",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Joe Torre",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Steve James",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Mathew Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Beyoncé Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Sharon Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Richard Gere",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Magic Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Wil Emling",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Damon Lee",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Enrique Chediak",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Elizabeth Taylor",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Kalina Ivanov",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09ypp_6"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w5z21"
+    ],
+    [
+      "Pete Hornberger",
+      "fictional_universe.fictional_character.occupation",
+      "Television producer"
+    ],
+    [
+      "m.09x_cmy",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w7f9m"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010680w0"
+    ],
+    [
+      "m.09x039f",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09yn9xc"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w3s7h"
+    ],
+    [
+      "Television producer",
+      "common.topic.notable_for",
+      "g.125cckzh8"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09ww6ym"
+    ],
+    [
+      "m.09yn9xc",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010681fy"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09xh22w"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b2sdn"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fmgdx"
+    ],
+    [
+      "m.0hplm20",
+      "tv.tv_crew_gig.tv_crew_role",
+      "Television producer"
+    ],
+    [
+      "Vanessa Abrams",
+      "fictional_universe.fictional_character.occupation",
+      "Television producer"
+    ],
+    [
+      "m.0b494vl",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Lou Grant"
+    ],
+    [
+      "Television producer",
+      "people.profession.specializations",
+      "Television executive producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w6rc9"
+    ],
+    [
+      "Television producer",
+      "tv.tv_crew_role.tv_episodes",
+      "m.0hp474z"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01026bxc"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09wwlx2"
+    ],
+    [
+      "m.09w6rc9",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09yxsgf"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w62cl"
+    ],
+    [
+      "Television producer",
+      "common.topic.subjects",
+      "Michael Palance"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010680pm"
+    ],
+    [
+      "m.09w72r1",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09ybzw8",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "base.lightweight.profession.specialization_of",
+      "Producers and Directors"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01067_wv"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09xnj_7"
+    ],
+    [
+      "Television producer",
+      "common.topic.subject_of",
+      "Billy Sorrentino"
+    ],
+    [
+      "m.09wglq2",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "people.profession.specializations",
+      "Television commercial producer"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Marshall Pike"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w83gp"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Tom Peterman"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w70n5"
+    ],
+    [
+      "m.09wyvkv",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09xj5py"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09xzmsn"
+    ],
+    [
+      "m.09wwlx2",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09wsrbg",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09w6tg6",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.0b494vl"
+    ],
+    [
+      "m.09w5zgr",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09wblxn"
+    ],
+    [
+      "m.0hp474z",
+      "tv.tv_crew_gig.tv_crew_role",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01067_lg"
+    ],
+    [
+      "m.09w60x1",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Magic Johnson",
+      "people.person.profession",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.subjects",
+      "Billy Sorrentino"
+    ],
+    [
+      "m.09w7f9m",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Lola Gold"
+    ],
+    [
+      "m.0b47t1p",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09w7c7v",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09wfl0_"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Vanessa Abrams"
+    ],
+    [
+      "Television producer",
+      "tv.tv_crew_role.tv_episodes",
+      "m.0hplm20"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09y0b08"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09wglq2"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09x6w69"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Matt Albie"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09ykm7c"
+    ],
+    [
+      "Television producer",
+      "common.topic.subject_of",
+      "Michael Palance"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w72r1"
+    ],
+    [
+      "m.09wfl0_",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09xq8vk",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w7c7v"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b2sfs"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Sarah Morton"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w5svj"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Gil Bender"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.0b47t1p"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Dawson Leery"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w5zgr"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09xq8vk"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09yj381"
+    ],
+    [
+      "m.09y0b08",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09yxsgf",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09xj5py",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09wsrbg"
+    ],
+    [
+      "TV Producer",
+      "freebase.type_profile.equivalent_topic",
+      "Television producer"
+    ],
+    [
+      "m.09xnj_7",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w60x1"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09ybzw8"
+    ],
+    [
+      "m.09xh22w",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.0b48s3c"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Sailor Iron Mouse"
+    ],
+    [
+      "Beyoncé Knowles",
+      "people.person.profession",
+      "Television producer"
+    ],
+    [
+      "m.09w4k2z",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09wyvkv"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Danny Tripp"
+    ],
+    [
+      "m.0b48s3c",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "m.09w5svj",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w6tg6"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w5rwl"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Paulie G."
+    ],
+    [
+      "m.09xzmsn",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Maxwell Sheffield"
+    ],
+    [
+      "Television producer",
+      "freebase.equivalent_topic.equivalent_type",
+      "TV Producer"
+    ],
+    [
+      "m.09yj381",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Steve Shill",
+      "people.person.profession",
+      "Television producer"
+    ],
+    [
+      "m.09w5rwl",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09w5_h5",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.article",
+      "m.03gjzr"
+    ],
+    [
+      "m.09wblxn",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09xt_rm",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "people.profession.specializations",
+      "Television creator"
+    ],
+    [
+      "m.09x6w69",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.0b47389",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09w3s7h",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w5_h5"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09x039f"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w7gtn"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09w4k2z"
+    ],
+    [
+      "m.09ww6ym",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Mary Richards"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Grant"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Pete Hornberger"
+    ],
+    [
+      "m.09ypp_6",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b2sfb"
+    ],
+    [
+      "m.09w70n5",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09w83gp",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09xt_rm"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.0b47389"
+    ],
+    [
+      "Television producer",
+      "common.topic.webpage",
+      "m.09x_cmy"
+    ],
+    [
+      "m.09w7gtn",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Television producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Jane"
+    ],
+    [
+      "m.09ykm7c",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09w62cl",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "m.09w5z21",
+      "common.webpage.topic",
+      "Television producer"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Barrett's esophagus"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.07n73w_"
+    ],
+    [
+      "m.02_98hd",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Geoffrey Karen Dior",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jerry West",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Attention deficit hyperactivity disorder"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Sebaceous cyst"
+    ],
+    [
+      "Earvin III Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ron Digman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Larry Bird",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64q8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney cancer"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0q"
+    ],
+    [
+      "Seth Davis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Syphilis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_69"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pqb"
+    ],
+    [
+      "Richard Gere",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "SFX Award for Best Actor",
+      "award.award_category.disciplines_or_subjects",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrt3"
+    ],
+    [
+      "m.0blp5sr",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Pete Hornberger",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "1979 NCAA Men's Division I Basketball Tournament",
+      "base.marchmadness.ncaa_basketball_tournament.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.image",
+      "male.jpg"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "Kurt Rambis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hypospadias"
+    ],
+    [
+      "m.09td39b",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Frank McCourt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0d521lm",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Steve Shill",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Paget's disease of bone"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Anaplastic thyroid cancer"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp580"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ectodermal dysplasia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Tetralogy of Fallot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stuttering"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Wil Emling",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk3z"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrv7"
+    ],
+    [
+      "m.0gxvv0h",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "John Milton",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.05bvklm",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.0bm6pqb",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Burn",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0blp580",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bn"
+    ],
+    [
+      "Bono",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "Male",
+      "common.topic.notable_for",
+      "g.1255p_jgc"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0j7v__g",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckn4"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urethritis"
+    ],
+    [
+      "Don Mattingly",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvklm"
+    ],
+    [
+      "Mathew Knowles",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0h"
+    ],
+    [
+      "James Dooley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrw1"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Emphysema"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Golfer's elbow"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pectus excavatum"
+    ],
+    [
+      "m.05bvjy3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "Massimo Zanini"
+    ],
+    [
+      "Male",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Shadow Figure"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "m.05bvkm6",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "neilplus's types"
+    ],
+    [
+      "Male",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "m.0kfyrt3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsy"
+    ],
+    [
+      "m.0zm9_69",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "m.04j64q8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.02_1x1x",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Rick Famuyiwa",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__g"
+    ],
+    [
+      "Male",
+      "common.topic.article",
+      "m.05zpq8"
+    ],
+    [
+      "MA$TADON",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bill Clinton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Loughery",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney Stone"
+    ],
+    [
+      "Quincy Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Dupuytren's contracture"
+    ],
+    [
+      "Eugenio Polgovsky",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Actinic keratosis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gastritis"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_98hd"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218t"
+    ],
+    [
+      "m.0gxvv0q",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Lois Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Corneal abrasion"
+    ],
+    [
+      "m.02zd4tr",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urolithiasis"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Male"
+    ],
+    [
+      "m.0kfyrv7",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hirschsprung's disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjy3"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64rh"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Esophageal cancer"
+    ],
+    [
+      "Bisi Alimi",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Amyotrophic lateral sclerosis"
+    ],
+    [
+      "Damon Lee",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Larry Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Males"
+    ],
+    [
+      "m.05bvk3z",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04mmfr8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pyloric stenosis"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkm6"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Benign prostatic hyperplasia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Leprosy"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "Magic Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.07n73w_",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Steve James",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Jamaal Wilkes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Alcohol abuse"
+    ],
+    [
+      "Massimo Zanini",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Phone Trick",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Seamus",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Inguinal hernia"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrvl"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Bladder cancer"
+    ],
+    [
+      "Male",
+      "sports.sports_gender.sports_teams",
+      "Vive Targi Kielce"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sr"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Autism"
+    ],
+    [
+      "Andre Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Earvin Johnson Sr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0gxvt_4",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Michael Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Parkinson's disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Burn"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02zd4tr"
+    ],
+    [
+      "m.0kfyrvl",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.schemastaging.context_name.pronunciation",
+      "m.011sf4j6"
+    ],
+    [
+      "m.04mmfr8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kawasaki disease"
+    ],
+    [
+      "m.04j647l",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_4"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_1x1x"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j647l"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.05cckn4",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Joe Torre",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Male",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actor"
+    ],
+    [
+      "m.0hzxnsy",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "m.04j64rh",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.0kfyrw1",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "m.0d5218t",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Meningococcal disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Liver tumour"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Antisocial personality disorder"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.09td39b"
+    ],
+    [
+      "Male",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Phone Trick"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Athlete's foot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Club foot"
+    ],
+    [
+      "m.0d522bn",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ventricular tachycardia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Enrique Chediak",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Larry Drew",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Acute myeloid leukemia"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Richard Berkowitz"
+    ],
+    [
+      "Jeannette Kagame",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Magic Johnson"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Lieve Fransen"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.parent_issue",
+      "Health advocacy"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Geoffrey Karen Dior"
+    ],
+    [
+      "Bono",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Bono"
+    ],
+    [
+      "Elizabeth Taylor",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Simon Nkoli"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Joel Gustave Nana Ngongang"
+    ],
+    [
+      "Health advocacy",
+      "base.activism.activism_issue.includes_issues",
+      "AIDS activism"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Hu Jia"
+    ],
+    [
+      "Bisi Alimi",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Mariela Castro"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Richard Gere"
+    ],
+    [
+      "Magic Johnson",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Bisi Alimi"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Princess Stéphanie of Monaco"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Elizabeth Mataka"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Jeannette Kagame"
+    ],
+    [
+      "Geoffrey Karen Dior",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "AIDS activism",
+      "base.activism.activism_issue.activists",
+      "Elizabeth Taylor"
+    ],
+    [
+      "Richard Gere",
+      "base.activism.activist.area_of_activism",
+      "AIDS activism"
+    ],
+    [
+      "Sharon Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Steve Shill",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "James Dooley",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Enrique Chediak",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mathew Knowles",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Eugenio Polgovsky",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Elizabeth Taylor",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Earlitha Kelly",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Christine Johnson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Steve James",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Beyoncé Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Richard Gere",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Damon Lee",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kalina Ivanov",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Ron Digman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Loughery",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Earvin Johnson Sr.",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Beyoncé Knowles",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Steve Shill",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Chris Free"
+    ],
+    [
+      "Magic Johnson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jeremy Yablan",
+      "common.topic.subject_of",
+      "Actor"
+    ],
+    [
+      "Jeremy Yablan",
+      "common.topic.subjects",
+      "Actor"
+    ],
+    [
+      "Eugenio Polgovsky",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Sharon Stone",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Elizabeth Taylor",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Damon Lee",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Michael Palance"
+    ],
+    [
+      "Bono",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Jeremy Yablan"
+    ],
+    [
+      "Richard Gere",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Mary Tyler Moore",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Chris Free"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Jeremy Yablan"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Michael Palance"
+    ],
+    [
+      "Magic Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Mary Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Beyoncé Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Joe Torre",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ron Digman",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Bill Clinton",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Larry Bird",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Mathew Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Earvin Johnson Sr.",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Bono",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Elizabeth Taylor",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Earvin III Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Kim Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jerry West",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Michael Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Steve James",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Eugenio Polgovsky",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Lois Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Sharon Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Mary Tyler Moore",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Evelyn Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Yvonne Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Enrique Chediak",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Larry Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Wil Emling",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Elisa Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Pearl Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Quincy Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Christine Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Richard Gere",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Ron Digman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Larry Bird",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Larry Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "David Loughery",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Pearl Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Elizabeth Taylor",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Wil Emling",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Michael Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Sharon Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Christine Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Lois Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Earvin Johnson Sr.",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Seth Davis",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Bill Clinton",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Richard Gere",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Bono",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Steve Shill",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Kim Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Mary Tyler Moore",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Evelyn Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Mathew Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Jackie MacMullan",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Beyoncé Knowles",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jerry West",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Quincy Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Joe Torre",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Magic Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Elisa Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Yvonne Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Mary Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b13c2"
+    ],
+    [
+      "Film Producer",
+      "award.award_discipline.awards_in_this_discipline",
+      "Irving G. Thalberg Memorial Award"
+    ],
+    [
+      "Film Producer",
+      "award.award_discipline.awards_in_this_discipline",
+      "David di Donatello for Best Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subjects",
+      "MA$TADON"
+    ],
+    [
+      "Film Producer",
+      "music.music_video_job.music_videos_with_this_crew_job",
+      "m.011dhk15"
+    ],
+    [
+      "Arnold Schwarzenegger",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Beyoncé Knowles",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.09dw8m_"
+    ],
+    [
+      "m.0h70f_l",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0w2wj6w"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106b7nl"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Lew M. Parry"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5h42"
+    ],
+    [
+      "Film Producer",
+      "freebase.equivalent_topic.equivalent_type",
+      "Film producer"
+    ],
+    [
+      "Mathew Knowles",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "m.0w2wj7h",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Eugenio Polgovsky"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010hvhrh"
+    ],
+    [
+      "Film Producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Julian Baker"
+    ],
+    [
+      "m.09xzypw",
+      "common.webpage.topic",
+      "Film Producer"
+    ],
+    [
+      "m.011dhk15",
+      "music.music_video_gig.music_video_crew_production_role",
+      "Film Producer"
+    ],
+    [
+      "m.011qs7sy",
+      "music.music_video_gig.music_video_crew_production_role",
+      "Film Producer"
+    ],
+    [
+      "m.09x288v",
+      "common.webpage.topic",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106b5xy"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0h71680"
+    ],
+    [
+      "Irving G. Thalberg Memorial Award",
+      "award.award_category.disciplines_or_subjects",
+      "Film Producer"
+    ],
+    [
+      "m.09y39g7",
+      "common.webpage.topic",
+      "Film Producer"
+    ],
+    [
+      "m.0t_j_45",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b147r"
+    ],
+    [
+      "m.0b6qh3q",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Elizabeth Taylor",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.webpage",
+      "m.09xzypw"
+    ],
+    [
+      "Eugenio Polgovsky",
+      "common.topic.subjects",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.webpage",
+      "m.0b47qdp"
+    ],
+    [
+      "m.09dw8m_",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "m.0qz7y00",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Mervin Praison"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0b6qh3q"
+    ],
+    [
+      "Film Producer",
+      "music.music_video_job.music_videos_with_this_crew_job",
+      "m.011qs7sy"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106b60f"
+    ],
+    [
+      "Film Producer",
+      "people.profession.specializations",
+      "Digital Intermediate Producer"
+    ],
+    [
+      "Film Producer",
+      "people.profession.corresponding_type",
+      "Film producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0h70f_l"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0r99nzn"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subjects",
+      "Chris Free"
+    ],
+    [
+      "Film Producer",
+      "common.topic.webpage",
+      "m.0b492_7"
+    ],
+    [
+      "Sharon Stone",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106bqm7"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0b7m5yl"
+    ],
+    [
+      "Film Producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Jack Woltz"
+    ],
+    [
+      "Film Producer",
+      "common.topic.image",
+      "head shot of a well-dressed man wearing glasses"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0t_j_45"
+    ],
+    [
+      "Damon Lee",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Mary Tyler Moore",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Billy Sorrentino"
+    ],
+    [
+      "Bono",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Enrique Chediak",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "m.0pdk3r2",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film producer",
+      "freebase.type_profile.equivalent_topic",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0b6xy21"
+    ],
+    [
+      "Film Producer",
+      "people.profession.specializations",
+      "porn producer"
+    ],
+    [
+      "m.0r99nzn",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.webpage",
+      "m.09x288v"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Michael Palance"
+    ],
+    [
+      "m.0b7m5yl",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0108h84r"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subjects",
+      "Billy Sorrentino"
+    ],
+    [
+      "Steve James",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_mggwp"
+    ],
+    [
+      "m.0b492_7",
+      "common.webpage.topic",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "base.lightweight.profession.specialization_of",
+      "Producers and Directors"
+    ],
+    [
+      "Film Producer",
+      "common.topic.article",
+      "m.01d_hk"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0108h7_0"
+    ],
+    [
+      "m.0w2wj6w",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.webpage",
+      "m.09y39g7"
+    ],
+    [
+      "MA$TADON",
+      "common.topic.subject_of",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b148v"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106bql1"
+    ],
+    [
+      "m.09x40sb",
+      "common.webpage.topic",
+      "Film Producer"
+    ],
+    [
+      "m.0b47qdp",
+      "common.webpage.topic",
+      "Film Producer"
+    ],
+    [
+      "m.011sdz17",
+      "music.music_video_gig.music_video_crew_production_role",
+      "Film Producer"
+    ],
+    [
+      "Richard Gere",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "John Milton"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subjects",
+      "Michael Palance"
+    ],
+    [
+      "Magic Johnson",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "music.music_video_job.music_videos_with_this_crew_job",
+      "m.011sdz17"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106bs0c"
+    ],
+    [
+      "m.0h71680",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Sydney Film School"
+    ],
+    [
+      "Film Producer",
+      "common.topic.notable_for",
+      "g.125969_2p"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106b652"
+    ],
+    [
+      "Film Producer",
+      "common.topic.webpage",
+      "m.09x40sb"
+    ],
+    [
+      "Film Producer",
+      "award.award_discipline.awards_in_this_discipline",
+      "Producer of the Year - JRL Gay Adult Film Awards"
+    ],
+    [
+      "m.0b6xy21",
+      "film.film_crew_gig.film_crew_role",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Fabio Mayor"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0qz7y00"
+    ],
+    [
+      "John Milton",
+      "fictional_universe.fictional_character.occupation",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0pdk3r2"
+    ],
+    [
+      "Film Producer",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106bs1m"
+    ],
+    [
+      "David Loughery",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "film.film_job.films_with_this_crew_job",
+      "m.0w2wj7h"
+    ],
+    [
+      "Film Producer",
+      "award.award_discipline.awards_in_this_discipline",
+      "Polish Academy Award for Best Producer"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6b56"
+    ],
+    [
+      "m.04w1xrv",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dtw"
+    ],
+    [
+      "m.04vwttp",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vws59"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1vl7"
+    ],
+    [
+      "m.05n6c_3",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.championships",
+      "1981 World Series"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.historical_managers",
+      "m.0j306_d"
+    ],
+    [
+      "eBaseball",
+      "base.sportbase.sport.played_by_clubs",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Frank McCourt",
+      "base.sportbase.club_owner.owns",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04w1sdj",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "A player on the Los Angeles Dodgers (white uniforms) hit a sacrifice bunt to move the baserunner to third base",
+      "common.image.appears_in_topic_gallery",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6d9x"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy27w"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.location",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bxg"
+    ],
+    [
+      "m.05n6fpn",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "award.award_nominee.award_nominations",
+      "m.0_sz69d"
+    ],
+    [
+      "m.05n69m1",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04xh8y6",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6bqh",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6c_3"
+    ],
+    [
+      "m.04vy0pz",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.webpage",
+      "m.0422bvz"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vw_mt"
+    ],
+    [
+      "m.04vwwng",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0527cwy",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6c6z"
+    ],
+    [
+      "m.0_yrtk8",
+      "award.award_honor.award_winner",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "business.employer.employees",
+      "m.0129kbhh"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.player_role",
+      "m.04_nth6"
+    ],
+    [
+      "m.05n6btn",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vwydv",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0129kbhh",
+      "business.employment_tenure.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy1wn"
+    ],
+    [
+      "m.05n6b1h",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69_9"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1wf_"
+    ],
+    [
+      "National League West",
+      "baseball.baseball_division.teams",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6c1h"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fxf"
+    ],
+    [
+      "m.0527cxc",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Dodgers.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.webpage",
+      "m.02k_9t0"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "award.award_winner.awards_won",
+      "m.0_yrtk8"
+    ],
+    [
+      "m.0b47v88",
+      "common.webpage.topic",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6c9l"
+    ],
+    [
+      "m.05n6f7w",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.064v33f",
+      "base.popstra.support.supported_organization",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Brooklyn Dodgers",
+      "sports.defunct_sports_team.later_known_as",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "True Blue: The Dramatic History of the Los Angeles Dodgers, Told by the Men Who Lived It",
+      "book.written_work.subjects",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.09wsrzm",
+      "common.webpage.topic",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6d19"
+    ],
+    [
+      "Stengel",
+      "common.image.appears_in_topic_gallery",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04xh8y6"
+    ],
+    [
+      "m.04vwvfk",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1swx"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.owner_s",
+      "Frank McCourt"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cvt"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vx0fh"
+    ],
+    [
+      "m.04vwvsf",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0w_l_7q",
+      "business.company_name_change.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6bd6",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.064hjzd",
+      "base.popstra.support.supported_organization",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fgf"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.image",
+      "A player on the Los Angeles Dodgers (white uniforms) hit a sacrifice bunt to move the baserunner to third base"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.championships",
+      "1965 World Series"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.popstra.organization.supporter",
+      "m.064hjzd"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.venue",
+      "m.0wz1z2y"
+    ],
+    [
+      "m.05n6b56",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6crg"
+    ],
+    [
+      "m.04w1swx",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.02k_9t0",
+      "common.webpage.topic",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6cd6"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bn2"
+    ],
+    [
+      "m.04vx18d",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1s4s"
+    ],
+    [
+      "m.05n6d19",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05sr8jv",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6c4k"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy4x_"
+    ],
+    [
+      "m.0527cx4",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwyy2"
+    ],
+    [
+      "m.05n6ckx",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6dm9",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cxc"
+    ],
+    [
+      "m.05n6bb0",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6bkp",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.league",
+      "m.0crt49t"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dqc"
+    ],
+    [
+      "m.04vwv0w",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n69zf",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vww4g"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.player_role",
+      "m.04_ntgc"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1sgx"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.colors",
+      "Dodger blue"
+    ],
+    [
+      "m.05n6dtw",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "1963 World Series",
+      "sports.sports_championship_event.champion",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.05sr8jv"
+    ],
+    [
+      "m.05n6c6z",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6dj0",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n69sz",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1sdj"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6btn"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwvfk"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6ckx"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy41_"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.schemastaging.organization_extra.contact_webpages",
+      "m.010g95rz"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vx0zr"
+    ],
+    [
+      "m.05n6fxf",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n69mh",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0125v5z_",
+      "business.employment_tenure.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vw_mt",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.previous_names",
+      "m.0w_l_5c"
+    ],
+    [
+      "m.05n6crg",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0crt7d6",
+      "sports.sports_league_participation.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_manager",
+      "Don Mattingly"
+    ],
+    [
+      "m.05n6ftl",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.previously_known_as",
+      "Brooklyn Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6cmz"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vww_3"
+    ],
+    [
+      "m.05n6bn2",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.popstra.organization.supporter",
+      "m.064v33f"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cx4"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.arena_stadium",
+      "Dodger Stadium"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1x6c"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cwq"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "freebase.valuenotation.has_value",
+      "Founders"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69r6"
+    ],
+    [
+      "m.09w4b9m",
+      "common.webpage.topic",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Frank McCourt",
+      "sports.sports_team_owner.teams_owned",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.historical_managers",
+      "m.0j81dp6"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.owner_s",
+      "Magic Johnson"
+    ],
+    [
+      "Joe Torre",
+      "base.sportbase.sport_club_coach.coaches",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0wz1z2y",
+      "sports.team_venue_relationship.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwzlr"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.webpage",
+      "m.09wsrzm"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwzmw"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.player_role",
+      "m.04_ntgn"
+    ],
+    [
+      "m.0crtd77",
+      "sports.sports_league_participation.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6fll",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0527cw1",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dyc"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.club_owner",
+      "Frank McCourt"
+    ],
+    [
+      "m.04vwxw7",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0527cwq",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cwh"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bd6"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwwng"
+    ],
+    [
+      "m.05n6f0n",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bb0"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwv0w"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69px"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1xrv"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.webpage",
+      "m.09w4b9m"
+    ],
+    [
+      "m.04vww_3",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.leadership",
+      "m.0_yv0g3"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "award.award_winner.awards_won",
+      "m.0105m6fh"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6d3y"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf9n9"
+    ],
+    [
+      "m.05n6dyc",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.previous_names",
+      "m.0w_l_bs"
+    ],
+    [
+      "Dodgers–Giants rivalry",
+      "base.rivalries.rivalry.rival",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0sgq5v3",
+      "award.award_nomination.award_nominee",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0wzlvbc",
+      "film.personal_film_appearance.person",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6cwv",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "business.employer.employees",
+      "m.012n79xb"
+    ],
+    [
+      "m.0_sz69d",
+      "award.award_nomination.award_nominee",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6cgm",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bzw"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "award.award_nominee.award_nominations",
+      "m.0sgq5v3"
+    ],
+    [
+      "Los Angeles",
+      "sports.sports_team_location.teams",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.rivalries.rival.rivals",
+      "Dodgers–Yankees rivalry"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fc4"
+    ],
+    [
+      "m.05n69vy",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "business.employer.employees",
+      "m.0125v5z_"
+    ],
+    [
+      "m.05n6cd6",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04w1x3_",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6b7d",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0crt49t",
+      "sports.sports_league_participation.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.previous_names",
+      "m.0w_l_67"
+    ],
+    [
+      "m.04vwyy2",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.previous_names",
+      "m.0w_l_9h"
+    ],
+    [
+      "m.04vws59",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6cwv"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1tvb"
+    ],
+    [
+      "m.05n6f4c",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6f7w"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.notable_for",
+      "g.12554fyy9"
+    ],
+    [
+      "m.05n6d7h",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04w1wdm",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0wzlvbc"
+    ],
+    [
+      "m.05n6bgv",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "1981 World Series",
+      "sports.sports_championship_event.champion",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vww4g",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vx0fh",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6b7d"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwydv"
+    ],
+    [
+      "m.0w_l_5c",
+      "business.company_name_change.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.historical_managers",
+      "m.0j81gk9"
+    ],
+    [
+      "m.04vwzmw",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6ddz",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0j306_d",
+      "baseball.baseball_historical_managerial_position.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.location",
+      "Los Angeles"
+    ],
+    [
+      "m.05n6c1h",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vy41_",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.012n79xb",
+      "business.employment_tenure.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy4fw"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6ddz"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vx18d"
+    ],
+    [
+      "m.05n6d9x",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy31g"
+    ],
+    [
+      "m.07nf9n9",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.image",
+      "Dodgers.jpg"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.league",
+      "National League"
+    ],
+    [
+      "1959 World Series",
+      "sports.sports_championship_event.champion",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.club_coach",
+      "Joe Torre"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.sport",
+      "Baseball"
+    ],
+    [
+      "m.05n6fgf",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0105m6fh",
+      "award.award_honor.award_winner",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0j81gk9",
+      "baseball.baseball_historical_managerial_position.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.player_role",
+      "m.04_ntgy"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bqh"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69sz"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fpn"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.sportbase.sport_sport_club.involves_in",
+      "eBaseball"
+    ],
+    [
+      "m.05n6bxg",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Dodgers–Yankees rivalry",
+      "base.rivalries.rivalry.rival",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04w1sgx",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vy1wn",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6c4k",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.championships",
+      "1959 World Series"
+    ],
+    [
+      "m.04vy31g",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6f0n"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy2qt"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.previous_names",
+      "m.0w_l_7q"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dj0"
+    ],
+    [
+      "m.0_yv0g3",
+      "organization.leadership.organization",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n69px",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vwzlr",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.webpage",
+      "m.0b47v88"
+    ],
+    [
+      "m.0w_l_bs",
+      "business.company_name_change.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.league",
+      "m.0crt7d6"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6cgm"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69mh"
+    ],
+    [
+      "Magic Johnson",
+      "sports.sports_team_owner.teams_owned",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69m1"
+    ],
+    [
+      "m.0w_l_9h",
+      "business.company_name_change.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1x3_"
+    ],
+    [
+      "m.04vx00f",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwx8s"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6ftl"
+    ],
+    [
+      "m.0422bvz",
+      "common.webpage.topic",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Dodger Stadium",
+      "sports.sports_facility.teams",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6ctw"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "freebase.valuenotation.is_reviewed",
+      "Headquarters"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.previous_names",
+      "m.0w_l_3_"
+    ],
+    [
+      "m.05n6d3y",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cw1"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.rivalries.rival.rivals",
+      "Dodgers–Giants rivalry"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy2rp"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6f4c"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bgv"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fll"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69vy"
+    ],
+    [
+      "m.0527cvt",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6fc4",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0j81dp6",
+      "baseball.baseball_historical_managerial_position.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04w1w11",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vy2qt",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6bkp"
+    ],
+    [
+      "m.04w1vl7",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0527cwh",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dm9"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "book.book_subject.works",
+      "True Blue: The Dramatic History of the Los Angeles Dodgers, Told by the Men Who Lived It"
+    ],
+    [
+      "m.05n6cmz",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04w1tvb",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwttp"
+    ],
+    [
+      "m.05n69r6",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6d7h"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.article",
+      "m.04mjx"
+    ],
+    [
+      "m.04vy27w",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n69zf"
+    ],
+    [
+      "National League",
+      "baseball.baseball_league.teams",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy0pz"
+    ],
+    [
+      "m.05n6bzw",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.division",
+      "National League West"
+    ],
+    [
+      "m.09twb0z",
+      "base.popstra.fashion_choice.designer",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.headquarters",
+      "m.0_yt_dv"
+    ],
+    [
+      "m.05n6ctw",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0527cw8",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vy4fw",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0w_l_67",
+      "business.company_name_change.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "organization.organization.previous_names",
+      "m.0w_l_4p"
+    ],
+    [
+      "Don Mattingly",
+      "baseball.baseball_manager.current_team_managed",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n6dqc",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vx00f"
+    ],
+    [
+      "m.04vy2rp",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.league",
+      "m.0crtd77"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.sports_team.championships",
+      "1963 World Series"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cw8"
+    ],
+    [
+      "m.04vy4x_",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04vx0zr",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0w_l_4p",
+      "business.company_name_change.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "common.topic.image",
+      "Stengel"
+    ],
+    [
+      "1965 World Series",
+      "sports.sports_championship_event.champion",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.popstra.company.fashion_choice",
+      "m.09twb0z"
+    ],
+    [
+      "m.04w1s4s",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.04w1wf_",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwvsf"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.current_coaches",
+      "m.0527cwy"
+    ],
+    [
+      "m.05n6c9l",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "base.schemastaging.organization_extra.phone_number",
+      "m.010g95ld"
+    ],
+    [
+      "m.04vwx8s",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.05n69_9",
+      "baseball.baseball_team_stats.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "baseball.baseball_team.team_stats",
+      "m.05n6b1h"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1wdm"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vwxw7"
+    ],
+    [
+      "Los Angeles Dodgers",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1w11"
+    ],
+    [
+      "m.04w1x6c",
+      "sports.sports_league_draft_pick.team",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0w_l_3_",
+      "business.company_name_change.company",
+      "Los Angeles Dodgers"
+    ],
+    [
+      "m.0wz1z2y",
+      "sports.team_venue_relationship.venue",
+      "Dodger Stadium"
+    ],
+    [
+      "1981 World Series",
+      "time.event.locations",
+      "Dodger Stadium"
+    ],
+    [
+      "Dodger Stadium",
+      "location.location.containedby",
+      "Los Angeles"
+    ],
+    [
+      "Dodger Stadium",
+      "travel.tourist_attraction.near_travel_destination",
+      "Los Angeles"
+    ],
+    [
+      "Dodger Stadium",
+      "location.location.events",
+      "1963 World Series"
+    ],
+    [
+      "Los Angeles",
+      "travel.travel_destination.tourist_attractions",
+      "Dodger Stadium"
+    ],
+    [
+      "Dodger Stadium",
+      "sports.sports_facility.home_venue_for",
+      "m.0wz1z2y"
+    ],
+    [
+      "Dodger Stadium",
+      "location.location.events",
+      "1981 World Series"
+    ],
+    [
+      "Dodger Stadium",
+      "location.location.events",
+      "1965 World Series"
+    ],
+    [
+      "1963 World Series",
+      "time.event.locations",
+      "Dodger Stadium"
+    ],
+    [
+      "1965 World Series",
+      "time.event.locations",
+      "Dodger Stadium"
+    ],
+    [
+      "Film producer",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Christine Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Lois Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Larry Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Jeannette Kagame",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Person",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Mary Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Basketball Player",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Athlete",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Film producer",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Quincy Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Michael Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Andre Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Basketball Player",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Wil Emling",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Elisa Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Pearl Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Yvonne Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Bisi Alimi",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Athlete",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Earvin III Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Earvin Johnson Sr.",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Amelia Baggs",
+      "common.topic.notable_types",
+      "Person"
+    ],
+    [
+      "Person",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Kim Johnson",
+      "common.topic.notable_types",
+      "Person"
+    ]
+  ]
+}

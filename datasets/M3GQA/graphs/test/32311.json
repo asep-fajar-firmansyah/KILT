@@ -1,0 +1,4780 @@
+{
+  "graph_id": 32311,
+  "subgraph": [
+    [
+      "Protestantism",
+      "religion.religion.deities",
+      "Holy Spirit"
+    ],
+    [
+      "Holy Spirit",
+      "religion.deity.deity_of",
+      "Protestantism"
+    ],
+    [
+      "Christianity",
+      "religion.religion.deities",
+      "Holy Spirit"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.deities",
+      "Holy Spirit"
+    ],
+    [
+      "Holy Spirit",
+      "religion.deity.deity_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.deities",
+      "Holy Spirit"
+    ],
+    [
+      "Holy Spirit",
+      "religion.deity.deity_of",
+      "Christianity"
+    ],
+    [
+      "Holy Spirit",
+      "religion.deity.deity_of",
+      "Anglicanism"
+    ],
+    [
+      "Roman Catholic Diocese of Las Cruces",
+      "religion.religious_organization.is_member_of",
+      "Roman Catholic Church"
+    ],
+    [
+      "Roman Catholic Church",
+      "organization.organization.founders",
+      "Jesus Christ"
+    ],
+    [
+      "Chavagnes International College",
+      "religion.religious_organization.is_member_of",
+      "Roman Catholic Church"
+    ],
+    [
+      "Roman Catholic Church",
+      "religion.religious_organization.member_organizations",
+      "Roman Catholic Diocese of Las Cruces"
+    ],
+    [
+      "Roman Catholic Archdiocese of San Francisco",
+      "religion.religious_organization.is_member_of",
+      "Roman Catholic Church"
+    ],
+    [
+      "Jesus Christ",
+      "organization.organization_founder.organizations_founded",
+      "Roman Catholic Church"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Roman Catholic Church"
+    ],
+    [
+      "Roman Catholic Church",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Roman Catholic Church",
+      "religion.religious_organization.member_organizations",
+      "Chavagnes International College"
+    ],
+    [
+      "Roman Catholic Diocese of Las Cruces",
+      "religion.religious_leadership_jurisdiction.organisation",
+      "Roman Catholic Church"
+    ],
+    [
+      "Roman Catholic Archdiocese of San Francisco",
+      "religion.religious_leadership_jurisdiction.organisation",
+      "Roman Catholic Church"
+    ],
+    [
+      "Roman Catholic Church",
+      "religion.religious_organization.member_organizations",
+      "Roman Catholic Archdiocese of San Francisco"
+    ],
+    [
+      "Paul the Apostle",
+      "influence.influence_node.influenced_by",
+      "Jesus Christ"
+    ],
+    [
+      "Jesus Christ",
+      "religion.deity.deity_of",
+      "Anglicanism"
+    ],
+    [
+      "Jesus Christ",
+      "religion.deity.deity_of",
+      "Catholicism"
+    ],
+    [
+      "Jesus Christ",
+      "people.person.parents",
+      "Mary"
+    ],
+    [
+      "Jesus Christ",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jesus Christ",
+      "influence.influence_node.influenced",
+      "Paul the Apostle"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.deities",
+      "Jesus Christ"
+    ],
+    [
+      "Christianity",
+      "religion.religion.deities",
+      "Jesus Christ"
+    ],
+    [
+      "Christianity",
+      "religion.religion.founding_figures",
+      "Jesus Christ"
+    ],
+    [
+      "Mary",
+      "people.person.children",
+      "Jesus Christ"
+    ],
+    [
+      "Christianity",
+      "symbols.namesake.named_after",
+      "Jesus Christ"
+    ],
+    [
+      "Jesus Christ",
+      "religion.deity.deity_of",
+      "Christianity"
+    ],
+    [
+      "Jesus Christ",
+      "religion.deity.deity_of",
+      "Protestantism"
+    ],
+    [
+      "Jesus Christ",
+      "religion.founding_figure.religion_founded",
+      "Christianity"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.deities",
+      "Jesus Christ"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.deities",
+      "Jesus Christ"
+    ],
+    [
+      "Jesus Christ",
+      "people.person.religion",
+      "Judaism"
+    ],
+    [
+      "Corpus Christi",
+      "symbols.namesake.named_after",
+      "Jesus Christ"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.texts",
+      "Book of Nehemiah"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.branched_into",
+      "Anglicanism"
+    ],
+    [
+      "Edward VI of England",
+      "people.person.religion",
+      "Protestantism"
+    ],
+    [
+      "New Testament",
+      "religion.religious_text.religious_text_of",
+      "Protestantism"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.practices",
+      "Eucharist"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.texts",
+      "New Testament"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.is_part_of",
+      "Christianity"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.branched_from",
+      "Protestantism"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.includes",
+      "Methodism"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.texts",
+      "The Bible"
+    ],
+    [
+      "Mary",
+      "base.saints.saint.venerated_in",
+      "Protestantism"
+    ],
+    [
+      "James VI and I",
+      "people.person.religion",
+      "Protestantism"
+    ],
+    [
+      "God",
+      "religion.deity.deity_of",
+      "Protestantism"
+    ],
+    [
+      "Baptism",
+      "religion.religious_practice.practice_of",
+      "Protestantism"
+    ],
+    [
+      "The Bible",
+      "religion.religious_text.religious_text_of",
+      "Protestantism"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.texts",
+      "Old Testament"
+    ],
+    [
+      "Methodism",
+      "religion.religion.is_part_of",
+      "Protestantism"
+    ],
+    [
+      "Charles I of England",
+      "people.person.religion",
+      "Protestantism"
+    ],
+    [
+      "Old Testament",
+      "religion.religious_text.religious_text_of",
+      "Protestantism"
+    ],
+    [
+      "Protestantism",
+      "common.topic.notable_types",
+      "Religion"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.deities",
+      "God"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.holidays",
+      "Feast of Christ the King"
+    ],
+    [
+      "Book of Nehemiah",
+      "religion.religious_text.religious_text_of",
+      "Protestantism"
+    ],
+    [
+      "Christianity",
+      "religion.religion.includes",
+      "Protestantism"
+    ],
+    [
+      "Feast of Christ the King",
+      "time.holiday.featured_in_religions",
+      "Protestantism"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.founding_figures",
+      "Thomas Cranmer"
+    ],
+    [
+      "Protestantism",
+      "religion.religion.practices",
+      "Baptism"
+    ],
+    [
+      "Christianity",
+      "religion.religion.practices",
+      "Eucharist"
+    ],
+    [
+      "Christianity",
+      "religion.religion.branched_from",
+      "Judaism"
+    ],
+    [
+      "Chrismation",
+      "religion.religious_practice.practice_of",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "Maundy Thursday"
+    ],
+    [
+      "Christianity",
+      "religion.religion.types_of_places_of_worship",
+      "Church"
+    ],
+    [
+      "The Quest for God: A Personal Pilgrimage",
+      "book.written_work.subjects",
+      "Christianity"
+    ],
+    [
+      "L'Osservatore Romano",
+      "book.periodical.subjects",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.beliefs",
+      "Entering Heaven alive"
+    ],
+    [
+      "Christianity",
+      "religion.religion.includes",
+      "Catholicism"
+    ],
+    [
+      "Judaism",
+      "religion.religion.branched_into",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Assassini"
+    ],
+    [
+      "Paul the Apostle",
+      "people.person.religion",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.texts",
+      "Old Testament"
+    ],
+    [
+      "Christianity",
+      "book.periodical_subject.periodicals",
+      "L'Osservatore Romano"
+    ],
+    [
+      "Christianity",
+      "religion.religion.includes",
+      "Anglicanism"
+    ],
+    [
+      "Christianity",
+      "book.periodical_subject.periodicals",
+      "Godspy"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "St Crispin's Day"
+    ],
+    [
+      "Christianity",
+      "religion.religion.practices",
+      "Baptism"
+    ],
+    [
+      "Entering Heaven alive",
+      "religion.belief.belief_of",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "book.periodical_subject.periodicals",
+      "The Living Church"
+    ],
+    [
+      "Christianity",
+      "religion.religion.founding_figures",
+      "Saint Peter"
+    ],
+    [
+      "New Testament",
+      "religion.religious_text.religious_text_of",
+      "Christianity"
+    ],
+    [
+      "God",
+      "religion.deity.deity_of",
+      "Christianity"
+    ],
+    [
+      "Saint Peter",
+      "people.person.religion",
+      "Christianity"
+    ],
+    [
+      "The Bible",
+      "religion.religious_text.religious_text_of",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.texts",
+      "The Bible"
+    ],
+    [
+      "Maundy Thursday",
+      "time.holiday.featured_in_religions",
+      "Christianity"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.is_part_of",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "common.topic.notable_types",
+      "Religion"
+    ],
+    [
+      "Saint Peter",
+      "religion.founding_figure.religion_founded",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "St. Andrew's Day"
+    ],
+    [
+      "Paul the Apostle",
+      "base.saints.saint.venerated_in",
+      "Christianity"
+    ],
+    [
+      "Baptism",
+      "religion.religious_practice.practice_of",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "Palm Sunday"
+    ],
+    [
+      "Palm Sunday",
+      "time.holiday.featured_in_religions",
+      "Christianity"
+    ],
+    [
+      "His Dark Materials",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Christianity"
+    ],
+    [
+      "St. Spiridon Day",
+      "time.holiday.featured_in_religions",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.practices",
+      "Chrismation"
+    ],
+    [
+      "Christianity",
+      "religion.religion.deities",
+      "God"
+    ],
+    [
+      "Pilgrimage church",
+      "religion.type_of_place_of_worship.religion",
+      "Christianity"
+    ],
+    [
+      "St Crispin's Day",
+      "time.holiday.featured_in_religions",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.texts",
+      "New Testament"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "St. Spiridon Day"
+    ],
+    [
+      "Christianity",
+      "religion.religion.founding_figures",
+      "Paul the Apostle"
+    ],
+    [
+      "Christianity",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "His Dark Materials"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.is_part_of",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "Saint Patrick's Day"
+    ],
+    [
+      "Paul the Apostle",
+      "religion.founding_figure.religion_founded",
+      "Christianity"
+    ],
+    [
+      "God Spede the Plough",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Christianity"
+    ],
+    [
+      "Godspy",
+      "book.periodical.subjects",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "God Spede the Plough"
+    ],
+    [
+      "Christianity",
+      "religion.religion.texts",
+      "Book of Common Prayer"
+    ],
+    [
+      "Feast of Assumption",
+      "time.holiday.featured_in_religions",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.types_of_places_of_worship",
+      "Pilgrimage church"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "Feast of the Transfiguration"
+    ],
+    [
+      "Saint Patrick's Day",
+      "time.holiday.featured_in_religions",
+      "Christianity"
+    ],
+    [
+      "Christianity",
+      "religion.religion.texts",
+      "The Books of Homilies"
+    ],
+    [
+      "Christianity",
+      "religion.religion.holidays",
+      "Feast of Assumption"
+    ],
+    [
+      "The Assassini",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Christianity"
+    ],
+    [
+      "Old Testament",
+      "religion.religious_text.religious_text_of",
+      "Christianity"
+    ],
+    [
+      "Church",
+      "religion.type_of_place_of_worship.religion",
+      "Christianity"
+    ],
+    [
+      "Methodism",
+      "religion.religion.branched_from",
+      "Anglicanism"
+    ],
+    [
+      "The Bible",
+      "religion.religious_text.religious_text_of",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Church of Uganda"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.texts",
+      "New Testament"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "St Joseph's Day"
+    ],
+    [
+      "m.098ly_4",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Anglicanism"
+    ],
+    [
+      "Anne, Queen of Great Britain",
+      "people.person.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "Journal of Anglican Studies"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Province of the Episcopal Church of South Sudan and Sudan"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Baptism"
+    ],
+    [
+      "All Saints' Church, Putney Common",
+      "religion.place_of_worship.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Anointing of the Sick"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.branched_into",
+      "Methodism"
+    ],
+    [
+      "Marriage",
+      "religion.religious_practice.practice_of",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.places_of_worship_historical",
+      "St Mary's Church, Reculver"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.texts",
+      "The Books of Homilies"
+    ],
+    [
+      "God",
+      "religion.deity.deity_of",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "Feast of Assumption"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.notable_figures",
+      "Richard Hooker"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.beliefs",
+      "Entering Heaven alive"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Church of the Province of Central Africa"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.texts",
+      "Old Testament"
+    ],
+    [
+      "Anglicanism",
+      "common.topic.notable_types",
+      "Religion"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Church of Nigeria"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Anglican Church of Southern Africa"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.notable_figures",
+      "Lancelot Andrewes"
+    ],
+    [
+      "Entering Heaven alive",
+      "religion.belief.belief_of",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Anglican Church of Canada"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Marriage"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Anglican Church of Kenya"
+    ],
+    [
+      "Church Times",
+      "book.periodical.subjects",
+      "Anglicanism"
+    ],
+    [
+      "New Testament",
+      "religion.religious_text.religious_text_of",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Infant communion"
+    ],
+    [
+      "Charles I of England",
+      "people.person.religion",
+      "Anglicanism"
+    ],
+    [
+      "Feast of Assumption",
+      "time.holiday.featured_in_religions",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "common.topic.webpage",
+      "m.0b6rtj0"
+    ],
+    [
+      "Anglicanism",
+      "common.topic.image",
+      "Canterbury cathedral"
+    ],
+    [
+      "m.064txjw",
+      "base.popstra.religion_choice.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "Church Times"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "Feast of the Transfiguration"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "Feast of Christ the King"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "All Saints' Day"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.deities",
+      "God"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "Anglican Planet"
+    ],
+    [
+      "m.0b6rtj0",
+      "common.webpage.topic",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "base.popstra.religion.membership",
+      "m.064txjw"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "Nativity of Mary"
+    ],
+    [
+      "m.046x325",
+      "religion.place_of_worship_historical_use.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "common.topic.notable_for",
+      "g.125dtq9f_"
+    ],
+    [
+      "Old Testament",
+      "religion.religious_text.religious_text_of",
+      "Anglicanism"
+    ],
+    [
+      "St Mary's Church, Reculver",
+      "religion.place_of_worship_historical_use.religion",
+      "Anglicanism"
+    ],
+    [
+      "All Saints' Day",
+      "time.holiday.featured_in_religions",
+      "Anglicanism"
+    ],
+    [
+      "Nativity of Mary",
+      "time.holiday.featured_in_religions",
+      "Anglicanism"
+    ],
+    [
+      "Anointing of the Sick",
+      "religion.religious_practice.practice_of",
+      "Anglicanism"
+    ],
+    [
+      "Feast of Christ the King",
+      "time.holiday.featured_in_religions",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "St. Andrew's Day"
+    ],
+    [
+      "Anglicanism",
+      "common.topic.webpage",
+      "m.09yv9ty"
+    ],
+    [
+      "Baptism",
+      "religion.religious_practice.practice_of",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "common.topic.article",
+      "m.0n2s"
+    ],
+    [
+      "Henry VIII of England",
+      "people.person.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Morning Prayer"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Anglican Church in Aotearoa, New Zealand and Polynesia"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.places_of_worship_historical",
+      "m.046x325"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "British Critic"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "St. Luke's Episcopal Church"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Hong Kong Sheng Kung Hui"
+    ],
+    [
+      "m.046x32d",
+      "religion.place_of_worship_historical_use.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anne Boleyn",
+      "people.person.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.notable_figures",
+      "Thomas Cranmer"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "Church of England Newspaper"
+    ],
+    [
+      "Anglican Planet",
+      "book.periodical.subjects",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Evening Prayer"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Ordination"
+    ],
+    [
+      "Anglican Communion",
+      "religion.religious_organization.associated_with",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.collective_term_for_adherents",
+      "Anglicans"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.places_of_worship_historical",
+      "m.046x32d"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.texts",
+      "Book of Common Prayer"
+    ],
+    [
+      "Anglicanism",
+      "common.topic.image",
+      "Rochester cathedral stained glass 2"
+    ],
+    [
+      "Thomas Cromwell",
+      "people.person.religion",
+      "Anglicanism"
+    ],
+    [
+      "St. Luke's Episcopal Church",
+      "religion.religious_organization.associated_with",
+      "Anglicanism"
+    ],
+    [
+      "Saint Patrick's Day",
+      "time.holiday.featured_in_religions",
+      "Anglicanism"
+    ],
+    [
+      "St. Mary's Church, Putney",
+      "religion.place_of_worship.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "Saint Patrick's Day"
+    ],
+    [
+      "St Joseph's Day",
+      "time.holiday.featured_in_religions",
+      "Anglicanism"
+    ],
+    [
+      "Anglican Journal",
+      "book.periodical.subjects",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "The Monthly Packet"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.practices",
+      "Eucharist"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Anglican Communion"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Anglican Church of Australia"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.holidays",
+      "Corpus Christi"
+    ],
+    [
+      "Anglicanism",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_mzkfj"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Order of Saint Benedict (Anglican)"
+    ],
+    [
+      "Church of England",
+      "religion.religious_organization.associated_with",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.number_of_adherents",
+      "m.02knyxx"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Episcopal Diocese of Olympia"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "The Living Church"
+    ],
+    [
+      "Charles II of England",
+      "people.person.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "Christian Remembrancer"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Anglican Church of South America"
+    ],
+    [
+      "Clement Attlee",
+      "people.person.religion",
+      "Anglicanism"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.organizations",
+      "Church of England"
+    ],
+    [
+      "Anglicanism",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.098ly_4"
+    ],
+    [
+      "Anglicanism",
+      "religion.religion.texts",
+      "The Bible"
+    ],
+    [
+      "Anglicanism",
+      "book.periodical_subject.periodicals",
+      "Anglican Journal"
+    ],
+    [
+      "Corpus Christi",
+      "time.holiday.featured_in_religions",
+      "Anglicanism"
+    ],
+    [
+      "m.09yv9ty",
+      "common.webpage.topic",
+      "Anglicanism"
+    ],
+    [
+      "Charles II of England",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "The Month",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "m.063qq4v",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Pittsburgh Catholic",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Saint Nicholas' Eve",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Northern Lights",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Tablet"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of Assumption"
+    ],
+    [
+      "Catholicism",
+      "book.book_subject.works",
+      "My Secret History"
+    ],
+    [
+      "m.0v0l51r",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "Memoirs of a Nun"
+    ],
+    [
+      "Mission San Fernando Rey de España Church",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "L'Univers",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Saints Cyril and Methodius Day"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.beliefs",
+      "Papal infallibility"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Catholic Update"
+    ],
+    [
+      "Our Lady of Guadalupe Church",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "m.0gj5qht",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Anointing of the Sick"
+    ],
+    [
+      "Titular church",
+      "religion.type_of_place_of_worship.religion",
+      "Catholicism"
+    ],
+    [
+      "Father Damien Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Marriage",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "Taras Bulba"
+    ],
+    [
+      "m.056_8y4",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "Memoirs of a Nun",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholic Biblical Quarterly",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Two Babylons"
+    ],
+    [
+      "Transubstantiation",
+      "religion.belief.belief_of",
+      "Catholicism"
+    ],
+    [
+      "m.0650rst",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Thomas Cromwell",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "God Spede the Plough",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Our religion is itself profoundly sad -- a religion of universal anguish, and one which, because of its very catholicity, grants full liberty to the individual and asks no better than to be celebrated in each man's own language -- so long as he knows anguish and is a painter.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "My Secret History",
+      "book.written_work.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Catholic Worker"
+    ],
+    [
+      "Mary",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Commonweal"
+    ],
+    [
+      "Cathedral",
+      "religion.type_of_place_of_worship.religion",
+      "Catholicism"
+    ],
+    [
+      "Judaism",
+      "religion.religion.branched_into",
+      "Catholicism"
+    ],
+    [
+      "m.064tp8_",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Italian"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Sunday Examiner"
+    ],
+    [
+      "She thoroughly understands what no other Church has ever understood, how to deal with enthusiasts.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "The Catholic Sun",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "National Catholic Reporter"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.05mfn84"
+    ],
+    [
+      "Catholicism",
+      "common.topic.image",
+      "Rome basilica st peter 011c"
+    ],
+    [
+      "m.0gj5qhj",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Faerie Queene"
+    ],
+    [
+      "St. Stephen's Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "Melmoth the Wanderer"
+    ],
+    [
+      "m.064wlqw",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "The Pastoral Review",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gfmj88"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Florida Catholic"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064bnd1"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0987cx5"
+    ],
+    [
+      "Catholicism",
+      "book.book_subject.works",
+      "The Quest for God: A Personal Pilgrimage"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0650rst"
+    ],
+    [
+      "Chavagnes International College",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Catholic Biblical Quarterly"
+    ],
+    [
+      "St. Paul the Apostle Church",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Latin Mass",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "m.064bnd1",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "m.063r2c3",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Holy orders",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "The Ninety-Five Theses",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Anne Boleyn",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "St Joseph's Day"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Inside the Vatican"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Father Damien Day"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.065m3r5"
+    ],
+    [
+      "Edward I of England",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Eucharist in the Catholic Church"
+    ],
+    [
+      "America",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Feast of St. Margaret of the Árpád House",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Confirmation"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gfmj93"
+    ],
+    [
+      "Catholic Family News",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "common.topic.notable_for",
+      "g.125b02ydr"
+    ],
+    [
+      "A little skill in antiquity inclines a man to Popery.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Zenit"
+    ],
+    [
+      "St Crispin's Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Roman Catholic Diocese of Las Cruces",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Mary",
+      "base.saints.saint.venerated_in",
+      "Catholicism"
+    ],
+    [
+      "La Libre Belgique",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0663l4n"
+    ],
+    [
+      "The Catholic Register",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "St. Spiridon Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholic Update",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Our Lady of Guadalupe Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064tp8_"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Eureka Street"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of St Francis of Assisi"
+    ],
+    [
+      "John Paul The Great: Remembering a Spiritual Father",
+      "book.written_work.subjects",
+      "Catholicism"
+    ],
+    [
+      "m.063lp_m",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Baptism",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Latin Mass"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "She had once been a Catholic, but discovering that priests were infinitely more attentive when she was in process of losing or regaining faith in Mother Church, she maintained an enchantingly wavering attitude."
+    ],
+    [
+      "m.063lnzk",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "The Universe",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "All human life is here, but the Holy Ghost seems to be somewhere else.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.056_8y4"
+    ],
+    [
+      "The Wanderer",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Kung Kao Po"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Avvenire"
+    ],
+    [
+      "Glas Koncila",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.09tqmkw"
+    ],
+    [
+      "The Da Vinci Code",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "common.topic.image",
+      "Fulda kir"
+    ],
+    [
+      "Feast of Our Lady of the Rosary",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "m.0b6s3x_",
+      "common.webpage.topic",
+      "Catholicism"
+    ],
+    [
+      "St Joseph's Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.046x32x"
+    ],
+    [
+      "The Word Among Us",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "The Herald",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "L'Univers"
+    ],
+    [
+      "St Nicholas Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Chapel",
+      "religion.type_of_place_of_worship.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "Foxe's Book of Martyrs"
+    ],
+    [
+      "m.046x32x",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Month"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Maundy Thursday"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.063vfzd"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064_7ht"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Nativity of Mary"
+    ],
+    [
+      "Saints Cyril and Methodius Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "m.047hvjy",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Immaculate Heart Messenger"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Ninety-Five Theses"
+    ],
+    [
+      "Richard I of England",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0n5mz23"
+    ],
+    [
+      "New Testament",
+      "religion.religious_text.religious_text_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Catholicism is not a soothing religion. It's a painful religion. We're all gluttons for punishment."
+    ],
+    [
+      "The Father",
+      "religion.deity.deity_of",
+      "Catholicism"
+    ],
+    [
+      "Godspy",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of the Cross"
+    ],
+    [
+      "The Bible",
+      "religion.religious_text.religious_text_of",
+      "Catholicism"
+    ],
+    [
+      "World Day of Peace",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "The Italian",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Our religion is itself profoundly sad -- a religion of universal anguish, and one which, because of its very catholicity, grants full liberty to the individual and asks no better than to be celebrated in each man's own language -- so long as he knows anguish and is a painter."
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "New Oxford Review"
+    ],
+    [
+      "m.0gfmj93",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.046x32n"
+    ],
+    [
+      "The Assassini",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "common.topic.article",
+      "m.0c8wxz"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Catholic Register"
+    ],
+    [
+      "Rome basilica st peter 011c",
+      "common.image.appears_in_topic_gallery",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "St. Paul the Apostle Church"
+    ],
+    [
+      "Inside the Vatican",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Pastoral Review"
+    ],
+    [
+      "Fat Thursday",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Eucharist in the Catholic Church",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "St Nicholas Day"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Marriage"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Sacrament of Penance"
+    ],
+    [
+      "Kung Kao Po",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "St. Anthony's Day"
+    ],
+    [
+      "Immaculate Heart Messenger",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.063lnzk"
+    ],
+    [
+      "m.064bbds",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Here is everything which can lay hold of the eye, ear and imagination -- everything which can charm and bewitch the simple and ignorant. I wonder how Luther ever broke the spell.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.texts",
+      "The Bible"
+    ],
+    [
+      "Book of Nehemiah",
+      "religion.religious_text.religious_text_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gj5qh7"
+    ],
+    [
+      "Catholicism is not a soothing religion. It's a painful religion. We're all gluttons for punishment.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Alfred the Great",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "m.0gj5qh7",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "m.064bh5x",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064_m8w"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.04vwlwq"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Our Lady of Guadalupe Church"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Corpus Christi"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Brandsma Review"
+    ],
+    [
+      "The Furrow",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "St. Anthony's Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "De Tijd",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Roman Catholicism in New Zealand"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0g9kj4m"
+    ],
+    [
+      "Requiem",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "m.0n5mz2l",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Nativity of Mary",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0n5mz2l"
+    ],
+    [
+      "m.064fdg1",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064_59w"
+    ],
+    [
+      "m.0v0l10v",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Good strong thick stupefying incense-smoke!"
+    ],
+    [
+      "Melmoth the Wanderer",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Catholic Spirit"
+    ],
+    [
+      "Palm Sunday",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "La Libre Belgique"
+    ],
+    [
+      "The Rambler",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "The Quest for God: A Personal Pilgrimage",
+      "book.written_work.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Latin Mass Magazine"
+    ],
+    [
+      "Order of Saint Benedict",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "A Moral Reckoning",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "m.064_m8w",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Remnant"
+    ],
+    [
+      "m.05mfn84",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "L'Osservatore Romano",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Tidings"
+    ],
+    [
+      "Feast of Christ the King",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Henry VII of England",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Our Lady of Aparecida's day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Saint Peter",
+      "base.saints.saint.venerated_in",
+      "Catholicism"
+    ],
+    [
+      "New Oxford Review",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Clarion Herald"
+    ],
+    [
+      "Premonstratensians",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of Our Lady of the Rosary"
+    ],
+    [
+      "Catholicism",
+      "visual_art.art_period_movement.associated_artworks",
+      "Our Lady of Perpetual Help"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.collective_term_for_adherents",
+      "Roman Catholic"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.types_of_places_of_worship",
+      "Chapel"
+    ],
+    [
+      "m.09kmm4v",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "The Tidings",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Coming to Rome, much labor and little profit! The King whom you seek here, unless you bring Him with you will not find Him.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Restoration",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Saint Peter",
+      "religion.founding_figure.religion_founded",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0650d5k"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Sathyadeepam"
+    ],
+    [
+      "Corpus Christi",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Catholic Herald"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Name day"
+    ],
+    [
+      "Paul the Apostle",
+      "religion.founding_figure.religion_founded",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of Saints Peter and Paul"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "The thing with Catholicism, the same as all religions, is that it teaches what should be, which seems rather incorrect. This is what should be. Now, if you're taught to live up to a what should be that never existed -- only an occult superstition, no proof of this should be -- then you can sit on a jury and indict easily, you can cast the first stone, you can burn Adolf Eichmann, like that!"
+    ],
+    [
+      "m.064jk_s",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "It is by far the most elegant worship, hardly excepting the Greek mythology. What with incense, pictures, statues, altars, shrines, relics, and the real presence, confession, absolution, -- there is something sensible to grasp at. Besides, it leaves no possibility of doubt; for those who swallow their Deity, really and truly, in transubstantiation, can hardly find any thing else otherwise than easy of digestion."
+    ],
+    [
+      "Pilgrimage church",
+      "religion.type_of_place_of_worship.religion",
+      "Catholicism"
+    ],
+    [
+      "Foxe's Book of Martyrs",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Baptism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Zvonik"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Ukrainian Greek Catholic Church"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "St Casimir's Day"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Order of Saint Benedict"
+    ],
+    [
+      "Candide",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Henry VIII of England",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "m.064_59w",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Roman Catholicism in New Zealand",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Clarion Herald",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0v0l10v"
+    ],
+    [
+      "m.063vfzd",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Latin Mass Magazine",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Catholic Times"
+    ],
+    [
+      "National Catholic Reporter",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Sathyadeepam",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "De Tijd"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Olsok"
+    ],
+    [
+      "Catholicism",
+      "common.topic.notable_types",
+      "Art Period/Movement"
+    ],
+    [
+      "m.0gfmj8k",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Herald"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Rambler"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gj5qht"
+    ],
+    [
+      "L'Armonia",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.includes",
+      "Hidden Christians of Japan"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "America"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Catholic Sun"
+    ],
+    [
+      "m.0wq29__",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "Face Up",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Da Vinci Code"
+    ],
+    [
+      "m.063t4j4",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "m.0gfmj8v",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Holy orders"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "One cannot really be a Catholic and grown up."
+    ],
+    [
+      "m.0n5mz23",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "St. Paul the Apostle Church",
+      "religion.place_of_worship.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "The Feast of Our Lady of Mount Carmel"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Our Lady of Aparecida's day"
+    ],
+    [
+      "Byzantine Catholic World",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "National Catholic Register",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Saint Nicholas' Eve"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "A Connecticut Yankee in King Arthur's Court"
+    ],
+    [
+      "Olsok",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Monk: A Romance"
+    ],
+    [
+      "Feast of the Cross",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.texts",
+      "New Testament"
+    ],
+    [
+      "The Monk: A Romance",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "m.064dtzn",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "St. Stephen's Day"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Roman Catholic Archdiocese of San Francisco"
+    ],
+    [
+      "Solemnity of Mary, Mother of God",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "A little skill in antiquity inclines a man to Popery."
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064bh5x"
+    ],
+    [
+      "The thing with Catholicism, the same as all religions, is that it teaches what should be, which seems rather incorrect. This is what should be. Now, if you're taught to live up to a what should be that never existed -- only an occult superstition, no proof of this should be -- then you can sit on a jury and indict easily, you can cast the first stone, you can burn Adolf Eichmann, like that!",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "God Spede the Plough"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064d8sr"
+    ],
+    [
+      "Feast of St Francis of Assisi",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "L'Osservatore Romano"
+    ],
+    [
+      "m.0663l4n",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "A Terrible Vengeance",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Maundy Thursday",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.founding_figures",
+      "Saint Peter"
+    ],
+    [
+      "Faith & Family",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.047hvjy"
+    ],
+    [
+      "Taras Bulba",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Edward II of England",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.beliefs",
+      "Virgin birth of Jesus"
+    ],
+    [
+      "Zvonik",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "L'Armonia"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Roman Catholic Diocese of Las Cruces"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Chrismation"
+    ],
+    [
+      "Hidden Christians of Japan",
+      "religion.religion.is_part_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "St Crispin's Day"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "A Moral Reckoning"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Fat Thursday"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "National Catholic Register"
+    ],
+    [
+      "The Sunday Examiner",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Roman Catholic Archdiocese of San Francisco",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Catholic Telegraph"
+    ],
+    [
+      "Entering Heaven alive",
+      "religion.belief.belief_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Famiglia Cristiana"
+    ],
+    [
+      "Catholicism",
+      "common.topic.webpage",
+      "m.0b6s3x_"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Sisters of Charity of Saints Bartolomea Capitanio and Vincenza Gerosa (SCCG)"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Byzantine Catholic World"
+    ],
+    [
+      "Feast of Saints Peter and Paul",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064jk_s"
+    ],
+    [
+      "Christian Order",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Solemnity of Mary, Mother of God"
+    ],
+    [
+      "The Brandsma Review",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Saint Patrick's Day"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Christian Order"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Passionists"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0n5mz2s"
+    ],
+    [
+      "Good strong thick stupefying incense-smoke!",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "m.0643ly7",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.065215f"
+    ],
+    [
+      "m.046x32n",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.09kmm4v"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Furrow"
+    ],
+    [
+      "m.0g9kj4m",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Our Sunday Visitor",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "m.0hp3bl8",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.types_of_places_of_worship",
+      "Church"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Face Up"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.063lp_m"
+    ],
+    [
+      "Avvenire",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Passionists",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "All Saints' Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Transubstantiation",
+      "base.concepts.religious_concept.used_by_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholic Worker",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Le Correspondant",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064fdg1"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.06548cs"
+    ],
+    [
+      "m.06548cs",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "James VI and I",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "World Day of Peace"
+    ],
+    [
+      "Dom in svet",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064jj58"
+    ],
+    [
+      "Confirmation",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "Basilica",
+      "religion.type_of_place_of_worship.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Mission San Fernando Rey de España Church"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "All Saints' Day"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.beliefs",
+      "Entering Heaven alive"
+    ],
+    [
+      "It is a dogma of the Roman Church that the existence of God can be proved by natural reason. Now this dogma would make it impossible for me to be a Roman Catholic. If I thought of God as another being like myself, outside myself, only infinitely more powerful, then I would regard it as my duty to defy him.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "Candide"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064wlqw"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "It is a dogma of the Roman Church that the existence of God can be proved by natural reason. Now this dogma would make it impossible for me to be a Roman Catholic. If I thought of God as another being like myself, outside myself, only infinitely more powerful, then I would regard it as my duty to defy him."
+    ],
+    [
+      "m.065jr15",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Here is everything which can lay hold of the eye, ear and imagination -- everything which can charm and bewitch the simple and ignorant. I wonder how Luther ever broke the spell."
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Premonstratensians"
+    ],
+    [
+      "One cannot really be a Catholic and grown up.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Pittsburgh Catholic"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Wanderer"
+    ],
+    [
+      "The Catholic Herald",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Godspy"
+    ],
+    [
+      "Saint Patrick's Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholic Digest",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Glas Koncila"
+    ],
+    [
+      "The Remnant",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Look through the whole history of countries professing the Romish religion, and you will uniformly find the leaven of this besetting and accursed principle of action -- that the end will sanction any means.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.beliefs",
+      "Infallibility of the Church"
+    ],
+    [
+      "Our Lady of Perpetual Help",
+      "visual_art.artwork.period_or_movement",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Chavagnes International College"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.number_of_adherents",
+      "m.0_g58kh"
+    ],
+    [
+      "God",
+      "religion.deity.deity_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064dtzn"
+    ],
+    [
+      "Catholicism",
+      "book.book_subject.works",
+      "John Paul The Great: Remembering a Spiritual Father"
+    ],
+    [
+      "His Dark Materials",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Dublin Review"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.0hp3bl8"
+    ],
+    [
+      "James II of England",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "The Two Babylons",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Restoration"
+    ],
+    [
+      "It is by far the most elegant worship, hardly excepting the Greek mythology. What with incense, pictures, statues, altars, shrines, relics, and the real presence, confession, absolution, -- there is something sensible to grasp at. Besides, it leaves no possibility of doubt; for those who swallow their Deity, really and truly, in transubstantiation, can hardly find any thing else otherwise than easy of digestion.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Old Testament",
+      "religion.religious_text.religious_text_of",
+      "Catholicism"
+    ],
+    [
+      "Feast of Our Lady of Hungary",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "Northern Lights"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.064bbds"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.notable_figures",
+      "Mary"
+    ],
+    [
+      "The Faerie Queene",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "m.09tqmkw",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "m.065215f",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Feast of the Immaculate Conception",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "m.0650d5k",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "The Catholic Times",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Universe"
+    ],
+    [
+      "m.0643v74",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.texts",
+      "Book of Nehemiah"
+    ],
+    [
+      "La Croix",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Hibernian"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.practices",
+      "Requiem"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0v0l51r"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0n5mz2d"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0643ly7"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "His Dark Materials"
+    ],
+    [
+      "Eureka Street",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Feast of Assumption",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Le Correspondant"
+    ],
+    [
+      "To care for the quarrels of the past, to identify oneself passionately with a cause that became, politically speaking, a losing cause with the birth of the modern world, is to experience a kind of straining against reality, a rebellious nonconformity that, again, is rare in America, where children are instructed in the virtues of the system they live under, as though history had achieved a happy ending in American civics.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.places_of_worship_historical",
+      "m.0wq29__"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.063r2c3"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Look through the whole history of countries professing the Romish religion, and you will uniformly find the leaven of this besetting and accursed principle of action -- that the end will sanction any means."
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "To care for the quarrels of the past, to identify oneself passionately with a cause that became, politically speaking, a losing cause with the birth of the modern world, is to experience a kind of straining against reality, a rebellious nonconformity that, again, is rare in America, where children are instructed in the virtues of the system they live under, as though history had achieved a happy ending in American civics."
+    ],
+    [
+      "Catholicism",
+      "religion.religion.founding_figures",
+      "Paul the Apostle"
+    ],
+    [
+      "m.064jj58",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Ukrainian Greek Catholic Church",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "A Terrible Vengeance"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.beliefs",
+      "Transubstantiation"
+    ],
+    [
+      "The Feast of Our Lady of Mount Carmel",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Name day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Papal infallibility",
+      "religion.belief.belief_of",
+      "Catholicism"
+    ],
+    [
+      "Famiglia Cristiana",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.deities",
+      "The Father"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gxrw5l"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of Our Lady of Hungary"
+    ],
+    [
+      "Anointing of the Sick",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.argumentmaps.thing_of_disputed_value.disparagement",
+      "The Assassini"
+    ],
+    [
+      "Commonweal",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.branched_from",
+      "Judaism"
+    ],
+    [
+      "m.0n5mz2s",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Fulda kir",
+      "common.image.appears_in_topic_gallery",
+      "Catholicism"
+    ],
+    [
+      "Virgin birth of Jesus",
+      "religion.belief.belief_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.types_of_places_of_worship",
+      "Basilica"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of Our Lady of Sorrows"
+    ],
+    [
+      "m.0987cx5",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Hawaii Catholic Herald",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "m.0n5mz2d",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "The Catholic Telegraph",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.texts",
+      "Old Testament"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "The Word Among Us"
+    ],
+    [
+      "m.04vwlwq",
+      "religion.place_of_worship_historical_use.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.065jr15"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of the Immaculate Conception"
+    ],
+    [
+      "m.064d8sr",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "La Croix"
+    ],
+    [
+      "St Casimir's Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "She had once been a Catholic, but discovering that priests were infinitely more attentive when she was in process of losing or regaining faith in Mother Church, she maintained an enchantingly wavering attitude.",
+      "media_common.quotation.subjects",
+      "Catholicism"
+    ],
+    [
+      "Church",
+      "religion.type_of_place_of_worship.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.organizations",
+      "Cistercians"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of St. Margaret of the Árpád House"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Coming to Rome, much labor and little profit! The King whom you seek here, unless you bring Him with you will not find Him."
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gj5qhj"
+    ],
+    [
+      "Feast of Our Lady of Sorrows",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "A Connecticut Yankee in King Arthur's Court",
+      "base.argumentmaps.expression_of_disvalue.thing_of_disputed_value",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Catholic Digest"
+    ],
+    [
+      "m.0gfmj88",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Our Sunday Visitor"
+    ],
+    [
+      "Florida Catholic",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Our Lady of Guadalupe Day"
+    ],
+    [
+      "m.0gxrw5l",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "The Tablet",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Sacrament of Penance",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "The Catholic Spirit",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Roman Catholic",
+      "religion.adherents.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gfmj8v"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Feast of Christ the King"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Faith & Family"
+    ],
+    [
+      "Cistercians",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Infallibility of the Church",
+      "religion.belief.belief_of",
+      "Catholicism"
+    ],
+    [
+      "Chrismation",
+      "religion.religious_practice.practice_of",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0gfmj8k"
+    ],
+    [
+      "Sisters of Charity of Saints Bartolomea Capitanio and Vincenza Gerosa (SCCG)",
+      "religion.religious_organization.associated_with",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "She thoroughly understands what no other Church has ever understood, how to deal with enthusiasts."
+    ],
+    [
+      "Catholicism",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "All human life is here, but the Holy Ghost seems to be somewhere else."
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.063qq4v"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.0643v74"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Palm Sunday"
+    ],
+    [
+      "m.065m3r5",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "St. Spiridon Day"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.types_of_places_of_worship",
+      "Pilgrimage church"
+    ],
+    [
+      "m.064_7ht",
+      "base.popstra.religion_choice.religion",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.types_of_places_of_worship",
+      "Cathedral"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Hawaii Catholic Herald"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.types_of_places_of_worship",
+      "Titular church"
+    ],
+    [
+      "Catholicism",
+      "base.popstra.religion.membership",
+      "m.063t4j4"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.deities",
+      "God"
+    ],
+    [
+      "Euthymius the Great's Feast Day",
+      "time.holiday.featured_in_religions",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "religion.religion.holidays",
+      "Euthymius the Great's Feast Day"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Dom in svet"
+    ],
+    [
+      "The Hibernian",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Dublin Review",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Zenit",
+      "book.periodical.subjects",
+      "Catholicism"
+    ],
+    [
+      "Catholicism",
+      "book.periodical_subject.periodicals",
+      "Catholic Family News"
+    ],
+    [
+      "Chavagnes International College",
+      "education.educational_institution_campus.educational_institution",
+      "Chavagnes International College"
+    ],
+    [
+      "Chavagnes International College",
+      "education.educational_institution.campuses",
+      "Chavagnes International College"
+    ],
+    [
+      "Paul the Apostle",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "St. Paul the Apostle Church",
+      "symbols.namesake.named_after",
+      "Paul the Apostle"
+    ],
+    [
+      "Paul the Apostle",
+      "people.deceased_person.cause_of_death",
+      "Decapitation"
+    ],
+    [
+      "Mary",
+      "book.book_character.appears_in_book",
+      "Wolf Hall"
+    ],
+    [
+      "Mary",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mary",
+      "base.saints.saint.venerated_in",
+      "Anglican Communion"
+    ],
+    [
+      "Mary",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Mary",
+      "people.person.religion",
+      "Judaism"
+    ],
+    [
+      "Wolf Hall",
+      "book.book.characters",
+      "Mary"
+    ],
+    [
+      "m.02_1x1x",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Clement Attlee",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Paget's disease of bone"
+    ],
+    [
+      "Sickle",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Barrett's esophagus"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.07n73w_"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__g"
+    ],
+    [
+      "m.02_98hd",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.0gxvt_4",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.article",
+      "m.05zpq8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "William II of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Anaplastic thyroid cancer"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp580"
+    ],
+    [
+      "Henry VII of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney Stone"
+    ],
+    [
+      "Edward IV of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Dupuytren's contracture"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Actinic keratosis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ectodermal dysplasia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Parkinson's disease"
+    ],
+    [
+      "Edward VI of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gregory Cromwell, 1st Baron Cromwell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Attention deficit hyperactivity disorder"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Burn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gastritis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Sebaceous cyst"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Tetralogy of Fallot"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02zd4tr"
+    ],
+    [
+      "Richard II of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henry III of England",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "John, King of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stuttering"
+    ],
+    [
+      "Charles II of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_98hd"
+    ],
+    [
+      "Alek Petrov",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrvl",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.schemastaging.context_name.pronunciation",
+      "m.011sf4j6"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218t"
+    ],
+    [
+      "m.04mmfr8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kawasaki disease"
+    ],
+    [
+      "Eadred",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0gxvv0q",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Henry II of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Corneal abrasion"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64q8"
+    ],
+    [
+      "m.02zd4tr",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.04j647l",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_4"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney cancer"
+    ],
+    [
+      "James VI and I",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_1x1x"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j647l"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Stephen, King of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urolithiasis"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Male"
+    ],
+    [
+      "Saint Peter",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk3z"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrv7"
+    ],
+    [
+      "Henry VI of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0gxvv0h",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "m.05cckn4",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Sir Thomas More",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0q"
+    ],
+    [
+      "Thomas Jefferson",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrv7",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Syphilis"
+    ],
+    [
+      "Harold Harefoot",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hirschsprung's disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "m.05bvklm",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "m.0bm6pqb",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Charles I of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Burn",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_69"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Edward III of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0blp580",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjy3"
+    ],
+    [
+      "William III of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alfred the Great",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pqb"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bn"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64rh"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "James II of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actor"
+    ],
+    [
+      "Harold Godwinson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Esophageal cancer"
+    ],
+    [
+      "m.0hzxnsy",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "m.04j64rh",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Henry I of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hans Holbein the Younger",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrw1",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "William the Conqueror",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Edward V of England",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Spark",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Stephen Gardiner",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Amyotrophic lateral sclerosis"
+    ],
+    [
+      "Male",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Males"
+    ],
+    [
+      "m.05bvk3z",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.0d5218t",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Henry IV of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Meningococcal disease"
+    ],
+    [
+      "Thomas Cromwell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.notable_for",
+      "g.1255p_jgc"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "Edward Gibbon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0j7v__g",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Edward the Confessor",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Liver tumour"
+    ],
+    [
+      "SFX Award for Best Actor",
+      "award.award_category.disciplines_or_subjects",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Antisocial personality disorder"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04mmfr8"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrt3"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pyloric stenosis"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkm6"
+    ],
+    [
+      "Red Alligator",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.09td39b"
+    ],
+    [
+      "Male",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Phone Trick"
+    ],
+    [
+      "m.0blp5sr",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckn4"
+    ],
+    [
+      "William and Mary",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urethritis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Benign prostatic hyperplasia"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvklm"
+    ],
+    [
+      "Sarena Special",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Edward II of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Athlete's foot"
+    ],
+    [
+      "Edward I of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Leprosy"
+    ],
+    [
+      "Ernest Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.image",
+      "male.jpg"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Club foot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "m.0d522bn",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Henry VIII of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Harthacnut",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ventricular tachycardia"
+    ],
+    [
+      "Richard III of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Henry III of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John, King of England",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.07n73w_",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0h"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Alcohol abuse"
+    ],
+    [
+      "Massimo Zanini",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrw1"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Emphysema"
+    ],
+    [
+      "Phone Trick",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Golfer's elbow"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pectus excavatum"
+    ],
+    [
+      "m.05bvjy3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Inguinal hernia"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "Massimo Zanini"
+    ],
+    [
+      "Jason Flemyng",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henry V of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Shadow Figure"
+    ],
+    [
+      "Thomas Howard, 3rd Duke of Norfolk",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "Edward V of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrvl"
+    ],
+    [
+      "Cnut the Great",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Thomas Cromwell",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hypospadias"
+    ],
+    [
+      "m.05bvkm6",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "neilplus's types"
+    ],
+    [
+      "Arthur Wellesley, 1st Duke of Wellington",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Bladder cancer"
+    ],
+    [
+      "Male",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Male",
+      "sports.sports_gender.sports_teams",
+      "Vive Targi Kielce"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.09td39b",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.0kfyrt3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsy"
+    ],
+    [
+      "m.0zm9_69",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Richard I of England",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0d521lm",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sr"
+    ],
+    [
+      "Edward the Elder",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Autism"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Acute myeloid leukemia"
+    ],
+    [
+      "m.04j64q8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Judaism",
+      "religion.religion.deities",
+      "God"
+    ],
+    [
+      "Book of Nehemiah",
+      "religion.religious_text.religious_text_of",
+      "Judaism"
+    ],
+    [
+      "Entering Heaven alive",
+      "religion.belief.belief_of",
+      "Judaism"
+    ],
+    [
+      "Judaism",
+      "common.topic.notable_types",
+      "Religion"
+    ],
+    [
+      "Judaism",
+      "religion.religion.texts",
+      "Book of Nehemiah"
+    ],
+    [
+      "God",
+      "religion.deity.deity_of",
+      "Judaism"
+    ],
+    [
+      "Judaism",
+      "religion.religion.beliefs",
+      "Entering Heaven alive"
+    ]
+  ]
+}

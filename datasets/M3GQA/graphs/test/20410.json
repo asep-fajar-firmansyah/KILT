@@ -1,0 +1,4370 @@
+{
+  "graph_id": 20410,
+  "subgraph": [
+    [
+      "Giorgos Arvanitis",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.cinematography",
+      "Giorgos Arvanitis"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "film.cinematographer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.cinematography",
+      "Giorgos Arvanitis"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "film.cinematographer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "common.topic.notable_types",
+      "Film cinematographer"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.cinematography",
+      "Giorgos Arvanitis"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "freebase.valuenotation.has_value",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "people.person.nationality",
+      "Greece"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Giorgos Arvanitis",
+      "film.cinematographer.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "Eleni Karaindrou",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Eleni Karaindrou",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Eleni Karaindrou",
+      "film.music_contributor.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eleni Karaindrou",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Eleni Karaindrou",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.music",
+      "Eleni Karaindrou"
+    ],
+    [
+      "Eleni Karaindrou",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Eleni Karaindrou",
+      "film.music_contributor.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Eleni Karaindrou",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Eleni Karaindrou",
+      "music.artist.album",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Eleni Karaindrou",
+      "people.person.nationality",
+      "Greece"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.music",
+      "Eleni Karaindrou"
+    ],
+    [
+      "Eleni Karaindrou",
+      "film.music_contributor.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.music",
+      "Eleni Karaindrou"
+    ],
+    [
+      "Petros Markaris",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Petros Markaris",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Petros Markaris",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Petros Markaris",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Petros Markaris",
+      "film.writer.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "Petros Markaris",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Petros Markaris",
+      "film.writer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Petros Markaris",
+      "people.person.nationality",
+      "Greece"
+    ],
+    [
+      "Petros Markaris",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Petros Markaris",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.written_by",
+      "Petros Markaris"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.written_by",
+      "Petros Markaris"
+    ],
+    [
+      "Petros Markaris",
+      "film.writer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.written_by",
+      "Petros Markaris"
+    ],
+    [
+      "Stephenie Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Children",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.reverse_property",
+      "Children"
+    ],
+    [
+      "Parents",
+      "owl#inverseOf",
+      "Children"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Children",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Santiago Amigorena",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Claire Tomalin",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Jenny Beavan",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Charlotte Brontë",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "Henry James",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.master_property",
+      "Parents"
+    ],
+    [
+      "Children",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Andrew Davies",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.produced_by",
+      "Amedeo Pagani"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.produced_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.edited_by",
+      "Yannis Tsitsopoulos"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.executive_produced_by",
+      "Phoebe Economopoulos"
+    ],
+    [
+      "Eternity and a Day",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Eric Heumann",
+      "film.producer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "film.producer.films_executive_produced",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.produced_by",
+      "Eric Heumann"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.prequel",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Andreas Sinanos",
+      "film.cinematographer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.country",
+      "Germany"
+    ],
+    [
+      "Greek Language",
+      "media_common.netflix_genre.titles",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Greece",
+      "media_common.netflix_genre.titles",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.language",
+      "Greek Language"
+    ],
+    [
+      "Eternity and a Day",
+      "freebase.valuenotation.has_no_value",
+      "Sequel"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.sequel",
+      "Eternity and a Day"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.writer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "media_common.netflix_title.netflix_genres",
+      "Greek Language"
+    ],
+    [
+      "Eternity and a Day",
+      "media_common.netflix_title.netflix_genres",
+      "Foreign Movies"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.directed_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.country",
+      "Greece"
+    ],
+    [
+      "Tonino Guerra",
+      "film.writer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.produced_by",
+      "Giorgio Silvagni"
+    ],
+    [
+      "Giorgio Silvagni",
+      "film.producer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "media_common.netflix_title.netflix_genres",
+      "Foreign Dramas"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.written_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.director.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "media_common.netflix_title.netflix_genres",
+      "Greece"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Eternity and a Day",
+      "media_common.netflix_title.netflix_genres",
+      "Greek Movies"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.producer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Giorgos Patsas",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.cinematography",
+      "Andreas Sinanos"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.costume_design_by",
+      "Giorgos Patsas"
+    ],
+    [
+      "Amedeo Pagani",
+      "film.producer.film",
+      "Eternity and a Day"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.written_by",
+      "Tonino Guerra"
+    ],
+    [
+      "Eternity and a Day",
+      "film.film.film_set_decoration_by",
+      "Giorgos Ziakas"
+    ],
+    [
+      "m.0byslsn",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0k7j04"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ng4g18"
+    ],
+    [
+      "m.0byslrw",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "Romania"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "film.producer.films_executive_produced",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0n5xj0q",
+      "award.award_honor.honored_for",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ng4kf8"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_festivals",
+      "2012 Moscow International Film Festival"
+    ],
+    [
+      "m.0k7j0v",
+      "film.film_cut.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "Germany"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0wsz6t4"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Ivan Milovanovic"
+    ],
+    [
+      "m.0ng41k8",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.sequel",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "base.schemastaging.context_name.pronunciation",
+      "m.010q_v99"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ng4gnb"
+    ],
+    [
+      "Ulysses' Gaze",
+      "media_common.netflix_title.netflix_genres",
+      "Showbiz Dramas"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.language",
+      "Kurdish languages"
+    ],
+    [
+      "Ulysses' Gaze",
+      "media_common.netflix_title.netflix_genres",
+      "Foreign Dramas"
+    ],
+    [
+      "Ulysses' Gaze",
+      "award.award_nominated_work.award_nominations",
+      "m.0cggg5c"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_festivals",
+      "2010 Hong Kong International Film Festival"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.cinematography",
+      "Andreas Sinanos"
+    ],
+    [
+      "m.0ngkjbd",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkj6c"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Eric Heumann"
+    ],
+    [
+      "Margarita Manda",
+      "film.film_casting_director.films_casting_directed",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.genre",
+      "Road movie"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0j582hz"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkjcw"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_festivals",
+      "1995 Toronto International Film Festival"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng36nk"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Lucian Pricop"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0byslrw"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_casting_director",
+      "Alexandros Labridis"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ng4hn6"
+    ],
+    [
+      "m.0y6ctjl",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_casting_director",
+      "Margarita Manda"
+    ],
+    [
+      "m.0ngkj6_",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhl8"
+    ],
+    [
+      "m.0ng01yw",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "media_common.netflix_title.netflix_genres",
+      "Foreign Movies"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_production_design_by",
+      "Dinos Katsouridis"
+    ],
+    [
+      "Lucian Pricop",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Eric Heumann",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0ng01yw"
+    ],
+    [
+      "m.0c4dzd6",
+      "award.award_nomination.nominated_for",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng4gnb",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Giorgio Silvagni"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Herbert G. Kloiber"
+    ],
+    [
+      "m.0ng4hn6",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng3z61"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0k7j09"
+    ],
+    [
+      "m.0ng4g9q",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng40td",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkhwt",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Tonino Guerra",
+      "film.writer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Piro Milkani",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkj0k",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "Yugoslavia"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng424r"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkh_v"
+    ],
+    [
+      "Dinos Katsouridis",
+      "film.film_production_designer.films_production_designed",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhy7"
+    ],
+    [
+      "m.0ngpzyh",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng360p",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkjdv",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkhtz",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkjc3",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng4kf8",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.language",
+      "Albanian language"
+    ],
+    [
+      "m.0n5xj66",
+      "award.award_nomination.nominated_for",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0byslsg"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.executive_produced_by",
+      "Phoebe Economopoulos"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkj9_"
+    ],
+    [
+      "m.0x1gcn7",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0bysls6"
+    ],
+    [
+      "Dragan Ivanovic",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng3sd0"
+    ],
+    [
+      "m.0ng3sd0",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng0224",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkjc3"
+    ],
+    [
+      "Ulysses' Gaze",
+      "award.award_nominated_work.award_nominations",
+      "m.0n5xj66"
+    ],
+    [
+      "Herbert G. Kloiber",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0y6ctjl"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng3sp0"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkj07"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng40td"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkj8_"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng369d"
+    ],
+    [
+      "m.0k7j04",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.genre",
+      "Political drama"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Amedeo Pagani"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhw5"
+    ],
+    [
+      "Giorgio Silvagni",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng36nk",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng41sd",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng3t2h"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_set_decoration_by",
+      "Giorgos Patsas"
+    ],
+    [
+      "Ulysses' Gaze",
+      "award.award_winning_work.awards_won",
+      "m.0n5xj0q"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkj0k"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Dragan Ivanovic"
+    ],
+    [
+      "m.0byslth",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkj07",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkjdv"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0byslth"
+    ],
+    [
+      "m.0byslsg",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0byslsz",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng369d",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "Bosnia and Herzegovina"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkjbd"
+    ],
+    [
+      "m.0ngkjcw",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0bysls6",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_casting_director",
+      "Dinko Tucakovic"
+    ],
+    [
+      "m.0ng3zdg",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "Albania"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.language",
+      "Serbian language"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhwt"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.edited_by",
+      "Takis Koumoundouros"
+    ],
+    [
+      "m.0ngkhl8",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngpzyh"
+    ],
+    [
+      "m.0k7j09",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.language",
+      "Bulgarian Language"
+    ],
+    [
+      "m.0cggg5c",
+      "award.award_nomination.nominated_for",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng3zdg"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng41k8"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "m.0ng36wg",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng360p"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ng4g9q"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0x1gcn7"
+    ],
+    [
+      "Ulysses' Gaze",
+      "media_common.netflix_title.netflix_genres",
+      "Greek Movies"
+    ],
+    [
+      "Homer",
+      "film.film_story_contributor.film_story_credits",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_set_decoration_by",
+      "Miodrag Nikolic"
+    ],
+    [
+      "Ulysses' Gaze",
+      "media_common.netflix_title.netflix_genres",
+      "Political drama"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.runtime",
+      "m.0k7j0v"
+    ],
+    [
+      "m.075qz9p",
+      "film.film_cut.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkj6_"
+    ],
+    [
+      "m.0n5xfr8",
+      "award.award_nomination.nominated_for",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkj9_",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Saimir Kumbaro",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0byslt6"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.costume_design_by",
+      "Giorgos Ziakas"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.soundtrack",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.written_by",
+      "Giorgio Silvagni"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "Greece"
+    ],
+    [
+      "Ulysses' Gaze",
+      "common.topic.article",
+      "m.08tq52"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "Dinko Tucakovic",
+      "film.film_casting_director.films_casting_directed",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ng4g18",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.runtime",
+      "m.0cs7z8n"
+    ],
+    [
+      "m.0ngkhr4",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "award.award_nominated_work.award_nominations",
+      "m.0c4dzd6"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.runtime",
+      "m.075qz9p"
+    ],
+    [
+      "m.0ng3z61",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.director.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_series",
+      "Trilogy of Borders"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Piro Milkani"
+    ],
+    [
+      "m.0wsz6t4",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkhm9",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0byslsz"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_festivals",
+      "1995 Cannes Film Festival"
+    ],
+    [
+      "m.0ng424r",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkj8_",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkh_v",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.film_festivals",
+      "1996 San Francisco International Film Festival"
+    ],
+    [
+      "m.0ng3sp0",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Giorgio Silvagni",
+      "film.writer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkhw5",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "1995 Toronto International Film Festival",
+      "film.film_festival_event.films",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.written_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.prequel",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.produced_by",
+      "Saimir Kumbaro"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng36wg"
+    ],
+    [
+      "Ulysses' Gaze",
+      "common.topic.notable_for",
+      "g.1258bk5gj"
+    ],
+    [
+      "m.0cs7z8n",
+      "film.film_cut.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0byslsn"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.edited_by",
+      "Yannis Tsitsopoulos"
+    ],
+    [
+      "m.0byslt6",
+      "film.performance.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.story_by",
+      "Homer"
+    ],
+    [
+      "Amedeo Pagani",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkhn9",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkj5p"
+    ],
+    [
+      "m.0j582hz",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ivan Milovanovic",
+      "film.producer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhr4"
+    ],
+    [
+      "m.0ngkj5p",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.language",
+      "Greek Language"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhtz"
+    ],
+    [
+      "m.0ngkj6c",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.other_crew",
+      "m.0ng41sd"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.genre",
+      "War film"
+    ],
+    [
+      "Giorgos Patsas",
+      "film.film_set_designer.film_sets_designed",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.starring",
+      "m.0ng0224"
+    ],
+    [
+      "m.0ng3t2h",
+      "film.film_crew_gig.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "m.0ngkhy7",
+      "film.film_regional_release_date.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Andreas Sinanos",
+      "film.cinematographer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "award.award_nominated_work.award_nominations",
+      "m.0n5xfr8"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.language",
+      "Romanian Language"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhn9"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.directed_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.writer.film",
+      "Ulysses' Gaze"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.written_by",
+      "Tonino Guerra"
+    ],
+    [
+      "Ulysses' Gaze",
+      "film.film.release_date_s",
+      "m.0ngkhm9"
+    ],
+    [
+      "Andrey Zhegalov",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Wendell Berry",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Andrew Davies",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Aleksandr Golutva",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "John Cheever",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Piro Milkani",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Vladislav Panchenko",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Alice Munro",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Santiago Amigorena",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tennessee Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "James Fenimore Cooper",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Marc Baschet",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tonino Guerra",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jane Austen",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Stephenie Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Henry James",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Charles Dickens",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jenny Beavan",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "E. M. Forster",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#range",
+      "Gender"
+    ],
+    [
+      "Andrea Galer",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Margaret Atwood",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Čedomir Kolar",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Orson Scott Card",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.expected_type",
+      "Gender"
+    ],
+    [
+      "Claire Tomalin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Aleksandr Rogozhkin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Anton Chekhov",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Noam Chomsky",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Theo Angelopoulos",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Douglas Adams",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Susanna Clarke",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Martin Amis",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "P. D. James",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Homer",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Margaret Mitchell",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Dragan Ivanovic",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Amedeo Pagani",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Stephenie Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tonino Guerra",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jane Austen",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Homer",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "E. M. Forster",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Čedomir Kolar",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Lucian Pricop",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "John Cheever",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tennessee Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ivan Milovanovic",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Aleksandr Golutva",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Charles Dickens",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Alice Munro",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Anton Chekhov",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Susanna Clarke",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jenny Beavan",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Noam Chomsky",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Theo Angelopoulos",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jason Faller",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Marc Baschet",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Douglas Adams",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Giorgos Patsas",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Eric Heumann",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Henry James",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Orson Scott Card",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Aleksandr Rogozhkin",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Martin Amis",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Piro Milkani",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Giorgio Silvagni",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Claire Tomalin",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Wendell Berry",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Andreas Sinanos",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "James Fenimore Cooper",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "P. D. James",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Margaret Atwood",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Andrew Davies",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Andrey Zhegalov",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Vladislav Panchenko",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Margaret Mitchell",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Santiago Amigorena",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Film cinematographer",
+      "type.type.domain",
+      "Film"
+    ],
+    [
+      "Film cinematographer",
+      "type.type.properties",
+      "Film cinematography credits"
+    ],
+    [
+      "Andreas Sinanos",
+      "common.topic.notable_types",
+      "Film cinematographer"
+    ],
+    [
+      "Film cinematographer",
+      "type.type.expected_by",
+      "Cinematography"
+    ],
+    [
+      "Film cinematographer",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Film cinematographer",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Film cinematographer",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Film cinematography credits",
+      "rdf-schema#domain",
+      "Film cinematographer"
+    ],
+    [
+      "Cinematography",
+      "rdf-schema#range",
+      "Film cinematographer"
+    ],
+    [
+      "Film cinematographer",
+      "freebase.type_profile.strict_included_types",
+      "Person"
+    ],
+    [
+      "Film cinematography credits",
+      "type.property.schema",
+      "Film cinematographer"
+    ],
+    [
+      "Film",
+      "type.domain.types",
+      "Film cinematographer"
+    ],
+    [
+      "Film cinematographer",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Cinematography",
+      "type.property.expected_type",
+      "Film cinematographer"
+    ],
+    [
+      "Andreas Sinanos",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Stephenie Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Jenny Beavan",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Rambo",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "E. M. Forster",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Andrea Galer",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jane Austen",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Ismaël Lô",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Dinko Tucakovic",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Tonino Guerra",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Eric Heumann",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Dinos Katsouridis",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Aleksandr Golutva",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ivan Milovanovic",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Vladislav Panchenko",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Giorgio Silvagni",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Giorgos Patsas",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jason Faller",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Herbert G. Kloiber",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Lucian Pricop",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Dragan Ivanovic",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Anton Chekhov",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Aleksandr Rogozhkin",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Čedomir Kolar",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Margarita Manda",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Piro Milkani",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Marc Baschet",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Saimir Kumbaro",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Andrey Zhegalov",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Henry James",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Santiago Amigorena",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Amedeo Pagani",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Tennessee Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Andrew Davies",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Idrissa Ouedraogo",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "m.0ng4gnb",
+      "film.film_regional_release_date.film_release_region",
+      "France"
+    ],
+    [
+      "m.0ng4g18",
+      "film.film_regional_release_date.film_release_region",
+      "France"
+    ],
+    [
+      "France",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "France",
+      "location.country.languages_spoken",
+      "French"
+    ],
+    [
+      "Resident Evil: Apocalypse",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "French",
+      "language.human_language.countries_spoken_in",
+      "France"
+    ],
+    [
+      "Whit Stillman",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "French",
+      "language.human_language.main_country",
+      "France"
+    ],
+    [
+      "Splice",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Orphan",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Germaine de Staël",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "Africa, My Africa...",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Eric Heumann",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "France",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Persuasion",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.official_language",
+      "French"
+    ],
+    [
+      "Pride & Prejudice",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "How She Move",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.film_story_contributor.film_story_credits",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.language",
+      "French"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.country",
+      "Greece"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.cinematography",
+      "Andreas Sinanos"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.edited_by",
+      "Yannis Tsitsopoulos"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.director.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.language",
+      "Greek Language"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.costume_design_by",
+      "Giorgos Patsas"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "film.producer.films_executive_produced",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.writer.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.executive_produced_by",
+      "Phoebe Economopoulos"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.written_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.directed_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.film_series",
+      "Trilogy of Borders"
+    ],
+    [
+      "Tonino Guerra",
+      "film.writer.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.genre",
+      "Romance Film"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.story_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.film_festivals",
+      "2010 Hong Kong International Film Festival"
+    ],
+    [
+      "Theo Angelopoulos",
+      "film.producer.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.produced_by",
+      "Theo Angelopoulos"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "freebase.valuenotation.has_no_value",
+      "Prequel"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.written_by",
+      "Tonino Guerra"
+    ],
+    [
+      "Giorgos Patsas",
+      "film.film_costumer_designer.costume_design_for_film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "Andreas Sinanos",
+      "film.cinematographer.film",
+      "The Suspended Step of the Stork"
+    ],
+    [
+      "The Suspended Step of the Stork",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Spouse",
+      "owl#inverseOf",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Jenny Beavan",
+      "freebase.valuenotation.is_reviewed",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Whit Stillman",
+      "freebase.valuenotation.has_value",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Aleksandr Rogozhkin",
+      "freebase.valuenotation.is_reviewed",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Spouse (or domestic partner)",
+      "rdf-schema#range",
+      "Marriage"
+    ],
+    [
+      "Spouse (or domestic partner)",
+      "type.property.master_property",
+      "Spouse"
+    ],
+    [
+      "Jane Austen",
+      "freebase.valuenotation.has_no_value",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Spouse",
+      "type.property.reverse_property",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Marriage",
+      "type.type.expected_by",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Spouse (or domestic partner)",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Henry James",
+      "freebase.valuenotation.has_no_value",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Spouse (or domestic partner)",
+      "type.property.expected_type",
+      "Marriage"
+    ],
+    [
+      "Cassandra Austen",
+      "freebase.valuenotation.has_no_value",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Spouse (or domestic partner)",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Margarita Manda",
+      "people.person.nationality",
+      "Greece"
+    ],
+    [
+      "Greece",
+      "location.country.languages_spoken",
+      "Albanian language"
+    ],
+    [
+      "Homer",
+      "people.person.nationality",
+      "Greece"
+    ],
+    [
+      "m.0ngkjdv",
+      "film.film_regional_release_date.film_release_region",
+      "Greece"
+    ],
+    [
+      "Theo Angelopoulos",
+      "people.person.nationality",
+      "Greece"
+    ],
+    [
+      "Greek Language",
+      "language.human_language.main_country",
+      "Greece"
+    ],
+    [
+      "m.0x1gcn7",
+      "film.film_regional_release_date.film_release_region",
+      "Greece"
+    ],
+    [
+      "Albanian language",
+      "language.human_language.countries_spoken_in",
+      "Greece"
+    ],
+    [
+      "Greece",
+      "location.country.languages_spoken",
+      "Greek Language"
+    ],
+    [
+      "Greece",
+      "location.country.official_language",
+      "Greek Language"
+    ],
+    [
+      "Greece",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "m.0ngkhm9",
+      "film.film_regional_release_date.film_release_region",
+      "Greece"
+    ],
+    [
+      "Greek Language",
+      "language.human_language.countries_spoken_in",
+      "Greece"
+    ],
+    [
+      "My Big Fat Greek Wedding",
+      "film.film.country",
+      "Greece"
+    ],
+    [
+      "Mr Mason",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "John Willoughby",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Saimir Kumbaro",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jason Faller",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ismaël Lô",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mr. Darcy",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Hermann Hesse",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Herbert G. Kloiber",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Idrissa Ouedraogo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Patrick O'Brian",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Nokes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mr. William Collins",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "George Austen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Aleksandr Rogozhkin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Edward Austen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andreas Sinanos",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Aleksandr Golutva",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles Austen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Frederick Wentworth",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Mr. Woodhouse",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Mr. Gardiner",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Andrey Zhegalov",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Noam Chomsky",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles Bingley",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "R. D. Blackmore",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henry Austen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Giorgio Silvagni",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Colonel Christopher Brandon",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "George Knightley",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "James Fenimore Cooper",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Theo Angelopoulos",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Cheever",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mr. Dashwood",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Martin Amis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tennessee Williams",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Samuel Richardson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Walter Scott",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert Martin",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Homer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lucian Pricop",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "E. M. Forster",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mr Bennet",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Marc Baschet",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mr. Weston",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Čedomir Kolar",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Amedeo Pagani",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ivan Milovanovic",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dragan Ivanovic",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tonino Guerra",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Vladislav Panchenko",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "James Austen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Edmund Bertram",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Anton Chekhov",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Oliver Goldsmith",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Rambo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Frank Churchill",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Spinner Mason",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Scott Sigler",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henry Crawford",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Orson Scott Card",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Wendell Berry",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Edward Ferrars",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Santiago Amigorena",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Giorgos Patsas",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Douglas Adams",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mr. Wickham",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Charles Dickens",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mr. Elton",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Sir Thomas Bertram",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Samuel Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Eric Heumann",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Piro Milkani",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dinko Tucakovic",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Reverend Austen",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Aleksandar Đuričić",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Francis Austen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dinos Katsouridis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Whit Stillman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andrew Davies",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert Ferrars",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Geoffrey Keynes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gilfoyle",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Henry James",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Cheever",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Stephenie Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Piro Milkani",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "owl#inverseOf",
+      "People born here"
+    ],
+    [
+      "Theo Angelopoulos",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Tennessee Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Margaret Atwood",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.reverse_property",
+      "People born here"
+    ],
+    [
+      "Andreas Sinanos",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Douglas Adams",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Giorgio Silvagni",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Wendell Berry",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Martin Amis",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Claire Tomalin",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Eric Heumann",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "People born here",
+      "type.property.master_property",
+      "Place of birth"
+    ],
+    [
+      "Charles Dickens",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Vladislav Panchenko",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Margaret Mitchell",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Aleksandr Rogozhkin",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Orson Scott Card",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Amedeo Pagani",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Giorgos Patsas",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Henry James",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Andrey Zhegalov",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Anton Chekhov",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Andrew Davies",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Homer",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "James Austen",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Dragan Ivanovic",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jane Austen",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Marc Baschet",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Ivan Milovanovic",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Noam Chomsky",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Lucian Pricop",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "George Austen",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Tonino Guerra",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jenny Beavan",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "P. D. James",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Andrea Galer",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Susanna Clarke",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Alice Munro",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "James Fenimore Cooper",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Santiago Amigorena",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Dragan Ivanovic",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Ivan Milovanovic",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Aleksandr Golutva",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Stephenie Meyer",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Andreas Sinanos",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Amedeo Pagani",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Charles Dickens",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "James Austen",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "George Austen",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "John Cheever",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Tonino Guerra",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Andrew Davies",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Giorgos Patsas",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Andrey Zhegalov",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jane Austen",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Noam Chomsky",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Marc Baschet",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Anton Chekhov",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Santiago Amigorena",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Piro Milkani",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Lucian Pricop",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Theo Angelopoulos",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Aleksandr Rogozhkin",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Andrea Galer",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Giorgio Silvagni",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jenny Beavan",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Tennessee Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Vladislav Panchenko",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "James Fenimore Cooper",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Homer",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Susanna Clarke",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Marianne Dashwood",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Marghanita Laski",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Elizabeth Bennet",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "P. D. James",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Gardiner",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Alice Munro",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Catherine Darcy",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Harriet Smith",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Anne Elliot",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Stephenie Meyer",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Bennet",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Shane Bolks",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Jane Bennet",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Mary Bennet",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Jenny Haddon",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Emma Tennant",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Kitty Bennet",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Emma Woodhouse",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Charlotte Brontë",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Mason",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Weston",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Georgina 'Georgie' Darcy",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Fiona Coyne",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Andrea Galer",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Elinor Dashwood",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Charlotte Lucas",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Phoebe Economopoulos",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Miss Bates",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Catherine Hubback",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Frances Burney",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Jenny Beavan",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Austen",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Fanny Price",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Jane Austen",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Cassandra Austen",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "George Eliot",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Elton",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Ferrars",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Jane Austen",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Germaine de Staël",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Elizabeth Jane Howard",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Margaret Atwood",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mary Crawford",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Michelle Reid",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Julia Quinn",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mrs. Dashwood",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Margarita Manda",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Caroline Bingley",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Claire Tomalin",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Margaret Mitchell",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Margaret Mitchell",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Shane Bolks",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Homer",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Frances Burney",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "James Fenimore Cooper",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Tennessee Williams",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Jane Austen",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Orson Scott Card",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Marghanita Laski",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Alice Munro",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Hermann Hesse",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Noam Chomsky",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Stephenie Meyer",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Samuel Richardson",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Orson Scott Card",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Charlotte Brontë",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Henry James",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "E. M. Forster",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "David Nokes",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Charles Dickens",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Playwright",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Novelist",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Margaret Atwood",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.equivalent_topic.equivalent_type",
+      "Author"
+    ],
+    [
+      "Patrick O'Brian",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Martin Amis",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Julia Quinn",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Andrew Davies",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Germaine de Staël",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Scott Sigler",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Oliver Goldsmith",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "John Cheever",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "John Cheever",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Hermann Hesse",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Stephenie Meyer",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Walter Scott",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Alice Munro",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Wendell Berry",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "James Austen",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Margaret Atwood",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Marghanita Laski",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Martin Amis",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Douglas Adams",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Geoffrey Keynes",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Jenny Haddon",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Charles Dickens",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Michelle Reid",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Claire Tomalin",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Susanna Clarke",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Emma Tennant",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Elizabeth Jane Howard",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "E. M. Forster",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Susanna Clarke",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Henry James",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "R. D. Blackmore",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Scott Sigler",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Aleksandar Đuričić",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Julia Quinn",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "P. D. James",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.equivalent_topic",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Samuel Johnson",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Anton Chekhov",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Charlotte Brontë",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "David Nokes",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Patrick O'Brian",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Wendell Berry",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Catherine Hubback",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Anton Chekhov",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "George Eliot",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Homer",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Writer",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Author"
+    ],
+    [
+      "Margaret Mitchell",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Noam Chomsky",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Douglas Adams",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "John Cheever",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Margaret Mitchell",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "P. D. James",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Michelle Reid",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Samuel Richardson",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Orson Scott Card",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Douglas Adams",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Frances Burney",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Writer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Alice Munro",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Novelist"
+    ],
+    [
+      "Homer",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "James Fenimore Cooper",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Hermann Hesse",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Martin Amis",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Scott Sigler",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Aleksandar Đuričić",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Jenny Haddon",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Charlotte Brontë",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Andrew Davies",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Novelist",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "Emma Tennant",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Jane Austen",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "E. M. Forster",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Tennessee Williams",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Germaine de Staël",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Playwright",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "David Rambo",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Henry James",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Charles Dickens",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Elizabeth Jane Howard",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Marghanita Laski",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Whit Stillman",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Tonino Guerra",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Susanna Clarke",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Margaret Atwood",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Playwright"
+    ],
+    [
+      "Noam Chomsky",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Wendell Berry",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Stephenie Meyer",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "George Eliot",
+      "people.person.profession",
+      "Writer"
+    ]
+  ]
+}

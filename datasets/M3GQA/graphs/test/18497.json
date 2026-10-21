@@ -1,0 +1,5795 @@
+{
+  "graph_id": 18497,
+  "subgraph": [
+    [
+      "Rhine",
+      "location.location.partially_containedby",
+      "France"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Italy"
+    ],
+    [
+      "France",
+      "location.location.partially_contains",
+      "Rhine"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Switzerland"
+    ],
+    [
+      "Rhine",
+      "location.location.partially_containedby",
+      "Austria"
+    ],
+    [
+      "Germany",
+      "location.location.partially_contains",
+      "Rhine"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Belgium"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Luxembourg"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Austria"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.partially_contains",
+      "Rhine"
+    ],
+    [
+      "Rhine",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Rhine",
+      "location.location.partially_containedby",
+      "Liechtenstein"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "France"
+    ],
+    [
+      "Rhine",
+      "geography.river.cities",
+      "Bonn"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Rhine",
+      "location.location.partially_containedby",
+      "Germany"
+    ],
+    [
+      "Switzerland",
+      "location.location.partially_contains",
+      "Rhine"
+    ],
+    [
+      "Rhine",
+      "geography.river.basin_countries",
+      "Germany"
+    ],
+    [
+      "Rhine",
+      "location.location.partially_containedby",
+      "Switzerland"
+    ],
+    [
+      "Austria",
+      "location.location.partially_contains",
+      "Rhine"
+    ],
+    [
+      "Scott Meyer",
+      "people.person.education",
+      "m.04qnf5s"
+    ],
+    [
+      "Scott Meyer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.04qnf5s",
+      "education.education.student",
+      "Scott Meyer"
+    ],
+    [
+      "Arali",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Arali"
+    ],
+    [
+      "Eurasia",
+      "base.locations.continents.countries_within",
+      "France"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "France"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "French",
+      "language.human_language.countries_spoken_in",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "2011 European Summer Time",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Alps",
+      "location.location.partially_containedby",
+      "France"
+    ],
+    [
+      "France",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "A Tale of Two Cities",
+      "book.written_work.subjects",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.languages_spoken",
+      "French"
+    ],
+    [
+      "Čedok",
+      "travel.tour_operator.travel_destinations",
+      "France"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "France"
+    ],
+    [
+      "France",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "2012 World Mountain Running Championships"
+    ],
+    [
+      "Winter Time in Europe, 2010-2011",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "France"
+    ],
+    [
+      "French",
+      "language.human_language.main_country",
+      "France"
+    ],
+    [
+      "University of Paris III: Sorbonne Nouvelle",
+      "location.location.containedby",
+      "France"
+    ],
+    [
+      "Gallo-Romance languages",
+      "language.language_family.geographic_distribution",
+      "France"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains_major_portion_of",
+      "France"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "The Trial",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Winter Time in Europe, 2012-2013",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "France",
+      "travel.travel_destination.tour_operators",
+      "Čedok"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "France"
+    ],
+    [
+      "France",
+      "freebase.valuenotation.is_reviewed",
+      "Official Language"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "France"
+    ],
+    [
+      "2014 European Summer Time",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.official_language",
+      "French"
+    ],
+    [
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "France"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "France",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "European Union",
+      "base.nations.supranational_body.member",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.partially_contains",
+      "Alps"
+    ],
+    [
+      "France",
+      "location.location.primarily_containedby",
+      "Western Europe"
+    ],
+    [
+      "2013 European Summer Time",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1896 Summer Olympics"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "France"
+    ],
+    [
+      "A Tale of Two Cities",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "2012 European Summer Time",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "2010 European Summer Time",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "France",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "Western Europe",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Gauderic Kaiser",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Winter Time in Europe, 2011-2012",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "1896 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "France"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "France"
+    ],
+    [
+      "France",
+      "base.locations.countries.continent",
+      "Eurasia"
+    ],
+    [
+      "France",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "Jean-Paul Sartre",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "Winter Time in Europe, 2013-2014",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "France",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "Western Europe"
+    ],
+    [
+      "France",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "2012 World Mountain Running Championships",
+      "sports.multi_event_tournament.participating_countries",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Council of Europe",
+      "base.nations.supranational_body.member",
+      "France"
+    ],
+    [
+      "France",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "France",
+      "travel.travel_destination.tour_operators",
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "France"
+    ],
+    [
+      "Winter Time in Europe, 2014-2015",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "French Revolution",
+      "time.event.locations",
+      "France"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Italian Language",
+      "language.human_language.main_country",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Italy",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - 7-Night Mediterranean Magic Cruise"
+    ],
+    [
+      "Winter Time in Europe, 2011-2012",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "The Trial",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "freebase.valuenotation.is_reviewed",
+      "Official Language"
+    ],
+    [
+      "Italy",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "A Room with a View",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Italy",
+      "location.country.capital",
+      "Rome"
+    ],
+    [
+      "Winter Time in Europe, 2012-2013",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "2012 European Summer Time",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Italian Peninsula",
+      "location.location.partially_containedby",
+      "Italy"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Italy"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "organization.organization_founder.organizations_founded",
+      "Council of Europe"
+    ],
+    [
+      "Italy",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Italy",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Winter Time in Europe, 2013-2014",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Angels & Demons",
+      "film.film.country",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Winter Time in Europe, 2014-2015",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "2010 European Summer Time",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "Nawapol Lumpoon",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1896 Summer Olympics"
+    ],
+    [
+      "Italy",
+      "location.country.languages_spoken",
+      "Italian Language"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "Italy"
+    ],
+    [
+      "St. Peter's Square",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Bavarian",
+      "base.rosetta.local_name.locale",
+      "Italy"
+    ],
+    [
+      "Castel Sant'Angelo",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Italy",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "Council of Europe",
+      "organization.organization.founders",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.location.partially_contains",
+      "Italian Peninsula"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Luciano Velardi",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Sammarinese lira",
+      "finance.currency.countries_formerly_used",
+      "Italy"
+    ],
+    [
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "travel.travel_destination.tour_operators",
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Italy"
+    ],
+    [
+      "Adventures by Disney - 7-Night Mediterranean Magic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "Rome",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "2014 European Summer Time",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "Italian Language",
+      "language.human_language.countries_spoken_in",
+      "Italy"
+    ],
+    [
+      "Winter Time in Europe, 2010-2011",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Italy"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Italy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "Italy"
+    ],
+    [
+      "Alps",
+      "location.location.partially_containedby",
+      "Italy"
+    ],
+    [
+      "Čedok",
+      "travel.tour_operator.travel_destinations",
+      "Italy"
+    ],
+    [
+      "Vatican City",
+      "base.biblioness.bibs_location.country",
+      "Italy"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Italy"
+    ],
+    [
+      "Day of confession",
+      "book.written_work.subjects",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.location.partially_contains",
+      "Alps"
+    ],
+    [
+      "Italy",
+      "location.country.currency_formerly_used",
+      "Sammarinese lira"
+    ],
+    [
+      "Italy",
+      "location.country.form_of_government",
+      "Parliamentary republic"
+    ],
+    [
+      "Italy",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Rome",
+      "base.biblioness.bibs_location.country",
+      "Italy"
+    ],
+    [
+      "2011 European Summer Time",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "2012 World Mountain Running Championships"
+    ],
+    [
+      "L'Osservatore Romano",
+      "location.location.containedby",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.country.official_language",
+      "Italian Language"
+    ],
+    [
+      "Italy",
+      "travel.travel_destination.tour_operators",
+      "Čedok"
+    ],
+    [
+      "Italy",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "1896 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Italy"
+    ],
+    [
+      "2013 European Summer Time",
+      "time.event.locations",
+      "Italy"
+    ],
+    [
+      "2012 World Mountain Running Championships",
+      "sports.multi_event_tournament.participating_countries",
+      "Italy"
+    ],
+    [
+      "Parliamentary republic",
+      "government.form_of_government.countries",
+      "Italy"
+    ],
+    [
+      "Federal republic",
+      "government.form_of_government.countries",
+      "Switzerland"
+    ],
+    [
+      "2014 European Summer Time",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.country.languages_spoken",
+      "French"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "2010 European Summer Time",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Winter Time in Europe, 2013-2014",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "Winter Time in Europe, 2012-2013"
+    ],
+    [
+      "Switzerland",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "Switzerland",
+      "location.country.languages_spoken",
+      "Italian Language"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "2012 European Summer Time"
+    ],
+    [
+      "2011 European Summer Time",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "Winter Time in Europe, 2013-2014"
+    ],
+    [
+      "Switzerland",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1896 Summer Olympics"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "2010 European Summer Time"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "Winter Time in Europe, 2010-2011"
+    ],
+    [
+      "Switzerland",
+      "travel.travel_destination.tour_operators",
+      "Čedok"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "2013 European Summer Time"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "Winter Time in Europe, 2014-2015"
+    ],
+    [
+      "Switzerland",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Cóndor"
+    ],
+    [
+      "Italian Language",
+      "language.human_language.countries_spoken_in",
+      "Switzerland"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "2014 European Summer Time"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "Winter Time in Europe, 2011-2012"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "Switzerland"
+    ],
+    [
+      "Cóndor",
+      "book.newspaper.circulation_areas",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Liechtenstein"
+    ],
+    [
+      "Switzerland",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Switzerland",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Winter Time in Europe, 2010-2011",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Winter Time in Europe, 2011-2012",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.country.form_of_government",
+      "Federal republic"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "2012 European Summer Time",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.location.events",
+      "2011 European Summer Time"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "2012 World Mountain Running Championships"
+    ],
+    [
+      "2013 European Summer Time",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.country.official_language",
+      "French"
+    ],
+    [
+      "Switzerland",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "1896 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.country.official_language",
+      "Italian Language"
+    ],
+    [
+      "Winter Time in Europe, 2014-2015",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Switzerland",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Switzerland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "2012 World Mountain Running Championships",
+      "sports.multi_event_tournament.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Winter Time in Europe, 2012-2013",
+      "time.event.locations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.location.partially_contains",
+      "Alps"
+    ],
+    [
+      "French",
+      "language.human_language.countries_spoken_in",
+      "Switzerland"
+    ],
+    [
+      "Čedok",
+      "travel.tour_operator.travel_destinations",
+      "Switzerland"
+    ],
+    [
+      "Switzerland",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Switzerland"
+    ],
+    [
+      "Alps",
+      "location.location.partially_containedby",
+      "Switzerland"
+    ],
+    [
+      "Swiss German Language",
+      "language.human_language.main_country",
+      "Switzerland"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Switzerland"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.containedby",
+      "Central Europe"
+    ],
+    [
+      "Federal republic",
+      "government.form_of_government.countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Bavarian Language",
+      "language.human_language.main_country",
+      "Austria"
+    ],
+    [
+      "Vienna",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Austria"
+    ],
+    [
+      "Alps",
+      "location.location.partially_containedby",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Styria",
+      "location.administrative_division.country",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "Bavarian Language",
+      "language.human_language.countries_spoken_in",
+      "Austria"
+    ],
+    [
+      "2011 European Summer Time",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "Central Europe",
+      "location.location.contains",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.form_of_government",
+      "Parliamentary republic"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "2013 European Summer Time"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.administrative_divisions",
+      "Vienna"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.capital",
+      "Vienna"
+    ],
+    [
+      "Winter Time in Europe, 2013-2014",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.languages_spoken",
+      "Bavarian Language"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Vienna",
+      "location.administrative_division.first_level_division_of",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "Austria"
+    ],
+    [
+      "Winter Time in Europe, 2010-2011",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Austria"
+    ],
+    [
+      "2010 European Summer Time",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "Vienna",
+      "location.administrative_division.second_level_division_of",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.first_level_divisions",
+      "Styria"
+    ],
+    [
+      "Austria",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "2012 World Mountain Running Championships"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "Styria"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Austria",
+      "location.country.administrative_divisions",
+      "Styria"
+    ],
+    [
+      "Austria",
+      "location.country.capital",
+      "Vienna"
+    ],
+    [
+      "Austria",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Vienna"
+    ],
+    [
+      "Vienna",
+      "location.administrative_division.country",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "Winter Time in Europe, 2014-2015"
+    ],
+    [
+      "Cóndor",
+      "book.newspaper.circulation_areas",
+      "Austria"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "Winter Time in Europe, 2013-2014"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "2014 European Summer Time"
+    ],
+    [
+      "Austria",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Austria",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "Winter Time in Europe, 2012-2013"
+    ],
+    [
+      "Austria",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Austria",
+      "location.country.first_level_divisions",
+      "Vienna"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "2010 European Summer Time"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Styria",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Austria"
+    ],
+    [
+      "Styria",
+      "location.administrative_division.first_level_division_of",
+      "Austria"
+    ],
+    [
+      "Vienna",
+      "base.biblioness.bibs_location.country",
+      "Austria"
+    ],
+    [
+      "Parliamentary republic",
+      "government.form_of_government.countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "2012 European Summer Time",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "Austria"
+    ],
+    [
+      "Styria",
+      "location.location.containedby",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Styria",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Austria"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Čedok",
+      "travel.tour_operator.travel_destinations",
+      "Austria"
+    ],
+    [
+      "Vienna",
+      "location.location.containedby",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Austria",
+      "travel.travel_destination.tour_operators",
+      "Čedok"
+    ],
+    [
+      "Winter Time in Europe, 2012-2013",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "Austria"
+    ],
+    [
+      "Bavarian",
+      "base.rosetta.local_name.locale",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "Winter Time in Europe, 2011-2012"
+    ],
+    [
+      "Austria",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "1896 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "2011 European Summer Time"
+    ],
+    [
+      "Austria",
+      "location.country.second_level_divisions",
+      "Vienna"
+    ],
+    [
+      "Austria",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Cóndor"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Austria",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "2013 European Summer Time",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Amasyn"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "2012 European Summer Time"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Austria",
+      "location.country.form_of_government",
+      "Federal republic"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Styria"
+    ],
+    [
+      "Austria",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1896 Summer Olympics"
+    ],
+    [
+      "2012 World Mountain Running Championships",
+      "sports.multi_event_tournament.participating_countries",
+      "Austria"
+    ],
+    [
+      "2014 European Summer Time",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "Winter Time in Europe, 2014-2015",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Austria",
+      "location.location.partially_contains",
+      "Alps"
+    ],
+    [
+      "Austria",
+      "location.location.events",
+      "Winter Time in Europe, 2010-2011"
+    ],
+    [
+      "Austria",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Winter Time in Europe, 2011-2012",
+      "time.event.locations",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1896 Summer Olympics"
+    ],
+    [
+      "Marco Zernicke",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Bernd Schulz",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Jürgen Wilhelm",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Frankfurt",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "2011 European Summer Time"
+    ],
+    [
+      "Germany",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Dominika Daubenbüchel",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "2012 World Mountain Running Championships"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "2014 European Summer Time"
+    ],
+    [
+      "National Democratic Party of Germany",
+      "organization.organization.geographic_scope",
+      "Germany"
+    ],
+    [
+      "Frank Siersleben",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Heiko Brestrich",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "2012 European Summer Time",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.administrative_divisions",
+      "Frankfurt"
+    ],
+    [
+      "Ralf Sträßer",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Hamburg",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Germany"
+    ],
+    [
+      "Marc Beckers",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Frank Seifert",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "Winter Time in Europe, 2013-2014"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "Germany"
+    ],
+    [
+      "Patrick Heinrich",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "1896 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Germany"
+    ],
+    [
+      "Parliamentary republic",
+      "government.form_of_government.countries",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.languages_spoken",
+      "Bavarian Language"
+    ],
+    [
+      "Germany",
+      "location.country.administrative_divisions",
+      "Berlin"
+    ],
+    [
+      "Oswald Grübel",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Michael Schulz",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Germany",
+      "location.country.administrative_divisions",
+      "Hamburg"
+    ],
+    [
+      "Manfred Kastl",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "German Language",
+      "language.human_language.main_country",
+      "Germany"
+    ],
+    [
+      "The Legend of Rita",
+      "media_common.netflix_title.netflix_genres",
+      "Germany"
+    ],
+    [
+      "Bernd Müller",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Frank Hammerschlag",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Michael Glowatzky",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Cóndor"
+    ],
+    [
+      "Hans-Jürgen Baake",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Swabian German",
+      "language.human_language.main_country",
+      "Germany"
+    ],
+    [
+      "Berlin",
+      "location.administrative_division.country",
+      "Germany"
+    ],
+    [
+      "2011 European Summer Time",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "Ingo Saager",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Toralf Arndt",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Gustav-Adolf Schur",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Saxon, Upper Language",
+      "language.human_language.countries_spoken_in",
+      "Germany"
+    ],
+    [
+      "Barbara Legrand",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Winter Time in Europe, 2013-2014",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "Dirk Schuebel",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Frankfurt",
+      "base.biblioness.bibs_location.country",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.languages_spoken",
+      "Saxon, Upper Language"
+    ],
+    [
+      "Kristian Sprećaković",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Uwe Beginski",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Egon Flad",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "The hidden hand",
+      "book.written_work.subjects",
+      "Germany"
+    ],
+    [
+      "Hendryk Lau",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "Winter Time in Europe, 2011-2012"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "Winter Time in Europe, 2010-2011"
+    ],
+    [
+      "Jan Wehrmann",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Michael Fiedler",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Jürgen Straub",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Gauderic Kaiser",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Bavarian",
+      "base.rosetta.local_name.locale",
+      "Germany"
+    ],
+    [
+      "2014 European Summer Time",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "Alps",
+      "location.location.partially_containedby",
+      "Germany"
+    ],
+    [
+      "Detlef Schößler",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Winter Time in Europe, 2011-2012",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "2013 European Summer Time",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "Christopher Beck",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.form_of_government",
+      "Federal republic"
+    ],
+    [
+      "Germany",
+      "location.country.currency_formerly_used",
+      "Deutsche Mark"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Germany"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Germany"
+    ],
+    [
+      "Hanover",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "Christian Fährmann",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "The Legend of Rita",
+      "film.film.country",
+      "Germany"
+    ],
+    [
+      "Frank Pastor",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Jörg Schmidt",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Cóndor",
+      "book.newspaper.circulation_areas",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "Winter Time in Europe, 2014-2015"
+    ],
+    [
+      "The secret police and the revolution",
+      "book.written_work.subjects",
+      "Germany"
+    ],
+    [
+      "Dirk Oberritter",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Ronny Teuber",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "Daniel Petrowsky",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "2012 European Summer Time"
+    ],
+    [
+      "Bonn",
+      "base.biblioness.bibs_location.country",
+      "Germany"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Germany"
+    ],
+    [
+      "Mario Maek",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Detlef Bruckhoff",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Markus Wuckel",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Marco Köller",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Jürgen Bucher",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Germany"
+    ],
+    [
+      "Jens Wahl",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Michael Hubner",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Germany"
+    ],
+    [
+      "Axel Wittke",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Matthias Zimmerling",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.capital",
+      "Berlin"
+    ],
+    [
+      "Sandrino Braun",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Hanover",
+      "location.administrative_division.country",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Hamburg",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Roman Grill",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Heinz Stickel",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Wilfried Hannes",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Hamburg",
+      "location.administrative_division.first_level_division_of",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.internet_tld",
+      "de"
+    ],
+    [
+      "Bernhard Raab",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Germany",
+      "travel.travel_destination.tour_operators",
+      "Čedok"
+    ],
+    [
+      "Germany",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Mario Miethig",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Frankfurt",
+      "location.administrative_division.country",
+      "Germany"
+    ],
+    [
+      "Oliver Holzbecher",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Doris J. Heinze",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Jens-Uwe Zöphel",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "2012 World Mountain Running Championships",
+      "sports.multi_event_tournament.participating_countries",
+      "Germany"
+    ],
+    [
+      "Bonn",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Peter Bernauer",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Winter Time in Europe, 2014-2015",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "Čedok",
+      "travel.tour_operator.travel_destinations",
+      "Germany"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Germany"
+    ],
+    [
+      "Winter Time in Europe, 2010-2011",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "2010 European Summer Time"
+    ],
+    [
+      "Germany",
+      "location.country.form_of_government",
+      "Parliamentary republic"
+    ],
+    [
+      "Germany",
+      "location.country.first_level_divisions",
+      "Berlin"
+    ],
+    [
+      "Norbert Ringels",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Bavarian Language",
+      "language.human_language.countries_spoken_in",
+      "Germany"
+    ],
+    [
+      "Hamburg",
+      "location.administrative_division.country",
+      "Germany"
+    ],
+    [
+      "2010 European Summer Time",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "Borna, Leipzig",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Berlin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Germany"
+    ],
+    [
+      "Steffen Büttner",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "The Trial",
+      "media_common.netflix_title.netflix_genres",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hamburg"
+    ],
+    [
+      "Christian Backs",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "Germany"
+    ],
+    [
+      "Joerg Stadler",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.partially_contains",
+      "Alps"
+    ],
+    [
+      "Olaf Renn",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Göppingen",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Robert Zimmermann",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Sven Boy",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Berlin",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Lutz Schülbe",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Federal republic",
+      "government.form_of_government.countries",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "Torsten Gowitzke",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Elisabeth Kelan",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.administrative_divisions",
+      "Hanover"
+    ],
+    [
+      "Deutsche Mark",
+      "finance.currency.countries_formerly_used",
+      "Germany"
+    ],
+    [
+      "Georg Baselitz",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "The Russians in Germany",
+      "book.written_work.subjects",
+      "Germany"
+    ],
+    [
+      "Berlin",
+      "location.administrative_division.first_level_division_of",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Berlin"
+    ],
+    [
+      "Norbert Eder",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "Germany"
+    ],
+    [
+      "Nicholas Vince",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Philipp Zakrzewski",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Thomas Adler",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Winter Time in Europe, 2012-2013",
+      "time.event.locations",
+      "Germany"
+    ],
+    [
+      "The Trial",
+      "film.film.country",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.first_level_divisions",
+      "Hamburg"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Germany"
+    ],
+    [
+      "Klaus Fischer",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Sorbian languages",
+      "language.language_family.geographic_distribution",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Berlin",
+      "base.biblioness.bibs_location.country",
+      "Germany"
+    ],
+    [
+      "Socialist Unity Party of Germany",
+      "organization.organization.geographic_scope",
+      "Germany"
+    ],
+    [
+      "Dirk Stahmann",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Saxon, Upper Language",
+      "language.human_language.main_country",
+      "Germany"
+    ],
+    [
+      "Hamburg",
+      "base.biblioness.bibs_location.country",
+      "Germany"
+    ],
+    [
+      "Thomas Köhler",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "Winter Time in Europe, 2012-2013"
+    ],
+    [
+      "Mike Barten",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.events",
+      "2013 European Summer Time"
+    ],
+    [
+      "Matthias Baranowski",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "David Michael Katz",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Michael Klauß",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Belgium",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "Belgium",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Belgium",
+      "organization.organization_founder.organizations_founded",
+      "Council of Europe"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Battle of Langemarck",
+      "time.event.locations",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "location.country.form_of_government",
+      "Parliamentary system"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "location.location.events",
+      "Battle of Langemarck"
+    ],
+    [
+      "Belgium",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Belgium",
+      "location.country.official_language",
+      "French"
+    ],
+    [
+      "French",
+      "language.human_language.countries_spoken_in",
+      "Belgium"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "Belgium"
+    ],
+    [
+      "Council of Europe",
+      "organization.organization.founders",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "location.country.languages_spoken",
+      "French"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Belgium",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Belgium",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Belgium",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Cóndor"
+    ],
+    [
+      "Belgium",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Belgium"
+    ],
+    [
+      "2012 World Mountain Running Championships",
+      "sports.multi_event_tournament.participating_countries",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Belgium",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Belgium",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Belgium",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "2012 World Mountain Running Championships"
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "Belgium"
+    ],
+    [
+      "Parliamentary system",
+      "government.form_of_government.countries",
+      "Belgium"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Cóndor",
+      "book.newspaper.circulation_areas",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Belgium",
+      "location.country.form_of_government",
+      "Constitutional monarchy"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Belgium"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "Belgium"
+    ],
+    [
+      "Belgium",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Belgium",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Luxembourg",
+      "location.country.first_level_divisions",
+      "Diekirch District"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Luxembourg",
+      "location.country.official_language",
+      "French"
+    ],
+    [
+      "Luxembourg",
+      "location.country.first_level_divisions",
+      "Luxembourg District"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "organization.organization_founder.organizations_founded",
+      "Council of Europe"
+    ],
+    [
+      "Luxembourg",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Luxembourg",
+      "location.country.administrative_divisions",
+      "Luxembourg District"
+    ],
+    [
+      "Euro",
+      "finance.currency.countries_used",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "location.country.administrative_divisions",
+      "Diekirch District"
+    ],
+    [
+      "Luxembourg",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Luxembourg",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "Luxembourg",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Grevenmacher District"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "French",
+      "language.human_language.countries_spoken_in",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Luxembourg",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Luxembourg",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "Luxembourg",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Luxembourg",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Luxembourg",
+      "location.country.form_of_government",
+      "Parliamentary system"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "Luxembourg",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Luxembourg",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Luxembourg District"
+    ],
+    [
+      "Council of Europe",
+      "organization.organization.founders",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Luxembourg",
+      "location.country.currency_used",
+      "Euro"
+    ],
+    [
+      "Luxembourg",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Diekirch District"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Luxembourg"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Luxembourg",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Luxembourg",
+      "location.country.administrative_divisions",
+      "Grevenmacher District"
+    ],
+    [
+      "Parliamentary system",
+      "government.form_of_government.countries",
+      "Luxembourg"
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Luxembourg",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Luxembourg",
+      "location.country.form_of_government",
+      "Constitutional monarchy"
+    ],
+    [
+      "Luxembourg",
+      "location.country.languages_spoken",
+      "French"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Amasyn"
+    ],
+    [
+      "Luxembourg",
+      "location.country.first_level_divisions",
+      "Grevenmacher District"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "Luxembourg"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Luxembourg"
+    ],
+    [
+      "Luxembourg",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Luxembourg"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Schellenberg"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Planken"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Gamprin"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Gamprin"
+    ],
+    [
+      "Vaduz",
+      "location.administrative_division.country",
+      "Liechtenstein"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Vaduz"
+    ],
+    [
+      "Alps",
+      "location.location.partially_containedby",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Balzers"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Eschen"
+    ],
+    [
+      "Liechtenstein",
+      "travel.travel_destination.tourist_attractions",
+      "Gutenberg Castle"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Triesen"
+    ],
+    [
+      "Liechtenstein",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Planken"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.form_of_government",
+      "Parliamentary system"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Vaduz Castle"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Triesen"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Gutenberg Castle"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Schellenberg"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Schaan"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Vaduz"
+    ],
+    [
+      "Vaduz",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Mauren"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Eschen"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Schaan"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Vaduz",
+      "base.biblioness.bibs_location.country",
+      "Liechtenstein"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Vaduz"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Triesenberg"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Commune of Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Triesenberg"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Schellenberg"
+    ],
+    [
+      "Liechtenstein",
+      "travel.travel_destination.tourist_attractions",
+      "Vaduz Castle"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Ruggell"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "Vaduz",
+      "location.administrative_division.first_level_division_of",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Mauren"
+    ],
+    [
+      "Liechtenstein",
+      "travel.travel_destination.tourist_attractions",
+      "Kunstmuseum Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Gamprin"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Balzers"
+    ],
+    [
+      "Vaduz",
+      "location.location.containedby",
+      "Liechtenstein"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Commune of Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.capital",
+      "Vaduz"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ruggell"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Planken"
+    ],
+    [
+      "Parliamentary system",
+      "government.form_of_government.countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Triesen"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Triesenberg"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Eschen"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Triesenberg"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Mauren"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Triesen"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Ruggell"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Planken"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Schellenberg"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Kunstmuseum Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Balzers"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Balzers"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Liechtenstein",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Schaan"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Vaduz"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.form_of_government",
+      "Constitutional monarchy"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.contains",
+      "Schaan"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.administrative_divisions",
+      "Eschen"
+    ],
+    [
+      "Liechtenstein",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Liechtenstein",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Liechtenstein"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.partially_contains",
+      "Alps"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Mauren"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Gamprin"
+    ],
+    [
+      "Liechtenstein",
+      "location.country.first_level_divisions",
+      "Ruggell"
+    ],
+    [
+      "Wołyń Voivodeship - II RP",
+      "base.locations.states_and_provences.continent",
+      "Europe"
+    ],
+    [
+      "Moldova",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Slovakia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Hungary",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Romania",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Slovenia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Czech Republic",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Russia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "German Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Ukrainian Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Italian Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "The secret police and the revolution",
+      "book.written_work.subjects",
+      "Europe"
+    ],
+    [
+      "Slovakia",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Lithuanian language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Ancient Greek",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Swabian German",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Bosnia and Herzegovina"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "The Russians in Germany",
+      "book.written_work.subjects",
+      "Europe"
+    ],
+    [
+      "Kingdom of Bavaria",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Cyprus",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Finland",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Swiss German Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Denmark",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Vatican City",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Vatican City"
+    ],
+    [
+      "Saxon, Upper Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Amasyn"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Slovenia"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Czech Republic"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Hungary"
+    ],
+    [
+      "Western Europe",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Silesian, Lower Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Bosnia and Herzegovina",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.states_provinces_within",
+      "Wołyń Voivodeship - II RP"
+    ],
+    [
+      "West Germany",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Slovakia"
+    ],
+    [
+      "Ukraine",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Moldova"
+    ],
+    [
+      "Finland",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Denmark"
+    ],
+    [
+      "Moldova",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Bavarian Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Denmark",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Second Polish Republic",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Russia"
+    ],
+    [
+      "Bosnia and Herzegovina",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "organization.organization_scope.organizations_with_this_scope",
+      "European Union"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Finland"
+    ],
+    [
+      "Europe",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Belarusian language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Romania",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Vatican City",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Romania"
+    ],
+    [
+      "Polish Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Alps",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "French",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Poland",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Council of Europe"
+    ],
+    [
+      "Czech Republic",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Estonia",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Central and Eastern Europe",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Poland",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Council of Europe",
+      "organization.organization.geographic_scope",
+      "Europe"
+    ],
+    [
+      "Ukraine",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "Europe"
+    ],
+    [
+      "Eastern Europe",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Slovenia",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Estonia"
+    ],
+    [
+      "Central Europe",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Estonia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Hungary",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Poland"
+    ],
+    [
+      "Kazakhstan",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Northern Europe",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Ukraine"
+    ],
+    [
+      "University of Cambridge",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "European Union",
+      "organization.organization.geographic_scope",
+      "Europe"
+    ],
+    [
+      "Continental Celtic languages",
+      "language.language_family.geographic_distribution",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Kazakhstan"
+    ],
+    [
+      "West Germany",
+      "location.country.capital",
+      "Bonn"
+    ],
+    [
+      "m.04qnf5s",
+      "education.education.degree",
+      "Bachelor of Arts"
+    ],
+    [
+      "German Language",
+      "education.field_of_study.students_majoring",
+      "m.04qnf5s"
+    ],
+    [
+      "m.04qnf5s",
+      "education.education.major_field_of_study",
+      "Mathematics"
+    ],
+    [
+      "m.04qnf5s",
+      "education.education.major_field_of_study",
+      "German Language"
+    ],
+    [
+      "m.04qnf5s",
+      "education.education.institution",
+      "Oberlin College"
+    ],
+    [
+      "Sigurd Burckhardt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "From Prada to Nada",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Puerto Rico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "William Ackerman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "United States of America"
+    ],
+    [
+      "A Tale of Two Cities",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "United States of America",
+      "location.country.form_of_government",
+      "Federal republic"
+    ],
+    [
+      "University of North Carolina at Chapel Hill",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Angels & Demons",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "University of Wisconsin–Green Bay",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Ripon College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lowell Vizenor",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Oberlin College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Clerical Error",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "United States of America"
+    ],
+    [
+      "University of Washington",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Irmengard Rauch",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Apocalypse Now",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Cóndor"
+    ],
+    [
+      "Janet Morris",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Yiddish Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Marie Ferrarella",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "sports.sport_country.multi_event_tournaments_participated_in",
+      "2012 World Mountain Running Championships"
+    ],
+    [
+      "Egon Schwarz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "German, Standard",
+      "base.rosetta.local_name.locale",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "United States of America",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Lilian R. Furst",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Idaho",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Heart of Darkness",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Federal republic",
+      "government.form_of_government.countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "University of California, Santa Barbara",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "United States of America"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Samuel Bak",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Michigan",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "United States of America"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1896 Summer Olympics"
+    ],
+    [
+      "University of Arizona",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "1896 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "Emory University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Warsaw",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "1964 T-39 shootdown incident",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Carl McCunn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "Gordon Lish",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cóndor",
+      "book.newspaper.circulation_areas",
+      "United States of America"
+    ],
+    [
+      "2012 World Mountain Running Championships",
+      "sports.multi_event_tournament.participating_countries",
+      "United States of America"
+    ],
+    [
+      "Douglas Wiley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "A Tale of Two Cities",
+      "theater.play.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "University of Southern California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Sense and Sensibility",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Tartaros"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Asphodel"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "Ancient Greek"
+    ],
+    [
+      "hellcats",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Nidhogg",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Lost Angeles",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.organizations",
+      "Devil's Children"
+    ],
+    [
+      "Heraclitus",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Rebels in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Croesus",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Ki-gal",
+      "fictional_universe.fictional_setting.contains",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Nidhogg"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "German Language"
+    ],
+    [
+      "Legions of Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Satan",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Crusaders in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Heraclitus"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Diomedes"
+    ],
+    [
+      "Ninazu",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Vafthruthnir",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Michael"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Garmr"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "Akkadian language"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.organizations",
+      "Hell's Angels"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Hellywood"
+    ],
+    [
+      "Homer",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "DeCentral Park",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Crusaders in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Shared universe",
+      "fictional_universe.type_of_fictional_setting.settings",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Nidhogg"
+    ],
+    [
+      "Melvin Belli",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "Kigali"
+    ],
+    [
+      "Gehenna",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Diyu",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "Angel"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Michael"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Croesus"
+    ],
+    [
+      "The Little Helliad",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.literary_series_set_here",
+      "Heres in Hell series"
+    ],
+    [
+      "Homer",
+      "fictional_universe.fictional_character.places_lived",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Oliver Wendell Holmes, Jr.",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Alexander the Great"
+    ],
+    [
+      "Asphodel",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Kigali",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "The Gates of Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "fallen angels"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "common.topic.article",
+      "m.0cp962q"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Irkalla"
+    ],
+    [
+      "Devil's Children",
+      "fictional_universe.fictional_organization.appears_in_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Erra"
+    ],
+    [
+      "red-tails",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Dis"
+    ],
+    [
+      "Janet Morris",
+      "fictional_universe.fictional_universe_creator.fictional_universes_created",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Zeno of Elea",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Hebrew Language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Niccolo Machaivelli"
+    ],
+    [
+      "Niccolo Machaivelli",
+      "fictional_universe.fictional_character.places_lived",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Niccolo Machaivelli",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Fake Marilyn Monroe",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "William Dunlap Simpson"
+    ],
+    [
+      "Diomedes",
+      "fictional_universe.fictional_character.places_lived",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "Hebrew Language"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Vafthruthnir"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Explorers in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.setting_type",
+      "Shared universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Explorers in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Kur"
+    ],
+    [
+      "Battle for the Plain of Just Deserts",
+      "fictional_universe.event_in_fiction.location",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "The Little Helliad"
+    ],
+    [
+      "American English",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.created_by",
+      "Janet Morris"
+    ],
+    [
+      "hell-horses",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Yaweh",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Akkadian language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Garmr",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.literary_series_set_here",
+      "Heroes in Hell Series"
+    ],
+    [
+      "Sumerian",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "Sumerian"
+    ],
+    [
+      "Prophets in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "Italian Language"
+    ],
+    [
+      "Xenophon",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.organizations",
+      "Insecurity Service"
+    ],
+    [
+      "fallen angels",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Kings in Hell"
+    ],
+    [
+      "Michael",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "German Language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Lost Angeles"
+    ],
+    [
+      "Percy Foreman",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Niccolo Machaivelli"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Vafthruthnir"
+    ],
+    [
+      "Legions of Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Helheim"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Ninazu"
+    ],
+    [
+      "Garmr",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Erebos",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "New Hell"
+    ],
+    [
+      "hell-goats",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Rebels in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Kings in Hell"
+    ],
+    [
+      "Prophets in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Helheim",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Diomedes",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Masters in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Prophets in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Niflhel"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Garmr"
+    ],
+    [
+      "Ancient Greek",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "The Devil",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Ninazu"
+    ],
+    [
+      "The Gates of Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "Koine Greek"
+    ],
+    [
+      "Dis",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.setting_type",
+      "underworlds"
+    ],
+    [
+      "Satan",
+      "fictional_universe.fictional_character.places_lived",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Satan"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Altos"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Crusaders in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Legions of Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Legions of Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Xenophon"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Crusaders in Hell"
+    ],
+    [
+      "John Wesley Powell",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Demon",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "red-tails"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Masters in Hell"
+    ],
+    [
+      "Michael",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Oliver Wendell Holmes",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Kur",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Oliver Wendell Holmes, Jr."
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Fake Marilyn Monroe"
+    ],
+    [
+      "underworlds",
+      "fictional_universe.type_of_fictional_setting.settings",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Hellywood",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "New Hell",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "The Gates of Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Eshi"
+    ],
+    [
+      "Tartaros",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.events",
+      "Battle of Tartaros"
+    ],
+    [
+      "Harry Houdini",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Explorers in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "hell-horses"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "War in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "DeCentral Park"
+    ],
+    [
+      "Italian Language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Prophets in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Heroes in Hell Series"
+    ],
+    [
+      "Explorers in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Erra",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Kings in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "William Dunlap Simpson",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Eshi",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell Series",
+      "book.literary_series.fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Masters in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Richard Welch"
+    ],
+    [
+      "Battle of Tartaros",
+      "fictional_universe.event_in_fiction.location",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Nidhogg",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Angel",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Kings in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Diyu"
+    ],
+    [
+      "Eshi",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Egyptian language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Gehenna"
+    ],
+    [
+      "Hell",
+      "fictional_universe.type_of_fictional_setting.settings",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Pythagoras"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "The Devil"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Heroes in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Rebels in Hell"
+    ],
+    [
+      "Koine Greek",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "War in Hell",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Sheol",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Sheol"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Yaweh"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "American English"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "hell-goats"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "John Wesley Powell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "The Gates of Hell"
+    ],
+    [
+      "Alexander the Great",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "French",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Percy Foreman"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "common.topic.notable_for",
+      "g.1257k79pw"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Zeno of Elea"
+    ],
+    [
+      "Pythagoras",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "English Language"
+    ],
+    [
+      "Ninazu",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Nifelheim",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Rebels in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "Egyptian language"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contained_by",
+      "Ki-gal"
+    ],
+    [
+      "Niflhel",
+      "fictional_universe.fictional_setting.contained_by",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Homer"
+    ],
+    [
+      "War in Hell",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "English Language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "common.topic.notable_types",
+      "Fictional Universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Erebos"
+    ],
+    [
+      "Hell's Angels",
+      "fictional_universe.fictional_organization.appears_in_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Orientation Day",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "War in Hell"
+    ],
+    [
+      "Insecurity Service",
+      "fictional_universe.fictional_organization.appears_in_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Homer"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "hellcats"
+    ],
+    [
+      "Altos",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Vafthruthnir",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Melvin Belli"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Diomedes"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Orientation Day"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Oliver Wendell Holmes"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Masters in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.setting_type",
+      "Hell"
+    ],
+    [
+      "Richard Welch",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.work_of_fiction.setting",
+      "Heroes in Hell Series"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Eshi"
+    ],
+    [
+      "Heres in Hell series",
+      "book.literary_series.fictional_universe",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.events",
+      "Battle for the Plain of Just Deserts"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.languages",
+      "French"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_setting.contains",
+      "Nifelheim"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Satan"
+    ],
+    [
+      "Heroes in Hell Series",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Irkalla",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell Series",
+      "fictional_universe.work_of_fiction.part_of_these_fictional_universes",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.species",
+      "Demon"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.works_set_here",
+      "Heroes in Hell"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.locations",
+      "Heroes in Hell fictional universe"
+    ],
+    [
+      "Heroes in Hell fictional universe",
+      "fictional_universe.fictional_universe.characters",
+      "Harry Houdini"
+    ]
+  ]
+}

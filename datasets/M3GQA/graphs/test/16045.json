@@ -1,0 +1,5505 @@
+{
+  "graph_id": 16045,
+  "subgraph": [
+    [
+      "Peter James",
+      "film.film_set_designer.film_sets_designed",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.distributors",
+      "m.05t7v17"
+    ],
+    [
+      "m.0nd8cnz",
+      "award.award_nomination.nominated_for",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.distributors",
+      "m.0bd30fv"
+    ],
+    [
+      "m.05t7v17",
+      "film.film_film_distributor_relationship.film",
+      "Term of Trial"
+    ],
+    [
+      "m.0cg_cf7",
+      "film.performance.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.distributors",
+      "m.0123vbz1"
+    ],
+    [
+      "m.07zmt_c",
+      "award.award_nomination.nominated_for",
+      "Term of Trial"
+    ],
+    [
+      "m.03ltdn7",
+      "film.film_cut.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "award.ranked_item.appears_in_ranked_lists",
+      "m.0btjr4v"
+    ],
+    [
+      "Term of Trial",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Term of Trial",
+      "film.film.written_by",
+      "Peter Glenville"
+    ],
+    [
+      "Term of Trial",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Term of Trial",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "m.0bd30fv",
+      "film.film_film_distributor_relationship.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.starring",
+      "m.0h32ydj"
+    ],
+    [
+      "Term of Trial",
+      "film.film.cinematography",
+      "Oswald Morris"
+    ],
+    [
+      "Term of Trial",
+      "base.datafunzone.modified_topic.modified_in_queue",
+      "Brad Bourland Films with missing images"
+    ],
+    [
+      "Term of Trial",
+      "film.film.starring",
+      "m.03ltdnd"
+    ],
+    [
+      "Term of Trial",
+      "film.film.film_set_decoration_by",
+      "Peter James"
+    ],
+    [
+      "Peter Glenville",
+      "film.director.film",
+      "Term of Trial"
+    ],
+    [
+      "m.0btjr4v",
+      "award.ranking.item",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.directed_by",
+      "Peter Glenville"
+    ],
+    [
+      "Term of Trial",
+      "common.topic.notable_for",
+      "g.1255jpn0l"
+    ],
+    [
+      "m.03ltdnd",
+      "film.performance.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.starring",
+      "m.02tb6gd"
+    ],
+    [
+      "m.0h32ydj",
+      "film.performance.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "common.topic.article",
+      "m.0kv7c8"
+    ],
+    [
+      "m.02tb6gd",
+      "film.performance.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Term of Trial",
+      "film.film.runtime",
+      "m.03ltdn7"
+    ],
+    [
+      "Term of Trial",
+      "award.award_nominated_work.award_nominations",
+      "m.0nd8cnz"
+    ],
+    [
+      "Peter Glenville",
+      "film.writer.film",
+      "Term of Trial"
+    ],
+    [
+      "m.0123vbz1",
+      "film.film_film_distributor_relationship.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "award.award_nominated_work.award_nominations",
+      "m.07zmt_c"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Term of Trial"
+    ],
+    [
+      "Oswald Morris",
+      "film.cinematographer.film",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "film.film.starring",
+      "m.0cg_cf7"
+    ],
+    [
+      "m.0cj9674",
+      "common.webpage.topic",
+      "Term of Trial"
+    ],
+    [
+      "Term of Trial",
+      "common.topic.webpage",
+      "m.0cj9674"
+    ],
+    [
+      "Term of Trial",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Marvin's Room",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Marvin's Room"
+    ],
+    [
+      "Marvin's Room",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Marvin's Room",
+      "media_common.netflix_title.netflix_genres",
+      "Medical drama"
+    ],
+    [
+      "Marvin's Room",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Marvin's Room",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Marvin's Room",
+      "film.film.written_by",
+      "Scott McPherson"
+    ],
+    [
+      "Marvin's Room",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Scott McPherson",
+      "film.writer.film",
+      "Marvin's Room"
+    ],
+    [
+      "Marvin's Room",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Marvin's Room",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Marvin's Room",
+      "media_common.netflix_title.netflix_genres",
+      "Tearjerkers"
+    ],
+    [
+      "Marvin's Room",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Scott McPherson",
+      "film.film_story_contributor.film_story_credits",
+      "Marvin's Room"
+    ],
+    [
+      "Marvin's Room",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Marvin's Room",
+      "film.film.story_by",
+      "Scott McPherson"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0cg33v9"
+    ],
+    [
+      "Jon Hutman",
+      "film.film_production_designer.films_production_designed",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.0b9trq1"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.090915_"
+    ],
+    [
+      "Nell",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "m.09wv7w4",
+      "common.webpage.topic",
+      "Nell"
+    ],
+    [
+      "m.09wcbms",
+      "common.webpage.topic",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.distributors",
+      "m.09hxryp"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0k15w0"
+    ],
+    [
+      "Nell",
+      "common.topic.webpage",
+      "m.0chphfq"
+    ],
+    [
+      "Nell",
+      "film.film.runtime",
+      "m.0k15wh"
+    ],
+    [
+      "Tim Galvin",
+      "film.film_art_director.films_art_directed",
+      "Nell"
+    ],
+    [
+      "m.093_1n_",
+      "common.webpage.topic",
+      "Nell"
+    ],
+    [
+      "m.09dtwpr",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.film_art_direction_by",
+      "Tim Galvin"
+    ],
+    [
+      "m.0hh6s6_",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "common.topic.webpage",
+      "m.094s3lv"
+    ],
+    [
+      "Nell",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Nell",
+      "film.film.film_casting_director",
+      "Linda Lowy"
+    ],
+    [
+      "Nell",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "m.0k15wh",
+      "film.film_cut.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "award.award_winning_work.awards_won",
+      "m.0mx56td"
+    ],
+    [
+      "m.0sgjfkm",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0csb05k"
+    ],
+    [
+      "Nell",
+      "film.film.release_date_s",
+      "m.0glbnjw"
+    ],
+    [
+      "William Nicholson",
+      "film.writer.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.produced_by",
+      "Renee Missel"
+    ],
+    [
+      "m.05lmhq4",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "m.021yhh2",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.cinematography",
+      "Dante Spinotti"
+    ],
+    [
+      "Susan Lyall",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.0b70j4k"
+    ],
+    [
+      "m.0b79z8p",
+      "award.award_honor.honored_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.0n294d5"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.09dtwpr"
+    ],
+    [
+      "Nell",
+      "common.topic.article",
+      "m.01dh6n"
+    ],
+    [
+      "m.094s3lv",
+      "common.webpage.topic",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Michael Apted",
+      "film.director.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "common.topic.webpage",
+      "m.0948v5p"
+    ],
+    [
+      "Mark Handley",
+      "film.film_story_contributor.film_story_credits",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.story_by",
+      "Mark Handley"
+    ],
+    [
+      "m.0ndvqw1",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "common.topic.webpage",
+      "m.09wv6sn"
+    ],
+    [
+      "Nell",
+      "film.film.production_companies",
+      "PolyGram Filmed Entertainment"
+    ],
+    [
+      "m.0gcmvf7",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "common.topic.webpage",
+      "m.093_1n_"
+    ],
+    [
+      "Dante Spinotti",
+      "film.cinematographer.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.produced_by",
+      "Jodie Foster"
+    ],
+    [
+      "m.0cw0l8c",
+      "film.film_cut.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.release_date_s",
+      "m.0j58t7p"
+    ],
+    [
+      "m.0j58t7p",
+      "film.film_regional_release_date.film",
+      "Nell"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.written_by",
+      "Mark Handley"
+    ],
+    [
+      "m.0sgjfq9",
+      "award.award_honor.honored_for",
+      "Nell"
+    ],
+    [
+      "m.09wv6sn",
+      "common.webpage.topic",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "media_common.netflix_title.netflix_genres",
+      "Medical drama"
+    ],
+    [
+      "Nell",
+      "film.film.written_by",
+      "William Nicholson"
+    ],
+    [
+      "Nell",
+      "common.topic.webpage",
+      "m.09wcbms"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.0sgjfkm"
+    ],
+    [
+      "Jodie Foster",
+      "film.producer.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0hh6s75"
+    ],
+    [
+      "Nell",
+      "film.film.film_production_design_by",
+      "Jon Hutman"
+    ],
+    [
+      "m.0b70j4k",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.costume_design_by",
+      "Susan Lyall"
+    ],
+    [
+      "m.090915_",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "common.topic.webpage",
+      "m.09wv7w4"
+    ],
+    [
+      "m.0hh6s75",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0hh6s6_"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.0ndvqw1"
+    ],
+    [
+      "m.0948v5p",
+      "common.webpage.topic",
+      "Nell"
+    ],
+    [
+      "Samara Hutman",
+      "film.film_set_designer.film_sets_designed",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "m.0cfz_2f",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "award.award_winning_work.awards_won",
+      "m.0sgjfq9"
+    ],
+    [
+      "m.0mx56td",
+      "award.award_honor.honored_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0gcmvf7"
+    ],
+    [
+      "m.0n294d5",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "award.award_winning_work.awards_won",
+      "m.0b79z8p"
+    ],
+    [
+      "m.0chphfq",
+      "common.webpage.topic",
+      "Nell"
+    ],
+    [
+      "Linda Lowy",
+      "film.film_casting_director.films_casting_directed",
+      "Nell"
+    ],
+    [
+      "m.0b9trq1",
+      "award.award_nomination.nominated_for",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0cs1d8m"
+    ],
+    [
+      "m.059qn0l",
+      "film.film_film_distributor_relationship.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "media_common.netflix_title.netflix_genres",
+      "Tearjerkers"
+    ],
+    [
+      "PolyGram Filmed Entertainment",
+      "film.production_company.films",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.distributors",
+      "m.059qn0l"
+    ],
+    [
+      "Nell",
+      "media_common.adaptation.adapted_from",
+      "Idioglossia"
+    ],
+    [
+      "Nell",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Nell",
+      "film.film.music",
+      "Mark Isham"
+    ],
+    [
+      "Nell",
+      "film.film.directed_by",
+      "Michael Apted"
+    ],
+    [
+      "Nell",
+      "award.award_nominated_work.award_nominations",
+      "m.021yhh2"
+    ],
+    [
+      "m.0csb05k",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "m.0glbnjw",
+      "film.film_regional_release_date.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "award.ranked_item.appears_in_ranked_lists",
+      "m.0bvdh52"
+    ],
+    [
+      "m.0k15vw",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.runtime",
+      "m.0cw0l8c"
+    ],
+    [
+      "Mark Isham",
+      "music.artist.album",
+      "Nell"
+    ],
+    [
+      "m.0cs1d8m",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0cfz_2f"
+    ],
+    [
+      "Nell",
+      "film.film.soundtrack",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.0k15vw"
+    ],
+    [
+      "Nell",
+      "common.topic.notable_for",
+      "g.125g27m07"
+    ],
+    [
+      "m.0bvdh52",
+      "award.ranking.item",
+      "Nell"
+    ],
+    [
+      "m.09hxryp",
+      "film.film_film_distributor_relationship.film",
+      "Nell"
+    ],
+    [
+      "m.0cg33v9",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Mark Handley",
+      "film.writer.film",
+      "Nell"
+    ],
+    [
+      "m.0k15w0",
+      "film.performance.film",
+      "Nell"
+    ],
+    [
+      "Nell",
+      "film.film.starring",
+      "m.05lmhq4"
+    ],
+    [
+      "Nell",
+      "film.film.film_set_decoration_by",
+      "Samara Hutman"
+    ],
+    [
+      "Peter James",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Peter James",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Peter James",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Peter James",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Peter James",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "m.05t7v17",
+      "film.film_film_distributor_relationship.distributor",
+      "Warner Bros. Entertainment"
+    ],
+    [
+      "Jim Clark",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "The Pumpkin Eater",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "m.03wzp23",
+      "award.award_honor.award_winner",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "people.person.profession",
+      "Film director"
+    ],
+    [
+      "Vera Drake",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Young Toscanini"
+    ],
+    [
+      "The Innocents",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "m.0cqdd_6",
+      "common.webpage.topic",
+      "Jim Clark"
+    ],
+    [
+      "The Trench",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Surprise Package",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "The War Wagon",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Young Toscanini",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Frog Prince"
+    ],
+    [
+      "Meeting Venus",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Copycat"
+    ],
+    [
+      "The Newton Boys",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Boston",
+      "location.location.people_born_here",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Memphis Belle"
+    ],
+    [
+      "The Grass Is Greener",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Radio Inside"
+    ],
+    [
+      "The Last Remake of Beau Geste",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Marathon Man",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Happy-Go-Lucky"
+    ],
+    [
+      "m.0h11bnc",
+      "film.performance.actor",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "City by the Sea"
+    ],
+    [
+      "m.0gc0l4k",
+      "film.performance.actor",
+      "Jim Clark"
+    ],
+    [
+      "m.0c1dq95",
+      "award.award_nomination.award_nominee",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Day of the Locust"
+    ],
+    [
+      "Jim Clark",
+      "award.award_nominee.award_nominations",
+      "m.0c1dp_b"
+    ],
+    [
+      "Jim Clark",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Meeting Venus"
+    ],
+    [
+      "Jim Clark",
+      "people.person.ethnicity",
+      "British people"
+    ],
+    [
+      "Jim Clark",
+      "award.award_winner.awards_won",
+      "m.03x7mlb"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Last Remake of Beau Geste"
+    ],
+    [
+      "The Jackal",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Copycat",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "award.award_nominee.award_nominations",
+      "m.0c1dq95"
+    ],
+    [
+      "City by the Sea",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Onegin",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Onegin"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Privates on Parade"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Surprise Package"
+    ],
+    [
+      "Jim Clark",
+      "people.person.places_lived",
+      "m.0ngmnss"
+    ],
+    [
+      "Every Home Should Have One",
+      "film.film.directed_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "freebase.valuenotation.is_reviewed",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Madhouse",
+      "film.film.directed_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The War Wagon"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Opal Dream"
+    ],
+    [
+      "A Good Man in Africa",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Valentine's Day"
+    ],
+    [
+      "Jim Clark",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "m.0c1dp_b",
+      "award.award_nomination.award_nominee",
+      "Jim Clark"
+    ],
+    [
+      "m.03x7hpw",
+      "award.award_honor.award_winner",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Darling"
+    ],
+    [
+      "Radio Inside",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.actor.film",
+      "m.0vyh8j0"
+    ],
+    [
+      "Jim Clark",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Trench"
+    ],
+    [
+      "Jim Clark",
+      "award.award_nominee.award_nominations",
+      "m.0qfyy6n"
+    ],
+    [
+      "Jim Clark",
+      "people.person.profession",
+      "Film Editor"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The World Is Not Enough"
+    ],
+    [
+      "The World Is Not Enough",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Grass Is Greener"
+    ],
+    [
+      "Rentadick",
+      "film.film.directed_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "A Good Man in Africa"
+    ],
+    [
+      "Jim Clark",
+      "film.director.film",
+      "Every Home Should Have One"
+    ],
+    [
+      "Jim Clark",
+      "film.actor.film",
+      "m.0h11bnc"
+    ],
+    [
+      "Jim Clark",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jim Clark",
+      "common.topic.webpage",
+      "m.0cqdd_6"
+    ],
+    [
+      "Yanks",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.actor.film",
+      "m.0gc0l4k"
+    ],
+    [
+      "Privates on Parade",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "award.award_winner.awards_won",
+      "m.03wzp23"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Vera Drake"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Killing Fields"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "This Boy's Life"
+    ],
+    [
+      "Jim Clark",
+      "award.award_nominee.award_nominations",
+      "m.09y2qwq"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Gathering Storm"
+    ],
+    [
+      "Jim Clark",
+      "common.topic.notable_types",
+      "Film editor"
+    ],
+    [
+      "Jim Clark",
+      "people.person.place_of_birth",
+      "Boston"
+    ],
+    [
+      "Flea Circus - Montage",
+      "film.film.directed_by",
+      "Jim Clark"
+    ],
+    [
+      "m.0l90_zw",
+      "people.marriage.spouse",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.director.film",
+      "Flea Circus - Montage"
+    ],
+    [
+      "Jim Clark",
+      "film.actor.dubbing_performances",
+      "m.0ngl5yw"
+    ],
+    [
+      "Jim Clark",
+      "common.topic.article",
+      "m.03crcpy"
+    ],
+    [
+      "The Frog Prince",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Newton Boys"
+    ],
+    [
+      "Jim Clark",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Jackal"
+    ],
+    [
+      "Agatha",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Memphis Belle",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Charade",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Virgin Territory",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Yanks"
+    ],
+    [
+      "m.0ngl5yw",
+      "film.dubbing_performance.actor",
+      "Jim Clark"
+    ],
+    [
+      "m.0qfyy6n",
+      "award.award_nomination.award_nominee",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Virgin Territory"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Visions of Eight"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Mission"
+    ],
+    [
+      "Jim Clark",
+      "people.person.profession",
+      "Voice Actor"
+    ],
+    [
+      "Jim Clark",
+      "award.award_winner.awards_won",
+      "m.03x7hpw"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Pumpkin Eater"
+    ],
+    [
+      "m.0gvww24",
+      "award.award_honor.award_winner",
+      "Jim Clark"
+    ],
+    [
+      "m.0qhb53t",
+      "award.award_nomination.award_nominee",
+      "Jim Clark"
+    ],
+    [
+      "m.0vyh8j0",
+      "film.performance.actor",
+      "Jim Clark"
+    ],
+    [
+      "Visions of Eight",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Happy-Go-Lucky",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "award.award_nominee.award_nominations",
+      "m.0qhb53t"
+    ],
+    [
+      "m.0c1dq1h",
+      "award.award_nomination.award_nominee",
+      "Jim Clark"
+    ],
+    [
+      "This Boy's Life",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "people.person.spouse_s",
+      "m.0l90_zw"
+    ],
+    [
+      "Stone",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "m.0ngmnss",
+      "people.place_lived.person",
+      "Jim Clark"
+    ],
+    [
+      "The Day of the Locust",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.director.film",
+      "Madhouse"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Charade"
+    ],
+    [
+      "Jim Clark",
+      "award.award_winner.awards_won",
+      "m.0gvww24"
+    ],
+    [
+      "Jim Clark",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "The Gathering Storm",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "m.03x7mlb",
+      "award.award_honor.award_winner",
+      "Jim Clark"
+    ],
+    [
+      "The Mission",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Stone"
+    ],
+    [
+      "Opal Dream",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "award.award_nominee.award_nominations",
+      "m.0c1dq1h"
+    ],
+    [
+      "Darling",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "The Killing Fields",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "common.topic.notable_for",
+      "g.1256qv3ps"
+    ],
+    [
+      "Jim Clark",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Marathon Man"
+    ],
+    [
+      "m.09y2qwq",
+      "award.award_nomination.award_nominee",
+      "Jim Clark"
+    ],
+    [
+      "Jim Clark",
+      "film.director.film",
+      "Rentadick"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "The Innocents"
+    ],
+    [
+      "Jim Clark",
+      "film.editor.film",
+      "Agatha"
+    ],
+    [
+      "Valentine's Day",
+      "film.film.edited_by",
+      "Jim Clark"
+    ],
+    [
+      "Peter Glenville",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Peter Glenville",
+      "people.person.religion",
+      "Catholicism"
+    ],
+    [
+      "Peter Glenville",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Peter Glenville",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Peter Glenville",
+      "people.person.profession",
+      "Film director"
+    ],
+    [
+      "Peter Glenville",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "m.0ngl5yw",
+      "film.dubbing_performance.language",
+      "English Language"
+    ],
+    [
+      "Meeting Venus",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "New Zealand"
+    ],
+    [
+      "Tracers",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Republic of Ireland"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Cheaper by the Dozen 2",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Jackal",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Copycat",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Shadow Fury",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Taylor Swift",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Ulalume: Howling at New Moon",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Miley Cyrus",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Grown Ups 2",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Republic of Ireland",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Kristen Stewart",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "British people",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Young Toscanini",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "United Kingdom",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Yanks",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "South Africa"
+    ],
+    [
+      "Japan",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "New Zealand"
+    ],
+    [
+      "Tim Galvin",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "The Gathering Storm",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "New Zealand",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Australia"
+    ],
+    [
+      "The Day of the Locust",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Republic of Ireland",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Madhouse",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Agatha",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Summerland",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "American English",
+      "language.language_dialect.language",
+      "English Language"
+    ],
+    [
+      "The Trench",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "William Boyd",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Abduction",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Australia",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Vera Drake",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "The World Is Not Enough",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Adventures of Sharkboy and Lavagirl",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "My Wife and Kids",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Ridiculous Six",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "A Good Man in Africa",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Nathanael West",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Love, Inc.",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Rentadick",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bruce Berman",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Israel"
+    ],
+    [
+      "Happy-Go-Lucky",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Run the Tide",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "What's New, Scooby-Doo?",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Last Remake of Beau Geste",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The War Wagon",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "William Stadiem",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Beau Geste",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Opal Dream",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Stone",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Marathon Man",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "The Gathering Storm",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "White British",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "The Day of the Locust",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Privates on Parade",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Enya",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Incarceron",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Australia"
+    ],
+    [
+      "The Killing Fields",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "My Own Worst Enemy",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "He's a Bully, Charlie Brown",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.dialects",
+      "American English"
+    ],
+    [
+      "New Zealand",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Eclipse",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Victoria Justice",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Onegin",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Field of Dreams 2: Lockout",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Japan"
+    ],
+    [
+      "The Newton Boys",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Turn of the Screw",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Marathon Man",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Valentine's Day",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Frog Prince",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Pumpkin Eater",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Bernie Mac Show",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Indigenous peoples of the Americas",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Charade",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "South Africa",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "The Mission",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Darling",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Memphis Belle",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Every Home Should Have One",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Surprise Package",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Innocents",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Duck Dodgers",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Republic of Ireland"
+    ],
+    [
+      "The Grass Is Greener",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Radio Inside",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Israel",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "This Boy's Life",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Visions of Eight",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Twilight",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mike Leigh",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "City by the Sea",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "South Africa",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Virgin Territory",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Sequel",
+      "rdf-schema#range",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Art direction by"
+    ],
+    [
+      "Sequel",
+      "type.property.expected_type",
+      "Film"
+    ],
+    [
+      "Cinematography",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Personal appearances"
+    ],
+    [
+      "Art direction by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Radio Inside",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Shadow Fury",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Jackal",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Music by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Baoh",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Eclipse",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.domain.types",
+      "Film"
+    ],
+    [
+      "Film editor",
+      "type.type.domain",
+      "Film"
+    ],
+    [
+      "Costume design by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "The Trench",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Produced by"
+    ],
+    [
+      "Film Series",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Virgin Territory",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Sequel"
+    ],
+    [
+      "Field of Dreams 2: Lockout",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Films edited",
+      "type.property.expected_type",
+      "Film"
+    ],
+    [
+      "The Last Remake of Beau Geste",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Languages",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Prequel",
+      "rdf-schema#range",
+      "Film"
+    ],
+    [
+      "Sequel",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "The War Wagon",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "This Boy's Life",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Executive produced by"
+    ],
+    [
+      "Twilight",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Frog Prince",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Pumpkin Eater",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Initial release date",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "The Day of the Locust",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "A Good Man in Africa",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Edited by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Directed by"
+    ],
+    [
+      "Young Toscanini",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Screenplay by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Story by"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Screenplay by"
+    ],
+    [
+      "Prequel",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Visions of Eight",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Country of origin"
+    ],
+    [
+      "Art direction by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Music by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Rentadick",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Agatha",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Edited by"
+    ],
+    [
+      "Cinematography",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Directed by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Story by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Surprise Package",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Sequel",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Personal appearances",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Languages"
+    ],
+    [
+      "Country of origin",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Incarceron",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Prequel",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Beau Geste",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Films edited",
+      "rdf-schema#range",
+      "Film"
+    ],
+    [
+      "Yanks",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Music by"
+    ],
+    [
+      "Opal Dream",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Produced by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Executive produced by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Valentine's Day",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Edited by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Languages",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Indianapolis 500: The 60s",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Darling",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Story by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.expected_by",
+      "Films edited"
+    ],
+    [
+      "Vera Drake",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.domain.types",
+      "Film editor"
+    ],
+    [
+      "Film",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Meeting Venus",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Personal appearances",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Cinematography"
+    ],
+    [
+      "Film",
+      "type.type.expected_by",
+      "Sequel"
+    ],
+    [
+      "He's a Bully, Charlie Brown",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Stone",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Adventures of Sharkboy and Lavagirl",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Grass Is Greener",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Tracers",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Newton Boys",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.domain",
+      "Film"
+    ],
+    [
+      "Executive produced by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Directed by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Flea Circus - Montage",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Costume design by"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Film Series"
+    ],
+    [
+      "Onegin",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.expected_by",
+      "Prequel"
+    ],
+    [
+      "Madhouse",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Country of origin",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Screenplay by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Costume design by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film Series",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Initial release date"
+    ],
+    [
+      "Copycat",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Initial release date",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Memphis Belle",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Privates on Parade",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Every Home Should Have One",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The World Is Not Enough",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "City by the Sea",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Northern Lights",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Prequel",
+      "type.property.expected_type",
+      "Film"
+    ],
+    [
+      "Brad Bourland Films with missing images",
+      "base.datafunzone.work_queue.topic_type",
+      "Film"
+    ],
+    [
+      "Cheaper by the Dozen 2",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Happy-Go-Lucky",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Prequel"
+    ],
+    [
+      "Produced by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Oswald Morris",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Oswald Morris",
+      "award.award_winner.awards_won",
+      "m.0ncmnwh"
+    ],
+    [
+      "Oswald Morris",
+      "award.award_nominee.award_nominations",
+      "m.0ncmp0d"
+    ],
+    [
+      "The Pumpkin Eater",
+      "film.film.cinematography",
+      "Oswald Morris"
+    ],
+    [
+      "Oswald Morris",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Oswald Morris",
+      "film.cinematographer.film",
+      "The Pumpkin Eater"
+    ],
+    [
+      "m.0ncmnwh",
+      "award.award_honor.award_winner",
+      "Oswald Morris"
+    ],
+    [
+      "m.0ncmp0d",
+      "award.award_nomination.award_nominee",
+      "Oswald Morris"
+    ],
+    [
+      "Michael Apted",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Robert Bolt",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Joseph Janni",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The World Is Not Enough",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Cornish Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "J.J. Barry",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Gathering Storm",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Every Home Should Have One",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "g.122mr0bj"
+    ],
+    [
+      "Hilary McKay",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Ridley Scott",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Wilfred Shingleton",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Johnny Dankworth",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Yanks",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "The Grass Is Greener",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "London",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "Darling",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "The Innocents",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Hugh Whitemore",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Robert Webb",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Ralph Fiennes",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "John Mortimer",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Michael Caton-Jones",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Christopher Challis",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Madhouse",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Marty Feldman",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Dick Pope",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Stuart Craig",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Mission",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Alan Hume",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Scottish Gaelic",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Freddie Francis",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Denis Norden",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Irish",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Rentadick",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "The Mission",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Duncan Reid",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Neal Purvis",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Arthur Wooster",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Shirley Ann Russell",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Welsh Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Judy Moorcroft",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Simon Clark",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "m.0s8sdpk",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "Benjamin Frankel",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Blackfriars Theatre and Arts Centre",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Martha Fiennes",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Innocents",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Albert Fennell",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Killing Fields",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "John Cameron",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Brian Morris",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "A Good Man in Africa",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "The Trench",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "The Jackal",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Sophie Harris",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Happy-Go-Lucky",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Virgin Territory",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Privates on Parade",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Tony Scott",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Scots Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Hannah Macleod",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Onegin",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Vera Drake",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "William Nicholson",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Darling",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Remi Adefarasin",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Harold Pinter",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Opal Dream",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Scots Language"
+    ],
+    [
+      "Kensington",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Manx Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Memphis Belle",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Roland Joffé",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "John Westland Marston",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Madhouse",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "John Schlesinger",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Grass Is Greener",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Frederic Raphael",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Pumpkin Eater",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Jacqueline Durran",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Lindy Hemming",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Iain Smith",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Alan Moulder",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Colin Welland",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Stuart Craig",
+      "people.person.place_of_birth",
+      "United Kingdom"
+    ],
+    [
+      "The Frog Prince",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "United Kingdom",
+      "location.country.capital",
+      "London"
+    ],
+    [
+      "Scots Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Cornish Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "The Gathering Storm",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Jack Manning",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Walter Lassally",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Trench",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Mike Leigh",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Peter Cattaneo",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Killing Fields",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Chris Menges",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "London",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "John Du Prez",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Ian Wilson",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Cornish Language"
+    ],
+    [
+      "Happy-Go-Lucky",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Henry James",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Pumpkin Eater",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Simon Channing Williams",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "George Fenton",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Dick Bush",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Lincolnshire",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "Magnus Fiennes",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Denis King",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Hugh Williams",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Welsh Language"
+    ],
+    [
+      "Boston",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Penelope Mortimer",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Irish"
+    ],
+    [
+      "Agatha",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Vera Drake",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Meeting Venus",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Gerry Fisher",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Robert Pattinson",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "David Leland",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "William Boyd",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Welsh Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Gerry O'Hara",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Jack Clayton",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Scottish Gaelic"
+    ],
+    [
+      "Kathleen Tynan",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Richard Macdonald",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Peter Nichols",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Maggie Gray",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "David Puttnam",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Scottish Gaelic",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "London",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Kenneth Higgins",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "George Harrison",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Boston College",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Ned Sherrin",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Barry Took",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Crista Cullen",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "David Watkin",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Lincolnshire",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "m.0cj9674",
+      "common.webpage.in_index",
+      "Blissful Master Index"
+    ],
+    [
+      "m.0cj9674",
+      "common.webpage.category",
+      "Curated Topic"
+    ],
+    [
+      "Drama",
+      "media_common.media_genre.child_genres",
+      "Political drama"
+    ],
+    [
+      "Beau Geste",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Romance Film",
+      "media_common.media_genre.parent_genre",
+      "Drama"
+    ],
+    [
+      "Young Toscanini",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Incarceron",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Radio Inside",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "This Boy's Life",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Memphis Belle",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Day of the Locust",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Eclipse",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "City by the Sea",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Virgin Territory",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Gathering Storm",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Summerland",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Costume drama",
+      "media_common.media_genre.parent_genre",
+      "Drama"
+    ],
+    [
+      "Political drama",
+      "media_common.media_genre.parent_genre",
+      "Drama"
+    ],
+    [
+      "A Good Man in Africa",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Vera Drake",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Radio Inside",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Opal Dream",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Marathon Man",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Mission",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Mission",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Marathon Man",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Newton Boys",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Newton Boys",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Killing Fields",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Happy-Go-Lucky",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Drama",
+      "media_common.media_genre.child_genres",
+      "Romance Film"
+    ],
+    [
+      "A Good Man in Africa",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Memphis Belle",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Drama",
+      "media_common.media_genre.child_genres",
+      "Costume drama"
+    ],
+    [
+      "Vera Drake",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Twilight",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Darling",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Gathering Storm",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "City by the Sea",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Opal Dream",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Killing Fields",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Yanks",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Darling",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Grass Is Greener",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Onegin",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Trench",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "My Own Worst Enemy",
+      "tv.tv_program.genre",
+      "Drama"
+    ],
+    [
+      "Stone",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Pumpkin Eater",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Meeting Venus",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Comedy",
+      "base.kinometric.genre.incompatible_genres",
+      "Drama"
+    ],
+    [
+      "This Boy's Life",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Drama",
+      "base.kinometric.genre.incompatible_genres",
+      "Comedy"
+    ],
+    [
+      "The Day of the Locust",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Trench",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Onegin",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Gathering Storm",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Eclipse",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Agatha",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Pumpkin Eater",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Twilight",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Yanks",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Michael Small",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Gavrik Losey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0l3zv6y",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Newton Boys",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "This Boy's Life",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Burt Kennedy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tracers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Day of the Locust",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Tim Galvin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cheaper by the Dozen 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "Henry Mancini",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The World Is Not Enough",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Rick Simpson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ileen Maisel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Henry James",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Stan Margulies",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania German language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Liliana Mumy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lester Persky",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Scott McPherson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Yanks",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Milton Subotsky",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Wayne Allan Rice",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Grand Rapids",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arcadia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arcadia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "The Gathering Storm",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Gil Goldstein",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ray Moyer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Visions of Eight",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Claude Stanush",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Eclipse",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mackenzie Foy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Billy Hopkins",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dede Allen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Garry Marshall",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Conrad L. Hall",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jon Peters",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Harry W. Gerstad",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0cc12m3",
+      "film.film_cut.film_release_region",
+      "United States of America"
+    ],
+    [
+      "2011 MTV Movie Awards",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "Dimitri Tiomkin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Miloš Forman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Marty Feldman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0s8sdrc",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Gary Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Mary Tricia Wood",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "PG-13 (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Albert Brenner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Adventures of Sharkboy and Lavagirl",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "George Gaines",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "My Wife and Kids",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Agatha",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Meeting Venus",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Jackal",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Copycat",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "Peter Guber",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Taylor Dooley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "What's New, Scooby-Doo?",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Walter Bernstein",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alyson Stoner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Adrian Gorton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Sidney Beckerman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "French, Cajun Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Duck Dodgers",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Frederic Raphael",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Abduction",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Johnny Mandel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "The Frog Prince",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mark Isham",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Stanley Donen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Robert Getchell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Waldo Salt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "R (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Twilight",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Selena Gomez",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The War Wagon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Incarceron",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "George Hopkins",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Nick and Jessica Variety Hour",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "m.0l3zpkm",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Victoria Justice",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jerome Hellman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0jsnwrp",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Sharon Harel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Grown Ups 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ulalume: Howling at New Moon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Stone",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0gl9sqv",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "My Own Worst Enemy",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Art Linson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "William Stadiem",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tobias Wolff",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Richard Hornung",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "David L. Wolper",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Samuel Z. Arkoff",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Radio Inside",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Summerland",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Mark Lombardo",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Beau Geste",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Carter Burwell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tom Rosenberg",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Memphis Belle",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jenna Boyd",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Diana Pokorny",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bruce Green",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Truman Capote",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Bernie Mac Show",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "John Debney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Run the Tide",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "William H. Clothier",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Nathanael West",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "G (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "John Fiedler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "John Morris",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jerry Bruckheimer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Surprise Package",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Ridiculous Six",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "m.0jspg_7",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Ileen Maisel",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Robert Evans",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arthur Schmidt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Clair Huffaker",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Richard Bellingham",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Innocents",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Shadow Fury",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Last Remake of Beau Geste",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Gary Lucchesi",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arthur Penn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Kerry Barden",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "City by the Sea",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Catherine Wyler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Madhouse",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Marathon Man",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "George Neville Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0cc12l9",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Sidney Beckerman",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Max Rosenberg",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kristen Stewart",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Chuck Pfarrer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cayden Boyd",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Leslie Erganian",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Taylor Swift",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "He's a Bully, Charlie Brown",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Jeffrey Bell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "William Archibald",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Peter Stone",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Taylor Lautner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ann Roth",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Field of Dreams 2: Lockout",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "PG (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Young Toscanini",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Stephen J. Lineweaver",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Rob Reiner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Charade",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Miley Cyrus",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Richard Linklater",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0jsp5bn",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Katherine Fugate",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jerry Weintraub",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Valentine's Day",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "A Good Man in Africa",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ray Di Carlo",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Love, Inc.",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Jodie Foster",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Flea Circus - Montage",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Northern Lights",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Onegin",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0h5r0wl",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Nikki Reed",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York City"
+    ],
+    [
+      "Grand Rapids",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "William Goldman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Gathering Storm",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Scott McPherson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Scott McPherson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Scott McPherson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Scott McPherson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Scott McPherson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Scott McPherson",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Scott McPherson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "The World Is Not Enough",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Eclipse",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Abduction",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Twilight",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Valentine's Day",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Memphis Belle",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "The Newton Boys",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Grown Ups 2",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "The Gathering Storm",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Charade",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Jackal",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Twilight",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Innocents",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Copycat",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Initial release date",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Eclipse",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Initial release date",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Valentine's Day",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Copycat",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Jackal",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Eclipse",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Charade",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Twilight",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Innocents",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Valentine's Day",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Gathering Storm",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "This Boy's Life",
+      "media_common.netflix_title.netflix_genres",
+      "Tearjerkers"
+    ],
+    [
+      "The Pumpkin Eater",
+      "media_common.netflix_title.netflix_genres",
+      "Tearjerkers"
+    ],
+    [
+      "Jon Hutman",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jon Hutman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jon Hutman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jon Hutman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jon Hutman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mark Isham",
+      "award.award_nominee.award_nominations",
+      "m.0b9trq1"
+    ],
+    [
+      "m.0b9trq1",
+      "award.award_nomination.award_nominee",
+      "Mark Isham"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_nominee.award_nominations",
+      "m.090915_"
+    ],
+    [
+      "m.090915_",
+      "award.award_nomination.award_nominee",
+      "Jodie Foster"
+    ],
+    [
+      "m.09hxryp",
+      "film.film_film_distributor_relationship.distributor",
+      "PolyGram Filmed Entertainment"
+    ],
+    [
+      "PolyGram Filmed Entertainment",
+      "film.film_distributor.films_distributed",
+      "m.09hxryp"
+    ],
+    [
+      "m.0chphfq",
+      "common.webpage.in_index",
+      "Blissful Master Index"
+    ],
+    [
+      "m.0chphfq",
+      "common.webpage.category",
+      "Curated Topic"
+    ],
+    [
+      "Tim Galvin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "m.09dtwpr",
+      "award.award_nomination.award_nominee",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_nominee.award_nominations",
+      "m.09dtwpr"
+    ],
+    [
+      "Linda Lowy",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Linda Lowy",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Linda Lowy",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Linda Lowy",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Linda Lowy",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Linda Lowy",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "m.0mx56td",
+      "award.award_honor.award_winner",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_winner.awards_won",
+      "m.0mx56td"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_nominee.award_nominations",
+      "m.0sgjfkm"
+    ],
+    [
+      "m.0sgjfkm",
+      "award.award_nomination.award_nominee",
+      "Jodie Foster"
+    ],
+    [
+      "William Nicholson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "William Nicholson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "William Nicholson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "William Nicholson",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "William Nicholson",
+      "people.person.ethnicity",
+      "British people"
+    ],
+    [
+      "William Nicholson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "William Nicholson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "William Nicholson",
+      "people.person.profession",
+      "Film director"
+    ],
+    [
+      "m.021yhh2",
+      "award.award_nomination.award_nominee",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_nominee.award_nominations",
+      "m.021yhh2"
+    ],
+    [
+      "Dante Spinotti",
+      "people.person.nationality",
+      "Italy"
+    ],
+    [
+      "Dante Spinotti",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Dante Spinotti",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Dante Spinotti",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dante Spinotti",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Dante Spinotti",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Dante Spinotti",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Dante Spinotti",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Susan Lyall",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "m.0b70j4k",
+      "award.award_nomination.award_nominee",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_nominee.award_nominations",
+      "m.0b70j4k"
+    ],
+    [
+      "m.0b79z8p",
+      "award.award_honor.award_winner",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_winner.awards_won",
+      "m.0b79z8p"
+    ],
+    [
+      "m.0n294d5",
+      "award.award_nomination.award_nominee",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_nominee.award_nominations",
+      "m.0n294d5"
+    ],
+    [
+      "Michael Apted",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael Apted",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Agatha",
+      "film.film.directed_by",
+      "Michael Apted"
+    ],
+    [
+      "Michael Apted",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Michael Apted",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "The World Is Not Enough",
+      "film.film.directed_by",
+      "Michael Apted"
+    ],
+    [
+      "Michael Apted",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Michael Apted",
+      "people.person.profession",
+      "Film director"
+    ],
+    [
+      "Michael Apted",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michael Apted",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Michael Apted",
+      "film.director.film",
+      "The World Is Not Enough"
+    ],
+    [
+      "Michael Apted",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Michael Apted",
+      "film.director.film",
+      "Agatha"
+    ],
+    [
+      "Mark Handley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mark Handley",
+      "book.author.works_written",
+      "Idioglossia"
+    ],
+    [
+      "m.0ndvqw1",
+      "award.award_nomination.award_nominee",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_nominee.award_nominations",
+      "m.0ndvqw1"
+    ],
+    [
+      "PolyGram Filmed Entertainment",
+      "organization.organization.founders",
+      "Peter Guber"
+    ],
+    [
+      "Peter Guber",
+      "organization.organization_founder.organizations_founded",
+      "PolyGram Filmed Entertainment"
+    ],
+    [
+      "Jodie Foster",
+      "people.person.profession",
+      "Voice Actor"
+    ],
+    [
+      "Jodie Foster",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Jodie Foster",
+      "film.actor.film",
+      "m.0k15vw"
+    ],
+    [
+      "Jodie Foster",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Jodie Foster",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jodie Foster",
+      "people.person.languages",
+      "French"
+    ],
+    [
+      "Jodie Foster",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "m.0sgjfq9",
+      "award.award_honor.award_winner",
+      "Jodie Foster"
+    ],
+    [
+      "Jodie Foster",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jodie Foster",
+      "award.award_winner.awards_won",
+      "m.0sgjfq9"
+    ],
+    [
+      "Jodie Foster",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jodie Foster",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Jodie Foster",
+      "people.person.profession",
+      "Film director"
+    ],
+    [
+      "Jodie Foster",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "m.0k15vw",
+      "film.performance.actor",
+      "Jodie Foster"
+    ],
+    [
+      "Samara Hutman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Samara Hutman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Samara Hutman",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Samara Hutman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Samara Hutman",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Mark Isham",
+      "freebase.valuenotation.is_reviewed",
+      "Profession"
+    ],
+    [
+      "Mark Isham",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Mark Isham",
+      "freebase.valuenotation.is_reviewed",
+      "Spouse (or domestic partner)"
+    ],
+    [
+      "Mark Isham",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mark Isham",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Mark Isham",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Mark Isham",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Mark Isham",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "Mark Isham",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ]
+  ]
+}

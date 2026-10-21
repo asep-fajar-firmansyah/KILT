@@ -1,0 +1,5220 @@
+{
+  "graph_id": 8250,
+  "subgraph": [
+    [
+      "American Airlines",
+      "aviation.airline.hubs",
+      "O'Hare International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "American Airlines"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.05n8d7g",
+      "aviation.airline_airport_presence.airline",
+      "American Airlines"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "American Airlines"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.hubs",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "American Airlines"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "American Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.airports_served",
+      "m.05n8d7g"
+    ],
+    [
+      "American Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "American Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "American Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "American Airlines"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "American Airlines",
+      "aviation.airline.hubs",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "US Airways",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "US Airways",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "US Airways",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "US Airways"
+    ],
+    [
+      "US Airways",
+      "aviation.airline.hubs",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "US Airways",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "US Airways"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.hub_for",
+      "Ameriflight"
+    ],
+    [
+      "Ameriflight",
+      "aviation.airline.hubs",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Ameriflight"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Ameriflight"
+    ],
+    [
+      "Ameriflight",
+      "aviation.airline.hubs",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "Ameriflight"
+    ],
+    [
+      "Ameriflight",
+      "aviation.airline.hubs",
+      "Portland International Airport"
+    ],
+    [
+      "Ameriflight",
+      "aviation.airline.hubs",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "Ameriflight"
+    ],
+    [
+      "Ameriflight",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Ameriflight",
+      "aviation.airline.hubs",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "AirTran Airways"
+    ],
+    [
+      "AirTran Airways",
+      "aviation.airline.airports_served",
+      "m.05n8d4q"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.focus_city_for",
+      "AirTran Airways"
+    ],
+    [
+      "AirTran Airways",
+      "aviation.airline.hubs",
+      "General Mitchell International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "AirTran Airways"
+    ],
+    [
+      "m.05n8d4q",
+      "aviation.airline_airport_presence.airline",
+      "AirTran Airways"
+    ],
+    [
+      "AirTran Airways",
+      "aviation.airline.hubs",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "AirTran Airways",
+      "aviation.airline.focus_cities",
+      "Orlando International Airport"
+    ],
+    [
+      "AirTran Airways",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "AirTran Airways",
+      "aviation.airline.hubs",
+      "Orlando International Airport"
+    ],
+    [
+      "m.09hxv3p",
+      "organization.organization_relationship.parent",
+      "AirTran Airways"
+    ],
+    [
+      "AirTran Airways",
+      "organization.organization.child",
+      "m.09hxv3p"
+    ],
+    [
+      "AirTran Airways",
+      "aviation.airline.focus_cities",
+      "General Mitchell International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "AirTran Airways"
+    ],
+    [
+      "AirTran Airways",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "AirTran Airways"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Chautauqua Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Courtyard Chicago Deerfield"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Courtyard Chicago O'Hare"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "United Airlines"
+    ],
+    [
+      "Shimer College",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "m.03l9zdh",
+      "common.webpage.topic",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "DuPage County"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.subjects",
+      "ORD"
+    ],
+    [
+      "O'Hare International Airport",
+      "metropolitan_transit.transit_line.service_type",
+      "Limousine"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Trans World Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Envoy Air"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Chicago Marriott Oakbrook"
+    ],
+    [
+      "Hyatt Regency Chicago",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "Pan American World Airways",
+      "aviation.airline.focus_cities",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "GoJet Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Chicago Marriott Suites O'Hare"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.number_of_passengers",
+      "m.0jvp0hj"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Mesa Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Courtyard Chicago Lincolnshire"
+    ],
+    [
+      "O'Hare International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.image",
+      "Towers2566"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Hyatt Regency Chicago"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.airport_type",
+      "Public airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "location.location.containedby",
+      "Chicago"
+    ],
+    [
+      "Royal Jordanian",
+      "aviation.airline.focus_cities",
+      "O'Hare International Airport"
+    ],
+    [
+      "Chicago Marriott Suites Downers Grove",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.subjects",
+      "http://airportcodes.info/ord"
+    ],
+    [
+      "Ted",
+      "aviation.airline.focus_cities",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Simmons Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Air Choice One"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Chicago Marriott Suites Downers Grove"
+    ],
+    [
+      "United Express",
+      "aviation.airline.hubs",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "location.location.geolocation",
+      "m.02_j8sz"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Mexicana de Aviación"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Pan American World Airways"
+    ],
+    [
+      "Chicago",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Trans States Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Atlantic Coast Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "American Eagle"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Shimer College"
+    ],
+    [
+      "Chicago Marriott Southwest at Burr Ridge",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "ExpressJet",
+      "aviation.airline.hubs",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "ExpressJet"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Chicago"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.webpage",
+      "m.03l9zdh"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "SpringHill Suites Chicago Lincolnshire"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Braniff International Airways"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.subjects",
+      "KORD"
+    ],
+    [
+      "Chicago Marriott Oakbrook",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Republic Airlines"
+    ],
+    [
+      "United Airlines",
+      "aviation.airline.hubs",
+      "O'Hare International Airport"
+    ],
+    [
+      "m.052lv74",
+      "travel.transportation.transport_terminus",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "AmericanConnection"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Hyatt Regency O'Hare"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Shuttle America"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Spirit Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Ted"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "Chicago Marriott Southwest at Burr Ridge"
+    ],
+    [
+      "Chicago Marriott Suites O'Hare",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "DuPage County",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.article",
+      "m.01ky6h"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Mesa Airlines"
+    ],
+    [
+      "Edward O'Hare",
+      "symbols.name_source.namesakes",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.serves",
+      "National University of Health Sciences"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "North Central Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "symbols.namesake.named_after",
+      "Edward O'Hare"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.operator",
+      "Chicago Department of Aviation"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Polar Air Cargo"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.image",
+      "O'Hare International Airport"
+    ],
+    [
+      "Public airport",
+      "aviation.airport_type.airports_of_this_type",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "United Express"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "USA3000 Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.notable_for",
+      "g.125618zby"
+    ],
+    [
+      "O'Hare International Airport",
+      "common.topic.subjects",
+      "http://airportcodes.info/kord"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.focus_city_for",
+      "Royal Jordanian"
+    ],
+    [
+      "National University of Health Sciences",
+      "location.location.nearby_airports",
+      "O'Hare International Airport"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Polar Air Cargo"
+    ],
+    [
+      "O'Hare International Airport",
+      "aviation.airport.hub_for",
+      "Atlantic Southeast Airlines"
+    ],
+    [
+      "O'Hare International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052lv74"
+    ],
+    [
+      "Gun Barrel City",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "TownePlace Suites Dallas Las Colinas"
+    ],
+    [
+      "Mabank",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.focus_city_for",
+      "Champion Air"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "common.topic.image",
+      "DFWAirportOverview"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Mesa Airlines"
+    ],
+    [
+      "Dallas/Fort Worth Airport Marriott",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Braniff"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Mabank"
+    ],
+    [
+      "Southlake",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Carrollton"
+    ],
+    [
+      "Dallas Marriott City Center",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas"
+    ],
+    [
+      "m.03l9zj0",
+      "common.webpage.topic",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "MBSF - Private Jets"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Total Pharmacy Supply"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "The Worthington Renaissance Fort Worth Hotel"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Executive Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "location.location.containedby",
+      "Fort Worth"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.focus_city_for",
+      "Spirit Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Renaissance Dallas Hotel"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas/Fort Worth Marriott Solana"
+    ],
+    [
+      "UPS Airlines",
+      "aviation.airline.hubs",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "common.topic.webpage",
+      "m.03l9zj0"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Fort Worth"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Parker University"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "TownePlace Suites Arlington Near Six Flags"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "common.topic.article",
+      "m.01kygd"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Oak Point Park and Nature Preserve"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Braniff International Airways"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Avana Point"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Lone Star Airlines"
+    ],
+    [
+      "Dallas/Fort Worth Marriott Solana",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Fort Worth",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Renaissance Dallas Hotel",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas/Fort Worth Airport Marriott"
+    ],
+    [
+      "Total Pharmacy Supply",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "SpringHill Suites Arlington Near Six Flags"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "common.topic.image",
+      "Dfw airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "location.location.geolocation",
+      "m.02_j8tx"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Gun Barrel City"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.focus_city_for",
+      "Sun Country Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Rio Airways"
+    ],
+    [
+      "Dallas–Fort Worth metroplex",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "common.topic.notable_for",
+      "g.1256r8pzg"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Courtyard Dallas DFW Airport West/Bedford"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas/Plano Marriott at Legacy Town Center"
+    ],
+    [
+      "Coppell",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Lewisville",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Southlake"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "ExpressJet"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Coppell"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Simmons Airlines"
+    ],
+    [
+      "Avana Point",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Carrollton",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "25CentBodyJewelry.Com",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "location.location.containedby",
+      "Dallas"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas Marriott City Center"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "UPS Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Texas International Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Parker University",
+      "location.location.nearby_airports",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Lewisville"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas/Addison Marriott Quorum by the Galleria"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "Envoy Air"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Dallas Las Colinas"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "Dallas–Fort Worth metroplex"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.serves",
+      "25CentBodyJewelry.Com"
+    ],
+    [
+      "ExpressJet",
+      "aviation.airline.hubs",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.focus_city_for",
+      "Frontier Airlines"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "aviation.airport.hub_for",
+      "American Eagle"
+    ],
+    [
+      "Dallas/Fort Worth International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052v8q3"
+    ],
+    [
+      "m.052v8q3",
+      "travel.transportation.transport_terminus",
+      "Dallas/Fort Worth International Airport"
+    ],
+    [
+      "Pacific Southwest Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wvw72",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "MBSF - Private Jets"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "America West Express"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Braniff International Airways"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "California Institute of Technology"
+    ],
+    [
+      "m.09x3jx7",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "V Australia"
+    ],
+    [
+      "Virgin America",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Speed",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Atlas Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09w3r9s"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfz9"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Avianca El Salvador"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Pan American World Airways"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "America West Express"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "United p.s."
+    ],
+    [
+      "TWA Flight 128",
+      "time.event.locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Envoy Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Alaska Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Laguna Hills Irvine Spectrum/Orange County"
+    ],
+    [
+      "m.09w3r9s",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.063wn6r",
+      "base.popstra.arrest.location",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard San Diego Sorrento Mesa/La Jolla"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.popstra.location.arrestee",
+      "m.063wn6r"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09yk8rc"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Virgin America"
+    ],
+    [
+      "m.09yqdq3",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.notable_for",
+      "g.1258t5xjw"
+    ],
+    [
+      "United Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wy1q7"
+    ],
+    [
+      "Public airport",
+      "aviation.airport_type.airports_of_this_type",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Ted"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_l36vc"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Wings West Airlines"
+    ],
+    [
+      "Koyaanisqatsi",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wpvq1",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Western Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Mexicana de Aviación"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Flying Tiger Line"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "United p.s."
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Camarillo"
+    ],
+    [
+      "Pan American World Airways",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Southwest Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.03l722l"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Veterans Memorial Auditorium",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wv7n6",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Great Lakes Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Polar Air Cargo"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Virgin America"
+    ],
+    [
+      "United p.s.",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.0b46t_0",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5mp"
+    ],
+    [
+      "TWA Flight 128",
+      "aviation.airliner_accident.flight_origin",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.063v5j4",
+      "base.popstra.arrest.location",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wpwhb",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfzz"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Air New Zealand"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Dead Heat on a Merry-Go-Round"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09x4hqq"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wty8v"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wpvq1"
+    ],
+    [
+      "m.03l722l",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Los Angeles Torrance/Palos Verdes"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Airplane!"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfzj"
+    ],
+    [
+      "Horizon Air",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Kalitta Air"
+    ],
+    [
+      "m.07nf9gl",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Pet Airways"
+    ],
+    [
+      "Alaska Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.events",
+      "2013 Los Angeles International Airport shooting"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Allegiant Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wpwhb"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5bz"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Speed"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Huntington Beach Fountain Valley"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.059qk3b"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "American Eagle"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "California Institute of Technology",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Avianca El Salvador",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Ted",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Southwest Airlines"
+    ],
+    [
+      "m.09x4hqq",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Electronic Labyrinth: THX 1138 4EB"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09yqdq3"
+    ],
+    [
+      "m.02kwfzz",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09w83j7",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Delta Air Lines"
+    ],
+    [
+      "m.02kwf_c",
+      "measurement_unit.dated_integer.source",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Pacific Southwest Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "book.book_subject.musical_compositions_about_this_topic",
+      "L.A. International Airport"
+    ],
+    [
+      "Greater Los Angeles Area",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "United Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.geolocation",
+      "m.049xwt7"
+    ],
+    [
+      "m.062t7mw",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airport_type",
+      "Public airport"
+    ],
+    [
+      "United Express",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "L'Ermitage Beverly Hills",
+      "location.location.nearby_airports",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Allegiant Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Volaris"
+    ],
+    [
+      "m.052lsk3",
+      "travel.transportation.transport_terminus",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09x3jx7"
+    ],
+    [
+      "Airplane!",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Fairfield Inn Anaheim Disneyland Resort"
+    ],
+    [
+      "m.0y5b5bz",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Compass Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Irvine Spectrum"
+    ],
+    [
+      "m.02kwfzr",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.events",
+      "2002 Los Angeles International Airport shooting"
+    ],
+    [
+      "Atlas Air",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Great Lakes Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.02kwfz9",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5f6"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "Koyaanisqatsi"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Trans World Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "SpringHill Suites Los Angeles LAX/Manhattan Beach"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Horizon Air"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.0b46t_0"
+    ],
+    [
+      "m.09wy1q7",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.popstra.location.arrestee",
+      "m.063v5j4"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Veterans Memorial Auditorium"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.events",
+      "TWA Flight 128"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wvw72"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "United Express"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.focus_city_for",
+      "Qantas"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Irvine John Wayne Airport/Orange County"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.article",
+      "m.04lyv"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.runway_information",
+      "m.0y5b5kb"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.062t7mw"
+    ],
+    [
+      "High Anxiety",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Air New Zealand",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.09wty8v",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "m.02kwfzj",
+      "aviation.airline_airport_presence.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09w83j7"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "L'Ermitage Beverly Hills"
+    ],
+    [
+      "Dead Heat on a Merry-Go-Round",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Delta Air Lines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.notable_types",
+      "Transport terminus"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.webpage",
+      "m.09wv7n6"
+    ],
+    [
+      "Los Angeles International Airport",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "m.09yk8rc",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Delta Air Lines",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Virgin America",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Greater Los Angeles Area"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Foothill Ranch Irvine East"
+    ],
+    [
+      "Electronic Labyrinth: THX 1138 4EB",
+      "film.film.featured_film_locations",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "common.topic.image",
+      "LAX LA"
+    ],
+    [
+      "m.059qk3b",
+      "common.webpage.topic",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Costa Mesa South Coast Metro"
+    ],
+    [
+      "Qantas",
+      "aviation.airline.focus_cities",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "film.film_location.featured_in_films",
+      "High Anxiety"
+    ],
+    [
+      "m.0y5b5mp",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052lsk3"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "JW Marriott Los Angeles L.A. LIVE"
+    ],
+    [
+      "United p.s.",
+      "aviation.airline.hubs",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.airlines",
+      "m.02kwfzr"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Courtyard Los Angeles LAX/El Segundo"
+    ],
+    [
+      "m.0y5b5f6",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.hub_for",
+      "Delta Connection"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.number_of_passengers",
+      "m.02kwf_c"
+    ],
+    [
+      "m.0y5b5kb",
+      "aviation.airport_runway.airport",
+      "Los Angeles International Airport"
+    ],
+    [
+      "Los Angeles International Airport",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf9gl"
+    ],
+    [
+      "Los Angeles International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Camarillo"
+    ],
+    [
+      "m.05n8d7g",
+      "aviation.airline_airport_presence.airport",
+      "Denver International Airport"
+    ],
+    [
+      "Denver International Airport",
+      "aviation.airport.airlines",
+      "m.05n8d7g"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Courtyard Phoenix Camelback"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "America West Express"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "FireSky Resort & Spa, a Kimpton Hotel"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "US Airways Express"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.focus_city_for",
+      "Southwest Airlines"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Courtyard Phoenix North"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "JW Marriott Phoenix Desert Ridge Resort & Spa"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "metropolitan_transit.transit_stop.transit_lines",
+      "Flagstaff / Phoenix"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.focus_cities",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Renaissance Phoenix Downtown"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "location.location.geolocation",
+      "m.02_gf2s"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "Swift Air"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "location.location.containedby",
+      "Phoenix"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "American Eagle"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Phoenix"
+    ],
+    [
+      "Great Lakes Airlines",
+      "aviation.airline.hubs",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.image",
+      "PHXAirportDiagram"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Phoenix",
+      "location.location.nearby_airports",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Hotel Palomar Phoenix, a Kimpton Hotel"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.subjects",
+      "PHX"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "Mesa Airlines"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "Southwest Airlines"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.article",
+      "m.0syvw"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "m.0cv4p4g",
+      "common.webpage.topic",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.webpage",
+      "m.03kz8fb"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "America West Airlines"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.webpage",
+      "m.0cv4p4g"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.hubs",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "m.03kz8fb",
+      "common.webpage.topic",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.subjects",
+      "KPHX"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Tempe"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "JW Marriott Scottsdale Camelback Inn® Resort & Spa"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.hub_for",
+      "Great Lakes Airlines"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "base.schemastaging.context_name.pronunciation",
+      "m.013173yq"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Phoenix Desert View at Mayo Clinic"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "fictional_universe.fictional_setting.works_set_here",
+      "A Prayer for Owen Meany"
+    ],
+    [
+      "A Prayer for Owen Meany",
+      "fictional_universe.work_of_fiction.setting",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Phoenix Airport"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.notable_for",
+      "g.125c1_5_l"
+    ],
+    [
+      "Phoenix Sky Harbor International Airport",
+      "common.topic.image",
+      "Phoenix Sky Harbor International Airport"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "AmericanConnection"
+    ],
+    [
+      "Qantas",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "American Eagle"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "JAL Express"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Qantas"
+    ],
+    [
+      "Royal Jordanian",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Eastern Australia Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Comair"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Dragonair"
+    ],
+    [
+      "Oneworld",
+      "common.topic.image",
+      "JA8941-oneworld-01"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Air Berlin"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Japan Asia Airways"
+    ],
+    [
+      "Canadian Airlines",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "MexicanaLink"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Malaysia Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "SkyWest Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Qatar Airways"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Aeroperlas"
+    ],
+    [
+      "Oneworld",
+      "common.topic.article",
+      "m.01qyp4"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Envoy Air"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "GB Airways"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "TAM Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "J-Air"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Flynas"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "SriLankan Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Finnair"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Iberia Express"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "JALways"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "LAN Perú"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Loganair"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Ryan Air Services"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Air Liberté"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Jetconnect"
+    ],
+    [
+      "ExpressJet",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "common.topic.notable_for",
+      "g.125cr65wc"
+    ],
+    [
+      "Oneworld",
+      "common.topic.webpage",
+      "m.0h2zlbb"
+    ],
+    [
+      "Oneworld",
+      "common.topic.notable_types",
+      "Airline alliance"
+    ],
+    [
+      "Malaysia Airlines",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Japan Transocean Air"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "QantasLink"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "OpenSkies"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Sunstate Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Kingfisher Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "LAN Ecuador"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "S7 Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Philippine Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "MexicanaClick"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "British Mediterranean Airways"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Trans World Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Cathay Pacific"
+    ],
+    [
+      "m.0h2zlbb",
+      "common.webpage.topic",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Air Nostrum"
+    ],
+    [
+      "SriLankan Airlines",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "British Airways"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Iberia"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "LAN Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Niki"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "LAN Express"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "RegionsAir"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Trans States Airlines"
+    ],
+    [
+      "Qantas Freight",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Sunstate Airlines",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "LAN Colombia"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "ExpressJet"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Royal Jordanian"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Aeromar"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Chautauqua Airlines"
+    ],
+    [
+      "QantasLink",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "O'Connor Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Qantas Freight"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Malév Hungarian Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "BA CityFlyer"
+    ],
+    [
+      "Jetconnect",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Sun-Air of Scandinavia"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "LAN Argentina"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Maersk Air UK"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "BA Connect"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Canadian Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Airnorth"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Mexicana de Aviación"
+    ],
+    [
+      "LAN Airlines",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Mihin Lanka"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Executive Airlines"
+    ],
+    [
+      "British Airways",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Air Tahiti Nui"
+    ],
+    [
+      "Cathay Pacific",
+      "aviation.airline.alliance",
+      "Oneworld"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Globus"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "Japan Airlines"
+    ],
+    [
+      "Oneworld",
+      "aviation.airline_alliance.member_airlines",
+      "British Airways Ltd"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88bk"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b887s"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "ICAO designator"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01066l3z"
+    ],
+    [
+      "Airline",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_mp9xw"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxxcg"
+    ],
+    [
+      "ExpressJet",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Ted",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "common.topic.image",
+      "A Boeing 747-400 of Virgin Atlantic Airways"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r5292"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Kolibri Travel"
+    ],
+    [
+      "Airline",
+      "book.book_subject.works",
+      "Blue Streak: Inside jetBlue, the Upstart that Rocked an Industry"
+    ],
+    [
+      "Czech Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "China Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010633bx"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z33gf"
+    ],
+    [
+      "Royal Jordanian",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "SriLankan Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Callsign"
+    ],
+    [
+      "Airline",
+      "business.industry.child_industry",
+      "Air Transportation, Scheduled (passenger)"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z38tq"
+    ],
+    [
+      "Ted",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Hub for",
+      "rdf-schema#range",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r529t"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010nwm4z"
+    ],
+    [
+      "United Express",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "m.0b6s3__",
+      "common.webpage.topic",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107xsrk"
+    ],
+    [
+      "Airline",
+      "common.topic.webpage",
+      "m.0b6s3__"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r527f"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107xbvt"
+    ],
+    [
+      "Czech Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Business Operation"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b8876"
+    ],
+    [
+      "Pan American World Airways",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Virgin America",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.domain",
+      "Aviation"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "IATA airline designator"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w3hj5"
+    ],
+    [
+      "m.0b48vlz",
+      "common.webpage.topic",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxxbt"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxxd8"
+    ],
+    [
+      "Focus city for",
+      "type.property.expected_type",
+      "Airline"
+    ],
+    [
+      "Qantas",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "common.topic.subject_of",
+      "Melookyoubook"
+    ],
+    [
+      "Airline",
+      "common.topic.article",
+      "m.0vgl"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01062xm4"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Airports Served"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Falcon Lines"
+    ],
+    [
+      "Cathay Pacific",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Focus cities",
+      "type.property.schema",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b888f"
+    ],
+    [
+      "SkyWest Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88hp"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Alliance"
+    ],
+    [
+      "China Eastern Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z38r_"
+    ],
+    [
+      "Airline",
+      "common.topic.image",
+      "Gulfair"
+    ],
+    [
+      "Aer Lingus",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Royal Jordanian",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "SkyWest Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxx3g"
+    ],
+    [
+      "Airline",
+      "organization.organization_sector.organizations_in_this_sector",
+      "American Eagle"
+    ],
+    [
+      "KLM",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Phoenix Travel"
+    ],
+    [
+      "Air France",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "m.09xh5_m",
+      "common.webpage.topic",
+      "Airline"
+    ],
+    [
+      "Cathay Pacific",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52gs"
+    ],
+    [
+      "Song",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Régional Compagnie Aérienne Européenne",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "LAN Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b889s"
+    ],
+    [
+      "Delta Air Lines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxxc4"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52f1"
+    ],
+    [
+      "Malaysia Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Sunstate Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88fp"
+    ],
+    [
+      "British Airways",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "common.topic.subject_of",
+      "OpenNav"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxx5q"
+    ],
+    [
+      "Saudia",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "LAN Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Honey Airlines"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Hubs"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Oceanic Airlines"
+    ],
+    [
+      "Qantas",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "common.topic.article",
+      "m.021ys49"
+    ],
+    [
+      "QantasLink",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010nwm1_"
+    ],
+    [
+      "China Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Fleet size"
+    ],
+    [
+      "m.09wxm3d",
+      "common.webpage.topic",
+      "Airline"
+    ],
+    [
+      "SriLankan Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "common.topic.notable_types",
+      "Industry"
+    ],
+    [
+      "Airline",
+      "common.topic.subjects",
+      "Chimes Aviation Academy"
+    ],
+    [
+      "Airline",
+      "freebase.documented_object.documentation",
+      "m.021ys49"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52d5"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107xvrc"
+    ],
+    [
+      "Horizon Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01062y2g"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107xdhj"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.strict_included_types",
+      "Business Operation"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01062xmf"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010633vs"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0102zgt0"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88d6"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Imperial Airways"
+    ],
+    [
+      "UPS Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Alitalia",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "British Airways",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z38sf"
+    ],
+    [
+      "Aviation",
+      "type.domain.types",
+      "Airline"
+    ],
+    [
+      "Hubs",
+      "type.property.schema",
+      "Airline"
+    ],
+    [
+      "Pacific Air Lines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Alaska Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxx9l"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Frequent flyer program"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxxct"
+    ],
+    [
+      "Air New Zealand",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxx8z"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Focus city for"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Member airlines"
+    ],
+    [
+      "Pan American World Airways",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "China Eastern Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Atlas Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "business.industry.parent_industry",
+      "Scheduled Air Transportation"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "IATA designator"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Number of destinations"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0102zgh3"
+    ],
+    [
+      "Delta Air Lines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107x9cl"
+    ],
+    [
+      "Airline",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Airlines"
+    ],
+    [
+      "Great Lakes Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52dk"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "m.07ndlbq",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010633lp"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Focus cities"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Sunshine Airways"
+    ],
+    [
+      "Air New Zealand",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "operating_airline"
+    ],
+    [
+      "United Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Southwest Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107xrh4"
+    ],
+    [
+      "Continental Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "ICAO Airline designator"
+    ],
+    [
+      "Airline",
+      "freebase.equivalent_topic.equivalent_type",
+      "Airline"
+    ],
+    [
+      "JetBlue",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Brit Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88gz"
+    ],
+    [
+      "Hub for",
+      "type.property.expected_type",
+      "Airline"
+    ],
+    [
+      "Oceanic Airlines",
+      "fictional_universe.fictional_organization.type_of_organization",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52bp"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.equivalent_topic",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Airline",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07ndlbq"
+    ],
+    [
+      "Jetconnect",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b1p3m"
+    ],
+    [
+      "Shanghai Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88ds"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88by"
+    ],
+    [
+      "Continental Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "common.topic.notable_for",
+      "g.1254zcf68"
+    ],
+    [
+      "Canadian Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01064ssd"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01064t3w"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52b5"
+    ],
+    [
+      "JetBlue",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "m.09xwprb",
+      "common.webpage.topic",
+      "Airline"
+    ],
+    [
+      "Jetconnect",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "China Southern Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010vxxb1"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Aircraft Owner"
+    ],
+    [
+      "Shanghai Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r527v"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Operator"
+    ],
+    [
+      "Canadian Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "HOP!",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "business.industry.child_industry",
+      "Business Aviation"
+    ],
+    [
+      "Airline",
+      "common.topic.webpage",
+      "m.09wxm3d"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107xtjy"
+    ],
+    [
+      "Airline",
+      "common.topic.webpage",
+      "m.0b48vlz"
+    ],
+    [
+      "Airline",
+      "base.skosbase.vocabulary_equivalent_topic.broader_concept",
+      "Air travel"
+    ],
+    [
+      "Focus city for",
+      "rdf-schema#range",
+      "Airline"
+    ],
+    [
+      "FedEx Express",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Avianca El Salvador",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Airlines"
+    ],
+    [
+      "Airline",
+      "common.topic.image",
+      "Dubai Airshow"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Torro Aero"
+    ],
+    [
+      "Great Lakes Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52cm"
+    ],
+    [
+      "Airline",
+      "common.topic.webpage",
+      "m.09xh5_m"
+    ],
+    [
+      "Qantas Freight",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "ExpressJet",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Saudia",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88cl"
+    ],
+    [
+      "KLM",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Pacific Southwest Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "business.industry.child_industry",
+      "Air taxi"
+    ],
+    [
+      "Airline",
+      "common.topic.webpage",
+      "m.09xt803"
+    ],
+    [
+      "Endeavor Air",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "fictional_universe.fictional_organization_type.organizations",
+      "Mogamb Air"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52hk"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r529c"
+    ],
+    [
+      "Airline",
+      "common.topic.webpage",
+      "m.09xwprb"
+    ],
+    [
+      "HOP!",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Southwest Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Avianca El Salvador",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "Airline",
+      "type.type.expected_by",
+      "Hub for"
+    ],
+    [
+      "m.09xt803",
+      "common.webpage.topic",
+      "Airline"
+    ],
+    [
+      "Malaysia Airlines",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "type.type.properties",
+      "Accidents"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r52g4"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r528q"
+    ],
+    [
+      "Régional Compagnie Aérienne Européenne",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Hubs",
+      "rdf-schema#domain",
+      "Airline"
+    ],
+    [
+      "China Southern Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r5287"
+    ],
+    [
+      "Airline",
+      "common.topic.subject_of",
+      "Wego.com"
+    ],
+    [
+      "Air France",
+      "common.topic.notable_types",
+      "Airline"
+    ],
+    [
+      "Airline",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010b88g3"
+    ],
+    [
+      "Focus cities",
+      "rdf-schema#domain",
+      "Airline"
+    ],
+    [
+      "Pacific Southwest Airlines",
+      "business.business_operation.industry",
+      "Airline"
+    ],
+    [
+      "Star Alliance",
+      "common.topic.notable_types",
+      "Airline alliance"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "m.0h2zlc5",
+      "common.webpage.topic",
+      "Star Alliance"
+    ],
+    [
+      "Star Alliance",
+      "common.topic.webpage",
+      "m.0h2zlc5"
+    ],
+    [
+      "Star Alliance",
+      "common.topic.notable_for",
+      "g.125h3j22f"
+    ],
+    [
+      "ExpressJet",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "United p.s.",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "United Express",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "Air New Zealand",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "Continental Airlines",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "Avianca El Salvador",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "Star Alliance",
+      "common.topic.image",
+      "328369722_d275f4eb1d_o.jpg"
+    ],
+    [
+      "United Airlines",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "Star Alliance",
+      "common.topic.article",
+      "m.01q1_n"
+    ],
+    [
+      "Shanghai Airlines",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "Ted",
+      "aviation.airline.alliance",
+      "Star Alliance"
+    ],
+    [
+      "George Fox University",
+      "location.location.nearby_airports",
+      "Portland International Airport"
+    ],
+    [
+      "m.045x924",
+      "common.webpage.topic",
+      "Portland International Airport"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Portland International Airport"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.serves",
+      "Phoenix Inn Suites - Vancouver"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.hub_for",
+      "SeaPort Airlines"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.serves",
+      "Phoenix Inn Suites Tigard"
+    ],
+    [
+      "Portland International Airport",
+      "common.topic.image",
+      "Portlandinternationalairportfromtheair"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.serves",
+      "Courtyard Portland Beaverton"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Portland International Airport",
+      "common.topic.article",
+      "m.013wjv"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.hub_for",
+      "Horizon Air"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.serves",
+      "Portland"
+    ],
+    [
+      "m.052mw6_",
+      "travel.transportation.transport_terminus",
+      "Portland International Airport"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.serves",
+      "George Fox University"
+    ],
+    [
+      "Portland",
+      "location.location.nearby_airports",
+      "Portland International Airport"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.hub_for",
+      "United Express"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.serves",
+      "Portland Marriott Downtown Waterfront"
+    ],
+    [
+      "Portland International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "Portland International Airport",
+      "location.location.containedby",
+      "Portland"
+    ],
+    [
+      "Portland International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052mw6_"
+    ],
+    [
+      "Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area",
+      "location.location.nearby_airports",
+      "Portland International Airport"
+    ],
+    [
+      "Portland International Airport",
+      "location.location.containedby",
+      "Washington County"
+    ],
+    [
+      "Portland International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Portland International Airport",
+      "common.topic.webpage",
+      "m.045x924"
+    ],
+    [
+      "United Express",
+      "aviation.airline.hubs",
+      "Portland International Airport"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.hub_for",
+      "Alaska Airlines"
+    ],
+    [
+      "Portland International Airport",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_q_7mt"
+    ],
+    [
+      "Portland International Airport",
+      "aviation.airport.serves",
+      "Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area"
+    ],
+    [
+      "Portland International Airport",
+      "common.topic.notable_for",
+      "g.1255cgpdb"
+    ],
+    [
+      "Horizon Air",
+      "aviation.airline.hubs",
+      "Portland International Airport"
+    ],
+    [
+      "Alaska Airlines",
+      "aviation.airline.hubs",
+      "Portland International Airport"
+    ],
+    [
+      "Portland International Airport",
+      "location.location.geolocation",
+      "m.02_h6fn"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.serves",
+      "Courtyard Cincinnati Blue Ash"
+    ],
+    [
+      "TWA Flight 128 Crash Site",
+      "location.location.nearby_airports",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.adjoin_s",
+      "m.05gvb05"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.image",
+      "Cincinnati Arrival"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.image",
+      "At the Gate in Hebron, Kentucky"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Southern Air"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.geolocation",
+      "m.02_jh41"
+    ],
+    [
+      "m.05gvb05",
+      "location.adjoining_relationship.adjoins",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.image",
+      "Bound for the Gate"
+    ],
+    [
+      "Constance, Kentucky",
+      "location.location.nearby_airports",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Hebron",
+      "location.location.nearby_airports",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Polar Air Cargo"
+    ],
+    [
+      "Anderson Ferry",
+      "location.location.nearby_airports",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.article",
+      "m.01n5yy"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.adjoin_s",
+      "m.05dyqbm"
+    ],
+    [
+      "Covington",
+      "location.location.contains",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.serves",
+      "Cincinnati"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.subjects",
+      "KCVG"
+    ],
+    [
+      "Cincinnati",
+      "location.location.nearby_airports",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.events",
+      "TWA Flight 128"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Ultimate Air Shuttle"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Delta Private Jets"
+    ],
+    [
+      "TWA Flight 128",
+      "time.event.locations",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Northwest Airlines"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.containedby",
+      "Covington"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Chautauqua Airlines"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.serves",
+      "Hebron"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Comair"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Air Cargo Carriers"
+    ],
+    [
+      "Delta Air Lines",
+      "aviation.airline.hubs",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.image",
+      "Landing Runway 18 Center CVG"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "projects.project_focus.projects",
+      "Construction of Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines–Northwest Airlines merger"
+    ],
+    [
+      "Boone County",
+      "location.location.contains",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Atlantic Southeast Airlines"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Atlas Air"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Delta Connection"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.containedby",
+      "Boone County"
+    ],
+    [
+      "m.05br6g_",
+      "location.adjoining_relationship.adjoins",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.containedby",
+      "Kenton County"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "USA3000 Airlines"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Astar Air Cargo"
+    ],
+    [
+      "Atlas Air",
+      "aviation.airline.hubs",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.notable_for",
+      "g.125601xdj"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.serves",
+      "TWA Flight 128 Crash Site"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.serves",
+      "Anderson Ferry"
+    ],
+    [
+      "m.05dyqbm",
+      "location.adjoining_relationship.adjoins",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.airport_type",
+      "Commercial aviation"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Freedom Airlines"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.serves",
+      "Constance, Kentucky"
+    ],
+    [
+      "TWA Flight 128",
+      "event.disaster.areas_affected",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.subjects",
+      "CVG"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.serves",
+      "Cincinnati Marriott at RiverCenter"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines"
+    ],
+    [
+      "m.03lbn71",
+      "common.webpage.topic",
+      "Cincinnati/Northern Kentucky International Airport"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "location.location.adjoin_s",
+      "m.05br6g_"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.webpage",
+      "m.03lbn71"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "common.topic.image",
+      "Approach Instrumentation"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Cincinnati/Northern Kentucky International Airport",
+      "aviation.airport.hub_for",
+      "GoJet Airlines"
+    ],
+    [
+      "m.04fvscw",
+      "aviation.airline_airport_presence.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Delta Air Lines",
+      "aviation.airline.hubs",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Salt Lake City Cottonwood"
+    ],
+    [
+      "m.04fvsb_",
+      "aviation.airport_runway.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "Western Airlines"
+    ],
+    [
+      "Public airport",
+      "aviation.airport_type.airports_of_this_type",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.runway_information",
+      "m.04fvsc7"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "common.topic.webpage",
+      "m.045xd60"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.airlines",
+      "m.04fvscq"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "common.topic.article",
+      "m.01n58b"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.airport_type",
+      "Public airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "common.topic.image",
+      "Kslc airport diagram"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "Morris Air"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "common.topic.notable_for",
+      "g.125601xdg"
+    ],
+    [
+      "m.045xd60",
+      "common.webpage.topic",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.airlines",
+      "m.04g93ql"
+    ],
+    [
+      "m.04g93ql",
+      "aviation.airline_airport_presence.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.serves",
+      "Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.runway_information",
+      "m.04fvsbr"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "Delta Connection"
+    ],
+    [
+      "m.04fvsc7",
+      "aviation.airport_runway.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.airlines",
+      "m.04fvscw"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "location.location.geolocation",
+      "m.02_jg_k"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.serves",
+      "Salt Lake City"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.focus_city_for",
+      "Frontier Airlines"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.airlines",
+      "m.04fvsd0"
+    ],
+    [
+      "m.04fvsd0",
+      "aviation.airline_airport_presence.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "m.04fvsbh",
+      "aviation.airport_runway.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "m.04fvsbr",
+      "aviation.airport_runway.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "m.04fvscq",
+      "aviation.airline_airport_presence.airport",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.runway_information",
+      "m.04fvsbh"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.serves",
+      "Salt Lake Marriott Downtown at City Creek"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "location.location.containedby",
+      "Salt Lake City"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.runway_information",
+      "m.04fvsb_"
+    ],
+    [
+      "Salt Lake City",
+      "location.location.nearby_airports",
+      "Salt Lake City International Airport"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines–Northwest Airlines merger"
+    ],
+    [
+      "Salt Lake City International Airport",
+      "aviation.airport.hub_for",
+      "Mesaba Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "SpringHill Suites Atlanta Airport Gateway"
+    ],
+    [
+      "William B. Hartsfield",
+      "symbols.name_source.namesakes",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Courtyard Atlanta Executive Park/Emory"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "symbols.namesake.named_after",
+      "William B. Hartsfield"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.focus_city_for",
+      "ValuJet Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "GeorgiaSkies"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Shuttle America"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Courtyard Atlanta Downtown"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Southern Airways"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "ExpressJet"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "common.topic.image",
+      "View of Atlanta Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Omni Atlanta Hotel at CNN Center"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Courtyard Atlanta Airport North/Virginia Avenue"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "common.topic.image",
+      "Hartsfield-Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "common.topic.image",
+      "FAA diagram of Hartsfield-Jackson Atlanta International Airport (ATL)"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Courtyard Atlanta Gwinnett Mall"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Atlantic Southeast Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Endeavor Air"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Courtyard Atlanta Airport South/Sullivan Road"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.number_of_passengers",
+      "m.02k9dqr"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "location.location.geolocation",
+      "m.02_j8t4"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines–Northwest Airlines merger"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Compass Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "common.topic.notable_for",
+      "g.1256h0dtw"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Trans World Airlines"
+    ],
+    [
+      "Hyatt Regency Atlanta",
+      "location.location.nearby_airports",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Bullpen Rib House",
+      "location.location.nearby_airports",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Bullpen Rib House"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "common.topic.article",
+      "m.01ky8d"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Air Atlanta"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "symbols.namesake.named_after",
+      "Maynard Jackson"
+    ],
+    [
+      "ExpressJet",
+      "aviation.airline.hubs",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "m.052zwlt",
+      "travel.transportation.transport_terminus",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Courtyard Atlanta Alpharetta"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.number_of_aircraft_movements",
+      "m.02k9dqg"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "ValuJet Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "location.location.containedby",
+      "Georgia"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Atlanta Alpharetta/North Point Mall"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052zwlt"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Eastern Air Lines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Hyatt Regency Atlanta"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Delta Air Lines"
+    ],
+    [
+      "Maynard Jackson",
+      "symbols.name_source.namesakes",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Southeastern Airlines"
+    ],
+    [
+      "Omni Atlanta Hotel at CNN Center",
+      "location.location.nearby_airports",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Atlanta Alpharetta/Windward"
+    ],
+    [
+      "m.03l9zf2",
+      "common.webpage.topic",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.focus_city_for",
+      "Mesa Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "AirTran JetConnect"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Atlanta Kennesaw/Town Center"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Atlanta Perimeter/Dunwoody"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Mesaba Airlines"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Delta Connection"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Atlanta Airport North/Virginia Avenue"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "common.topic.webpage",
+      "m.03l9zf2"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Courtyard Atlanta Midtown/Georgia Tech"
+    ],
+    [
+      "Endeavor Air",
+      "aviation.airline.hubs",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.airport_type",
+      "Public airport"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Public airport",
+      "aviation.airport_type.airports_of_this_type",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.focus_city_for",
+      "Comair"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Atlanta Buckhead"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.hub_for",
+      "Silver Airways"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "base.schemastaging.context_name.pronunciation",
+      "m.01315cpt"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "SpringHill Suites Atlanta Buckhead"
+    ],
+    [
+      "Delta Air Lines",
+      "aviation.airline.hubs",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Hartsfield–Jackson Atlanta International Airport",
+      "aviation.airport.serves",
+      "Atlanta"
+    ],
+    [
+      "Atlanta",
+      "location.location.nearby_airports",
+      "Hartsfield–Jackson Atlanta International Airport"
+    ],
+    [
+      "Denver International Airport",
+      "aviation.airport.airlines",
+      "m.05n8d4q"
+    ],
+    [
+      "m.05n8d4q",
+      "aviation.airline_airport_presence.airport",
+      "Denver International Airport"
+    ],
+    [
+      "General Mitchell International Airport",
+      "location.location.containedby",
+      "Milwaukee"
+    ],
+    [
+      "General Mitchell International Airport",
+      "location.location.geolocation",
+      "m.02_jlbm"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.focus_city_for",
+      "Frontier Airlines"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Midwest Connect"
+    ],
+    [
+      "SkyWest Airlines",
+      "aviation.airline.hubs",
+      "General Mitchell International Airport"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Midwest Airlines"
+    ],
+    [
+      "General Mitchell International Airport",
+      "symbols.namesake.named_after",
+      "Billy Mitchell"
+    ],
+    [
+      "General Mitchell International Airport",
+      "common.topic.webpage",
+      "m.040qs3j"
+    ],
+    [
+      "General Mitchell International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Air Cargo Carriers"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.serves",
+      "Milwaukee"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.serves",
+      "Courtyard Milwaukee Downtown"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Chautauqua Airlines"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Republic Airlines"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Great Lakes Airlines"
+    ],
+    [
+      "Milwaukee",
+      "location.location.nearby_airports",
+      "General Mitchell International Airport"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "SkyWest Airlines"
+    ],
+    [
+      "General Mitchell International Airport",
+      "common.topic.notable_for",
+      "g.1256x4n77"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "AirTran JetConnect"
+    ],
+    [
+      "m.040qs3j",
+      "common.webpage.topic",
+      "General Mitchell International Airport"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Skyway Airlines"
+    ],
+    [
+      "General Mitchell International Airport",
+      "common.topic.image",
+      "MKE"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Freight Runners Express"
+    ],
+    [
+      "Great Lakes Airlines",
+      "aviation.airline.hubs",
+      "General Mitchell International Airport"
+    ],
+    [
+      "General Mitchell International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.focus_city_for",
+      "Republic Airlines"
+    ],
+    [
+      "General Mitchell International Airport",
+      "common.topic.article",
+      "m.01nwdh"
+    ],
+    [
+      "General Mitchell International Airport",
+      "aviation.airport.hub_for",
+      "Frontier Airlines"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "Southwest Airlines"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.focus_cities",
+      "Orlando International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.052zv15"
+    ],
+    [
+      "m.052zv15",
+      "travel.transportation.transport_terminus",
+      "Orlando International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Orlando International Airport",
+      "location.location.containedby",
+      "Greater Orlando"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "Allegiant Air"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "JetBlue"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "Song"
+    ],
+    [
+      "Orlando International Airport",
+      "common.topic.webpage",
+      "m.03lbm9j"
+    ],
+    [
+      "Orlando International Airport",
+      "location.location.geolocation",
+      "m.02_jgmc"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.serves",
+      "Residence Inn Orlando at SeaWorld"
+    ],
+    [
+      "m.03lbm9j",
+      "common.webpage.topic",
+      "Orlando International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.serves",
+      "Courtyard Orlando International Drive/Convention Center"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.serves",
+      "JW Marriott Orlando Grande Lakes®"
+    ],
+    [
+      "Southwest Airlines",
+      "aviation.airline.hubs",
+      "Orlando International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "Braniff"
+    ],
+    [
+      "Orlando International Airport",
+      "common.topic.image",
+      "Mco-6jan1999"
+    ],
+    [
+      "Orlando International Airport",
+      "common.topic.image",
+      "FAA diagram of Orlando International Airport (MCO)"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "ValuJet Airlines"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "Frontier Airlines"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "Delta Express"
+    ],
+    [
+      "Orlando International Airport",
+      "common.topic.article",
+      "m.01n2tn"
+    ],
+    [
+      "Orlando International Airport",
+      "location.location.containedby",
+      "Orlando"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.serves",
+      "Fairfield Inn & Suites Orlando at SeaWorld®"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.serves",
+      "SpringHill Suites Orlando at SeaWorld®"
+    ],
+    [
+      "Orlando International Airport",
+      "common.topic.notable_for",
+      "g.1258jn0fm"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.serves",
+      "Orlando"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "Eastern Air Lines"
+    ],
+    [
+      "Song",
+      "aviation.airline.hubs",
+      "Orlando International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "common.topic.notable_types",
+      "Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.serves",
+      "Wyndham Bonnet Creek Resort"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "ValuJet Airlines"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "Southwest Airlines"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.operator",
+      "Greater Orlando Aviation Authority"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.focus_city_for",
+      "Air Florida"
+    ],
+    [
+      "JetBlue",
+      "aviation.airline.focus_cities",
+      "Orlando International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "Allegiant Air"
+    ],
+    [
+      "Orlando",
+      "location.location.nearby_airports",
+      "Orlando International Airport"
+    ],
+    [
+      "Orlando International Airport",
+      "aviation.airport.hub_for",
+      "Silver Airways"
+    ],
+    [
+      "SkyWest Airlines",
+      "organization.organization.parent",
+      "m.09hxv3p"
+    ],
+    [
+      "m.09hxv3p",
+      "organization.organization_relationship.child",
+      "SkyWest Airlines"
+    ]
+  ]
+}

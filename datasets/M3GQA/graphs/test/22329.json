@@ -1,0 +1,2610 @@
+{
+  "graph_id": 22329,
+  "subgraph": [
+    [
+      "Carlos Tosca",
+      "baseball.baseball_player.position_s",
+      "Manager"
+    ],
+    [
+      "Carlos Tosca",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Carlos Tosca",
+      "baseball.baseball_coach.current_team_coaching",
+      "m.052tpbq"
+    ],
+    [
+      "m.052tpbq",
+      "baseball.current_coaching_tenure.baseball_coach",
+      "Carlos Tosca"
+    ],
+    [
+      "Carlos Tosca",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Carlos Tosca",
+      "people.person.profession",
+      "Manager"
+    ],
+    [
+      "Fredi González",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Fredi González",
+      "baseball.baseball_manager.former_teams_managed",
+      "m.0hh9p10"
+    ],
+    [
+      "Fredi González",
+      "people.person.profession",
+      "Manager"
+    ],
+    [
+      "m.0hh9p10",
+      "baseball.baseball_historical_managerial_position.manager",
+      "Fredi González"
+    ],
+    [
+      "Atlanta Braves",
+      "baseball.baseball_team.current_manager",
+      "Fredi González"
+    ],
+    [
+      "Fredi González",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fredi González",
+      "baseball.baseball_manager.current_team_managed",
+      "Atlanta Braves"
+    ],
+    [
+      "Fredi González",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fsl"
+    ],
+    [
+      "m.06s8fcw",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "m.06s8fbg",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "people.person.place_of_birth",
+      "Seattle"
+    ],
+    [
+      "Mike Redmond",
+      "common.topic.article",
+      "m.066b8y"
+    ],
+    [
+      "m.0j2sdh1",
+      "sports.sports_team_roster.player",
+      "Mike Redmond"
+    ],
+    [
+      "m.04hs85l",
+      "education.education.student",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "m.06s8fr4",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "m.06s8fsl",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "m.06s8flp",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8flp"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.position_s",
+      "Catcher"
+    ],
+    [
+      "m.06s8fn6",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "common.topic.notable_for",
+      "g.125cqrffl"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fbg"
+    ],
+    [
+      "m.06s8ff6",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "people.person.education",
+      "m.04hs85l"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fr4"
+    ],
+    [
+      "m.0n0n9db",
+      "education.education.student",
+      "Mike Redmond"
+    ],
+    [
+      "m.09k_cmg",
+      "baseball.lifetime_batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "m.06s8fpq",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8f8k"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.bats",
+      "Right-handed"
+    ],
+    [
+      "Mike Redmond",
+      "common.topic.image",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fn6"
+    ],
+    [
+      "Mike Redmond",
+      "people.person.profession",
+      "Manager"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fcw"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_manager.current_team_managed",
+      "Miami Marlins"
+    ],
+    [
+      "Mike Redmond",
+      "sports.pro_athlete.sports_played_professionally",
+      "m.0d5_38q"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.lifetime_batting_statistics",
+      "m.09k_cmg"
+    ],
+    [
+      "Mike Redmond",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "m.0d5_38q",
+      "sports.pro_sports_played.athlete",
+      "Mike Redmond"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_manager",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fpq"
+    ],
+    [
+      "Mike Redmond",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Redmond",
+      "sports.pro_athlete.teams",
+      "m.0j2sdh1"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8ff6"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fjb"
+    ],
+    [
+      "m.06s8f8k",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "baseball.baseball_player.batting_stats",
+      "m.06s8fgp"
+    ],
+    [
+      "m.06s8fjb",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "m.06s8fgp",
+      "baseball.batting_statistics.player",
+      "Mike Redmond"
+    ],
+    [
+      "Mike Redmond",
+      "people.person.education",
+      "m.0n0n9db"
+    ],
+    [
+      "Ozzie Guillén",
+      "baseball.baseball_player.position_s",
+      "Manager"
+    ],
+    [
+      "Manager",
+      "people.profession.specialization_of",
+      "Baseball Coach"
+    ],
+    [
+      "Baseball Coach",
+      "people.profession.specializations",
+      "Manager"
+    ],
+    [
+      "Jim Leyland",
+      "baseball.baseball_player.position_s",
+      "Manager"
+    ],
+    [
+      "Joe Girardi",
+      "baseball.baseball_player.position_s",
+      "Manager"
+    ],
+    [
+      "33152",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33135",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33231",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33175",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Isis King",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Miami",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Four Days In October",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "33130",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33257",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33186",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33234",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33132-1693",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33193",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "Miami-Dade County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33190",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33127",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33126",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33124",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Seattle",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "33133",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33112",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Gangsters At Large",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "John Pierson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jim Leyland",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33296",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33177",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "33184",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Manhattan"
+    ],
+    [
+      "Miami University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33132-1225",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Public Enemies",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "33222",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Justin Long",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33162",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Jessica White",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Manhattan",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33176",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33114",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33147",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Iman Abdulmajid",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Elizabeth Jagger",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jeffrey Loria",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Manhattan",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Seattle",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33178",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "Midnight Cowboy",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "33183",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33132-1225",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Jeremy Hermida",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cowley Community College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33189",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Pierson College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33153",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33247",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33142",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33194",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Saleisha Stowers",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "La impostora",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "33256",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33163",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33172",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33125",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Little Big Men",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "33138",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33134",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33101",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33265",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Taylor Tankersley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "South Beach",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33137",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Chris Volstad",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33167",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "The Roads",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Allapattah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33151",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Chip Ambres",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33166",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33150",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33164",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Mark Kotsay",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Josh Beckett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Viceroy Miami",
+      "location.location.primarily_containedby",
+      "United States of America"
+    ],
+    [
+      "33165",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Damien Colletti",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33129",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Miami",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Padma Lakshmi",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33145",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33196",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Shenandoah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Fotofilosophy, Inc.",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Ozzie Guillén",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "California State University, Fullerton",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Miami-Dade County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Missouri State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33146",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33144",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Bre Scullark",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Sid Rosenberg",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Alabama in Huntsville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Anchor Hotel",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hye-rim Park",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "33197",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Miami Springs",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Adrian Gonzalez",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33245",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33242",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Joe Girardi",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Miami-Opa Locka Executive Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33143",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33187",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Hot Times In Little Havana",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "33299",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33132",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33233",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33255",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33283",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33280",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33243",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33159",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Manhattan",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "33132-1693",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33161",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Asia Nitollano",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "David Veldt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33266",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33136",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Mona Lisa Moon",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Sixt",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "33185",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Josh Booty",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33116",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "33170",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33238",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "LoLa Monroe",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33188",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33199",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "McNeese State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "William Hulbert",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33132",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33179",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Aaron Thompson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dade-Collier Training and Transition Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Miami Executive Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33261",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33157",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.contains_major_portion_of",
+      "Viceroy Miami"
+    ],
+    [
+      "Alisha Heng",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Quiana Grant",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33182",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33155",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Tyler Kolek",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33128",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Burn Notice",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "33111",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "33158",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33174",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Tino Martinez",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Miami",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33156",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33269",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33131",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33181",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33169",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Rich Waltz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "33122",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33180",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Jaslene Gonzalez",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dexter",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "33173",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Miami International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "33102",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "33168",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_coaches",
+      "m.052tpbq"
+    ],
+    [
+      "m.052tpbq",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Miami Marlins"
+    ],
+    [
+      "m.052tpbq",
+      "baseball.current_coaching_tenure.coaching_position",
+      "Bench Coach"
+    ],
+    [
+      "Bench Coach",
+      "baseball.baseball_coaching_position.current_coaches",
+      "m.052tpbq"
+    ],
+    [
+      "Aaron Akin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jeff Allison",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Eric Delko",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Ozzie Guillén",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tyler Kolek",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Justin Long",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Josh Beckett",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Brett Sinkbeil",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Pierson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jacob Marceaux",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Albert Goodwill Spalding",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chris Volstad",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jeffrey Loria",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Josh Booty",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bo Porter",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Rich Waltz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marc Valdes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Damien Colletti",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Aaron Thompson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sid Rosenberg",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mark Wiley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andy Fox",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Joshua Holland",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Joe Girardi",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jim Leyland",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mark Kotsay",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Taylor Tankersley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jeremy Hermida",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chip Ambres",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "William Hulbert",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Veldt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Brent Chua",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Matthew Dominguez",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "1994 NCAA Men's Division I Basketball Tournament",
+      "base.marchmadness.ncaa_basketball_tournament.gender",
+      "Male"
+    ],
+    [
+      "Muzammil Ibrahim",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chris Tiu",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Adrian Gonzalez",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tino Martinez",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Steve Foster",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.historical_managers",
+      "m.0hh9p10"
+    ],
+    [
+      "m.0hh9p10",
+      "baseball.baseball_historical_managerial_position.team",
+      "Miami Marlins"
+    ],
+    [
+      "Atlanta Braves",
+      "sports.sports_team.league",
+      "m.0crt7fm"
+    ],
+    [
+      "m.0crt7fm",
+      "sports.sports_league_participation.team",
+      "Atlanta Braves"
+    ],
+    [
+      "Atlanta Braves",
+      "baseball.baseball_team.division",
+      "National League East"
+    ],
+    [
+      "Atlanta Braves",
+      "baseball.baseball_team.league",
+      "National League"
+    ],
+    [
+      "National League",
+      "baseball.baseball_league.teams",
+      "Atlanta Braves"
+    ],
+    [
+      "Atlanta Braves",
+      "sports.sports_team.league",
+      "m.0crtd9m"
+    ],
+    [
+      "Atlanta Braves",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "m.0crtd9m",
+      "sports.sports_league_participation.team",
+      "Atlanta Braves"
+    ],
+    [
+      "National League East",
+      "baseball.baseball_division.teams",
+      "Atlanta Braves"
+    ],
+    [
+      "Atlanta Braves",
+      "sports.sports_team.sport",
+      "Baseball"
+    ],
+    [
+      "Baseball Player",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Tino Martinez",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Jim Leyland",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Ozzie Guillén",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Taylor Tankersley",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Andy Fox",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Mark Wiley",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Charles Johnson",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Baseball player",
+      "freebase.equivalent_topic.equivalent_type",
+      "Baseball Player"
+    ],
+    [
+      "Albert Goodwill Spalding",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Baseball player",
+      "people.profession.corresponding_type",
+      "Baseball Player"
+    ],
+    [
+      "Mark Kotsay",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Chip Ambres",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Steve Foster",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Brett Sinkbeil",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Joe Girardi",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Baseball Player",
+      "freebase.type_profile.equivalent_topic",
+      "Baseball player"
+    ],
+    [
+      "Aaron Thompson",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Josh Beckett",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Baseball Player",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Chris Volstad",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Bo Porter",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Adrian Gonzalez",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Jeff Allison",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "Jeremy Hermida",
+      "common.topic.notable_types",
+      "Baseball Player"
+    ],
+    [
+      "m.06s8fsl",
+      "baseball.batting_statistics.season",
+      "2008 Major League Baseball season"
+    ],
+    [
+      "m.06s8fcw",
+      "baseball.batting_statistics.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.06s8fcw",
+      "baseball.batting_statistics.season",
+      "2000 Major League Baseball season"
+    ],
+    [
+      "m.06s8fbg",
+      "baseball.batting_statistics.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.06s8fbg",
+      "baseball.batting_statistics.season",
+      "1999 Major League Baseball Season"
+    ],
+    [
+      "Seattle",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Seattle",
+      "location.hud_county_place.place",
+      "Seattle"
+    ],
+    [
+      "m.06s8fr4",
+      "baseball.batting_statistics.season",
+      "2007 Major League Baseball season"
+    ],
+    [
+      "m.06s8flp",
+      "baseball.batting_statistics.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.06s8flp",
+      "baseball.batting_statistics.season",
+      "2004 Major League Baseball season"
+    ],
+    [
+      "Charles Johnson",
+      "baseball.baseball_player.position_s",
+      "Catcher"
+    ],
+    [
+      "Baseball",
+      "sports.sport.positions",
+      "Catcher"
+    ],
+    [
+      "Joe Girardi",
+      "baseball.baseball_player.position_s",
+      "Catcher"
+    ],
+    [
+      "Catcher",
+      "sports.sports_position.sport",
+      "Baseball"
+    ],
+    [
+      "m.06s8fn6",
+      "baseball.batting_statistics.season",
+      "2005 Major League Baseball season"
+    ],
+    [
+      "m.06s8ff6",
+      "baseball.batting_statistics.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.06s8ff6",
+      "baseball.batting_statistics.season",
+      "2001 Major League Baseball Season"
+    ],
+    [
+      "m.09k_cmg",
+      "baseball.lifetime_batting_statistics.starting_season",
+      "1998 Major League Baseball Season"
+    ],
+    [
+      "m.06s8fpq",
+      "baseball.batting_statistics.season",
+      "2006 Major League Baseball season"
+    ],
+    [
+      "m.06s8f8k",
+      "baseball.batting_statistics.season",
+      "1998 Major League Baseball Season"
+    ],
+    [
+      "m.06s8f8k",
+      "baseball.batting_statistics.team",
+      "Miami Marlins"
+    ],
+    [
+      "Josh Beckett",
+      "baseball.baseball_player.bats",
+      "Right-handed"
+    ],
+    [
+      "Chris Volstad",
+      "baseball.baseball_player.bats",
+      "Right-handed"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.location",
+      "Miami"
+    ],
+    [
+      "m.0j___ts",
+      "base.schemastaging.team_training_ground_relationship.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "common.resource.annotations",
+      "m.0jbcp70"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.arena_stadium",
+      "Marlins Park"
+    ],
+    [
+      "Miami Marlins",
+      "business.employer.employees",
+      "m.0123wrz3"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6drx"
+    ],
+    [
+      "m.04w1s30",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.04w1wtt",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0crtdb6",
+      "sports.sports_league_participation.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0z6bdkg",
+      "award.award_nomination.award_nominee",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.historical_managers",
+      "m.0j81bck"
+    ],
+    [
+      "m.04w1w01",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "base.schemastaging.organization_extra.contact_webpages",
+      "m.010gzb88"
+    ],
+    [
+      "Miami Marlins",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf1kg"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_coaches",
+      "m.052tpc4"
+    ],
+    [
+      "m.05n6frd",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0j___v1",
+      "base.schemastaging.team_training_ground_relationship.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1w01"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_coaches",
+      "m.052tpcc"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.sport",
+      "Baseball"
+    ],
+    [
+      "m.0j81bck",
+      "baseball.baseball_historical_managerial_position.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0crt79d",
+      "sports.sports_league_participation.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.league",
+      "National League"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1wt1"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy4w7"
+    ],
+    [
+      "m.052tpc4",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Miami Marlins"
+    ],
+    [
+      "m.05n6f25",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.league",
+      "m.0crtdb6"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.location",
+      "Little Havana"
+    ],
+    [
+      "Little Havana",
+      "sports.sports_team_location.teams",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6f8r"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.colors",
+      "Silver"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dcn"
+    ],
+    [
+      "m.05n6d8t",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1tsb"
+    ],
+    [
+      "m.0p1l_r5",
+      "baseball.baseball_historical_managerial_position.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.05n6dn5",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy3tq"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.team_mascot",
+      "Billy the Marlin"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1wtt"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dkb"
+    ],
+    [
+      "National League East",
+      "baseball.baseball_division.teams",
+      "Miami Marlins"
+    ],
+    [
+      "m.0crt4jw",
+      "sports.sports_league_participation.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dwd"
+    ],
+    [
+      "m.04vy4w7",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dn5"
+    ],
+    [
+      "m.05n6fdg",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy4dw"
+    ],
+    [
+      "m.05n6dkb",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04vy453"
+    ],
+    [
+      "m.07nf1kg",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6frd"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fdg"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1xqv"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1sf8"
+    ],
+    [
+      "Billy the Marlin",
+      "sports.mascot.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0j81bl_",
+      "baseball.baseball_historical_managerial_position.team",
+      "Miami Marlins"
+    ],
+    [
+      "2003 World Series",
+      "sports.sports_championship_event.champion",
+      "Miami Marlins"
+    ],
+    [
+      "m.052tpcc",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "base.schemastaging.sports_team_extra.training_ground",
+      "m.0j___ts"
+    ],
+    [
+      "m.04vy453",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.052tpbh",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.league",
+      "m.0crt4jw"
+    ],
+    [
+      "m.04w1sf8",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Sid Rosenberg Show",
+      "broadcast.content.genre",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dzg"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_coaches",
+      "m.052tpcl"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1s30"
+    ],
+    [
+      "Miami Marlins",
+      "common.topic.article",
+      "m.03006"
+    ],
+    [
+      "Miami Marlins",
+      "broadcast.genre.content",
+      "Sid Rosenberg Show"
+    ],
+    [
+      "m.05n6f8r",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1x5h"
+    ],
+    [
+      "m.04w1tsb",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6f25"
+    ],
+    [
+      "m.05n6fvg",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.05n6fmp",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.05n6dwd",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.010q_p9h"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6dgh"
+    ],
+    [
+      "Florida Marlins",
+      "sports.defunct_sports_team.later_known_as",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1wvp"
+    ],
+    [
+      "m.06s8fgp",
+      "baseball.batting_statistics.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.05n6f5p",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "base.schemastaging.sports_team_extra.training_ground",
+      "m.0j___v1"
+    ],
+    [
+      "m.04vy3tq",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.05n6dzg",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.04w1x5h",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0wgh0wd",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0jbcp70",
+      "common.webpage.topic",
+      "Miami Marlins"
+    ],
+    [
+      "Marlins Park",
+      "sports.sports_facility.teams",
+      "Miami Marlins"
+    ],
+    [
+      "m.0z6d3cn",
+      "award.award_nomination.award_nominee",
+      "Miami Marlins"
+    ],
+    [
+      "Jeffrey Loria",
+      "sports.sports_team_owner.teams_owned",
+      "Miami Marlins"
+    ],
+    [
+      "m.04w1wfw",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.04w1wt1",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami",
+      "sports.sports_team_location.teams",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1t8w"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6d8t"
+    ],
+    [
+      "National League",
+      "baseball.baseball_league.teams",
+      "Miami Marlins"
+    ],
+    [
+      "m.010q_p9h",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0422h2r",
+      "common.webpage.topic",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "common.topic.notable_for",
+      "g.125c74m4s"
+    ],
+    [
+      "m.05n6drx",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.04vy4dw",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.historical_managers",
+      "m.0j81bl_"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_coaches",
+      "m.052tpby"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.colors",
+      "Teal"
+    ],
+    [
+      "Miami Marlins",
+      "common.topic.webpage",
+      "m.0jbcp70"
+    ],
+    [
+      "m.04w1vk7",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1vk7"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.championships",
+      "2003 World Series"
+    ],
+    [
+      "m.04w1sxd",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "award.award_nominee.award_nominations",
+      "m.0z6d3cn"
+    ],
+    [
+      "Miami Marlins",
+      "base.popstra.organization.supporter",
+      "m.0652bcb"
+    ],
+    [
+      "m.06s8fjb",
+      "baseball.batting_statistics.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.052tpcl",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1wfw"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.draft_picks",
+      "m.04w1sxd"
+    ],
+    [
+      "m.04w1wvp",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.04w1xqv",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.colors",
+      "Black"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_coaches",
+      "m.052tpbh"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fhz"
+    ],
+    [
+      "m.04w1t8w",
+      "sports.sports_league_draft_pick.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fmp"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.league",
+      "m.0crt79d"
+    ],
+    [
+      "m.0652bcb",
+      "base.popstra.support.supported_organization",
+      "Miami Marlins"
+    ],
+    [
+      "m.0123wrz3",
+      "business.employment_tenure.company",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "common.topic.webpage",
+      "m.0422h2r"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6f5p"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.current_coaches",
+      "m.0wgh0wd"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.division",
+      "National League East"
+    ],
+    [
+      "Miami Marlins",
+      "sports.professional_sports_team.owner_s",
+      "Jeffrey Loria"
+    ],
+    [
+      "m.05n6dgh",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.previously_known_as",
+      "Florida Marlins"
+    ],
+    [
+      "m.05n6fhz",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0jbcp70",
+      "common.webpage.resource",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.team_stats",
+      "m.05n6fvg"
+    ],
+    [
+      "m.052tpby",
+      "baseball.current_coaching_tenure.baseball_team",
+      "Miami Marlins"
+    ],
+    [
+      "Miami Marlins",
+      "award.award_nominee.award_nominations",
+      "m.0z6bdkg"
+    ],
+    [
+      "Miami Marlins",
+      "baseball.baseball_team.historical_managers",
+      "m.0p1l_r5"
+    ],
+    [
+      "m.05n6dcn",
+      "baseball.baseball_team_stats.team",
+      "Miami Marlins"
+    ],
+    [
+      "m.0d5_38q",
+      "sports.pro_sports_played.sport",
+      "Baseball"
+    ],
+    [
+      "Bo Porter",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Chip Ambres",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Tino Martinez",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Ozzie Guillén",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Albert Goodwill Spalding",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Josh Beckett",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "John Pierson",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Chris Volstad",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Jeremy Hermida",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Marc Valdes",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Mark Wiley",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Aaron Thompson",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Andy Fox",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Adrian Gonzalez",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Taylor Tankersley",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Mark Kotsay",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Steve Foster",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Charles Johnson",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Joe Girardi",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Josh Booty",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "Tyler Kolek",
+      "people.person.profession",
+      "Baseball player"
+    ],
+    [
+      "m.06s8fjb",
+      "baseball.batting_statistics.season",
+      "2003 Major League Baseball season"
+    ],
+    [
+      "m.06s8fgp",
+      "baseball.batting_statistics.season",
+      "2002 Major League Baseball Season"
+    ]
+  ]
+}

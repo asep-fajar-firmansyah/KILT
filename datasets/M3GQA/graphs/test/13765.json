@@ -1,0 +1,7425 @@
+{
+  "graph_id": 13765,
+  "subgraph": [
+    [
+      "Leeward Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bertha"
+    ],
+    [
+      "Leeward Islands",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "Hurricane Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Leeward Islands"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "Leeward Islands"
+    ],
+    [
+      "Puerto Rico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Puerto Rico",
+      "location.administrative_division.country",
+      "United States, with Territories"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edna"
+    ],
+    [
+      "Hurricane Edna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Earl"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Puerto Rico"
+    ],
+    [
+      "1949 Florida hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1949 Florida hurricane"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bertha"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "Mi corazón",
+      "film.film.country",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "Puerto Rico"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Helene"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.administrative_divisions",
+      "Puerto Rico"
+    ],
+    [
+      "Puerto Rico",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "Hurricane Earl",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Tropical Storm Helene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Puerto Rico"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.contains",
+      "Pennsylvania"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bertha"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.contains",
+      "West Virginia"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.contains",
+      "Virginia"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1804 Snow hurricane"
+    ],
+    [
+      "Tropical Storm Allison",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1821 Norfolk and Long Island hurricane"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Textile workers strike",
+      "time.event.locations",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.contains",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "location.location.containedby",
+      "Mid-Atlantic states"
+    ],
+    [
+      "m.0lywl_x",
+      "location.adjoining_relationship.adjoins",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edouard"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mid-Atlantic states",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "1804 Snow hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Hurricane Edouard",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Diane"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.contains",
+      "New York"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.events",
+      "Textile workers strike"
+    ],
+    [
+      "Mid-Atlantic states",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Allison"
+    ],
+    [
+      "Hurricane Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "1821 Norfolk and Long Island hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.contains",
+      "Maryland"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Mid-Atlantic states",
+      "location.location.adjoin_s",
+      "m.0lywl_x"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "Mid-Atlantic states"
+    ],
+    [
+      "Hurricane Bertha",
+      "meteorology.tropical_cyclone.category",
+      "Category 3 Hurricane (SSHS)"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bertha"
+    ],
+    [
+      "Hurricane Bertha",
+      "common.topic.image",
+      "Bertha 9 July 1996"
+    ],
+    [
+      "Hurricane Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Bertha",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Category 3 Hurricane (SSHS)",
+      "meteorology.tropical_cyclone_category.tropical_cyclones",
+      "Hurricane Bertha"
+    ],
+    [
+      "Hurricane Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "Hurricane Bertha",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1996 Atlantic hurricane season"
+    ],
+    [
+      "Hurricane Bertha",
+      "common.topic.article",
+      "m.05yggx"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bertha"
+    ],
+    [
+      "Hurricane Bertha",
+      "common.topic.image",
+      "Hurricane Bertha at peak intensity"
+    ],
+    [
+      "Hurricane Bertha",
+      "common.topic.notable_for",
+      "g.1255sg7z9"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Hannibal Rising",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.administrative_division.first_level_division_of",
+      "France"
+    ],
+    [
+      "All the Invisible Children",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.first_level_divisions",
+      "Saint Pierre and Miquelon"
+    ],
+    [
+      "Babylon A.D.",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Under Siege",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "GTCbio",
+      "organization.organization.geographic_scope",
+      "France"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.administrative_division.country",
+      "France"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.location.containedby",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "Solomon Kane",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "m.04z1fqd",
+      "military.military_combatant_group.combatants",
+      "France"
+    ],
+    [
+      "Bryan Deehring",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Mason",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Vermont"
+    ],
+    [
+      "Mount Jim",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Cannon Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bill Belichick",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maryland"
+    ],
+    [
+      "m.0106n0tv",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tennessee"
+    ],
+    [
+      "Mount Tom",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "California"
+    ],
+    [
+      "Anthony Giardina",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "U.S. National Park Service",
+      "government.governmental_body.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Garfield",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hillsborough County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "George Sexton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "California"
+    ],
+    [
+      "Boston-Cambridge-Quincy, MA-NH Metropolitan Statistical Area",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Scar Ridge",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Mount Washington",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Caroll Spinney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Connecticut"
+    ],
+    [
+      "Kentucky",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "m.0n5xxhv",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_contains",
+      "Halls Stream"
+    ],
+    [
+      "Nashua River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lamentation Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Cathole Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "East Peak",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "50 more hikes in New Hampshire",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Guns, Girls and Gambling",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0nc_vk2",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Highlander: Endgame",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mount Joseph Whipple",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tango & Cash",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "San Francisco"
+    ],
+    [
+      "Vermont",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Antrim",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Shadow Conspiracy",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Waltham",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "On Deadly Ground",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jeff Lazaro",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Virginia"
+    ],
+    [
+      "Georgia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "m.0n7zb9g",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Richard Thomas Nolan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Abraham Ten Broeck",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Webster",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Shawn McEachern",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0m4nww2",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Georgia"
+    ],
+    [
+      "m.0mtkc3s",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Louisiana"
+    ],
+    [
+      "Baldpate Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Totoket Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Tennessee"
+    ],
+    [
+      "Mount Willey",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Imp Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Robert Carlock",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Milford",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pinkham Notch",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "G.I. Joe: The Rise of Cobra",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hillsborough",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ben Polak",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Moosilauke",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Kearsarge North",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Hoosic River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "American Civil War",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Out for a Kill",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "m.09pvqqq",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Boston",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Georgia"
+    ],
+    [
+      "Keith Aucoin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Sleeping Giant",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "Vermont",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mount Kelsey",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0n653cv",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York"
+    ],
+    [
+      "Providence",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Deerfield River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Pawcatuck River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Madison",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hoosic River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "South Middleborough Historic District",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Connecticut"
+    ],
+    [
+      "m.0n7z9p3",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Louisiana"
+    ],
+    [
+      "Manchester",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Vermont"
+    ],
+    [
+      "Louisiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0nbyw1z",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Justin Cronin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Starr King",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Francis Jackson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Tennessee"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "Salmon Falls River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Connecticut River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Halloween Resurrection",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "North Twin Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maryland"
+    ],
+    [
+      "Short Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New York"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.05kfd1n",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.0m4nr4k",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Jesse Wiener",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "James Chirillo",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Tecumseh",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "F. Lee Bailey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mackenzy Bernadeau",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "Mercenary for Justice",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Louisiana"
+    ],
+    [
+      "Rocky V",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Cyrus Peirce",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.04z1fqk",
+      "military.military_combatant_group.combatants",
+      "United States of America"
+    ],
+    [
+      "Concord",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Coos County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Mount Passaconaway",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Guyot",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Montpelier",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "South Baldface",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "American Indian Wars",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "Merrimack River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Adams",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Vermont"
+    ],
+    [
+      "m.011vg7wj",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "East Coast of the United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Indiana"
+    ],
+    [
+      "Middle Carter Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "John Lynch",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Old Speck Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Sleepers",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Richard DeAgazio",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "Wildcat Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Liberty",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Carolina"
+    ],
+    [
+      "Rhode Island",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Michigan"
+    ],
+    [
+      "Peck Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "One Eyed King",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Fred Smerlas",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kristi Lynn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Piscataqua River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "South Carolina"
+    ],
+    [
+      "Saco River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "m.05kdcg1",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "California"
+    ],
+    [
+      "m.0mtpctf",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Massachusetts"
+    ],
+    [
+      "East Rock",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Bulge",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "South Portland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Charlie Jane Anders",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0nbz128",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Scott Benjaminson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Abner Genece",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Donna Dickenson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Middleborough",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.040k6w_",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Ten Mile River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0mtlh0x",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Frissell",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Boott Spur",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09rfknv",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kentucky"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Jersey"
+    ],
+    [
+      "Peak Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Ohio"
+    ],
+    [
+      "Maine",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Northeastern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Carter Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dave Pallone",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Isolation",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Carolina"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "m.05kfgp8",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Hannibal Rising",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mount Carrigain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Indiana"
+    ],
+    [
+      "m.0ncr0px",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Snow's Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North Carter Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Mount Field",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "George A. Ramsdell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Scantic River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Nancy Bishop",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cumberland Gap",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Hampshire"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Weekend Walks in Rhode Island",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Bunnell Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jason Pierce",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "A Boat For Bangladesh",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "m.0mthxv5",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Hartford",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Indiana"
+    ],
+    [
+      "Carter Dome",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.052w12j",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Housatonic River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Herbert Dickinson Ward",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Augusta",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Carolina"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Hampshire"
+    ],
+    [
+      "Jennifer Lawrence is Coming",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Halls Stream",
+      "location.location.partially_containedby",
+      "United States of America"
+    ],
+    [
+      "Tony Massarotti",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Chris Biotti",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Harriet E. Wilson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Augusta",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Massachusetts"
+    ],
+    [
+      "U.S. National Park Service",
+      "government.government_agency.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "San Francisco",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Magalloway River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Hampshire"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Virginia"
+    ],
+    [
+      "m.0nbz1n5",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "San Diego",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Massachusetts"
+    ],
+    [
+      "South Weeks",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "California"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "m.0nbyw4b",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Montpelier",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Thomas More College of Liberal Arts",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lock Up",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Brian Strait",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Infinite Jazz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jack Coughlin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Frederick Peters",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "West Peak",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Louisiana"
+    ],
+    [
+      "Charles Fenno Jacobs",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kinsman Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0n98xnl",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.0m4h4__",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Mount Hight",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "Pilot Range",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Carolina"
+    ],
+    [
+      "California",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Child 44",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Richard Pevear and Larissa Volokhonsky",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "White Rock",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bill Thorpe",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Ohio"
+    ],
+    [
+      "Mi corazón",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jersey City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0m1fgjs",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "Under Siege",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Michigan"
+    ],
+    [
+      "Forrest Sherman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0n66xld",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maryland"
+    ],
+    [
+      "Franconia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Nashua",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "The Cannon Balls",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Beryl"
+    ],
+    [
+      "Pinnacle Rock",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Reuben Parsons",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tropical Storm Beryl",
+      "meteorology.tropical_cyclone.affected_areas",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0gm5f02",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Jersey"
+    ],
+    [
+      "California",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Hampshire"
+    ],
+    [
+      "Jeffrey G. Williamson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Waumbek",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0m3mmxp",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Behold the Earth",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Pennsylvania"
+    ],
+    [
+      "Mount Osceola",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Clay",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "West Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Connecticut"
+    ],
+    [
+      "Fall River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Georgia"
+    ],
+    [
+      "Mount Tripyramid",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Wild River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Eastern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maine"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Linda Carucci",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Mount Dartmouth",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "Mount Whiteface",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Babylon A.D.",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Showdown in Little Tokyo",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Little Haystack Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maine"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "South Twin Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Belknap County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Jesse Andrew Richard",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Baldface",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Tennessee"
+    ],
+    [
+      "Edward Winterhalder",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hatchet Hill",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bradley Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Give 'Em Hell, Malone",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alice Marie Davis",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mount Jackson",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0ncqzxq",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09pv6tj",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Mount Bond",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Connecticut"
+    ],
+    [
+      "Mount Eisenhower",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "m.06km_w2",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "GTCbio",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "California",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Saco River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tim Schaller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Nancy O’Hara",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Vermont"
+    ],
+    [
+      "Brace Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Virginia"
+    ],
+    [
+      "Farmington River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Die Hard 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Robert Deacon",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Subtropical Storm Nicole",
+      "meteorology.tropical_cyclone.affected_areas",
+      "United States of America"
+    ],
+    [
+      "m.0nbz1f8",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kentucky"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "government.governmental_jurisdiction.government_bodies",
+      "U.S. National Park Service"
+    ],
+    [
+      "West Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States Forest Service",
+      "government.government_agency.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "Los Angeles County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Rhode Island"
+    ],
+    [
+      "Goose Eye Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Jersey"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Galehead Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "Paul Palandjian",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Massachusetts"
+    ],
+    [
+      "Fear",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Orison Swett Marden",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "For Sale by Owner",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Middlesex County",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Middle Moriah Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kentucky"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Jersey"
+    ],
+    [
+      "West Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "John Hartley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dallas Tanner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "A Week on the Concord and Merrimack Rivers",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kentucky"
+    ],
+    [
+      "m.040ls7w",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "Providence",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Edward Perry Warren",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Boston",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Quinebaug River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jack Sweet",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Chauncey Peak",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Indiana"
+    ],
+    [
+      "Wood River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Toni Weisskopf",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kenneth G. Wilson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Today You Die",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0nbxwpx",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Luis Daniel Ponce",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Monroe",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Owl's Head",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hartford",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Nathaniel P. Banks",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "Manitook Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Newfound Gap",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ohio"
+    ],
+    [
+      "Georgia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0nc__1r",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Paul Revere",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.09rfkjq",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Carolina"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Rhode Island"
+    ],
+    [
+      "First Sister",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "South Carolina"
+    ],
+    [
+      "Mount Hancock",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Grant Wood",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Long Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Georgia"
+    ],
+    [
+      "Indiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Sandwich Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Grafton County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Carol Lynley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "White Mountains",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Lafayette",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Pennsylvania"
+    ],
+    [
+      "Mount Pierce",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Michigan"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Rhode Island"
+    ],
+    [
+      "Mount Davis",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rattlesnake Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Jefferson",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New York"
+    ],
+    [
+      "Warren Newcombe",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Zapped!",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Deena Kastor",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Moriah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Middlesex County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maryland"
+    ],
+    [
+      "New Jersey",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Cracking the Ocean Code",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Austin Warren",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "m.0nbyyfb",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Mount Franklin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Stairs Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Karen J. Warren",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Virginia"
+    ],
+    [
+      "Vermont",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Shelburne Moriah Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0mtj2mr",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Theodore Lyman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Long Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hillsborough County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Round Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Chris Canning",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Spin",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Androscoggin River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mary Katherine Goddard",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Walter A. Wood",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "David G. Conover",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Frances Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Pagan Queen",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "San Diego",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Fire Down Below",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "Jeff Harding",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Nashua River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Mount Blue",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Grafton Notch",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "John Sullivan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Success",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Subtropical Storm Nicole"
+    ],
+    [
+      "East Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "West Virginia"
+    ],
+    [
+      "m.0m4g0_q",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Nubble Peak",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "West Virginia"
+    ],
+    [
+      "San Francisco",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.011vg7_y",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Ritual",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "New England",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0n5xt1_",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "San Francisco",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Mount Weeks",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Cabot",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Concord",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Robert Kraft",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Flume",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.011vg6v5",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Charles H. Burns",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Reviving The Freedom Mill",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Stacey Forbes Iwanicki",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Lincoln",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mount Watatic",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Michigan"
+    ],
+    [
+      "Thomas Hartley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Joseph Brant",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Isles of Shoals",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bob Weston",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "South Carolina"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mount Chocorua",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Blackstone River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Mount Zealand",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Darlene Deacon",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mount Hale",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Rhode Island"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "East Peak Mount Osceola",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maine"
+    ],
+    [
+      "Samuel Livermore",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Merrimack",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0n9d305",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Baptist Piety",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "San Francisco",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Peter Parcek",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "The Horn",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.05kf9n4",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "North Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Los Angeles County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maine"
+    ],
+    [
+      "Goshen Pass",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "West Virginia"
+    ],
+    [
+      "The Chronicles of Narnia: Prince Caspian",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Roger Serbagi",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Carroll County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Ossipee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Manchester",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "m.0ncypql",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Southern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Rhode Island",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "South Carolina",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States, with Territories"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Vermont",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Maine",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Louisiana",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Massachusetts",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maine"
+    ],
+    [
+      "Hurricane Kyle",
+      "common.topic.article",
+      "m.04myby0"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "2008 Atlantic hurricane season"
+    ],
+    [
+      "Nova Scotia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Maine",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Bermuda"
+    ],
+    [
+      "Atlantic Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Bermuda",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Nova Scotia"
+    ],
+    [
+      "Hurricane Kyle",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Massachusetts",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Atlantic Canada"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Massachusetts"
+    ],
+    [
+      "2008 Atlantic hurricane season",
+      "meteorology.tropical_cyclone_season.tropical_cyclones",
+      "Hurricane Kyle"
+    ],
+    [
+      "Hurricane Kyle",
+      "common.topic.notable_for",
+      "g.1254yfbf6"
+    ],
+    [
+      "Hurricane Kyle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "Hurricane Kyle",
+      "common.topic.image",
+      "Hurricane Kyle on September 28."
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maryland"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Turks and Caicos Islands"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "South Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern United States"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.strongest_storm_of",
+      "1954 Atlantic hurricane season"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Bahamas"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.category",
+      "Category 4 Hurricane (SSHS)"
+    ],
+    [
+      "Eastern Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern Canada"
+    ],
+    [
+      "Maryland",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1954 Atlantic hurricane season"
+    ],
+    [
+      "Eastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Hurricane Hazel",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Bahamas",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hazel"
+    ],
+    [
+      "Hurricane Hazel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "South Carolina"
+    ],
+    [
+      "Hurricane Edna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maine"
+    ],
+    [
+      "Hurricane Edna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Massachusetts"
+    ],
+    [
+      "Hurricane Edna",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Hurricane Edna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Edna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Bahamas"
+    ],
+    [
+      "Atlantic Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edna"
+    ],
+    [
+      "Bahamas",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edna"
+    ],
+    [
+      "Maine",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edna"
+    ],
+    [
+      "Hurricane Edna",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1954 Atlantic hurricane season"
+    ],
+    [
+      "Hurricane Edna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Atlantic Canada"
+    ],
+    [
+      "Massachusetts",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edna"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edna"
+    ],
+    [
+      "Hurricane Earl",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Hurricane Earl",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Atlantic Canada"
+    ],
+    [
+      "Atlantic Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Earl"
+    ],
+    [
+      "Hurricane Earl",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Bahamas"
+    ],
+    [
+      "Hurricane Earl",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern United States"
+    ],
+    [
+      "Bahamas",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Earl"
+    ],
+    [
+      "Eastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Earl"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Atlantic Canada"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Long Island"
+    ],
+    [
+      "East Coast of the United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Maine",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Massachusetts",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Bahamas",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Hurricane Noel",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Long Island",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Nova Scotia"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Florida"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Massachusetts"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Bahamas"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Nova Scotia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "East Coast of the United States"
+    ],
+    [
+      "Atlantic Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Noel"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maine"
+    ],
+    [
+      "Hurricane Noel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Turks and Caicos Islands"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maryland"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1955 Atlantic hurricane season"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "Hurricane Connie",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "New Jersey",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "Hurricane Connie",
+      "common.topic.notable_for",
+      "g.1255cgr5v"
+    ],
+    [
+      "Hurricane Connie",
+      "common.topic.article",
+      "m.01yc0l"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New Jersey"
+    ],
+    [
+      "Hurricane Connie",
+      "common.topic.image",
+      "Hurricane Connie Radar"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Hurricane Connie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "Maryland",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Connie"
+    ],
+    [
+      "The Fermi Paradox Is Our Business Model",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "The Chronicles of Narnia: Prince Caspian",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lock Up",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Guns, Girls and Gambling",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "All the Invisible Children",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Shadow Conspiracy",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Patriot Reign",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Cayuga people",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Fire Down Below",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bermuda",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Out for a Kill",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Babylon A.D.",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Child 44",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Source Decay",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "The Passage",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Bahamas",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "United Kingdom",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Halloween Resurrection",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Rocky V",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Belize",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Die Hard 2",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Cracking the Ocean Code",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "One Eyed King",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Behold the Earth",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "For Sale by Owner",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "The Providence Journal",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Mercenary for Justice",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Pagan Queen",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Under Siege",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Vanishing Acts",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Bermuda"
+    ],
+    [
+      "Jesse Andrew Richard",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "I'm Shipping Up to Boston",
+      "music.composition.language",
+      "English Language"
+    ],
+    [
+      "The Widows of Eastwick",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Today You Die",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bermuda",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "A Boat For Bangladesh",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Seneca people",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Pequot people",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Spin",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Mi corazón",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Highlander: Endgame",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Twelve",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "England",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "England"
+    ],
+    [
+      "Showdown in Little Tokyo",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Give 'Em Hell, Malone",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Ritual",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Belize",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Hannibal Rising",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Tango & Cash",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Oneida people",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Bahamas",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Zapped!",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Solomon Kane",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Boston Post",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Bahamas"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Honduras"
+    ],
+    [
+      "Mohawk people",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Fear",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Honduras",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Turks and Caicos Islands"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Belize"
+    ],
+    [
+      "Six Months, Three Days",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Reviving The Freedom Mill",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "G.I. Joe: The Rise of Cobra",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "On Deadly Ground",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Prodigal Summer: A Novel",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Jennifer Lawrence is Coming",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Fugitive Pieces",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1949 Florida hurricane"
+    ],
+    [
+      "1949 Florida hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Turks and Caicos Islands"
+    ],
+    [
+      "Bahamas",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1949 Florida hurricane"
+    ],
+    [
+      "1949 Florida hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Florida"
+    ],
+    [
+      "Eastern Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1949 Florida hurricane"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1949 Florida hurricane"
+    ],
+    [
+      "1949 Florida hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Bahamas"
+    ],
+    [
+      "1949 Florida hurricane",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Eastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1949 Florida hurricane"
+    ],
+    [
+      "1949 Florida hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern Canada"
+    ],
+    [
+      "1949 Florida hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern United States"
+    ],
+    [
+      "1949 Florida hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Eastern Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "Louisiana",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern United States"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Louisiana"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "Eastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 Galveston hurricane"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "1915 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern Canada"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Tropical Storm Chris",
+      "common.topic.article",
+      "m.0g5_k6"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Tropical Storm Chris",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Georgia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Georgia"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Atlantic Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Florida"
+    ],
+    [
+      "Tropical Storm Chris",
+      "common.topic.image",
+      "Tropical Storm Chris east of Florida."
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1988 Atlantic hurricane season"
+    ],
+    [
+      "Tropical Storm Chris",
+      "common.topic.notable_for",
+      "g.12553wd8j"
+    ],
+    [
+      "Tropical Storm Chris",
+      "common.topic.image",
+      "Tropical Storm Chris east of Florida"
+    ],
+    [
+      "South Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "South Carolina"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Atlantic Canada"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Connecticut"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "Category 3 Hurricane (SSHS)",
+      "meteorology.tropical_cyclone_category.tropical_cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Turks and Caicos Islands"
+    ],
+    [
+      "New Jersey",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Eastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Hurricane Irene",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Eastern Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Connecticut",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New Jersey"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern Canada"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.category",
+      "Category 3 Hurricane (SSHS)"
+    ],
+    [
+      "Bahamas",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Irene"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Bahamas"
+    ],
+    [
+      "Hurricane Irene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern United States"
+    ],
+    [
+      "Mi corazón",
+      "film.film.music",
+      "Jesse Wiener"
+    ],
+    [
+      "Jesse Wiener",
+      "film.music_contributor.film",
+      "Mi corazón"
+    ],
+    [
+      "Cuba",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Helene"
+    ],
+    [
+      "Tropical Storm Helene",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Tropical Storm Helene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Atlantic Canada"
+    ],
+    [
+      "Atlantic Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Helene"
+    ],
+    [
+      "Tropical Storm Helene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Helene"
+    ],
+    [
+      "Tropical Storm Helene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern United States"
+    ],
+    [
+      "Tropical Storm Helene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Cuba"
+    ],
+    [
+      "Eastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Helene"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Guatemala"
+    ],
+    [
+      "Bermuda",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Merrimack River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Lamentation Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Madison",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Dartmouth",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Short Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Wood River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cuba",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Bradley Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Hatchet Hill",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North Baldface",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Magalloway River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Moosilauke",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+      "book.written_work.subjects",
+      "North America"
+    ],
+    [
+      "Kearsarge North",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Goose Eye Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Liberty",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Rattlesnake Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Washington",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Hale",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Hancock",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Starr King",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Carter Dome",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Whiteface",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Guatemala",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "El Salvador",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Nubble Peak",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Blue",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Farmington River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Sandwich Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Hoosic River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Honduras",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Belize",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Galehead Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Middle Moriah Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Jackson",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Imp Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Moriah",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Bond",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Willey",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Lincoln",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "White Rock",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "East Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cannon Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Isolation",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Piscataqua River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Webster",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Pierce",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "The Bulge",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Fall River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Mexico"
+    ],
+    [
+      "Merrimack",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mexico",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Mount Tecumseh",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Hight",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "South Weeks",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Zealand",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Clay",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "American Revolutionary War",
+      "time.event.locations",
+      "North America"
+    ],
+    [
+      "Connecticut River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "East Peak",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "The Cannon Balls",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Scar Ridge",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Frissell",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "New Hampshire",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Passaconaway",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Jefferson",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Salmon Falls River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Bahamas",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Saco River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Franklin",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Sleeping Giant",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Quinebaug River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Housatonic River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Osceola",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Cabot",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Guyot",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Bahamas"
+    ],
+    [
+      "South Baldface",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Eisenhower",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Stairs Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "West Peak",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Owl's Head",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Pawcatuck River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Waumbek",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Success",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Nashua River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Blackstone River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Watatic",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "South Carter Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North Carter Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Chocorua",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Manitook Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Lafayette",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Flume",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Tripyramid",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "The Sleepers",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "New England Traverse",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Deerfield River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "South Twin Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Kelsey",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Peak Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Middle Carter Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Kinsman Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Belize"
+    ],
+    [
+      "Hillsborough County",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Bahamas",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Chauncey Peak",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Snow's Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "El Salvador"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Honduras"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Cuba"
+    ],
+    [
+      "Little Haystack Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Waltham",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mason",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Tom",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Field",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Ossipee River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Boott Spur",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Joseph Whipple",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Wildcat Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "South Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "The Horn",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Davis",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Long Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Scantic River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Adams",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Old Speck Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Pinnacle Rock",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Androscoggin River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Ten Mile River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Wild River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Totoket Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Milford",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Peck Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Halls Stream",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "American Indian Wars",
+      "time.event.locations",
+      "North America"
+    ],
+    [
+      "Mount Jim",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cathole Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Weeks",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Round Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Garfield",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "East Peak Mount Osceola",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Baldpate Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North Twin Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mexico",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Monroe",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "First Sister",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Brace Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "East Rock",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Mount Carrigain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Shelburne Moriah Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Bunnell Mountain",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "West Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "West Virginia",
+      "location.location.partiallycontains",
+      "m.0wg8p97"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "West Virginia",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "West Virginia",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "West Virginia",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "West Virginia",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "West Virginia"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "m.0wg8p97",
+      "location.partial_containment_relationship.partially_contained_by",
+      "West Virginia"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "base.litcentral.focal_location.defined_land_cover_classes",
+      "Appalachian (Hemlock)-Northern Hardwood Forest"
+    ],
+    [
+      "Southern United States",
+      "location.location.contains",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "Southern United States"
+    ],
+    [
+      "Appalachian (Hemlock)-Northern Hardwood Forest",
+      "base.landcover.land_cover_class.spatial_extent",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "West Virginia"
+    ],
+    [
+      "Pennsylvania",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Pennsylvania",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Belle"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Pennsylvania"
+    ],
+    [
+      "Eastern United States",
+      "location.location.contains",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "Eastern United States"
+    ],
+    [
+      "Pennsylvania",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Hurricane Belle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Pennsylvania"
+    ],
+    [
+      "Appalachian (Hemlock)-Northern Hardwood Forest",
+      "base.landcover.land_cover_class.spatial_extent",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "m.0wg8mwx",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Pennsylvania"
+    ],
+    [
+      "Northern theater of the American Revolutionary War after Saratoga",
+      "time.event.locations",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.partiallycontains",
+      "m.0wg8mwx"
+    ],
+    [
+      "Pennsylvania",
+      "base.litcentral.focal_location.defined_land_cover_classes",
+      "Appalachian (Hemlock)-Northern Hardwood Forest"
+    ],
+    [
+      "Pennsylvania",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Pennsylvania"
+    ],
+    [
+      "Gale of 1878",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Pennsylvania"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.events",
+      "Northern theater of the American Revolutionary War after Saratoga"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Pennsylvania",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Gale of 1878"
+    ],
+    [
+      "New York",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "B'nai B'rith District Grand Lodge 1"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "New York"
+    ],
+    [
+      "Hurricane Carol",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "New York"
+    ],
+    [
+      "Appalachian (Hemlock)-Northern Hardwood Forest",
+      "base.landcover.land_cover_class.spatial_extent",
+      "New York"
+    ],
+    [
+      "Hoosic River",
+      "location.location.partially_containedby",
+      "New York"
+    ],
+    [
+      "American Waterfront",
+      "amusement_parks.ride.theme",
+      "New York"
+    ],
+    [
+      "1925 Florida tropical storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1925 Florida tropical storm"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1944 Great Atlantic hurricane"
+    ],
+    [
+      "New York",
+      "location.location.partially_contains",
+      "White Rock"
+    ],
+    [
+      "New York",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "New York",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Gale of 1878",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "New York"
+    ],
+    [
+      "New England Traverse",
+      "location.location.partially_containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "B'nai B'rith District Grand Lodge 1",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.partiallycontains",
+      "m.0wg8mn0"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "Gibney Family Foundation Inc",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Sills Family Foundation"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "Eastern United States"
+    ],
+    [
+      "m.0wg8mn0",
+      "location.partial_containment_relationship.partially_contained_by",
+      "New York"
+    ],
+    [
+      "New York",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Eastern United States",
+      "location.location.contains",
+      "New York"
+    ],
+    [
+      "Hurricane Belle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Diane"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Gale of 1878"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "New York",
+      "location.location.events",
+      "Northern theater of the American Revolutionary War after Saratoga"
+    ],
+    [
+      "New York",
+      "location.location.partially_contains",
+      "Hoosic River"
+    ],
+    [
+      "Brace Mountain",
+      "location.location.partially_containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.partially_contains",
+      "New England Traverse"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Carol"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Belle"
+    ],
+    [
+      "White Rock",
+      "location.location.partially_containedby",
+      "New York"
+    ],
+    [
+      "Mohawk people",
+      "people.ethnicity.geographic_distribution",
+      "New York"
+    ],
+    [
+      "1938 New England hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.partially_contains",
+      "Brace Mountain"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Gibney Family Foundation Inc"
+    ],
+    [
+      "Oneida people",
+      "people.ethnicity.geographic_distribution",
+      "New York"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "Abraham Ten Broeck",
+      "people.person.place_of_birth",
+      "New York"
+    ],
+    [
+      "New York",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Boston Post"
+    ],
+    [
+      "Northern theater of the American Revolutionary War after Saratoga",
+      "time.event.locations",
+      "New York"
+    ],
+    [
+      "Seneca people",
+      "people.ethnicity.geographic_distribution",
+      "New York"
+    ],
+    [
+      "The Boston Post",
+      "book.newspaper.circulation_areas",
+      "New York"
+    ],
+    [
+      "New York",
+      "base.litcentral.focal_location.defined_land_cover_classes",
+      "Appalachian (Hemlock)-Northern Hardwood Forest"
+    ],
+    [
+      "Sills Family Foundation",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "New York",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1938 New England hurricane"
+    ],
+    [
+      "Long Island",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "1944 Great Atlantic hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New York"
+    ],
+    [
+      "New York",
+      "amusement_parks.ride_theme.rides",
+      "American Waterfront"
+    ],
+    [
+      "Virginia",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "base.litcentral.focal_location.conservation_project_s",
+      "Inventory of Bird Communities within High Elevation Sites of Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.partiallycontains",
+      "m.0wg8nzj"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Goshen Pass",
+      "location.location.containedby",
+      "Virginia"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane How"
+    ],
+    [
+      "Hurricane Esther",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Hurricane Gustav",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Virginia",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Gale of 1878"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gustav"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Virginia"
+    ],
+    [
+      "Hurricane How",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1804 Snow hurricane"
+    ],
+    [
+      "m.0wg8nzj",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Virginia"
+    ],
+    [
+      "1804 Snow hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Virginia"
+    ],
+    [
+      "Gale of 1878",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Inventory of Bird Communities within High Elevation Sites of Virginia",
+      "base.abcbirds.conservation_project.project_location_s",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Esther"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Great Colonial Hurricane of 1635"
+    ],
+    [
+      "Great Colonial Hurricane of 1635",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Cumberland Gap",
+      "location.location.containedby",
+      "Virginia"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "base.litcentral.focal_location.conservation_project_s",
+      "Status Assessment of Golden-winged Warblers and Bewick’s Wrens in Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Diane"
+    ],
+    [
+      "Virginia",
+      "base.litcentral.focal_location.defined_land_cover_classes",
+      "Appalachian (Hemlock)-Northern Hardwood Forest"
+    ],
+    [
+      "Virginia",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Appalachian (Hemlock)-Northern Hardwood Forest",
+      "base.landcover.land_cover_class.spatial_extent",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Status Assessment of Golden-winged Warblers and Bewick’s Wrens in Virginia",
+      "base.abcbirds.conservation_project.project_location_s",
+      "Virginia"
+    ],
+    [
+      "1804 Snow hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "1804 Snow hurricane",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "1804 Snow hurricane",
+      "common.topic.notable_for",
+      "g.1255gd589"
+    ],
+    [
+      "1804 Snow hurricane",
+      "common.topic.image",
+      "North End, Boston"
+    ],
+    [
+      "1804 Snow hurricane",
+      "common.topic.article",
+      "m.0d6g6l"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1804 Snow hurricane"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Allison"
+    ],
+    [
+      "Louisiana",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Allison"
+    ],
+    [
+      "Tropical Storm Allison",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Tropical Storm Allison",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Eastern United States"
+    ],
+    [
+      "Tropical Storm Allison",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Louisiana"
+    ],
+    [
+      "Tropical Storm Allison",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Eastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Allison"
+    ],
+    [
+      "Maryland",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Diane"
+    ],
+    [
+      "Gale of 1878",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maryland"
+    ],
+    [
+      "Maryland",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Maryland",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Maryland",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Maryland",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "m.03ph0xj",
+      "people.place_lived.location",
+      "Maryland"
+    ],
+    [
+      "Maryland",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maryland"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Maryland"
+    ],
+    [
+      "Maryland",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Esther"
+    ],
+    [
+      "Appalachian (Hemlock)-Northern Hardwood Forest",
+      "base.landcover.land_cover_class.spatial_extent",
+      "Maryland"
+    ],
+    [
+      "Maryland",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Gale of 1878"
+    ],
+    [
+      "Maryland",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "1934 Central America hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maryland"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Maryland"
+    ],
+    [
+      "Maryland",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1934 Central America hurricane"
+    ],
+    [
+      "Hurricane Esther",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maryland"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Maryland"
+    ],
+    [
+      "Maryland",
+      "base.litcentral.focal_location.defined_land_cover_classes",
+      "Appalachian (Hemlock)-Northern Hardwood Forest"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Bob",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Atlantic Canada",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Bob",
+      "common.topic.image",
+      "Hurricane Bob 19 aug 1991 1226Z"
+    ],
+    [
+      "Massachusetts",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1991 Atlantic hurricane season"
+    ],
+    [
+      "Maine",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "South Carolina"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Maine"
+    ],
+    [
+      "Hurricane Bob",
+      "common.topic.notable_for",
+      "g.12565x1_1"
+    ],
+    [
+      "Hurricane Bob",
+      "common.topic.notable_for",
+      "g.125d31y5g"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Florida"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Atlantic Canada"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Massachusetts"
+    ],
+    [
+      "Hurricane Bob",
+      "common.topic.article",
+      "m.025v1dr"
+    ],
+    [
+      "Hurricane Bob",
+      "common.topic.image",
+      "Bob nearing South Carolina landfall as a hurricane"
+    ],
+    [
+      "South Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Bob",
+      "common.topic.article",
+      "m.03n1v0"
+    ],
+    [
+      "Long Island",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Long Island"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1985 Atlantic hurricane season"
+    ],
+    [
+      "1821 Norfolk and Long Island hurricane",
+      "common.topic.notable_for",
+      "g.125fbm4n3"
+    ],
+    [
+      "1821 Norfolk and Long Island hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "1821 Norfolk and Long Island hurricane",
+      "common.topic.article",
+      "m.0860vb"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1821 Norfolk and Long Island hurricane"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1821 Norfolk and Long Island hurricane"
+    ],
+    [
+      "1821 Norfolk and Long Island hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "1821 Norfolk and Long Island hurricane",
+      "common.topic.image",
+      "1821 Atlantic Hurricane Track Map"
+    ],
+    [
+      "1821 Norfolk and Long Island hurricane",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Textile workers strike",
+      "time.event.locations",
+      "New England"
+    ],
+    [
+      "Textile workers strike",
+      "common.topic.notable_for",
+      "g.1259g2flt"
+    ],
+    [
+      "Southern United States",
+      "location.location.events",
+      "Textile workers strike"
+    ],
+    [
+      "Textile workers strike",
+      "time.event.locations",
+      "Southern United States"
+    ],
+    [
+      "New England",
+      "location.location.events",
+      "Textile workers strike"
+    ],
+    [
+      "Textile workers strike",
+      "common.topic.article",
+      "m.02bt_f"
+    ],
+    [
+      "Textile workers strike",
+      "common.topic.notable_types",
+      "Event"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Diane"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New Jersey"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Diane",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1955 Atlantic hurricane season"
+    ],
+    [
+      "Hurricane Diane",
+      "common.topic.notable_for",
+      "g.1257zsvg9"
+    ],
+    [
+      "Hurricane Diane",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "New Jersey",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Diane"
+    ],
+    [
+      "Hurricane Diane",
+      "common.topic.article",
+      "m.03wwqm"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Diane"
+    ],
+    [
+      "New Jersey",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "New Jersey",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "New Jersey",
+      "location.location.partially_contains",
+      "Appalachian National Scenic Trail"
+    ],
+    [
+      "New Jersey",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1938 New England hurricane"
+    ],
+    [
+      "New Jersey",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New Jersey",
+      "location.location.partially_contains",
+      "New England Traverse"
+    ],
+    [
+      "Northern theater of the American Revolutionary War after Saratoga",
+      "time.event.locations",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "location.location.events",
+      "Northern theater of the American Revolutionary War after Saratoga"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "New Jersey"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "New Jersey"
+    ],
+    [
+      "m.0wg8ml3",
+      "location.partial_containment_relationship.partially_contained_by",
+      "New Jersey"
+    ],
+    [
+      "Hurricane Esther",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "location.location.partiallycontains",
+      "m.010pmh26"
+    ],
+    [
+      "New Jersey",
+      "base.litcentral.focal_location.defined_land_cover_classes",
+      "Appalachian (Hemlock)-Northern Hardwood Forest"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "New Jersey"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Esther"
+    ],
+    [
+      "Appalachian National Scenic Trail",
+      "location.location.partially_containedby",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Jersey City",
+      "location.location.containedby",
+      "New Jersey"
+    ],
+    [
+      "Hurricane Gloria",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gloria"
+    ],
+    [
+      "New Jersey",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "m.010pmh26",
+      "location.partial_containment_relationship.partially_contained_by",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Appalachian (Hemlock)-Northern Hardwood Forest",
+      "base.landcover.land_cover_class.spatial_extent",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "1938 New England hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "New England Traverse",
+      "location.location.partially_containedby",
+      "New Jersey"
+    ],
+    [
+      "Vernon",
+      "location.location.containedby",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gustav"
+    ],
+    [
+      "Hurricane Gustav",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New Jersey"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "New Jersey"
+    ],
+    [
+      "New Jersey",
+      "location.location.partiallycontains",
+      "m.0wg8ml3"
+    ],
+    [
+      "New England",
+      "location.location.adjoin_s",
+      "m.0lywl_x"
+    ],
+    [
+      "m.0lywl_x",
+      "location.adjoining_relationship.adjoins",
+      "New England"
+    ],
+    [
+      "Hurricane Edouard",
+      "meteorology.tropical_cyclone.strongest_storm_of",
+      "1996 Atlantic hurricane season"
+    ],
+    [
+      "Hurricane Edouard",
+      "common.topic.notable_for",
+      "g.125bd4k6y"
+    ],
+    [
+      "Hurricane Edouard",
+      "meteorology.tropical_cyclone.tropical_cyclone_season",
+      "1996 Atlantic hurricane season"
+    ],
+    [
+      "Hurricane Edouard",
+      "common.topic.article",
+      "m.09ncwv"
+    ],
+    [
+      "Hurricane Edouard",
+      "common.topic.image",
+      "Hurricane Edouard at peak intensity"
+    ],
+    [
+      "Hurricane Edouard",
+      "meteorology.tropical_cyclone.affected_areas",
+      "New England"
+    ],
+    [
+      "New England",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Edouard"
+    ],
+    [
+      "Hurricane Edouard",
+      "common.topic.notable_types",
+      "Tropical Cyclone"
+    ],
+    [
+      "Region",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Region",
+      "freebase.documented_object.documentation",
+      "m.02v9yj0"
+    ],
+    [
+      "Region",
+      "type.property.expected_type",
+      "Region"
+    ],
+    [
+      "Region",
+      "type.type.expected_by",
+      "Originating Region"
+    ],
+    [
+      "Region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Where caught",
+      "rdf-schema#range",
+      "Region"
+    ],
+    [
+      "Regions",
+      "type.property.expected_type",
+      "Region"
+    ],
+    [
+      "Region",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Region",
+      "freebase.type_profile.equivalent_topic",
+      "Region"
+    ],
+    [
+      "Originating Region",
+      "type.property.expected_type",
+      "Region"
+    ],
+    [
+      "Originating Region",
+      "rdf-schema#range",
+      "Region"
+    ],
+    [
+      "Southern United States",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "New England",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "East Coast of the United States",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Where caught",
+      "type.property.expected_type",
+      "Region"
+    ],
+    [
+      "Southeastern United States",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Location",
+      "type.property.expected_type",
+      "Region"
+    ],
+    [
+      "Regions",
+      "rdf-schema#range",
+      "Region"
+    ],
+    [
+      "Region",
+      "type.type.expected_by",
+      "Region"
+    ],
+    [
+      "Region",
+      "type.type.expected_by",
+      "Region of origin"
+    ],
+    [
+      "Region",
+      "type.type.expected_by",
+      "Regions"
+    ],
+    [
+      "Region",
+      "type.type.expected_by",
+      "Location"
+    ],
+    [
+      "Region",
+      "freebase.type_profile.kind",
+      "Description"
+    ],
+    [
+      "Region of origin",
+      "rdf-schema#range",
+      "Region"
+    ],
+    [
+      "Region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Region",
+      "freebase.equivalent_topic.equivalent_type",
+      "Region"
+    ],
+    [
+      "Region",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Location",
+      "rdf-schema#range",
+      "Region"
+    ],
+    [
+      "Region",
+      "rdf-schema#range",
+      "Region"
+    ],
+    [
+      "Region",
+      "type.type.expected_by",
+      "Where caught"
+    ],
+    [
+      "Northeastern United States",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Region of origin",
+      "type.property.expected_type",
+      "Region"
+    ],
+    [
+      "West Coast of the United States",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Region",
+      "common.topic.article",
+      "m.02v9yj0"
+    ],
+    [
+      "Region",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ]
+  ]
+}

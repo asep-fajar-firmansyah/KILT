@@ -1,0 +1,3530 @@
+{
+  "graph_id": 25492,
+  "subgraph": [
+    [
+      "Egypt",
+      "location.location.events",
+      "Arab–Byzantine wars"
+    ],
+    [
+      "Arab–Byzantine wars",
+      "time.event.includes_event",
+      "Muslim conquest of Egypt"
+    ],
+    [
+      "Arab–Byzantine wars",
+      "time.event.locations",
+      "Egypt"
+    ],
+    [
+      "Muslim conquest of the Maghreb",
+      "time.event.included_in_event",
+      "Arab–Byzantine wars"
+    ],
+    [
+      "Arab–Byzantine wars",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Arab–Byzantine wars",
+      "time.event.includes_event",
+      "Muslim conquest of the Maghreb"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Arab–Byzantine wars"
+    ],
+    [
+      "Arab–Byzantine wars",
+      "base.culturalevent.event.entity_involved",
+      "Rashidun Caliphate"
+    ],
+    [
+      "Arab–Byzantine wars",
+      "base.culturalevent.event.entity_involved",
+      "Abbasid Caliphate"
+    ],
+    [
+      "Muslim conquest of Egypt",
+      "time.event.included_in_event",
+      "Arab–Byzantine wars"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "Sanhaja de Srair language"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "language.human_language.language_family",
+      "Atlas languages"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "base.rosetta.languoid.parent",
+      "Riff Group"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Sanhaja de Srair language"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "common.topic.notable_for",
+      "g.1259xs5ms"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "language.human_language.main_country",
+      "Morocco"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "base.rosetta.languoid.local_name",
+      "Senhaja de Srair"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "common.topic.article",
+      "m.047f22"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Sanhaja de Srair language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.writing_system",
+      "Tifinagh"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.writing_system",
+      "Tifinagh"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Luxor Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Gharbia Governorate"
+    ],
+    [
+      "Port Said Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Alexandria Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Giza Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "The White Nile",
+      "book.written_work.subjects",
+      "Egypt"
+    ],
+    [
+      "Ismailia Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Africa",
+      "location.location.contains_major_portion_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.partially_containedby",
+      "North Africa"
+    ],
+    [
+      "Egypt",
+      "location.location.partially_containedby",
+      "Western Asia"
+    ],
+    [
+      "The Rulers of the Mediterranean",
+      "book.written_work.subjects",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Red Sea Governorate"
+    ],
+    [
+      "Beni Suef Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Sohag Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "New Valley Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Western Asia",
+      "location.location.partially_contains",
+      "Egypt"
+    ],
+    [
+      "Qena Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Beheira Governorate"
+    ],
+    [
+      "Monufia Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Monufia Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Qalyubia Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.partially_contained_by",
+      "m.0wg9213"
+    ],
+    [
+      "Matrouh Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Suez Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.primarily_containedby",
+      "Africa"
+    ],
+    [
+      "Qalyubia Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Giza Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Ismailia Governorate"
+    ],
+    [
+      "Cairo Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Beni Suef Governorate"
+    ],
+    [
+      "Egypt",
+      "location.location.events",
+      "Muslim conquest of Egypt"
+    ],
+    [
+      "Ismailia Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Sohag Governorate"
+    ],
+    [
+      "Al Sharqia Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.primarily_containedby",
+      "North Africa"
+    ],
+    [
+      "Egypt",
+      "location.location.containedby",
+      "Arab world"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Ismailia Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Dakahlia Governorate"
+    ],
+    [
+      "Alexandria Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Monufia Governorate"
+    ],
+    [
+      "Suez Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Cairo Governorate"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Qalyubia Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Minya Governorate"
+    ],
+    [
+      "Damietta Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Aswan Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Gharbia Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Sohag Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Matrouh Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Qena Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Suez Governorate"
+    ],
+    [
+      "Egypt",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Port Said Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Minya Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Dakahlia Governorate"
+    ],
+    [
+      "New Valley Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Gharbia Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Beni Suef Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Damietta Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Aswan Governorate"
+    ],
+    [
+      "Cairo Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Al Sharqia Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Cairo Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Faiyum Governorate"
+    ],
+    [
+      "Sahara",
+      "location.location.partially_containedby",
+      "Egypt"
+    ],
+    [
+      "m.0wg9213",
+      "location.partial_containment_relationship.partially_contains",
+      "Egypt"
+    ],
+    [
+      "Damietta Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Kafr el-Sheikh Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Damietta Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Gharbia Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Damietta Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "The cat of Bubastes",
+      "book.written_work.subjects",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Al Sharqia Governorate"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Suez Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Beheira Governorate"
+    ],
+    [
+      "Red Sea Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "North Africa",
+      "location.location.contains_major_portion_of",
+      "Egypt"
+    ],
+    [
+      "Arab world",
+      "location.location.contains",
+      "Egypt"
+    ],
+    [
+      "Sohag Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.events",
+      "Middle East Theatre of World War II"
+    ],
+    [
+      "Dakahlia Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Al Sharqia Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Gharbia Governorate"
+    ],
+    [
+      "Al Sharqia Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Aswan Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Asyut Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Damietta Governorate"
+    ],
+    [
+      "Kafr el-Sheikh Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Giza Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Middle East Theatre of World War II",
+      "time.event.locations",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "New Valley Governorate"
+    ],
+    [
+      "Aswan Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Minya Governorate"
+    ],
+    [
+      "Qena Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Minya Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Qalyubia Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Beni Suef Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Damietta Governorate"
+    ],
+    [
+      "Sohag Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alexandria Governorate"
+    ],
+    [
+      "Luxor Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Faiyum Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Ismailia Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kafr el-Sheikh Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Cairo Governorate"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Cairo Governorate"
+    ],
+    [
+      "Dakahlia Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Muslim conquest of Egypt",
+      "time.event.locations",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Gharbia Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Suez Governorate"
+    ],
+    [
+      "Beheira Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Three Empires on the Nile",
+      "book.written_work.subjects",
+      "Egypt"
+    ],
+    [
+      "Matrouh Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Beni Suef Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Qalyubia Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Beheira Governorate"
+    ],
+    [
+      "Aswan Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Monufia Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Beni Suef Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Beni Suef Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Red Sea Governorate"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Giza Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Monufia Governorate"
+    ],
+    [
+      "Sohag Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Egypt"
+    ],
+    [
+      "Siwi",
+      "base.rosetta.local_name.locale",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Al Sharqia Governorate"
+    ],
+    [
+      "Red Sea Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Red Sea Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Beheira Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Qena Governorate"
+    ],
+    [
+      "Dakahlia Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Matrouh Governorate"
+    ],
+    [
+      "Ismailia Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Monufia Governorate"
+    ],
+    [
+      "Alexandria Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Aswan Governorate"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Dakahlia Governorate"
+    ],
+    [
+      "Matrouh Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Aswan Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Al Sharqia Governorate"
+    ],
+    [
+      "Cairo Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Port Said Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Minya Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Minya Governorate"
+    ],
+    [
+      "Minya Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.partially_contains",
+      "Sahara"
+    ],
+    [
+      "Giza Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Monufia Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Qalyubia Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Siwi Language",
+      "language.human_language.main_country",
+      "Egypt"
+    ],
+    [
+      "Alexandria Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Luxor Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Beheira Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Suez Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Alexandria Governorate"
+    ],
+    [
+      "New Valley Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Matrouh Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Siwi Language"
+    ],
+    [
+      "Qena Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Faiyum Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Port Said Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Kafr el-Sheikh Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Alexandria Governorate"
+    ],
+    [
+      "Beheira Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Port Said Governorate"
+    ],
+    [
+      "Qena Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Port Said Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Giza Governorate"
+    ],
+    [
+      "Asyut Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Faiyum Governorate"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ismailia Governorate"
+    ],
+    [
+      "Gharbia Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Sohag Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Port Said Governorate"
+    ],
+    [
+      "Faiyum Governorate",
+      "location.administrative_division.first_level_division_of",
+      "Egypt"
+    ],
+    [
+      "Siwi Language",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Giza Governorate"
+    ],
+    [
+      "Red Sea Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Kafr el-Sheikh Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "Kafr el-Sheikh Governorate"
+    ],
+    [
+      "Dakahlia Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Faiyum Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "New Valley Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "North Africa",
+      "location.location.partially_contains",
+      "Egypt"
+    ],
+    [
+      "Kafr el-Sheikh Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Suez Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Egypt"
+    ],
+    [
+      "Asyut Governorate",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.administrative_divisions",
+      "New Valley Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Matrouh Governorate"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Valley Governorate"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Red Sea Governorate"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Qena Governorate"
+    ],
+    [
+      "Qalyubia Governorate",
+      "location.administrative_division.country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.first_level_divisions",
+      "Faiyum Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Muslim conquest of Egypt"
+    ],
+    [
+      "Muslim conquest of Egypt",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Muslim conquest of Egypt",
+      "base.culturalevent.event.entity_involved",
+      "Rashidun Caliphate"
+    ],
+    [
+      "Muslim conquest of Egypt",
+      "time.event.locations",
+      "Libya"
+    ],
+    [
+      "Libya",
+      "location.location.events",
+      "Muslim conquest of Egypt"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Muslim conquest of the Maghreb"
+    ],
+    [
+      "Muslim conquest of the Maghreb",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "My Battle of Algiers: A Memoir"
+    ],
+    [
+      "British airborne operations in North Africa",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Middle East Theatre of World War II",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Arab–Israeli conflict",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "An Army at Dawn",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Kafr el-Sheikh Governorate"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Desert War in North Africa"
+    ],
+    [
+      "North Africa",
+      "common.topic.notable_for",
+      "g.1259zl6_q"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Vandalic War"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "African trilogy"
+    ],
+    [
+      "Desert War in North Africa",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "m.07nfft9",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "An Army at Dawn"
+    ],
+    [
+      "m.0wg9218",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North Africa"
+    ],
+    [
+      "Scillitan Martyrs",
+      "people.person.place_of_birth",
+      "North Africa"
+    ],
+    [
+      "United Arab Republic",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Attack on Mers-el-Kébir",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Gharbia Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Aswan Governorate"
+    ],
+    [
+      "North Africa",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfft9"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Ptolemaic Kingdom"
+    ],
+    [
+      "m.0h2zfsn",
+      "location.adjoining_relationship.adjoins",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "The Desert Rats"
+    ],
+    [
+      "Rommel: The Desert Fox",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Port Said Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.adjoin_s",
+      "m.0h2zfsz"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Jews of a Saharan Oasis"
+    ],
+    [
+      "m.0h2zfst",
+      "location.adjoining_relationship.adjoins",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Operation Agreement"
+    ],
+    [
+      "North Africa",
+      "location.location.adjoin_s",
+      "m.0h2zfsn"
+    ],
+    [
+      "North Africa",
+      "location.location.people_born_here",
+      "Thierry Pastor"
+    ],
+    [
+      "Beheira Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Melilla"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Barbary Coast"
+    ],
+    [
+      "North Africa",
+      "common.topic.webpage",
+      "m.09ywg7q"
+    ],
+    [
+      "Spain",
+      "location.location.partially_containedby",
+      "North Africa"
+    ],
+    [
+      "Three Empires on the Nile",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Asyut Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North African Cooking",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Thierry Pastor",
+      "people.person.place_of_birth",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "A Tragedy of Arms"
+    ],
+    [
+      "m.0wg9213",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Damietta Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Al Sharqia Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Sus al-Aksa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Qena Governorate"
+    ],
+    [
+      "Arab world",
+      "location.location.partially_containedby",
+      "North Africa"
+    ],
+    [
+      "Cerbonius",
+      "people.person.place_of_birth",
+      "North Africa"
+    ],
+    [
+      "Rashidun Caliphate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "First Punic War",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Eighth Army"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Caliphate of Córdoba"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Greater Maghreb"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "On the Shores of the Mediterranean"
+    ],
+    [
+      "Ottoman–Habsburg wars",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "The cat of Bubastes"
+    ],
+    [
+      "The Golden Age of the Moor",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Attack on Mers-el-Kébir"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Ceuta"
+    ],
+    [
+      "The White Nile",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Operation Caravan",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Sus al-Aksa",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Greco–Punic Wars"
+    ],
+    [
+      "North Africa",
+      "common.topic.image",
+      "██ Northern Africa (UN subregion) ██ geographic, including above"
+    ],
+    [
+      "African campaigns of World War II",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Dakahlia Governorate"
+    ],
+    [
+      "Middle East",
+      "location.location.partially_containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Sohag Governorate"
+    ],
+    [
+      "Sohag Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Ismailia Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.adjoin_s",
+      "m.0h2zfst"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Ottoman–Habsburg wars"
+    ],
+    [
+      "My Battle of Algiers: A Memoir",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Operation Turkey Buzzard"
+    ],
+    [
+      "The Desert Rats",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Battle of Utica",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Ceuta",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "The Golden Age of the Moor"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Beheira Governorate"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Israel and Ishmael"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "New Valley Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Battle of Port Lyautey"
+    ],
+    [
+      "Al Sharqia Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Beni Suef Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Matrouh Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Sahara"
+    ],
+    [
+      "Mediterranean and Middle East theatre of World War II",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "The Rulers of the Mediterranean",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Monufia Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.partially_contains",
+      "Arab world"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Cairo Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Vandalic War",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Désert"
+    ],
+    [
+      "Luxor Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Aswan Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Battle of Port Lyautey",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Port Said Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Minya Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Suez Governorate"
+    ],
+    [
+      "Caliphate of Córdoba",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Sahara"
+    ],
+    [
+      "White Gold: The Extraordinary Story of Thomas Pellow and Islam's One Million White Slaves",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Eighth Army",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Ancient Greece",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Dakahlia Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Western Roman Empire"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.geographic_distribution",
+      "North Africa"
+    ],
+    [
+      "Melilla",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "m.0ws8w38",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "North African Cooking"
+    ],
+    [
+      "North Africa",
+      "location.location.partiallycontains",
+      "m.0wg9218"
+    ],
+    [
+      "North Africa",
+      "common.topic.article",
+      "m.05g34"
+    ],
+    [
+      "High Atlas",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "African campaigns of World War II"
+    ],
+    [
+      "Barbary Coast",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Middle East Theatre of World War II"
+    ],
+    [
+      "North Africa",
+      "location.location.partiallycontains",
+      "m.0ws8w38"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Arab–Israeli conflict"
+    ],
+    [
+      "Jews of a Saharan Oasis",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "The cat of Bubastes",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Gharbia Governorate"
+    ],
+    [
+      "Battle of Utica (49 BC)",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "m.0wg921f",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "White Gold: The Extraordinary Story of Thomas Pellow and Islam's One Million White Slaves"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Alexandria Governorate"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "The White Nile"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Matrouh Governorate"
+    ],
+    [
+      "Greater Maghreb",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Qalyubia Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "New Valley Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "██ Northern Africa (UN subregion) ██ geographic, including above",
+      "common.image.appears_in_topic_gallery",
+      "North Africa"
+    ],
+    [
+      "m.0wg920z",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Sudan"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Red Sea Governorate"
+    ],
+    [
+      "m.0h2zfsz",
+      "location.adjoining_relationship.adjoins",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.people_born_here",
+      "Lactantius"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Battle of Utica"
+    ],
+    [
+      "Ptolemaic Kingdom",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "First Punic War"
+    ],
+    [
+      "Mercenary War",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Qena Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Sudan",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Adrian of Canterbury",
+      "people.person.place_of_birth",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.partiallycontains",
+      "m.0wg920z"
+    ],
+    [
+      "North Africa",
+      "base.folklore.mythical_creature_location.mythical_creature_s",
+      "Three-legged crow"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Ismailia Governorate"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "The Rulers of the Mediterranean"
+    ],
+    [
+      "Sahara",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "British airborne operations in North Africa"
+    ],
+    [
+      "Kafr el-Sheikh Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Cairo Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Damietta Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Roman Republic",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Faiyum Governorate"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Roman Republic"
+    ],
+    [
+      "North Africa",
+      "location.location.partially_contains",
+      "Spain"
+    ],
+    [
+      "On the Shores of the Mediterranean",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Minya Governorate"
+    ],
+    [
+      "Operation Agreement",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Monufia Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Operation Cascade"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Rommel: The Desert Fox"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Mercenary War"
+    ],
+    [
+      "Suez Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Luxor Governorate"
+    ],
+    [
+      "The desert generals",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Greco–Punic Wars",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Sahara",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Ancient Greece"
+    ],
+    [
+      "North Africa",
+      "location.location.partiallycontains",
+      "m.0wg921f"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Mediterranean and Middle East theatre of World War II"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Asyut Governorate"
+    ],
+    [
+      "Lactantius",
+      "people.person.place_of_birth",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Giza Governorate"
+    ],
+    [
+      "Giza Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Operation Cascade",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Three-legged crow",
+      "base.folklore.mythical_creature.area_of_occurrence",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Operation Caravan"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Qalyubia Governorate"
+    ],
+    [
+      "A Tragedy of Arms",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "Israel and Ishmael",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "United Arab Republic"
+    ],
+    [
+      "Red Sea Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "m.09ywg7q",
+      "common.webpage.topic",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "The desert generals"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "High Atlas"
+    ],
+    [
+      "Désert",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.partiallycontains",
+      "m.0wg9213"
+    ],
+    [
+      "North Africa",
+      "location.location.people_born_here",
+      "Cerbonius"
+    ],
+    [
+      "African trilogy",
+      "book.written_work.subjects",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "common.topic.notable_types",
+      "Literature Subject"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Beni Suef Governorate"
+    ],
+    [
+      "Western Roman Empire",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Operation Turkey Buzzard",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "Faiyum Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "Pope Miltiades",
+      "people.person.place_of_birth",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.people_born_here",
+      "Adrian of Canterbury"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Battle of the Bagradas River (49 BC)"
+    ],
+    [
+      "Battle of the Bagradas River (49 BC)",
+      "time.event.locations",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.people_born_here",
+      "Scillitan Martyrs"
+    ],
+    [
+      "North Africa",
+      "location.location.partially_contains",
+      "Middle East"
+    ],
+    [
+      "Alexandria Governorate",
+      "location.location.containedby",
+      "North Africa"
+    ],
+    [
+      "North Africa",
+      "location.location.people_born_here",
+      "Pope Miltiades"
+    ],
+    [
+      "North Africa",
+      "book.book_subject.works",
+      "Three Empires on the Nile"
+    ],
+    [
+      "North Africa",
+      "location.location.events",
+      "Battle of Utica (49 BC)"
+    ],
+    [
+      "North Africa",
+      "location.location.contains",
+      "Rashidun Caliphate"
+    ],
+    [
+      "Rashidun Caliphate",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Rashidun Caliphate"
+    ],
+    [
+      "Abbasid Caliphate",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Abbasid Caliphate",
+      "location.country.languages_spoken",
+      "Rifian language"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.countries_spoken_in",
+      "Abbasid Caliphate"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Abbasid Caliphate"
+    ],
+    [
+      "Atlas languages",
+      "common.topic.image",
+      "Yaz"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "g.12h2sxgh5"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.member_of_language_families",
+      "Berber languages"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "g.12h2smk1r"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Atlas languages"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.member_of_language_families",
+      "Afroasiatic languages"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.geographic_distribution",
+      "Morocco"
+    ],
+    [
+      "Atlas languages",
+      "common.topic.notable_types",
+      "Language Family"
+    ],
+    [
+      "Tashelhiyt Language",
+      "language.human_language.language_family",
+      "Atlas languages"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "g.12h2t9l1p"
+    ],
+    [
+      "Atlas languages",
+      "common.topic.article",
+      "m.0408k8"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "g.12h2smsqf"
+    ],
+    [
+      "Atlas languages",
+      "common.topic.notable_for",
+      "g.1258m_kdm"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "g.12h2t2spp"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.sub_families",
+      "Atlas languages"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.language_family",
+      "Atlas languages"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "Central Atlas Tamazight"
+    ],
+    [
+      "Atlas languages",
+      "language.language_family.languages",
+      "Tashelhiyt Language"
+    ],
+    [
+      "Rifian language",
+      "base.rosetta.languoid.parent",
+      "Riff Group"
+    ],
+    [
+      "Zenati Group",
+      "base.rosetta.languoid.child",
+      "Riff Group"
+    ],
+    [
+      "Kabyle Language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Sened Language"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Ghadamès language"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Zenaga language"
+    ],
+    [
+      "Berber languages",
+      "common.topic.notable_for",
+      "g.1257ykzs1"
+    ],
+    [
+      "m.07ndp78",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Judeo-Berber Language"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.1220l9_2"
+    ],
+    [
+      "Zenaga Group",
+      "base.rosetta.languoid.parent",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Central Atlas Tamazight"
+    ],
+    [
+      "Berber language - Tamazight",
+      "common.image.appears_in_topic_gallery",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Tumzabt Language"
+    ],
+    [
+      "Afro-Asiatic Group",
+      "base.rosetta.languoid.child",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Gurara language"
+    ],
+    [
+      "Eastern Berber languages",
+      "base.rosetta.languoid.parent",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12gh30c4f"
+    ],
+    [
+      "Morocco",
+      "location.country.official_language",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Tashelhiyt Language"
+    ],
+    [
+      "Berber languages",
+      "common.topic.image",
+      "Berber language - Tamazight"
+    ],
+    [
+      "Tumzabt Language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Tawellemmet language"
+    ],
+    [
+      "Sened Language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.sub_families",
+      "Mzab–Wargla languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12mb3jg29"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12h2t9l1p"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Awjila language"
+    ],
+    [
+      "Tawellemmet language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "base.rosetta.languoid.child",
+      "Zenaga Group"
+    ],
+    [
+      "Siwi Language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Guanche Group",
+      "base.rosetta.languoid.parent",
+      "Berber languages"
+    ],
+    [
+      "Gurara language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "base.rosetta.languoid.languoid_class",
+      "Group"
+    ],
+    [
+      "Sokna language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.sub_families",
+      "Eastern Berber languages"
+    ],
+    [
+      "Northern Berber languages",
+      "base.rosetta.languoid.parent",
+      "Berber languages"
+    ],
+    [
+      "Tamasheq Group",
+      "base.rosetta.languoid.parent",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "common.topic.notable_types",
+      "Language Family"
+    ],
+    [
+      "Tashelhiyt Language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "common.topic.article",
+      "m.01hhs"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.geographic_distribution",
+      "Libya"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Tachawit Language"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12h2smk1r"
+    ],
+    [
+      "Mzab–Wargla languages",
+      "language.language_family.member_of_language_families",
+      "Berber languages"
+    ],
+    [
+      "Eastern Berber languages",
+      "language.language_family.member_of_language_families",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12h2sxgh5"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Siwi Language"
+    ],
+    [
+      "Judeo-Berber Language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Zenaga language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Ghadamès language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "common.topic.image",
+      "Location of Berber varieties in Northern Africa"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Rifian language"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Kabyle Language"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12dpwzbtx"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "base.rosetta.languoid.child",
+      "Guanche Group"
+    ],
+    [
+      "Berber languages",
+      "base.rosetta.languoid.child",
+      "Tamasheq Group"
+    ],
+    [
+      "Berber languages",
+      "base.rosetta.languoid.parent",
+      "Afro-Asiatic Group"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12h2smsqf"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.member_of_language_families",
+      "Afroasiatic languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "Sokna language"
+    ],
+    [
+      "Berber languages",
+      "base.rosetta.languoid.child",
+      "Eastern Berber languages"
+    ],
+    [
+      "Awjila language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.languages",
+      "g.12h2t2spp"
+    ],
+    [
+      "Berber languages",
+      "common.topic.image",
+      "Berbers"
+    ],
+    [
+      "Berbers",
+      "common.image.appears_in_topic_gallery",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "base.rosetta.languoid.child",
+      "Northern Berber languages"
+    ],
+    [
+      "Location of Berber varieties in Northern Africa",
+      "common.image.appears_in_topic_gallery",
+      "Berber languages"
+    ],
+    [
+      "Tachawit Language",
+      "language.human_language.language_family",
+      "Berber languages"
+    ],
+    [
+      "Berber languages",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07ndp78"
+    ],
+    [
+      "Kabyle Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Chenoua Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Rifian language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Human Language",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Human Language",
+      "type.type.expected_by",
+      "languages"
+    ],
+    [
+      "Siwi Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Tumzabt Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Tashelhiyt Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Zenaga language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Tachawit Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Human Language",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Human Language",
+      "type.type.domain",
+      "Language"
+    ],
+    [
+      "Awjila language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Sokna language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Gurara language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Sened Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Northern Berber languages",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Human Language",
+      "type.type.properties",
+      "Language Family"
+    ],
+    [
+      "Guanche Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Judeo-Berber Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Human Language",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Tawellemmet language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Ghadamès language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "High Atlas",
+      "travel.tourist_attraction.near_travel_destination",
+      "Morocco"
+    ],
+    [
+      "Sahara",
+      "location.location.partially_containedby",
+      "Morocco"
+    ],
+    [
+      "Morocco",
+      "location.country.languages_spoken",
+      "Rifian language"
+    ],
+    [
+      "High Atlas",
+      "location.location.containedby",
+      "Morocco"
+    ],
+    [
+      "Morocco",
+      "book.book_subject.works",
+      "A Tragedy of Arms"
+    ],
+    [
+      "Morocco",
+      "book.book_subject.works",
+      "White Gold: The Extraordinary Story of Thomas Pellow and Islam's One Million White Slaves"
+    ],
+    [
+      "Rif",
+      "location.location.containedby",
+      "Morocco"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.countries_spoken_in",
+      "Morocco"
+    ],
+    [
+      "Tashelhiyt Language",
+      "language.human_language.countries_spoken_in",
+      "Morocco"
+    ],
+    [
+      "Morocco",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "A Tragedy of Arms",
+      "book.written_work.subjects",
+      "Morocco"
+    ],
+    [
+      "White Gold: The Extraordinary Story of Thomas Pellow and Islam's One Million White Slaves",
+      "book.written_work.subjects",
+      "Morocco"
+    ],
+    [
+      "Morocco",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Morocco",
+      "location.location.partially_contains",
+      "Sahara"
+    ],
+    [
+      "Morocco",
+      "location.country.languages_spoken",
+      "Tashelhiyt Language"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.main_country",
+      "Morocco"
+    ],
+    [
+      "Tashelhiyt Language",
+      "language.human_language.main_country",
+      "Morocco"
+    ],
+    [
+      "Tachelhit",
+      "base.rosetta.local_name.locale",
+      "Morocco"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.main_country",
+      "Morocco"
+    ],
+    [
+      "Morocco",
+      "travel.travel_destination.tourist_attractions",
+      "High Atlas"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Morocco"
+    ],
+    [
+      "Ghadamès language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Zenaga language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Gurara language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Siwi Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Semitic languages",
+      "language.language_family.member_of_language_families",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.geographic_distribution",
+      "Western Asia"
+    ],
+    [
+      "Tachawit Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Chenoua Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Chadic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.member_of_language_families",
+      "Nostratic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.098lxhl"
+    ],
+    [
+      "Afroasiatic languages",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_r61fr"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "South Cushitic languages"
+    ],
+    [
+      "Sokna language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "common.topic.image",
+      "Afro-Asiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "common.topic.article",
+      "m.0hf_"
+    ],
+    [
+      "Guanche Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Eastern Berber languages"
+    ],
+    [
+      "Nostratic languages",
+      "language.language_family.sub_families",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "common.topic.notable_for",
+      "g.125f590zj"
+    ],
+    [
+      "Tashelhiyt Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Mzab–Wargla languages",
+      "language.language_family.member_of_language_families",
+      "Afroasiatic languages"
+    ],
+    [
+      "Judeo-Berber Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Sened Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Awjila language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Tawellemmet language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Semitic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Omotic languages"
+    ],
+    [
+      "Kabyle Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Mzab–Wargla languages"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "m.098lxhl",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Afroasiatic languages"
+    ],
+    [
+      "Cushitic languages",
+      "language.language_family.member_of_language_families",
+      "Afroasiatic languages"
+    ],
+    [
+      "Tumzabt Language",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Eastern Berber languages",
+      "language.language_family.member_of_language_families",
+      "Afroasiatic languages"
+    ],
+    [
+      "Afroasiatic languages",
+      "common.topic.notable_types",
+      "Language Family"
+    ],
+    [
+      "Afroasiatic languages",
+      "language.language_family.sub_families",
+      "Cushitic languages"
+    ],
+    [
+      "Zenaga language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Tashelhiyt Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Tachawit Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Siwi Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Guanche Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Judeo-Berber Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Chenoua Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Tumzabt Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Language Family",
+      "type.type.domain",
+      "Language"
+    ],
+    [
+      "Kabyle Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Sokna language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Rifian language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Sened Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Gurara language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Ghadamès language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Tawellemmet language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Awjila language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Tripoli",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Sudan",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Mauritania"
+    ],
+    [
+      "Ceuta",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Sened Language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Mauritania",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "My Battle of Algiers: A Memoir",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "High Atlas",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Algeria"
+    ],
+    [
+      "Tawellemmet language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Libya",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Tunisia",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Algeria",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Libya"
+    ],
+    [
+      "Zenaga language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Libya",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Sudan"
+    ],
+    [
+      "Sahara",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "Mauritania",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Tunisia",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Melilla",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Tunisia"
+    ],
+    [
+      "Three Empires on the Nile",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "Ghadamès language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Kabyle Language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Chenoua Language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Algeria",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Gurara language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Sudan",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Tachawit Language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Siwi Language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "White Gold: The Extraordinary Story of Thomas Pellow and Islam's One Million White Slaves",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "The White Nile",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "Awjila language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Jews of a Saharan Oasis",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "The Rulers of the Mediterranean",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "Tumzabt Language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Niger",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Niger"
+    ],
+    [
+      "Niger",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Rif",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "An Army at Dawn",
+      "book.written_work.subjects",
+      "Africa"
+    ],
+    [
+      "Sokna language",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "common.topic.article",
+      "m.02vn6n4"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.document",
+      "Tamazight, Central Atlas Etc."
+    ],
+    [
+      "Arabic alphabet",
+      "language.language_writing_system.languages",
+      "Central Atlas Tamazight"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.local_name",
+      "Tamazight, Central Atlas"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.document",
+      "Tamazight, Central Atlas Grammar"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.document",
+      "Tamazight, Central Atlas Orthography"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.document",
+      "Tamazight, Central Atlas Glossed Text"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.document",
+      "Tamazight, Central Atlas"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.document",
+      "Tamazight, Central Atlas Table of Contents"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.writing_system",
+      "Latin alphabet"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "language.human_language.writing_system",
+      "Arabic alphabet"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "common.topic.notable_for",
+      "g.1255wtjx2"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.rosetta.languoid.parent",
+      "Atlas Group"
+    ],
+    [
+      "Central Atlas Tamazight",
+      "base.schemastaging.context_name.pronunciation",
+      "m.01315k35"
+    ],
+    [
+      "Atlas Group",
+      "base.rosetta.languoid.child",
+      "Central Atlas Tamazight"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.writing_system",
+      "Latin alphabet"
+    ],
+    [
+      "Rifian language",
+      "base.rosetta.languoid.local_name",
+      "Tarifit"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.writing_system",
+      "Arabic alphabet"
+    ],
+    [
+      "Rifian language",
+      "base.rosetta.languoid.document",
+      "Tarifit Detailed Description"
+    ],
+    [
+      "Rifian language",
+      "common.topic.image",
+      "Bedd"
+    ],
+    [
+      "Rifian language",
+      "language.human_language.region",
+      "Rif"
+    ],
+    [
+      "Rifian language",
+      "common.topic.notable_for",
+      "g.1255xffmh"
+    ],
+    [
+      "Rifian language",
+      "common.topic.image",
+      "Tarifit"
+    ],
+    [
+      "Rifian language",
+      "base.rosetta.languoid.document",
+      "Tarifit Grammar"
+    ],
+    [
+      "Arabic alphabet",
+      "language.language_writing_system.languages",
+      "Rifian language"
+    ],
+    [
+      "Rifian language",
+      "common.topic.article",
+      "m.047f4z"
+    ],
+    [
+      "Rifian language",
+      "base.rosetta.languoid.document",
+      "Tarifit Map"
+    ]
+  ]
+}

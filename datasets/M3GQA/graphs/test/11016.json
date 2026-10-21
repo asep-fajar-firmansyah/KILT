@@ -1,0 +1,95 @@
+{
+  "graph_id": 11016,
+  "subgraph": [
+    [
+      "Andy Schmidt",
+      "film.film_character.portrayed_in_films",
+      "m.09sddf1"
+    ],
+    [
+      "m.09sddf1",
+      "film.performance.character",
+      "Andy Schmidt"
+    ],
+    [
+      "m.0cg0f96",
+      "film.performance.character",
+      "Sy"
+    ],
+    [
+      "Sy",
+      "film.film_character.portrayed_in_films",
+      "m.0cg0f96"
+    ],
+    [
+      "m.0cs4jzt",
+      "film.performance.character",
+      "Fullerton"
+    ],
+    [
+      "Fullerton",
+      "film.film_character.portrayed_in_films",
+      "m.0cs4jzt"
+    ],
+    [
+      "The One and Only",
+      "film.film.starring",
+      "m.09sddf1"
+    ],
+    [
+      "Henry Winkler",
+      "film.actor.film",
+      "m.09sddf1"
+    ],
+    [
+      "m.09sddf1",
+      "film.performance.actor",
+      "Henry Winkler"
+    ],
+    [
+      "m.09sddf1",
+      "film.performance.film",
+      "The One and Only"
+    ],
+    [
+      "Henry Winkler",
+      "film.actor.film",
+      "m.0cg0f96"
+    ],
+    [
+      "Berkeley",
+      "film.film.starring",
+      "m.0cg0f96"
+    ],
+    [
+      "m.0cg0f96",
+      "film.performance.film",
+      "Berkeley"
+    ],
+    [
+      "m.0cg0f96",
+      "film.performance.actor",
+      "Henry Winkler"
+    ],
+    [
+      "Henry Winkler",
+      "film.actor.film",
+      "m.0cs4jzt"
+    ],
+    [
+      "Unbeatable Harold",
+      "film.film.starring",
+      "m.0cs4jzt"
+    ],
+    [
+      "m.0cs4jzt",
+      "film.performance.actor",
+      "Henry Winkler"
+    ],
+    [
+      "m.0cs4jzt",
+      "film.performance.film",
+      "Unbeatable Harold"
+    ]
+  ]
+}

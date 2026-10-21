@@ -1,0 +1,1090 @@
+{
+  "graph_id": 30559,
+  "subgraph": [
+    [
+      "ASB Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "ASB Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "ASB Bridge"
+    ],
+    [
+      "Missouri River",
+      "travel.travel_destination.tourist_attractions",
+      "Lewis and Clark National Historic Trail"
+    ],
+    [
+      "Lewis and Clark National Historic Trail",
+      "location.location.containedby",
+      "Illinois"
+    ],
+    [
+      "Lewis and Clark National Historic Trail",
+      "protected_sites.protected_site.governing_body",
+      "U.S. National Park Service"
+    ],
+    [
+      "Lewis and Clark National Historic Trail",
+      "common.topic.notable_types",
+      "Protected Site"
+    ],
+    [
+      "Lewis and Clark National Historic Trail",
+      "travel.tourist_attraction.near_travel_destination",
+      "Missouri River"
+    ],
+    [
+      "Heart of America Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "Heart of America Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Heart of America Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Mormon Bridge"
+    ],
+    [
+      "Mormon Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Second Hannibal Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "Kansas City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Paseo Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "Kansas City",
+      "location.location.events",
+      "1988 NCAA Men's Division I Basketball Tournament"
+    ],
+    [
+      "Kansas City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Kansas City"
+    ],
+    [
+      "Chouteau Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "Kansas City",
+      "location.hud_county_place.place",
+      "Kansas City"
+    ],
+    [
+      "Christopher S. Bond Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "Kansas City",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "1988 NCAA Men's Division I Basketball Tournament",
+      "time.event.locations",
+      "Kansas City"
+    ],
+    [
+      "Broadway Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "Kansas City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Kansas City",
+      "location.location.containedby",
+      "Missouri"
+    ],
+    [
+      "Hannibal Bridge",
+      "transportation.bridge.locale",
+      "Kansas City"
+    ],
+    [
+      "Kansas City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Kansas City",
+      "base.biblioness.bibs_location.state",
+      "Missouri"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Hannibal Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Blanchette Memorial Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Boonslick Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Siouxland Veterans Memorial Bridge"
+    ],
+    [
+      "In the Path of Lewis and Clark",
+      "book.written_work.subjects",
+      "Missouri River"
+    ],
+    [
+      "Montana",
+      "location.location.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "travel.travel_destination.tourist_attractions",
+      "Glacier National Park"
+    ],
+    [
+      "Nebraska City Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Amelia Earhart Memorial Bridge"
+    ],
+    [
+      "On the trail of Lewis and Clark",
+      "book.written_work.subjects",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Broadway Bridge"
+    ],
+    [
+      "Missouri River",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_contained_by",
+      "m.0wg90jv"
+    ],
+    [
+      "Centennial Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "travel.tourist_attraction.near_travel_destination",
+      "Bismarck"
+    ],
+    [
+      "m.0wg90rv",
+      "location.partial_containment_relationship.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "m.0wg900g",
+      "location.partial_containment_relationship.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Hermann Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Iowa",
+      "location.location.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Hardy Bridge"
+    ],
+    [
+      "Missouri River",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfc65"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Paseo Bridge"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_contained_by",
+      "m.0wg90t8"
+    ],
+    [
+      "Lewis Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Niobrara River",
+      "geography.river.mouth",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_containedby",
+      "South Dakota"
+    ],
+    [
+      "m.0wg90lw",
+      "location.partial_containment_relationship.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Daniel Boone Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Chouteau Bridge"
+    ],
+    [
+      "Amelia Earhart Memorial Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Burt County Missouri River Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "The Missouri River and its tributaries",
+      "common.image.appears_in_topic_gallery",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_containedby",
+      "Nebraska"
+    ],
+    [
+      "Missouri River",
+      "location.location.geolocation",
+      "m.05khsnl"
+    ],
+    [
+      "Missouri River",
+      "common.topic.image",
+      "The Missouri River and its tributaries"
+    ],
+    [
+      "Bucking the sun",
+      "book.written_work.subjects",
+      "Missouri River"
+    ],
+    [
+      "Broadway Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Glacier National Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "Missouri River"
+    ],
+    [
+      "Bismarck",
+      "travel.travel_destination.tourist_attractions",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Plattsmouth Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Christopher S. Bond Bridge"
+    ],
+    [
+      "Illinois Central Missouri River Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_contained_by",
+      "m.0wg900g"
+    ],
+    [
+      "m.0wg906w",
+      "location.partial_containment_relationship.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Miami Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Hermann Bridge"
+    ],
+    [
+      "Fairfax Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Christopher S. Bond Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "book.book_subject.works",
+      "On the trail of Lewis and Clark"
+    ],
+    [
+      "Missouri River",
+      "geography.river.cities",
+      "Great Falls"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Bellevue Bridge"
+    ],
+    [
+      "Old St. Charles Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Boonslick Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Nebraska City Bridge"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_containedby",
+      "Montana"
+    ],
+    [
+      "Hannibal Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Second Hannibal Bridge"
+    ],
+    [
+      "Snowden Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Meridian Highway Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Veterans Memorial Bridge"
+    ],
+    [
+      "Blair Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Paseo Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Vermillion–Newcastle Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Old St. Charles Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Discovery Bridge"
+    ],
+    [
+      "Missouri River",
+      "common.topic.article",
+      "m.04yl8"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Ak-Sar-Ben Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Bob Kerrey Pedestrian Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Liberty Bend Bridge"
+    ],
+    [
+      "Missouri River",
+      "book.book_subject.works",
+      "In the Path of Lewis and Clark"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Illinois Central Missouri River Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Fairfax Bridge"
+    ],
+    [
+      "North Dakota",
+      "location.location.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Snowden Bridge"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Blair Bridge"
+    ],
+    [
+      "On the Way Home",
+      "book.written_work.subjects",
+      "Missouri River"
+    ],
+    [
+      "Discovery Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bob Kerrey Pedestrian Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.river.origin_long_lat",
+      "m.04d0j4s"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_containedby",
+      "Iowa"
+    ],
+    [
+      "Platte Purchase Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Burt County Missouri River Bridge"
+    ],
+    [
+      "m.0wg90p7",
+      "location.partial_containment_relationship.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Daniel Boone Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Second Hannibal Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Pony Express Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Kansas River",
+      "geography.river.mouth",
+      "Missouri River"
+    ],
+    [
+      "White River",
+      "geography.river.mouth",
+      "Missouri River"
+    ],
+    [
+      "Hardy Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Centennial Bridge"
+    ],
+    [
+      "Vermillion–Newcastle Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Pony Express Bridge"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_containedby",
+      "Missouri"
+    ],
+    [
+      "Miami Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "m.0wg90jv",
+      "location.partial_containment_relationship.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Siouxland Veterans Memorial Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Wabash Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Kansas",
+      "location.location.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "base.schemastaging.context_name.pronunciation",
+      "m.0131j5dt"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Union Pacific Missouri River Bridge"
+    ],
+    [
+      "Bellevue Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "book.book_subject.works",
+      "Bucking the sun"
+    ],
+    [
+      "Missouri River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Platte Purchase Bridge"
+    ],
+    [
+      "Meridian Highway Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Plattsmouth Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_contained_by",
+      "m.0wg906w"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Lewis Bridge"
+    ],
+    [
+      "Union Pacific Missouri River Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri river in Omaha, Nebraska",
+      "common.image.appears_in_topic_gallery",
+      "Missouri River"
+    ],
+    [
+      "Missouri River near Yankton 1",
+      "common.image.appears_in_topic_gallery",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.river.mouth_long_lat",
+      "m.04d0kpv"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_contained_by",
+      "m.0wg90lw"
+    ],
+    [
+      "Platte River",
+      "geography.river.mouth",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Missouri River",
+      "book.book_subject.works",
+      "On the Way Home"
+    ],
+    [
+      "Missouri River",
+      "geography.body_of_water.bridges",
+      "Wabash Bridge"
+    ],
+    [
+      "m.07nfc65",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "common.topic.image",
+      "Missouri river in Omaha, Nebraska"
+    ],
+    [
+      "Missouri River",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_containedby",
+      "Kansas"
+    ],
+    [
+      "Nebraska",
+      "location.location.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Veterans Memorial Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_containedby",
+      "North Dakota"
+    ],
+    [
+      "Missouri River",
+      "geography.river.mouth",
+      "Mississippi River"
+    ],
+    [
+      "Blanchette Memorial Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "common.topic.notable_types",
+      "River"
+    ],
+    [
+      "Missouri River",
+      "geography.river.origin",
+      "Brower's Spring"
+    ],
+    [
+      "Chouteau Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "common.topic.notable_for",
+      "g.1254zhjt2"
+    ],
+    [
+      "m.0wg90t8",
+      "location.partial_containment_relationship.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Liberty Bend Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_contained_by",
+      "m.0wg90p7"
+    ],
+    [
+      "Missouri",
+      "location.location.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "South Dakota",
+      "location.location.partially_contains",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "common.topic.image",
+      "Missouri River near Yankton 1"
+    ],
+    [
+      "Ak-Sar-Ben Bridge",
+      "transportation.bridge.body_of_water_spanned",
+      "Missouri River"
+    ],
+    [
+      "Missouri River",
+      "location.location.partially_contained_by",
+      "m.0wg90rv"
+    ],
+    [
+      "William A. Poynter",
+      "people.person.place_of_birth",
+      "Illinois"
+    ],
+    [
+      "East North Central States",
+      "location.location.contains",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "organization.organization_scope.organizations_with_this_scope",
+      "B'nai B'rith District Grand Lodge 6"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "Chicago",
+      "base.biblioness.bibs_location.state",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Chicago",
+      "location.location.containedby",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "Illinois",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Illinois",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "East North Central States"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Illinois"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Illinois"
+    ],
+    [
+      "B'nai B'rith District Grand Lodge 6",
+      "organization.organization.geographic_scope",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "Midwestern United States"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Midwestern United States",
+      "location.location.contains",
+      "Illinois"
+    ],
+    [
+      "Missouri National Recreational River",
+      "protected_sites.protected_site.governing_body",
+      "U.S. National Park Service"
+    ],
+    [
+      "U.S. National Park Service",
+      "government.governmental_body.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "U.S. National Park Service",
+      "government.government_agency.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "Glacier National Park",
+      "protected_sites.protected_site.governing_body",
+      "U.S. National Park Service"
+    ],
+    [
+      "U.S. National Park Service",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "United States of America",
+      "government.governmental_jurisdiction.government_bodies",
+      "U.S. National Park Service"
+    ],
+    [
+      "Missouri National Recreational River",
+      "common.topic.notable_types",
+      "Protected Site"
+    ],
+    [
+      "Pine Ridge National Recreation Area",
+      "common.topic.notable_types",
+      "Protected Site"
+    ],
+    [
+      "Glacier National Park",
+      "common.topic.notable_types",
+      "Protected Site"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_hints.included_types",
+      "Dated location"
+    ]
+  ]
+}

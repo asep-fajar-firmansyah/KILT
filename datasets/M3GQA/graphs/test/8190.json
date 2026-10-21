@@ -1,0 +1,4450 @@
+{
+  "graph_id": 8190,
+  "subgraph": [
+    [
+      "Degree",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Degree"
+    ],
+    [
+      "Degree",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Degree",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Degree",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Degree",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "School newspaper",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "School newspaper",
+      "type.type.properties",
+      "School"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School newspaper"
+    ],
+    [
+      "School newspaper",
+      "type.type.expected_by",
+      "Newspaper"
+    ],
+    [
+      "School newspaper",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "School newspaper",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "School newspaper",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "School newspaper",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Composition",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Composition",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Composition",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Composition",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Composition",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Composition",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Fight for right",
+      "common.topic.notable_types",
+      "Composition"
+    ],
+    [
+      "School",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "School"
+    ],
+    [
+      "Mascot",
+      "type.property.reverse_property",
+      "School"
+    ],
+    [
+      "School",
+      "type.property.expected_type",
+      "Educational Institution"
+    ],
+    [
+      "School",
+      "type.property.schema",
+      "School mascot"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "School"
+    ],
+    [
+      "School",
+      "rdf-schema#domain",
+      "College gymnast"
+    ],
+    [
+      "School",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Mascot",
+      "owl#inverseOf",
+      "School"
+    ],
+    [
+      "School",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "School mascot",
+      "type.type.properties",
+      "School"
+    ],
+    [
+      "School",
+      "rdf-schema#range",
+      "Educational Institution"
+    ],
+    [
+      "School",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "School",
+      "rdf-schema#domain",
+      "School mascot"
+    ],
+    [
+      "School",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "School",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "School",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "School",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "School",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "School",
+      "type.property.master_property",
+      "Sports teams"
+    ],
+    [
+      "School",
+      "freebase.type_profile.strict_included_types",
+      "Educational Institution"
+    ],
+    [
+      "Student radio station",
+      "type.type.properties",
+      "School"
+    ],
+    [
+      "School",
+      "type.property.master_property",
+      "Mascot"
+    ],
+    [
+      "School",
+      "freebase.type_hints.included_types",
+      "Educational Institution"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "School"
+    ],
+    [
+      "School",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "School",
+      "type.property.schema",
+      "College gymnast"
+    ],
+    [
+      "School",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "The Last Sleep of Arthur in Avalon",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Artwork",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Artwork",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "The Worship of the Shepherds",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Artwork",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "The Light of the World",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Phyllis and Demophoon",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Wheel of Fortune",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Saint Cecilia",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Princess Sabra",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Prioress's Tale",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "King Cophetua and the Beggar Maid",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Holy Family",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Artwork",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "The Golden Stairs",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Atlas Turned to Stone",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Acanthus",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Annunciation",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Self-portrait",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Doom Fulfilled",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Rock of Doom",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Strawberry Thief",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Chant d'Amour",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Ophelia",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Artwork",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "The Calling of Perseus",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Vision of the Holy Grail",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "David's Charge to Solomon",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Peacock and Dragon",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Windrush",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Death of Medusa",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Baleful Head",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Beguiling of Merlin",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Arming of Perseus",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Christ in the House of His Parents",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Perseus and the Graiae",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Beata Beatrix",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Mill",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Birth of Pegasus and Chrysaor",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Shadow of Death",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "April Love",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "La belle Iseult",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Finding of Medusa",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Museum",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "William Morris Gallery",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Museum",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Museum",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Student organization",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Art Period/Movement",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Book Edition",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Hospital",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Student radio station",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "College/University",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "pabloborbon"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "francoisdongier"
+    ],
+    [
+      "Student organization",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "metapsyche"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Athletics brand"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "rubenrivera"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Student organization"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.equivalent_topic",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Dissertation"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jbdayez"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.announcements",
+      "m.0kjj0t"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "University system"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "krsalis"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "curiousjohn"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Field of study"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "midness"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic post title"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "School district"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "webaesthetic"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "awright"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "m.05bvj88"
+    ],
+    [
+      "Education",
+      "freebase.equivalent_topic.equivalent_domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "westwired"
+    ],
+    [
+      "Educational Institution Campus",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "lwu"
+    ],
+    [
+      "School category",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ignatia"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Educational Institution"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "olivierdupuis"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "techdoer"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jamslevy"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jamesslater"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_topic",
+      "University of Gothenburg"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "tonysearl"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "cteplovs"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Student:teacher ratio"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "tijh"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Educational Institution Campus"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "mikesonline"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Honorary Degree Recipient"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School category"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subject_of",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Gender enrollment"
+    ],
+    [
+      "Education",
+      "common.topic.subject_of",
+      "Qualitas Career Academy"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Student organization"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "coleyh"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "vaughan"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "fredpfi"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Student radio station"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "eternicom"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Department"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "leif_nabil"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.expert_group",
+      "Education Experts"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "groupersian"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Universities with enrollment, tuition, acceptance rates, rank"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "m.05v70zs"
+    ],
+    [
+      "Institution",
+      "rdf-schema#domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_topic",
+      "College of Sorbonne"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "University system"
+    ],
+    [
+      "Education",
+      "common.topic.subjects",
+      "Qualitas Career Academy"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "College/University"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "sitech"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Honorary Degree"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "U.S. Public School Districts and Schools"
+    ],
+    [
+      "Student radio station",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Educational Institution",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jjmajava"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "speculativism"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jansegers"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "rbe"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "justin_menard"
+    ],
+    [
+      "Academic",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.category",
+      "Commons"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "pdeisenberg"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "allardstrijker"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Acceptance rate"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "smithcomputer"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "hskim105"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "College/University"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "mmcafee"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School mascot"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "sammyred8"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_topic",
+      "University of Rostock"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Fraternity/sorority type"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jwight"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "avic"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "n00d"
+    ],
+    [
+      "Education",
+      "type.domain.owners",
+      "Education Domain owners"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "tiagolira13"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School magazine"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "maxoliver"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jyotikajoe"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "laserblue"
+    ],
+    [
+      "Field of study",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic institution"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Field Of Study"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Grade level"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.category",
+      "General"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "educationmongolia"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "riles01"
+    ],
+    [
+      "Education",
+      "common.topic.article",
+      "m.0kpqzl"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ostricajh"
+    ],
+    [
+      "Edge Hill University",
+      "organization.organization.sectors",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School district"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.category",
+      "Society"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ecolelibrefreeschool"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ecastelob"
+    ],
+    [
+      "Education",
+      "freebase.documented_object.documentation",
+      "m.0kpqzl"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "opendatafan"
+    ],
+    [
+      "Europäische Fernhochschule Hamburg",
+      "common.topic.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ddeschryver"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Dissertation"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jeffwheeler"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Educational Institution Campus"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "wdsnow"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Sienna College Alumni"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Fraternity/sorority type"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "mnfbmf"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "edgester"
+    ],
+    [
+      "Education",
+      "common.topic.subject_of",
+      "Europäische Fernhochschule Hamburg"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "m.05bvj9_"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Student radio station"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Honorary Degree Recipient"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "gridwidenews"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "myweb"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Fraternity/Sorority"
+    ],
+    [
+      "Institution",
+      "type.property.schema",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic post"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "borkzorkorc"
+    ],
+    [
+      "The History Channel: Just Another Day",
+      "broadcast.content.genre",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "edtechdev"
+    ],
+    [
+      "School mascot",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "copystar"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "nathanmadams"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "a_olympia"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "evo2mind"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Department"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Profession",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Hospital",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Field of study",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "School category",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Defunct Organization",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Academic",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Building function",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Published",
+      "base.industrystandards.industry_standard_status.standards",
+      "ISO 13250-2"
+    ],
+    [
+      "Art Period/Movement",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Architect",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "House",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Book Edition",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Employer",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "TV Genre",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "School mascot",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Student radio station",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Book Edition",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.kind",
+      "Meta"
+    ],
+    [
+      "TV Genre",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Article"
+    ],
+    [
+      "Membership organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Weblink"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Architect",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Field of study",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Employer",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Defunct Organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "School category",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Notable for",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Subjects"
+    ],
+    [
+      "Weblink",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "common.topic.article",
+      "m.0kpqw_"
+    ],
+    [
+      "Student organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Profession",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Description",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Location",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Official website"
+    ],
+    [
+      "Official website",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Educational Institution Campus",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Profession",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "School mascot",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Book Edition",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Student radio station",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "School category",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Social media presence",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.kind",
+      "Portrayal"
+    ],
+    [
+      "Employer",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "House",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Social media presence"
+    ],
+    [
+      "Book",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Notable for"
+    ],
+    [
+      "Politician",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "School mascot",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Image",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Also known as",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Notable types",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Field of study",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Educational Institution Campus",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Notable types",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Subjects",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Meta",
+      "freebase.type_kind.types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.documented_object.documentation",
+      "m.0kpqw_"
+    ],
+    [
+      "Building function",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Description",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Description"
+    ],
+    [
+      "Subjects",
+      "type.property.expected_type",
+      "Topic"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Building function",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "TV Genre",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Subjects",
+      "rdf-schema#range",
+      "Topic"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Properties"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Topical webpage"
+    ],
+    [
+      "Topic",
+      "type.type.domain",
+      "Common"
+    ],
+    [
+      "Notable for",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Also known as",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Weblink",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Social media presence",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Art Period/Movement",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Subjects",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Defunct Organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Official website",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Student organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Hospital",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Subject of"
+    ],
+    [
+      "Image",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Image"
+    ],
+    [
+      "Architect",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Academic",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Also known as"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Topic equivalent webpage",
+      "rdf-schema#domain",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Web Link(s)"
+    ],
+    [
+      "Art Period/Movement",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Topic equivalent webpage"
+    ],
+    [
+      "Topic",
+      "type.type.properties",
+      "Notable types"
+    ],
+    [
+      "House",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic equivalent webpage",
+      "type.property.schema",
+      "Topic"
+    ],
+    [
+      "Membership organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Hospital",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Academic",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Newspaper"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Inanimate",
+      "type.type.domain",
+      "Type Ontology"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Abstract",
+      "type.type.domain",
+      "Type Ontology"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Field of study",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Profession",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Fight for right",
+      "common.topic.notable_for",
+      "g.1256v02l4"
+    ],
+    [
+      "Fight for right",
+      "music.composition.lyricist",
+      "William Morris"
+    ],
+    [
+      "William Morris",
+      "music.lyricist.lyrics_written",
+      "Fight for right"
+    ],
+    [
+      "Fight for right",
+      "common.topic.webpage",
+      "m.0gb4sv3"
+    ],
+    [
+      "Fight for right",
+      "music.composition.form",
+      "Lied"
+    ],
+    [
+      "m.0gb4sv3",
+      "common.webpage.topic",
+      "Fight for right"
+    ],
+    [
+      "Fight for right",
+      "music.composition.composer",
+      "Edward Elgar"
+    ],
+    [
+      "Fight for right",
+      "common.topic.article",
+      "m.0464mhc"
+    ],
+    [
+      "Mascot",
+      "type.property.schema",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Parent Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "School magazines"
+    ],
+    [
+      "Mascot",
+      "rdf-schema#domain",
+      "Educational Institution"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Member organisations"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Nickname"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Total Enrollment"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Athletics brand"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "School type"
+    ],
+    [
+      "Institution",
+      "type.property.expected_type",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "freebase.documented_object.documentation",
+      "m.021y5nd"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Motto"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Sponsor"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Associated Institutions"
+    ],
+    [
+      "Phone number",
+      "rdf-schema#domain",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Campuses"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Associated educational institution"
+    ],
+    [
+      "Phone number",
+      "type.property.schema",
+      "Educational Institution"
+    ],
+    [
+      "School/Institution",
+      "type.property.expected_type",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Subsidiary Or Constituent Schools"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Honorary degrees awarded"
+    ],
+    [
+      "Colors",
+      "type.property.schema",
+      "Educational Institution"
+    ],
+    [
+      "Colors",
+      "rdf-schema#domain",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Number of staff"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "School/Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Parent Institution"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.kind",
+      "Description"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.strict_included_types",
+      "Employer"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Students/Graduates"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Educational institution"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Educational Institution"
+    ],
+    [
+      "School type",
+      "rdf-schema#domain",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Marlborough College",
+      "common.topic.notable_types",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Sexes admitted"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Number of faculty"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Teaches at"
+    ],
+    [
+      "School/Institution",
+      "rdf-schema#range",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Phone number"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Schools of this kind"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Sports teams"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Colors"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_hints.included_types",
+      "Employer"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Radio station"
+    ],
+    [
+      "Educational Institution",
+      "type.type.properties",
+      "Mascot"
+    ],
+    [
+      "Institution",
+      "rdf-schema#range",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "School type",
+      "type.property.schema",
+      "Educational Institution"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Subsidiary Or Constituent Schools"
+    ],
+    [
+      "Educational Institution",
+      "common.topic.article",
+      "m.021y5nd"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Accademia Anja"
+    ],
+    [
+      "Educational Institution",
+      "type.type.expected_by",
+      "Holding Institution"
+    ],
+    [
+      "Mascot",
+      "type.property.expected_type",
+      "School mascot"
+    ],
+    [
+      "School mascot",
+      "type.type.expected_by",
+      "Mascot"
+    ],
+    [
+      "Mascot",
+      "rdf-schema#range",
+      "School mascot"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Local tuition"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Fraternities and sororities"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of doctoral candidates"
+    ],
+    [
+      "SMU School of Social Sciences",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Host",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Taught at",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "University"
+    ],
+    [
+      "Doctorate Degree From",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Medical School Affiliation",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "University",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012svnyq"
+    ],
+    [
+      "Exeter College, Oxford",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of undergraduates"
+    ],
+    [
+      "Parent Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Medical School Affiliation"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012b_jb_"
+    ],
+    [
+      "National University of Management",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of California, Berkeley",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Medical School Affiliation",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Universities",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Parent Institution"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011clh9l"
+    ],
+    [
+      "Parent Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w712g"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Institution"
+    ],
+    [
+      "Fraternities and sororities",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0123p367"
+    ],
+    [
+      "Host",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Number of doctoral candidates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Academic Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University of Oxford",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Local tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Academic Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010nwf11"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Universität"
+    ],
+    [
+      "Universität",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Universität",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_yx_c2"
+    ],
+    [
+      "University",
+      "freebase.equivalent_topic.equivalent_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Host"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "International tuition"
+    ],
+    [
+      "Departments",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012c3llf"
+    ],
+    [
+      "University of Applied Sciences Leiden",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Doctorate Degree From",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Doctorate Degree From"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of postgraduates"
+    ],
+    [
+      "University of the Highlands and Islands",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Founding school",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Domestic tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.equivalent_topic",
+      "College"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012nnm2d"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.equivalent_topic",
+      "University"
+    ],
+    [
+      "Number of postgraduates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.documented_object.documentation",
+      "m.021y5v6"
+    ],
+    [
+      "College of Sorbonne",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Domestic tuition"
+    ],
+    [
+      "Finis Terrae University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Hochschule Hannover",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Departments"
+    ],
+    [
+      "Taught at",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "University of North Carolina at Charlotte",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Gothenburg",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Colleges and Universities"
+    ],
+    [
+      "Founding school",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College",
+      "freebase.equivalent_topic.equivalent_type",
+      "College/University"
+    ],
+    [
+      "Acceptance rate",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Local tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Birmingham Conservatoire",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Universities"
+    ],
+    [
+      "Best Overall",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Number of postgraduates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "University of Rostock",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Taught at"
+    ],
+    [
+      "University Affiliation",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Number of undergraduates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Departments",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Founding school"
+    ],
+    [
+      "Edge Hill University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Dallas Baptist University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University Affiliation",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Acceptance rate"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Best Overall"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Acceptance rate",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Anglia Ruskin University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Colleges and Universities",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Federal University of Pará",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Fraternities and sororities",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "International tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Academic Institution"
+    ],
+    [
+      "Universities",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "University Affiliation"
+    ],
+    [
+      "Best Overall",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Domestic tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Number of doctoral candidates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Colleges and Universities",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "International tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "common.topic.article",
+      "m.021y5v6"
+    ],
+    [
+      "Number of undergraduates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Activist Groups"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Producers"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Committee of"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organization"
+    ],
+    [
+      "Founders",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Place founded",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Founders",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Home base of"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Acquiring organization"
+    ],
+    [
+      "Defunct Organization",
+      "type.type.domain",
+      "Organization"
+    ],
+    [
+      "Organization acquired",
+      "rdf-schema#range",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Spin-offs"
+    ],
+    [
+      "Parent",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Membership organization",
+      "type.type.domain",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Funding Agency"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Parent"
+    ],
+    [
+      "Headquarters",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations involved"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Became organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "organizer"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Parent organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Music company"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Currently Employed By"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Present holder"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Phone number"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Regulator"
+    ],
+    [
+      "Leadership",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Membership organization",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Geographic scope"
+    ],
+    [
+      "Organization",
+      "common.topic.article",
+      "m.03bwfg2"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Sponsors"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations merging"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Provider"
+    ],
+    [
+      "Parent",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Previous names"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Manufacturer"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Source organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "affiliation"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Reporting Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "operating organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Parent"
+    ],
+    [
+      "Student organization",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Organization locations"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Forecaster - Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Founders"
+    ],
+    [
+      "Leadership",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Place founded",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Email"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organization acquired"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Participants"
+    ],
+    [
+      "Acquiring organization",
+      "type.property.expected_type",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Consumers"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "launching organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Governing Rules Authority"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Acquired by"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Organizations acquired"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.kind",
+      "Real Estate"
+    ],
+    [
+      "Organization",
+      "owl#inverseOf",
+      "Leadership"
+    ],
+    [
+      "Organization",
+      "owl#inverseOf",
+      "Board members"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations founded"
+    ],
+    [
+      "Acquiring organization",
+      "rdf-schema#range",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Product of merger"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Sponsor Club"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Teams"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Owner"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Operates government service"
+    ],
+    [
+      "Headquarters",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Issuing organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Organization type"
+    ],
+    [
+      "Organization",
+      "type.type.domain",
+      "Organization"
+    ],
+    [
+      "Defunct Organization",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Spun off from"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Charter Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Administrator"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Members"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Given By"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.equivalent_topic",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Coordinator"
+    ],
+    [
+      "Socialist League",
+      "common.topic.notable_types",
+      "Organization"
+    ],
+    [
+      "Real Estate",
+      "freebase.type_kind.types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Committees"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Expert Group"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Child"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Divisions formed"
+    ],
+    [
+      "Student organization",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Charitable donor organization"
+    ],
+    [
+      "Florida Center for Library Automation",
+      "common.topic.notable_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Managing organization"
+    ],
+    [
+      "Organization",
+      "type.property.reverse_property",
+      "Leadership"
+    ],
+    [
+      "Membership organization",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "Organizations founded",
+      "rdf-schema#range",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "owned by company"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations in this sector"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Funds Raised For"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Source of honor"
+    ],
+    [
+      "Defunct Organization",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Company"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Reporting Regulator"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Child"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations advised"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Aid organization(s) in camp (current)"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Partner organizations"
+    ],
+    [
+      "Organizations founded",
+      "type.property.expected_type",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.property.expected_type",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Hospital association"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Headquarters"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Slogan"
+    ],
+    [
+      "Organization",
+      "type.property.reverse_property",
+      "Board members"
+    ],
+    [
+      "Leadership",
+      "type.property.master_property",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Involved in merger"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Previous holder"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Financing organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations with this scope"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Legal structure"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Regulating organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Child organization"
+    ],
+    [
+      "Organization",
+      "rdf-schema#range",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Partnerships"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Clan"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Sponsor"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Governing Authority"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Leadership"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Owned by"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Operating organization"
+    ],
+    [
+      "Date founded",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Operator"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "maintainer"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organization Memberships"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Aid organization formerly in camp"
+    ],
+    [
+      "Date founded",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations of this type"
+    ],
+    [
+      "Organization acquired",
+      "type.property.expected_type",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Board members"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Date founded"
+    ],
+    [
+      "Organization",
+      "type.type.expected_by",
+      "Organizations"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Spin offs"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Place founded"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Sectors"
+    ],
+    [
+      "Organization",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w2970"
+    ],
+    [
+      "whatuni.com",
+      "common.topic.notable_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Advisors"
+    ],
+    [
+      "Student radio station",
+      "type.type.expected_by",
+      "Radio station"
+    ],
+    [
+      "Agent",
+      "type.type.domain",
+      "Type Ontology"
+    ],
+    [
+      "Deceased Person",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Academic",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Politician",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Employer",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Last Sleep of Arthur in Avalon"
+    ],
+    [
+      "The Last Sleep of Arthur in Avalon",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "The Last Sleep of Arthur in Avalon",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Last Sleep of Arthur in Avalon"
+    ],
+    [
+      "The Last Sleep of Arthur in Avalon",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Worship of the Shepherds",
+      "common.topic.notable_for",
+      "g.125dy0th9"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "The Worship of the Shepherds"
+    ],
+    [
+      "The Worship of the Shepherds",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Light of the World"
+    ],
+    [
+      "The Light of the World",
+      "visual_art.artwork.artist",
+      "William Holman Hunt"
+    ],
+    [
+      "The Light of the World",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "William Holman Hunt",
+      "visual_art.visual_artist.artworks",
+      "The Light of the World"
+    ],
+    [
+      "The Light of the World",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "Phyllis and Demophoon"
+    ],
+    [
+      "Phyllis and Demophoon",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Phyllis and Demophoon",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Phyllis and Demophoon",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Phyllis and Demophoon"
+    ],
+    [
+      "The Wheel of Fortune",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "The Wheel of Fortune",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Wheel of Fortune",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Wheel of Fortune"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Wheel of Fortune"
+    ],
+    [
+      "Saint Cecilia",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "Saint Cecilia",
+      "common.topic.notable_for",
+      "g.1258c0kvb"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "Saint Cecilia"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "Princess Sabra"
+    ],
+    [
+      "Princess Sabra",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Princess Sabra"
+    ],
+    [
+      "Princess Sabra",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Princess Sabra",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "The Prioress's Tale",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Prioress's Tale"
+    ],
+    [
+      "The Prioress's Tale",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Prioress's Tale"
+    ],
+    [
+      "The Prioress's Tale",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "King Cophetua and the Beggar Maid",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "King Cophetua and the Beggar Maid",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "King Cophetua and the Beggar Maid",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "King Cophetua and the Beggar Maid"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "King Cophetua and the Beggar Maid"
+    ],
+    [
+      "The Holy Family",
+      "visual_art.artwork.artist",
+      "James Collinson"
+    ],
+    [
+      "The Holy Family",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Holy Family",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Holy Family"
+    ],
+    [
+      "The Golden Stairs",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "The Golden Stairs",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Golden Stairs",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Golden Stairs"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Golden Stairs"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Atlas Turned to Stone"
+    ],
+    [
+      "Atlas Turned to Stone",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Atlas Turned to Stone",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "Atlas Turned to Stone"
+    ],
+    [
+      "Atlas Turned to Stone",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Acanthus",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "Acanthus"
+    ],
+    [
+      "Acanthus",
+      "common.topic.notable_for",
+      "g.1255xg6ht"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Annunciation"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Annunciation"
+    ],
+    [
+      "The Annunciation",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "The Annunciation",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Annunciation",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Self-portrait",
+      "common.topic.notable_for",
+      "g.125b2ddzj"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "Self-portrait"
+    ],
+    [
+      "Self-portrait",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "The Doom Fulfilled",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Doom Fulfilled",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Doom Fulfilled"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Doom Fulfilled"
+    ],
+    [
+      "The Doom Fulfilled",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "The Rock of Doom",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Rock of Doom",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Rock of Doom"
+    ],
+    [
+      "The Rock of Doom",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Rock of Doom"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "Strawberry Thief"
+    ],
+    [
+      "Strawberry Thief",
+      "common.topic.image",
+      "Strawberrythief"
+    ],
+    [
+      "Strawberry Thief",
+      "common.topic.notable_for",
+      "g.11b60r3sqq"
+    ],
+    [
+      "Strawberry Thief",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "Strawberry Thief",
+      "common.topic.article",
+      "m.04jnsmj"
+    ],
+    [
+      "Chant d'Amour",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Chant d'Amour",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Chant d'Amour"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "Chant d'Amour"
+    ],
+    [
+      "Chant d'Amour",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Ophelia",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Ophelia"
+    ],
+    [
+      "Ophelia",
+      "visual_art.artwork.art_subject",
+      "Elizabeth Siddal"
+    ],
+    [
+      "John William Waterhouse",
+      "visual_art.visual_artist.artworks",
+      "Ophelia"
+    ],
+    [
+      "Elizabeth Siddal",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Ophelia"
+    ],
+    [
+      "John Everett Millais",
+      "visual_art.visual_artist.artworks",
+      "Ophelia"
+    ],
+    [
+      "Arthur Hughes",
+      "visual_art.visual_artist.artworks",
+      "Ophelia"
+    ],
+    [
+      "Ophelia",
+      "visual_art.artwork.artist",
+      "John Everett Millais"
+    ],
+    [
+      "Ophelia",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Calling of Perseus"
+    ],
+    [
+      "The Calling of Perseus",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Calling of Perseus"
+    ],
+    [
+      "The Calling of Perseus",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Calling of Perseus",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "The Vision of the Holy Grail"
+    ],
+    [
+      "The Vision of the Holy Grail",
+      "common.topic.notable_for",
+      "g.1257dbhq5"
+    ],
+    [
+      "The Vision of the Holy Grail",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "David's Charge to Solomon",
+      "common.topic.notable_for",
+      "g.12598bc2_"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "David's Charge to Solomon"
+    ],
+    [
+      "David's Charge to Solomon",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "Peacock and Dragon"
+    ],
+    [
+      "Peacock and Dragon",
+      "common.topic.notable_for",
+      "g.1256fw4xb"
+    ],
+    [
+      "Peacock and Dragon",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "Windrush",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "Windrush"
+    ],
+    [
+      "Windrush",
+      "common.topic.notable_for",
+      "g.125fgx2nm"
+    ],
+    [
+      "The Death of Medusa",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Death of Medusa"
+    ],
+    [
+      "The Death of Medusa",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "The Death of Medusa",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Death of Medusa"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Baleful Head"
+    ],
+    [
+      "The Baleful Head",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Baleful Head",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "The Baleful Head",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Baleful Head"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Beguiling of Merlin"
+    ],
+    [
+      "The Beguiling of Merlin",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Beguiling of Merlin"
+    ],
+    [
+      "The Beguiling of Merlin",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Beguiling of Merlin",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "The Arming of Perseus",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Arming of Perseus"
+    ],
+    [
+      "The Arming of Perseus",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Arming of Perseus",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Arming of Perseus"
+    ],
+    [
+      "Christ in the House of His Parents",
+      "visual_art.artwork.artist",
+      "John Everett Millais"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Christ in the House of His Parents"
+    ],
+    [
+      "Christ in the House of His Parents",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "John Everett Millais",
+      "visual_art.visual_artist.artworks",
+      "Christ in the House of His Parents"
+    ],
+    [
+      "Christ in the House of His Parents",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Perseus and the Graiae"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "Perseus and the Graiae"
+    ],
+    [
+      "Perseus and the Graiae",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Perseus and the Graiae",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Perseus and the Graiae",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Beata Beatrix",
+      "visual_art.artwork.artist",
+      "Dante Gabriel Rossetti"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "Beata Beatrix"
+    ],
+    [
+      "Beata Beatrix",
+      "visual_art.artwork.art_subject",
+      "Elizabeth Siddal"
+    ],
+    [
+      "Beata Beatrix",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Beata Beatrix",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Dante Gabriel Rossetti",
+      "visual_art.visual_artist.artworks",
+      "Beata Beatrix"
+    ],
+    [
+      "Elizabeth Siddal",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Beata Beatrix"
+    ],
+    [
+      "The Mill",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Mill"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Mill"
+    ],
+    [
+      "The Mill",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "The Mill",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "The Birth of Pegasus and Chrysaor",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "The Birth of Pegasus and Chrysaor",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Birth of Pegasus and Chrysaor"
+    ],
+    [
+      "The Birth of Pegasus and Chrysaor",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Birth of Pegasus and Chrysaor"
+    ],
+    [
+      "The Shadow of Death",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "William Holman Hunt",
+      "visual_art.visual_artist.artworks",
+      "The Shadow of Death"
+    ],
+    [
+      "The Shadow of Death",
+      "visual_art.artwork.artist",
+      "William Holman Hunt"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Shadow of Death"
+    ],
+    [
+      "The Shadow of Death",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "April Love"
+    ],
+    [
+      "April Love",
+      "visual_art.artwork.artist",
+      "Arthur Hughes"
+    ],
+    [
+      "Arthur Hughes",
+      "visual_art.visual_artist.artworks",
+      "April Love"
+    ],
+    [
+      "April Love",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "April Love",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "April Love",
+      "visual_art.artwork.owners",
+      "m.04jsks2"
+    ],
+    [
+      "m.04jsks2",
+      "visual_art.artwork_owner_relationship.artwork",
+      "April Love"
+    ],
+    [
+      "La belle Iseult",
+      "visual_art.artwork.artist",
+      "William Morris"
+    ],
+    [
+      "La belle Iseult",
+      "common.topic.notable_for",
+      "g.1259shyjg"
+    ],
+    [
+      "William Morris",
+      "visual_art.visual_artist.artworks",
+      "La belle Iseult"
+    ],
+    [
+      "The Finding of Medusa",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Finding of Medusa",
+      "visual_art.artwork.period_or_movement",
+      "Pre-Raphaelite Brotherhood"
+    ],
+    [
+      "Edward Burne-Jones",
+      "visual_art.visual_artist.artworks",
+      "The Finding of Medusa"
+    ],
+    [
+      "Pre-Raphaelite Brotherhood",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Finding of Medusa"
+    ],
+    [
+      "The Finding of Medusa",
+      "visual_art.artwork.artist",
+      "Edward Burne-Jones"
+    ],
+    [
+      "William Morris",
+      "symbols.name_source.namesakes",
+      "William Morris Gallery"
+    ],
+    [
+      "William Morris Gallery",
+      "common.topic.notable_for",
+      "g.12590cnps"
+    ],
+    [
+      "William Morris Gallery",
+      "common.topic.article",
+      "m.03j656"
+    ],
+    [
+      "William Morris Gallery",
+      "symbols.namesake.named_after",
+      "William Morris"
+    ],
+    [
+      "William Morris Gallery",
+      "protected_sites.listed_site.designation_as_natural_or_cultural_site",
+      "m.0djwqzh"
+    ],
+    [
+      "William Morris Gallery",
+      "common.topic.image",
+      "William Morris Gallery, viewed from the front"
+    ],
+    [
+      "William Morris Gallery",
+      "location.location.geolocation",
+      "m.0cq_v8d"
+    ],
+    [
+      "William Morris Gallery",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "m.0djwqzh",
+      "protected_sites.natural_or_cultural_site_listing.listed_site",
+      "William Morris Gallery"
+    ]
+  ]
+}

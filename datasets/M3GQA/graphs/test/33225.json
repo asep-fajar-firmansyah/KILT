@@ -1,0 +1,3465 @@
+{
+  "graph_id": 33225,
+  "subgraph": [
+    [
+      "Esophageal cancer",
+      "medicine.disease.causes",
+      "Tobacco smoking"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.symptoms",
+      "Chest pain"
+    ],
+    [
+      "Obesity",
+      "medicine.disease_cause.diseases",
+      "Esophageal cancer"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Esophageal cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.causes",
+      "Obesity"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Esophageal cancer"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease_cause.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.causes",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease_cause.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.causes",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease_cause.diseases",
+      "Stroke"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Cardiac arrhythmia"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease_cause.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.treatments",
+      "Coronary artery bypass surgery"
+    ],
+    [
+      "Atherosclerosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.risk_factors",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.causes",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Indigestion"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.causes",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Atherosclerosis"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Chest pain"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease_cause.diseases",
+      "Coronary artery disease"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.treatments",
+      "Statin"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.risk_factor.diseases",
+      "Aneurysm"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.causes",
+      "Atherosclerosis"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.symptom.symptom_of",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease_cause.diseases",
+      "heart attack"
+    ],
+    [
+      "Coronary artery bypass surgery",
+      "medicine.medical_treatment.used_to_treat",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Tachycardia"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Atherosclerosis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease_cause.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.medical_specialties",
+      "Cardiology"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Dyspnea"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Asymptomatic"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Sedentary lifestyle"
+    ],
+    [
+      "Coronary artery bypass surgery",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.risk_factors",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.treatments",
+      "ACE inhibitor"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.treatments",
+      "Statin"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.treatments",
+      "Cardioversion"
+    ],
+    [
+      "Heart failure",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "base.medical_schema_staging.medical_subspecialty.parent_medical_specialty",
+      "Internal medicine"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease_cause.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.causes",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Aortic dissection"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Cardiac arrhythmia"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.medical_specialties",
+      "Cardiology"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.prevention_factors",
+      "Timolol"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Coronary artery bypass surgery"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Chest pain"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Dyspnea"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Syncope"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.risk_factor.diseases",
+      "Cardiac arrhythmia"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Coronary artery disease"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "heart attack",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Heart failure"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Myocardial Ischemia"
+    ],
+    [
+      "Coronary artery disease",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Tachycardia"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Bradycardia"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Cardiac arrhythmia"
+    ],
+    [
+      "Aortic dissection",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.treatments",
+      "Beta blocker"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "heart attack"
+    ],
+    [
+      "Aortic dissection",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.symptom.symptom_of",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Palpitations"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Cardiovascular disease"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Stress"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.symptoms",
+      "Chest pain"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.causes",
+      "Tobacco smoking"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Chest pain"
+    ],
+    [
+      "Pain",
+      "medicine.symptom.includes_symptoms",
+      "Chest pain"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.symptoms",
+      "Chest pain"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Chest pain"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Inguinal hernia"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Coronary artery disease"
+    ],
+    [
+      "Obesity",
+      "medicine.disease.symptoms",
+      "Back pain"
+    ],
+    [
+      "Obesity",
+      "medicine.disease.risk_factors",
+      "Sedentary lifestyle"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Obesity",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "Obesity",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Obesity",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Aneurysm"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Kidney Stone"
+    ],
+    [
+      "Obesity",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Kidney cancer"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Pancreatic cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Bladder cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Heart failure",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Aortic dissection",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Kidney cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Coronary artery disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Major depression",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Stroke",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Burn",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Epilepsy",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "heart attack",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Parkinson's disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Diabetes mellitus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Prostate cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Barrett's esophagus"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.07n73w_"
+    ],
+    [
+      "m.02_98hd",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Attention deficit hyperactivity disorder"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Sebaceous cyst"
+    ],
+    [
+      "Richard Sainsbury",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Johnny Allen",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64q8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney cancer"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0q"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Syphilis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_69"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pqb"
+    ],
+    [
+      "Timothee Chilton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Karl Kennedy",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "SFX Award for Best Actor",
+      "award.award_category.disciplines_or_subjects",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrt3"
+    ],
+    [
+      "m.0blp5sr",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.image",
+      "male.jpg"
+    ],
+    [
+      "Alex Chilton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sidney Chilton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hypospadias"
+    ],
+    [
+      "m.09td39b",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.0d521lm",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Paget's disease of bone"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Anaplastic thyroid cancer"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp580"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ectodermal dysplasia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Tetralogy of Fallot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stuttering"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk3z"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrv7"
+    ],
+    [
+      "m.0gxvv0h",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.05bvklm",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.0bm6pqb",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Burn",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0blp580",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bn"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "James Arthur Gates",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "1997 NCAA Men's Division I Basketball Tournament",
+      "base.marchmadness.ncaa_basketball_tournament.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.notable_for",
+      "g.1255p_jgc"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0j7v__g",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Homer Simpson",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckn4"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urethritis"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvklm"
+    ],
+    [
+      "Bart Simpson",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0h"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrw1"
+    ],
+    [
+      "1984 NCAA Men's Division I Basketball Tournament",
+      "base.marchmadness.ncaa_basketball_tournament.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Emphysema"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Golfer's elbow"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pectus excavatum"
+    ],
+    [
+      "m.05bvjy3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "Massimo Zanini"
+    ],
+    [
+      "Male",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Shadow Figure"
+    ],
+    [
+      "Joel Glenn Wright",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "m.05bvkm6",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "neilplus's types"
+    ],
+    [
+      "Male",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "m.0kfyrt3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsy"
+    ],
+    [
+      "m.0zm9_69",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Jack Osborne",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.04j64q8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.02_1x1x",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Davido",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Paul",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__g"
+    ],
+    [
+      "Male",
+      "common.topic.article",
+      "m.05zpq8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney Stone"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Dupuytren's contracture"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Actinic keratosis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gastritis"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_98hd"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218t"
+    ],
+    [
+      "m.0gxvv0q",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Corneal abrasion"
+    ],
+    [
+      "m.02zd4tr",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "1995 NCAA Men's Division I Basketball Tournament",
+      "base.marchmadness.ncaa_basketball_tournament.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urolithiasis"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Male"
+    ],
+    [
+      "Bruce Dickinson",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrv7",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hirschsprung's disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjy3"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64rh"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Amyotrophic lateral sclerosis"
+    ],
+    [
+      "Male",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Males"
+    ],
+    [
+      "m.05bvk3z",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04mmfr8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pyloric stenosis"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkm6"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Benign prostatic hyperplasia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Leprosy"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "m.07n73w_",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Alcohol abuse"
+    ],
+    [
+      "Massimo Zanini",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Phone Trick",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Ian Lavender",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Lennon",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Inguinal hernia"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrvl"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Bladder cancer"
+    ],
+    [
+      "Justin Bieber",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "sports.sports_gender.sports_teams",
+      "Vive Targi Kielce"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sr"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Autism"
+    ],
+    [
+      "m.0gxvt_4",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Parkinson's disease"
+    ],
+    [
+      "Robby Stewart",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Burn"
+    ],
+    [
+      "Stephen Melton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02zd4tr"
+    ],
+    [
+      "m.0kfyrvl",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.schemastaging.context_name.pronunciation",
+      "m.011sf4j6"
+    ],
+    [
+      "m.04mmfr8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kawasaki disease"
+    ],
+    [
+      "Todd Agnew",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.04j647l",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_4"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_1x1x"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j647l"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Phil Mitchell",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.05cckn4",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Tony Edward",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Male",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actor"
+    ],
+    [
+      "m.0hzxnsy",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "m.04j64rh",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.0kfyrw1",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "m.0d5218t",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Meningococcal disease"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Liver tumour"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Antisocial personality disorder"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.09td39b"
+    ],
+    [
+      "Male",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Phone Trick"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Athlete's foot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Club foot"
+    ],
+    [
+      "m.0d522bn",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ventricular tachycardia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "George Harrison",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Acute myeloid leukemia"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Burn",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "heart attack",
+      "medicine.symptom.symptom_of",
+      "Myocardial Ischemia"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Stroke",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Homer Simpson"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Transient ischemic attack"
+    ],
+    [
+      "Stroke",
+      "people.cause_of_death.parent_cause_of_death",
+      "Assassination in ways which appear natural"
+    ],
+    [
+      "Stroke",
+      "medicine.symptom.side_effect_of",
+      "Ephedra"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.causes",
+      "Embolism"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.risk_factors",
+      "Stroke"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Hair loss"
+    ],
+    [
+      "Stroke",
+      "people.cause_of_death.parent_cause_of_death",
+      "Karōshi"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Stroke"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.causes",
+      "Vulnerable plaque"
+    ],
+    [
+      "Homer Simpson",
+      "fictional_universe.fictional_character.medical_conditions",
+      "Stroke"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.treatments",
+      "Aspirin"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.medical_specialties",
+      "Emergency medicine"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Stroke"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Stroke"
+    ],
+    [
+      "Stroke",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.treatments",
+      "Tissue plasminogen activator"
+    ],
+    [
+      "Stroke",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.treatments",
+      "Clopidogrel"
+    ],
+    [
+      "Stroke",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "Stroke",
+      "medicine.risk_factor.diseases",
+      "Complex regional pain syndrome"
+    ],
+    [
+      "Stroke",
+      "medicine.symptom.symptom_of",
+      "Vasculitis"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.prevention_factors",
+      "Warfarin"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.treatments",
+      "Thrombolytic drug"
+    ],
+    [
+      "Stroke",
+      "medicine.risk_factor.diseases",
+      "Major depression"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Stress"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.symptoms",
+      "Syncope"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Cardiac arrhythmia"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.symptom.side_effect_of",
+      "Ephedra"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.symptom.symptom_of",
+      "Anxiety"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.medical_specialties",
+      "Cardiothoracic surgery"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.treatments",
+      "Cardioversion"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.causes",
+      "Cardiac arrhythmia"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.symptom.symptom_of",
+      "Tachycardia"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.treatments",
+      "Defibrillation"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.symptoms",
+      "Asymptomatic"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.symptoms",
+      "Palpitations"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.medical_specialties",
+      "Cardiology"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.symptom.symptom_of",
+      "heart attack"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease_cause.diseases",
+      "Heart failure"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.symptoms",
+      "Lightheadedness"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.causes",
+      "Bradycardia"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.causes",
+      "Tachycardia"
+    ],
+    [
+      "Cardiac arrhythmia",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Transient ischemic attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Coronary artery bypass surgery"
+    ],
+    [
+      "Coronary artery bypass surgery",
+      "medicine.medical_treatment.used_to_treat",
+      "heart attack"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "Coronary artery bypass surgery"
+    ],
+    [
+      "Coronary artery bypass surgery",
+      "medicine.medical_treatment.used_to_treat",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery bypass surgery",
+      "medicine.medical_treatment.used_to_treat",
+      "Kawasaki disease"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.causes",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.risk_factors",
+      "Hypercholesterolemia"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "heart attack",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.symptoms",
+      "Syncope"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "people.cause_of_death.parent_cause_of_death",
+      "Aneurysm"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.symptoms",
+      "Nausea"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.symptoms",
+      "Vomiting"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.medical_specialties",
+      "Emergency medicine"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "heart attack"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.symptoms",
+      "Abdominal pain"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.symptoms",
+      "Back pain"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Indigestion"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.symptoms",
+      "Indigestion"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.medical_specialties",
+      "Internal medicine"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x6047"
+    ],
+    [
+      "Homer Simpson",
+      "fictional_universe.fictional_character.medical_conditions",
+      "heart attack"
+    ],
+    [
+      "Aortic dissection",
+      "medicine.disease_cause.diseases",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Defibrillation"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Personality type"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Syncope"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Bisoprolol"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x13wp"
+    ],
+    [
+      "heart attack",
+      "common.topic.article",
+      "m.0gk4s"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.notable_people_with_this_condition",
+      "Richard Sainsbury"
+    ],
+    [
+      "Cocaine",
+      "medicine.disease_cause.diseases",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "James Arthur Gates"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Lightheadedness"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Cocaine"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Homer Simpson"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09wsknd"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Eptifibatide"
+    ],
+    [
+      "Jack Osborne",
+      "fictional_universe.fictional_character.medical_conditions",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09yq2tv"
+    ],
+    [
+      "heart attack",
+      "medicine.disease_cause.diseases",
+      "Left axis deviation"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Pindolol"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.medical_specialties",
+      "Emergency medicine"
+    ],
+    [
+      "heart attack",
+      "medicine.risk_factor.diseases",
+      "Major depression"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.0b6r6y_"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Thrombolytic drug"
+    ],
+    [
+      "m.09x6047",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "m.09x7y7_",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Cardioversion"
+    ],
+    [
+      "heart attack",
+      "common.topic.notable_for",
+      "g.1256q713j"
+    ],
+    [
+      "m.09yq2tv",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Labetalol"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09yvj9t"
+    ],
+    [
+      "heart attack",
+      "people.cause_of_death.parent_cause_of_death",
+      "Karōshi"
+    ],
+    [
+      "m.09y980r",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease_cause.diseases",
+      "Ventricular remodeling"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09ysql0"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Statin"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Esmolol"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Kussmaul's sign"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.causes",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.includes_diseases",
+      "Subendocardial Myocardial Infarction"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Beta blocker"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Aneurysm"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Aortic dissection"
+    ],
+    [
+      "Bart Simpson",
+      "fictional_universe.fictional_character.medical_conditions",
+      "heart attack"
+    ],
+    [
+      "m.09y5npz",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease_cause.diseases",
+      "Heart failure"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Bradycardia"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Dalteparin sodium"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.prevention_factors",
+      "Clopidogrel"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Ventricular hypertrophy"
+    ],
+    [
+      "m.09x78jp",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "base.bioventurist.bv_medical_condition.company_involved",
+      "AcelleRX Therapeutics Inc."
+    ],
+    [
+      "heart attack",
+      "common.topic.image",
+      "AMI scheme"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Jack Osborne"
+    ],
+    [
+      "Phil Mitchell",
+      "fictional_universe.fictional_character.medical_conditions",
+      "heart attack"
+    ],
+    [
+      "m.09yvjpr",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x7y7_"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09w4lwz"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Timolol"
+    ],
+    [
+      "m.09y67v2",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.0b47yh5"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Abdominal pain"
+    ],
+    [
+      "m.0b47yh5",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Cough"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x_hqq"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Tissue plasminogen activator"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Anticoagulant"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.includes_diseases",
+      "ST segment elevation myocardial infarction"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09xszbd"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Phil Mitchell"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Levine's sign"
+    ],
+    [
+      "heart attack",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "m.09wjtbj",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Margaret Meldrew"
+    ],
+    [
+      "m.09x13wp",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Feeling of impending doom"
+    ],
+    [
+      "m.0b6r6y_",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "m.09ysql0",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "m.09x0mpz",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.risk_factor.diseases",
+      "Complex regional pain syndrome"
+    ],
+    [
+      "m.09x6xkd",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09w0hpl"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Steve"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Urokinase"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Asymptomatic"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "ACE inhibitor"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Dyspnea"
+    ],
+    [
+      "m.09xs3r_",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Nitroglycerin"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.medical_specialties",
+      "Cardiology"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x0mpz"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Lola Griffin"
+    ],
+    [
+      "Richard Sainsbury",
+      "medicine.notable_person_with_medical_condition.condition",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Propranolol"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.symptoms",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09wwbd6"
+    ],
+    [
+      "m.04zh59b",
+      "base.bioventurist.indication.disease",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.medical_specialties",
+      "Cardiothoracic surgery"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Stress"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09y6yg0"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Myocardial scarring"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.prevention_factors",
+      "Aspirin"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Anisindione"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.risk_factors",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Hyperhomocysteinemia"
+    ],
+    [
+      "Alex Chilton",
+      "people.deceased_person.cause_of_death",
+      "heart attack"
+    ],
+    [
+      "m.09y0_91",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.notable_people_with_this_condition",
+      "Ian Lavender"
+    ],
+    [
+      "heart attack",
+      "medicine.symptom.symptom_of",
+      "Coronary artery disease"
+    ],
+    [
+      "Johnny Allen",
+      "people.deceased_person.cause_of_death",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.notable_people_with_this_condition",
+      "Paul O'Grady"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.includes_diseases",
+      "Transmural Myocardial Infarction"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Family History of Ischaemic Heart disease"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Metoprolol"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09y67v2"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x78jp"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Nausea"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Tirofiban"
+    ],
+    [
+      "m.09w4lwz",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_nq7w5"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Reteplase"
+    ],
+    [
+      "m.07nh4t9",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.notable_people_with_this_condition",
+      "Steve Pemberton"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Vomiting"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x6xkd"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Verapamil"
+    ],
+    [
+      "m.09yvj9t",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Sedentary lifestyle"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.notable_people_with_this_condition",
+      "Harry H. Corbett"
+    ],
+    [
+      "m.09x0q2n",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09x0q2n"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Heparin"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Sulfinpyrazone"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Anxiety"
+    ],
+    [
+      "m.09xszbd",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Enoxaparin sodium"
+    ],
+    [
+      "Karl Kennedy",
+      "fictional_universe.fictional_character.medical_conditions",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Carvedilol"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Tachycardia"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.prevention_factors",
+      "Warfarin"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Streptokinase"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Palpitations"
+    ],
+    [
+      "m.04cl0jt",
+      "base.bioventurist.indication.disease",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09yvjpr"
+    ],
+    [
+      "m.09y8p0r",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Back pain"
+    ],
+    [
+      "heart attack",
+      "medicine.risk_factor.diseases",
+      "Ventricular septal defect"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Lidocaine"
+    ],
+    [
+      "heart attack",
+      "medicine.symptom.symptom_of",
+      "Vasculitis"
+    ],
+    [
+      "m.09y6yg0",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Ventricular tachycardia"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Acebutolol"
+    ],
+    [
+      "Ian Lavender",
+      "medicine.notable_person_with_medical_condition.condition",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "base.bioventurist.bv_medical_condition.therapeutics",
+      "m.04zh59b"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09y8p0r"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Amphetamine"
+    ],
+    [
+      "heart attack",
+      "people.cause_of_death.parent_cause_of_death",
+      "Assassination in ways which appear natural"
+    ],
+    [
+      "m.09wsknd",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09y0_91"
+    ],
+    [
+      "James Arthur Gates",
+      "fictional_universe.fictional_character.medical_conditions",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Nadolol"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Fourth heart sound"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09xs3r_"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Percutaneous coronary intervention"
+    ],
+    [
+      "Johnny Allen",
+      "fictional_universe.fictional_character.medical_conditions",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Heparin Sodium"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09y980r"
+    ],
+    [
+      "m.09wwbd6",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Penbutolol"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Max Cunningham"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Diaphoresis"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.includes_diseases",
+      "non-ST segment elevation myocardial infarction"
+    ],
+    [
+      "heart attack",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nh4t9"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Johnny Allen"
+    ],
+    [
+      "heart attack",
+      "medicine.disease_cause.diseases",
+      "Pulsus bigeminus"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Bart Simpson"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Vulnerable plaque"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Tenecteplase"
+    ],
+    [
+      "m.09x_hqq",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.symptom.side_effect_of",
+      "Ephedra"
+    ],
+    [
+      "m.09w0hpl",
+      "common.webpage.topic",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09wjtbj"
+    ],
+    [
+      "heart attack",
+      "base.bioventurist.bv_medical_condition.therapeutics",
+      "m.04cl0jt"
+    ],
+    [
+      "heart attack",
+      "fictional_universe.medical_condition_in_fiction.characters_with_this_condition",
+      "Karl Kennedy"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.causes",
+      "Embolism"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.treatments",
+      "Atenolol"
+    ],
+    [
+      "heart attack",
+      "base.bioventurist.bv_medical_condition.company_involved",
+      "BeneChill"
+    ],
+    [
+      "heart attack",
+      "common.topic.webpage",
+      "m.09y5npz"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "Sulfinpyrazone"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.risk_factor.diseases",
+      "Heart failure"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease_cause.diseases",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "Tirofiban"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.risk_factors",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "Beta blocker"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "ACE inhibitor"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.causes",
+      "Diabetes mellitus"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "Nitroglycerin"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "Statin"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.symptoms",
+      "Dyspnea"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.causes",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.medical_specialties",
+      "Cardiology"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease_cause.diseases",
+      "Heart failure"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.risk_factors",
+      "Personality type"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.treatments",
+      "Eptifibatide"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.causes",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease_cause.diseases",
+      "Ventricular tachycardia"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease_cause.diseases",
+      "Coronary artery disease"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.risk_factors",
+      "Sedentary lifestyle"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Aneurysm"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Liver tumour"
+    ],
+    [
+      "Diabetes mellitus",
+      "people.cause_of_death.parent_cause_of_death",
+      "Assassination in ways which appear natural"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Dupuytren's contracture"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.symptoms",
+      "Vomiting"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease_cause.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Major depression"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.symptoms",
+      "Nausea"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.symptoms",
+      "Diabetes mellitus"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Heart failure"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.symptom.symptom_of",
+      "Pancreatic cancer"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.symptoms",
+      "Asymptomatic"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.risk_factor.diseases",
+      "Actinic keratosis"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Diabetes mellitus"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.medical_specialties",
+      "Cardiology"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Dyspnea"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.symptoms",
+      "Dyspnea"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Asymptomatic"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.treatments",
+      "ACE inhibitor"
+    ],
+    [
+      "Heart failure",
+      "medicine.icd_9_cm_classification.includes_classifications",
+      "Heart failure"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.parent_disease",
+      "Heart failure"
+    ],
+    [
+      "Heart failure",
+      "medicine.icd_9_cm_classification.parent_classification",
+      "Heart failure"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.treatments",
+      "Beta blocker"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.treatments",
+      "Carvedilol"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.includes_diseases",
+      "Heart failure"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.prevention_factors",
+      "Reteplase"
+    ],
+    [
+      "Heart failure",
+      "medicine.disease.treatments",
+      "Nitroglycerin"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Palpitations"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.risk_factors",
+      "Stress"
+    ]
+  ]
+}

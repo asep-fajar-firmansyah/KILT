@@ -1,0 +1,3345 @@
+{
+  "graph_id": 11000,
+  "subgraph": [
+    [
+      "Ohio State University",
+      "education.educational_institution_campus.educational_institution",
+      "Ohio State University"
+    ],
+    [
+      "Ohio State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Ohio State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Ohio State University",
+      "education.educational_institution.campuses",
+      "Ohio State University"
+    ],
+    [
+      "Ohio State University",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "Ohio State University, Marion Campus"
+    ],
+    [
+      "Ohio State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio State University, Marion Campus",
+      "education.educational_institution.parent_institution",
+      "Ohio State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Ohio State University"
+    ],
+    [
+      "Ohio State University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Ohio State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of the District of Columbia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of the District of Columbia",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of the District of Columbia",
+      "education.educational_institution_campus.educational_institution",
+      "University of the District of Columbia"
+    ],
+    [
+      "University of the District of Columbia",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of the District of Columbia"
+    ],
+    [
+      "University of the District of Columbia",
+      "education.educational_institution.campuses",
+      "University of the District of Columbia"
+    ],
+    [
+      "Alcorn State University",
+      "education.educational_institution.campuses",
+      "Alcorn State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Alcorn State University"
+    ],
+    [
+      "Alcorn State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Alcorn State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Alcorn State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alcorn State University",
+      "education.educational_institution_campus.educational_institution",
+      "Alcorn State University"
+    ],
+    [
+      "Founding school",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Local tuition"
+    ],
+    [
+      "Domestic tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Rutgers University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Nebraska at Kearney",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Fraternities and sororities"
+    ],
+    [
+      "Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of doctoral candidates"
+    ],
+    [
+      "Montana State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.equivalent_topic",
+      "College"
+    ],
+    [
+      "University of Nebraska–Lincoln",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012nnm2d"
+    ],
+    [
+      "Auburn University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Sinte Gleska University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Pennsylvania State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Host",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Taught at",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.equivalent_topic",
+      "University"
+    ],
+    [
+      "Ohio State University, Lima Campus",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "University"
+    ],
+    [
+      "University of California, Irvine",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of California, Irvine School of Medicine",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Langston University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Doctorate Degree From",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Claremore Beauty College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Medical School Affiliation",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Number of postgraduates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "University",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.documented_object.documentation",
+      "m.021y5v6"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Educational Institution"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012svnyq"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Domestic tuition"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "College/University"
+    ],
+    [
+      "Ohio State University, Marion Campus",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Idaho",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of undergraduates"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Departments"
+    ],
+    [
+      "University of Missouri System",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Taught at",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Parent Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Medical School Affiliation"
+    ],
+    [
+      "University",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "University of Rhode Island",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Chief Dull Knife College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012b_jb_"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Comanche Nation College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Southern University and A&M College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Educational Institution"
+    ],
+    [
+      "University of New Hampshire",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Hawaii at Manoa",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Medical School Affiliation",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "West Virginia University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of California, Davis",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Iowa State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Penn State Erie, The Behrend College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "School",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Colleges and Universities"
+    ],
+    [
+      "University of California, Riverside",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Wisconsin-Madison",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Founding school",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "California State University, Sacramento",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "North Carolina Agricultural and Technical State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Maryland, College Park",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College",
+      "freebase.equivalent_topic.equivalent_type",
+      "College/University"
+    ],
+    [
+      "Florida A&M University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Central Oklahoma",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Acceptance rate",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Universities",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Parent Institution"
+    ],
+    [
+      "Clemson University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Puerto Rico at Mayagüez",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Colorado State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Florida",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Local tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "University of Texas at Austin",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "University of Guam",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Louisiana Tech University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Michigan State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Kansas",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "School"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011clh9l"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Universities"
+    ],
+    [
+      "Oklahoma State University–Stillwater",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Parent Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University of the Virgin Islands",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w712g"
+    ],
+    [
+      "Lincoln University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Penn State New Kensington",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "School",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Institution"
+    ],
+    [
+      "Best Overall",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Fraternities and sororities",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "University of California, Santa Cruz",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0123p367"
+    ],
+    [
+      "University of Connecticut",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Rogers State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Number of postgraduates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Host",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Taught at"
+    ],
+    [
+      "South Carolina State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Purdue University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Missouri–St. Louis",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Number of doctoral candidates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Kentucky State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University Affiliation",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Academic Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Number of undergraduates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Departments",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "North Dakota State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Local tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Founding school"
+    ],
+    [
+      "University of Colorado Boulder",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Academic Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "University Affiliation",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Virginia Tech",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Nevada, Las Vegas",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Kentucky",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010nwf11"
+    ],
+    [
+      "Montana State University–Northern",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Tennessee State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Cornell University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Ohio State University, Mansfield Campus",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Acceptance rate"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Universität"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Universität",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Universität",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University of Massachusetts Amherst",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Alabama Agricultural and Mechanical University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Georgia",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Best Overall"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Tuskegee University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "North Carolina State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_yx_c2"
+    ],
+    [
+      "Acceptance rate",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Fort Valley State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Arizona",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Colleges and Universities",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University",
+      "freebase.equivalent_topic.equivalent_type",
+      "College/University"
+    ],
+    [
+      "Fraternities and sororities",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Montana State University Billings",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "International tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "New Mexico State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Host"
+    ],
+    [
+      "University of Vermont",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Hawaii Maui College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Academic Institution"
+    ],
+    [
+      "Washington State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "International tuition"
+    ],
+    [
+      "Ohio State University, Newark Campus",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Arkansas at Pine Bluff",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Massachusetts Dartmouth",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Departments",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "California Polytechnic State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012c3llf"
+    ],
+    [
+      "University of Delaware",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Minnesota",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Alaska Fairbanks",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Universities",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "University of Tennessee",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "University Affiliation"
+    ],
+    [
+      "Virginia State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "West Virginia State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Valley City State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Massachusetts Institute of Technology",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "New Jersey Institute of Technology",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Best Overall",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "University of Nebraska Omaha",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Maryland Eastern Shore",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Delaware State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Doctorate Degree From",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Domestic tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "University of Arkansas",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Number of doctoral candidates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Utah State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Doctorate Degree From"
+    ],
+    [
+      "Kansas State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Colleges and Universities",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "International tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "University of Nevada, Reno",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Louisiana State University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "common.topic.article",
+      "m.021y5v6"
+    ],
+    [
+      "Number of undergraduates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of postgraduates"
+    ],
+    [
+      "Wesleyan College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "American Samoa Community College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Chief Dull Knife College",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Delaware",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of California, Irvine School of Medicine"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Chief Dull Knife College"
+    ],
+    [
+      "North Carolina State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Hawaii Maui College",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Connecticut",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Kansas"
+    ],
+    [
+      "Pennsylvania State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of California, Santa Cruz",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "American Samoa Community College"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Southern University and A&M College"
+    ],
+    [
+      "University of Rhode Island",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Tuskegee University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Maryland Eastern Shore"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of California, Irvine"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Arkansas"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Ohio State University, Marion Campus"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Illinois at Urbana–Champaign"
+    ],
+    [
+      "University of Arizona",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Iowa State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Auburn University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Texas at Austin"
+    ],
+    [
+      "Ohio State University, Lima Campus",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "West Virginia State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "North Dakota State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Missouri–St. Louis",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Tennessee",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Louisiana Tech University"
+    ],
+    [
+      "University of California, Irvine School of Medicine",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Ohio State University, Marion Campus",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "New Jersey Agricultural Experiment Station"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Georgia"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Massachusetts Dartmouth"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Florida"
+    ],
+    [
+      "University of Nevada, Las Vegas",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Cornell University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Nebraska at Kearney",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "South Carolina State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Nebraska at Kearney"
+    ],
+    [
+      "Langston University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Lincoln University"
+    ],
+    [
+      "Land-grant university",
+      "common.topic.notable_types",
+      "Organization"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Alaska Fairbanks"
+    ],
+    [
+      "University of Colorado Boulder",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Massachusetts Dartmouth",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Hawaii at Manoa"
+    ],
+    [
+      "Alabama Agricultural and Mechanical University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "North Carolina State University"
+    ],
+    [
+      "Massachusetts Institute of Technology",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "North Carolina Agricultural and Technical State University"
+    ],
+    [
+      "Clemson University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Wisconsin-Madison"
+    ],
+    [
+      "University of Florida",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Colorado State University"
+    ],
+    [
+      "University of New Hampshire",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Montana State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "New Mexico State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Guam"
+    ],
+    [
+      "Virginia Tech",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Kentucky State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "West Virginia State University"
+    ],
+    [
+      "New Jersey Institute of Technology",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Nevada, Las Vegas"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "West Virginia University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Connecticut"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Penn State New Kensington"
+    ],
+    [
+      "New Mexico State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Comanche Nation College",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Florida A&M University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Clemson University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Ohio State University, Newark Campus"
+    ],
+    [
+      "University of Vermont",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Montana State University–Northern"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Montana State University Library"
+    ],
+    [
+      "Ohio State University, Newark Campus",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Ohio State University, Mansfield Campus",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Cornell University"
+    ],
+    [
+      "Kansas State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Rutgers University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Montana State University Billings"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Maryland, College Park"
+    ],
+    [
+      "Michigan State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Ohio State University, Lima Campus"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Michigan State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Louisiana State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of California, Santa Cruz"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Kentucky"
+    ],
+    [
+      "American Samoa Community College",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "common.topic.image",
+      "Land grant college stamp"
+    ],
+    [
+      "Louisiana Tech University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Hawaii Maui College"
+    ],
+    [
+      "University of Kentucky",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Vermont"
+    ],
+    [
+      "Valley City State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Virginia State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Minnesota"
+    ],
+    [
+      "Purdue University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "California State University, Sacramento",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "California Polytechnic State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Texas at Austin",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Washington State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Delaware State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Maryland Eastern Shore",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Alaska Fairbanks",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Maryland, College Park",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Auburn University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Washington State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Purdue University"
+    ],
+    [
+      "University of Guam",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Minnesota",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Missouri–St. Louis"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Valley City State University"
+    ],
+    [
+      "Fort Valley State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Nebraska–Lincoln",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Rhode Island"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Comanche Nation College"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Idaho"
+    ],
+    [
+      "University of California, Riverside",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Georgia",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Arizona"
+    ],
+    [
+      "Tennessee State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "North Dakota State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Virginia Tech"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of the Virgin Islands"
+    ],
+    [
+      "Louisiana State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Nebraska Omaha",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Missouri System",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Arkansas",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of the Virgin Islands",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Wisconsin-Madison",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "West Virginia University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Kansas State University"
+    ],
+    [
+      "Montana State University Billings",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Iowa State University"
+    ],
+    [
+      "University of Central Oklahoma",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Nebraska Omaha"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Penn State Erie, The Behrend College"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Missouri System"
+    ],
+    [
+      "University of California, Davis",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Virginia State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Langston University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Central Oklahoma"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "South Carolina State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Tennessee"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Rutgers University"
+    ],
+    [
+      "Montana State University Library",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "common.topic.article",
+      "m.01_9fr"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Colorado Boulder"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Ohio State University, Mansfield Campus"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "California Polytechnic State University"
+    ],
+    [
+      "Kentucky State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Nevada, Reno",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Florida A&M University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Nevada, Reno"
+    ],
+    [
+      "University of Kansas",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Utah State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Arkansas at Pine Bluff"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Delaware State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Tuskegee University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Massachusetts Amherst"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of New Hampshire"
+    ],
+    [
+      "North Carolina Agricultural and Technical State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "New Jersey Institute of Technology"
+    ],
+    [
+      "University of Puerto Rico at Mayagüez",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "common.topic.notable_for",
+      "g.12q4pbjvx"
+    ],
+    [
+      "Colorado State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Massachusetts Amherst",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Delaware"
+    ],
+    [
+      "Sinte Gleska University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of Hawaii at Manoa",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of California, Davis"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Nebraska–Lincoln"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Oklahoma State University–Stillwater"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Pennsylvania State University"
+    ],
+    [
+      "Southern University and A&M College",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Fort Valley State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Sinte Gleska University"
+    ],
+    [
+      "Lincoln University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Penn State New Kensington",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Oklahoma State University–Stillwater",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Tennessee State University"
+    ],
+    [
+      "University of Arkansas at Pine Bluff",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Utah State University",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "University of California, Irvine",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Montana State University"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of Puerto Rico at Mayagüez"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "Alabama Agricultural and Mechanical University"
+    ],
+    [
+      "Montana State University–Northern",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "California State University, Sacramento"
+    ],
+    [
+      "University of Idaho",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Land-grant university",
+      "education.school_category.schools_of_this_kind",
+      "University of California, Riverside"
+    ],
+    [
+      "Penn State Erie, The Behrend College",
+      "education.educational_institution.school_type",
+      "Land-grant university"
+    ],
+    [
+      "Ohio State University, Marion Campus",
+      "education.educational_institution_campus.educational_institution",
+      "Ohio State University, Marion Campus"
+    ],
+    [
+      "Ohio State University, Marion Campus",
+      "education.educational_institution.campuses",
+      "Ohio State University, Marion Campus"
+    ],
+    [
+      "Ohio State University, Marion Campus",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Maryland, College Park",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States Fish and Wildlife Service",
+      "government.government_agency.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "California State University, Sacramento",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "University of Texas at Austin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "DeMarcus Ware",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New Jersey Institute of Technology",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "Tristan Henderson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Georgia"
+    ],
+    [
+      "West Virginia State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana Tech University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Massachusetts Institute of Technology",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michigan State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bradford Knapp",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Colorado State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Tuskegee University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Lily Ross Taylor",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Rogers State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Robert Gibbs",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Oklahoma"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "University of New Hampshire",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Kansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Penn State Erie, The Behrend College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "American Samoa Community College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Jai Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Georgia"
+    ],
+    [
+      "Virginia Tech",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Oklahoma"
+    ],
+    [
+      "University of Idaho",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Nebraska at Kearney",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Nevada, Reno",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "36830",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Corey Dennis",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Johnathan Boring",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "John M. Grizzle",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bruce Pearl",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Langston University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of California, Riverside",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Trey Parker",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Delaware",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of California, Davis",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Minnesota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Oklahoma"
+    ],
+    [
+      "South Carolina State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "36832",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Georgia"
+    ],
+    [
+      "Penn State New Kensington",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Wisconsin-Madison",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Delaware State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Samuel Mockbee",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Kentucky",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tulsa International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "John Hix",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Montana State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "University of Arizona",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Maryland Eastern Shore",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rosemary Glyde",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Colorado Boulder",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Virginia State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "Washington State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "David French Boyd",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Isaac T. Tichenor",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Central Oklahoma",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Tennessee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Paul McDonald",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Georgia"
+    ],
+    [
+      "Claremore Beauty College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Rhode Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rogers County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "University of Missouri–St. Louis",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Richard Ray Whitman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lee County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jay Gogue",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Oklahoma State University–Stillwater",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lee County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Evangeline Williams",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of California, Santa Cruz",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Valley City State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Levy Adcock",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Alaska Fairbanks",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.0cnnncq",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Auburn University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Missouri System",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama Agricultural and Mechanical University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Hawaii at Manoa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Carolina Agricultural and Technical State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lincoln University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "Billy Ray Sharkey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kansas State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Clemson University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "Fort Valley State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Oklahoma"
+    ],
+    [
+      "University of the Virgin Islands",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Sinte Gleska University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Arkansas at Pine Bluff",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Puerto Rico at Mayagüez",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tony Barbee",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Purdue University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "University of Georgia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bill Ham, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hannah West",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Montana State University–Northern",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "California Polytechnic State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Comanche Nation College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Nevada, Las Vegas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lynn Riggs",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "University of California, Irvine School of Medicine",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Charles B. Glenn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tennessee State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Gus Malzahn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Kentucky State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "36849",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Auburn",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Nebraska–Lincoln",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Steve Gage",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Carolina State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "Wesleyan College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Frederick Chapman Robbins",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Helen Walton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ohio State University, Lima Campus",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mitch Holleman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ohio State University, Newark Campus",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Montana State University Library",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Nebraska Omaha",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Southern University and A&M College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Brad Cotter",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Chief Dull Knife College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "Patti Page",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Arkansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Marcus Washington",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Florida A&M University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Massachusetts Dartmouth",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Connecticut",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "West Virginia University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Hawaii Maui College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Montana State University Billings",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "Iowa State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Dakota State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Utah State University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Francis Ernest Lloyd",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ohio State University, Mansfield Campus",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Massachusetts Amherst",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Vermont",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "University of Guam",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Carolina State University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Nebraska–Lincoln",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Alpha Delta Pi",
+      "education.fraternity_sorority.founded_location",
+      "Wesleyan College"
+    ],
+    [
+      "University of Arizona",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Alpha Delta Pi",
+      "common.topic.webpage",
+      "m.03lrp0b"
+    ],
+    [
+      "University of Georgia",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Florida",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Kansas",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "m.03lrp0b",
+      "common.webpage.topic",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Vermont",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Nevada, Las Vegas",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Iowa State University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Alpha Delta Pi",
+      "common.topic.article",
+      "m.0325ph"
+    ],
+    [
+      "Alpha Delta Pi",
+      "common.topic.notable_for",
+      "g.125dr6f4z"
+    ],
+    [
+      "Oklahoma State University–Stillwater",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Kentucky",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Virginia Tech",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Auburn University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Maryland, College Park",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Arkansas",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Clemson University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Texas at Austin",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Alpha Delta Pi",
+      "education.fraternity_sorority.colors",
+      "White"
+    ],
+    [
+      "Alpha Delta Pi",
+      "education.fraternity_sorority.colors",
+      "Azure"
+    ],
+    [
+      "Washington State University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Pennsylvania State University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Delaware",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "University of Rhode Island",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Alpha Delta Pi",
+      "common.topic.notable_types",
+      "Fraternity/Sorority"
+    ],
+    [
+      "University of Tennessee",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Kansas State University",
+      "education.university.fraternities_and_sororities",
+      "Alpha Delta Pi"
+    ],
+    [
+      "Southern University and A&M College",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Montana State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Louisiana State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Purdue University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Nevada, Reno",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of New Hampshire",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "California State University, Sacramento",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Arizona",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Connecticut",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Texas at Austin",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Clemson University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Colorado State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Maryland, College Park",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Florida A&M University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Iowa State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Tennessee",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Tuskegee University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Delaware",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Wisconsin-Madison",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Cornell University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Virginia Tech",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Hawaii at Manoa",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Kansas",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Idaho",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "West Virginia University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Oklahoma State University–Stillwater",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "North Carolina State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "University of Kentucky",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Massachusetts Institute of Technology",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Louisiana Tech University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Tennessee State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "California Polytechnic State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Kansas State University",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ],
+    [
+      "Penn State New Kensington",
+      "freebase.valuenotation.has_value",
+      "International tuition"
+    ]
+  ]
+}

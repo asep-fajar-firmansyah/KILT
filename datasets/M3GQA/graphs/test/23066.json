@@ -1,0 +1,375 @@
+{
+  "graph_id": 23066,
+  "subgraph": [
+    [
+      "Guinness Draught Bitter",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Draught Bitter"
+    ],
+    [
+      "Guinness Draught Bitter",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Guinness",
+      "common.topic.notable_for",
+      "g.125bwrdy4"
+    ],
+    [
+      "Guinness",
+      "common.topic.notable_types",
+      "Brewery / Brand of beer"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Smithwicks"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Foreign Extra Stout (Nigeria)"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Special Export Stout"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Foreign Extra Stout"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Kilkenny Draught Irish Cream Ale"
+    ],
+    [
+      "Guinness",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Stout"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Draught Guinness"
+    ],
+    [
+      "Guinness Harp Lager",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness Original",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness"
+    ],
+    [
+      "Guinness Foreign Extra Stout (Nigeria)",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness Foreign Extra Stout",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Guinness Smithwicks",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness Kilkenny Draught Irish Cream Ale",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Harp Lager"
+    ],
+    [
+      "Guinness Draught Guinness",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness Special Export Stout",
+      "food.beer.brewery_brand",
+      "Guinness"
+    ],
+    [
+      "Guinness",
+      "food.brewery_brand_of_beer.beers_produced",
+      "Guinness Original"
+    ],
+    [
+      "Guinness Original",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Guinness Foreign Extra Stout",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Beer",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Beer",
+      "type.type.expected_by",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "type.type.expected_by",
+      "Representative Beers"
+    ],
+    [
+      "Guinness Smithwicks",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "type.type.domain",
+      "Food & Drink"
+    ],
+    [
+      "Country",
+      "rdf-schema#domain",
+      "Beer"
+    ],
+    [
+      "Guinness Foreign Extra Stout (Nigeria)",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Containers"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Final gravity"
+    ],
+    [
+      "Beer",
+      "freebase.type_profile.strict_included_types",
+      "Physically Instantiable"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Original gravity"
+    ],
+    [
+      "Beer",
+      "freebase.type_profile.strict_included_types",
+      "Non-Agent"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "IBU scale"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Brewery / brand"
+    ],
+    [
+      "Beer",
+      "freebase.equivalent_topic.equivalent_type",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "First brewed"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Country"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Beer style"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Alcohol by volume"
+    ],
+    [
+      "Guinness Special Export Stout",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "Color SRM"
+    ],
+    [
+      "Beer",
+      "type.type.expected_by",
+      "Beers Produced"
+    ],
+    [
+      "Beer",
+      "type.type.expected_by",
+      "Beers from here"
+    ],
+    [
+      "Beer",
+      "freebase.documented_object.documentation",
+      "m.01z0s2l"
+    ],
+    [
+      "Guinness Kilkenny Draught Irish Cream Ale",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Nigerian Breweries Star",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "type.type.expected_by",
+      "Beers on Tap"
+    ],
+    [
+      "Guinness Draught Guinness",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Guinness Harp Lager",
+      "common.topic.notable_types",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "freebase.type_profile.equivalent_topic",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "common.topic.article",
+      "m.01z0s2l"
+    ],
+    [
+      "Country",
+      "type.property.schema",
+      "Beer"
+    ],
+    [
+      "Beer",
+      "type.type.properties",
+      "From region"
+    ],
+    [
+      "Beer",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Brewery / Brand of beer",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Brewery / Brand of beer",
+      "type.type.expected_by",
+      "Brewery / brand"
+    ],
+    [
+      "Brewery / Brand of beer",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Brewery / Brand of beer",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Brewery / Brand of beer",
+      "type.type.properties",
+      "Beers Produced"
+    ],
+    [
+      "Brewery / Brand of beer",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Brewery / Brand of beer",
+      "type.type.domain",
+      "Food & Drink"
+    ],
+    [
+      "m.04dqygc",
+      "food.beer_containment.beer",
+      "Guinness Foreign Extra Stout (Nigeria)"
+    ],
+    [
+      "Nigeria",
+      "food.beer_country_region.beers_from_here",
+      "Guinness Foreign Extra Stout (Nigeria)"
+    ],
+    [
+      "Guinness Foreign Extra Stout (Nigeria)",
+      "food.beer.from_region",
+      "Nigeria"
+    ],
+    [
+      "Guinness Foreign Extra Stout (Nigeria)",
+      "common.topic.notable_for",
+      "g.125btfw97"
+    ],
+    [
+      "Guinness Foreign Extra Stout (Nigeria)",
+      "food.beer.containers",
+      "m.04dqygc"
+    ]
+  ]
+}

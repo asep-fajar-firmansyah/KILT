@@ -1,0 +1,6330 @@
+{
+  "graph_id": 30213,
+  "subgraph": [
+    [
+      "East Foothills",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "East Foothills"
+    ],
+    [
+      "East Foothills",
+      "location.hud_county_place.place",
+      "East Foothills"
+    ],
+    [
+      "East Foothills",
+      "location.hud_county_place.county",
+      "Santa Clara County"
+    ],
+    [
+      "East Foothills",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "East Foothills",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 408 and 669"
+    ],
+    [
+      "East Foothills",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "East Foothills",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "East Foothills",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "East Foothills",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Santa Clara County",
+      "location.us_county.hud_county_place",
+      "East Foothills"
+    ],
+    [
+      "95133",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95133",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95133"
+    ],
+    [
+      "95132",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95132"
+    ],
+    [
+      "95132",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "Santa Clara County",
+      "location.us_county.hud_county_place",
+      "Sunol-Midtown"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Sunol-Midtown"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.hud_county_place.place",
+      "Sunol-Midtown"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Sunol-Midtown",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 408 and 669"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.hud_county_place.county",
+      "Santa Clara County"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Sunol-Midtown",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Burbank",
+      "location.hud_county_place.place",
+      "Burbank"
+    ],
+    [
+      "Burbank",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "Santa Clara County",
+      "location.us_county.hud_county_place",
+      "Burbank"
+    ],
+    [
+      "Burbank",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 408 and 669"
+    ],
+    [
+      "Burbank",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Burbank"
+    ],
+    [
+      "Burbank",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Burbank",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Burbank",
+      "location.hud_county_place.county",
+      "Santa Clara County"
+    ],
+    [
+      "Burbank",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Burbank",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Mayor of San Jose",
+      "government.government_office_or_title.jurisdiction",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Alum Rock"
+    ],
+    [
+      "San Jose",
+      "location.location.geolocation",
+      "m.0kjbn6"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95153"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "Area code 408"
+    ],
+    [
+      "2005 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "East San Jose",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "1997 NCAA Men's Division I Basketball Tournament",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "1990 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Naglee Park"
+    ],
+    [
+      "San Jose",
+      "location.location.nearby_airports",
+      "Reid-Hillview Airport"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0pq"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwjq"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0qz"
+    ],
+    [
+      "Almaden Valley",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Children's Discovery Museum of San Jose",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwk8"
+    ],
+    [
+      "San Jose",
+      "location.location.nearby_airports",
+      "San Jose International Airport"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0jtb7t3"
+    ],
+    [
+      "Japantown",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "m.052w0qz",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw6v"
+    ],
+    [
+      "m.052w19p",
+      "common.webpage.topic",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1lr9k0"
+    ],
+    [
+      "San Jose",
+      "symbols.namesake.named_after",
+      "Saint Joseph"
+    ],
+    [
+      "m.03p6fz6",
+      "government.government_position_held.jurisdiction_of_office",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Alviso"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95125"
+    ],
+    [
+      "Willow Glen",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Happy Hollow Park & Zoo",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "2001 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Blossom Valley",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "Saint Joseph",
+      "symbols.name_source.namesakes",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwlz"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw9f"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1jrh14"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Rock ‘n’ Roll San Jose Half Marathon"
+    ],
+    [
+      "San Jose California aerial view south",
+      "common.image.appears_in_topic_gallery",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1mhpfl"
+    ],
+    [
+      "m.052v_jw",
+      "travel.transportation.travel_destination",
+      "San Jose"
+    ],
+    [
+      "2004 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Winchester"
+    ],
+    [
+      "Happy Hollow Park & Zoo",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95124"
+    ],
+    [
+      "Pro Line Garage Doors",
+      "common.topic.subjects",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "common.topic.notable_for",
+      "g.125dr_hz0"
+    ],
+    [
+      "San Jose",
+      "common.topic.subject_of",
+      "Pro Line Garage Doors"
+    ],
+    [
+      "m.0wkf4yv",
+      "people.place_lived.location",
+      "San Jose"
+    ],
+    [
+      "m.0k1bdyr",
+      "government.government_position_held.jurisdiction_of_office",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0rq"
+    ],
+    [
+      "m.052v_qp",
+      "travel.transportation.travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2015 Cinequest Film Festival"
+    ],
+    [
+      "SJPan",
+      "common.image.appears_in_topic_gallery",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "sports.sports_team_location.teams",
+      "San Jose Earthquakes"
+    ],
+    [
+      "Willow Glen",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw5h"
+    ],
+    [
+      "Alum Rock",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2002 Cinequest Film Festival"
+    ],
+    [
+      "m.09ww3jz",
+      "common.webpage.topic",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95152"
+    ],
+    [
+      "San Jose",
+      "location.hud_foreclosure_area.total_90_day_vacant_residential_addresses",
+      "m.07hc_py"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95106"
+    ],
+    [
+      "Santa Clara County",
+      "location.us_county.county_seat",
+      "San Jose"
+    ],
+    [
+      "2014 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.hud_foreclosure_area.total_residential_addresses",
+      "m.07hc_q4"
+    ],
+    [
+      "San Jose",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0_lxs_x"
+    ],
+    [
+      "2011 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.1jmcbgv_1"
+    ],
+    [
+      "Cambrian Park, California",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95172"
+    ],
+    [
+      "Palm Haven",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "2013 Silicon Valley Jewish Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2011 San Jose International Short Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw5y"
+    ],
+    [
+      "Evergreen, San Jose, California",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Shasta/Hanchett Park",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95128"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Kelley Park"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfdb"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtpzr"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfcl"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Cambrian Park, California"
+    ],
+    [
+      "1997 NCAA Men's Division I Basketball Tournament- West Regional Finals",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95196"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwkg"
+    ],
+    [
+      "San Jose",
+      "location.hud_county_place.county",
+      "Santa Clara County"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2014 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2005 Filmapalooza"
+    ],
+    [
+      "Downtown San Jose",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "2014 San Jose International Short Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "East San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95159"
+    ],
+    [
+      "Rosicrucian Egyptian Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "Area code 408",
+      "location.location.contains",
+      "San Jose"
+    ],
+    [
+      "5 Star Loans",
+      "organization.organization.geographic_scope",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw71"
+    ],
+    [
+      "m.052w0q6",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "2012 Shnit International Short Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1k0p1z"
+    ],
+    [
+      "Santa Clara Valley Transportation Authority",
+      "metropolitan_transit.transit_system.area_served",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2002 Hugo Awards"
+    ],
+    [
+      "m.02wtpt4",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "Edenvale",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "GPU Technology Conference 2012",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Area code 669",
+      "location.location.contains",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvvrjc"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95121"
+    ],
+    [
+      "Downtown San Jose",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2013 Nebula Awards"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1kyl9v"
+    ],
+    [
+      "Shasta/Hanchett Park",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "m.052w0qg",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "m.063sfcv",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "Meadowfair",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw8x"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1h6q2c"
+    ],
+    [
+      "West San Jose",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2012 San Jose International Short Film Festival"
+    ],
+    [
+      "2008 Filmapalooza",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "1997 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Pro Line Garage Doors",
+      "organization.organization.geographic_scope",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1jh1sf"
+    ],
+    [
+      "East San Jose",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Winchester Mystery House",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.046cwb4"
+    ],
+    [
+      "San Jose",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtpzj"
+    ],
+    [
+      "Alviso",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw6m"
+    ],
+    [
+      "Royal Rumble (1998)",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.1jmcbjbys"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2014 Vietnam anti-China protests"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfcg"
+    ],
+    [
+      "2000 Turing Award Ceremony",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwjx"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwls"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw9n"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfcb"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95158"
+    ],
+    [
+      "San Jose",
+      "common.topic.image",
+      "SanJoseDowntownIMG016elf_wb.jpg"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "GPU Technology Conference 2012"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95194"
+    ],
+    [
+      "San Jose",
+      "base.biblioness.bibs_location.city",
+      "Silicon Valley"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95190"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Evergreen, San Jose, California"
+    ],
+    [
+      "m.02wtpzj",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1f2m40"
+    ],
+    [
+      "m.063sfcq",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1992 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95136"
+    ],
+    [
+      "San Jose Museum of Art",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "95129",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0r6"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95117"
+    ],
+    [
+      "Winchester",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95155"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwkv"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95170"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11btt4l60b"
+    ],
+    [
+      "m.02wtpz7",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1cvzz_"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95141"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "SC1997"
+    ],
+    [
+      "The Tech Museum of Innovation",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "m.02wtpzr",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1997 NCAA Men's Division I Basketball Tournament- West Regional Semifinals"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2005 Cinequest Film Festival"
+    ],
+    [
+      "m.063sfcg",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "m.052w0s6",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2008 Cinequest Film Festival"
+    ],
+    [
+      "South San Jose",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.hud_foreclosure_area.ofheo_price_change",
+      "m.07hc_qk"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw7b"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Berryessa"
+    ],
+    [
+      "2000 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "common.topic.image",
+      "SJPan"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Japantown"
+    ],
+    [
+      "m.052w0pz",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "1994 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West Valley"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95151"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95127"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2007 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95129-1034"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95191"
+    ],
+    [
+      "San Jose",
+      "location.hud_county_place.place",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "sports.sports_team_location.teams",
+      "San Jose Stealth"
+    ],
+    [
+      "Rose Garden",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose Museum of Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Willow Glen"
+    ],
+    [
+      "San Jose",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.03p6fz6"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.1jmcbhfq4"
+    ],
+    [
+      "Rock ‘n’ Roll San Jose Half Marathon",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95113"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Happy Hollow Park & Zoo"
+    ],
+    [
+      "2005 Filmapalooza",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Meadowfair"
+    ],
+    [
+      "2010 San Jose International Short Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1fm_ty"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0sg"
+    ],
+    [
+      "San Jose",
+      "common.topic.webpage",
+      "m.02k9y62"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2006 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfcz"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwjj"
+    ],
+    [
+      "m.052w0pq",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "m.02wtpyz",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "Downtown San Jose",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "Royal Rumble (1998)"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "San Jose"
+    ],
+    [
+      "San Jose Mercury News",
+      "book.newspaper.circulation_areas",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfcv"
+    ],
+    [
+      "2013 Nebula Awards",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "m.052w0r6",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "West Valley",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Naglee Park",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "Meadowfair",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "Coyote Valley",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95109"
+    ],
+    [
+      "Alum Rock Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "1992 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "West Valley",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1994 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95123"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0jtg6sl"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.1jmcbfmls"
+    ],
+    [
+      "Alum Rock",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95108"
+    ],
+    [
+      "South San Jose",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw5q"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.1jmcbfybb"
+    ],
+    [
+      "2008 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Palm Haven"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95115"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2010 Cinequest Film Festival"
+    ],
+    [
+      "1993 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95110"
+    ],
+    [
+      "2009 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.how_to_get_here",
+      "m.052v_f0"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2013 Cinequest Film Festival"
+    ],
+    [
+      "Aaron Gordon",
+      "people.person.place_of_birth",
+      "San Jose"
+    ],
+    [
+      "2013 San Jose International Short Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "95117",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95126"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1dzv5w"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtp_1"
+    ],
+    [
+      "95113-2806",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "2002 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0rg"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfcq"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2009 San Francisco International Asian American Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95138"
+    ],
+    [
+      "Edenvale",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95193"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw8m"
+    ],
+    [
+      "2010 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Little Portugal",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95135"
+    ],
+    [
+      "Japantown",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "The Tech Museum of Innovation"
+    ],
+    [
+      "San Jose",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Metro Silicon Valley"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95116"
+    ],
+    [
+      "1997 NCAA Men's Division I Basketball Tournament- West Regional Semifinals",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "95113",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Almaden Valley"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95139"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "San Jose Museum of Art"
+    ],
+    [
+      "Cinequest Film Festival",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11b7vbx_lj"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95131"
+    ],
+    [
+      "San Jose",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 408 and 669"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11b66h2bzx"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Shasta/Hanchett Park"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw51"
+    ],
+    [
+      "m.0jvvrjc",
+      "location.administrative_division_capital_relationship.capital",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "Miss India Worldwide 2001"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95130"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtpyr"
+    ],
+    [
+      "Kelley Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "m.063sfcb",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.hud_foreclosure_area.hhuniv",
+      "m.07hc_p8"
+    ],
+    [
+      "Cinequest Film Festival",
+      "film.film_festival.location",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95118"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.local_transportation",
+      "Santa Clara Valley Transportation Authority"
+    ],
+    [
+      "San Jose",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Pro Line Garage Doors"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1997 NCAA Men's Division I Basketball Tournament- West Regional Finals"
+    ],
+    [
+      "2012 San Jose International Short Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Blossom Valley",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2013 San Jose International Short Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "Area code 669"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2013 Silicon Valley Jewish Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "King and Story"
+    ],
+    [
+      "2012 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "m.052w0sg",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2009 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95148"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95161"
+    ],
+    [
+      "San Jose",
+      "location.hud_foreclosure_area.bls_unemployment_rate",
+      "m.07hc_qc"
+    ],
+    [
+      "m.052w0rg",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "m.09wn1gs",
+      "common.webpage.topic",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2011 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95120"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1fr8t1"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw65"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1m0jqp"
+    ],
+    [
+      "SanJoseDowntownIMG016elf_wb.jpg",
+      "common.image.appears_in_topic_gallery",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2004 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Cinequest Film Festival"
+    ],
+    [
+      "San Jose International Airport",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "King and Story",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "Rose Garden",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1990 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtpz7"
+    ],
+    [
+      "Peak Sales Recruiting",
+      "organization.organization.geographic_scope",
+      "San Jose"
+    ],
+    [
+      "Little Portugal",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "m.0_lxs_x",
+      "government.government_position_held.jurisdiction_of_office",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0qg"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw58"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtpt4"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Coyote Valley"
+    ],
+    [
+      "Coyote Valley",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Downtown San Jose"
+    ],
+    [
+      "San Jose",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose International Airport",
+      "aviation.airport.serves",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "San Pedro Square"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1993 Cinequest Film Festival"
+    ],
+    [
+      "1999 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1d0wtt"
+    ],
+    [
+      "m.052w0rq",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "Alum Rock Park",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Edenvale"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Japantown"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95103"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Rosicrucian Egyptian Museum"
+    ],
+    [
+      "Evergreen, San Jose, California",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95111"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95134"
+    ],
+    [
+      "San Jose Sharks",
+      "sports.sports_team.location",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Santa Teresa"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1h80l2"
+    ],
+    [
+      "m.063sfdb",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "Metro Silicon Valley",
+      "book.newspaper.circulation_areas",
+      "San Jose"
+    ],
+    [
+      "Pro Line Garage Doors",
+      "organization.organization.place_founded",
+      "San Jose"
+    ],
+    [
+      "SC1997",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Santa Clara County",
+      "location.us_county.hud_county_place",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95154"
+    ],
+    [
+      "San Jose Stealth",
+      "sports.sports_team.location",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Peak Sales Recruiting"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "San Jose Municipal Rose Garden"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "San Jose Museum of Quilts & Textiles"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2000 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.how_to_get_here",
+      "m.052v_jw"
+    ],
+    [
+      "Almaden Valley",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Rose Garden"
+    ],
+    [
+      "Japantown",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwkn"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1jm8vj"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2010 Tour of California"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw83"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Blossom Valley"
+    ],
+    [
+      "m.02k9y62",
+      "common.webpage.topic",
+      "San Jose"
+    ],
+    [
+      "95129-1034",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Downtown San Jose"
+    ],
+    [
+      "San Pedro Square",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "Silicon Valley"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0rz"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1j8qpq"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2012 United Nations Association Film Festival"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Winchester Mystery House"
+    ],
+    [
+      "Reid-Hillview Airport",
+      "aviation.airport.serves",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95129"
+    ],
+    [
+      "San Jose",
+      "sports.sports_team_location.teams",
+      "San Jose Sharks"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Little Portugal"
+    ],
+    [
+      "m.02wtp_1",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "Winchester",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Children's Discovery Museum of San Jose"
+    ],
+    [
+      "m.02wtptf",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0k6l8q_"
+    ],
+    [
+      "m.063sfd6",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "2010 Tour of California",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "2015 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0q6"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Santana Row"
+    ],
+    [
+      "Sanjosecityhall",
+      "common.image.appears_in_topic_gallery",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95112"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwl0"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0pz"
+    ],
+    [
+      "2010 Turing Award Ceremony",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Spartan Mambo",
+      "organization.organization.geographic_scope",
+      "San Jose"
+    ],
+    [
+      "San Jose Museum of Quilts & Textiles",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "m.063sfcz",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "m.052w0rz",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "Palm Haven",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "West San Jose",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "2014 Vietnam anti-China protests",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose Municipal Rose Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "government.governmental_jurisdiction.government_positions",
+      "Mayor of San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1997 NCAA Men's Division I Basketball Tournament"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2003 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1997 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.hud_foreclosure_area.estimated_number_of_mortgages",
+      "m.07hc_pq"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwm4"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwll"
+    ],
+    [
+      "2009 San Francisco International Asian American Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2014 San Jose International Short Film Festival"
+    ],
+    [
+      "m.063sfc6",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "San Jose Earthquakes",
+      "sports.sports_team.location",
+      "San Jose"
+    ],
+    [
+      "Children's Discovery Museum of San Jose",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.hud_foreclosure_area.estimated_number_foreclosures",
+      "m.07hc_ph"
+    ],
+    [
+      "San Jose",
+      "common.topic.article",
+      "m.0f054"
+    ],
+    [
+      "Drew Gordon",
+      "people.person.place_of_birth",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1mdxvf"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfc6"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "OOPSLA 1996"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95160"
+    ],
+    [
+      "Miss India Worldwide 2001",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Alamaden Resident"
+    ],
+    [
+      "San Jose",
+      "location.location.containedby",
+      "Area codes 408 and 669"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.064hwl6"
+    ],
+    [
+      "2003 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Area codes 408 and 669",
+      "location.location.contains",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1dsv6h"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2010 San Jose International Short Film Festival"
+    ],
+    [
+      "Winchester Mystery House",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95192"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw7m"
+    ],
+    [
+      "Cambrian Park, California",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "m.063sfd2",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "m.02wtpyr",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.tourist_attractions",
+      "Alum Rock Park"
+    ],
+    [
+      "Santana Row",
+      "travel.tourist_attraction.near_travel_destination",
+      "San Jose"
+    ],
+    [
+      "2002 Hugo Awards",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0k1bdyr"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95122"
+    ],
+    [
+      "m.046cwb4",
+      "location.adjoining_relationship.adjoins",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw95"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.12vqj2t8n"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtpyz"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95173"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2010 Turing Award Ceremony"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1998 Cinequest Film Festival"
+    ],
+    [
+      "The Tech Museum of Innovation",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "m.052w0qq",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2000 Turing Award Ceremony"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2001 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1fx8qm"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfd6"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95156"
+    ],
+    [
+      "San Jose",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Spartan Mambo"
+    ],
+    [
+      "1996 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "common.topic.image",
+      "Sanjosecityhall"
+    ],
+    [
+      "San Jose",
+      "common.topic.webpage",
+      "m.09wn1gs"
+    ],
+    [
+      "Santa Teresa",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "Santa Teresa",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95119"
+    ],
+    [
+      "2007 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "common.topic.webpage",
+      "m.052w19p"
+    ],
+    [
+      "San Jose",
+      "common.topic.webpage",
+      "m.09ww3jz"
+    ],
+    [
+      "2006 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.how_to_get_here",
+      "m.052v_qp"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95157"
+    ],
+    [
+      "Naglee Park",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "common.topic.image",
+      "San Jose California aerial view south"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0qq"
+    ],
+    [
+      "San Jose",
+      "organization.organization_scope.organizations_with_this_scope",
+      "5 Star Loans"
+    ],
+    [
+      "Alamaden Resident",
+      "book.newspaper.circulation_areas",
+      "San Jose"
+    ],
+    [
+      "King and Story",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "2011 San Jose International Short Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "Silicon Valley",
+      "location.location.contains",
+      "San Jose"
+    ],
+    [
+      "OOPSLA 1996",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2012 Cinequest Film Festival"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95101"
+    ],
+    [
+      "San Jose",
+      "location.place_with_neighborhoods.neighborhoods",
+      "South San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw8c"
+    ],
+    [
+      "San Jose",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95150"
+    ],
+    [
+      "San Jose",
+      "travel.travel_destination.climate",
+      "m.052w0s6"
+    ],
+    [
+      "2013 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sfd2"
+    ],
+    [
+      "Berryessa",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1999 Cinequest Film Festival"
+    ],
+    [
+      "Berryessa",
+      "location.neighborhood.neighborhood_of",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11b7sxm3bd"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2008 Filmapalooza"
+    ],
+    [
+      "San Jose",
+      "location.location.adjoin_s",
+      "m.02wtptf"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1k_dkl"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95164"
+    ],
+    [
+      "1998 Cinequest Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "San Jose",
+      "location.citytown.postal_codes",
+      "95113-2806"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.066g419"
+    ],
+    [
+      "San Pedro Square",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "g.11x1jrg2v"
+    ],
+    [
+      "San Jose",
+      "location.statistical_region.population",
+      "m.0hkbw6d"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "1996 Cinequest Film Festival"
+    ],
+    [
+      "Sanjosecityhall",
+      "common.image.image_tags",
+      "San Jose"
+    ],
+    [
+      "Alviso",
+      "location.location.containedby",
+      "San Jose"
+    ],
+    [
+      "m.052v_f0",
+      "travel.transportation.travel_destination",
+      "San Jose"
+    ],
+    [
+      "San Jose",
+      "location.location.events",
+      "2012 Shnit International Short Film Festival"
+    ],
+    [
+      "San Jose",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "San Jose Mercury News"
+    ],
+    [
+      "2012 United Nations Association Film Festival",
+      "time.event.locations",
+      "San Jose"
+    ],
+    [
+      "m.063sfcl",
+      "base.petbreeds.dog_city_relationship.cities",
+      "San Jose"
+    ],
+    [
+      "Cambrian Park, California",
+      "location.hud_county_place.county",
+      "Santa Clara County"
+    ],
+    [
+      "95130",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "location.us_county.hud_county_place",
+      "Alum Rock"
+    ],
+    [
+      "95121",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95148",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95110",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95136",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95131",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "location.location.containedby",
+      "Silicon Valley"
+    ],
+    [
+      "Kelley Park",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95118",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95127",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 408 and 669"
+    ],
+    [
+      "Willow Glen",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95124",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Alum Rock",
+      "location.hud_county_place.county",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "San Jose Mercury News"
+    ],
+    [
+      "95134",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95125",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95129-1034",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95112",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "San Jose Municipal Rose Garden",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "San Jose Museum of Quilts & Textiles",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Berryessa",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95129",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95126",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95122",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Reid-Hillview Airport",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95113-2806",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Silicon Valley",
+      "location.location.contains",
+      "Santa Clara County"
+    ],
+    [
+      "95120",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "95119",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "The Tech Museum of Innovation",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Cambrian Park, California",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95128",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "San Jose Mercury News",
+      "book.newspaper.circulation_areas",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "location.us_county.hud_county_place",
+      "Cambrian Park, California"
+    ],
+    [
+      "95116",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "95138",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95111",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95123",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95139",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "95135",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "m.0jvvrjc",
+      "location.administrative_division_capital_relationship.administrative_division",
+      "Santa Clara County"
+    ],
+    [
+      "95113",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Alviso",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santana Row",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Santa Clara County",
+      "location.administrative_division.capital",
+      "m.0jvvrjc"
+    ],
+    [
+      "Alum Rock",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Rosicrucian Egyptian Museum",
+      "location.location.containedby",
+      "Santa Clara County"
+    ],
+    [
+      "Area codes 408 and 669",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Alviso",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 408 and 669"
+    ],
+    [
+      "Alum Rock",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 408 and 669"
+    ],
+    [
+      "95129-1034",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Willow Glen",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "The Tech Museum of Innovation",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Silicon Valley",
+      "base.biblioness.bibs_location.state",
+      "California"
+    ],
+    [
+      "California",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Santana Row",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Silicon Valley",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "California",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Berryessa",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Area code 408",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Winchester Mystery House",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "California",
+      "organization.organization_scope.organizations_with_this_scope",
+      "5 Star Loans"
+    ],
+    [
+      "95113-2806",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "California",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "common.topic.subject_of",
+      "Pro Line Garage Doors"
+    ],
+    [
+      "University of California, Los Angeles",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "California",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "California"
+    ],
+    [
+      "95129",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "California"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "California"
+    ],
+    [
+      "Area code 669",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "95113",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Blossom Valley",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Pro Line Garage Doors",
+      "common.topic.subjects",
+      "California"
+    ],
+    [
+      "Alum Rock",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Alviso",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Rose Garden",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Almaden Valley",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "Cambrian Park, California",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "5 Star Loans",
+      "organization.organization.geographic_scope",
+      "California"
+    ],
+    [
+      "Pro Line Garage Doors",
+      "organization.organization.place_founded",
+      "California"
+    ],
+    [
+      "California",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Santa Teresa",
+      "location.location.containedby",
+      "California"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "California"
+    ],
+    [
+      "California",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Jersey"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Carolina"
+    ],
+    [
+      "Missouri",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "North Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "South Dakota"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Utah"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Jersey"
+    ],
+    [
+      "Utah",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "95155",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maine"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Vermont"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Indiana"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95126",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Minnesota"
+    ],
+    [
+      "Massachusetts",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "North Dakota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "95134",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maine"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "South Dakota"
+    ],
+    [
+      "Montana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "South Carolina"
+    ],
+    [
+      "95139",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Delaware"
+    ],
+    [
+      "Ohio",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Iowa"
+    ],
+    [
+      "95148",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Dakota"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Iowa"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Massachusetts"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Vermont"
+    ],
+    [
+      "Wyoming",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "95191",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maine"
+    ],
+    [
+      "Connecticut",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "Washington, D.C.",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "West Virginia"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Virginia"
+    ],
+    [
+      "Nevada",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Mississippi"
+    ],
+    [
+      "Washington",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alaska"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "U.S. state"
+    ],
+    [
+      "Nevada",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "95117",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Rhode Island"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Delaware"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kansas"
+    ],
+    [
+      "95129-1034",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Connecticut"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Nebraska"
+    ],
+    [
+      "New York",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ohio"
+    ],
+    [
+      "95113-2806",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "95120",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "95113",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Georgia"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Missouri"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Michigan"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95161",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Mississippi"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "U.S. federal district"
+    ],
+    [
+      "Hawaii",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95113",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "95159",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Aaron Gordon",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Dakota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arizona"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Massachusetts"
+    ],
+    [
+      "Wyoming",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Nebraska"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Mexico"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Connecticut"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alaska"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Drew Gordon",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "government.governmental_jurisdiction.government_bodies",
+      "Supreme Court of the United States"
+    ],
+    [
+      "North Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "U.S. state",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "United States of America"
+    ],
+    [
+      "U.S. federal district",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "United States of America"
+    ],
+    [
+      "95152",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "South Carolina"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kentucky"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "West Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Colorado"
+    ],
+    [
+      "North Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "95125",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "95112",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "Nebraska",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New York"
+    ],
+    [
+      "95106",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Hampshire"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "South Dakota"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alaska"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "West Virginia"
+    ],
+    [
+      "Pennsylvania",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Massachusetts"
+    ],
+    [
+      "Wyoming",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Colorado"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Nevada"
+    ],
+    [
+      "Iowa",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Oklahoma"
+    ],
+    [
+      "95150",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Idaho"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "Wyoming",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Wyoming",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Mexico"
+    ],
+    [
+      "Wisconsin",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "New Jersey",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Georgia"
+    ],
+    [
+      "Colorado",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "New Hampshire",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Delaware"
+    ],
+    [
+      "Tennessee",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Minnesota"
+    ],
+    [
+      "North Dakota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Nebraska"
+    ],
+    [
+      "University of California, Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Dakota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arkansas"
+    ],
+    [
+      "Minnesota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Washington, D.C."
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95127",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Utah"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Virginia"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "U.S. state"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maine"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Nebraska"
+    ],
+    [
+      "Kansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Montana"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "law.court_jurisdiction_area.courts",
+      "Supreme Court of the United States"
+    ],
+    [
+      "Kentucky",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Supreme Court of the United States",
+      "government.governmental_body.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95131",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "U.S. state",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Jersey"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Virginia"
+    ],
+    [
+      "Mississippi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Washington"
+    ],
+    [
+      "Alum Rock",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Utah"
+    ],
+    [
+      "University of New Mexico",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Carolina"
+    ],
+    [
+      "Delaware",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Oklahoma"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alaska"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tennessee"
+    ],
+    [
+      "95129",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Dakota"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Mississippi"
+    ],
+    [
+      "South Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Oregon"
+    ],
+    [
+      "U.S. federal district",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Rhode Island"
+    ],
+    [
+      "Supreme Court of the United States",
+      "law.court.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "95154",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Oklahoma"
+    ],
+    [
+      "95164",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kansas"
+    ],
+    [
+      "New Mexico",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Colorado"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "South Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Dakota"
+    ],
+    [
+      "95141",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Willow Glen",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Maine",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Oregon"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Peak Sales Recruiting",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "95135",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "95113-2806",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Missouri"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Rhode Island"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "95138",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "95109",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Vermont"
+    ],
+    [
+      "Alaska",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maryland"
+    ],
+    [
+      "Ohio",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Hampshire"
+    ],
+    [
+      "North Dakota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Dakota"
+    ],
+    [
+      "Maine",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Hampshire"
+    ],
+    [
+      "Missouri",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95130",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kentucky"
+    ],
+    [
+      "Maine",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Michigan"
+    ],
+    [
+      "95124",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Hawaii"
+    ],
+    [
+      "Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "95121",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Idaho"
+    ],
+    [
+      "Idaho",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "U.S. state",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Rhode Island"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Carolina"
+    ],
+    [
+      "United States of America",
+      "base.militaryinfiction.location_in_fiction.contains",
+      "Kansas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kansas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hawaii"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Oregon"
+    ],
+    [
+      "Rhode Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95108",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "95115",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Vermont"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arkansas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Oregon"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Oklahoma"
+    ],
+    [
+      "Delaware",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arkansas"
+    ],
+    [
+      "95119",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Pennsylvania"
+    ],
+    [
+      "Hawaii",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "95129",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "95172",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "95101",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "Montana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wyoming"
+    ],
+    [
+      "95170",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "location.country.capital",
+      "Washington, D.C."
+    ],
+    [
+      "North Dakota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Pennsylvania"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kansas"
+    ],
+    [
+      "Georgia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York"
+    ],
+    [
+      "Nevada",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Jersey"
+    ],
+    [
+      "Washington",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Utah"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arizona"
+    ],
+    [
+      "Kansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Tennessee"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Carolina"
+    ],
+    [
+      "95196",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "Nebraska",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Indiana"
+    ],
+    [
+      "South Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Hawaii"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Ohio"
+    ],
+    [
+      "95118",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "95160",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Dakota"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "U.S. federal district",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "The Tech Museum of Innovation",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95116",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "95158",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.militaryinfiction.location_in_fiction.contained_by",
+      "United States of America"
+    ],
+    [
+      "95156",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Iowa"
+    ],
+    [
+      "Michigan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Michigan"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arizona"
+    ],
+    [
+      "U.S. state",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Mexico"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "95110",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Carolina"
+    ],
+    [
+      "Nebraska",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Colorado"
+    ],
+    [
+      "Louisiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Indiana"
+    ],
+    [
+      "Arkansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Mexico"
+    ],
+    [
+      "Washington, D.C.",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Missouri"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "West Virginia"
+    ],
+    [
+      "Cambrian Park, California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "San Jose International Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alviso",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "U.S. federal district"
+    ],
+    [
+      "Utah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Michigan"
+    ],
+    [
+      "Vermont",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Minnesota"
+    ],
+    [
+      "95157",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Delaware"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Georgia"
+    ],
+    [
+      "95153",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Massachusetts"
+    ],
+    [
+      "95194",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Hampshire"
+    ],
+    [
+      "95190",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "South Dakota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "Alaska",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Indiana"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.country",
+      "United States of America"
+    ],
+    [
+      "Wyoming",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Ohio"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Santana Row",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95173",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kentucky"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "95103",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "95122",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kentucky"
+    ],
+    [
+      "Alaska",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Connecticut"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Idaho"
+    ],
+    [
+      "95111",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arizona"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Iowa"
+    ],
+    [
+      "Oregon",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Hawaii"
+    ],
+    [
+      "West Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "95151",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Connecticut"
+    ],
+    [
+      "95193",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "95123",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arkansas"
+    ],
+    [
+      "Ohio",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Missouri"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Tennessee"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "U.S. federal district",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Louisiana"
+    ],
+    [
+      "Colorado",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "95128",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "95136",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "Silicon Valley",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "95192",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Idaho"
+    ],
+    [
+      "95129-1034",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "San Jose Museum of Art",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Berryessa",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Blossom Valley",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Cambrian Park, California",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Alviso",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Almaden Valley",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Oregon",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Santana Row",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Nevada",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Alum Rock",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Willow Glen",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Washington",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Idaho",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Little Portugal",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "95117",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Winchester Mystery House",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Rose Garden",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ]
+  ]
+}

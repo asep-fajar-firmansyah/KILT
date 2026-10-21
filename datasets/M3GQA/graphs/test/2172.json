@@ -1,0 +1,5810 @@
+{
+  "graph_id": 2172,
+  "subgraph": [
+    [
+      "BMO Field",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Toronto FC",
+      "sports.sports_team.arena_stadium",
+      "BMO Field"
+    ],
+    [
+      "BMO Field",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "BMO Field",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "BMO Field",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "m.02_1_dq",
+      "architecture.ownership.structure",
+      "BMO Field"
+    ],
+    [
+      "BMO Field",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "BMO Field",
+      "architecture.structure.owner",
+      "m.02_1_dq"
+    ],
+    [
+      "BMO Field",
+      "sports.sports_facility.teams",
+      "Toronto FC"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "BMO Field"
+    ],
+    [
+      "BMO Field",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Black Creek Pioneer Village",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Black Creek Pioneer Village",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Black Creek Pioneer Village",
+      "film.film_location.featured_in_films",
+      "Splice"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Black Creek Pioneer Village"
+    ],
+    [
+      "Splice",
+      "film.film.featured_film_locations",
+      "Black Creek Pioneer Village"
+    ],
+    [
+      "Black Creek Pioneer Village",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.professional_sports_team.owner_s",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "sports.sports_team_owner.teams_owned",
+      "Toronto Raptors"
+    ],
+    [
+      "m.045y5yn",
+      "business.employment_tenure.company",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "m.06646n5",
+      "business.employment_tenure.company",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "business.business_operation.industry",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "business.industry.companies",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "sports.sports_team_owner.teams_owned",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "common.topic.image",
+      "MLSE logo"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "common.topic.notable_for",
+      "g.1255z2ply"
+    ],
+    [
+      "m.02_1_dq",
+      "architecture.ownership.owner",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "business.employer.employees",
+      "m.06646n5"
+    ],
+    [
+      "Property management",
+      "business.industry.companies",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "business.employer.employees",
+      "m.045y5yn"
+    ],
+    [
+      "Professional sports",
+      "business.industry.companies",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "organization.organization.headquarters",
+      "m.045y5yg"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "common.topic.article",
+      "m.06p05r"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "architecture.architectural_structure_owner.structures_owned",
+      "m.02_1_dq"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "business.business_operation.industry",
+      "Professional sports"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.professional_sports_team.owner_s",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "business.business_operation.industry",
+      "Property management"
+    ],
+    [
+      "m.0zcs5gs",
+      "business.employment_tenure.company",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Toronto FC",
+      "sports.professional_sports_team.owner_s",
+      "Maple Leaf Sports & Entertainment"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "sports.sports_team_owner.teams_owned",
+      "Toronto FC"
+    ],
+    [
+      "Maple Leaf Sports & Entertainment",
+      "business.employer.employees",
+      "m.0zcs5gs"
+    ],
+    [
+      "Roy Thomson Hall",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "High Park",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Chinatown, Toronto",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Toronto",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Air Canada Centre",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Toronto Islands",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Canada's Wonderland",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Greater Toronto Area",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Rogers Centre",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Ontario",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Yorkville, Toronto",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Canada",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto FC"
+    ],
+    [
+      "Toronto FC",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Avec Elle"
+    ],
+    [
+      "m.059h8c0",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "York Lions",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "The Varsity",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Death to Smoochy",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw29"
+    ],
+    [
+      "Bayview Village Shopping Centre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Public Storage Canada",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Royal Alexandra Theatre"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Leap Events Inc."
+    ],
+    [
+      "Toronto",
+      "base.popstra.location.vacationers",
+      "m.064spl6"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Toronto Empire"
+    ],
+    [
+      "Toronto",
+      "location.location.nearby_airports",
+      "Billy Bishop Toronto City Airport"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Time Traveler's Wife"
+    ],
+    [
+      "The Brood",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto Rock",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "m.059h8bs",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Casa Loma"
+    ],
+    [
+      "Toronto",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Fiona Coyne"
+    ],
+    [
+      "Toronto",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "m.09y5h94",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Spadina House"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.local_transportation",
+      "Line 3 Scarborough"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Prince and Me"
+    ],
+    [
+      "Toronto Zoo",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.0b47lm8"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "True Blue"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Resident Evil: Apocalypse"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Gardiner Museum"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Lynx"
+    ],
+    [
+      "High Park",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto City",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Saw V",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Planet in Focus"
+    ],
+    [
+      "Toronto Pearson International Airport",
+      "aviation.airport.serves",
+      "Toronto"
+    ],
+    [
+      "Don't Say a Word",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Sugar Beach",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "St. Lawrence Market",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09xqjbs"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.how_to_get_here",
+      "m.059h7yx"
+    ],
+    [
+      "m.09wzh6k",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Adventures in Babysitting",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09xgbzj"
+    ],
+    [
+      "Toronto",
+      "base.popstra.location.vacationers",
+      "m.064slny"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Toronto Sun"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "The Beaches"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Amateur"
+    ],
+    [
+      "Danforth Avenue",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.article",
+      "m.0h7hj"
+    ],
+    [
+      "Luminato",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Riel"
+    ],
+    [
+      "Riel",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto (CAN-TF3) Heavy Urban Search and Rescue",
+      "government.government_agency.jurisdiction",
+      "Toronto"
+    ],
+    [
+      "Toronto Eaton Centre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Saw IV"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wch9k"
+    ],
+    [
+      "The Mail and Empire",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Repo Men",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "M5R 1J2",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Bay Street",
+      "transportation.road.major_cities",
+      "Toronto"
+    ],
+    [
+      "M5V 2K4",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "My Horrible Year!"
+    ],
+    [
+      "Edwards Gardens",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "m.09xvw5r",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Crash"
+    ],
+    [
+      "Toronto",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 416, 647, and 437"
+    ],
+    [
+      "Toronto rapid transit",
+      "metropolitan_transit.transit_system.area_served",
+      "Toronto"
+    ],
+    [
+      "Toronto Star",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Fiona Coyne",
+      "fictional_universe.fictional_character.places_lived",
+      "Toronto"
+    ],
+    [
+      "Chinatown, Toronto",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Down in the Delta",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x5chs"
+    ],
+    [
+      "m.0ypkpdr",
+      "government.government_position_held.jurisdiction_of_office",
+      "Toronto"
+    ],
+    [
+      "m.09wch9k",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto Balmy Beach Beachers",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Leap Events Inc.",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.how_to_get_here",
+      "m.059h80r"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Charlie Bartlett"
+    ],
+    [
+      "m.09x82hr",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wzmrr"
+    ],
+    [
+      "Queen Street West",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw16"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Now"
+    ],
+    [
+      "Spinner Mason",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "Cabbagetown, Toronto",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "The Hunt for the Unicorn Killer",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Serbian White Eagles FC"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Balmy Beach Beachers"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Tecumsehs"
+    ],
+    [
+      "Toronto Young Rangers",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Marlboros"
+    ],
+    [
+      "Toronto",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "North York Astros",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Sing Tao Daily"
+    ],
+    [
+      "Rogers Centre",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8b8"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Cinderella Man"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Toronto Islands"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x6g9g"
+    ],
+    [
+      "m.09wzt37",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.subject_of",
+      "Axess Law"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Hanlan's Point Beach"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "West Toronto Nationals"
+    ],
+    [
+      "Toronto",
+      "base.biblioness.bibs_topic.is_really",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Toronto Telegram"
+    ],
+    [
+      "Toronto Falcons",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "First Toronto Post Office",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "The Beaches",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Repo Men"
+    ],
+    [
+      "m.059h7z7",
+      "travel.transportation.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Mrs. Mason"
+    ],
+    [
+      "m.059h8cs",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto Centre for the Arts",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Hunt for the Unicorn Killer"
+    ],
+    [
+      "Toronto Toros",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Resident Evil: Apocalypse",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8cj"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Jr. Canadiens"
+    ],
+    [
+      "George A. Romero's Survival of the Dead",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x7jcl"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Incredible Hulk"
+    ],
+    [
+      "Starship Invasions",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Waterfront Toronto",
+      "organization.organization.place_founded",
+      "Toronto"
+    ],
+    [
+      "Oakwood–Vaughan",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x87kf"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.how_to_get_here",
+      "m.059h7yc"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Clout"
+    ],
+    [
+      "Little Mosque on the Prairie",
+      "tv.tv_program.filming_locations",
+      "Toronto"
+    ],
+    [
+      "Proto3000",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "GOAT"
+    ],
+    [
+      "Finding Forrester",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "The Toronto Mail",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Billy Bishop Toronto City Airport",
+      "aviation.airport.serves",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw1b"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Ontario Place"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Adventures in Babysitting"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Love Guru"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Contemporary Canadian Art"
+    ],
+    [
+      "m.09wcbch",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Roy Thomson Hall",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Hamilton Nationals"
+    ],
+    [
+      "Rank Secure",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "Toronto Welsh RFC",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Waterfront Toronto",
+      "government.government_agency.jurisdiction",
+      "Toronto"
+    ],
+    [
+      "m.065pcnp",
+      "base.popstra.vacation_choice.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Raptors"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "McMichael Canadian Art Collection"
+    ],
+    [
+      "Toronto Lynx",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "m.09x5chs",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.shapedcities.shaped_city.shape",
+      "Circle"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8c0"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Edwards Gardens"
+    ],
+    [
+      "m.059h8b8",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.administrative_division.second_level_division_of",
+      "Canada"
+    ],
+    [
+      "m.04cngcm",
+      "location.adjoining_relationship.adjoins",
+      "Toronto"
+    ],
+    [
+      "Toronto Marlies",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Kensington Market",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Silent Partner"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Half Baked"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "North York Astros"
+    ],
+    [
+      "Saw IV",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Casa Loma",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Cube"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Irish F.C."
+    ],
+    [
+      "Apartment Hunting",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Air Canada Centre"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wf1kj"
+    ],
+    [
+      "Toronto",
+      "location.location.adjoin_s",
+      "m.046csw6"
+    ],
+    [
+      "Toronto",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Mr Mason"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.how_to_get_here",
+      "m.059h7z7"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Granites"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Diary of the Dead"
+    ],
+    [
+      "Bayview Village Shopping Centre",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "The Tenant",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Don't Say a Word"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wzh6k"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "g.1jmcbfm20"
+    ],
+    [
+      "Toronto RCAF Hurricanes",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Charlie Bartlett",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Rada of the Belarusian Democratic Republic",
+      "location.location.contains",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8c8"
+    ],
+    [
+      "Exit Wounds",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Golden Pin"
+    ],
+    [
+      "Toronto",
+      "base.ecology.ecosystem.ecosystem_members",
+      "House sparrow"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Rifles"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Amelia"
+    ],
+    [
+      "Toronto",
+      "base.ecology.ecosystem.type_of_ecosystem",
+      "Urban ecosystem"
+    ],
+    [
+      "Beare Road Landfill",
+      "base.infrastructure.landfill.serves_location",
+      "Toronto"
+    ],
+    [
+      "Toronto Eaton Centre",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Traitor",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "The Silent Partner",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto Parkdale",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Dirty Work"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Mail and Empire"
+    ],
+    [
+      "Toronto",
+      "location.location.geolocation",
+      "m.0239l4m"
+    ],
+    [
+      "m.09wfqqs",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Vapaa Sana"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw0t"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Eyeopener"
+    ],
+    [
+      "Gardiner Museum",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Snow Cake"
+    ],
+    [
+      "Yorkville, Toronto",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Axess Law",
+      "common.topic.subjects",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Sony Centre for the Performing Arts"
+    ],
+    [
+      "m.09w_q2h",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Prom Night"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Search For The Balanced Life"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h89s"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Varsity"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Varsity Blues"
+    ],
+    [
+      "Casa Loma",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Spider"
+    ],
+    [
+      "The Gargoyle",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Videodrome"
+    ],
+    [
+      "Toronto Sun",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Young Rangers"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.0b48k1m"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09y5j14"
+    ],
+    [
+      "John D'Amico",
+      "people.person.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Tuxedo"
+    ],
+    [
+      "m.09wxsl5",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Downsview Airport",
+      "aviation.airport.serves",
+      "Toronto"
+    ],
+    [
+      "m.059h8b0",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "m.0b6rqrj",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto Blue Jays",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "How She Move",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Diary of the Dead",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.0v20tv9",
+      "government.government_position_held.jurisdiction_of_office",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09ygms3"
+    ],
+    [
+      "The Incredible Hulk",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "The Amateur",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto Croatia",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Ledbury Park",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.image",
+      "Toronto 2007"
+    ],
+    [
+      "Snow Cake",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "House sparrow",
+      "base.ecology.food_web_member.belongs_to_ecosystem_s",
+      "Toronto"
+    ],
+    [
+      "St. Lawrence Market",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "m.06528ty",
+      "base.popstra.vacation_choice.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Rank Secure"
+    ],
+    [
+      "Sugar Beach",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "News4Kids"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.011lp_qj"
+    ],
+    [
+      "Toronto Neil McNeil Maroons",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Hockey Hall of Fame"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.02nc8t6"
+    ],
+    [
+      "Rogers Centre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "My Big Fat Greek Wedding",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Ontario Science Centre",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Metro Morning",
+      "radio.radio_program.subjects",
+      "Toronto"
+    ],
+    [
+      "Eastern gray squirrel",
+      "base.ecology.food_web_member.belongs_to_ecosystem_s",
+      "Toronto"
+    ],
+    [
+      "m.059h8f0",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw20"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09xnn3w"
+    ],
+    [
+      "Toronto",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Spinner Mason"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Finding Forrester"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09xvw5r"
+    ],
+    [
+      "The Globe",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Armoire"
+    ],
+    [
+      "m.09wc1r9",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Ledbury Park",
+      "location.neighborhood.neighborhood_of",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Man of the Year"
+    ],
+    [
+      "Princess of Wales Theatre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Detroit Rock City"
+    ],
+    [
+      "Toronto Zoo",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.ports.port_of_call.harbor_type",
+      "Coastal Natural Harbor"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wcbch"
+    ],
+    [
+      "Toronto",
+      "base.infrastructure.infrastructural_municipality.landfill",
+      "Beare Road Landfill"
+    ],
+    [
+      "Toronto",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Harbourfront"
+    ],
+    [
+      "m.0b47lm8",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "m.064slny",
+      "base.popstra.vacation_choice.location",
+      "Toronto"
+    ],
+    [
+      "Downtown Toronto at night from across the harbour",
+      "common.image.appears_in_topic_gallery",
+      "Toronto"
+    ],
+    [
+      "Rock dove",
+      "base.ecology.food_web_member.belongs_to_ecosystem_s",
+      "Toronto"
+    ],
+    [
+      "Urban ecosystem",
+      "base.ecology.type_of_ecosystem.ecosystems_of_this_type",
+      "Toronto"
+    ],
+    [
+      "M5X 1C7",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw07"
+    ],
+    [
+      "Toronto",
+      "location.location.adjoin_s",
+      "m.02xg7zc"
+    ],
+    [
+      "Fly Away Home",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Nathan Phillips Square",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw0n"
+    ],
+    [
+      "Spadina House",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.biblioness.bibs_topic.subsumes",
+      "Toronto"
+    ],
+    [
+      "Toronto St. Patricks",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Hairspray",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x3h29"
+    ],
+    [
+      "Maple Leaf Gardens",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto Granites",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wfqqs"
+    ],
+    [
+      "Toronto",
+      "location.location.adjoin_s",
+      "m.02xg7yy"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h89j"
+    ],
+    [
+      "m.09yt_8s",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.popstra.location.vacationers",
+      "m.065pcnp"
+    ],
+    [
+      "Falling Skies",
+      "tv.tv_program.filming_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09yhw3q"
+    ],
+    [
+      "Xtra!",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Morton FC Toronto",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Rock"
+    ],
+    [
+      "Corktown Common",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Saw V"
+    ],
+    [
+      "Clout",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "m.0b48k1m",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Kensington Market"
+    ],
+    [
+      "Toronto Centre for the Arts",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Queens Quay"
+    ],
+    [
+      "m.09yhw3q",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "M5J 2T3",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09xqhjx"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw0y"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto RCAF Hurricanes"
+    ],
+    [
+      "Avec Elle",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.059h89j",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Mrs. Mason",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw1g"
+    ],
+    [
+      "Heartland Town Centre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09w_q2h"
+    ],
+    [
+      "Toronto",
+      "location.location.nearby_airports",
+      "Buttonville Municipal Airport"
+    ],
+    [
+      "Museum of Contemporary Canadian Art",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw1s"
+    ],
+    [
+      "Bare Oaks Family Naturist Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto 2007",
+      "common.image.appears_in_topic_gallery",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Brood"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Chicago"
+    ],
+    [
+      "Sing Tao Daily",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Dead Ringers"
+    ],
+    [
+      "Eddie Livingstone",
+      "people.person.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw0h"
+    ],
+    [
+      "Orphan",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto Argonauts",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto City Council",
+      "government.governmental_body.jurisdiction",
+      "Toronto"
+    ],
+    [
+      "Toronto Empire",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Underground"
+    ],
+    [
+      "Amelia",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Tenant"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09xrfry"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wgr9c"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Ontario Science Centre"
+    ],
+    [
+      "m.059h8bj",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw11"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Toronto Zoo"
+    ],
+    [
+      "The Search For The Balanced Life",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "CN Tower",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "m.09xrfry",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "m.09xl8jq",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "The Virgin Suicides",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Saw III"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.agencies",
+      "Toronto Community Housing"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Traitor"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Shoot 'Em Up"
+    ],
+    [
+      "Toronto",
+      "base.biblioness.bibs_location.country",
+      "Canada"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Narc"
+    ],
+    [
+      "Toronto",
+      "radio.radio_subject.programs_with_this_subject",
+      "Metro Morning"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0ypkpdr"
+    ],
+    [
+      "CN Tower",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Chinatown, Toronto",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "McMichael Canadian Art Collection",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "g.1jmcbhqp0"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.agencies",
+      "Toronto Parks, Forestry and Recreation Division"
+    ],
+    [
+      "Toronto",
+      "tv.tv_location.tv_shows_filmed_here",
+      "Little Mosque on the Prairie"
+    ],
+    [
+      "Kevin Maguire",
+      "people.person.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "m.09x7218",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "g.11b7tmvwpn"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Ryersonian"
+    ],
+    [
+      "Canadian Bacon",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Cube",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.09xqhjx",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wwddn"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto City"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Luminato"
+    ],
+    [
+      "Edwards Gardens",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.citytown.postal_codes",
+      "M5H 2K1"
+    ],
+    [
+      "True Blue",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09y6345"
+    ],
+    [
+      "Toronto Community Housing",
+      "government.government_agency.jurisdiction",
+      "Toronto"
+    ],
+    [
+      "Prom Night",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "PortsToronto",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "m.059h89s",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "ReGenesis",
+      "fictional_universe.fictional_universe.locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "JoongAng Ilbo"
+    ],
+    [
+      "Toronto",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvvny7"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wc1r9"
+    ],
+    [
+      "X-Men",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto Rifles",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Ultra Vires",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Exit Wounds"
+    ],
+    [
+      "Ontario Science Centre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.citytown.postal_codes",
+      "M5J 2T3"
+    ],
+    [
+      "Oakwood–Vaughan",
+      "location.neighborhood.neighborhood_of",
+      "Toronto"
+    ],
+    [
+      "Yorkville, Toronto",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Morton FC Toronto"
+    ],
+    [
+      "Queen Street West",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw1x"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Yorkville, Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.local_transportation",
+      "Toronto rapid transit"
+    ],
+    [
+      "The Tuxedo",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Conn Smythe",
+      "people.deceased_person.place_of_death",
+      "Toronto"
+    ],
+    [
+      "m.059h890",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Detroit Rock City",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.0jvvny7",
+      "location.administrative_division_capital_relationship.capital",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Royal Ontario Museum"
+    ],
+    [
+      "Toronto Native Sons",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Path to 9/11"
+    ],
+    [
+      "Toronto Parks, Forestry and Recreation Division",
+      "organization.organization.place_founded",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Toronto Centre for the Arts"
+    ],
+    [
+      "Toronto",
+      "location.citytown.postal_codes",
+      "M5V 2K4"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Hidden in America"
+    ],
+    [
+      "Toronto",
+      "location.citytown.postal_codes",
+      "M5X 1C7"
+    ],
+    [
+      "Toronto Islands",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Rebellion"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "My Big Fat Greek Wedding"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw24"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw0c"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Circle of Two"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Distillery District"
+    ],
+    [
+      "Planet in Focus",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Air Tech Ultimate Comfort Inc.",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "m.09x87kf",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "M5H 2K1",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "m.011lp_qj",
+      "government.government_position_held.jurisdiction_of_office",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "business.employer.employees",
+      "m.0znm8pj"
+    ],
+    [
+      "m.09wkkbp",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "How She Move"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wzt37"
+    ],
+    [
+      "Toronto",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Oakwood–Vaughan"
+    ],
+    [
+      "Leap Events Inc.",
+      "organization.organization.place_founded",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclv__"
+    ],
+    [
+      "Toronto Irish F.C.",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Starship Invasions"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Queen Street West"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Lions"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Chinatown, Toronto"
+    ],
+    [
+      "The Toike Oike",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Huskies"
+    ],
+    [
+      "Now",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "m.09x7jcl",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.local_transportation",
+      "GO Transit"
+    ],
+    [
+      "Downsview Airport",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Ashbridges Bay Wastewater Treatment Plant",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclv_w"
+    ],
+    [
+      "The Newspaper",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "News4Kids",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Princess of Wales Theatre",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto Beaches",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8bs"
+    ],
+    [
+      "Jumper",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "St. Lawrence Market"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8bj"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Beaches"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8cs"
+    ],
+    [
+      "Mr Mason",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Canada's Wonderland"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Native Sons"
+    ],
+    [
+      "Toronto Varsity Blues",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "m.09xnn3w",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "m.04cng8j",
+      "location.adjoining_relationship.adjoins",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Proto3000"
+    ],
+    [
+      "JoongAng Ilbo",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "High Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "CN Tower"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Xtra!"
+    ],
+    [
+      "Toronto",
+      "location.location.nearby_airports",
+      "Billy Bishop Toronto City Water Aerodrome"
+    ],
+    [
+      "Gilfoyle",
+      "fictional_universe.fictional_character.places_lived",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Neil McNeil Maroons"
+    ],
+    [
+      "m.09wf1kj",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.location.adjoin_s",
+      "m.04cng8j"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Ultra Vires"
+    ],
+    [
+      "Hanlan's Point Beach",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Ontario Place",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Queens Quay",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Dead Ringers",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Textile Museum of Canada",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Splice"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Bare Oaks Family Naturist Park"
+    ],
+    [
+      "m.09y5j14",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Air Canada Centre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Hockey Hall of Fame",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Lars and the Real Girl"
+    ],
+    [
+      "Videodrome",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.09wgr9c",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Crash",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Location of Toronto and its census metropolitan area in the province of Ontario",
+      "common.image.appears_in_topic_gallery",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Heartland Town Centre"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Toronto Mail"
+    ],
+    [
+      "The Time Traveler's Wife",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Jumper"
+    ],
+    [
+      "Searching for Bobby Fischer",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Saw II"
+    ],
+    [
+      "m.09ylgsv",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Roy Thomson Hall",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Bata Shoe Museum",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "fictional_universe.fictional_setting.universe",
+      "ReGenesis"
+    ],
+    [
+      "Danforth Avenue",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Marlies"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Sundays at Tiffany's"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Croatia"
+    ],
+    [
+      "Toronto",
+      "base.popstra.location.vacationers",
+      "m.06528ty"
+    ],
+    [
+      "Serbian White Eagles FC",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto Arenas",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "The Path to 9/11",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.0znm8pj",
+      "business.employment_tenure.company",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.biblioness.bibs_location.state",
+      "Ontario"
+    ],
+    [
+      "Toronto Marlboros",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Ashbridges Bay Wastewater Treatment Plant",
+      "base.infrastructure.sewage_treatment_plant.serves_location_s",
+      "Toronto"
+    ],
+    [
+      "West Toronto Nationals",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Down in the Delta"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09ylgsv"
+    ],
+    [
+      "m.02xg7yy",
+      "location.adjoining_relationship.adjoins",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Booty Call"
+    ],
+    [
+      "Man of the Year",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Peak Sales Recruiting"
+    ],
+    [
+      "Conn Smythe",
+      "people.person.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "Circle of Two",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Knob Hill Farms"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Welsh RFC"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Corktown Common"
+    ],
+    [
+      "Shoot 'Em Up",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.09y5f_r",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "M5H 3L5",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Family Viewing",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.location.containedby",
+      "Rada of the Belarusian Democratic Republic"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Freddy vs. Jason"
+    ],
+    [
+      "The Underground",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Bata Shoe Museum"
+    ],
+    [
+      "Sundays at Tiffany's",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Ryerson Rams"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.agencies",
+      "Waterfront Toronto"
+    ],
+    [
+      "m.059h7yx",
+      "travel.transportation.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.agencies",
+      "Toronto (CAN-TF3) Heavy Urban Search and Rescue"
+    ],
+    [
+      "Hamilton Nationals",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Sony Centre for the Performing Arts",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw1m"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Air Tech Ultimate Comfort Inc."
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Honey"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x82hr"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "PortsToronto"
+    ],
+    [
+      "m.09yd0rc",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "York Lions"
+    ],
+    [
+      "Billy Bishop Toronto City Water Aerodrome",
+      "aviation.airport.serves",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.0b6rqrj"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Princess of Wales Theatre"
+    ],
+    [
+      "Greg Kimmerly",
+      "people.person.place_of_birth",
+      "Toronto"
+    ],
+    [
+      "Circle",
+      "base.shapedcities.city_shape.cities_with_this_shape",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wkkbp"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h8b0"
+    ],
+    [
+      "m.09kmdj3",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Toronto"
+    ],
+    [
+      "L'Express de Toronto",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Aeros"
+    ],
+    [
+      "Hanlan's Point Beach",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "L'Express de Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Cabbagetown, Toronto"
+    ],
+    [
+      "Toronto",
+      "location.citytown.postal_codes",
+      "M5H 3L5"
+    ],
+    [
+      "Planet in Focus",
+      "film.film_festival.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "High Park"
+    ],
+    [
+      "Spider",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0kclw03"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.0k3fl75"
+    ],
+    [
+      "Royal Alexandra Theatre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Ryerson Rams",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Globe"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "X-Men"
+    ],
+    [
+      "The Love Guru",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Newspaper"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Danforth Avenue"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09xl8jq"
+    ],
+    [
+      "Toronto Indians",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto Jr. Canadiens",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Arenas"
+    ],
+    [
+      "The Golden Pin",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.059h898",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0v20tv9"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Textile Museum of Canada"
+    ],
+    [
+      "Toronto",
+      "common.topic.image",
+      "Location of Toronto and its census metropolitan area in the province of Ontario"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Strange Brew"
+    ],
+    [
+      "Hank and Mike",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "The Ryersonian",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "The Jewish Tribune",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Art Gallery of Ontario",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.ecology.ecosystem.ecosystem_members",
+      "Eastern gray squirrel"
+    ],
+    [
+      "Toronto",
+      "tv.tv_location.tv_shows_filmed_here",
+      "Falling Skies"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Resurrection"
+    ],
+    [
+      "Cinderella Man",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Museum of Contemporary Canadian Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto Parks, Forestry and Recreation Division",
+      "government.government_agency.jurisdiction",
+      "Toronto"
+    ],
+    [
+      "Freddy vs. Jason",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.statistical_region.population",
+      "m.03wmmxd"
+    ],
+    [
+      "Saw III",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Toros"
+    ],
+    [
+      "m.059h80r",
+      "travel.transportation.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Public Storage Canada"
+    ],
+    [
+      "m.09wzmrr",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "m.02nc8t6",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Resurrection",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Mutual Street Arena",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Hank and Mike"
+    ],
+    [
+      "Toronto Aeros",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto St. Patricks"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Roy Thomson Hall"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x35h6"
+    ],
+    [
+      "Saw II",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.059h8c8",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Splice",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.09x6g9g",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Bay Street",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Orphan"
+    ],
+    [
+      "Toronto",
+      "common.topic.image",
+      "Downtown Toronto at night from across the harbour"
+    ],
+    [
+      "Toronto Rebellion",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Nathan Phillips Square"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Onion"
+    ],
+    [
+      "m.046csw6",
+      "location.adjoining_relationship.adjoins",
+      "Toronto"
+    ],
+    [
+      "Toronto Tecumsehs",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto Aura Lee",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Searching for Bobby Fischer"
+    ],
+    [
+      "Toronto",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Gilfoyle"
+    ],
+    [
+      "m.09wzyz0",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Bata Shoe Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.location.adjoin_s",
+      "m.04cngcm"
+    ],
+    [
+      "Toronto",
+      "location.citytown.postal_codes",
+      "M5R 1J2"
+    ],
+    [
+      "Toronto Lions",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Hockey Hall of Fame",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Narc",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "The Prince and Me",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto Inferno",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Apartment Hunting"
+    ],
+    [
+      "Toronto Huskies",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Canada's Wonderland",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.notable_for",
+      "g.125dp7r02"
+    ],
+    [
+      "Art Gallery of Ontario",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.popstra.location.vacationers",
+      "m.065pcn3"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wxsl5"
+    ],
+    [
+      "Toronto",
+      "location.location.nearby_airports",
+      "Toronto Pearson International Airport"
+    ],
+    [
+      "Buttonville Municipal Airport",
+      "aviation.airport.serves",
+      "Toronto"
+    ],
+    [
+      "Carlton Street",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Blue Ice Jets"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09yt_8s"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Hairspray"
+    ],
+    [
+      "The Eyeopener",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Pickering Airport",
+      "aviation.airport.serves",
+      "Toronto"
+    ],
+    [
+      "Harbourfront",
+      "location.neighborhood.neighborhood_of",
+      "Toronto"
+    ],
+    [
+      "m.02xg7z4",
+      "location.adjoining_relationship.adjoins",
+      "Toronto"
+    ],
+    [
+      "Booty Call",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Toronto Awaba Stags FC",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Jewish Tribune"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Toike Oike"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Sugar Beach"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Fly Away Home"
+    ],
+    [
+      "m.02xg7zc",
+      "location.adjoining_relationship.adjoins",
+      "Toronto"
+    ],
+    [
+      "m.059h7yc",
+      "travel.transportation.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Chicago",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Inferno"
+    ],
+    [
+      "Sony Centre for the Performing Arts",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto Knob Hill Farms",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "m.045y5yg",
+      "location.mailing_address.citytown",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.location.nearby_airports",
+      "Downsview Airport"
+    ],
+    [
+      "Spadina House",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09kmdj3"
+    ],
+    [
+      "Corktown Common",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "m.09wwddn",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Gargoyle"
+    ],
+    [
+      "Ontario Place",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Mean Girls"
+    ],
+    [
+      "Mean Girls",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Blue Jays"
+    ],
+    [
+      "m.04dpz9r",
+      "olympics.olympic_city_bid.bidding_city",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Canadian Bacon"
+    ],
+    [
+      "Toronto",
+      "location.location.adjoin_s",
+      "m.02xg7z4"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09wzyz0"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "The Virgin Suicides"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h898"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Parkdale"
+    ],
+    [
+      "Dirty Work",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.infrastructure.infrastructural_municipality.sewage_treatment_plant",
+      "Ashbridges Bay Wastewater Treatment Plant"
+    ],
+    [
+      "The Armoire",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.065pcn3",
+      "base.popstra.vacation_choice.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Toronto Eaton Centre"
+    ],
+    [
+      "The Onion",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Argonauts"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Indians"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Family Viewing"
+    ],
+    [
+      "Toronto Blue Ice Jets",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Hidden in America",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto Waterfront Marathon",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto Telegram",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09yd0rc"
+    ],
+    [
+      "GOAT",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09y5f_r"
+    ],
+    [
+      "Lars and the Real Girl",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Ontario",
+      "base.aareas.schema.administrative_area.capital",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "George A. Romero's Survival of the Dead"
+    ],
+    [
+      "Toronto",
+      "location.location.nearby_airports",
+      "Pickering Airport"
+    ],
+    [
+      "Royal Ontario Museum",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "m.09xgbzj",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Vapaa Sana",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.climate",
+      "m.059h890"
+    ],
+    [
+      "Toronto",
+      "location.citytown.postal_codes",
+      "M4W 1A1"
+    ],
+    [
+      "m.09ygms3",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "m.09x3h29",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "film.film_location.featured_in_films",
+      "Death to Smoochy"
+    ],
+    [
+      "Gardiner Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Rogers Centre"
+    ],
+    [
+      "Royal Ontario Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Falcons"
+    ],
+    [
+      "Distillery District",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Ledbury Park"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.sports_team.location",
+      "Toronto"
+    ],
+    [
+      "Nathan Phillips Square",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09x7218"
+    ],
+    [
+      "m.09y6345",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Air Canada Centre",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Toronto Waterfront Marathon"
+    ],
+    [
+      "Peak Sales Recruiting",
+      "organization.organization.geographic_scope",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "base.ecology.ecosystem.ecosystem_members",
+      "Rock dove"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.059h8f0"
+    ],
+    [
+      "Half Baked",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Awaba Stags FC"
+    ],
+    [
+      "Strange Brew",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "The Dialog",
+      "book.newspaper.circulation_areas",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Dialog"
+    ],
+    [
+      "m.09xqjbs",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "government.governmental_jurisdiction.government_bodies",
+      "Toronto City Council"
+    ],
+    [
+      "Honey",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.059h8cj",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "sports.sports_team_location.teams",
+      "Toronto Aura Lee"
+    ],
+    [
+      "m.064spl6",
+      "base.popstra.vacation_choice.location",
+      "Toronto"
+    ],
+    [
+      "Royal Alexandra Theatre",
+      "location.location.containedby",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Bayview Village Shopping Centre"
+    ],
+    [
+      "Ontario",
+      "location.province.capital",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "First Toronto Post Office"
+    ],
+    [
+      "Toronto",
+      "travel.travel_destination.tourist_attractions",
+      "Art Gallery of Ontario"
+    ],
+    [
+      "Textile Museum of Canada",
+      "travel.tourist_attraction.near_travel_destination",
+      "Toronto"
+    ],
+    [
+      "Toronto",
+      "olympics.olympic_bidding_city.olympics_bid_on",
+      "m.04dpz9r"
+    ],
+    [
+      "Toronto",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Toronto Star"
+    ],
+    [
+      "Toronto",
+      "common.topic.webpage",
+      "m.09y5h94"
+    ],
+    [
+      "My Horrible Year!",
+      "film.film.featured_film_locations",
+      "Toronto"
+    ],
+    [
+      "m.09x35h6",
+      "common.webpage.topic",
+      "Toronto"
+    ],
+    [
+      "Ontario",
+      "location.administrative_division.capital",
+      "m.0jvvny7"
+    ],
+    [
+      "Ontario",
+      "location.administrative_division.first_level_division_of",
+      "Canada"
+    ],
+    [
+      "Ron Asselstine",
+      "people.person.place_of_birth",
+      "Ontario"
+    ],
+    [
+      "Air Canada Centre",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Museum of Contemporary Canadian Art",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Ontario",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Canada"
+    ],
+    [
+      "m.045y5yg",
+      "location.mailing_address.state_province_region",
+      "Ontario"
+    ],
+    [
+      "M5H 3L5",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Ontario",
+      "location.administrative_division.country",
+      "Canada"
+    ],
+    [
+      "Greater Sudbury",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Toronto Islands",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "m.0jvvny7",
+      "location.administrative_division_capital_relationship.administrative_division",
+      "Ontario"
+    ],
+    [
+      "Pickering Airport",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Ontario",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Casa Loma",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Ontario",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Leap Events Inc."
+    ],
+    [
+      "Art Gallery of Ontario",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Ontario",
+      "base.biblioness.bibs_location.country",
+      "Canada"
+    ],
+    [
+      "Yorkville, Toronto",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Heartland Town Centre",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Canada",
+      "location.country.administrative_divisions",
+      "Ontario"
+    ],
+    [
+      "Kensington Market",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Textile Museum of Canada",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Rogers Centre",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Toronto Star",
+      "book.newspaper.circulation_areas",
+      "Ontario"
+    ],
+    [
+      "M5X 1C7",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "CN Tower",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Bruce Hood",
+      "people.person.place_of_birth",
+      "Ontario"
+    ],
+    [
+      "Hockey Hall of Fame",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "First Toronto Post Office",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Royal Ontario Museum",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Hanlan's Point Beach",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "M5V 2K4",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Canada",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ontario"
+    ],
+    [
+      "Billy Bishop Toronto City Water Aerodrome",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Billy Bishop Toronto City Airport",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "M5J 2T3",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Canada",
+      "location.country.first_level_divisions",
+      "Ontario"
+    ],
+    [
+      "Ontario",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Toronto Star"
+    ],
+    [
+      "Gardiner Museum",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Queen Street West",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "The Beaches",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Distillery District",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Chinatown, Toronto",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Ontario Science Centre",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Spadina House",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Leap Events Inc.",
+      "organization.organization.geographic_scope",
+      "Ontario"
+    ],
+    [
+      "Harbourfront",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Bata Shoe Museum",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Beare Road Landfill",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Bare Oaks Family Naturist Park",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "M5R 1J2",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Canada's Wonderland",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Oakwood–Vaughan",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "M5H 2K1",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Cabbagetown, Toronto",
+      "location.location.containedby",
+      "Ontario"
+    ],
+    [
+      "Air Canada Centre",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Sports Facility",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Mutual Street Arena",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Maple Leaf Gardens",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sports Facility"
+    ],
+    [
+      "Rogers Centre",
+      "common.topic.notable_types",
+      "Sports Facility"
+    ],
+    [
+      "Sports Facility",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Casa Loma",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Stéphane Provost",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "M5X 1C7",
+      "location.postal_code.country",
+      "Canada"
+    ],
+    [
+      "Distillery District",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "The Golden Pin",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Chaucer Elliott",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Starship Invasions",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1920 Summer Olympics"
+    ],
+    [
+      "Snow Cake",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Greg Walters",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Neil Armstrong",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Gilfoyle"
+    ],
+    [
+      "Conn Smythe",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Dirty Work",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "m.045y5yg",
+      "location.mailing_address.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Terry Ewasiuk",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Dead Ringers",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Riel",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Toronto Zoo",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "M5J 2T3",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Miracle",
+      "film.film.featured_film_locations",
+      "Canada"
+    ],
+    [
+      "M5J 2T3",
+      "location.postal_code.country",
+      "Canada"
+    ],
+    [
+      "Royal Ontario Museum",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "George A. Romero's Survival of the Dead",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Cube",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Scotty Morrison",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Repo Men",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Gerard Gallant",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "M5H 3L5",
+      "location.postal_code.country",
+      "Canada"
+    ],
+    [
+      "Hank and Mike",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Odie Cleghorn",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "M5H 3L5",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Saw V",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "tv.tv_program.country_of_origin",
+      "Canada"
+    ],
+    [
+      "Tooth Fairy",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "1920 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Net Worth",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Charley McVeigh",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Downsview Airport",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Jumper",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "St. Lawrence Market",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Saw IV",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Mean Girls",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "film.film_location.featured_in_films",
+      "Miracle"
+    ],
+    [
+      "Scott Carter",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "The Silent Partner",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "film.film_subject.films",
+      "Canadian Bacon"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Air Canada Centre",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Public Storage Canada",
+      "organization.organization.geographic_scope",
+      "Canada"
+    ],
+    [
+      "How She Move",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Riel",
+      "tv.tv_program.country_of_origin",
+      "Canada"
+    ],
+    [
+      "Face-Off",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Junior",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Sticks and Stones",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Andy Van Hellemond",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "The Amateur",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Stephen Walkom",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ultimate Bad Boys",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "M5R 1J2",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "It's Our Game",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Canadian Bacon",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Amelia",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Dave Poulin",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Futuresport",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Saw II",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Orphan",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Spider",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Armoire",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Freddy vs. Jason",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Dion Phaneuf",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Stéphane Provost",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Mike Rodden",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Cooper Smeaton",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Narc",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Lee Davidson",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "M5H 2K1",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Mickey Ion",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Bare Oaks Family Naturist Park",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Saw III",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Cinderella Man",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "M5H 2K1",
+      "location.postal_code.country",
+      "Canada"
+    ],
+    [
+      "Circle of Two",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Gilfoyle",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Edmonton",
+      "base.biblioness.bibs_location.country",
+      "Canada"
+    ],
+    [
+      "Little Mosque on the Prairie",
+      "tv.tv_program.country_of_origin",
+      "Canada"
+    ],
+    [
+      "Scotty Morrison",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Splice",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Billy Bishop Toronto City Airport",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Eddie Livingstone",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Heartland Town Centre",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Jim Paek",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "M5R 1J2",
+      "location.postal_code.country",
+      "Canada"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Strange Brew",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Kerry Fraser",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Toronto Pearson International Airport",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Edmonton",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Canada",
+      "film.film_location.featured_in_films",
+      "Lars and the Real Girl"
+    ],
+    [
+      "Dave Smith",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Videodrome",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Buttonville Municipal Airport",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Dan Marouelli",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Gérard Gauthier",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Peak Sales Recruiting",
+      "organization.organization.geographic_scope",
+      "Canada"
+    ],
+    [
+      "Ernie Leacock",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Kevin Maguire",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Greater Sudbury",
+      "location.administrative_division.second_level_division_of",
+      "Canada"
+    ],
+    [
+      "Don Koharski",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "film.film_location.featured_in_films",
+      "How She Move"
+    ],
+    [
+      "The Armoire",
+      "tv.tv_program.country_of_origin",
+      "Canada"
+    ],
+    [
+      "Randy Carlyle",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ray Scapinello",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "M5V 2K4",
+      "location.postal_code.country",
+      "Canada"
+    ],
+    [
+      "How She Move",
+      "film.film.featured_film_locations",
+      "Canada"
+    ],
+    [
+      "Proto3000",
+      "organization.organization.geographic_scope",
+      "Canada"
+    ],
+    [
+      "Peter Horachek",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Andrew Allen",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Sylvio Mantha",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ted Nolan",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Mystery, Alaska",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Score: A Hockey Musical",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Prom Night",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Resident Evil: Apocalypse",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Puck Hogs",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Chiefs",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Tenant",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Kensington Market",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "George Hardy",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Hockey Night",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Maurice Richard",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Family Viewing",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Brood",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Lars and the Real Girl",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Daniel Podgaichenko",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Home Game",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "André Tourigny",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Royal Alexandra Theatre",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "The Game",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "film.film_location.featured_in_films",
+      "Fly Away Home"
+    ],
+    [
+      "Crash",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "CN Tower",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Canada's Wonderland",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Fly Away Home",
+      "film.film.featured_film_locations",
+      "Canada"
+    ],
+    [
+      "M5X 1C7",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Lord Stanley's Cup: Hockey's Ultimate Prize",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Avec Elle",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Ledbury Park",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Lars and the Real Girl",
+      "film.film.featured_film_locations",
+      "Canada"
+    ],
+    [
+      "My Big Fat Greek Wedding",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Craig Bonner",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Hanlan's Point Beach",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "M5V 2K4",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "The Rhino Brothers",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "M4W 1A1",
+      "location.postal_code.country",
+      "Canada"
+    ],
+    [
+      "Canadian Bacon",
+      "film.film.subjects",
+      "Canada"
+    ],
+    [
+      "Greater Toronto Area",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "The Search For The Balanced Life",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Hockey Mom",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Rogers Centre",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "William Earl Ormshaw",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ken Tyler",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Apartment Hunting",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Ron Asselstine",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Mick McGeough",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Fly Away Home",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Hockey Chronicles",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "ice_hockey.hockey_team.coach",
+      "Randy Carlyle"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1964 Stanley Cup Finals"
+    ],
+    [
+      "Carlton the Bear",
+      "sports.mascot.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "business.employer.employees",
+      "g.11c3kxkbgc"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1967 Stanley Cup Finals"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.arena_stadium",
+      "Air Canada Centre"
+    ],
+    [
+      "Toronto Arenas",
+      "sports.defunct_sports_team.later_known_as",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.01148b0c",
+      "sports.sports_team_coach_tenure.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.colors",
+      "Royal blue"
+    ],
+    [
+      "Air Canada Centre",
+      "sports.sports_facility.teams",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1963 Stanley Cup Finals"
+    ],
+    [
+      "m.0j2bqbx",
+      "sports.sports_team_roster.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "Maple Leaf Gardens",
+      "sports.sports_facility.teams",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nhcg_"
+    ],
+    [
+      "1942 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "1963 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.league",
+      "m.0crt465"
+    ],
+    [
+      "1967 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "common.topic.webpage",
+      "m.0422b_4"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.team_mascot",
+      "Carlton the Bear"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1947 Stanley Cup Finals"
+    ],
+    [
+      "m.0crt465",
+      "sports.sports_league_participation.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "ice_hockey.hockey_team.captain",
+      "Dion Phaneuf"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1942 Stanley Cup Finals"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1932 Stanley Cup Finals"
+    ],
+    [
+      "m.0116l7zp",
+      "business.employment_tenure.company",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.arena_stadium",
+      "Maple Leaf Gardens"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.venue",
+      "m.0wz1zsb"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.coaches",
+      "m.01148b0c"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "ice_hockey.hockey_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "m.02h47vn",
+      "common.webpage.topic",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.previously_known_as",
+      "Toronto Arenas"
+    ],
+    [
+      "1948 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Randy Carlyle",
+      "ice_hockey.hockey_coach.current_team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.0774ylr",
+      "base.events.event_feed.event_presenting_organisation",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.0b473cc",
+      "common.webpage.topic",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "business.employer.employees",
+      "m.0116l7zp"
+    ],
+    [
+      "Toronto St. Patricks",
+      "sports.defunct_sports_team.later_known_as",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1949 Stanley Cup Finals"
+    ],
+    [
+      "m.0zgrhz7",
+      "base.schemastaging.athlete_salary.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.0wz1zsb",
+      "sports.team_venue_relationship.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.07nhcg_",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1948 Stanley Cup Finals"
+    ],
+    [
+      "m.0j2cphb",
+      "base.schemastaging.athlete_salary.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "1964 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "1962 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "award.award_nominee.award_nominations",
+      "m.0yx5m0k"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.venue",
+      "m.0w_jy92"
+    ],
+    [
+      "Eastern Conference",
+      "ice_hockey.hockey_conference.teams",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.05kc4vf",
+      "sports.sports_league_draft_pick.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "ice_hockey.hockey_team.division",
+      "Atlantic Division"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "1945 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Atlantic Division",
+      "ice_hockey.hockey_division.teams",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "1947 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "1932 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.0w_jy92",
+      "sports.team_venue_relationship.team",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.professional_sports_team.draft_picks",
+      "m.05kc4vf"
+    ],
+    [
+      "1951 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "base.events.event_presenting_organisation.event_feed",
+      "m.0774ylr"
+    ],
+    [
+      "m.0116cbf7",
+      "business.employment_tenure.company",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.colors",
+      "Blue"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "common.topic.webpage",
+      "m.0b473cc"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "common.topic.webpage",
+      "m.02h47vn"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1951 Stanley Cup Finals"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "common.topic.article",
+      "m.0j6v1"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "common.topic.notable_for",
+      "g.1256pb2l6"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "business.employer.employees",
+      "m.0116cbf7"
+    ],
+    [
+      "1949 Stanley Cup Finals",
+      "sports.sports_championship_event.champion",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1962 Stanley Cup Finals"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.previously_known_as",
+      "Toronto St. Patricks"
+    ],
+    [
+      "m.0422b_4",
+      "common.webpage.topic",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "m.0yx5m0k",
+      "award.award_nomination.award_nominee",
+      "Toronto Maple Leafs"
+    ],
+    [
+      "Toronto Maple Leafs",
+      "sports.sports_team.championships",
+      "1945 Stanley Cup Finals"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.sports_team.arena_stadium",
+      "Rogers Centre"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.sports_team.arena_stadium",
+      "Maple Leaf Gardens"
+    ],
+    [
+      "m.0w_jy97",
+      "sports.team_venue_relationship.team",
+      "Toronto Raptors"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.sports_team.arena_stadium",
+      "Air Canada Centre"
+    ],
+    [
+      "Maple Leaf Gardens",
+      "sports.sports_facility.teams",
+      "Toronto Raptors"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.sports_team.venue",
+      "m.0w_jy97"
+    ],
+    [
+      "Air Canada Centre",
+      "sports.sports_facility.teams",
+      "Toronto Raptors"
+    ],
+    [
+      "Toronto Raptors",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "m.0wz1zs4",
+      "sports.team_venue_relationship.team",
+      "Toronto Raptors"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.sports_team.venue",
+      "m.0wz1zs4"
+    ],
+    [
+      "Rogers Centre",
+      "sports.sports_facility.teams",
+      "Toronto Raptors"
+    ],
+    [
+      "Searching for Bobby Orr",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "The Game of Our Lives",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "The Great One",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "The Onion",
+      "book.periodical.subjects",
+      "Sports"
+    ],
+    [
+      "Sport",
+      "freebase.type_profile.equivalent_topic",
+      "Sports"
+    ],
+    [
+      "Sports League Championship Event",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Shooting stars",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "One Hundred Years of Hockey",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Daniel Podgaichenko",
+      "common.topic.subject_of",
+      "Sports"
+    ],
+    [
+      "Professional Sports Team",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Home Game",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Mascot",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "freebase.equivalent_topic.equivalent_domain",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "freebase.domain_profile.equivalent_topic",
+      "Sports"
+    ],
+    [
+      "Quest for the Cup",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Professional Sports Team"
+    ],
+    [
+      "The Game",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "common.topic.subjects",
+      "Daniel Podgaichenko"
+    ],
+    [
+      "Hockey Stars Speak",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sports League Championship Event"
+    ],
+    [
+      "Sports",
+      "freebase.equivalent_topic.equivalent_type",
+      "Sport"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sport"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Mascot"
+    ],
+    [
+      "Motor City muscle",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Ultimate Bad Boys",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Hockey Chronicles",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Open net",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Sports Team"
+    ],
+    [
+      "A Canadian Saturday Night",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Sport",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Sports Team",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "The New Ice Age",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Sports",
+      "book.periodical_subject.periodicals",
+      "The Onion"
+    ],
+    [
+      "The Blue and White Book 1997",
+      "book.written_work.subjects",
+      "Sports"
+    ],
+    [
+      "Hockey Hall of Fame",
+      "award.hall_of_fame.discipline",
+      "Sports"
+    ],
+    [
+      "Toronto Community Housing",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Public Storage Canada",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ]
+  ]
+}

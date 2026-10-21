@@ -1,0 +1,460 @@
+{
+  "graph_id": 32783,
+  "subgraph": [
+    [
+      "Scottsdale Scorpions",
+      "sports.sports_team.sport",
+      "Baseball"
+    ],
+    [
+      "m.05kb0jt",
+      "sports.sports_team_roster.team",
+      "Scottsdale Scorpions"
+    ],
+    [
+      "Scottsdale Scorpions",
+      "sports.sports_team.roster",
+      "m.05kb0jt"
+    ],
+    [
+      "m.04xhdn1",
+      "sports.sports_team_roster.team",
+      "Los Angeles Angels of Anaheim"
+    ],
+    [
+      "m.0wdd82v",
+      "base.schemastaging.athlete_salary.team",
+      "Los Angeles Angels of Anaheim"
+    ],
+    [
+      "m.0j2qh8m",
+      "base.schemastaging.athlete_salary.team",
+      "Los Angeles Angels of Anaheim"
+    ],
+    [
+      "Los Angeles Angels of Anaheim",
+      "sports.sports_team.sport",
+      "Baseball"
+    ],
+    [
+      "m.0461q4y",
+      "sports.sports_league_draft_pick.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "St. Louis",
+      "sports.sports_team_location.teams",
+      "St. Louis Cardinals"
+    ],
+    [
+      "m.05bdvc3",
+      "sports.sports_team_roster.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "m.06s6m5g",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "m.06s6m8k",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "m.0j2lc1l",
+      "sports.sports_team_roster.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "St. Louis Cardinals",
+      "sports.sports_team.sport",
+      "Baseball"
+    ],
+    [
+      "m.06s6m3w",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "m.06s6m6_",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "m.06s6mcz",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "St. Louis Cardinals",
+      "sports.professional_sports_team.draft_picks",
+      "m.0461q4y"
+    ],
+    [
+      "m.06s6m23",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "m.06s6mb3",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "St. Louis Cardinals",
+      "sports.sports_team.location",
+      "St. Louis"
+    ],
+    [
+      "m.06s6m0p",
+      "baseball.batting_statistics.team",
+      "St. Louis Cardinals"
+    ],
+    [
+      "First baseman",
+      "sports.sports_position.sport",
+      "Baseball"
+    ],
+    [
+      "Baseball",
+      "sports.sport.positions",
+      "First baseman"
+    ],
+    [
+      "The Glory of Their Times: The Story of the Early Days of Baseball Told by the Men Who Played It",
+      "book.written_work.subjects",
+      "Baseball"
+    ],
+    [
+      "Infielder",
+      "sports.sports_position.sport",
+      "Baseball"
+    ],
+    [
+      "Baseball",
+      "freebase.equivalent_topic.equivalent_domain",
+      "Baseball"
+    ],
+    [
+      "Baseball",
+      "sports.sport.positions",
+      "Infielder"
+    ],
+    [
+      "m.0c5544p",
+      "sports.pro_sports_played.sport",
+      "Baseball"
+    ],
+    [
+      "MLB Superstars Show You Their Game",
+      "media_common.netflix_title.netflix_genres",
+      "Baseball"
+    ],
+    [
+      "Baseball Player",
+      "type.type.domain",
+      "Baseball"
+    ],
+    [
+      "m.05kb0jt",
+      "freebase.valuenotation.has_value",
+      "From"
+    ],
+    [
+      "m.05kb0jt",
+      "freebase.valuenotation.has_value",
+      "Position"
+    ],
+    [
+      "m.05kb0jt",
+      "freebase.valuenotation.has_value",
+      "To"
+    ],
+    [
+      "m.05kb0jt",
+      "freebase.valuenotation.has_value",
+      "Number"
+    ],
+    [
+      "m.05kb0jt",
+      "sports.sports_team_roster.player",
+      "Albert Pujols"
+    ],
+    [
+      "Albert Pujols",
+      "sports.pro_athlete.teams",
+      "m.05kb0jt"
+    ],
+    [
+      "m.04xhdn1",
+      "sports.sports_team_roster.player",
+      "Albert Pujols"
+    ],
+    [
+      "m.04xhdn1",
+      "sports.sports_team_roster.position",
+      "Infielder"
+    ],
+    [
+      "Albert Pujols",
+      "sports.pro_athlete.teams",
+      "m.04xhdn1"
+    ],
+    [
+      "m.04xhdn1",
+      "freebase.valuenotation.has_no_value",
+      "To"
+    ],
+    [
+      "m.0wdd82v",
+      "base.schemastaging.athlete_salary.currency",
+      "United States Dollar"
+    ],
+    [
+      "Albert Pujols",
+      "base.schemastaging.athlete_extra.salary",
+      "m.0wdd82v"
+    ],
+    [
+      "m.0wdd82v",
+      "base.schemastaging.athlete_salary.athlete",
+      "Albert Pujols"
+    ],
+    [
+      "m.0j2qh8m",
+      "base.schemastaging.athlete_salary.currency",
+      "United States Dollar"
+    ],
+    [
+      "m.0j2qh8m",
+      "base.schemastaging.athlete_salary.athlete",
+      "Albert Pujols"
+    ],
+    [
+      "Albert Pujols",
+      "base.schemastaging.athlete_extra.salary",
+      "m.0j2qh8m"
+    ],
+    [
+      "m.0461q4y",
+      "sports.sports_league_draft_pick.school",
+      "Maple Woods Community College"
+    ],
+    [
+      "1999 Major League Baseball Draft",
+      "sports.sports_league_draft.picks",
+      "m.0461q4y"
+    ],
+    [
+      "m.0461q4y",
+      "sports.sports_league_draft_pick.player",
+      "Albert Pujols"
+    ],
+    [
+      "m.0461q4y",
+      "sports.sports_league_draft_pick.draft",
+      "1999 Major League Baseball Draft"
+    ],
+    [
+      "Albert Pujols",
+      "sports.drafted_athlete.drafted",
+      "m.0461q4y"
+    ],
+    [
+      "St. Louis",
+      "location.us_county.county_seat",
+      "St. Louis"
+    ],
+    [
+      "St. Louis",
+      "location.hud_county_place.county",
+      "St. Louis"
+    ],
+    [
+      "St. Louis",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "St. Louis",
+      "location.us_county.hud_county_place",
+      "St. Louis"
+    ],
+    [
+      "m.03pk1v8",
+      "people.place_lived.location",
+      "St. Louis"
+    ],
+    [
+      "St. Louis",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "St. Louis",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "St. Louis",
+      "location.hud_county_place.place",
+      "St. Louis"
+    ],
+    [
+      "St. Louis",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.05bdvc3",
+      "sports.sports_team_roster.position",
+      "First baseman"
+    ],
+    [
+      "First baseman",
+      "sports.sports_position.players",
+      "m.05bdvc3"
+    ],
+    [
+      "m.05bdvc3",
+      "freebase.valuenotation.has_value",
+      "Number"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6m5g"
+    ],
+    [
+      "m.06s6m5g",
+      "baseball.batting_statistics.season",
+      "2004 Major League Baseball season"
+    ],
+    [
+      "m.06s6m5g",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6m8k"
+    ],
+    [
+      "m.06s6m8k",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ],
+    [
+      "m.06s6m8k",
+      "baseball.batting_statistics.season",
+      "2006 Major League Baseball season"
+    ],
+    [
+      "m.0j2lc1l",
+      "sports.sports_team_roster.position",
+      "Infielder"
+    ],
+    [
+      "m.0j2lc1l",
+      "sports.sports_team_roster.player",
+      "Albert Pujols"
+    ],
+    [
+      "Albert Pujols",
+      "sports.pro_athlete.teams",
+      "m.0j2lc1l"
+    ],
+    [
+      "m.06s6m3w",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6m3w"
+    ],
+    [
+      "m.06s6m3w",
+      "baseball.batting_statistics.season",
+      "2003 Major League Baseball season"
+    ],
+    [
+      "m.06s6m6_",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6m6_"
+    ],
+    [
+      "m.06s6m6_",
+      "baseball.batting_statistics.season",
+      "2005 Major League Baseball season"
+    ],
+    [
+      "m.06s6mcz",
+      "baseball.batting_statistics.season",
+      "2008 Major League Baseball season"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6mcz"
+    ],
+    [
+      "m.06s6mcz",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ],
+    [
+      "m.06s6m23",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ],
+    [
+      "m.06s6m23",
+      "baseball.batting_statistics.season",
+      "2002 Major League Baseball Season"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6m23"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6mb3"
+    ],
+    [
+      "m.06s6mb3",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ],
+    [
+      "m.06s6mb3",
+      "baseball.batting_statistics.season",
+      "2007 Major League Baseball season"
+    ],
+    [
+      "Albert Pujols",
+      "baseball.baseball_player.batting_stats",
+      "m.06s6m0p"
+    ],
+    [
+      "m.06s6m0p",
+      "baseball.batting_statistics.season",
+      "2001 Major League Baseball Season"
+    ],
+    [
+      "m.06s6m0p",
+      "baseball.batting_statistics.player",
+      "Albert Pujols"
+    ]
+  ]
+}

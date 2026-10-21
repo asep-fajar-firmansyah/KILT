@@ -1,0 +1,3545 @@
+{
+  "graph_id": 28256,
+  "subgraph": [
+    [
+      "Auckland",
+      "location.location.contains",
+      "University of Auckland"
+    ],
+    [
+      "Auckland",
+      "base.biblioness.bibs_location.country",
+      "New Zealand"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Auckland"
+    ],
+    [
+      "Auckland",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "University of Auckland",
+      "location.location.containedby",
+      "Auckland"
+    ],
+    [
+      "Auckland",
+      "location.administrative_division.country",
+      "New Zealand"
+    ],
+    [
+      "Auckland",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "Auckland",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "New Zealand",
+      "location.country.administrative_divisions",
+      "Auckland"
+    ],
+    [
+      "Tuvalu",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Tuvalu"
+    ],
+    [
+      "Tuvalu",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Tuvalu",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Tuvalu",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Tuvalu",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Tuvalu",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Tuvalu",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Tuvalu"
+    ],
+    [
+      "Tuvalu",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Tuvalu"
+    ],
+    [
+      "Tuvalu",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Micronesia",
+      "common.topic.notable_types",
+      "Island Group"
+    ],
+    [
+      "Micronesia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Micronesia"
+    ],
+    [
+      "Micronesia",
+      "location.location.contains",
+      "Palau"
+    ],
+    [
+      "Palau",
+      "location.location.containedby",
+      "Micronesia"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "University of Auckland"
+    ],
+    [
+      "University of Auckland",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "University of Auckland",
+      "education.educational_institution.campuses",
+      "University of Auckland"
+    ],
+    [
+      "University of Auckland",
+      "education.educational_institution_campus.educational_institution",
+      "University of Auckland"
+    ],
+    [
+      "University of Auckland",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "New Zealand",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Realm of New Zealand"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "New Zealand"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "New Zealand"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "New Zealand"
+    ],
+    [
+      "m.02h7m00",
+      "military.force_strength.combatant",
+      "New Zealand"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "New Zealand"
+    ],
+    [
+      "Tokelau",
+      "location.administrative_division.country",
+      "New Zealand"
+    ],
+    [
+      "Realm of New Zealand",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "New Zealand",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Mount Matthews",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "Rimutaka Range",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "base.sharing.sharing_location.shared_here",
+      "m.0gw7mgc"
+    ],
+    [
+      "New Zealand",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Realm of New Zealand",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "location.country.administrative_divisions",
+      "Niue"
+    ],
+    [
+      "New Zealand",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "m.04ml3m6",
+      "military.casualties.combatant",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "2000 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "military.military_combatant.casualties",
+      "m.04ml3m6"
+    ],
+    [
+      "m.0cqfbfm",
+      "location.imports_and_exports.imported_from",
+      "New Zealand"
+    ],
+    [
+      "StayinFront, Inc.",
+      "organization.organization.locations",
+      "New Zealand"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "military.military_combatant.casualties",
+      "m.04ml3lh"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "The Remarkables",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "Cook Islands",
+      "location.administrative_division.country",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2000 Summer Olympics"
+    ],
+    [
+      "m.04ml3kt",
+      "military.force_strength.combatant",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "location.statistical_region.places_exported_to",
+      "m.0cqfbfm"
+    ],
+    [
+      "New Zealand",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Niue",
+      "location.administrative_division.country",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Realm of New Zealand",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "organization.organization_founder.organizations_founded",
+      "UNESCO"
+    ],
+    [
+      "New Zealand",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Realm of New Zealand"
+    ],
+    [
+      "Southern Alps",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "UNESCO",
+      "organization.organization.founders",
+      "New Zealand"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "FOX Vakanties",
+      "travel.tour_operator.travel_destinations",
+      "New Zealand"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "New Zealand"
+    ],
+    [
+      "Battle of the Green Islands",
+      "base.culturalevent.event.entity_involved",
+      "New Zealand"
+    ],
+    [
+      "Mount Lendenfeld",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "business.business_location.parent_company",
+      "StayinFront, Inc."
+    ],
+    [
+      "New Zealand",
+      "location.country.administrative_divisions",
+      "Tokelau"
+    ],
+    [
+      "New Zealand",
+      "military.military_combatant.force_deployments",
+      "m.04ml3kt"
+    ],
+    [
+      "New Zealand",
+      "location.country.administrative_divisions",
+      "Cook Islands"
+    ],
+    [
+      "New Zealand",
+      "military.military_combatant.force_deployments",
+      "m.02h7m00"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "New Zealand"
+    ],
+    [
+      "m.0gw7mgc",
+      "base.sharing.sharing_relationship.locations",
+      "New Zealand"
+    ],
+    [
+      "University of Otago",
+      "location.location.containedby",
+      "New Zealand"
+    ],
+    [
+      "New Zealand",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "New Zealand",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "New Zealand",
+      "travel.travel_destination.tour_operators",
+      "FOX Vakanties"
+    ],
+    [
+      "m.04ml3lh",
+      "military.casualties.combatant",
+      "New Zealand"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "New Zealand"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Great Dividing Range"
+    ],
+    [
+      "Landings at Cape Torokina",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "organization.organization_scope.organizations_with_this_scope",
+      "www.elegantmedia.com.au"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Wallis and Futuna"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Guam"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Mount Lendenfeld"
+    ],
+    [
+      "Oceania",
+      "location.location.containedby",
+      "Pacific Ocean"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Juan Fernández Islands"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "The Remarkables"
+    ],
+    [
+      "Midway Atoll",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "American Samoa"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Perth"
+    ],
+    [
+      "Fiji",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Polynesia"
+    ],
+    [
+      "1921 Persian coup d'état",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Timor-Leste"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Indonesia"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Tokelau"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Adams Seamount"
+    ],
+    [
+      "m.09dvtdp",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Oceania"
+    ],
+    [
+      "King's University, main campus",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Desventuradas Islands"
+    ],
+    [
+      "Oceania",
+      "common.topic.notable_types",
+      "Continent"
+    ],
+    [
+      "Pacific Ocean",
+      "location.location.contains",
+      "Oceania"
+    ],
+    [
+      "Palmyra Atoll",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Asylum Tour",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Johnston Atoll"
+    ],
+    [
+      "Polynesia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "common.topic.article",
+      "m.05nrs"
+    ],
+    [
+      "Palau",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Marshall Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Battle of Piva Forks",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Palmyra Atoll"
+    ],
+    [
+      "Regions of Oceania.",
+      "common.image.appears_in_topic_gallery",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Australia"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Sydney"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Northwest Rota"
+    ],
+    [
+      "Samoa",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Sydney",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "2009 flu pandemic"
+    ],
+    [
+      "Howland Island",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Dandenong Ranges",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Wake Island"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Vanuatu College of Medicine, Main Campus"
+    ],
+    [
+      "m.0b4647c",
+      "common.webpage.topic",
+      "Oceania"
+    ],
+    [
+      "Adams Seamount",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Isla Salas y Gómez",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.geolocation",
+      "m.0wmb_kp"
+    ],
+    [
+      "Adelaide",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Coral Sea Islands"
+    ],
+    [
+      "Baker Island",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Easter Island",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Battle of the Green Islands",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "LocationOceania",
+      "common.image.appears_in_topic_gallery",
+      "Oceania"
+    ],
+    [
+      "Kingman Reef",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Realm of New Zealand"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Easter Island"
+    ],
+    [
+      "2014 FINA Men's Water Polo World League",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Perth",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Australia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Pitcairn Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Cook Islands"
+    ],
+    [
+      "University of Otago",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Northern Mariana Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "American Samoa",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "g.1tdgkfwf"
+    ],
+    [
+      "Norfolk Island",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Isla Salas y Gómez"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "Battle of Koromokina Lagoon"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Blue Mountains"
+    ],
+    [
+      "Tokelau",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "King's University, main campus"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Norfolk Island"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Baker Island"
+    ],
+    [
+      "Oceania",
+      "common.topic.image",
+      "Orthographic projection centred over Wallis and Futuna Islands"
+    ],
+    [
+      "Northwest Rota",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "U.S. Affiliated Pacific Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Howland Island"
+    ],
+    [
+      "DVD Region 4",
+      "location.location.contains",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Melanesia"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "New Caledonia"
+    ],
+    [
+      "Melanesia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "common.topic.image",
+      "Regions of Oceania."
+    ],
+    [
+      "Rimutaka Range",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Northern Mariana Islands"
+    ],
+    [
+      "Orthographic projection centred over Wallis and Futuna Islands",
+      "common.image.appears_in_topic_gallery",
+      "Oceania"
+    ],
+    [
+      "Northern Marianas College",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Indonesia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "1921 Persian coup d'état"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Nauru"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "Battle of the Green Islands"
+    ],
+    [
+      "Papua New Guinea",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "French Polynesia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Pacific Basin University, main campus"
+    ],
+    [
+      "2009 flu pandemic",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Solomon Islands"
+    ],
+    [
+      "Jarvis Island",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Guam",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Vanuatu College of Medicine, Main Campus",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.people_born_here",
+      "Lisiate Tafa"
+    ],
+    [
+      "www.elegantmedia.com.au",
+      "organization.organization.geographic_scope",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Viti Levu"
+    ],
+    [
+      "Lisiate Tafa",
+      "people.person.place_of_birth",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "University of Otago"
+    ],
+    [
+      "Viti Levu",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Realm of New Zealand",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Vanuatu",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Palau"
+    ],
+    [
+      "Pacific Basin University, main campus",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "g.11b6v7l925"
+    ],
+    [
+      "Johnston Atoll",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Fiji"
+    ],
+    [
+      "Oceania",
+      "location.statistical_region.population",
+      "m.0b64sb_"
+    ],
+    [
+      "Bunya Mountains",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Desventuradas Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "French Polynesia"
+    ],
+    [
+      "Tonga",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "common.topic.notable_for",
+      "g.1257vp22m"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Marshall Islands"
+    ],
+    [
+      "New Caledonia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Rimutaka Range"
+    ],
+    [
+      "Wake Island",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "Battle of the Coconut Grove"
+    ],
+    [
+      "Juan Fernández Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Adelaide"
+    ],
+    [
+      "Oceania",
+      "location.location.containedby",
+      "DVD Region 4"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Dandenong Ranges"
+    ],
+    [
+      "Solomon Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Kingman Reef"
+    ],
+    [
+      "Battle of the Coconut Grove",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Northern Marianas College"
+    ],
+    [
+      "Oceania",
+      "location.statistical_region.population",
+      "m.0ngl74k"
+    ],
+    [
+      "Blue Mountains",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Melbourne",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Kiribati",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Samoa"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Vanuatu"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Brindabella Range"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "Asylum Tour"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Brisbane"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Midway Atoll"
+    ],
+    [
+      "Cook Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Coral Sea Islands",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "U.S. Affiliated Pacific Islands"
+    ],
+    [
+      "Oceania",
+      "common.topic.webpage",
+      "m.0b4647c"
+    ],
+    [
+      "The Remarkables",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Melbourne"
+    ],
+    [
+      "Battle of Koromokina Lagoon",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Brindabella Range",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Pitcairn Islands"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Kiribati"
+    ],
+    [
+      "Niue",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Brisbane",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "2014 FINA Men's Water Polo World League"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "Battle of Piva Forks"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Federated States of Micronesia"
+    ],
+    [
+      "Oceania",
+      "common.topic.image",
+      "LocationOceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Niue"
+    ],
+    [
+      "Timor-Leste",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Jarvis Island"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "Landings at Cape Torokina"
+    ],
+    [
+      "Federated States of Micronesia",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.events",
+      "Koiari Raid"
+    ],
+    [
+      "Wallis and Futuna",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Koiari Raid",
+      "time.event.locations",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09dvtdp"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Papua New Guinea"
+    ],
+    [
+      "Nauru",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Mount Lendenfeld",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Bunya Mountains"
+    ],
+    [
+      "Oceania",
+      "location.location.contains",
+      "Tonga"
+    ],
+    [
+      "Great Dividing Range",
+      "location.location.containedby",
+      "Oceania"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Statistical region"
+    ],
+    [
+      "New Orleans",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Brisbane",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Capital",
+      "type.property.expected_type",
+      "City/Town/Village"
+    ],
+    [
+      "Belleville",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Significant"
+    ],
+    [
+      "Significant",
+      "freebase.type_kind.types",
+      "City/Town/Village"
+    ],
+    [
+      "Vermont",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Chicago",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Statistical region"
+    ],
+    [
+      "Adelaide",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Melbourne",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sydney",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Dated location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "San Francisco",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Perth",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Dated location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Capital",
+      "rdf-schema#range",
+      "City/Town/Village"
+    ],
+    [
+      "New York City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Washington, D.C.",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Sandia",
+      "base.militaryinfiction.location_in_fiction.languages",
+      "English Language"
+    ],
+    [
+      "Indonesia",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "New-York Tribune",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Have Tig at Your Party",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Marshall Islands",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "The Guardian Weekly",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Union Jack",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Easy Rider",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Los Angeles Times",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Vanuatu"
+    ],
+    [
+      "Canada",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Kiribati",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Josh Kirby, Time Warrior: Planet of the Dino Knights",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Papua New Guinea",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "The Chronicle of Higher Education",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Nauru",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Remote Area Medical",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Kiribati"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Indonesia"
+    ],
+    [
+      "Catfish: The TV Show",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Cook Islands"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Australia"
+    ],
+    [
+      "The Economist",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "American Anthem",
+      "music.composition.language",
+      "English Language"
+    ],
+    [
+      "Norfolk Island",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "The Liberator",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Guam"
+    ],
+    [
+      "Guam",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Maniac",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "American Samoa",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Weekly World News",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Canada"
+    ],
+    [
+      "Tonga",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Guam",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Papua New Guinea",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "The New York Times",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Pitcairn Islands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Dogs",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Timor-Leste",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Prozac Nation",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Australia"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Nauru"
+    ],
+    [
+      "Financial Times",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Federated States of Micronesia",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "The Washington Times",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Tokelau",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Marshall Islands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Northern Mariana Islands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Shakespeare Behind Bars",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Papua New Guinea"
+    ],
+    [
+      "Vanuatu",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Nauru",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Samoa",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Capitalism: A Love Story",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Australia",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Marshall Islands"
+    ],
+    [
+      "The Washington Post",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Film Daily",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Fiji",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Los Angeles Herald-Examiner",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Niue",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Samoa",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Industrial Worker",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Tokelau"
+    ],
+    [
+      "Vanuatu",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Samoa"
+    ],
+    [
+      "Cook Islands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Fiji"
+    ],
+    [
+      "Nordstjernan",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Solomon Islands",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Just the Right Amount of Violence",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Cook Islands",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Which Way Home",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "American Free Press",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Palau",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Fiji",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "USA Today",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Kiribati",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Timor-Leste"
+    ],
+    [
+      "Tokelau",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Isla Salas y Gómez",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Niue",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Tonga",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Wallis and Futuna",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Hawaii",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Hawaii"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Tokelau"
+    ],
+    [
+      "Cook Islands",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Niue"
+    ],
+    [
+      "Norfolk Island",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "French Polynesia"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Norfolk Island"
+    ],
+    [
+      "Pacific Ocean",
+      "location.location.contains",
+      "Polynesia"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Cook Islands"
+    ],
+    [
+      "French Polynesia",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Wallis and Futuna"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Isla Salas y Gómez"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Pitcairn Islands"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Tonga"
+    ],
+    [
+      "Pitcairn Islands",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Easter Island",
+      "location.location.containedby",
+      "Polynesia"
+    ],
+    [
+      "Polynesia",
+      "location.location.containedby",
+      "Pacific Ocean"
+    ],
+    [
+      "Polynesia",
+      "location.location.contains",
+      "Easter Island"
+    ],
+    [
+      "France",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Tonga",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Federated States of Micronesia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Timor-Leste",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Palau",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Guam",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Chile",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Samoa",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Mexico",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Marshall Islands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Fiji",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Cook Islands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Australia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Papua New Guinea",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Solomon Islands",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Nauru",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "ISO Alpha 2"
+    ],
+    [
+      "Third level division of",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Calling Code"
+    ],
+    [
+      "United States Minor Outlying Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "ISO Short Name",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Norfolk Island",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Countries",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "First level division of",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Northern Mariana Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.kind",
+      "Significant"
+    ],
+    [
+      "New Caledonia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "FIPS Code",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Dated location"
+    ],
+    [
+      "Internet TLD",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Significant",
+      "freebase.type_kind.types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.equivalent_topic.equivalent_type",
+      "Country"
+    ],
+    [
+      "Languages spoken",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Capital"
+    ],
+    [
+      "Australia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Dated location"
+    ],
+    [
+      "GDP (nominal)",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "ISO Short Name",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "common.topic.article",
+      "m.03q0typ"
+    ],
+    [
+      "Niue",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Country",
+      "rdf-schema#domain",
+      "Administrative Division"
+    ],
+    [
+      "French Polynesia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Administrative Division",
+      "type.type.properties",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Official Language"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Currency Formerly Used"
+    ],
+    [
+      "GDP (nominal)",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Currency Used",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "First level divisions"
+    ],
+    [
+      "American Samoa",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Empire of Japan",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w295g"
+    ],
+    [
+      "Administrative Divisions",
+      "type.property.master_property",
+      "Country"
+    ],
+    [
+      "Currency Formerly Used",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Currency Formerly Used",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Third level divisions"
+    ],
+    [
+      "United States, with Territories",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012z7_r8"
+    ],
+    [
+      "Third level divisions",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "GDP (nominal)"
+    ],
+    [
+      "Countries Formerly Used",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Administrative Divisions",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Languages spoken"
+    ],
+    [
+      "Form of Government",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Guam",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Fourth level division of",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "First level divisions",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Form of Government",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Countries Used",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "FIFA Code",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012l2b96"
+    ],
+    [
+      "Currency Used",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Fourth level divisions",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "GDP (nominal per capita)",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Palau",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Official Language",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Official Language",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.property.reverse_property",
+      "Administrative Divisions"
+    ],
+    [
+      "Calling Code",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Capital",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "National anthem"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.equivalent_topic",
+      "Country"
+    ],
+    [
+      "Federated States of Micronesia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Second level division of",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "ISO Short Name"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Statistical region"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Statistical region"
+    ],
+    [
+      "Countries Used",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "National anthem",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.property.schema",
+      "Administrative Division"
+    ],
+    [
+      "Wallis and Futuna",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "FIFA Code"
+    ],
+    [
+      "Cook Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Second level division of",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Tokelau",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "France",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Internet TLD",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Solomon Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Chile",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Third level division of",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Countries",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Pitcairn Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Second level divisions",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "owl#inverseOf",
+      "National anthem"
+    ],
+    [
+      "Nauru",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Timor-Leste",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "ISO Alpha 2",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Form of Government"
+    ],
+    [
+      "Country",
+      "owl#inverseOf",
+      "Administrative Divisions"
+    ],
+    [
+      "Countries Formerly Used",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Canada",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "FIPS Code",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Administrative Divisions",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Indonesia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "National anthem",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "FIFA Code",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Administrative Divisions"
+    ],
+    [
+      "Country",
+      "type.property.schema",
+      "National anthem of a country"
+    ],
+    [
+      "Samoa",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012r6gwr"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "GDP (nominal per capita)"
+    ],
+    [
+      "Marshall Islands",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "ISO Alpha 3",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Spoken in countries",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Country",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012r6gwy"
+    ],
+    [
+      "Third level divisions",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Kiribati",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Internet TLD"
+    ],
+    [
+      "ISO Alpha 2",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Fourth level division of",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Country",
+      "rdf-schema#domain",
+      "National anthem of a country"
+    ],
+    [
+      "Fourth level divisions",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "ISO Alpha 3"
+    ],
+    [
+      "Capital",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "GDP (nominal per capita)",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Fourth level divisions"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Second level divisions",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "National anthem",
+      "type.property.master_property",
+      "Country"
+    ],
+    [
+      "Papua New Guinea",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "First level division of",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Second level divisions"
+    ],
+    [
+      "Tonga",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Vanuatu",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Mexico",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Fiji",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Calling Code",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "ISO Numeric",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "ISO Alpha 3",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "ISO Numeric"
+    ],
+    [
+      "ISO Numeric",
+      "rdf-schema#domain",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "FIPS Code"
+    ],
+    [
+      "Spoken in countries",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.property.reverse_property",
+      "National anthem"
+    ],
+    [
+      "Languages spoken",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "First level divisions",
+      "type.property.schema",
+      "Country"
+    ],
+    [
+      "Country",
+      "type.type.properties",
+      "Currency Used"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.administrative_area_level.examples",
+      "Sovereign state"
+    ],
+    [
+      "Nauru",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Sovereign state"
+    ],
+    [
+      "Federated States of Micronesia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Marshall Islands",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Timor-Leste",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Solomon Islands",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Indonesia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Sovereign state"
+    ],
+    [
+      "Fiji",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Sovereign state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Papua New Guinea",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Vanuatu",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Samoa",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Australia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Palau",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Canada",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Earth"
+    ],
+    [
+      "Kiribati",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.schema.administrative_area_type.level",
+      "Sovereign state"
+    ],
+    [
+      "Mexico",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Tonga",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Sovereign state",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Earth"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Chile",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Wake Island",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Nauru",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "American Samoa",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Sydney",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Alaska",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Europe",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Indonesia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "South Dakota",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Baker Island",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Juan Fernández Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Norfolk Island",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Cowlitz County",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "North America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "French Polynesia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Time zone(s)",
+      "rdf-schema#domain",
+      "Location"
+    ],
+    [
+      "Palau",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Samoa",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Africa",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "South America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Canada",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Palmyra Atoll",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Niue",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "New Caledonia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "San Francisco",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Solomon Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Guam",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Bougainville Island",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Texas",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Johnston Atoll",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Kiribati",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Midway Atoll",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Australia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Papua New Guinea",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Location",
+      "type.type.properties",
+      "Time zone(s)"
+    ],
+    [
+      "Americas",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Croix, U.S. Virgin Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Time zone(s)",
+      "type.property.schema",
+      "Location"
+    ],
+    [
+      "Fiji",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Marshall Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Northern Mariana Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Federated States of Micronesia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Timor-Leste",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Hawaii",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Colorado",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Easter Island",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Jarvis Island",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Tokelau",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Tonga",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Wallis and Futuna",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Saint Thomas",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Cook Islands",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "France",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Chile",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Vanuatu",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Brisbane",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Asia",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Mexico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Federated States of Micronesia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Solomon Islands",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Marshall Islands",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Nauru",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "France",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "Vanuatu",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "Tonga",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Palau",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Chile",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Realm of New Zealand",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Samoa",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "France"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "South America"
+    ],
+    [
+      "Kiribati",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Timor-Leste",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "North America"
+    ],
+    [
+      "Indonesia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "South America",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "Fiji",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "North America",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "Asia"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "Africa"
+    ],
+    [
+      "Canada",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "United States of America"
+    ],
+    [
+      "Papua New Guinea",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "Europe"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "Australia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Island Group",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Island Group",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Island Group",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Island Group",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Island Group",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Island Group",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Desventuradas Islands",
+      "common.topic.notable_types",
+      "Island Group"
+    ],
+    [
+      "Juan Fernández Islands",
+      "common.topic.notable_types",
+      "Island Group"
+    ],
+    [
+      "U.S. Affiliated Pacific Islands",
+      "location.location.contains",
+      "Palau"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "Palau"
+    ],
+    [
+      "Palau",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Palau",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Palau"
+    ],
+    [
+      "Palau",
+      "location.location.containedby",
+      "U.S. Affiliated Pacific Islands"
+    ]
+  ]
+}

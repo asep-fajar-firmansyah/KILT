@@ -1,0 +1,575 @@
+{
+  "graph_id": 13682,
+  "subgraph": [
+    [
+      "Arabic, Western Egyptian Bedawi Spoken",
+      "base.rosetta.local_name.locale",
+      "Egypt"
+    ],
+    [
+      "Arabic, Western Egyptian Bedawi Spoken",
+      "base.rosetta.local_name.languoid",
+      "Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "base.rosetta.languoid.local_name",
+      "Arabic, Western Egyptian Bedawi Spoken"
+    ],
+    [
+      "Arabic, Libyan Spoken",
+      "base.rosetta.local_name.languoid",
+      "Libyan Arabic"
+    ],
+    [
+      "Arabic, Libyan Spoken",
+      "base.rosetta.local_name.locale",
+      "Libya"
+    ],
+    [
+      "Libyan Arabic",
+      "base.rosetta.languoid.local_name",
+      "Arabic, Libyan Spoken"
+    ],
+    [
+      "Egypt",
+      "location.location.partially_containedby",
+      "Western Asia"
+    ],
+    [
+      "Egypt",
+      "film.film_location.featured_in_films",
+      "Samsara"
+    ],
+    [
+      "Arab world",
+      "location.location.contains",
+      "Egypt"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Western Asia",
+      "location.location.partially_contains",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Sa'idi Arabic"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Arabic, Sudanese Spoken Language"
+    ],
+    [
+      "Samsara",
+      "film.film.featured_film_locations",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Muhammad Metwally El-Shaarawy",
+      "people.person.nationality",
+      "Egypt"
+    ],
+    [
+      "Middle East Theatre of World War II",
+      "time.event.locations",
+      "Egypt"
+    ],
+    [
+      "Egyptian Arabic",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Egypt",
+      "location.location.events",
+      "North African Campaign"
+    ],
+    [
+      "Arabic, Egyptian Spoken",
+      "base.rosetta.local_name.locale",
+      "Egypt"
+    ],
+    [
+      "Semi-presidential system",
+      "government.form_of_government.countries",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Egypt",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Sahara",
+      "location.location.partially_containedby",
+      "Egypt"
+    ],
+    [
+      "m.047ksjt",
+      "military.military_combatant_group.combatants",
+      "Egypt"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Egypt"
+    ],
+    [
+      "Africa",
+      "location.location.contains_major_portion_of",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.containedby",
+      "Arab world"
+    ],
+    [
+      "Egypt",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Society for the Protection of Animals Abroad"
+    ],
+    [
+      "Arabic, Sudanese Spoken Language",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "Bedawi Arabic",
+      "language.human_language.main_country",
+      "Egypt"
+    ],
+    [
+      "Arabic, Moroccan Spoken",
+      "base.rosetta.local_name.locale",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "military.military_combatant.military_conflicts",
+      "m.047ksjt"
+    ],
+    [
+      "Egypt",
+      "location.country.official_language",
+      "Modern Standard Arabic"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.militaryinfiction.location_in_fiction.languages",
+      "Egyptian language"
+    ],
+    [
+      "Egypt",
+      "location.location.partially_contains",
+      "Sahara"
+    ],
+    [
+      "Sa'idi Arabic",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Egypt"
+    ],
+    [
+      "Al-Azhar University",
+      "location.location.containedby",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.location.primarily_containedby",
+      "Africa"
+    ],
+    [
+      "Coptic Language",
+      "language.human_language.main_country",
+      "Egypt"
+    ],
+    [
+      "Samsara",
+      "film.film.country",
+      "Egypt"
+    ],
+    [
+      "The Society for the Protection of Animals Abroad",
+      "organization.organization.geographic_scope",
+      "Egypt"
+    ],
+    [
+      "Modern Standard Arabic",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "Egyptian Arabic",
+      "language.human_language.main_country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "North African Campaign",
+      "time.event.locations",
+      "Egypt"
+    ],
+    [
+      "Sa'idi Arabic",
+      "language.human_language.main_country",
+      "Egypt"
+    ],
+    [
+      "Egyptian language",
+      "language.human_language.main_country",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Bedawi Arabic"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Egyptian Arabic"
+    ],
+    [
+      "Egypt",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Egypt",
+      "location.location.events",
+      "Middle East Theatre of World War II"
+    ],
+    [
+      "Egypt",
+      "location.country.form_of_government",
+      "Semi-presidential system"
+    ],
+    [
+      "Bedawi Arabic",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Modern Standard Arabic"
+    ],
+    [
+      "Egypt",
+      "base.militaryinfiction.location_in_fiction.languages",
+      "Akkadian language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "The vowel phonemes of Libyan Arabic",
+      "common.image.appears_in_topic_gallery",
+      "Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "common.topic.notable_for",
+      "g.1256g8tvd"
+    ],
+    [
+      "Libyan Arabic",
+      "language.human_language.main_country",
+      "Libya"
+    ],
+    [
+      "Arabic Group",
+      "base.rosetta.languoid.child",
+      "Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "language.human_language.region",
+      "Africa"
+    ],
+    [
+      "Arabic alphabet",
+      "language.language_writing_system.languages",
+      "Libyan Arabic"
+    ],
+    [
+      "Libya",
+      "location.country.languages_spoken",
+      "Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "common.topic.article",
+      "m.099cfz"
+    ],
+    [
+      "Libyan Arabic",
+      "language.human_language.countries_spoken_in",
+      "Libya"
+    ],
+    [
+      "Libyan Arabic",
+      "language.human_language.language_family",
+      "Afroasiatic languages"
+    ],
+    [
+      "Libyan Arabic extends from Western Egypt in the East to Tunisia and Algeria in the West.",
+      "common.image.appears_in_topic_gallery",
+      "Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Libyan Arabic",
+      "base.rosetta.languoid.parent",
+      "Arabic Group"
+    ],
+    [
+      "Libyan Arabic",
+      "language.human_language.language_family",
+      "Arabic languages"
+    ],
+    [
+      "Libyan Arabic",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Libyan Arabic",
+      "common.topic.image",
+      "Libyan Arabic extends from Western Egypt in the East to Tunisia and Algeria in the West."
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.dialects",
+      "Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "language.human_language.language_family",
+      "Semitic languages"
+    ],
+    [
+      "Libyan Arabic",
+      "common.topic.image",
+      "The vowel phonemes of Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "language.human_language.writing_system",
+      "Arabic alphabet"
+    ],
+    [
+      "Semitic languages",
+      "language.language_family.languages",
+      "Libyan Arabic"
+    ],
+    [
+      "Arabic languages",
+      "language.language_family.languages",
+      "Libyan Arabic"
+    ],
+    [
+      "Libyan Arabic",
+      "language.language_dialect.language",
+      "Arabic Language"
+    ],
+    [
+      "Libya",
+      "base.locations.countries.continent",
+      "Africa"
+    ],
+    [
+      "Libya",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Libya",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Libya",
+      "location.location.events",
+      "North African Campaign"
+    ],
+    [
+      "A Tragedy of Arms",
+      "book.written_work.subjects",
+      "Libya"
+    ],
+    [
+      "Libya",
+      "location.location.containedby",
+      "Greater Maghreb"
+    ],
+    [
+      "Libya",
+      "location.location.events",
+      "Middle East Theatre of World War II"
+    ],
+    [
+      "Middle East Theatre of World War II",
+      "time.event.locations",
+      "Libya"
+    ],
+    [
+      "Arabic, Egyptian Spoken",
+      "base.rosetta.local_name.locale",
+      "Libya"
+    ],
+    [
+      "Parliamentary republic",
+      "government.form_of_government.countries",
+      "Libya"
+    ],
+    [
+      "Greater Maghreb",
+      "location.location.contains",
+      "Libya"
+    ],
+    [
+      "Libya",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Libya",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Libya",
+      "book.book_subject.works",
+      "A Tragedy of Arms"
+    ],
+    [
+      "Libya",
+      "location.location.partially_contains",
+      "Sahara"
+    ],
+    [
+      "Libya",
+      "location.country.form_of_government",
+      "Parliamentary republic"
+    ],
+    [
+      "North African Campaign",
+      "time.event.locations",
+      "Libya"
+    ],
+    [
+      "Africa",
+      "base.locations.continents.countries_within",
+      "Libya"
+    ],
+    [
+      "Arab world",
+      "location.location.contains",
+      "Libya"
+    ],
+    [
+      "Libya",
+      "location.location.containedby",
+      "Arab world"
+    ],
+    [
+      "Libya",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Berber languages",
+      "language.language_family.geographic_distribution",
+      "Libya"
+    ],
+    [
+      "Sahara",
+      "location.location.partially_containedby",
+      "Libya"
+    ],
+    [
+      "Libya",
+      "location.location.containedby",
+      "Africa"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Libya"
+    ],
+    [
+      "Libya",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Libya",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ]
+  ]
+}

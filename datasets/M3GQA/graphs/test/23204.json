@@ -1,0 +1,9140 @@
+{
+  "graph_id": 23204,
+  "subgraph": [
+    [
+      "Towers",
+      "film.film_location.featured_in_films",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.featured_film_locations",
+      "Towers"
+    ],
+    [
+      "Towers",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michael De Luca",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Michael De Luca",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Michael De Luca",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Michael De Luca",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Michael De Luca",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Michael De Luca",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michael De Luca",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael De Luca",
+      "film.producer.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.produced_by",
+      "Michael De Luca"
+    ],
+    [
+      "Michael De Luca",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "m.094cpnh",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.08xfrtr",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.0gjrn6b",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "m.0gjry9v",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.film_casting_director",
+      "Francine Maisler"
+    ],
+    [
+      "m.03jt30p",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "Las Vegas",
+      "film.film_location.featured_in_films",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.094pm7y"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cz_"
+    ],
+    [
+      "21",
+      "film.film.produced_by",
+      "Kevin Spacey"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d0r"
+    ],
+    [
+      "21",
+      "film.film.story_by",
+      "Holden Scott"
+    ],
+    [
+      "m.03q9hnr",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hm6"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hmm"
+    ],
+    [
+      "m.02vd10z",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cwh"
+    ],
+    [
+      "21",
+      "media_common.adaptation.adapted_from",
+      "Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions"
+    ],
+    [
+      "m.03q9hmm",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hn5"
+    ],
+    [
+      "m.0gjsblk",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.edited_by",
+      "Elliot Graham"
+    ],
+    [
+      "m.09t2d2y",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.film_art_direction_by",
+      "James F. Truesdale"
+    ],
+    [
+      "21",
+      "film.film.executive_produced_by",
+      "Ryan Kavanaugh"
+    ],
+    [
+      "21",
+      "film.film.written_by",
+      "Allan Loeb"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cvm"
+    ],
+    [
+      "m.0gjsbkr",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2csf"
+    ],
+    [
+      "m.03q9hrg",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.cinematography",
+      "Russell Carpenter"
+    ],
+    [
+      "m.0gjsbl9",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "award.award_nominated_work.award_nominations",
+      "m.09vqkg7"
+    ],
+    [
+      "m.09t2ct9",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrybz"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn40"
+    ],
+    [
+      "m.0gjrn2z",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "award.award_nominated_work.award_nominations",
+      "m.0gkd1bv"
+    ],
+    [
+      "m.0gjrn4s",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21.jpg",
+      "common.image.appears_in_topic_gallery",
+      "21"
+    ],
+    [
+      "m.03q9hq4",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.film_production_design_by",
+      "Missy Stewart"
+    ],
+    [
+      "m.09t2d0r",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.09t2cwy",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.distributors",
+      "m.059r_zd"
+    ],
+    [
+      "Allan Loeb",
+      "film.writer.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn6b"
+    ],
+    [
+      "21",
+      "award.award_nominated_work.award_nominations",
+      "m.0z9drr3"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn3l"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d15"
+    ],
+    [
+      "m.0gjrn40",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "m.0dglh7_",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "James F. Truesdale",
+      "film.film_art_director.films_art_directed",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.article",
+      "m.02qczfb"
+    ],
+    [
+      "m.094jldn",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjryc8"
+    ],
+    [
+      "m.09t2cv5",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.02vcmyb"
+    ],
+    [
+      "m.0gjrybz",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "21",
+      "film.film.featured_film_locations",
+      "Las Vegas"
+    ],
+    [
+      "m.0cl5tl_",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d2y"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "film.producer.films_executive_produced",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn44"
+    ],
+    [
+      "21",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0z9drr3",
+      "award.award_nomination.nominated_for",
+      "21"
+    ],
+    [
+      "m.094gqzh",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "m.09t2d3c",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.genre",
+      "Crime Fiction"
+    ],
+    [
+      "William S. Beasley",
+      "film.producer.films_executive_produced",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2czk"
+    ],
+    [
+      "Missy Stewart",
+      "film.film_production_designer.films_production_designed",
+      "21"
+    ],
+    [
+      "m.09t2cy7",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21 Spring 2008 Poster",
+      "common.image.appears_in_topic_gallery",
+      "21"
+    ],
+    [
+      "Kevin Spacey",
+      "film.producer.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrycp"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Holden Scott",
+      "film.film_story_contributor.film_story_credits",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.08xfrt6"
+    ],
+    [
+      "m.09t2cvm",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "m.0gjryb9",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cr3"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.08xfrtr"
+    ],
+    [
+      "Tracey A. Doyle",
+      "film.film_set_designer.film_sets_designed",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjs20q"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjsbkr"
+    ],
+    [
+      "21",
+      "film.film.executive_produced_by",
+      "William S. Beasley"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d3c"
+    ],
+    [
+      "m.0gjrn4d",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "m.03q9hp9",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "m.0941c6c",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.09vv45b",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hrg"
+    ],
+    [
+      "m.09t2cxc",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.0gkd15r",
+      "award.award_nomination.nominated_for",
+      "21"
+    ],
+    [
+      "m.09t2cr3",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hls"
+    ],
+    [
+      "m.09t2c_f",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.09t2d15",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.09vv45b"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.094jldn"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.02vcy8d"
+    ],
+    [
+      "m.03btsn4",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.0gjsblf",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cy7"
+    ],
+    [
+      "m.0gjsblt",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.film_set_decoration_by",
+      "Tracey A. Doyle"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.0ccfc8x"
+    ],
+    [
+      "m.02vcy8d",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "m.02vcmyb",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn4d"
+    ],
+    [
+      "21",
+      "music.soundtrack.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d2h"
+    ],
+    [
+      "m.09t2c_w",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.059r_zd",
+      "film.film_film_distributor_relationship.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.image",
+      "21.jpg"
+    ],
+    [
+      "m.03q9hm6",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.094gqzh"
+    ],
+    [
+      "m.09t2d21",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.release_date_s",
+      "m.0glbk42"
+    ],
+    [
+      "Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions",
+      "media_common.adapted_work.adaptations",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn4s"
+    ],
+    [
+      "m.09t2d2h",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2c_f"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cwy"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjs211"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cxc"
+    ],
+    [
+      "21",
+      "common.topic.notable_for",
+      "g.125bhhswj"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjsbkh"
+    ],
+    [
+      "m.09t2czk",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.03q9hqx",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03jt30p"
+    ],
+    [
+      "m.09vqkg7",
+      "award.award_nomination.nominated_for",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hnr"
+    ],
+    [
+      "21",
+      "film.film.written_by",
+      "Peter Steinfeld"
+    ],
+    [
+      "m.03q9hpr",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "m.094kg_0",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.0gjsbkh",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas based on a book"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjry9v"
+    ],
+    [
+      "MIT Blackjack Team",
+      "film.film_subject.films",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.runtime",
+      "m.0glbk47"
+    ],
+    [
+      "Elliot Graham",
+      "film.editor.film",
+      "21"
+    ],
+    [
+      "m.09t2d09",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "Robert Luketic",
+      "film.director.film",
+      "21"
+    ],
+    [
+      "m.09t2d1m",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "Gambling Dramas",
+      "media_common.netflix_genre.titles",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrycx"
+    ],
+    [
+      "m.0gjrn5f",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "m.0ccfc8x",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cxt"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjryb9"
+    ],
+    [
+      "m.02vcn9j",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "m.09t2csw",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Russell Carpenter",
+      "film.cinematographer.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjsblt"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d1m"
+    ],
+    [
+      "m.0gkf2hb",
+      "award.award_nomination.nominated_for",
+      "21"
+    ],
+    [
+      "21",
+      "award.award_nominated_work.award_nominations",
+      "m.0gkf2hb"
+    ],
+    [
+      "m.09t2cr_",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.094cpnh"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn5f"
+    ],
+    [
+      "Peter Steinfeld",
+      "film.writer.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.0942sdj"
+    ],
+    [
+      "m.0glbk42",
+      "film.film_regional_release_date.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cz3"
+    ],
+    [
+      "Jeff Ma",
+      "film.film_subject.films",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2csw"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjsblf"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d09"
+    ],
+    [
+      "Dave Sardy",
+      "film.music_contributor.film",
+      "21"
+    ],
+    [
+      "m.09t2cyp",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.production_companies",
+      "Relativity Media"
+    ],
+    [
+      "m.0gjryc8",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.image",
+      "21 Spring 2008 Poster"
+    ],
+    [
+      "21",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjsblk"
+    ],
+    [
+      "21",
+      "film.film.subjects",
+      "Jeff Ma"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas based on contemporary literature"
+    ],
+    [
+      "21",
+      "film.film.genre",
+      "Film adaptation"
+    ],
+    [
+      "21",
+      "film.film.executive_produced_by",
+      "Brett Ratner"
+    ],
+    [
+      "21",
+      "film.film.directed_by",
+      "Robert Luketic"
+    ],
+    [
+      "m.0gjsbly",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.0dglh7_"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.094kg_0"
+    ],
+    [
+      "m.0942sdj",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cw1"
+    ],
+    [
+      "m.09t2cz_",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.estimated_budget",
+      "m.0h17qq4"
+    ],
+    [
+      "Dana Brunetti",
+      "film.producer.film",
+      "21"
+    ],
+    [
+      "m.03q9hn5",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "m.0gjs20q",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "m.0gjrn3l",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.genre",
+      "Action/Adventure"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.02vcn9j"
+    ],
+    [
+      "m.0gjrycx",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "m.094pm7y",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cv5"
+    ],
+    [
+      "21",
+      "base.wfilmbase.film.w_id",
+      "m.0599q60"
+    ],
+    [
+      "m.03q9hls",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjsbl9"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hqj"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas Based on Real Life"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.0941c6c"
+    ],
+    [
+      "m.0gjrycp",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "Francine Maisler",
+      "film.film_casting_director.films_casting_directed",
+      "21"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Crime Dramas"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Gambling Dramas"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hq4"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hqx"
+    ],
+    [
+      "m.09t2crk",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cr_"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.02vd10z"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjryck"
+    ],
+    [
+      "m.0gjs211",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2ct9"
+    ],
+    [
+      "21",
+      "film.film.soundtrack",
+      "21"
+    ],
+    [
+      "m.03q9hqj",
+      "film.performance.film",
+      "21"
+    ],
+    [
+      "m.0gkd1bv",
+      "award.award_nomination.nominated_for",
+      "21"
+    ],
+    [
+      "21",
+      "award.award_nominated_work.award_nominations",
+      "m.0gkd15r"
+    ],
+    [
+      "21",
+      "film.film.produced_by",
+      "Dana Brunetti"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2c_w"
+    ],
+    [
+      "21",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2ctr"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hp9"
+    ],
+    [
+      "m.0gjryck",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjrn2z"
+    ],
+    [
+      "21",
+      "film.film.runtime",
+      "m.045_56c"
+    ],
+    [
+      "m.09t2csf",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.music",
+      "Dave Sardy"
+    ],
+    [
+      "m.0599q60",
+      "base.wfilmbase.siteid.film",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.0cl5tl_"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.03btsn4"
+    ],
+    [
+      "Brett Ratner",
+      "film.producer.films_executive_produced",
+      "21"
+    ],
+    [
+      "m.0947m7t",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas Based on Contemporary Literature"
+    ],
+    [
+      "m.09t2cxt",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.045_56c",
+      "film.film_cut.film",
+      "21"
+    ],
+    [
+      "m.0gjrn44",
+      "film.film_crew_gig.film",
+      "21"
+    ],
+    [
+      "m.09t2cwh",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.09t2cz3",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "m.09t2ctr",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2cyp"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2d21"
+    ],
+    [
+      "m.0glbk47",
+      "film.film_cut.film",
+      "21"
+    ],
+    [
+      "21",
+      "film.film.other_crew",
+      "m.0gjsbly"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.0947m7t"
+    ],
+    [
+      "m.08xfrt6",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas Based on the Book"
+    ],
+    [
+      "m.09t2cw1",
+      "common.webpage.topic",
+      "21"
+    ],
+    [
+      "21",
+      "common.topic.webpage",
+      "m.09t2crk"
+    ],
+    [
+      "21",
+      "film.film.subjects",
+      "MIT Blackjack Team"
+    ],
+    [
+      "21",
+      "film.film.starring",
+      "m.03q9hpr"
+    ],
+    [
+      "Paul Junger Witt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Sam Englebardt",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jason Hall",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Greatest",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Gene McDaniels",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tim Galvin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Premium Rush",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "Griffin and Phoenix",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Andrew Baseman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0glbk42",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Susan E. Morse",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Brett Ratner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Anne Fletcher",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tucker Tooley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0h5s6p8",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "m.0jsmyky",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "A Muppets Christmas: Letters to Santa",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Steve Mirkovich",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0jsn_dg",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Neal Edelstein",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Elliot Graham",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Empire State",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "3 A.M.",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "m.0gl9tc1",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Jennifer Lawrence",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Barry Levy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dave Sardy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Theodore Shapiro",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Woody Harrelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Caroline Kaplan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Shana Feste",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Won’t Back Down",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "John Bailey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Expendables 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Love and Honor",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "When Will I Be Loved",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "James Toback",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Elizabeth Banks",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Rockland County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Ellyn Long Marshall",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "PG-13 (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Jon M. Chu",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0zmt98b",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Galt Niederhoffer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0bck0xl",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "George DeTitta, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Las Vegas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Dana Brunetti",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "The Last Song",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Russell Carpenter",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Step Up 2: The Streets",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Knowing",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0wfxp_7",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Shooting Vegetarians",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Max Malkin",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "After.Life",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ron Rotholz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.country",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ron Rotholz",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "David Koepp",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maggie Renzi",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "R (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Josh Hutchersonm",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "A Muppets Christmas: Letters to Santa",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Neal H. Moritz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Amy Hobby",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "John Sayles",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "The Hunger Games",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mark Johnson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pierce Brosnan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Hunger Games: Catching Fire",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0v_nvvm",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Michael Almereyda",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Allan Loeb",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Muppets' Wizard of Oz",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Carter Burwell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Laura Rosenthal",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "David Bergstein",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Holden Scott",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Anthony Katagas",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Next Big Thing",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Douglas Urbanski",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Duane Adler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Vantage Point",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Shelter",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Hamlet",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Mitchell Amundsen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "John Frizzell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Buried Secrets of M. Night Shyamalan",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Darlene Caamano Loquet",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Catherine Kellner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Karyn Kusama",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Gavin Polone",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Darlene Caamano Loquet",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0w4dg5t",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Muppets",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Branford Marsalis",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cut Bank",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joseph Finder",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "m.0wdp2bg",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "Paranoia",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Happy Here and Now",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Nathaniel Kahn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Las Vegas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Girlfight",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Amir Mokri",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 1",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Alex Garcia",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Paul Williams",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Adam Shankman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "PG (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "Step Up 3D",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jason Loftus",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Sidney Kimmel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Miley Cyrus",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Timeless",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "In the Weeds",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Lenny Kravitz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "John Sloss",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arabian Nights",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Griffin and Phoenix: A Love Story",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Step Up",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cara Silverman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lee Davis",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lenny Kravitz",
+      "music.artist.origin",
+      "United States of America"
+    ],
+    [
+      "Kevin Spacey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Daniel Barnz",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York City"
+    ],
+    [
+      "Ed Stone",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Peter Steinfeld",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jason Blum",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Aaron Zigman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tony Thomas",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Children",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Billy Rovzar",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Parents",
+      "type.property.reverse_property",
+      "Children"
+    ],
+    [
+      "Russell Carpenter",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Mark Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Jennifer Lawrence",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "Micheal Flaherty",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Josh Hutchersonm",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "Parents",
+      "owl#inverseOf",
+      "Children"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Children",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "David Koepp",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Woody Harrelson",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Jennifer Lawrence",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Branford Marsalis",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "William Shakespeare",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Daniel Barnz",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.master_property",
+      "Parents"
+    ],
+    [
+      "Children",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Stuart Ford",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "James Toback",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Linus Sandgren",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tom Williams",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Scott Anderson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Bob Hayward",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jennifer Lawrence",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jason Loftus",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Meredith Milton",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Sarah Green",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Pierce Brosnan",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Allan Loeb",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Nancy Nye",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Emilio Diez Barroso",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Randi Hiller",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Beau St. Clair",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Francine Maisler",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Leonard R. Spears",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "John Bailey",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "John Kamps",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Matthew Lessall",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Andrew Fierberg",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jesse Rosenthal",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Anthony Callie",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jennifer Gibgot",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Amir Mokri",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Josh Hutchersonm",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Chris Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "David Tattersall",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Kirk R. Thatcher",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Steve Mirkovich",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "John Sloss",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Lenny Kravitz",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Stuart Ford",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Robert Luketic",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Theodore Shapiro",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "David Koepp",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Dana Brunetti",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Stuart Baird",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jason Hall",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Neal Edelstein",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Marcelo Del Rio",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Aaron Kaufman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Karyn Kusama",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Carter Burwell",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Allen Liu",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "David Brisbin",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Gary Kosko",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "David Bergstein",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jon M. Chu",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Anthony Katagas",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jason Beckman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Elizabeth Banks",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Caroline Kaplan",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "David S. Greathouse",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Dany Cooper",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Doug Dey",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Mike Macari",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Terri Taylor",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Björn Stein",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "John Sayles",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Carol Silverman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Rusty Smith",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "John Frizzell",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Michael Rauch",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Lynwood Spinks",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Cooper Richey",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Catherine Kellner",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Christophe Beck",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Cherish Magennis",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Hania Robledo",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Micheal Flaherty",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jennifer Gentile",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Paul Haslinger",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Liam Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ford Wheeler",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Erik Feig",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Tucker Tooley",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Branford Marsalis",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ellyn Long Marshall",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Pamela Hirsch",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Christophe Riandee",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Patrick Cady",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Sidney Kimmel",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Patrick Wachsberger",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "William S. Beasley",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Adam Shankman",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Aaron Zigman",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Bradley Schmidt",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Alexandra Milchan",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Pete Travis",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Charley Beal",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Darlene Caamano Loquet",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Craig Hemsworth",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "David Nicksay",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Nadia Lubbe",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Missy Stewart",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Neal H. Moritz",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Sarah Finn",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Lee Davis",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Scott Lambert",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Mari-Jo Winkler",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Amanda Morgan Palmer",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Sam Englebardt",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Woody Harrelson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Maria E. Nelson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Ed Stone",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Kevin Spacey",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jason Colodne",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Tracey A. Doyle",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Paul Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Bill Perkins",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Brin Hill",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Brett Ratner",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Douglas Urbanski",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Russell Carpenter",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ron Schmidt",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Max Malkin",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Amy Hobby",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "James F. Truesdale",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Pat McCorkle",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "William D. Johnson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Måns Mårlind",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Luca Mosca",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Gavin Polone",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Tania Landau",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Paul D. Kelly",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Andrew Marcus",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Myles Nestel",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Devorah Herbert",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jonathan Sehring",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Lynette Howell",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jill Savitt",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Mark Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Callum Greene",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "John de Borman",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Leonie Hemsworth",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Michael Shaw",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Laura Rosenthal",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Anne Fletcher",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Woody Harrelson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jason Colodne",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Maggie Renzi",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Liam Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "William D. Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Bill Perkins",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Måns Mårlind",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Pat McCorkle",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Emilio Diez Barroso",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jason Beckman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Bradley Schmidt",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Max Malkin",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Hania Robledo",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Anthony Callie",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "James Toback",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jennifer Lawrence",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Stuart Baird",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "owl#inverseOf",
+      "People born here"
+    ],
+    [
+      "Paul Haslinger",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "David Koepp",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Theodore Shapiro",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Paul Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Randi Hiller",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "David Nicksay",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "William S. Beasley",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Maria E. Nelson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "David Brisbin",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "John Bailey",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Daniel Barnz",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Alexandra Milchan",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jon M. Chu",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Devorah Herbert",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Tania Landau",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Rusty Smith",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Kirk R. Thatcher",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Luke Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Cooper Richey",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.reverse_property",
+      "People born here"
+    ],
+    [
+      "Steve Mirkovich",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jennifer Gibgot",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Ron Schmidt",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "David Bergstein",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "James F. Truesdale",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Toni Ann Johnson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Michael Rauch",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Aaron Zigman",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Adam Shankman",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Carol Silverman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jason Hall",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Pierce Brosnan",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "John Sayles",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jonathan Sehring",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Scott Lambert",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Ford Wheeler",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Nadia Lubbe",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Tucker Tooley",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Lynwood Spinks",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "People born here",
+      "type.property.master_property",
+      "Place of birth"
+    ],
+    [
+      "Jason Loftus",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Brett Ratner",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Lenny Kravitz",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Stuart Ford",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Josh Hutchersonm",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Chris Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "John Sloss",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Russell Carpenter",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Brin Hill",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Douglas Urbanski",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Charley Beal",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Galt Niederhoffer",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Meredith Milton",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Terri Taylor",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Dana Brunetti",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Carter Burwell",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Callum Greene",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Micheal Flaherty",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Andrew Fierberg",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jennifer Gentile",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Craig Hemsworth",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Elizabeth Banks",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Branford Marsalis",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Pamela Hirsch",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Mari-Jo Winkler",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Christophe Riandee",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Francine Maisler",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Andrew Marcus",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Mark Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "David S. Greathouse",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "William Shakespeare",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Lynette Howell",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jill Savitt",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Mike Macari",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Michael Shaw",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "John Kamps",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Christophe Beck",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Thérèse DePrez",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Patrick Wachsberger",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Ellyn Long Marshall",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Michael Almereyda",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "John de Borman",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Aaron Kaufman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Dany Cooper",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Caroline Kaplan",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "George DeTitta, Jr.",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Anthony Katagas",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Erik Feig",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Myles Nestel",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Anne Fletcher",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Jason Blum",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Sarah Finn",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Nancy Nye",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Luca Mosca",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Sarah Green",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Roman Osin",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Doug Dey",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Gavin Polone",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "John Frizzell",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Celine Rattray",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Sidney Kimmel",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Cara Silverman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Bob Hayward",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Kevin Spacey",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Catherine Kellner",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Björn Stein",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Allan Loeb",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Tracey A. Doyle",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Gary Kosko",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Allen Liu",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Missy Stewart",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Tom Williams",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Ed Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Sam Englebardt",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Amanda Morgan Palmer",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jesse Rosenthal",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Cherish Magennis",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Paul D. Kelly",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Amy Hobby",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Robert Luketic",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Scott Anderson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Neal H. Moritz",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Beau St. Clair",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Marcelo Del Rio",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Leonard R. Spears",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Leonie Hemsworth",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Laura Rosenthal",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Patrick Cady",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Woody Harrelson",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Jason Beckman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mitchell Amundsen",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ron Schmidt",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Steve Mirkovich",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Björn Stein",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Allen Liu",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Brin Hill",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jesse Rosenthal",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Scott Lambert",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Elizabeth Banks",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Scott Anderson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Robert Luketic",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Leonie Hemsworth",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Paul Brooks",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Susan E. Morse",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Dany Cooper",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jennifer Gentile",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Callum Greene",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jonathan Sehring",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Amy Hobby",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Tom Williams",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Tucker Tooley",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Gavin Polone",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Junkie XL",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Deepak Nayar",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John Frizzell",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Missy Stewart",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jason Blum",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Paul D. Kelly",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Doug Dey",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Tattersall",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Koepp",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Celine Rattray",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Myles Nestel",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Michael Almereyda",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Atli Örvarsson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Cooper Richey",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Brisbin",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Christophe Riandee",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Pat McCorkle",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Amir Mokri",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "William Shakespeare",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Michael Shaw",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Thérèse DePrez",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Beau St. Clair",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Andrew Baseman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Craig Hemsworth",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David S. Greathouse",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Leonard R. Spears",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ed Stone",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Neal Edelstein",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Terri Taylor",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Galt Niederhoffer",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Sarah Finn",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ford Wheeler",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Dave Sardy",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Chris Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Lynwood Spinks",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Dana Brunetti",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Randi Hiller",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ron Rotholz",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Maggie Renzi",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Amanda Morgan Palmer",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Sam Englebardt",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Erik Feig",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Nicksay",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mike Macari",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Adam Shankman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jason Loftus",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Pete Travis",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Elliot Graham",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Billy Rovzar",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mark Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Andrew Fierberg",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Emilio Diez Barroso",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Bradley Schmidt",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Anthony Katagas",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Sidney Kimmel",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Douglas Urbanski",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Catherine Kellner",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Meredith Milton",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Michael Rauch",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Allan Loeb",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Sarah Green",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Bill Perkins",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Laura Rosenthal",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Patrick Cady",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Liam Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Tracey A. Doyle",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Maria E. Nelson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Charley Beal",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Carol Silverman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Anthony Callie",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Cherish Magennis",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Matthew Lessall",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Paul Haslinger",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Joseph Finder",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Andrew Marcus",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "William S. Beasley",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Anne Fletcher",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Darlene Caamano Loquet",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Lynette Howell",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Theodore Shapiro",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John Kamps",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Devorah Herbert",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Bob Hayward",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Bergstein",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Marcelo Del Rio",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Christophe Beck",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John de Borman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Duane Adler",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Francine Maisler",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John Bailey",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Pamela Hirsch",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Kirk R. Thatcher",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Caroline Kaplan",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Aaron Zigman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jason Colodne",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "David Julyan",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Rusty Smith",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Russell Carpenter",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Gary Kosko",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jason Hall",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Stuart Baird",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "William D. Johnson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Aaron Kaufman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Niven Howie",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Barry Levy",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Toni Ann Johnson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jennifer Gibgot",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "James F. Truesdale",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Hania Robledo",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Roman Osin",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Måns Mårlind",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jennifer Lawrence",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Tania Landau",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Luca Mosca",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ellyn Long Marshall",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "John Sloss",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Paul Junger Witt",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Micheal Flaherty",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Daniel Barnz",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Cara Silverman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Nancy Nye",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Nadia Lubbe",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Mari-Jo Winkler",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jill Savitt",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Stuart Ford",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Aaron Kaufman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jesse Rosenthal",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "William Shakespeare",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "James Toback",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Theodore Shapiro",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Elizabeth Banks",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Kevin Spacey",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Niven Howie",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Randi Hiller",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jennifer Gibgot",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Russell Carpenter",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Hania Robledo",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Susan E. Morse",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Billy Rovzar",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Christophe Beck",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jason Blum",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Cherish Magennis",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Sidney Kimmel",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Emilio Diez Barroso",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jonathan Sehring",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Chris Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Carter Burwell",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "John Bailey",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michael Shaw",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Missy Stewart",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Aaron Zigman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Catherine Kellner",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Lenny Kravitz",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Brett Ratner",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Deepak Nayar",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Karyn Kusama",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "John Sayles",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Allan Loeb",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Douglas Urbanski",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "David Koepp",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michael Almereyda",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tim Galvin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Charley Beal",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Maggie Renzi",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Stuart Baird",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ford Wheeler",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ed Stone",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Andrew Baseman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Francine Maisler",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Darlene Caamano Loquet",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Beau St. Clair",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jason Loftus",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Paul Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#range",
+      "Gender"
+    ],
+    [
+      "Josh Hutchersonm",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Luke Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Andrew Marcus",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Woody Harrelson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Sarah Finn",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Paul Haslinger",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Måns Mårlind",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Celine Rattray",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Matthew Lessall",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Thérèse DePrez",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "David S. Greathouse",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Dany Cooper",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.expected_type",
+      "Gender"
+    ],
+    [
+      "Laura Rosenthal",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "David Bergstein",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Steve Mirkovich",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Mark Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Adam Shankman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Brin Hill",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Sam Englebardt",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Pierce Brosnan",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Neal H. Moritz",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Roman Osin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Dana Brunetti",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jon M. Chu",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Daniel Barnz",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Doug Dey",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Sarah Green",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tucker Tooley",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michael Rauch",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "William D. Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Erik Feig",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Robert Luketic",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Stuart Ford",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "David Nicksay",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Liam Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Caroline Kaplan",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tracey A. Doyle",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Devorah Herbert",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Galt Niederhoffer",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Björn Stein",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Myles Nestel",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Bob Hayward",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "David Brisbin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Lynette Howell",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Patrick Wachsberger",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Anthony Katagas",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Linus Sandgren",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Duane Adler",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Patrick Cady",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "John Sloss",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jennifer Lawrence",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "David Tattersall",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Branford Marsalis",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "John de Borman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Max Malkin",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Anne Fletcher",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ron Hartenbaum",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Obstructive sleep apnea",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Hirschsprung's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Burn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Benign prostatic hyperplasia"
+    ],
+    [
+      "Inguinal hernia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Burn",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Gale Hawthorne",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Stuttering",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Attention deficit hyperactivity disorder"
+    ],
+    [
+      "Shadow Figure",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Alcohol abuse"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "neilplus's types"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.07n73w_"
+    ],
+    [
+      "Phone Trick",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Lenny Kravitz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Julyan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0d521lm",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Stuart Baird",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hirschsprung's disease"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrvl"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Bladder cancer"
+    ],
+    [
+      "Bob Hayward",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Autism"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_1x1x"
+    ],
+    [
+      "Liver tumour",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "William Shakespeare",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "m.0kfyrvl",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Mitchell Amundsen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hypospadias",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Myocardial Ischemia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Michael Almereyda",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Corneal abrasion",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64rh"
+    ],
+    [
+      "Luca Mosca",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pyloric stenosis"
+    ],
+    [
+      "Ed Stone",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kawasaki disease"
+    ],
+    [
+      "Actinic keratosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0d5218t",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Jason Beckman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0bm6pqb",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Bradley Schmidt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kevin Spacey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Brisbin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Koepp",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ford Wheeler",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Inguinal hernia"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Callum Greene",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Max Malkin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Meningococcal disease"
+    ],
+    [
+      "Scott Anderson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul Haslinger",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Billy Rovzar",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Linus Sandgren",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Transient ischemic attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Retroperitoneal fibrosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Roman Osin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alexander Ludwig",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Neal Edelstein",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andrew Fierberg",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gastritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Vive Targi Kielce",
+      "sports.sports_team.gender",
+      "Male"
+    ],
+    [
+      "m.0blp5sr",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Charley Beal",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ron Rotholz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pete Travis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Bailey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsy"
+    ],
+    [
+      "Emilio Diez Barroso",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Carter Burwell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tony Thomas",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.article",
+      "m.05zpq8"
+    ],
+    [
+      "Emphysema",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Antisocial personality disorder"
+    ],
+    [
+      "Micheal Flaherty",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Joseph Finder",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Antisocial personality disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0d522bn",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Hodgkin's lymphoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Michael Cooney",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chris Hemsworth",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael Rauch",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrw1"
+    ],
+    [
+      "Tucker Tooley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Elliot Graham",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Holden Scott",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tim Galvin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Male"
+    ],
+    [
+      "Branford Marsalis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0zm9_69",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Daniel Barnz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lm"
+    ],
+    [
+      "Sam Englebardt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Golfer's elbow"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrt3"
+    ],
+    [
+      "David Nicksay",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.04j64q8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Ali Baba",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Woody Harrelson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.05bvjy3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Non-Hodgkin lymphoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "John Sayles",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Allan Loeb",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actor"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sr"
+    ],
+    [
+      "William S. Beasley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Allen Liu",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pqb"
+    ],
+    [
+      "Pyloric stenosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Russell Carpenter",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "male.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Male"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218t"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney cancer"
+    ],
+    [
+      "neilplus's types",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Gavin Polone",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Jonathan Sehring",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael Shaw",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Parkinson's disease"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Shadow Figure"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Urethritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "m.04j647l",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Acute myeloid leukemia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ventricular tachycardia"
+    ],
+    [
+      "Tom Williams",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.02_98hd",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Leonard R. Spears",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andrew Baseman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Neal H. Moritz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David S. Greathouse",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Erik Feig",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.02_1x1x",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Golfer's elbow",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Club foot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckn4"
+    ],
+    [
+      "John Sloss",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Richard Mento",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Scott Lambert",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.04j64rh",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "m.05cckn4",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Leprosy"
+    ],
+    [
+      "Aaron Zigman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Males",
+      "base.skosbase.skos_concept.equivalent_topic",
+      "Male"
+    ],
+    [
+      "Junkie XL",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Patrick Cady",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Jesse Rosenthal",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hypospadias"
+    ],
+    [
+      "Myles Nestel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Anthony Callie",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul D. Kelly",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sidney Kimmel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gary Kosko",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alex Garcia",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John de Borman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Tattersall",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urethritis"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_69"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_98hd"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Barrett's esophagus"
+    ],
+    [
+      "Lee Davis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvklm"
+    ],
+    [
+      "George DeTitta, Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nephrotic syndrome",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Atli Örvarsson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Ankylosing spondylitis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Craig Hemsworth",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Syphilis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Cooper Richey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stuart Ford",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Barrett's esophagus",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_4"
+    ],
+    [
+      "Jason Loftus",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0gxvv0q",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Doug Dey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0h"
+    ],
+    [
+      "Andrew Marcus",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bill Perkins",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0gxvv0h",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Josh Hutchersonm",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Rusty Smith",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gideon Ponte",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Acute myeloid leukemia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Mike Macari",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ectodermal dysplasia"
+    ],
+    [
+      "Kidney Stone",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pectus excavatum"
+    ],
+    [
+      "SFX Award for Best Actor",
+      "award.award_category.disciplines_or_subjects",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Jason Colodne",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0hzxnsy",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Kirk R. Thatcher",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alcohol abuse",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Duane Adler",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Matthew Lessall",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "James F. Truesdale",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bn"
+    ],
+    [
+      "Gene McDaniels",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jeff Ma",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrw1",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Jon M. Chu",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Niven Howie",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Autism",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Brett Ratner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Urolithiasis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Amyotrophic lateral sclerosis"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Meningococcal disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0gxvt_4",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrv7"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Dupuytren's contracture"
+    ],
+    [
+      "Douglas Urbanski",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Jason Blum",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marcelo Del Rio",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0q"
+    ],
+    [
+      "Nicholas Erasmus",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64q8"
+    ],
+    [
+      "William D. Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Barry Levy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Peter Steinfeld",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Club foot"
+    ],
+    [
+      "Luke Hemsworth",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Paget's disease of bone"
+    ],
+    [
+      "m.0kfyrt3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Actinic keratosis"
+    ],
+    [
+      "Benign prostatic hyperplasia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.02zd4tr",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Liver tumour"
+    ],
+    [
+      "Male",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Males"
+    ],
+    [
+      "Male",
+      "common.topic.image",
+      "male.jpg"
+    ],
+    [
+      "Douglas Kuber",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Male"
+    ],
+    [
+      "Måns Mårlind",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.07n73w_",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Dana Brunetti",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Patrick Wachsberger",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "sports.sports_gender.sports_teams",
+      "Vive Targi Kielce"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02zd4tr"
+    ],
+    [
+      "Gout",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Dave Sardy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ectodermal dysplasia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Anaplastic thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Ventricular tachycardia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Paul Williams",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mark Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Steve Mirkovich",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "m.0kfyrv7",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Christophe Riandee",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pierce Brosnan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkm6"
+    ],
+    [
+      "Christophe Beck",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney Stone"
+    ],
+    [
+      "P.J. Posner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Frizzell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gastritis"
+    ],
+    [
+      "John Kamps",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dupuytren's contracture",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0blp580",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk3z"
+    ],
+    [
+      "James Toback",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Massimo Zanini",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Björn Stein",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Anaplastic thyroid cancer"
+    ],
+    [
+      "Pectus excavatum",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Paul Junger Witt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Phone Trick"
+    ],
+    [
+      "Nathaniel Kahn",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Male",
+      "common.topic.notable_for",
+      "g.1255p_jgc"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.09td39b"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Sebaceous cyst"
+    ],
+    [
+      "David Bergstein",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stuttering"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Emphysema"
+    ],
+    [
+      "m.04mmfr8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Robert Luketic",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Corneal abrasion"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Leprosy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Esophageal cancer"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__g"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Tetralogy of Fallot"
+    ],
+    [
+      "Non-gonococcal urethritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Theodore Shapiro",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urolithiasis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Aaron Kaufman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp580"
+    ],
+    [
+      "Male",
+      "base.schemastaging.context_name.pronunciation",
+      "m.011sf4j6"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "Massimo Zanini"
+    ],
+    [
+      "Jason Hall",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tetralogy of Fallot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Paul Brooks",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Liam Hemsworth",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04mmfr8"
+    ],
+    [
+      "Brin Hill",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Amir Mokri",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Athlete's foot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Mickey Wright",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.05bvk3z",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Sebaceous cyst",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Deepak Nayar",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjy3"
+    ],
+    [
+      "Marcello Zavros",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.05bvkm6",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.0j7v__g",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j647l"
+    ],
+    [
+      "m.05bvklm",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Ron Schmidt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Adam Shankman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.09td39b",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Anthony Katagas",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "Christophe Beck",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jason Colodne",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Cherish Magennis",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "John Frizzell",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Paul Haslinger",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "William S. Beasley",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Amanda Morgan Palmer",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Carter Burwell",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Pierce Brosnan",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Cooper Richey",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Sarah Finn",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jennifer Gibgot",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Elizabeth Banks",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Bill Perkins",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Branford Marsalis",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Scott Lambert",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jason Hall",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Mari-Jo Winkler",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Susan E. Morse",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Beau St. Clair",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Kirk R. Thatcher",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "John Bailey",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Lenny Kravitz",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Woody Harrelson",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Mike Macari",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Thérèse DePrez",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Måns Mårlind",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "David S. Greathouse",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "John Sayles",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Carol Silverman",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Charley Beal",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "James Toback",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jonathan Sehring",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Missy Stewart",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Dana Brunetti",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Roman Osin",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Matthew Lessall",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "William D. Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Celine Rattray",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Andrew Marcus",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Toni Ann Johnson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "David Brisbin",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Ford Wheeler",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Douglas Urbanski",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jason Beckman",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Patrick Wachsberger",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Nancy Nye",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Luke Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Andrew Fierberg",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Rusty Smith",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Hania Robledo",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Lynwood Spinks",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Devorah Herbert",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Tucker Tooley",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Micheal Flaherty",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Gary Kosko",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Michael Rauch",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "John Kamps",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Galt Niederhoffer",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Pamela Hirsch",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jennifer Gentile",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Erik Feig",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Sidney Kimmel",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Aaron Kaufman",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Meredith Milton",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jason Loftus",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Terri Taylor",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "David Nicksay",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Russell Carpenter",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Allen Liu",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Brin Hill",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Michael Shaw",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Caroline Kaplan",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jennifer Lawrence",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Patrick Cady",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "David Bergstein",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Christophe Riandee",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Pat McCorkle",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Sam Englebardt",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Paul Williams",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Darlene Caamano Loquet",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Tom Williams",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Liam Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Stuart Baird",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Francine Maisler",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jon M. Chu",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Emilio Diez Barroso",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Myles Nestel",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Maria E. Nelson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "David Koepp",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Kevin Spacey",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Stuart Ford",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Allan Loeb",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Tracey A. Doyle",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Max Malkin",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jill Savitt",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Doug Dey",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Anne Fletcher",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "William Shakespeare",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Miley Cyrus",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Adam Shankman",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Alexandra Milchan",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Chris Hemsworth",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Bradley Schmidt",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Mark Johnson",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Sarah Green",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Luca Mosca",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Michael Almereyda",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Anthony Callie",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Neal H. Moritz",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Aaron Zigman",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ron Schmidt",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Brett Ratner",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jason Blum",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Theodore Shapiro",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "James F. Truesdale",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Catherine Kellner",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Robert Luketic",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Daniel Barnz",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Marcelo Del Rio",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jesse Rosenthal",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Randi Hiller",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Josh Hutchersonm",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Leonard R. Spears",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Bob Hayward",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Scott Anderson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Nadia Lubbe",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Tania Landau",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Paul D. Kelly",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Callum Greene",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "John Sloss",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "m.094cpnh",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "m.08xfrtr",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Francine Maisler",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Las Vegas",
+      "location.hud_county_place.place",
+      "Las Vegas"
+    ],
+    [
+      "m.094pm7y",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Kevin Spacey",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Kevin Spacey",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "m.02vcy8d",
+      "film.performance.actor",
+      "Kevin Spacey"
+    ],
+    [
+      "Kevin Spacey",
+      "film.actor.film",
+      "m.02vcy8d"
+    ],
+    [
+      "Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions",
+      "book.written_work.author",
+      "Holden Scott"
+    ],
+    [
+      "Holden Scott",
+      "book.author.works_written",
+      "Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions"
+    ],
+    [
+      "Jeff Ma",
+      "film.actor.film",
+      "m.03q9hmm"
+    ],
+    [
+      "m.03q9hmm",
+      "film.performance.actor",
+      "Jeff Ma"
+    ],
+    [
+      "Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Jeff Ma",
+      "book.book_subject.works",
+      "Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions"
+    ],
+    [
+      "Bringing Down the House: The Inside Story of Six MIT Students Who Took Vegas for Millions",
+      "book.written_work.subjects",
+      "Jeff Ma"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "film.producer.film",
+      "Timeless"
+    ],
+    [
+      "Timeless",
+      "film.film.produced_by",
+      "Ryan Kavanaugh"
+    ],
+    [
+      "Paranoia",
+      "film.film.executive_produced_by",
+      "Ryan Kavanaugh"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "film.producer.films_executive_produced",
+      "Paranoia"
+    ],
+    [
+      "Ryan Kavanaugh",
+      "organization.organization_founder.organizations_founded",
+      "Relativity Media"
+    ],
+    [
+      "Relativity Media",
+      "organization.organization.founders",
+      "Ryan Kavanaugh"
+    ],
+    [
+      "m.09vqkg7",
+      "freebase.valuenotation.has_value",
+      "Award Nominee"
+    ],
+    [
+      "Missy Stewart",
+      "film.film_production_designer.films_production_designed",
+      "Paranoia"
+    ],
+    [
+      "Missy Stewart",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Paranoia",
+      "film.film.film_production_design_by",
+      "Missy Stewart"
+    ],
+    [
+      "m.0z9drr3",
+      "award.award_nomination.award",
+      "Teen Choice Award for Choice Movie Breakout Star - Male"
+    ],
+    [
+      "Teen Choice Award for Choice Movie Breakout Star - Male",
+      "award.award_category.nominees",
+      "m.0z9drr3"
+    ],
+    [
+      "m.094jldn",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Sequel",
+      "rdf-schema#range",
+      "Film"
+    ],
+    [
+      "The Muppets' Wizard of Oz",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Sequel",
+      "type.property.expected_type",
+      "Film"
+    ],
+    [
+      "Costume Design for Film",
+      "rdf-schema#range",
+      "Film"
+    ],
+    [
+      "The Buried Secrets of M. Night Shyamalan",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Personal appearances"
+    ],
+    [
+      "Trailers",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Knowing",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.domain.types",
+      "Film"
+    ],
+    [
+      "Costume design by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film Series",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Sequel"
+    ],
+    [
+      "Prequel",
+      "rdf-schema#range",
+      "Film"
+    ],
+    [
+      "Shooting Vegetarians",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Sequel",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.property.expected_type",
+      "Film"
+    ],
+    [
+      "Film costumer designer",
+      "type.type.domain",
+      "Film"
+    ],
+    [
+      "Initial release date",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.expected_by",
+      "Costume Design for Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Directed by"
+    ],
+    [
+      "Vantage Point",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Story by"
+    ],
+    [
+      "Arabian Nights",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Prequel",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "The Greatest",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Trailers",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Trailers"
+    ],
+    [
+      "Directed by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Story by",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Sequel",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Personal appearances",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "The Next Big Thing",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Featured Song",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Shelter",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Prequel",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Paranoia",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Hamlet",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Muppets",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 2",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Costume Design for Film",
+      "type.property.expected_type",
+      "Film"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 1",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Story by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Step Up 2: The Streets",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Premium Rush",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "In the Weeds",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Girlfight",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "m.0ztqx48",
+      "freebase.valuenotation.is_reviewed",
+      "Film"
+    ],
+    [
+      "Film",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Personal appearances",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Featured Song"
+    ],
+    [
+      "Film",
+      "type.type.expected_by",
+      "Sequel"
+    ],
+    [
+      "Griffin and Phoenix: A Love Story",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Timeless",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Griffin and Phoenix",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "The Expendables 2",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.domain",
+      "Film"
+    ],
+    [
+      "Triangle",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Directed by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "After.Life",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Aurora Rising",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "3 A.M.",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Costume design by"
+    ],
+    [
+      "Love and Honor",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Film Series"
+    ],
+    [
+      "Film",
+      "rdf-schema#range",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.expected_by",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.expected_by",
+      "Prequel"
+    ],
+    [
+      "Step Up 3D",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Costume design by",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film Series",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Initial release date"
+    ],
+    [
+      "When Will I Be Loved",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Initial release date",
+      "rdf-schema#domain",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.domain.types",
+      "Film costumer designer"
+    ],
+    [
+      "Film",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Prequel",
+      "type.property.expected_type",
+      "Film"
+    ],
+    [
+      "Cut Bank",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Happy Here and Now",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Featured Song",
+      "type.property.schema",
+      "Film"
+    ],
+    [
+      "Film",
+      "type.type.properties",
+      "Prequel"
+    ],
+    [
+      "Empire State",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "m.0cl5tl_",
+      "common.webpage.in_index",
+      "Blissful Celebrities"
+    ],
+    [
+      "m.0cl5tl_",
+      "common.webpage.category",
+      "Curated Topic"
+    ],
+    [
+      "m.0cl5tl_",
+      "common.webpage.in_index",
+      "Blissful Master Index"
+    ],
+    [
+      "m.094gqzh",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "The Muppets",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Hunger Games: Catching Fire",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "3 A.M.",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Last Song",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Hunger Games",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Expendables 2",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Initial release date",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Premium Rush",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Initial release date",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Cut Bank",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 2",
+      "freebase.valuenotation.is_reviewed",
+      "Initial release date"
+    ],
+    [
+      "Crime Fiction",
+      "media_common.media_genre.child_genres",
+      "Crime Thriller"
+    ],
+    [
+      "Happy Here and Now",
+      "film.film.genre",
+      "Crime Fiction"
+    ],
+    [
+      "Vantage Point",
+      "film.film.genre",
+      "Crime Fiction"
+    ],
+    [
+      "Crime Thriller",
+      "media_common.media_genre.parent_genre",
+      "Crime Fiction"
+    ],
+    [
+      "Premium Rush",
+      "film.film.genre",
+      "Crime Fiction"
+    ],
+    [
+      "3 A.M.",
+      "film.film.genre",
+      "Crime Fiction"
+    ],
+    [
+      "Step Up",
+      "film.film.genre",
+      "Crime Fiction"
+    ],
+    [
+      "Paranoia",
+      "film.film.executive_produced_by",
+      "William S. Beasley"
+    ],
+    [
+      "William S. Beasley",
+      "film.producer.films_executive_produced",
+      "Paranoia"
+    ],
+    [
+      "Griffin and Phoenix",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Girlfight",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Won’t Back Down",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Romance Film",
+      "media_common.media_genre.parent_genre",
+      "Drama"
+    ],
+    [
+      "Happy Here and Now",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Last Song",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Timeless",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "When Will I Be Loved",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Hamlet",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "The Greatest",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Girlfight",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Love and Honor",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Knowing",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Step Up 3D",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Empire State",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Step Up",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Hamlet",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Griffin and Phoenix",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Drama",
+      "media_common.media_genre.child_genres",
+      "Romance Film"
+    ],
+    [
+      "When Will I Be Loved",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Step Up 2: The Streets",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Step Up 2: The Streets",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "After.Life",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Step Up 3D",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Vantage Point",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Last Song",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Step Up",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Comedy",
+      "base.kinometric.genre.incompatible_genres",
+      "Drama"
+    ],
+    [
+      "Drama",
+      "base.kinometric.genre.incompatible_genres",
+      "Comedy"
+    ],
+    [
+      "Arabian Nights",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "Griffin and Phoenix: A Love Story",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "The Greatest",
+      "media_common.netflix_title.netflix_genres",
+      "Drama"
+    ],
+    [
+      "Paranoia",
+      "film.film.genre",
+      "Drama"
+    ],
+    [
+      "m.08xfrt6",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Branford Marsalis",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "After.Life",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Griffin and Phoenix: A Love Story",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Miley Cyrus",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "The Last Song",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Arabian Nights",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Griffin and Phoenix",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Girlfight",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Cut Bank",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Muppets",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Expendables 2",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Next Big Thing",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "3 A.M.",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Vantage Point",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Tim Galvin",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "The Hunger Games",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Australia"
+    ],
+    [
+      "Pierce Brosnan",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Premium Rush",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "In the Weeds",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Timeless",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Love and Honor",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Step Up",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Australia",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "A Muppets Christmas: Letters to Santa",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "When Will I Be Loved",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Muppets' Wizard of Oz",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Happy Here and Now",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Step Up 2: The Streets",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Shooting Vegetarians",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "A Muppets Christmas: Letters to Santa",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Hunger Games: Catching Fire",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 1",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "William Shakespeare",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Hamlet",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Triangle",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Step Up 3D",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Australia"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 1",
+      "film.film.primary_language",
+      "English Language"
+    ],
+    [
+      "The Elephant Princess",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Buried Secrets of M. Night Shyamalan",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Paranoia",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Hamlet",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Won’t Back Down",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 2",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Knowing",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Greatest",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Australians",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Empire State",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "George DeTitta, Jr.",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Shelter",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "The Next Big Thing"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Step Up 2: The Streets"
+    ],
+    [
+      "Vantage Point",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "3 A.M.",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Hamlet"
+    ],
+    [
+      "After.Life",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Premium Rush"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "When Will I Be Loved"
+    ],
+    [
+      "The Buried Secrets of M. Night Shyamalan",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Step Up 2: The Streets",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Shelter",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Happy Here and Now",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "A Muppets Christmas: Letters to Santa",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Girlfight"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Griffin and Phoenix"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Vantage Point"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "The Buried Secrets of M. Night Shyamalan"
+    ],
+    [
+      "The Greatest",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "people.person.profession",
+      "Costume designer"
+    ],
+    [
+      "Shooting Vegetarians",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "common.topic.notable_types",
+      "Film costumer designer"
+    ],
+    [
+      "Luca Mosca",
+      "common.topic.notable_for",
+      "g.1258m_k1x"
+    ],
+    [
+      "In the Weeds",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "3 A.M."
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Won’t Back Down"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Shelter"
+    ],
+    [
+      "When Will I Be Loved",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Hamlet",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "common.topic.article",
+      "m.09tmbz5"
+    ],
+    [
+      "Premium Rush",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Happy Here and Now"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Shooting Vegetarians"
+    ],
+    [
+      "Paranoia",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "After.Life"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "Paranoia"
+    ],
+    [
+      "Griffin and Phoenix",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "The Greatest"
+    ],
+    [
+      "The Next Big Thing",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Won’t Back Down",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "In the Weeds"
+    ],
+    [
+      "Luca Mosca",
+      "film.film_costumer_designer.costume_design_for_film",
+      "A Muppets Christmas: Letters to Santa"
+    ],
+    [
+      "Girlfight",
+      "film.film.costume_design_by",
+      "Luca Mosca"
+    ],
+    [
+      "The Muppets",
+      "film.film.film_set_decoration_by",
+      "Tracey A. Doyle"
+    ],
+    [
+      "Tracey A. Doyle",
+      "film.film_set_designer.film_sets_designed",
+      "The Muppets"
+    ],
+    [
+      "Tracey A. Doyle",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.0941c6c",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "m.094kg_0",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Hamlet",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas based on a book"
+    ],
+    [
+      "Paranoia",
+      "film.film.directed_by",
+      "Robert Luketic"
+    ],
+    [
+      "Robert Luketic",
+      "freebase.valuenotation.has_value",
+      "Siblings"
+    ],
+    [
+      "Robert Luketic",
+      "people.person.nationality",
+      "Australia"
+    ],
+    [
+      "Robert Luketic",
+      "film.director.film",
+      "Paranoia"
+    ],
+    [
+      "Griffin and Phoenix",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Paranoia",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Premium Rush",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Step Up 2: The Streets",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "The Hunger Games: Catching Fire",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Love and Honor",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Vantage Point",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Step Up",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "The Hunger Games",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Knowing",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "Step Up 3D",
+      "film.film.rating",
+      "PG-13 (USA)"
+    ],
+    [
+      "m.0gkf2hb",
+      "freebase.valuenotation.has_value",
+      "Award Nominee"
+    ],
+    [
+      "m.0942sdj",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Premium Rush",
+      "film.film.music",
+      "Dave Sardy"
+    ],
+    [
+      "Dave Sardy",
+      "film.music_contributor.film",
+      "Premium Rush"
+    ],
+    [
+      "m.0mzp8rj",
+      "film.film_film_distributor_relationship.distributor",
+      "Relativity Media"
+    ],
+    [
+      "Vantage Point",
+      "film.film.production_companies",
+      "Relativity Media"
+    ],
+    [
+      "Relativity Media",
+      "film.film_distributor.films_distributed",
+      "m.0mzp8rj"
+    ],
+    [
+      "The Last Song",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas based on contemporary literature"
+    ],
+    [
+      "Brett Ratner",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Premium Rush",
+      "media_common.netflix_title.netflix_genres",
+      "Action/Adventure"
+    ],
+    [
+      "Action Film",
+      "media_common.media_genre.child_genres",
+      "Action/Adventure"
+    ],
+    [
+      "The Hunger Games",
+      "media_common.netflix_title.netflix_genres",
+      "Action/Adventure"
+    ],
+    [
+      "Action/Adventure",
+      "media_common.media_genre.parent_genre",
+      "Action Film"
+    ],
+    [
+      "Hamlet",
+      "media_common.netflix_title.netflix_genres",
+      "Crime Dramas"
+    ],
+    [
+      "Happy Here and Now",
+      "media_common.netflix_title.netflix_genres",
+      "Crime Dramas"
+    ],
+    [
+      "m.0947m7t",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "The Hunger Games: Mockingjay, Part 2",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Premium Rush",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Hunger Games: Catching Fire",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Hunger Games",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Last Song",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "Cut Bank",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Expendables 2",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Muppets",
+      "freebase.valuenotation.is_reviewed",
+      "Directed by"
+    ],
+    [
+      "The Last Song",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas Based on Contemporary Literature"
+    ],
+    [
+      "The Last Song",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas Based on the Book"
+    ],
+    [
+      "Hamlet",
+      "media_common.netflix_title.netflix_genres",
+      "Dramas Based on the Book"
+    ]
+  ]
+}

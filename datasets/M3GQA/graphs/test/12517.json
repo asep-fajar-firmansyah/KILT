@@ -1,0 +1,5340 @@
+{
+  "graph_id": 12517,
+  "subgraph": [
+    [
+      "Lessons of Darkness",
+      "film.film.featured_film_locations",
+      "Kuwait"
+    ],
+    [
+      "m.0bhdrfq",
+      "military.military_combatant_group.combatants",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "military.military_combatant.military_conflicts",
+      "m.0bhdrfq"
+    ],
+    [
+      "Kuwait",
+      "location.location.contains",
+      "Kuwait City"
+    ],
+    [
+      "Gulf War air campaign",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Operation Vigilant Sentinel",
+      "base.culturalevent.event.entity_involved",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.country.capital",
+      "Kuwait City"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Gulf War air campaign"
+    ],
+    [
+      "Gulf War",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "m.010fzjcr",
+      "government.government_position_held.jurisdiction_of_office",
+      "Kuwait"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Kuwait"
+    ],
+    [
+      "m.0bhfh_s",
+      "military.military_combatant_group.combatants",
+      "Kuwait"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.person.nationality",
+      "Kuwait"
+    ],
+    [
+      "Kuwait City",
+      "location.location.containedby",
+      "Kuwait"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "Kuwait"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.deceased_person.place_of_death",
+      "Kuwait"
+    ],
+    [
+      "m.0bhfn0d",
+      "military.military_combatant_group.combatants",
+      "Kuwait"
+    ],
+    [
+      "m.010fzj05",
+      "government.government_position_held.jurisdiction_of_office",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010fzjcr"
+    ],
+    [
+      "Kuwait",
+      "film.film_location.featured_in_films",
+      "Lessons of Darkness"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.person.place_of_birth",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010fzj05"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Kuwait"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "base.culturalevent.event.entity_involved",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "military.military_combatant.military_conflicts",
+      "m.0bhfn0d"
+    ],
+    [
+      "Kuwait",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Kuwait",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Kuwait Times"
+    ],
+    [
+      "Palestinian expulsion from Kuwait",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Air engagements of the Gulf War"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Unification of Saudi Arabia"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Gulf War"
+    ],
+    [
+      "Kuwait",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Kuwait"
+    ],
+    [
+      "Battle of Failaka",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Battle of the Bridges",
+      "base.culturalevent.event.entity_involved",
+      "Kuwait"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Invasion of Kuwait"
+    ],
+    [
+      "Kuwait",
+      "military.military_combatant.military_conflicts",
+      "m.0bhg03z"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.nationality",
+      "Kuwait"
+    ],
+    [
+      "Invasion of Kuwait",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Invasion of Kuwait",
+      "base.culturalevent.event.entity_involved",
+      "Kuwait"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Battle of Failaka",
+      "base.culturalevent.event.entity_involved",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Kuwait",
+      "military.military_combatant.military_conflicts",
+      "m.0bhfh_s"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Battle of Failaka"
+    ],
+    [
+      "Battle of the Bridges",
+      "time.event.locations",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Battle of Dasman Palace"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Palestinian expulsion from Kuwait"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Liberation of Kuwait campaign"
+    ],
+    [
+      "Kuwait",
+      "location.location.contains",
+      "Bubiyan Island"
+    ],
+    [
+      "m.0bhg03z",
+      "military.military_combatant_group.combatants",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Kuwait"
+    ],
+    [
+      "Kuwait",
+      "location.location.events",
+      "Battle of the Bridges"
+    ],
+    [
+      "Kuwait",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Kuwait City",
+      "location.location.contains",
+      "Jaber Al-Ahmad International Stadium"
+    ],
+    [
+      "Kuwait City",
+      "location.location.events",
+      "Highway of Death"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.deceased_person.place_of_death",
+      "Kuwait City"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.place_of_birth",
+      "Kuwait City"
+    ],
+    [
+      "Kuwait City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Kuwait Times"
+    ],
+    [
+      "Highway of Death",
+      "time.event.locations",
+      "Kuwait City"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "2007 Iranian seizure of Royal Navy personnel"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Se Dandan"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Umm al Maradim Island"
+    ],
+    [
+      "Operation Earnest Will",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Persian–Portuguese war"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Al Qaffāy"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Miskan Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Persian Gulf campaign of 1809"
+    ],
+    [
+      "Arzanah Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx3yl"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.adjoin_s",
+      "m.05mf3gv"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Seizure of Abu Musa and the Greater and Lesser Tunbs"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Qabre Nakhoda Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Ommolkorm Island"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.article",
+      "m.06628"
+    ],
+    [
+      "Qeshm",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.geolocation",
+      "m.02_j8k7"
+    ],
+    [
+      "Persian Gulf",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Kuwait Times"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_nt3b4"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.webpage",
+      "m.09wv8ft"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Umm Jinni"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Warbah Island"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx3n1"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Shomali Island"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.webpage",
+      "m.0b45xfp"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Jonobi Island"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx2bl"
+    ],
+    [
+      "Persian Gulf campaign of 1809",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Sir Abu Nu’ayr"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "2004 Iranian seizure of Royal Navy personnel"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Bubiyan Island"
+    ],
+    [
+      "Saadiyat Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Auhah Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Arabi Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Hormuz Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Failaka Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.geographical_feature.category",
+      "Sea"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Das Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Larak Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Sirri Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Rubud Al Gharbiyah"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Muharraq Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Operation Vigilant Sentinel"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Qaruh Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Sheikh Shoeyb Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.time_zones",
+      "Gulf Time Zone"
+    ],
+    [
+      "Operation Prime Chance",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.time_zones",
+      "Iran Time Zone"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Shatvar Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Umm Kharūrah"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.notable_types",
+      "Body Of Water"
+    ],
+    [
+      "Bombing of Iraq",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Ottoman campaign against Hormuz"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx4mn"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx5wd"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Shif Island"
+    ],
+    [
+      "Operation Morvarid",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "g.1212gr9m"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Operation Nimble Archer"
+    ],
+    [
+      "m.0b45xfp",
+      "common.webpage.topic",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Yas Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Operation Praying Mantis"
+    ],
+    [
+      "m.07nfptk",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Persian Gulf"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Persian Gulf"
+    ],
+    [
+      "Abu Musa",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx6qw"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Shidvar Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Arzanah Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Nakhiloo Island"
+    ],
+    [
+      "Muharraq Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.image",
+      "Persian Gulf - Persian Gulf from space"
+    ],
+    [
+      "m.09wysgp",
+      "common.webpage.topic",
+      "Persian Gulf"
+    ],
+    [
+      "m.09wj5vr",
+      "common.webpage.topic",
+      "Persian Gulf"
+    ],
+    [
+      "m.09wv8ft",
+      "common.webpage.topic",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.adjoin_s",
+      "m.02wk357"
+    ],
+    [
+      "Gulf War",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Kubbar Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Qatari–Bahraini War"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx6z8"
+    ],
+    [
+      "Persian Gulf",
+      "base.scubadiving.ecoregion.contained_by",
+      "Somali / Arabian"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "As Smmaliyyah Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Operation Prime Chance"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Rostam Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Gulf War"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Smaller Bent Island"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx6gq"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.notable_for",
+      "g.125b58hfb"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Sas An Nakhl Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Saadiyat Island"
+    ],
+    [
+      "Kish",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Battle of Qurah and Umm al Maradim"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Iran–Iraq War"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Al Reem Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Umm as Sabaan"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Battle of Bubiyan"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Abadan Island"
+    ],
+    [
+      "Tarout Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.geographical_feature.category",
+      "Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Bombing of Iraq"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Buneh Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Jidda Island"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx65b"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.bridges",
+      "Persian Gulf Bridge"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Suwād al Janūbīyah"
+    ],
+    [
+      "m.02wk357",
+      "location.adjoining_relationship.adjoins",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Forur Bozorg Island"
+    ],
+    [
+      "Minoo Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Forurgan Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Lavan Island"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx1n5"
+    ],
+    [
+      "m.09ybf3g",
+      "common.webpage.topic",
+      "Persian Gulf"
+    ],
+    [
+      "m.05mf3gv",
+      "location.adjoining_relationship.adjoins",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Operation Earnest Will"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Cruise missile strikes on Iraq"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Muhazwarah"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Germ Island"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.webpage",
+      "m.09wysgp"
+    ],
+    [
+      "Das Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Faror island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Kish"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Abbasak"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Kharg Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Kharku Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Abu Musa"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Action of 1 February 1625"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.webpage",
+      "m.09wj5vr"
+    ],
+    [
+      "Operation Vigilant Sentinel",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Abadan Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Tarout Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Hengam Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Farsi Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Operation Morvarid"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Nabih Saleh"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "USS Stark Attack"
+    ],
+    [
+      "Cruise missile strikes on Iraq",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Omolkarm Island"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Umm an Nasan"
+    ],
+    [
+      "Operation Praying Mantis",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "USS Stark Attack",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Dara Island"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.events",
+      "Operation Desert Thunder"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Ajirah"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.image",
+      "Persian Gulf map"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Qeshm"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx37z"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Umm an Namil Island"
+    ],
+    [
+      "Persian Gulf",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfptk"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Abu Dhabi island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Dalma"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Hendurabi"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx47c"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Sir Bani Yas"
+    ],
+    [
+      "Persian Gulf",
+      "common.topic.webpage",
+      "m.09ybf3g"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Polour"
+    ],
+    [
+      "Sea",
+      "geography.geographical_feature_category.features",
+      "Persian Gulf"
+    ],
+    [
+      "Battle of Bubiyan",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Geography of Bahrain"
+    ],
+    [
+      "Persian Gulf",
+      "base.schemastaging.context_name.regional_variants",
+      "m.0lrx215"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Rubud Al Sharqiyah"
+    ],
+    [
+      "Persian Gulf",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Persian Gulf",
+      "base.engineering.flooding_body_of_water.flood_defence_dikes",
+      "Construction of Palm Jumeirah Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Suwād ash Shamālīyah"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Minoo Island"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Hawar"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Sitra"
+    ],
+    [
+      "Operation Desert Thunder",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Yas Island",
+      "geography.island.body_of_water",
+      "Persian Gulf"
+    ],
+    [
+      "Persian Gulf",
+      "geography.body_of_water.islands",
+      "Jazīrat Jinān"
+    ],
+    [
+      "Operation Nimble Archer",
+      "time.event.locations",
+      "Persian Gulf"
+    ],
+    [
+      "Lessons of Darkness",
+      "common.topic.notable_types",
+      "Film"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.country",
+      "France"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.country",
+      "Germany"
+    ],
+    [
+      "Lessons of Darkness",
+      "media_common.netflix_title.netflix_genres",
+      "Germany"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.language",
+      "Arabic Language"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.genre",
+      "Gulf War"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.genre",
+      "Science Fiction"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.genre",
+      "War film"
+    ],
+    [
+      "Lessons of Darkness",
+      "film.film.film_festivals",
+      "1992 Berlin International Film Festival"
+    ],
+    [
+      "Gulf War",
+      "film.film_genre.films_in_this_genre",
+      "Lessons of Darkness"
+    ],
+    [
+      "Invasion of Kuwait",
+      "military.military_conflict.combatants",
+      "m.0bhdrfq"
+    ],
+    [
+      "m.0bhdrfq",
+      "military.military_combatant_group.conflict",
+      "Invasion of Kuwait"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Chuck Horner"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Gulf War air campaign",
+      "common.topic.notable_for",
+      "g.125dnh9mt"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Sandy Wilson"
+    ],
+    [
+      "Gulf War air campaign",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Italy"
+    ],
+    [
+      "Gulf War air campaign",
+      "military.military_conflict.combatants",
+      "m.0dh5lqx"
+    ],
+    [
+      "m.0b6vc8_",
+      "military.military_combatant_group.conflict",
+      "Gulf War air campaign"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "Gulf War air campaign",
+      "common.topic.image",
+      "EF-111 over Desert2"
+    ],
+    [
+      "m.0b6tqvx",
+      "military.military_combatant_group.conflict",
+      "Gulf War air campaign"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Colin Powell"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "France"
+    ],
+    [
+      "Gulf War air campaign",
+      "military.military_conflict.combatants",
+      "m.0b6vc8_"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Saleh Al-Muhaya"
+    ],
+    [
+      "Gulf War air campaign",
+      "common.topic.image",
+      "USAF F-16A F-15C F-15E Desert Storm edit2"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Canada"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Khalid bin Sultan"
+    ],
+    [
+      "Gulf War air campaign",
+      "military.military_conflict.combatants",
+      "m.0b6tqvx"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "1991"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Gulf War air campaign"
+    ],
+    [
+      "m.0dh5lqx",
+      "military.military_combatant_group.conflict",
+      "Gulf War air campaign"
+    ],
+    [
+      "Gulf War air campaign",
+      "common.topic.article",
+      "m.09v65k0"
+    ],
+    [
+      "Gulf War air campaign",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Bill Wratten"
+    ],
+    [
+      "Gulf War air campaign",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Gulf War air campaign",
+      "base.culturalevent.event.entity_involved",
+      "Norman Schwarzkopf, Jr."
+    ],
+    [
+      "Operation Vigilant Sentinel",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Operation Vigilant Sentinel",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Operation Vigilant Sentinel",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "Operation Vigilant Sentinel",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Saudi Arabia",
+      "location.location.events",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Sandy Wilson"
+    ],
+    [
+      "Battle of Wadi Al-Batin",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "War film",
+      "media_common.media_genre.child_genres",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Medina Ridge"
+    ],
+    [
+      "Gulf War",
+      "common.topic.notable_for",
+      "g.125563t30"
+    ],
+    [
+      "Gulf War",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Al Busayyah"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Sultan bin Abdulaziz"
+    ],
+    [
+      "Sultan Hashim Ahmad al-Tai",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Palestinian expulsion from Kuwait",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.casualties",
+      "m.043wpj2"
+    ],
+    [
+      "WarGulf photobox",
+      "common.image.appears_in_topic_gallery",
+      "Gulf War"
+    ],
+    [
+      "Saleh Al-Muhaya",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "The One That Got Away",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "A Just War?",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Hafez al-Assad"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Coalition of the Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Air engagements of the Gulf War"
+    ],
+    [
+      "Battle of Phase Line Bullet",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Dasman Palace"
+    ],
+    [
+      "Chris Ryan",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "film.film_genre.films_in_this_genre",
+      "Live from Baghdad"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.combatants",
+      "m.04fvd6y"
+    ],
+    [
+      "Bill Wratten",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Phase Line Bullet"
+    ],
+    [
+      "m.04q65_7",
+      "military.military_command.military_conflict",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Frederick M. Franks, Jr."
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "The Finest Hour"
+    ],
+    [
+      "Gulf War",
+      "film.film_genre.films_in_this_genre",
+      "Courage Under Fire"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Highway of Death"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Salah Aboud Mahmoud"
+    ],
+    [
+      "Gulf War",
+      "media_common.media_genre.equivalent_topic",
+      "Gulf War"
+    ],
+    [
+      "The One That Got Away",
+      "book.written_work.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "g.1q61dsh97"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Kuwait International Airport"
+    ],
+    [
+      "Ali Hassan al-Majid",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Colin Powell"
+    ],
+    [
+      "Battle of the Bridges",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_p0vgt"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.combatants",
+      "m.06vz4t9"
+    ],
+    [
+      "Gulf War",
+      "film.film_genre.films_in_this_genre",
+      "Bravo Two Zero"
+    ],
+    [
+      "Chuck Horner",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "Bravo Two Zero"
+    ],
+    [
+      "Bravo Two Zero",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Battle of Al Busayyah",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "John Major"
+    ],
+    [
+      "Michel Roquejeoffre",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Israel",
+      "location.location.events",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.casualties",
+      "m.043wphv"
+    ],
+    [
+      "m.09xlk_z",
+      "common.webpage.topic",
+      "Gulf War"
+    ],
+    [
+      "Package Q Strike",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Three Kings",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.webpage",
+      "m.09y8h18"
+    ],
+    [
+      "Highway of Death",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.image",
+      "WarGulf photobox"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Palestinian expulsion from Kuwait"
+    ],
+    [
+      "Gulf War",
+      "time.event.locations",
+      "Israel"
+    ],
+    [
+      "Safwan Airfield standoff",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "Courage Under Fire"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.combatants",
+      "m.03z96c5"
+    ],
+    [
+      "Live from Baghdad",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Bubiyan"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Wadi Al-Batin"
+    ],
+    [
+      "Battle of Kuwait International Airport",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Bravo Two Zero",
+      "book.written_work.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "g.1ydxpq6_s"
+    ],
+    [
+      "m.09xgt6p",
+      "common.webpage.topic",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.webpage",
+      "m.09xgt6p"
+    ],
+    [
+      "Thanks of a Grateful Nation",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "A Just War?"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Mirza Aslam Beg"
+    ],
+    [
+      "Gulf War",
+      "book.book_subject.works",
+      "The Cobweb"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Failaka"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of the Bridges"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "1991 uprisings in Iraq"
+    ],
+    [
+      "The Finest Hour",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.webpage",
+      "m.0cq2d9q"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Package Q Strike"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Ad-Dawrah"
+    ],
+    [
+      "m.043wphv",
+      "military.casualties.military_conflict",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.webpage",
+      "m.09xlk_z"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Safwan Airfield standoff"
+    ],
+    [
+      "Battle of Bubiyan",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Sandy Wilson",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "m.09xy2y7",
+      "common.webpage.topic",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Norman Schwarzkopf, Jr."
+    ],
+    [
+      "Iraqi no-fly zones",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Abdullah of Saudi Arabia"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Gulf War"
+    ],
+    [
+      "Invasion of Kuwait",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "book.book_subject.works",
+      "A World Transformed: The Collapse of the Soviet Empire, The Unification of Germany, Tiananmen Square, The Gulf War"
+    ],
+    [
+      "Courage Under Fire",
+      "film.film.genre",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "Thanks of a Grateful Nation"
+    ],
+    [
+      "1991 uprisings in Iraq",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.article",
+      "m.018w0v"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.casualties",
+      "m.043wpjb"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Khalid bin Sultan"
+    ],
+    [
+      "m.043wpj2",
+      "military.casualties.military_conflict",
+      "Gulf War"
+    ],
+    [
+      "m.03z973l",
+      "military.military_combatant_group.conflict",
+      "Gulf War"
+    ],
+    [
+      "Courage Under Fire",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.webpage",
+      "m.09y0mv4"
+    ],
+    [
+      "Khalid bin Sultan",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.webpage",
+      "m.09xy2y7"
+    ],
+    [
+      "Patrick Hine",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Peshmerga"
+    ],
+    [
+      "m.09xrmxj",
+      "common.webpage.topic",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "John Chapple"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "book.book_subject.works",
+      "Bravo Two Zero"
+    ],
+    [
+      "m.03z96c5",
+      "military.military_combatant_group.conflict",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "Three Kings"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Norfolk"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Invasion of Kuwait"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Khafji"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle for Jalibah Airfield"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Dick Cheney"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Peter de la Billière"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.commanders",
+      "m.04q65_7"
+    ],
+    [
+      "The Cobweb",
+      "book.written_work.subjects",
+      "Gulf War"
+    ],
+    [
+      "Anthony Swofford",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Battle of Rumaila",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "book.book_subject.works",
+      "Jarhead: A Marine's Chronicle of the Gulf War and Other Battles"
+    ],
+    [
+      "Andy McNab",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War Photobox",
+      "common.image.appears_in_topic_gallery",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.image",
+      "Gulf War Photobox"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Mustafa Tlass"
+    ],
+    [
+      "m.06vz4t9",
+      "military.military_combatant_group.conflict",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Fahd of Saudi Arabia"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Gulf War",
+      "base.argumentmaps.motivation_s.motivation",
+      "m.05yx9x9"
+    ],
+    [
+      "Jarhead",
+      "film.film.subjects",
+      "Gulf War"
+    ],
+    [
+      "Battle of Khafji",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Iraqi no-fly zones"
+    ],
+    [
+      "Gulf War",
+      "radio.radio_subject.programs_with_this_subject",
+      "Earnest Will: Americans in the Gulf"
+    ],
+    [
+      "m.09y8h18",
+      "common.webpage.topic",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Turki bin Faisal Al Saud"
+    ],
+    [
+      "Gulf War",
+      "media_common.media_genre.parent_genre",
+      "War film"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of 73 Easting"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "John A. Warden III"
+    ],
+    [
+      "Live from Baghdad",
+      "film.film.genre",
+      "Gulf War"
+    ],
+    [
+      "m.05yx9x9",
+      "base.argumentmaps.motivation.motivating_thing_idea_or_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Hosni Mubarak"
+    ],
+    [
+      "Battle of Norfolk",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "m.09y0mv4",
+      "common.webpage.topic",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Chuck Horner"
+    ],
+    [
+      "m.043wphl",
+      "military.casualties.military_conflict",
+      "Gulf War"
+    ],
+    [
+      "Battle for Jalibah Airfield",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Battle of 73 Easting",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Mohamed Hussein Tantawi"
+    ],
+    [
+      "Gulf War",
+      "book.book_subject.works",
+      "The One That Got Away"
+    ],
+    [
+      "Colin Powell",
+      "military.military_person.participated_in_conflicts",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.webpage",
+      "m.09xrmxj"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.casualties",
+      "m.043wphl"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.commanders",
+      "m.0b6sk0b"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Saleh Al-Muhaya"
+    ],
+    [
+      "Battle of Failaka",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Calvin Waller"
+    ],
+    [
+      "Gulf War",
+      "time.event.locations",
+      "Saudi Arabia"
+    ],
+    [
+      "m.04fvd6y",
+      "military.military_combatant_group.conflict",
+      "Gulf War"
+    ],
+    [
+      "m.0cq2d9q",
+      "common.webpage.topic",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Bravo Two Zero",
+      "film.film.genre",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Rumaila"
+    ],
+    [
+      "m.062tbhk",
+      "military.military_command.military_conflict",
+      "Gulf War"
+    ],
+    [
+      "Battle of Medina Ridge",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Earnest Will: Americans in the Gulf",
+      "radio.radio_program.subjects",
+      "Gulf War"
+    ],
+    [
+      "Battle of Ad-Dawrah",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "Jarhead: A Marine's Chronicle of the Gulf War and Other Battles",
+      "book.written_work.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "Jarhead"
+    ],
+    [
+      "m.043wpjb",
+      "military.casualties.military_conflict",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "media_common.media_genre_equivalent_topic.media_genre_equivalent",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Liberation of Kuwait campaign"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "Live from Baghdad"
+    ],
+    [
+      "Gulf War",
+      "time.event.includes_event",
+      "Battle of Qurah and Umm al Maradim"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.commanders",
+      "m.062tbhk"
+    ],
+    [
+      "A World Transformed: The Collapse of the Soviet Empire, The Unification of Germany, Tiananmen Square, The Gulf War",
+      "book.written_work.subjects",
+      "Gulf War"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Michel Roquejeoffre"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Patrick Hine"
+    ],
+    [
+      "Gulf War",
+      "film.film_subject.films",
+      "The One That Got Away"
+    ],
+    [
+      "Gulf War",
+      "military.military_conflict.combatants",
+      "m.03z973l"
+    ],
+    [
+      "Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "George H. W. Bush"
+    ],
+    [
+      "m.0b6sk0b",
+      "military.military_command.military_conflict",
+      "Gulf War"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "time.event.included_in_event",
+      "Gulf War"
+    ],
+    [
+      "m.010fzjcr",
+      "government.government_position_held.office_holder",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "government.politician.government_positions_held",
+      "m.010fzjcr"
+    ],
+    [
+      "m.0bhfh_s",
+      "military.military_combatant_group.conflict",
+      "Liberation of Kuwait campaign"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "United Kingdom"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "military.military_conflict.combatants",
+      "m.0b6tmml"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Norman Schwarzkopf, Jr."
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "common.topic.notable_for",
+      "g.125gmtdzl"
+    ],
+    [
+      "m.0b6tpyb",
+      "military.military_combatant_group.conflict",
+      "Liberation of Kuwait campaign"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Colin Powell"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "military.military_conflict.combatants",
+      "m.0b6tpyb"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "common.topic.image",
+      "DM-SC-92-03658"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Saudi Arabia"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Khalid bin Sultan"
+    ],
+    [
+      "m.0b6vtlv",
+      "military.military_combatant_group.conflict",
+      "Liberation of Kuwait campaign"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "base.culturalevent.event.entity_involved",
+      "Peter de la Billière"
+    ],
+    [
+      "m.0b6vbv4",
+      "military.military_combatant_group.conflict",
+      "Liberation of Kuwait campaign"
+    ],
+    [
+      "m.0b6tmml",
+      "military.military_combatant_group.conflict",
+      "Liberation of Kuwait campaign"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "military.military_conflict.combatants",
+      "m.0bhfh_s"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "military.military_conflict.combatants",
+      "m.0b6vbv4"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "military.military_conflict.combatants",
+      "m.0b6vtlv"
+    ],
+    [
+      "Liberation of Kuwait campaign",
+      "common.topic.article",
+      "m.0b6cx_z"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.person.ethnicity",
+      "Arabs"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.parents",
+      "Ahmad Al-Jaber Al-Sabah"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "common.topic.notable_types",
+      "Monarch"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.person.children",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "people.family_member.family",
+      "House of Al-Sabah"
+    ],
+    [
+      "Ahmad Al-Jaber Al-Sabah",
+      "royalty.monarch.royal_line",
+      "House of Al-Sabah"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "Canada"
+    ],
+    [
+      "Operation Desert Thunder",
+      "time.event.included_in_event",
+      "Iraqi no-fly zones"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "France"
+    ],
+    [
+      "Operation Desert Thunder",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "United Kingdom"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "1991"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "Australia"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "Argentina"
+    ],
+    [
+      "Iraqi no-fly zones",
+      "time.event.includes_event",
+      "Operation Desert Thunder"
+    ],
+    [
+      "Operation Desert Thunder",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "Battle of the Bridges",
+      "military.military_conflict.combatants",
+      "m.0bhfn0d"
+    ],
+    [
+      "m.0bhfn0d",
+      "military.military_combatant_group.conflict",
+      "Battle of the Bridges"
+    ],
+    [
+      "m.010fzj05",
+      "government.government_position_held.office_holder",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "government.politician.government_positions_held",
+      "m.010fzj05"
+    ],
+    [
+      "Turkey",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Iraq"
+    ],
+    [
+      "Iraq",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Saudi Arabia",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Pakistan"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Turkey"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Israel"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Soviet Union"
+    ],
+    [
+      "Asia",
+      "location.location.time_zones",
+      "Iran Time Zone"
+    ],
+    [
+      "Bahrain",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Kurds",
+      "people.ethnicity.geographic_distribution",
+      "Asia"
+    ],
+    [
+      "Oman",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "m.02wk383",
+      "location.adjoining_relationship.adjoins",
+      "Asia"
+    ],
+    [
+      "Saudi Arabia",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Yemen",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Qatar"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Oman"
+    ],
+    [
+      "Iraq",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Bahrain",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "United Arab Emirates",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Syria"
+    ],
+    [
+      "Israel",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "United Arab Emirates",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "King Fahd University of Petroleum and Minerals",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Saudi Arabia"
+    ],
+    [
+      "Asia",
+      "location.location.time_zones",
+      "Gulf Time Zone"
+    ],
+    [
+      "Asia",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Israel",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Qatar",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Syria",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "United Arab Emirates"
+    ],
+    [
+      "Syria",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Pakistan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Qatar",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Yemen"
+    ],
+    [
+      "Pakistan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Soviet Union",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "Oman",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Bahrain"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "location.location.adjoin_s",
+      "m.02wk383"
+    ],
+    [
+      "m.0bhg03z",
+      "military.military_combatant_group.conflict",
+      "Battle of Dasman Palace"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "common.topic.notable_types",
+      "Battle"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "military.military_conflict.combatants",
+      "m.0b6tpxf"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "common.topic.article",
+      "m.076yrmm"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "common.topic.notable_for",
+      "g.125bs_dgc"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "m.0b6tpxf",
+      "military.military_combatant_group.conflict",
+      "Battle of Dasman Palace"
+    ],
+    [
+      "Battle of Dasman Palace",
+      "military.military_conflict.combatants",
+      "m.0bhg03z"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Second Fitna"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Ottoman–Wahhabi War"
+    ],
+    [
+      "Ali Baba",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Arabian Peninsula"
+    ],
+    [
+      "South Yemen",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "m.02wk34z",
+      "location.adjoining_relationship.adjoins",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Rub' al Khali"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Hijra"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Arabian Peninsula Massacre"
+    ],
+    [
+      "Arabian Peninsula",
+      "common.topic.article",
+      "m.0cvn4"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Yemen Arab Republic"
+    ],
+    [
+      "Bahrain",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "South Arabia"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Battle of Tarafiyah"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.people_born_here",
+      "Ka'b bin Zuhayr"
+    ],
+    [
+      "m.02wk383",
+      "location.adjoining_relationship.adjoins",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Conquest of Ha'il"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.people_born_here",
+      "Uwais al-Qarani"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Oman"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Battle of Dilam"
+    ],
+    [
+      "Battle of Jarrab",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Battle of Unaizah"
+    ],
+    [
+      "Arabian Peninsula",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_s74r2"
+    ],
+    [
+      "m.07ngb28",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "fictional_universe.fictional_setting.works_set_here",
+      "The Three Apples"
+    ],
+    [
+      "Uwais al-Qarani",
+      "people.person.place_of_birth",
+      "Arabian Peninsula"
+    ],
+    [
+      "Battle of Bekeriyah",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.geolocation",
+      "m.0wmqh92"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Yemen"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Battle of Rawdat Muhanna"
+    ],
+    [
+      "m.02wk342",
+      "location.adjoining_relationship.adjoins",
+      "Arabian Peninsula"
+    ],
+    [
+      "Oman",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "symbols.name_source.namesakes",
+      "1157 Arabia"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Ottoman–Wahhabi War",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Saudi–Rashidi War"
+    ],
+    [
+      "Yemen Arab Republic",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "First Fitna"
+    ],
+    [
+      "First Fitna",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "South Yemen"
+    ],
+    [
+      "Arabian Peninsula",
+      "common.topic.notable_for",
+      "g.1259g32hc"
+    ],
+    [
+      "m.02wk357",
+      "location.adjoining_relationship.adjoins",
+      "Arabian Peninsula"
+    ],
+    [
+      "Battle of Rawdat Muhanna",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Qatar",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Rub' al Khali",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Unification of Saudi Arabia"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Battle of Bekeriyah"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Qatar"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Battle of Shinanah"
+    ],
+    [
+      "Arabian Peninsula",
+      "common.topic.image",
+      "Arabian Peninsula dust SeaWiFS-2"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Bahrain"
+    ],
+    [
+      "Arabian Peninsula",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Ali Baba"
+    ],
+    [
+      "Arabian Peninsula",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07ngb28"
+    ],
+    [
+      "United Arab Emirates",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Battle of Shinanah",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Battle of Jarrab"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Invasion of Kuwait",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Battle of Tarafiyah",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "United Arab Emirates"
+    ],
+    [
+      "Arabian Peninsula",
+      "common.topic.image",
+      "Arabian peninsula definition2"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Siege of Uthman"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.adjoin_s",
+      "m.02wk357"
+    ],
+    [
+      "Saudi Arabia",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Battle of Dilam",
+      "time.event.locations",
+      "Arabian Peninsula"
+    ],
+    [
+      "Ka'b bin Zuhayr",
+      "people.person.place_of_birth",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Emirate of Beihan"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.adjoin_s",
+      "m.02wk38v"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.adjoin_s",
+      "m.02wk383"
+    ],
+    [
+      "Arabian Peninsula",
+      "common.topic.image",
+      "Arabian Peninsula dust SeaWiFS"
+    ],
+    [
+      "Arabian Peninsula",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Ra's al Ghul"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.adjoin_s",
+      "m.02wk34z"
+    ],
+    [
+      "Peninsula",
+      "geography.geographical_feature_category.features",
+      "Arabian Peninsula"
+    ],
+    [
+      "Ra's al Ghul",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Arabian Peninsula"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.people_born_here",
+      "Saints Cosmas and Damian"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.adjoin_s",
+      "m.02wk342"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Saudi Arabia"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "g.12340v9s"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.events",
+      "Invasion of Kuwait"
+    ],
+    [
+      "Arabian Peninsula",
+      "geography.geographical_feature.category",
+      "Peninsula"
+    ],
+    [
+      "m.02wk38v",
+      "location.adjoining_relationship.adjoins",
+      "Arabian Peninsula"
+    ],
+    [
+      "Palestinian expulsion from Kuwait",
+      "common.topic.article",
+      "m.0cz1n6z"
+    ],
+    [
+      "Palestinian expulsion from Kuwait",
+      "common.topic.notable_for",
+      "g.12559nfbn"
+    ],
+    [
+      "Palestinian expulsion from Kuwait",
+      "common.topic.article",
+      "m.0byb4t"
+    ],
+    [
+      "Palestinian expulsion from Kuwait",
+      "base.crime.crime.crime_type",
+      "Deportation"
+    ],
+    [
+      "Palestinian expulsion from Kuwait",
+      "common.topic.notable_types",
+      "Event"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "1991"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Colin Powell"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "common.topic.image",
+      "IraqiMiG-23"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "common.topic.notable_for",
+      "g.125dzw5dq"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Khalid bin Sultan"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Norman Schwarzkopf, Jr."
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Saleh Al-Muhaya"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Saudi Arabia"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Bill Wratten"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "common.topic.article",
+      "m.0ddd17j"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Chuck Horner"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "Sandy Wilson"
+    ],
+    [
+      "Air engagements of the Gulf War",
+      "base.culturalevent.event.entity_involved",
+      "United Kingdom"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "time.event.includes_event",
+      "Conquest of Ha'il"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "time.event.includes_event",
+      "Battle of Rawdat Muhanna"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "time.event.includes_event",
+      "Battle of Dilam"
+    ],
+    [
+      "Battle of Rawdat Muhanna",
+      "time.event.included_in_event",
+      "Unification of Saudi Arabia"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "base.culturalevent.event.entity_involved",
+      "Ibn Saud"
+    ],
+    [
+      "Battle of Dilam",
+      "time.event.included_in_event",
+      "Unification of Saudi Arabia"
+    ],
+    [
+      "Unification of Saudi Arabia",
+      "time.event.includes_event",
+      "Saudi–Rashidi War"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Bahrain"
+    ],
+    [
+      "South Africa",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Saudi Arabia",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "South Yemen",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Saudi Arabia",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "South Yemen",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Bahrain",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Kurds",
+      "people.ethnicity.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Syria",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "South Yemen"
+    ],
+    [
+      "Oman",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Israel",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Iraq",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Iraqi Kurdistan",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "United Arab Emirates",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "United Arab Emirates",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Oman",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Yemen Arab Republic",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Arabs",
+      "people.ethnicity.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.main_country",
+      "Saudi Arabia"
+    ],
+    [
+      "Iraq",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Oman"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Egypt"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Israel"
+    ],
+    [
+      "Turkey",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Jarhead",
+      "film.film.language",
+      "Arabic Language"
+    ],
+    [
+      "Egypt",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Yemen"
+    ],
+    [
+      "Israel",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Syria"
+    ],
+    [
+      "Yemen",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Qatar"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Iraq"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "United Arab Emirates"
+    ],
+    [
+      "Qatar",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Yemen",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Saudi Arabia"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "South Africa"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "Bahrain",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Turkey"
+    ],
+    [
+      "Long Days",
+      "film.film.language",
+      "Arabic Language"
+    ],
+    [
+      "Syria",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Qatar",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Three Kings",
+      "film.film.language",
+      "Arabic Language"
+    ],
+    [
+      "Iraqi Kurdistan",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Saudi Arabia",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Saudi Arabia"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Yemen"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Iraq"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Baghdad"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Bahrain"
+    ],
+    [
+      "Qatar",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Baghdad",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Rub' al Khali",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Iraq",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Bahrain",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Yemen",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Rub' al Khali"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Iraqi Kurdistan"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Qatar"
+    ],
+    [
+      "Saudi Arabia",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Syria",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Qatar",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Strait of Hormuz",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "United Arab Emirates",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Oman",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Oman"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Iraq"
+    ],
+    [
+      "Egypt",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Saudi Arabia"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Strait of Hormuz"
+    ],
+    [
+      "Iraqi Kurdistan",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Yom Kippur War",
+      "time.event.locations",
+      "Middle East"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Qatar"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "United Arab Emirates"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Yemen"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Iraqi Kurdistan"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Israel"
+    ],
+    [
+      "Iraq",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Israel",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Middle East",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Syria"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Egypt"
+    ],
+    [
+      "Middle East",
+      "location.location.events",
+      "Yom Kippur War"
+    ],
+    [
+      "Battle of Failaka",
+      "common.topic.article",
+      "m.0gy1p4k"
+    ],
+    [
+      "Battle of Failaka",
+      "common.topic.notable_types",
+      "Battle"
+    ],
+    [
+      "Battle of Failaka",
+      "common.topic.notable_for",
+      "g.1259w1_8y"
+    ],
+    [
+      "Battle of the Bridges",
+      "military.military_conflict.combatants",
+      "m.0b6vpjt"
+    ],
+    [
+      "Battle of the Bridges",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "Battle of the Bridges",
+      "time.event.locations",
+      "Salmi"
+    ],
+    [
+      "Battle of the Bridges",
+      "time.event.locations",
+      "Al Jahra"
+    ],
+    [
+      "Battle of the Bridges",
+      "common.topic.article",
+      "m.080dfgq"
+    ],
+    [
+      "Salmi",
+      "location.location.events",
+      "Battle of the Bridges"
+    ],
+    [
+      "Battle of the Bridges",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "m.0b6vpjt",
+      "military.military_combatant_group.conflict",
+      "Battle of the Bridges"
+    ],
+    [
+      "Battle of the Bridges",
+      "common.topic.notable_for",
+      "g.1256hn9dq"
+    ],
+    [
+      "Invasion of Kuwait",
+      "common.topic.image",
+      "Iraqitankalqurain"
+    ],
+    [
+      "Invasion of Kuwait",
+      "common.topic.article",
+      "m.06gq8s"
+    ],
+    [
+      "Invasion of Kuwait",
+      "base.culturalevent.event.entity_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Invasion of Kuwait",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Invasion of Kuwait",
+      "common.topic.image",
+      "Kuwait burn oilfield"
+    ],
+    [
+      "Invasion of Kuwait",
+      "military.military_conflict.combatants",
+      "m.04yxs82"
+    ],
+    [
+      "Invasion of Kuwait",
+      "time.event.includes_event",
+      "British Airways Flight 149"
+    ],
+    [
+      "Invasion of Kuwait",
+      "common.topic.notable_for",
+      "g.12594njdl"
+    ],
+    [
+      "Invasion of Kuwait",
+      "base.argumentmaps.morally_disputed_activity.instance_of_abstract_moral_dispute",
+      "Invasion"
+    ],
+    [
+      "Invasion",
+      "base.argumentmaps.abstract_moral_dispute.particular_instances",
+      "Invasion of Kuwait"
+    ],
+    [
+      "Invasion of Kuwait",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "Invasion of Kuwait",
+      "common.topic.image",
+      "Kuwaitcityinvaded"
+    ],
+    [
+      "Invasion of Kuwait",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_pkdln"
+    ],
+    [
+      "Invasion of Kuwait",
+      "base.culturalevent.event.entity_involved",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Invasion of Kuwait",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "m.04yxs82",
+      "military.military_combatant_group.conflict",
+      "Invasion of Kuwait"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0w2jlfp",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "m.0w2jn45",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "m.0w2jmpq",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "symbols.name_source.namesakes",
+      "Jaber Al-Ahmad International Stadium"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Fahad Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Wasil Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jnn0"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Mishary Bin Jaber"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Bandar Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Noriya Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Jarrah Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Noura Bint Jaber"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Fidha Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jm61"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Awrad Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Reema Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Salim Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.family_member.family",
+      "House of Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.deceased_person.cause_of_death",
+      "Cerebral hemorrhage"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "common.topic.article",
+      "m.03dsmx"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "film.person_or_entity_appearing_in_film.films",
+      "m.0tm5y0v"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Hamad Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "'Alia Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "common.topic.image",
+      "Jabir al-Ahmad al-Jabir Al Sabah 1998"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Badriya Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jmys"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jqfh"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "common.topic.notable_types",
+      "Monarch"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jp41"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jmks"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.sibling_s",
+      "m.0tm612m"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Mariam Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jlpk"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "'Azza Bint Jabir"
+    ],
+    [
+      "m.0w2jp_w",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Maged Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Sabah Bin Jabir"
+    ],
+    [
+      "m.0w2jn__",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jl8b"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jq5w"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Shahad Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Muhammad Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jp_w"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "royalty.monarch.royal_line",
+      "House of Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jncm"
+    ],
+    [
+      "m.0w2jnn0",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jmv9"
+    ],
+    [
+      "m.0w2jp41",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Hajar Bint Jabir"
+    ],
+    [
+      "m.0w2jmys",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Ahmad Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Bibi Bint Jabir"
+    ],
+    [
+      "m.0w2jmcb",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "g.121b6lwv"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "royalty.noble_person.titles",
+      "m.09zlhfs"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Alanoud Bint Jaber"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jlfp"
+    ],
+    [
+      "m.0tm5y0v",
+      "film.personal_film_appearance.person",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jnt4"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jn__"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Marhab Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Thamir Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Khalid Usman Al-Ahmed Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Amaar Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Wahsh Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Shaikha Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Khalid othman Al-Ahmed Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Naif Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Mish'al Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Alisha Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Hawazen Bint Jaber"
+    ],
+    [
+      "m.0w2jncm",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Abdullah Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jmcb"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Afrah Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Faisal Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Hamud Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.profession",
+      "Politician"
+    ],
+    [
+      "m.0tm612m",
+      "people.sibling_relationship.sibling",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "m.09zlhfs",
+      "royalty.noble_title_tenure.noble_person",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "m.0w2jl8b",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Anwaar Bint Jabir"
+    ],
+    [
+      "m.0w2jpkc",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Wahsh Bin Jabir"
+    ],
+    [
+      "m.0w2jlpk",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Abdulaziz Bin Jaber"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Inaz Bint Jaber"
+    ],
+    [
+      "m.0w2jm61",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "m.0w2jnt4",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Entisar Bint Jaber"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Raba'a Bint Jabir"
+    ],
+    [
+      "m.0w2jqfh",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "common.topic.notable_for",
+      "g.125h50p2v"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Muta'ib Bin Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jn45"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Mubarak Bin Jabir"
+    ],
+    [
+      "Battle of Ad-Dawrah",
+      "base.culturalevent.event.entity_involved",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Ghairwaan Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jmpq"
+    ],
+    [
+      "m.0w2jq5w",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "m.0w2jmv9",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Hanouf Bint Jabir"
+    ],
+    [
+      "m.0w2jmks",
+      "people.marriage.spouse",
+      "Jaber Al-Ahmad Al-Sabah"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Khalifa Bin Jaber"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "common.topic.image",
+      "SheikhJaberOpening"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Naser Bin Jaber"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "Lolwa Bint Jabir"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.spouse_s",
+      "m.0w2jpkc"
+    ],
+    [
+      "Jaber Al-Ahmad Al-Sabah",
+      "people.person.children",
+      "AlZain Bint Jaber"
+    ],
+    [
+      "Highway of Death",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "m.04ywqr3",
+      "military.military_combatant_group.conflict",
+      "Highway of Death"
+    ],
+    [
+      "Highway of Death",
+      "military.military_conflict.combatants",
+      "m.04ywqqz"
+    ],
+    [
+      "Basra",
+      "location.location.events",
+      "Highway of Death"
+    ],
+    [
+      "m.04ywqqz",
+      "military.military_combatant_group.conflict",
+      "Highway of Death"
+    ],
+    [
+      "m.04ywqr8",
+      "military.military_combatant_group.conflict",
+      "Highway of Death"
+    ],
+    [
+      "Highway of Death",
+      "military.military_conflict.combatants",
+      "m.04ywqr3"
+    ],
+    [
+      "Highway of Death",
+      "military.military_conflict.combatants",
+      "m.04ywqr8"
+    ],
+    [
+      "Highway of Death",
+      "common.topic.notable_for",
+      "g.1256gwl_y"
+    ],
+    [
+      "Highway of Death",
+      "common.topic.article",
+      "m.03_xpz"
+    ],
+    [
+      "Highway of Death",
+      "common.topic.image",
+      "Demolished vehicles line Highway 80 on 18 Apr 1991"
+    ],
+    [
+      "Highway of Death",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_lcbt9"
+    ],
+    [
+      "Highway of Death",
+      "time.event.locations",
+      "Basra"
+    ],
+    [
+      "Highway of Death",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Highway of Death",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.includes_event",
+      "Operation Earnest Will"
+    ],
+    [
+      "Operation Earnest Will",
+      "time.event.included_in_event",
+      "Iran–Iraq War"
+    ],
+    [
+      "Operation Earnest Will",
+      "base.culturalevent.event.entity_involved",
+      "United States Navy"
+    ],
+    [
+      "Operation Nimble Archer",
+      "time.event.included_in_event",
+      "Operation Earnest Will"
+    ],
+    [
+      "Operation Earnest Will",
+      "time.event.includes_event",
+      "Operation Nimble Archer"
+    ],
+    [
+      "Operation Earnest Will",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Persian Gulf campaign of 1809",
+      "base.culturalevent.event.entity_involved",
+      "United Kingdom"
+    ],
+    [
+      "Persian Gulf campaign of 1809",
+      "time.event.locations",
+      "Strait of Hormuz"
+    ],
+    [
+      "Persian Gulf campaign of 1809",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Strait of Hormuz",
+      "location.location.events",
+      "Persian Gulf campaign of 1809"
+    ],
+    [
+      "Arzanah Island",
+      "location.location.containedby",
+      "United Arab Emirates"
+    ],
+    [
+      "Strait of Hormuz",
+      "location.location.adjoin_s",
+      "m.05mf3gv"
+    ],
+    [
+      "m.05mf3gv",
+      "location.adjoining_relationship.adjoins",
+      "Strait of Hormuz"
+    ],
+    [
+      "Abu Musa",
+      "location.location.events",
+      "Seizure of Abu Musa and the Greater and Lesser Tunbs"
+    ],
+    [
+      "Strait of Hormuz",
+      "location.location.contains",
+      "Qeshm"
+    ],
+    [
+      "Qeshm",
+      "location.location.containedby",
+      "Strait of Hormuz"
+    ],
+    [
+      "m.09wv8ft",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Saadiyat Island",
+      "location.location.containedby",
+      "United Arab Emirates"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Saadiyat Island"
+    ],
+    [
+      "Saadiyat Island",
+      "location.location.time_zones",
+      "Gulf Time Zone"
+    ],
+    [
+      "Das Island",
+      "location.location.containedby",
+      "United Arab Emirates"
+    ],
+    [
+      "Sultan Hashim Ahmad al-Tai",
+      "military.military_person.participated_in_conflicts",
+      "Iran–Iraq War"
+    ],
+    [
+      "Operation Nimble Archer",
+      "time.event.included_in_event",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.includes_event",
+      "USS Stark Attack"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.includes_event",
+      "Operation Praying Mantis"
+    ],
+    [
+      "Al-Anfal Campaign",
+      "time.event.included_in_event",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.includes_event",
+      "Operation Prime Chance"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "People's Mujahedin of Iran"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Massoud Rajavi"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Izzat Ibrahim al-Douri"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Jalal Talabani"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.includes_event",
+      "Operation Morvarid"
+    ],
+    [
+      "USS Stark Attack",
+      "time.event.included_in_event",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Kurdistan Democratic Party"
+    ],
+    [
+      "Invasion",
+      "base.argumentmaps.abstract_moral_dispute.particular_instances",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Tariq Aziz"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Taha Yassin Ramadan"
+    ],
+    [
+      "Operation Praying Mantis",
+      "time.event.included_in_event",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Masoud Barzani"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Islamic Supreme Council of Iraq"
+    ],
+    [
+      "Iran–Iraq War",
+      "military.military_conflict.military_personnel_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.includes_event",
+      "Al-Anfal Campaign"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Uday Hussein"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Patriotic Union of Kurdistan"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Qusay Hussein"
+    ],
+    [
+      "Iran–Iraq War",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Mohammad Baqir al-Hakim"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Salah Aboud Mahmoud"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.includes_event",
+      "Operation Nimble Archer"
+    ],
+    [
+      "Operation Morvarid",
+      "time.event.included_in_event",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "military.military_conflict.military_personnel_involved",
+      "Sultan Hashim Ahmad al-Tai"
+    ],
+    [
+      "Iran–Iraq War",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Ali Hassan al-Majid",
+      "military.military_person.participated_in_conflicts",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.argumentmaps.morally_disputed_activity.instance_of_abstract_moral_dispute",
+      "Invasion"
+    ],
+    [
+      "Operation Prime Chance",
+      "time.event.included_in_event",
+      "Iran–Iraq War"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Islamic Dawa Party"
+    ],
+    [
+      "Iran–Iraq War",
+      "base.culturalevent.event.entity_involved",
+      "Abdul Aziz al-Hakim"
+    ],
+    [
+      "Muharraq Island",
+      "location.location.containedby",
+      "Bahrain"
+    ],
+    [
+      "Bahrain",
+      "location.location.contains",
+      "Muharraq Island"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Yas Island"
+    ],
+    [
+      "United Arab Emirates",
+      "location.location.time_zones",
+      "Gulf Time Zone"
+    ],
+    [
+      "Yas Island",
+      "location.location.time_zones",
+      "Gulf Time Zone"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Strait of Hormuz"
+    ],
+    [
+      "Strait of Hormuz",
+      "location.location.time_zones",
+      "Gulf Time Zone"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Oman"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Dalma"
+    ],
+    [
+      "Oman",
+      "location.location.time_zones",
+      "Gulf Time Zone"
+    ],
+    [
+      "Gulf Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "United Arab Emirates"
+    ],
+    [
+      "Operation Prime Chance",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Kish",
+      "location.location.time_zones",
+      "Iran Time Zone"
+    ],
+    [
+      "Strait of Hormuz",
+      "location.location.time_zones",
+      "Iran Time Zone"
+    ],
+    [
+      "Body Of Water",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Body Of Water",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Strait of Hormuz",
+      "common.topic.notable_types",
+      "Body Of Water"
+    ],
+    [
+      "Body Of Water",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Body Of Water",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Bombing of Iraq",
+      "time.event.included_in_event",
+      "Iraqi no-fly zones"
+    ],
+    [
+      "Bombing of Iraq",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Bombing of Iraq",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Iraqi no-fly zones",
+      "time.event.includes_event",
+      "Bombing of Iraq"
+    ],
+    [
+      "Operation Morvarid",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Operation Morvarid",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Operation Morvarid",
+      "base.culturalevent.event.entity_involved",
+      "Iraqi Navy"
+    ],
+    [
+      "Operation Nimble Archer",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Operation Nimble Archer",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Yas Island",
+      "location.location.containedby",
+      "United Arab Emirates"
+    ],
+    [
+      "Operation Praying Mantis",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Operation Praying Mantis",
+      "base.culturalevent.event.entity_involved",
+      "United States Navy"
+    ],
+    [
+      "Abu Musa",
+      "location.location.containedby",
+      "United Arab Emirates"
+    ],
+    [
+      "m.09wysgp",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "m.09wj5vr",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "United States Navy"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "Iraqi Army"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "Iraqi Navy"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "common.topic.image",
+      "GulfWar1991-3"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "Norman Schwarzkopf, Jr."
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "common.topic.notable_for",
+      "g.1259xmw8v"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "common.topic.article",
+      "m.0ddfvx7"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "Kuwaiti Navy"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "common.topic.notable_types",
+      "Battle"
+    ],
+    [
+      "Battle of Qurah and Umm al Maradim",
+      "base.culturalevent.event.entity_involved",
+      "US Marines"
+    ],
+    [
+      "Battle of Bubiyan",
+      "common.topic.article",
+      "m.0ddfx7w"
+    ],
+    [
+      "Battle of Bubiyan",
+      "common.topic.image",
+      "Navalmine"
+    ],
+    [
+      "Battle of Bubiyan",
+      "base.culturalevent.event.entity_involved",
+      "Iraqi Navy"
+    ],
+    [
+      "Battle of Bubiyan",
+      "common.topic.notable_for",
+      "g.125fnpf6b"
+    ],
+    [
+      "Battle of Bubiyan",
+      "base.culturalevent.event.entity_involved",
+      "Ali Hassan al-Majid"
+    ],
+    [
+      "Battle of Bubiyan",
+      "base.culturalevent.event.entity_involved",
+      "United States Navy"
+    ],
+    [
+      "Battle of Bubiyan",
+      "base.culturalevent.event.entity_involved",
+      "Royal Navy"
+    ],
+    [
+      "Battle of Bubiyan",
+      "common.topic.notable_types",
+      "Battle"
+    ],
+    [
+      "Battle of Bubiyan",
+      "base.culturalevent.event.entity_involved",
+      "Peter de la Billière"
+    ],
+    [
+      "Battle of Bubiyan",
+      "base.culturalevent.event.entity_involved",
+      "Norman Schwarzkopf, Jr."
+    ],
+    [
+      "Battle of Bubiyan",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Tarout Island",
+      "location.location.containedby",
+      "Saudi Arabia"
+    ],
+    [
+      "m.09ybf3g",
+      "common.webpage.in_index",
+      "Entertainment Weekly annotation index"
+    ],
+    [
+      "Cruise missile strikes on Iraq",
+      "base.culturalevent.event.entity_involved",
+      "Saddam Hussein"
+    ],
+    [
+      "Cruise missile strikes on Iraq",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Cruise missile strikes on Iraq",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Iraqi no-fly zones",
+      "time.event.includes_event",
+      "Cruise missile strikes on Iraq"
+    ],
+    [
+      "Cruise missile strikes on Iraq",
+      "time.event.included_in_event",
+      "Iraqi no-fly zones"
+    ],
+    [
+      "Cruise missile strikes on Iraq",
+      "time.event.locations",
+      "Iraq"
+    ],
+    [
+      "Cruise missile strikes on Iraq",
+      "base.culturalevent.event.entity_involved",
+      "Colin Powell"
+    ],
+    [
+      "Bahrain",
+      "location.location.contains",
+      "Nabih Saleh"
+    ],
+    [
+      "Saudi Arabia",
+      "location.location.events",
+      "USS Stark Attack"
+    ],
+    [
+      "USS Stark Attack",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "USS Stark Attack",
+      "base.culturalevent.event.entity_involved",
+      "Iraq"
+    ],
+    [
+      "USS Stark Attack",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "USS Stark Attack",
+      "time.event.locations",
+      "Saudi Arabia"
+    ],
+    [
+      "Bahrain",
+      "location.location.contains",
+      "Geography of Bahrain"
+    ],
+    [
+      "Bahrain",
+      "location.location.contains",
+      "Hawar"
+    ],
+    [
+      "Bahrain",
+      "location.location.contains",
+      "Sitra"
+    ]
+  ]
+}

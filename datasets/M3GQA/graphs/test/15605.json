@@ -1,0 +1,8655 @@
+{
+  "graph_id": 15605,
+  "subgraph": [
+    [
+      "Florence",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Florence"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Lauderdale County"
+    ],
+    [
+      "Montgomery",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "Colbert County",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Tennessee"
+    ],
+    [
+      "Mississippi",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Montgomery"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Mississippi"
+    ],
+    [
+      "Lauderdale County",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "TimesDaily",
+      "book.newspaper.circulation_areas",
+      "Colbert County"
+    ],
+    [
+      "Tennessee",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "TimesDaily"
+    ],
+    [
+      "Southeastern United States",
+      "book.book_subject.works",
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.contains",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Florence (1953)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Hurricane Bonnie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Hanna"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Southeastern United States",
+      "common.topic.subject_of",
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "Southeastern United States"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "Tropical Storm Hanna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bonnie"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.contains",
+      "Tennessee"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isaac"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Southeastern United States"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Humberto"
+    ],
+    [
+      "Hurricane Ida",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston",
+      "book.written_work.subjects",
+      "Southeastern United States"
+    ],
+    [
+      "Hurricane Humberto",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "Southeastern United States"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "Southeastern United States"
+    ],
+    [
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston",
+      "common.topic.subjects",
+      "Southeastern United States"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.contains",
+      "Mississippi"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ida"
+    ],
+    [
+      "Southeastern United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1953)"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Southeastern United States",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Hurricane Isaac",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Southeastern United States"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Pennsylvania"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Ohio"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Wisconsin"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "North Carolina"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "West Virginia"
+    ],
+    [
+      "Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Ohio",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Minnesota",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Illinois",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Virginia"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Alabama"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Kentucky"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Minnesota"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Illinois"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "Pennsylvania",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "West Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Alabama",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Kentucky",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Mississippi"
+    ],
+    [
+      "Wisconsin",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "Indiana"
+    ],
+    [
+      "North Carolina",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Indiana",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "EPIC Systems, Inc"
+    ],
+    [
+      "Florence",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 256 and 938"
+    ],
+    [
+      "Lauderdale County",
+      "location.us_county.county_seat",
+      "Florence"
+    ],
+    [
+      "Thomas Sigismund Stribling",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "location.hud_county_place.place",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee River",
+      "geography.river.cities",
+      "Florence"
+    ],
+    [
+      "Harlon Hill",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Lauderdale County",
+      "location.us_county.hud_county_place",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Florence",
+      "location.hud_county_place.county",
+      "Lauderdale County"
+    ],
+    [
+      "Robert E. Jones, Jr.",
+      "people.deceased_person.place_of_death",
+      "Florence"
+    ],
+    [
+      "Florence",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Florence",
+      "location.location.containedby",
+      "Lauderdale County"
+    ],
+    [
+      "Lauderdale County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Alabama"
+    ],
+    [
+      "Waterloo",
+      "location.hud_county_place.county",
+      "Lauderdale County"
+    ],
+    [
+      "Lauderdale County",
+      "location.us_county.hud_county_place",
+      "Waterloo"
+    ],
+    [
+      "Killen",
+      "location.hud_county_place.county",
+      "Lauderdale County"
+    ],
+    [
+      "Lauderdale County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Killen",
+      "location.location.containedby",
+      "Lauderdale County"
+    ],
+    [
+      "Lauderdale County",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Lauderdale County",
+      "location.us_county.hud_county_place",
+      "Killen"
+    ],
+    [
+      "Lauderdale County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Waterloo",
+      "location.location.containedby",
+      "Lauderdale County"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Lauderdale County"
+    ],
+    [
+      "Lauderdale County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Lauderdale County",
+      "common.topic.notable_types",
+      "US County"
+    ],
+    [
+      "Montgomery",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Montgomery",
+      "base.biblioness.bibs_location.state",
+      "Alabama"
+    ],
+    [
+      "Montgomery",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Montgomery",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.capital",
+      "Montgomery"
+    ],
+    [
+      "Montgomery",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Montgomery",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Montgomery",
+      "location.hud_county_place.place",
+      "Montgomery"
+    ],
+    [
+      "Alabama",
+      "location.us_state.capital",
+      "Montgomery"
+    ],
+    [
+      "Colbert County",
+      "common.topic.notable_types",
+      "US County"
+    ],
+    [
+      "Colbert County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Alabama"
+    ],
+    [
+      "Colbert County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Colbert County",
+      "location.us_county.hud_county_place",
+      "Sheffield"
+    ],
+    [
+      "Sheffield",
+      "location.hud_county_place.county",
+      "Colbert County"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Colbert County"
+    ],
+    [
+      "Colbert County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Cherokee",
+      "location.location.containedby",
+      "Colbert County"
+    ],
+    [
+      "Cherokee",
+      "location.hud_county_place.county",
+      "Colbert County"
+    ],
+    [
+      "Colbert County",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Colbert County",
+      "location.us_county.hud_county_place",
+      "Cherokee"
+    ],
+    [
+      "Sheffield",
+      "location.location.containedby",
+      "Colbert County"
+    ],
+    [
+      "Tennessee",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Clifton",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Tri-State Defender"
+    ],
+    [
+      "Area code 423",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "St. Elmo Historic District",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partiallycontains",
+      "m.0wg8q52"
+    ],
+    [
+      "Hatchie River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Tennessee River"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Big South Fork of the Cumberland River"
+    ],
+    [
+      "Cumberland River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Hurricane Babe",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tennessee"
+    ],
+    [
+      "m.0wg8q52",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Tennessee"
+    ],
+    [
+      "Ruby Falls",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Tennessee",
+      "location.location.adjoin_s",
+      "m.02thc30"
+    ],
+    [
+      "Tri-State Defender",
+      "book.newspaper.circulation_areas",
+      "Tennessee"
+    ],
+    [
+      "Confederate Heartland Offensive",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "French Broad River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "Signal Mountain",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partiallycontains",
+      "m.0wg8qf4"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Hatchie River"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Lookout Mountain"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Confederate Heartland Offensive"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee Aquarium",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "French Broad River"
+    ],
+    [
+      "Loudon County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Tennessee"
+    ],
+    [
+      "Chattanooga",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Babe"
+    ],
+    [
+      "Wayne County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Ridge-and-Valley Appalachians"
+    ],
+    [
+      "New Johnsonville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Knoxville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee College of Applied Technology - Crump",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Newport",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Lower Mississippi River"
+    ],
+    [
+      "Elk River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Loudon",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Cherokee–American wars",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Great Smoky Mountains"
+    ],
+    [
+      "Tennessee",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Nickajack Lake",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Morgan's Raid",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.capital",
+      "Nashville"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "m.0wk7czd",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partiallycontains",
+      "m.0wk7czd"
+    ],
+    [
+      "Lookout Mountain",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Savannah",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Kingston",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "m.02thc30",
+      "location.adjoining_relationship.adjoins",
+      "Tennessee"
+    ],
+    [
+      "Hardin County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.location.adjoin_s",
+      "m.02thb92"
+    ],
+    [
+      "Humphreys County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Tennessee"
+    ],
+    [
+      "Nashville",
+      "base.biblioness.bibs_location.state",
+      "Tennessee"
+    ],
+    [
+      "Lenoir City",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Marion Memorial Bridge",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Fort Southwest Point",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Tennessee"
+    ],
+    [
+      "Knoxville",
+      "base.biblioness.bibs_location.state",
+      "Tennessee"
+    ],
+    [
+      "Big South Fork of the Cumberland River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "m.0wg8qf4",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Tennessee"
+    ],
+    [
+      "Roane County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Hurricane Danny",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Area code 865",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Tuscumbia River"
+    ],
+    [
+      "Cherry Mansion",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.adjoin_s",
+      "m.02th83k"
+    ],
+    [
+      "Wolf River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Soddy-Daisy",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Marion County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Pine Mountain"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Hamilton County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Elk River"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "South Pittsburg",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Morgan's Raid"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Holston River"
+    ],
+    [
+      "B'nai B'rith District Grand Lodge 7",
+      "organization.organization.geographic_scope",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Danny"
+    ],
+    [
+      "Tennessee",
+      "organization.organization_scope.organizations_with_this_scope",
+      "B'nai B'rith District Grand Lodge 7"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.us_state.capital",
+      "Nashville"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pine Mountain",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Crump",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "m.02th83k",
+      "location.adjoining_relationship.adjoins",
+      "Tennessee"
+    ],
+    [
+      "Holston River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Anglo-Cherokee War"
+    ],
+    [
+      "Tuscumbia River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Cumberland River"
+    ],
+    [
+      "Haletown",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Tennessee"
+    ],
+    [
+      "Anglo-Cherokee War",
+      "time.event.locations",
+      "Tennessee"
+    ],
+    [
+      "John Ross",
+      "people.person.place_of_birth",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Humphreys County"
+    ],
+    [
+      "Tennessee",
+      "location.location.events",
+      "Cherokee–American wars"
+    ],
+    [
+      "Knox County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "location.location.partially_contains",
+      "Wolf River"
+    ],
+    [
+      "m.02thb92",
+      "location.adjoining_relationship.adjoins",
+      "Tennessee"
+    ],
+    [
+      "Humphreys County",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Sevierville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Area code 931",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Tennessee",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "freebase.valuenotation.has_no_value",
+      "Minimum wage"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Nashville",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Roane County Courthouse",
+      "location.location.containedby",
+      "Tennessee"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Mississippi Department of Public Safety"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dennis"
+    ],
+    [
+      "Hurricane Hilda",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "The Road to Memphis",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Gulf Coast of the United States",
+      "location.location.contains",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Danny",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Yonder stands your orphan"
+    ],
+    [
+      "1987 Gulf Coast tropical storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "The Keepers of the House",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.02th6z8",
+      "location.adjoining_relationship.adjoins",
+      "Mississippi"
+    ],
+    [
+      "Mississippi Mud",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6crm"
+    ],
+    [
+      "m.0wg8_qh",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Hatchie River",
+      "geography.river.origin",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.events",
+      "Siege of Vicksburg"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xh2sp"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04403vd"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Danny"
+    ],
+    [
+      "1926 Miami hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09x6tjr"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Mansion"
+    ],
+    [
+      "Tropical Storm Matthew",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Hanna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Bertha"
+    ],
+    [
+      "Mississippi",
+      "common.topic.image",
+      "Mississippi.jpg"
+    ],
+    [
+      "m.09n5wq3",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5wq3"
+    ],
+    [
+      "Hurricane Florence (1988)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.09n5xwt",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.0gmk8ff"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The war within"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010f16rb"
+    ],
+    [
+      "Hatchie River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Camille",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.image",
+      "Map of Mississippi NA"
+    ],
+    [
+      "m.04lsv8l",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "m.09n66vv",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Edouard"
+    ],
+    [
+      "m.09x4630",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "m.09x5t6_",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "Vicksburg",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09n5vg3",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Frederic"
+    ],
+    [
+      "m.04strc6",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Tuscumbia River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "m.09w42f3",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "m.0yqbpj5",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "1812 Louisiana hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.government_bodies",
+      "Mississippi State Senate"
+    ],
+    [
+      "Lonely Planet Deep South",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n68ww"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0_8n579"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "A Time to Kill"
+    ],
+    [
+      "m.09xgdjq",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Robber Bridegroom"
+    ],
+    [
+      "m.09wk2xf",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Last Juror"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Sound and the Fury"
+    ],
+    [
+      "Tropical Storm Hermine",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Prisoners of War"
+    ],
+    [
+      "Mississippi",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Mississippi Mud"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0n5xx50"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0hz71bx"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5vsy"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5y4j"
+    ],
+    [
+      "m.09n5yj7",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "military.military_unit_place_of_origin.military_units",
+      "71st United States Colored Infantry Regiment"
+    ],
+    [
+      "m.09x196g",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Ida",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w8d8zy"
+    ],
+    [
+      "The Little Friend",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.0440592"
+    ],
+    [
+      "Mississippi",
+      "location.location.events",
+      "Mississippi Republican primary, 2012"
+    ],
+    [
+      "Crossroad blues",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Buttahatchee River"
+    ],
+    [
+      "Hurricane Humberto",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n69c_"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09y9nv3"
+    ],
+    [
+      "Mississippi",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Tri-State Defender"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n66vv"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_sf"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Lower Mississippi River"
+    ],
+    [
+      "Tombigbee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Arlene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Boy with loaded gun"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.04st945"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.gdp_nominal",
+      "m.04ftp29"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5tcg"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "m.0wg8_pz",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Falling through space"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The House of Percy"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wjpmc7"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Freedom summer"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010f1bl6"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n67zw"
+    ],
+    [
+      "The Hardest Deal of All",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.0wjpmc7",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "m.09n61lz",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bonnie"
+    ],
+    [
+      "Hurricane Rita",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04405tv"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6c73"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "North toward home"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.0b48b1y"
+    ],
+    [
+      "Sleep No More",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "The Bloodworth orphans",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n654k"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Hunting season"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6drd"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_nr"
+    ],
+    [
+      "Hurricane Elena",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.09n68ww",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.article",
+      "m.04tg_"
+    ],
+    [
+      "B'nai B'rith District Grand Lodge 7",
+      "organization.organization.geographic_scope",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Hatchie River"
+    ],
+    [
+      "m.09n672j",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.09n6bn9",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04404_6"
+    ],
+    [
+      "m.09n5vsy",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.0wg8_nr",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6ftw"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Sucarnoochee River"
+    ],
+    [
+      "The Mansion",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Jackson",
+      "base.biblioness.bibs_location.state",
+      "Mississippi"
+    ],
+    [
+      "The Quiet Game",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Frederic",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Logic"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5w_7"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "There is a tree more ancient than Eden"
+    ],
+    [
+      "m.09n6c73",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1926 Miami hurricane"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tennessee–Tombigbee Waterway"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09w42f3"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5ts3"
+    ],
+    [
+      "1837 Racer's Storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n65s6"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Black Boy"
+    ],
+    [
+      "m.02th8c9",
+      "location.adjoining_relationship.adjoins",
+      "Mississippi"
+    ],
+    [
+      "Jackson Zoo",
+      "location.location.containedby",
+      "Mississippi"
+    ],
+    [
+      "m.09n654k",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0whd8vz"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09x5t6_"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_n6"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.044050m"
+    ],
+    [
+      "m.09n5xjg",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.02th83k",
+      "location.adjoining_relationship.adjoins",
+      "Mississippi"
+    ],
+    [
+      "m.0hz71bx",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "m.09n5z7x",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.09n5y4j",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.02th576",
+      "location.adjoining_relationship.adjoins",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xgl4h"
+    ],
+    [
+      "Grant rises in the West.",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.0ncsbq6"
+    ],
+    [
+      "Third Degree",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.adjoin_s",
+      "m.02th576"
+    ],
+    [
+      "m.09n5v3b",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Town"
+    ],
+    [
+      "m.0jvw4n7",
+      "location.administrative_division_capital_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.05kfd9j"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6fbm"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Homeland Insecurity"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Two novels"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04403y1"
+    ],
+    [
+      "m.09n5zrq",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04x_n6m"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "A dilly of a death"
+    ],
+    [
+      "Hurricane Dennis",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.09n638s",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Cindy"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n672j"
+    ],
+    [
+      "m.04x_n6m",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "1917 Nueva Gerona hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Freedom summer",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.0wg8_n6",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "m.0wjplv9",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "1947 Fort Lauderdale hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Love in a dry season",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09n5x6z",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Reivers"
+    ],
+    [
+      "My cat Spit McGee",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.0440421"
+    ],
+    [
+      "Mississippi State Senate",
+      "government.governmental_body.jurisdiction",
+      "Mississippi"
+    ],
+    [
+      "The last train north",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Come love a stranger",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Mississippi vistas"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Intruder in the Dust"
+    ],
+    [
+      "The End of California",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Once Upon a Time When We Were Colored",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Rita"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04403s_"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n64kr"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hilda"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n61lz"
+    ],
+    [
+      "A dilly of a death",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010q_kl5"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.044055b"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Bloodroot"
+    ],
+    [
+      "Mississippi",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Sun Herald"
+    ],
+    [
+      "m.09n5yzb",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0yqbpj5"
+    ],
+    [
+      "Siege of Vicksburg",
+      "time.event.locations",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Unvanquished"
+    ],
+    [
+      "m.09n62vx",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.0wg8_s8",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Erin"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wjplv9"
+    ],
+    [
+      "m.09n5tcg",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Liliane"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xfv2n"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5sz7"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ike"
+    ],
+    [
+      "m.09n5n_6",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Camille"
+    ],
+    [
+      "Mississippi",
+      "travel.travel_destination.tourist_attractions",
+      "Jackson Zoo"
+    ],
+    [
+      "Wolf River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gustav"
+    ],
+    [
+      "m.0b48b1y",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5zrq"
+    ],
+    [
+      "Hurricane Flossy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Danielle"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Chamber"
+    ],
+    [
+      "Noxubee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "m.09wz3bj",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Prisoners of War",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.01145pn6"
+    ],
+    [
+      "Secretary of State of Mississippi",
+      "government.government_office_or_title.jurisdiction",
+      "Mississippi"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xgtrw"
+    ],
+    [
+      "Yoknapatawpha County",
+      "fictional_universe.fictional_setting.contained_by",
+      "Mississippi"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n638s"
+    ],
+    [
+      "Tumult and Silence at Second Creek",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.aliens.ufo_sighting_location.ufo_sighting_s",
+      "Pascagoula Abduction"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Morning Song"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6hsy"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0hzby9d"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "My cat Spit McGee"
+    ],
+    [
+      "Coming of Age in Mississippi",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0nbyynn"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Amite River"
+    ],
+    [
+      "m.09n67zw",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Keepers of the House"
+    ],
+    [
+      "The House of Percy",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09n6031",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xps51"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tennessee River"
+    ],
+    [
+      "Jackson",
+      "location.location.containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5yzb"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1893 Cheniere Caminada hurricane"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ida"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.04lsv8l"
+    ],
+    [
+      "Mississippi",
+      "common.topic.image",
+      "Mississippi.png"
+    ],
+    [
+      "Mississippi",
+      "travel.travel_destination.tourist_attractions",
+      "Mississippi Museum of Natural Science"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Mississippi House of Representatives",
+      "government.governmental_body.jurisdiction",
+      "Mississippi"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Mississippi"
+    ],
+    [
+      "The journey home",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.04st864"
+    ],
+    [
+      "Mississippi",
+      "fictional_universe.fictional_setting.contains",
+      "Yoknapatawpha County"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Go Down, Moses"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The oxygen man"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Roll of Thunder, Hear My Cry"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.government_bodies",
+      "Mississippi Legislature"
+    ],
+    [
+      "Mississippi",
+      "location.location.events",
+      "Mississippi Voter Registration Deadline, 2012"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Boomerang\\\\/Never Die"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5xwt"
+    ],
+    [
+      "m.0hzbj9_",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0yqbplf"
+    ],
+    [
+      "m.09n6gs9",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Lonely Planet Deep South"
+    ],
+    [
+      "m.04st945",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flossy"
+    ],
+    [
+      "Logic",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Nighthawk Blues"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Swamp Man"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Follow me down"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Quiet Game"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09wk2xf"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Tumult and Silence at Second Creek"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Conversations with Shelby Foote"
+    ],
+    [
+      "m.0gmk8ff",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "m.0n5xx50",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "m.09y9nv3",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "m.09n5w_7",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Boomerang\\\\/Never Die",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Florence (1953)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Mississippi"
+    ],
+    [
+      "Go Down, Moses",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Humberto"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Light in August"
+    ],
+    [
+      "The Town",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09x6tjr",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Eden",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09w3fwp"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wp5m_j"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_mp"
+    ],
+    [
+      "m.09xpvcj",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.04stk9v"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5yj7"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Hardest Deal of All"
+    ],
+    [
+      "1900 Galveston hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_pf"
+    ],
+    [
+      "m.09n68ft",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.geolocation",
+      "m.046vx9d"
+    ],
+    [
+      "The Appeal",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Vicksburg"
+    ],
+    [
+      "1893 Cheniere Caminada hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "William Faulkner, As I lay dying"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xgcc5"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Old Times on the Mississippi"
+    ],
+    [
+      "m.0_8rgmt",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Bloodroot",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tickfaw River"
+    ],
+    [
+      "m.09n668z",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.05kgsgg"
+    ],
+    [
+      "m.0wg8_pf",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.04stq0f"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.agencies",
+      "Mississippi Department of Public Safety"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0tm2t34"
+    ],
+    [
+      "Mississippi",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5x6z"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04406m5"
+    ],
+    [
+      "Caldecott County",
+      "fictional_universe.fictional_setting.contained_by",
+      "Mississippi"
+    ],
+    [
+      "The Unvanquished",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Deep South"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09x196g"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Once Upon a Time When We Were Colored"
+    ],
+    [
+      "The Last Juror",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "symbols.flag_referent.flag",
+      "m.0jsp8kx"
+    ],
+    [
+      "m.010q_kl5",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n69sh"
+    ],
+    [
+      "North toward home",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.0hzdnt6",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Tri-State Defender",
+      "book.newspaper.circulation_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The ghosts of Medgar Evers"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010f16s2"
+    ],
+    [
+      "Sucarnoochee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tuscumbia River"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "September, September"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "m.09n6b68",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04406gh"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1987 Gulf Coast tropical storm"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Appeal"
+    ],
+    [
+      "The Chamber",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Little Friend"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Hamlet"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Daisy Fay and the Miracle Man"
+    ],
+    [
+      "Mississippi",
+      "location.location.events",
+      "United States Senate Republican primary election in Mississippi, 2014"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Juan"
+    ],
+    [
+      "m.09n5ts3",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "symbols.name_source.namesakes",
+      "USS Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "My Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Come love a stranger"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Elena"
+    ],
+    [
+      "m.09n65s6",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.0hzby9d",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "m.09n60m4",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Worse than Slavery",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "m.010f16s2",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "m.09n6h3x",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.0zct6rv",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "m.0ncsbq6",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Dirty South"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5xjg"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6bn9"
+    ],
+    [
+      "The sharpshooter blues",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.04strc6"
+    ],
+    [
+      "Jackson Zoo",
+      "travel.tourist_attraction.near_travel_destination",
+      "Mississippi"
+    ],
+    [
+      "Old Times on the Mississippi",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Tennessee–Tombigbee Waterway",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "fictional_universe.fictional_setting.contains",
+      "Caldecott County"
+    ],
+    [
+      "Pale Horse Coming",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "The Hamlet",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Alicia"
+    ],
+    [
+      "Mississippi",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n68ft"
+    ],
+    [
+      "m.09n5nyx",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ethel"
+    ],
+    [
+      "The war within",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Pearl River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "m.0whd8vz",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The journey home"
+    ],
+    [
+      "Mississippi",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Industrial Worker"
+    ],
+    [
+      "The Sound and the Fury",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09xfv2n",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The sharpshooter blues"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Music of the swamp"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Sugar among the freaks"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The roads of my relations"
+    ],
+    [
+      "Mississippi",
+      "freebase.valuenotation.has_no_value",
+      "Minimum wage"
+    ],
+    [
+      "Mississippi",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "travel.travel_destination.tourist_attractions",
+      "Hattiesburg Zoo"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Mississippi"
+    ],
+    [
+      "m.09n64kr",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "The Summons",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.044068w"
+    ],
+    [
+      "m.09n6hsy",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_qn"
+    ],
+    [
+      "William Faulkner, As I lay dying",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "m.0wg8_r5",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.04st74v"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6d4r"
+    ],
+    [
+      "m.0wg8_mp",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "m.0wg8_rr",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1856 Last Island hurricane"
+    ],
+    [
+      "m.07nfbhh",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Cindy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_r5"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0zct6rv"
+    ],
+    [
+      "Tropical Storm Edouard",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0110xsvl"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Jewel"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Let the Circle Be Unbroken"
+    ],
+    [
+      "m.04stq0f",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Erin",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.0jsp8kx",
+      "symbols.flag_use.flag_user",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isaac"
+    ],
+    [
+      "m.09n6fbm",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "I dream of trains"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0_8rgmt"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1953)"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Road to Memphis"
+    ],
+    [
+      "m.010f1bl6",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "m.0wg8_sf",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "m.09n69sh",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "The Robber Bridegroom",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "The Reivers",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1917 Nueva Gerona hurricane"
+    ],
+    [
+      "m.01145pn6",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Swamp Man",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Pale Horse Coming"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Flags in the Dust"
+    ],
+    [
+      "m.010f16rb",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Bloodworth orphans"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Three lives for Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.adjoin_s",
+      "m.02th83k"
+    ],
+    [
+      "Magic time",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09xgcc5",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.agencies",
+      "Mississippi Department of Transportation"
+    ],
+    [
+      "Wolf whistle",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xgdjq"
+    ],
+    [
+      "m.04st74v",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "m.09n6ftw",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Roll of Thunder, Hear My Cry",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.04st864",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.09w3fwp",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "military.military_unit_place_of_origin.military_units",
+      "10th Mississippi Infantry"
+    ],
+    [
+      "m.09n69c_",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.notable_for",
+      "g.125ctmvsm"
+    ],
+    [
+      "Mississippi",
+      "travel.travel_destination.tourist_attractions",
+      "Vicksburg National Military Park"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.government_positions",
+      "Secretary of State of Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_rr"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Pearl River"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Veneer"
+    ],
+    [
+      "Daisy Fay and the Miracle Man",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Let the Circle Be Unbroken",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Industrial Worker",
+      "book.newspaper.circulation_areas",
+      "Mississippi"
+    ],
+    [
+      "m.09xps51",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5v3b"
+    ],
+    [
+      "Mississippi",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfbhh"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Searching for Robert Johnson"
+    ],
+    [
+      "m.0wg8_qn",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1900 Galveston hurricane"
+    ],
+    [
+      "m.09n6crm",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.adjoin_s",
+      "m.02th6z8"
+    ],
+    [
+      "Mississippi",
+      "travel.travel_destination.tourist_attractions",
+      "Geyser Falls Water Theme Park"
+    ],
+    [
+      "Mississippi Museum of Natural Science",
+      "travel.tourist_attraction.near_travel_destination",
+      "Mississippi"
+    ],
+    [
+      "Mississippi Museum of Natural Science",
+      "location.location.containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi Legislature",
+      "government.governmental_body.jurisdiction",
+      "Mississippi"
+    ],
+    [
+      "Tishomingo Blues",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Nighthawk Blues",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5z7x"
+    ],
+    [
+      "Falling through space",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tangipahoa River"
+    ],
+    [
+      "Jewel",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.0nbyynn",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.government_bodies",
+      "Mississippi House of Representatives"
+    ],
+    [
+      "m.09xgtrw",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Three lives for Mississippi",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Ike",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "m.0yqbplf",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "A Time to Kill",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09n5sz7",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09x4630"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Tishomingo Blues"
+    ],
+    [
+      "Light in August",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Third Degree"
+    ],
+    [
+      "Tickfaw River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Isidore",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.0ncyng4"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09xpvcj"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.0hzbj9_"
+    ],
+    [
+      "Mississippi",
+      "base.aareas.schema.administrative_area.capital",
+      "Jackson"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6h3x"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6gs9"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0jsjt3f"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6031"
+    ],
+    [
+      "Tennessee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1947 Fort Lauderdale hurricane"
+    ],
+    [
+      "m.0jsjt3f",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Morning Song",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6b68"
+    ],
+    [
+      "Buttahatchee River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04406k4"
+    ],
+    [
+      "Tangipahoa River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "Freedom walk",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Two novels",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Love in a dry season"
+    ],
+    [
+      "1856 Last Island hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "common.topic.webpage",
+      "m.09wz3bj"
+    ],
+    [
+      "Hurricane Isaac",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.events",
+      "Mississippi Absentee Ballot Return Deadline, 2012"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Babe"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Worse than Slavery"
+    ],
+    [
+      "Hurricane Ethel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Summons"
+    ],
+    [
+      "m.09xgl4h",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Hermine"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Taps"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5vg3"
+    ],
+    [
+      "m.0mx2pby",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The last train north"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n668z"
+    ],
+    [
+      "Hurricane Juan",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Matthew"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6463"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.0mx2pby"
+    ],
+    [
+      "Tropical Storm Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Jordan County"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Eden"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Hanna"
+    ],
+    [
+      "Hurricane Gustav",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Arlene"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Mississippi trilogy"
+    ],
+    [
+      "m.0w8d8zy",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Crossroad blues"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_s8"
+    ],
+    [
+      "Black Boy",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The End of California"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5nyx"
+    ],
+    [
+      "m.09n63rk",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Visible spirits"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Magic time"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isidore"
+    ],
+    [
+      "m.0wp5m_j",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Mother of Pearl"
+    ],
+    [
+      "Amite River",
+      "location.location.partially_containedby",
+      "Mississippi"
+    ],
+    [
+      "The oxygen man",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_pz"
+    ],
+    [
+      "Mississippi",
+      "organization.organization_scope.organizations_with_this_scope",
+      "B'nai B'rith District Grand Lodge 7"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1988)"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n67l9"
+    ],
+    [
+      "m.09xh2sp",
+      "common.webpage.topic",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Noxubee River"
+    ],
+    [
+      "Hunting season",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.0_8n579",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1812 Louisiana hurricane"
+    ],
+    [
+      "m.09n67l9",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.adjoin_s",
+      "m.02th8c9"
+    ],
+    [
+      "m.09n6d4r",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n5n_6"
+    ],
+    [
+      "m.05kfd9j",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Jordan County",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n60m4"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n6g99"
+    ],
+    [
+      "Hurricane Babe",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.statistical_region.religions",
+      "m.04405kp"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Mistress Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "Gulf Coast of the United States"
+    ],
+    [
+      "m.04stk9v",
+      "location.location_symbol_relationship.administrative_division",
+      "Mississippi"
+    ],
+    [
+      "Hurricane Alicia",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Intruder in the Dust",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.05kgsgg",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "m.09n6drd",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Wolf River"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.capital",
+      "m.0jvw4n7"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "Liliane",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Eudora Welty"
+    ],
+    [
+      "Homeland Insecurity",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "m.09n6g99",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partially_contains",
+      "Tombigbee River"
+    ],
+    [
+      "Follow me down",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.us_state.capital",
+      "Jackson"
+    ],
+    [
+      "Tropical Storm Danielle",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.agencies",
+      "Mississippi Highway Patrol"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Wolf whistle"
+    ],
+    [
+      "Music of the swamp",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Deep South",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_sl"
+    ],
+    [
+      "Flags in the Dust",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "The Help"
+    ],
+    [
+      "m.0ncyng4",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "location.location.partiallycontains",
+      "m.0wg8_qh"
+    ],
+    [
+      "Mississippi",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1837 Racer's Storm"
+    ],
+    [
+      "m.0wg8_sl",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Mississippi"
+    ],
+    [
+      "m.0110xsvl",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "The roads of my relations",
+      "book.written_work.subjects",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.official_symbols",
+      "m.0hzdnt6"
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n62vx"
+    ],
+    [
+      "m.0tm2t34",
+      "government.government_position_held.jurisdiction_of_office",
+      "Mississippi"
+    ],
+    [
+      "m.09n6463",
+      "government.government_position_held.district_represented",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Grant rises in the West."
+    ],
+    [
+      "Mississippi",
+      "government.political_district.representatives",
+      "m.09n63rk"
+    ],
+    [
+      "Hurricane Bonnie",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Freedom walk"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Disappearing in Mississippi latitudes"
+    ],
+    [
+      "Mississippi",
+      "government.governmental_jurisdiction.agencies",
+      "Mississippi Department of Agriculture and Commerce"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Sleep No More"
+    ],
+    [
+      "Mississippi",
+      "book.book_subject.works",
+      "Coming of Age in Mississippi"
+    ],
+    [
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston",
+      "book.written_work.subjects",
+      "Knoxville"
+    ],
+    [
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston",
+      "common.topic.subjects",
+      "Knoxville"
+    ],
+    [
+      "Knoxville",
+      "common.topic.subject_of",
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston"
+    ],
+    [
+      "Knoxville",
+      "book.book_subject.works",
+      "C-SPAN's LCV 2011 U.S. Cities Tour Wraps up Savannah Shoot, Now in Charleston"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Danny"
+    ],
+    [
+      "Hurricane Cindy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Rosman",
+      "location.location.containedby",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "North Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.0wk7d1p",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North Carolina"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.partially_containedby",
+      "North Carolina"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Carolina"
+    ],
+    [
+      "Asheville",
+      "location.location.containedby",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.location.events",
+      "Cherokee–American wars"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.location.partiallycontains",
+      "m.0wk7d1p"
+    ],
+    [
+      "1987 Gulf Coast tropical storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Cherokee–American wars",
+      "time.event.locations",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Asheville",
+      "base.biblioness.bibs_location.state",
+      "North Carolina"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.location.partially_contains",
+      "French Broad River"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Babe",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1987 Gulf Coast tropical storm"
+    ],
+    [
+      "French Broad River",
+      "location.location.partially_containedby",
+      "North Carolina"
+    ],
+    [
+      "1837 Racer's Storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1953)"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Hurricane Flossy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.location.partially_contains",
+      "Great Smoky Mountains"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flossy"
+    ],
+    [
+      "North Carolina",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1837 Racer's Storm"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Babe"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "North Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Hurricane Danny",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "North Carolina",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "North Carolina",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "North Carolina",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Cindy"
+    ],
+    [
+      "Hurricane Florence (1953)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "North Carolina"
+    ],
+    [
+      "Hurricane Florence (1953)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Gulf Coast of the United States"
+    ],
+    [
+      "Hurricane Florence (1953)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Gulf Coast of the United States",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1953)"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1953)"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Montana"
+    ],
+    [
+      "Kelly Shiver",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Elk River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Minnesota"
+    ],
+    [
+      "Rachel Boston",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "On the Storied Ohio",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "m.09n6hsy",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Pennsylvania"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Chattanooga",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lonely Planet Deep South",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Jackson",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.09n60m4",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Grand Rivers",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Asheville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Limestone County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Triana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "Tennessee College of Applied Technology - Crump",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "m.09n5y4j",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Industrial Worker",
+      "book.newspaper.circulation_areas",
+      "United States of America"
+    ],
+    [
+      "Frankfort",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Industrial Worker"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.09n5yzb",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Loudon County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.09n5ts3",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n69sh",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Pearl River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Tumult and Silence at Second Creek",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "m.09n672j",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n66vv",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Indiana"
+    ],
+    [
+      "Amite River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Trigg County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Fred Thompson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Brett Granstaff",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jackson",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Elk River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Tennessee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "David Briggs",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Asheville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Minnesota"
+    ],
+    [
+      "Two novels",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Waterloo",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Guntersville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Pennsylvania"
+    ],
+    [
+      "m.09n6g99",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Roane County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pearl River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Buttahatchee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Huntsville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mississippi River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "West Virginia"
+    ],
+    [
+      "Pittsburgh",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.09n5xjg",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Mitch McConnell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "Hurricane Elena",
+      "meteorology.tropical_cyclone.affected_areas",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Wayne County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.09n6031",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Cumberland River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Sucarnoochee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n5wq3",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Virginia"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "Nashville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Freedom summer",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "William Lenoir",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Charles H. Coolidge",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "m.09n6fbm",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Jackson County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tangipahoa River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "m.09n5xwt",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "m.09n5sz7",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n6h3x",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Chris Jones",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Langston",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Elena"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "m.09n6ftw",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n61lz",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.05kgsgg",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "French Broad River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Bridgeport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bland County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "Vicksburg",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "The Unvanquished",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Marshall County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.09n6drd",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n6c73",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Marshall County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Robert E. Jones, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kentucky"
+    ],
+    [
+      "m.09n5w_7",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Ohio River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "The journey home",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.09n638s",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Pittsburgh",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "Wisconsin",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.09n6d4r",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n5n_6",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Virginia"
+    ],
+    [
+      "Montana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Kentucky Lake",
+      "geography.lake.basin_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rosman",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "Ohio",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "m.09n62vx",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Michael Golden",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Nickajack Lake",
+      "geography.lake.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Coming of Age in Mississippi",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "m.09n68ft",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Thomas Amos Rogers Nelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jobyna Ralston",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tombigbee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Knoxville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Sam Rayburn",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hatchie River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "West Virginia"
+    ],
+    [
+      "Eloise Popeil",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.09n65s6",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Indiana"
+    ],
+    [
+      "Shawneetown Bridge",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bland County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Terrell Robinson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "West Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Virginia"
+    ],
+    [
+      "m.09n668z",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Morgan County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.09n5yj7",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Tombigbee River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Nashville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kentucky"
+    ],
+    [
+      "m.09n64kr",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Madison County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.0ncsbq6",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Ohio"
+    ],
+    [
+      "McCracken County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Limestone County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Jackson County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Paducah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n5v3b",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Evie Liles",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.09n69c_",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "James Barney Marsh",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "m.09n67l9",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Montana"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Tennessee River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Indiana"
+    ],
+    [
+      "Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "m.09n6bn9",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Montana"
+    ],
+    [
+      "Sheffield",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Road to Memphis",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Wolf River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Dominique Croom",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Mississippi River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Decatur",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pat Trammell",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n68ww",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Black Boy",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Holston River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Great Smoky Mountains",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "Chris Claremont",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Siege of Vicksburg",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Marsha Thornton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Vaughn Thacker",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.0ncyng4",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n6crm",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Thomas Sigismund Stribling",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.09n654k",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Big South Fork of the Cumberland River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Big South Fork of the Cumberland River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Adam Lazzara",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.05kfd9j",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Hamilton County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "m.09n5tcg",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n5x6z",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "The war within",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Madison County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Minnesota"
+    ],
+    [
+      "Eddie Moore",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kentucky"
+    ],
+    [
+      "Indiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Virginia"
+    ],
+    [
+      "m.09n67zw",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Bryan Harvey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Marion County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kentucky"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "Pine Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "m.09n63rk",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "m.09n5vg3",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "North toward home",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Lucille Benson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n5z7x",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "New Johnsonville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Cumberland River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Tickfaw River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "French Broad River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Indiana"
+    ],
+    [
+      "Humphreys County",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Freedom walk",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Crump",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tennessee–Tombigbee Waterway",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Cherokee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Bobby E. Denton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Old Times on the Mississippi",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Chattanooga Metropolitan Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Willard Scissum",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "m.09n6gs9",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Grant rises in the West.",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Livingston County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Knox County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Killen",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n5nyx",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "George Lewis Gillespie, Jr.",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Humphreys County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Don Deforest Paul",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Scottsboro",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "Gulf Coast of the United States",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n6b68",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Huntsville",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Knoxville",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n6463",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Harlon Hill",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Tuscumbia River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio River",
+      "geography.river.basin_countries",
+      "United States of America"
+    ],
+    [
+      "Frankfort",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hardin County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Wesley Liles",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "West Virginia"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Noxubee River",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Let the Circle Be Unbroken",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Lookout Mountain",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Nickajack Lake",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n5zrq",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "John Ross",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "David Hood",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Ohio"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "m.09n5vsy",
+      "government.government_position_held.jurisdiction_of_office",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Homeland Insecurity",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "Elizabeth Patterson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jimmy Johnson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "Tana Patrick",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Tropical Storm Hanna",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Hanna"
+    ],
+    [
+      "Hurricane Georges",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Georges"
+    ],
+    [
+      "Hurricane Isaac",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Isaac"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Indiana"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Contiguous United States",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Montana"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Illinois"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Wisconsin"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "West Virginia"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Alabama"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Kentucky"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Virginia"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Pennsylvania"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Minnesota"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Contiguous United States",
+      "location.location.contains",
+      "Ohio"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "Contiguous United States"
+    ],
+    [
+      "Hurricane Ida",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ida"
+    ],
+    [
+      "Hurricane Ida",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ida"
+    ],
+    [
+      "West Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Sevierville",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Hamilton County",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Roane County",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Ohio",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Chattanooga",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Lenoir City",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Knoxville",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Kentucky",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Loudon",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Knox County",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Rosman",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Frankfort",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Indiana",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Newport",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Asheville",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Loudon County",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Kingston",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Soddy-Daisy",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Pittsburgh",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Signal Mountain",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Illinois",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Crump",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Limestone County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Jackson",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Grand Rivers",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Nashville",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Morgan County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Mississippi River",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Langston",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Haletown",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Madison County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Marshall County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Triana",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Sheffield",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "South Pittsburg",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Kentucky",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Savannah",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Guntersville",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Clifton",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Decatur",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Alabama",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Wisconsin",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "McCracken County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Paducah",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Huntsville",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Bridgeport",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Waterloo",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Scottsboro",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "New Johnsonville",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Minnesota",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Killen",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Indiana",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Pennsylvania",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Pennsylvania",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "m.0wg8myz",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Pennsylvania"
+    ],
+    [
+      "Pittsburgh",
+      "base.biblioness.bibs_location.state",
+      "Pennsylvania"
+    ],
+    [
+      "Pittsburgh",
+      "location.location.containedby",
+      "Pennsylvania"
+    ],
+    [
+      "Ohio River",
+      "geography.river.cities",
+      "Pennsylvania"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Pennsylvania"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.partially_contains",
+      "Ridge-and-Valley Appalachians"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.partially_containedby",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.partially_contains",
+      "Ohio River"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Pennsylvania"
+    ],
+    [
+      "Pittsburgh",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Pennsylvania",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Pittsburgh"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Ohio River",
+      "location.location.partially_containedby",
+      "Pennsylvania"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Pennsylvania"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.partiallycontains",
+      "m.0wg8myz"
+    ],
+    [
+      "Ohio",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Ohio",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "Ohio",
+      "location.location.events",
+      "Morgan's Raid"
+    ],
+    [
+      "Ohio",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Ohio",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Ohio"
+    ],
+    [
+      "Ohio",
+      "location.location.partially_contains",
+      "Ohio River"
+    ],
+    [
+      "Ohio",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Ethel"
+    ],
+    [
+      "Ohio",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Ohio",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Morgan's Raid",
+      "time.event.locations",
+      "Ohio"
+    ],
+    [
+      "Ohio",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Ohio"
+    ],
+    [
+      "Ohio River",
+      "location.location.partially_containedby",
+      "Ohio"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Ohio"
+    ],
+    [
+      "Hurricane Ethel",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Ohio"
+    ],
+    [
+      "Ohio",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Ohio",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Ohio"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Ohio"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Ohio"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Ohio"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Wisconsin"
+    ],
+    [
+      "Wisconsin",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "Wisconsin",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Wisconsin"
+    ],
+    [
+      "Wisconsin",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Wisconsin",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "North America",
+      "base.locations.continents.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.continent",
+      "North America"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Wisconsin"
+    ],
+    [
+      "Wisconsin",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Wisconsin"
+    ],
+    [
+      "Wisconsin",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "West Virginia",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Ohio River",
+      "location.location.partially_containedby",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "West Virginia",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "West Virginia"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "West Virginia"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.partially_containedby",
+      "West Virginia"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "West Virginia",
+      "location.location.events",
+      "Morgan's Raid"
+    ],
+    [
+      "West Virginia",
+      "location.location.partially_contains",
+      "Ridge-and-Valley Appalachians"
+    ],
+    [
+      "Morgan's Raid",
+      "time.event.locations",
+      "West Virginia"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "West Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "West Virginia"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "West Virginia"
+    ],
+    [
+      "West Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "West Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "West Virginia",
+      "location.location.partially_contains",
+      "Ohio River"
+    ],
+    [
+      "West Virginia",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "West Virginia",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Virginia",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Holston River",
+      "location.location.partially_containedby",
+      "Virginia"
+    ],
+    [
+      "Cherokee–American wars",
+      "time.event.locations",
+      "Virginia"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.partially_contains",
+      "Ridge-and-Valley Appalachians"
+    ],
+    [
+      "Virginia",
+      "location.location.partially_contains",
+      "Holston River"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flossy"
+    ],
+    [
+      "Hurricane Danny",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Babe"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.partially_containedby",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.partially_contains",
+      "Pine Mountain"
+    ],
+    [
+      "m.0wg8p5_",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Virginia"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Bland County"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Pine Mountain",
+      "location.location.partially_containedby",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Danny"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "Hurricane Flossy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Virginia"
+    ],
+    [
+      "Hurricane Babe",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.partiallycontains",
+      "m.0wg8p5_"
+    ],
+    [
+      "Bland County",
+      "location.location.containedby",
+      "Virginia"
+    ],
+    [
+      "Bland County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Virginia"
+    ],
+    [
+      "Virginia",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Virginia",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Virginia",
+      "location.location.events",
+      "Cherokee–American wars"
+    ],
+    [
+      "Virginia",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Minnesota"
+    ],
+    [
+      "Minnesota",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Minnesota"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Minnesota"
+    ],
+    [
+      "Minnesota",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Minnesota",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Minnesota",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Minnesota"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.continent",
+      "North America"
+    ],
+    [
+      "Minnesota",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "North America",
+      "base.locations.continents.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "Minnesota",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Illinois"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.partially_containedby",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Illinois",
+      "location.location.partially_contains",
+      "Ohio River"
+    ],
+    [
+      "Illinois",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Ohio River",
+      "location.location.partially_containedby",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "location.location.partially_contains",
+      "Lower Mississippi River"
+    ],
+    [
+      "Illinois",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Brookport Bridge",
+      "location.location.containedby",
+      "Illinois"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Camille"
+    ],
+    [
+      "Huntsville",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Edouard"
+    ],
+    [
+      "m.02th8c9",
+      "location.adjoining_relationship.adjoins",
+      "Alabama"
+    ],
+    [
+      "Gulf Coast of the United States",
+      "location.location.contains",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Dennis"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Noxubee River"
+    ],
+    [
+      "Huntsville",
+      "base.biblioness.bibs_location.state",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Danny"
+    ],
+    [
+      "Tropical Storm Edouard",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Noxubee River",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Tennessee–Tombigbee Waterway"
+    ],
+    [
+      "Alabama",
+      "government.governmental_jurisdiction.agencies",
+      "Alabama Department of Conservation and Natural Resources"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Babe"
+    ],
+    [
+      "Waterloo",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Morgan County",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Guntersville",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Hermine"
+    ],
+    [
+      "Triana",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Ridge-and-Valley Appalachians",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Freedom walk",
+      "book.written_work.subjects",
+      "Alabama"
+    ],
+    [
+      "Sheffield",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Madison County"
+    ],
+    [
+      "1926 Miami hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Hurricane Cindy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Marshall County"
+    ],
+    [
+      "Alabama",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Lookout Mountain",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1926 Miami hurricane"
+    ],
+    [
+      "Hurricane Babe",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Killen",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Tennessee River"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Hurricane Juan",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "B'nai B'rith District Grand Lodge 7",
+      "organization.organization.geographic_scope",
+      "Alabama"
+    ],
+    [
+      "Hurricane Florence (1988)",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Hurricane Danny",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Tropical Storm Bertha",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gustav"
+    ],
+    [
+      "1917 Nueva Gerona hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Hurricane Elena",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Morgan County"
+    ],
+    [
+      "1987 Gulf Coast tropical storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Buttahatchee River",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Hurricane Frederic",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Lookout Mountain"
+    ],
+    [
+      "m.02thb92",
+      "location.adjoining_relationship.adjoins",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Elk River"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Ridge-and-Valley Appalachians"
+    ],
+    [
+      "Tombigbee River",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "book.book_subject.works",
+      "Freedom walk"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "1837 Racer's Storm",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Hurricane Hilda",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Hurricane Gustav",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Tropical Storm Hermine",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Bridgeport",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Elk River",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Bertha"
+    ],
+    [
+      "Hurricane Dennis",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Buttahatchee River"
+    ],
+    [
+      "Hurricane Camille",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "Tennessee–Tombigbee Waterway",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Tropical Storm Arlene",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Langston",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Jackson County",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Frederic"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Area codes 256 and 938",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Scottsboro",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.adjoin_s",
+      "m.02th8c9"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Arlene"
+    ],
+    [
+      "Alabama",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Alabama",
+      "location.location.partiallycontains",
+      "m.0wg8p7_"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Elena"
+    ],
+    [
+      "Hurricane Flossy",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "freebase.valuenotation.has_no_value",
+      "Minimum wage"
+    ],
+    [
+      "Madison County",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Cindy"
+    ],
+    [
+      "Hurricane Erin",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Jackson County"
+    ],
+    [
+      "Alabama",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "m.0wg8p7_",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Alabama"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Alabama Department of Conservation and Natural Resources"
+    ],
+    [
+      "Marshall County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Alabama"
+    ],
+    [
+      "Sucarnoochee River",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Morgan County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "Gulf Coast of the United States"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1917 Nueva Gerona hurricane"
+    ],
+    [
+      "Limestone County",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1987 Gulf Coast tropical storm"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Limestone County"
+    ],
+    [
+      "Decatur",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Marshall County",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Cherokee",
+      "location.location.containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Hilda"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Florence (1988)"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Sucarnoochee River"
+    ],
+    [
+      "Jackson County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Matthew"
+    ],
+    [
+      "Tropical Storm Matthew",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Erin"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1837 Racer's Storm"
+    ],
+    [
+      "Limestone County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Tombigbee River"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Flossy"
+    ],
+    [
+      "Tennessee River",
+      "location.location.partially_containedby",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Juan"
+    ],
+    [
+      "Alabama",
+      "organization.organization_scope.organizations_with_this_scope",
+      "B'nai B'rith District Grand Lodge 7"
+    ],
+    [
+      "Alabama",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Alabama",
+      "location.location.adjoin_s",
+      "m.02thb92"
+    ],
+    [
+      "Madison County",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Alabama"
+    ],
+    [
+      "Kentucky",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Big South Fork of the Cumberland River",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "Pine Mountain",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Ohio River"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.events",
+      "Western theater of the American Revolutionary War"
+    ],
+    [
+      "Kentucky",
+      "base.litcentral.focal_location.conservation_plan_s",
+      "Kentucky's Comprehensive Wildlife Conservation Strategy"
+    ],
+    [
+      "McCracken County",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "Hurricane Bob",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Kentucky"
+    ],
+    [
+      "Trigg County",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "Cherokee–American wars",
+      "time.event.locations",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "government.governmental_jurisdiction.agencies",
+      "Kentucky State Police"
+    ],
+    [
+      "Morgan's Raid",
+      "time.event.locations",
+      "Kentucky"
+    ],
+    [
+      "Livingston County",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Kentucky",
+      "location.location.events",
+      "Confederate Heartland Offensive"
+    ],
+    [
+      "Kentucky",
+      "location.location.adjoin_s",
+      "m.02thc30"
+    ],
+    [
+      "Mississippi River",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "1915 New Orleans hurricane",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Kentucky",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "Kentucky's Comprehensive Wildlife Conservation Strategy",
+      "base.abcbirds.conservation_plan.focal_location",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Tennessee River"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Big South Fork of the Cumberland River"
+    ],
+    [
+      "Area codes 270 and 364",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Mississippi River"
+    ],
+    [
+      "Paducah",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "Kentucky State Police",
+      "government.government_agency.jurisdiction",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Kentucky State Police"
+    ],
+    [
+      "Kentucky",
+      "location.location.events",
+      "Morgan's Raid"
+    ],
+    [
+      "Appalachian Mountains",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "Tropical Storm Fay",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Kentucky"
+    ],
+    [
+      "Tropical Storm Chris",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.events",
+      "Cherokee–American wars"
+    ],
+    [
+      "Cumberland River",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "Ohio River",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "meteorology.cyclone_affected_area.cyclones",
+      "1915 New Orleans hurricane"
+    ],
+    [
+      "Kentucky",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Fay"
+    ],
+    [
+      "Marshall County",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "Cumberland River",
+      "geography.river.origin",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Lower Mississippi River"
+    ],
+    [
+      "Kentucky's Comprehensive Wildlife Conservation Strategy",
+      "book.written_work.subjects",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.us_state.capital",
+      "Frankfort"
+    ],
+    [
+      "Kentucky",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Chris"
+    ],
+    [
+      "Kentucky",
+      "base.aareas.schema.administrative_area.capital",
+      "Frankfort"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Grand Rivers",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "book.book_subject.works",
+      "Kentucky's Comprehensive Wildlife Conservation Strategy"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Appalachian Mountains"
+    ],
+    [
+      "Lower Mississippi River",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "m.02thc30",
+      "location.adjoining_relationship.adjoins",
+      "Kentucky"
+    ],
+    [
+      "m.0wg8prt",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Kentucky"
+    ],
+    [
+      "Kentucky State Police",
+      "organization.organization.geographic_scope",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Katrina"
+    ],
+    [
+      "Kentucky",
+      "location.location.partiallycontains",
+      "m.0wg8pr3"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Pine Mountain"
+    ],
+    [
+      "Frankfort",
+      "location.location.containedby",
+      "Kentucky"
+    ],
+    [
+      "Confederate Heartland Offensive",
+      "time.event.locations",
+      "Kentucky"
+    ],
+    [
+      "Western theater of the American Revolutionary War",
+      "time.event.locations",
+      "Kentucky"
+    ],
+    [
+      "Hurricane Katrina",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Bob"
+    ],
+    [
+      "Tennessee River",
+      "location.location.partially_containedby",
+      "Kentucky"
+    ],
+    [
+      "m.0wg8pr3",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.partiallycontains",
+      "m.0wg8prt"
+    ],
+    [
+      "Frankfort",
+      "base.biblioness.bibs_location.state",
+      "Kentucky"
+    ],
+    [
+      "Kentucky",
+      "location.location.partially_contains",
+      "Cumberland River"
+    ],
+    [
+      "Indiana",
+      "location.location.partially_contains",
+      "Ohio River"
+    ],
+    [
+      "Indiana",
+      "freebase.valuenotation.is_reviewed",
+      "Minimum wage"
+    ],
+    [
+      "US Notary Public Association",
+      "organization.organization.geographic_scope",
+      "Indiana"
+    ],
+    [
+      "Indiana",
+      "location.location.events",
+      "Morgan's Raid"
+    ],
+    [
+      "Ohio River",
+      "location.location.partially_containedby",
+      "Indiana"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Indiana",
+      "organization.organization_scope.organizations_with_this_scope",
+      "US Notary Public Association"
+    ],
+    [
+      "Indiana",
+      "common.topic.notable_types",
+      "US State"
+    ],
+    [
+      "CRHOME",
+      "organization.organization.geographic_scope",
+      "Indiana"
+    ],
+    [
+      "Indiana",
+      "location.location.events",
+      "United States Senate elections, 2006"
+    ],
+    [
+      "Indiana",
+      "organization.organization_scope.organizations_with_this_scope",
+      "CRHOME"
+    ],
+    [
+      "Morgan's Raid",
+      "time.event.locations",
+      "Indiana"
+    ],
+    [
+      "United States Senate elections, 2006",
+      "time.event.locations",
+      "Indiana"
+    ],
+    [
+      "Indiana",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ]
+  ]
+}

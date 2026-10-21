@@ -1,0 +1,710 @@
+{
+  "graph_id": 53,
+  "subgraph": [
+    [
+      "Peter Paul Rubens",
+      "influence.influence_node.influenced",
+      "Vincent van Gogh"
+    ],
+    [
+      "Baroque",
+      "book.school_or_movement.associated_authors",
+      "Peter Paul Rubens"
+    ],
+    [
+      "Peter Paul Rubens",
+      "book.author.school_or_movement",
+      "Baroque"
+    ],
+    [
+      "Peter Paul Rubens",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Baroque"
+    ],
+    [
+      "Vincent van Gogh",
+      "influence.influence_node.influenced_by",
+      "Peter Paul Rubens"
+    ],
+    [
+      "Peter Paul Rubens",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "The Judgement of Paris",
+      "visual_art.artwork.artist",
+      "Peter Paul Rubens"
+    ],
+    [
+      "Paul Cézanne",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.artist",
+      "Paul Cézanne"
+    ],
+    [
+      "Paul Cézanne",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Cubism"
+    ],
+    [
+      "Paul Cézanne",
+      "influence.influence_node.influenced",
+      "Vincent van Gogh"
+    ],
+    [
+      "Vincent van Gogh",
+      "influence.influence_node.influenced_by",
+      "Paul Cézanne"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.artist",
+      "Paul Cézanne"
+    ],
+    [
+      "Paul Cézanne",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Impressionism"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.artist",
+      "Paul Cézanne"
+    ],
+    [
+      "Post-Impressionism",
+      "visual_art.art_period_movement.associated_artists",
+      "Paul Cézanne"
+    ],
+    [
+      "Paul Cézanne",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Post-Impressionism"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.artist",
+      "Paul Cézanne"
+    ],
+    [
+      "Claude Monet",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Claude Monet",
+      "influence.influence_node.influenced",
+      "Vincent van Gogh"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.artist",
+      "Claude Monet"
+    ],
+    [
+      "Vincent van Gogh",
+      "influence.influence_node.influenced_by",
+      "Claude Monet"
+    ],
+    [
+      "Claude Monet",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Impressionism"
+    ],
+    [
+      "Still Life with Apples, Pears, Lemons and Grapes",
+      "visual_art.artwork.artist",
+      "Vincent van Gogh"
+    ],
+    [
+      "Vincent van Gogh",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.artist",
+      "Vincent van Gogh"
+    ],
+    [
+      "Vincent van Gogh",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Post-Impressionism"
+    ],
+    [
+      "Post-Impressionism",
+      "visual_art.art_period_movement.associated_artists",
+      "Vincent van Gogh"
+    ],
+    [
+      "Pieter de Hooch",
+      "visual_art.visual_artist.associated_periods_or_movements",
+      "Baroque"
+    ],
+    [
+      "The Judgement of Paris",
+      "visual_art.artwork.period_or_movement",
+      "Baroque"
+    ],
+    [
+      "Young Man with an Apple",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Judgement of Paris",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Raphael",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Still Life with Apples, Pears, Lemons and Grapes",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Luis Egidio Meléndez",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "René Magritte",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "The Son of Man",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Pieter de Hooch",
+      "visual_art.visual_artist.art_forms",
+      "Painting"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Still Life with Watermelons and Apples",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "Three Graces",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "A Woman Peeling Apples",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.art_form",
+      "Painting"
+    ],
+    [
+      "The Judgement of Paris",
+      "visual_art.artwork.art_subject",
+      "Apple tree"
+    ],
+    [
+      "The Judgement of Paris",
+      "common.topic.image",
+      "Rubens - Judgement of Paris"
+    ],
+    [
+      "The Judgement of Paris",
+      "common.topic.article",
+      "m.0dgppf3"
+    ],
+    [
+      "The Judgement of Paris",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "Apple tree",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Judgement of Paris"
+    ],
+    [
+      "The Judgement of Paris",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Judgement of Paris",
+      "common.topic.notable_for",
+      "g.1257vplbs"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.locations",
+      "m.045973z"
+    ],
+    [
+      "Apple tree",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Still Life with Apples"
+    ],
+    [
+      "m.0hgz9tk",
+      "visual_art.artwork_owner_relationship.artwork",
+      "Still Life with Apples"
+    ],
+    [
+      "Still Life with Apples",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Still Life with Apples",
+      "exhibitions.exhibit.exhibitions_displayed_in",
+      "Armory Show"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.dimensions_meters",
+      "m.03qrjpb"
+    ],
+    [
+      "Still Life with Apples",
+      "common.topic.article",
+      "m.04d81tq"
+    ],
+    [
+      "m.045973z",
+      "visual_art.artwork_location_relationship.artwork",
+      "Still Life with Apples"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.art_subject",
+      "Apple tree"
+    ],
+    [
+      "Still Life with Apples",
+      "common.topic.image",
+      "Vinvent van Gogh, Still Life with Apples (1887)"
+    ],
+    [
+      "m.03z7kr1",
+      "visual_art.artwork_owner_relationship.artwork",
+      "Still Life with Apples"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.art_genre",
+      "Still life"
+    ],
+    [
+      "Still Life with Apples",
+      "common.topic.notable_for",
+      "g.1259ycw5m"
+    ],
+    [
+      "Still Life with Apples",
+      "common.topic.notable_for",
+      "g.1254xnwvv"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.dimensions_meters",
+      "m.0hgz9t7"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.period_or_movement",
+      "Post-Impressionism"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.owners",
+      "m.0hgz9tk"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.owners",
+      "m.03z7kr1"
+    ],
+    [
+      "Still Life with Apples",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "Still Life with Apples",
+      "common.topic.article",
+      "m.0hgz9v2"
+    ],
+    [
+      "Cubism",
+      "visual_art.art_period_movement.associated_artworks",
+      "The Basket of Apples"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.period_or_movement",
+      "Cubism"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "The Basket of Apples",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "m.03z76zc",
+      "visual_art.artwork_owner_relationship.artwork",
+      "The Basket of Apples"
+    ],
+    [
+      "The Basket of Apples",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "The Basket of Apples",
+      "common.topic.notable_for",
+      "g.1257t8_rd"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.owners",
+      "m.03z76zc"
+    ],
+    [
+      "Apple tree",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Basket of Apples"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.dimensions_meters",
+      "m.03w8rtb"
+    ],
+    [
+      "The Basket of Apples",
+      "common.topic.image",
+      "Paul Cézanne 185"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.period_or_movement",
+      "Impressionism"
+    ],
+    [
+      "The Basket of Apples",
+      "common.topic.webpage",
+      "m.03qbkqb"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.art_subject",
+      "Apple tree"
+    ],
+    [
+      "m.03qbkqb",
+      "common.webpage.topic",
+      "The Basket of Apples"
+    ],
+    [
+      "The Basket of Apples",
+      "common.topic.article",
+      "m.02vz08r"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.art_genre",
+      "Still life"
+    ],
+    [
+      "m.03z5zbm",
+      "visual_art.artwork_location_relationship.artwork",
+      "The Basket of Apples"
+    ],
+    [
+      "The Basket of Apples",
+      "visual_art.artwork.locations",
+      "m.03z5zbm"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.period_or_movement",
+      "Impressionism"
+    ],
+    [
+      "The Plate of Apples",
+      "common.topic.webpage",
+      "m.03qbqmh"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.art_genre",
+      "Still life"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "m.03qbqmh",
+      "common.webpage.topic",
+      "The Plate of Apples"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.owners",
+      "m.03z779m"
+    ],
+    [
+      "The Plate of Apples",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "The Plate of Apples",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "The Plate of Apples",
+      "common.topic.notable_for",
+      "g.125dd_y7t"
+    ],
+    [
+      "m.03z779m",
+      "visual_art.artwork_owner_relationship.artwork",
+      "The Plate of Apples"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.art_subject",
+      "Apple tree"
+    ],
+    [
+      "Apple tree",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Plate of Apples"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.period_or_movement",
+      "Post-Impressionism"
+    ],
+    [
+      "The Plate of Apples",
+      "visual_art.artwork.dimensions_meters",
+      "m.0bnf40h"
+    ],
+    [
+      "Still Life with Apples, Pears, Lemons and Grapes",
+      "visual_art.artwork.period_or_movement",
+      "Post-Impressionism"
+    ],
+    [
+      "Pommes et Serviette",
+      "common.topic.webpage",
+      "m.04d814v"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.dimensions_meters",
+      "m.04d811p"
+    ],
+    [
+      "Apple tree",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Pommes et Serviette"
+    ],
+    [
+      "m.04d814v",
+      "common.webpage.topic",
+      "Pommes et Serviette"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.art_genre",
+      "Still life"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.locations",
+      "m.04d822_"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.owners",
+      "m.04d7_sv"
+    ],
+    [
+      "m.04d822_",
+      "visual_art.artwork_location_relationship.artwork",
+      "Pommes et Serviette"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.art_subject",
+      "Apple tree"
+    ],
+    [
+      "m.04d7_sv",
+      "visual_art.artwork_owner_relationship.artwork",
+      "Pommes et Serviette"
+    ],
+    [
+      "Pommes et Serviette",
+      "common.topic.image",
+      "Paul Cezanne's Pommes et Serviette (1879-80)"
+    ],
+    [
+      "Pommes et Serviette",
+      "common.topic.notable_for",
+      "g.125fnc32q"
+    ],
+    [
+      "Pommes et Serviette",
+      "common.topic.article",
+      "m.04d81cq"
+    ],
+    [
+      "Pommes et Serviette",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "Pommes et Serviette",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "Grape",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Still Life with Apples and Grapes"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "common.topic.image",
+      "Monet's Still Life with Apples and Grapes (1880)"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "common.topic.notable_for",
+      "g.125517ccx"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.art_subject",
+      "Grape"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.dimensions_meters",
+      "m.059_gks"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.art_subject",
+      "Apple tree"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "freebase.valuenotation.has_value",
+      "Date Begun"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.media",
+      "Oil paint"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "common.topic.webpage",
+      "m.03qbl9l"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.art_genre",
+      "Still life"
+    ],
+    [
+      "Apple tree",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Still Life with Apples and Grapes"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.owners",
+      "m.03z7dy2"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "visual_art.artwork.support",
+      "Canvas"
+    ],
+    [
+      "m.03qbl9l",
+      "common.webpage.topic",
+      "Still Life with Apples and Grapes"
+    ],
+    [
+      "Still Life with Apples and Grapes",
+      "common.topic.notable_types",
+      "Artwork"
+    ],
+    [
+      "m.03z7dy2",
+      "visual_art.artwork_owner_relationship.artwork",
+      "Still Life with Apples and Grapes"
+    ]
+  ]
+}

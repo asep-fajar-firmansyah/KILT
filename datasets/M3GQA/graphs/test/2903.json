@@ -1,0 +1,2795 @@
+{
+  "graph_id": 2903,
+  "subgraph": [
+    [
+      "College",
+      "book.book_subject.works",
+      "CBS Sports Presents"
+    ],
+    [
+      "CBS Sports Presents",
+      "book.written_work.subjects",
+      "College"
+    ],
+    [
+      "CHTV: CollegeHumor Original Videos",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "CHTV: CollegeHumor Original Videos"
+    ],
+    [
+      "Edge Hill University",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "Edge Hill University",
+      "education.educational_institution_campus.educational_institution",
+      "Edge Hill University"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "Edge Hill University"
+    ],
+    [
+      "University",
+      "business.company_type.companies_of_this_type",
+      "Edge Hill University"
+    ],
+    [
+      "Edge Hill University",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "Edge Hill University",
+      "organization.organization.sectors",
+      "Education"
+    ],
+    [
+      "Edge Hill University",
+      "education.educational_institution.campuses",
+      "Edge Hill University"
+    ],
+    [
+      "Edge Hill University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Edge Hill University",
+      "organization.organization.legal_structure",
+      "University"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09yjsfd"
+    ],
+    [
+      "m.0b6s3fy",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KEXP Live"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.0b496k8"
+    ],
+    [
+      "The Home Economics Story",
+      "film.film.subjects",
+      "College"
+    ],
+    [
+      "My Life On a Napkin",
+      "book.written_work.subjects",
+      "College"
+    ],
+    [
+      "College",
+      "common.topic.notable_for",
+      "g.1259xlmhl"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09yqqp7"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Eating Ithaca"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Owl Radio at KSU"
+    ],
+    [
+      "Crimson Storm Surge",
+      "book.written_work.subjects",
+      "College"
+    ],
+    [
+      "m.09x3d6l",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "book.book_subject.works",
+      "Back to Back"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "NCAA DoubleACast: podcasts from NCAA"
+    ],
+    [
+      "College",
+      "film.film_subject.films",
+      "Higher Learning"
+    ],
+    [
+      "m.09yv52t",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "3WK Undergroundradio"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09y1ks1"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "ReFrederator"
+    ],
+    [
+      "Back to Back",
+      "book.written_work.subjects",
+      "College"
+    ],
+    [
+      "m.09y3njb",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Comedy104"
+    ],
+    [
+      "National Lampoon's Animal House",
+      "film.film.subjects",
+      "College"
+    ],
+    [
+      "Miley Jab Hum Tum",
+      "tv.tv_program.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Polish-NY.com Podcast"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Defcon Radio"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subjects",
+      "College"
+    ],
+    [
+      "m.09y7lxj",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "m.0b496k8",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "common.topic.notable_types",
+      "TV Genre"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Get Psyched For Sports - Sports Psychology Podcast"
+    ],
+    [
+      "KCRW Music",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "College",
+      "book.book_subject.works",
+      "100 Seasons of Duke Basketball"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "The History Channel: Just Another Day"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09x533w"
+    ],
+    [
+      "College",
+      "tv.tv_genre.programs",
+      "Hard to Be Me"
+    ],
+    [
+      "College",
+      "book.book_subject.works",
+      "Where Football Is King"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KUSF 90.3 FM"
+    ],
+    [
+      "Gimme Noise!",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "Johnny Be Good",
+      "film.film.subjects",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Hotty Toddy Hotline"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KALX"
+    ],
+    [
+      "The Home Economics Story",
+      "base.educationalshortfilm.educational_short_film.subject",
+      "College"
+    ],
+    [
+      "College",
+      "common.topic.image",
+      "Kings College Chapel outside view"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09y0c10"
+    ],
+    [
+      "College",
+      "common.topic.subject_of",
+      "Qualitas Career Academy"
+    ],
+    [
+      "College",
+      "film.film_subject.films",
+      "National Lampoon's Animal House"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Amplify SD"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "The Strength Coach Podcast"
+    ],
+    [
+      "m.09x533w",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "tv.tv_genre.programs",
+      "Miley Jab Hum Tum"
+    ],
+    [
+      "College",
+      "book.book_subject.works",
+      "Crimson Storm Surge"
+    ],
+    [
+      "m.09yqqp7",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Virgin Radio Xtreme"
+    ],
+    [
+      "College",
+      "book.book_subject.works",
+      "Acing the College Application: How to Maximize Your Chances for Admission to the College of Your Choice"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Baseball America"
+    ],
+    [
+      "The History Channel: Just Another Day",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Australian Family Physician audio"
+    ],
+    [
+      "Burghs Eye View",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "The Fastpitch.TV Video Show"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.0b6s3fy"
+    ],
+    [
+      "Where Football Is King",
+      "book.written_work.subjects",
+      "College"
+    ],
+    [
+      "Hard to Be Me",
+      "tv.tv_program.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KXLU"
+    ],
+    [
+      "College",
+      "common.topic.article",
+      "m.01qjf"
+    ],
+    [
+      "College",
+      "film.film_subject.films",
+      "Johnny Be Good"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "BuzzLine"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "WRGW"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Radio K"
+    ],
+    [
+      "m.09wwmkx",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "M3 Radio"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Carolina CrowLine"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.equivalent_topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Fresh Air - The Alternative"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09y3njb"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Clemson Hotline"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "3WK Classic Alternative Radio"
+    ],
+    [
+      "College",
+      "common.topic.image",
+      "Agnes Scott College - Buttrick Hall"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Gimme Noise!"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "DawgDial"
+    ],
+    [
+      "The Bedford Diaries",
+      "tv.tv_program.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "ESPNU College Basketball"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "WMSE"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09yv52t"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Lucky Dog Radio"
+    ],
+    [
+      "m.09ykcm3",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Lone Star Gridiron"
+    ],
+    [
+      "College",
+      "tv.tv_genre.programs",
+      "The Bedford Diaries"
+    ],
+    [
+      "m.0b492hp",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Listen Your Way Sports"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "WIDB"
+    ],
+    [
+      "College",
+      "freebase.equivalent_topic.equivalent_type",
+      "College/University"
+    ],
+    [
+      "The Comedy Channel",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KAOS"
+    ],
+    [
+      "College",
+      "architecture.building_function.buildings",
+      "Thomas Hall"
+    ],
+    [
+      "College",
+      "film.film_subject.films",
+      "The Home Economics Story"
+    ],
+    [
+      "College",
+      "education.educational_degree.people_with_this_degree",
+      "m.0wr03y1"
+    ],
+    [
+      "m.0wr03y1",
+      "education.education.degree",
+      "College"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09wwmkx"
+    ],
+    [
+      "100 Seasons of Duke Basketball",
+      "book.written_work.subjects",
+      "College"
+    ],
+    [
+      "College",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Universities and colleges"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Radio DePaul"
+    ],
+    [
+      "Higher Learning",
+      "film.film.subjects",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Bully BarkLine"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09x3d6l"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Athletes Acceleration's Sports Training Podcast"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09y7lxj"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Burghs Eye View"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "Indie Pop Rocks! on SomaFM"
+    ],
+    [
+      "The Real All Americans",
+      "book.written_work.subjects",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "3WK Classic Undergroundradio"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KCRW Music"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KCSCradio.com"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "WKPS"
+    ],
+    [
+      "College",
+      "book.book_subject.works",
+      "My Life On a Napkin"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "The Comedy Channel"
+    ],
+    [
+      "m.09y0c10",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "m.09y1ks1",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "The Cat Basket"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "MusicalJustice.com"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.0b492hp"
+    ],
+    [
+      "Comedy104",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "KSBR"
+    ],
+    [
+      "College",
+      "broadcast.genre.content",
+      "houstontexans's Podcast"
+    ],
+    [
+      "College",
+      "book.book_subject.works",
+      "The Real All Americans"
+    ],
+    [
+      "College",
+      "common.topic.webpage",
+      "m.09ykcm3"
+    ],
+    [
+      "m.09yjsfd",
+      "common.webpage.topic",
+      "College"
+    ],
+    [
+      "Defcon Radio",
+      "broadcast.content.genre",
+      "College"
+    ],
+    [
+      "Public university",
+      "common.topic.notable_types",
+      "School category"
+    ],
+    [
+      "University of Oxford",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "University of California, Berkeley",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "Macdonald Campus",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "University of North Carolina at Charlotte",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "McGill University Faculty of Medicine",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "McGill University",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "University of the Highlands and Islands",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "Schulich School of Music",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "University of Gothenburg",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "University of Rostock",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "McGill University Faculty of Religious Studies",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "Federal University of Pará",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "University",
+      "common.topic.webpage",
+      "m.0b48cck"
+    ],
+    [
+      "University",
+      "organization.organization_sector.organizations_in_this_sector",
+      "StageMax"
+    ],
+    [
+      "University",
+      "architecture.building_function.buildings",
+      "Galgotia's College of Engineering and Technology"
+    ],
+    [
+      "University",
+      "base.ontologies.ontology_class.equivalent_classes",
+      "m.0h5htj1"
+    ],
+    [
+      "Gates Computer Science Building, Stanford",
+      "architecture.building.building_function",
+      "University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "University"
+    ],
+    [
+      "Hochschule Hannover",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "National University of Management",
+      "organization.organization.legal_structure",
+      "University"
+    ],
+    [
+      "University",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University",
+      "architecture.building_function.buildings",
+      "Campbell Hall"
+    ],
+    [
+      "University",
+      "common.topic.subjects",
+      "Montreux School of Business"
+    ],
+    [
+      "University",
+      "tv.tv_subject.tv_episodes",
+      "E.L. Warren Ministries"
+    ],
+    [
+      "University",
+      "rdf-schema#domain",
+      "Professor"
+    ],
+    [
+      "StageMax",
+      "organization.organization.sectors",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.subject_of",
+      "whatuni.com"
+    ],
+    [
+      "Ontario Universities' Application Centre",
+      "organization.organization.sectors",
+      "University"
+    ],
+    [
+      "University",
+      "business.company_type.companies_of_this_type",
+      "Alma Mater Europaea – Evropski center, Maribor"
+    ],
+    [
+      "University",
+      "type.property.schema",
+      "Professor"
+    ],
+    [
+      "SMU School of Social Sciences",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfzgt"
+    ],
+    [
+      "Columbia University",
+      "education.educational_institution.school_type",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.subject_of",
+      "Yarmouk Private University"
+    ],
+    [
+      "Federal University of Pará",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University of Oxford",
+      "education.educational_institution.school_type",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.subject_of",
+      "Qualitas Career Academy"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "Dallas Baptist University"
+    ],
+    [
+      "University",
+      "common.topic.notable_types",
+      "Building function"
+    ],
+    [
+      "University",
+      "type.property.schema",
+      "LGBT Campus Centers"
+    ],
+    [
+      "University of North Carolina at Charlotte",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "architecture.building_function.buildings",
+      "New Century Global Center"
+    ],
+    [
+      "Campbell Hall",
+      "architecture.building.building_function",
+      "University"
+    ],
+    [
+      "University",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Birmingham Conservatoire"
+    ],
+    [
+      "m.07nfzgt",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.webpage",
+      "m.09x5r6j"
+    ],
+    [
+      "m.09y1kvs",
+      "common.webpage.topic",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.notable_for",
+      "g.12551qktn"
+    ],
+    [
+      "University",
+      "business.company_type.companies_of_this_type",
+      "the Pythagorean Order of Death"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "State Council for Technical Education & Vocational Training"
+    ],
+    [
+      "University",
+      "common.topic.image",
+      "Oxfordceremony"
+    ],
+    [
+      "University",
+      "freebase.equivalent_topic.equivalent_type",
+      "College/University"
+    ],
+    [
+      "University of California, Berkeley",
+      "education.educational_institution.school_type",
+      "University"
+    ],
+    [
+      "University",
+      "book.book_subject.works",
+      "Moving up the value chain: Unconventional tips for info pros"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "University of North Carolina at Charlotte"
+    ],
+    [
+      "m.09wxm0v",
+      "common.webpage.topic",
+      "University"
+    ],
+    [
+      "University",
+      "architecture.building_function.buildings",
+      "DeLand Hall"
+    ],
+    [
+      "Dallas Baptist University",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "SMU School of Social Sciences"
+    ],
+    [
+      "University of California, Berkeley",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "Dallas Baptist University",
+      "education.educational_institution.school_type",
+      "University"
+    ],
+    [
+      "Europäische Fernhochschule Hamburg",
+      "common.topic.subjects",
+      "University"
+    ],
+    [
+      "University",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Mahatma Jyoti Rao Phoole University"
+    ],
+    [
+      "whatuni.com",
+      "common.topic.subjects",
+      "University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.equivalent_topic",
+      "University"
+    ],
+    [
+      "University",
+      "fictional_universe.type_of_fictional_setting.settings",
+      "Spagonia University"
+    ],
+    [
+      "University of Oxford",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "architecture.building_function.buildings",
+      "Gates Computer Science Building, Stanford"
+    ],
+    [
+      "University",
+      "base.schemastaging.context_name.pronunciation",
+      "m.013157dk"
+    ],
+    [
+      "DeLand Hall",
+      "architecture.building.building_function",
+      "University"
+    ],
+    [
+      "Florida Center for Library Automation",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "book.book_subject.works",
+      "Das kleine Lexikon der Hochschulbegriffe: Akademische Fachbegriffe aus Tradition und Gegenwart"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "University of Oxford"
+    ],
+    [
+      "University",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Ontario Universities' Application Centre"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "Federal University of Pará"
+    ],
+    [
+      "University",
+      "common.topic.subject_of",
+      "Montreux School of Business"
+    ],
+    [
+      "University",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "Florida Center for Library Automation"
+    ],
+    [
+      "University",
+      "book.book_subject.works",
+      "Beet: A Novel"
+    ],
+    [
+      "m.09x5r6j",
+      "common.webpage.topic",
+      "University"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "University of California, Berkeley"
+    ],
+    [
+      "Europäische Fernhochschule Hamburg",
+      "education.educational_institution.school_type",
+      "University"
+    ],
+    [
+      "University of Applied Sciences Leiden",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "book.book_subject.works",
+      "The Order of Learning: Essays on the Contemporary University"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "Hochschule Hannover"
+    ],
+    [
+      "University",
+      "rdf-schema#domain",
+      "LGBT Campus Centers"
+    ],
+    [
+      "University",
+      "common.topic.webpage",
+      "m.09y1kvs"
+    ],
+    [
+      "m.0h5htj1",
+      "base.ontologies.ontology_class_mapping.freebase_topic",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.webpage",
+      "m.09wc1hm"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "Finis Terrae University"
+    ],
+    [
+      "University of the Highlands and Islands",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.webpage",
+      "m.09wxm0v"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "University of Applied Sciences Leiden"
+    ],
+    [
+      "Finis Terrae University",
+      "organization.organization.organization_type",
+      "University"
+    ],
+    [
+      "University",
+      "organization.organization_type.organizations_of_this_type",
+      "University of the Highlands and Islands"
+    ],
+    [
+      "m.09wc1hm",
+      "common.webpage.topic",
+      "University"
+    ],
+    [
+      "University",
+      "business.company_type.companies_of_this_type",
+      "National University of Management"
+    ],
+    [
+      "University",
+      "common.topic.article",
+      "m.07tfl"
+    ],
+    [
+      "Birmingham Conservatoire",
+      "organization.organization.sectors",
+      "University"
+    ],
+    [
+      "University",
+      "common.topic.subject_of",
+      "Europäische Fernhochschule Hamburg"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subjects",
+      "University"
+    ],
+    [
+      "University",
+      "book.book_subject.works",
+      "Leadership agenda 2012"
+    ],
+    [
+      "Hochschule Hannover",
+      "education.educational_institution.school_type",
+      "University"
+    ],
+    [
+      "New Century Global Center",
+      "architecture.building.building_function",
+      "University"
+    ],
+    [
+      "Leadership agenda 2012",
+      "book.written_work.subjects",
+      "University"
+    ],
+    [
+      "m.0b48cck",
+      "common.webpage.topic",
+      "University"
+    ],
+    [
+      "Beet: A Novel",
+      "book.written_work.subjects",
+      "University"
+    ],
+    [
+      "College/University",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "pabloborbon"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "francoisdongier"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Degree"
+    ],
+    [
+      "Student organization",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "metapsyche"
+    ],
+    [
+      "A Room with a View",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "dragon-class.com",
+      "business.competitive_space_mediator.brand",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Athletics brand"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "rubenrivera"
+    ],
+    [
+      "School",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Student organization"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.equivalent_topic",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Dissertation"
+    ],
+    [
+      "Degree",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jbdayez"
+    ],
+    [
+      "dragon-class.com",
+      "organization.organization.organization_type",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.announcements",
+      "m.0kjj0t"
+    ],
+    [
+      "Pride and Prejudice",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "University system"
+    ],
+    [
+      "Sense and Sensibility",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "krsalis"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "curiousjohn"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Field of study"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "midness"
+    ],
+    [
+      "Education",
+      "common.topic.subject_of",
+      "eNotes.com, Inc."
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic post title"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "School district"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "webaesthetic"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "awright"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "m.05bvj88"
+    ],
+    [
+      "Education",
+      "freebase.equivalent_topic.equivalent_domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "westwired"
+    ],
+    [
+      "Educational Institution Campus",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "lwu"
+    ],
+    [
+      "The Approaching 100th Anniversary of the Harlem Renaissance (part 2)",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "common.topic.subjects",
+      "dragon-class.com"
+    ],
+    [
+      "Black History Month Enhanced by International Year for People of African Descent",
+      "common.topic.subjects",
+      "Education"
+    ],
+    [
+      "School category",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ignatia"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subjects",
+      "Education"
+    ],
+    [
+      "eNotes.com, Inc.",
+      "common.topic.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Educational Institution"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School newspaper"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "olivierdupuis"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "techdoer"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jamslevy"
+    ],
+    [
+      "Words Their Way",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jamesslater"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_topic",
+      "University of Gothenburg"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "tonysearl"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "cteplovs"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Student:teacher ratio"
+    ],
+    [
+      "The Wisdom of W.E.B. Du Bois",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "tijh"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Educational Institution Campus"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "mikesonline"
+    ],
+    [
+      "Teacher",
+      "people.profession.part_of_professional_field",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Honorary Degree Recipient"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School category"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subject_of",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Gender enrollment"
+    ],
+    [
+      "Education",
+      "common.topic.subject_of",
+      "Qualitas Career Academy"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Student organization"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "coleyh"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "vaughan"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "fredpfi"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Student radio station"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "eternicom"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Department"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "leif_nabil"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.expert_group",
+      "Education Experts"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "groupersian"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Universities with enrollment, tuition, acceptance rates, rank"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "m.05v70zs"
+    ],
+    [
+      "Institution",
+      "rdf-schema#domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_topic",
+      "College of Sorbonne"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "University system"
+    ],
+    [
+      "The awakening, and other stories",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "common.topic.subjects",
+      "Qualitas Career Academy"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "College/University"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "sitech"
+    ],
+    [
+      "Education",
+      "people.professional_field.professions_in_this_field",
+      "Teacher"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Honorary Degree"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "U.S. Public School Districts and Schools"
+    ],
+    [
+      "Student radio station",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Educational Institution",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jjmajava"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "speculativism"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jansegers"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "rbe"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "justin_menard"
+    ],
+    [
+      "Academic",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "common.topic.subject_of",
+      "Black History Month Enhanced by International Year for People of African Descent"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.category",
+      "Commons"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "pdeisenberg"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "allardstrijker"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Acceptance rate"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "smithcomputer"
+    ],
+    [
+      "dragon-class.com",
+      "common.topic.subject_of",
+      "Education"
+    ],
+    [
+      "Teach Your Child to Read in 100 Easy Lessons",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "hskim105"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "College/University"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "mmcafee"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School mascot"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "sammyred8"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_topic",
+      "University of Rostock"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Fraternity/sorority type"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jwight"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "avic"
+    ],
+    [
+      "Reading Lolita in Tehran: A Memoir in Books",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "School newspaper",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "n00d"
+    ],
+    [
+      "Savannah Tribune",
+      "book.periodical.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.owners",
+      "Education Domain owners"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "tiagolira13"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School magazine"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "maxoliver"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jyotikajoe"
+    ],
+    [
+      "Emma",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "laserblue"
+    ],
+    [
+      "Field of study",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic institution"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Field Of Study"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Grade level"
+    ],
+    [
+      "Education",
+      "book.periodical_subject.periodicals",
+      "Savannah Tribune"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.category",
+      "General"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "educationmongolia"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "riles01"
+    ],
+    [
+      "Education",
+      "common.topic.article",
+      "m.0kpqzl"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ostricajh"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School district"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.category",
+      "Society"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ecolelibrefreeschool"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ecastelob"
+    ],
+    [
+      "Education",
+      "freebase.documented_object.documentation",
+      "m.0kpqzl"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "opendatafan"
+    ],
+    [
+      "Europäische Fernhochschule Hamburg",
+      "common.topic.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "ddeschryver"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Dissertation"
+    ],
+    [
+      "Education",
+      "organization.organization_type.organizations_of_this_type",
+      "dragon-class.com"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "jeffwheeler"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Educational Institution Campus"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "wdsnow"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Sienna College Alumni"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Fraternity/sorority type"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "mnfbmf"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "edgester"
+    ],
+    [
+      "Education",
+      "common.topic.subject_of",
+      "Europäische Fernhochschule Hamburg"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "m.05bvj9_"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Student radio station"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "Honorary Degree Recipient"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "gridwidenews"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "myweb"
+    ],
+    [
+      "Notebook on Black History Month 2012 (Part 1): Carter G. Woodson and Company",
+      "book.written_work.subjects",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Fraternity/Sorority"
+    ],
+    [
+      "Institution",
+      "type.property.schema",
+      "Education"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "School"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Academic post"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "borkzorkorc"
+    ],
+    [
+      "The History Channel: Just Another Day",
+      "broadcast.content.genre",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.featured_views",
+      "School"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "edtechdev"
+    ],
+    [
+      "School mascot",
+      "type.type.domain",
+      "Education"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "copystar"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "nathanmadams"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "a_olympia"
+    ],
+    [
+      "Education",
+      "freebase.domain_profile.users",
+      "evo2mind"
+    ],
+    [
+      "Education",
+      "type.domain.types",
+      "Department"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Local tuition"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Fraternities and sororities"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of doctoral candidates"
+    ],
+    [
+      "SMU School of Social Sciences",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "McGill University Faculty of Religious Studies",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Host",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Taught at",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Doctorate Degree From",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Medical School Affiliation",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Schulich School of Music",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Educational Institution"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012svnyq"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of undergraduates"
+    ],
+    [
+      "Charles R. Drew University of Medicine and Science",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Parent Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Medical School Affiliation"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012b_jb_"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "National University of Management",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of California, Berkeley",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Medical School Affiliation",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Universities",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Parent Institution"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "School"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011clh9l"
+    ],
+    [
+      "Parent Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w712g"
+    ],
+    [
+      "School",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Institution"
+    ],
+    [
+      "Fraternities and sororities",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0123p367"
+    ],
+    [
+      "Host",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Number of doctoral candidates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Academic Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University of Oxford",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Local tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Academic Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "McGill University Faculty of Medicine",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010nwf11"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Universität"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Universität",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Universität",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Macdonald Campus",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_yx_c2"
+    ],
+    [
+      "McGill University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Host"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "International tuition"
+    ],
+    [
+      "Departments",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012c3llf"
+    ],
+    [
+      "University of Applied Sciences Leiden",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Doctorate Degree From",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Doctorate Degree From"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Number of postgraduates"
+    ],
+    [
+      "University of the Highlands and Islands",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Institution",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Founding school",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Domestic tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Institution",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "Columbia University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012nnm2d"
+    ],
+    [
+      "Number of postgraduates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Desautels Faculty of Management",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.documented_object.documentation",
+      "m.021y5v6"
+    ],
+    [
+      "College of Sorbonne",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Domestic tuition"
+    ],
+    [
+      "Finis Terrae University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Hochschule Hannover",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Departments"
+    ],
+    [
+      "Taught at",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "University of North Carolina at Charlotte",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Educational Institution"
+    ],
+    [
+      "University of Gothenburg",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "School",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Colleges and Universities"
+    ],
+    [
+      "Founding school",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Acceptance rate",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Amherst College",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Local tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Birmingham Conservatoire",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Universities"
+    ],
+    [
+      "Best Overall",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Number of postgraduates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "University of Rostock",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Taught at"
+    ],
+    [
+      "University Affiliation",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Number of undergraduates",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Departments",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Founding school"
+    ],
+    [
+      "Dallas Baptist University",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University Affiliation",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.properties",
+      "Acceptance rate"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Best Overall"
+    ],
+    [
+      "College/University",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Acceptance rate",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Colleges and Universities",
+      "type.property.expected_type",
+      "College/University"
+    ],
+    [
+      "Federal University of Pará",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Fraternities and sororities",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "International tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "Academic Institution"
+    ],
+    [
+      "Universities",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "type.type.expected_by",
+      "University Affiliation"
+    ],
+    [
+      "Best Overall",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "Domestic tuition",
+      "rdf-schema#domain",
+      "College/University"
+    ],
+    [
+      "Number of doctoral candidates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "Colleges and Universities",
+      "rdf-schema#range",
+      "College/University"
+    ],
+    [
+      "International tuition",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "College/University",
+      "common.topic.article",
+      "m.021y5v6"
+    ],
+    [
+      "Number of undergraduates",
+      "type.property.schema",
+      "College/University"
+    ],
+    [
+      "The Home Economics Story",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Home Economics Story",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Higher Learning",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Higher Learning",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "National Lampoon's Animal House",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "National Lampoon's Animal House",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Miley Jab Hum Tum",
+      "tv.tv_program.country_of_origin",
+      "India"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subjects",
+      "South Africa"
+    ],
+    [
+      "South Africa",
+      "common.topic.subjects",
+      "Qualitas Career Academy"
+    ],
+    [
+      "Qualitas Career Academy",
+      "common.topic.subject_of",
+      "South Africa"
+    ],
+    [
+      "South Africa",
+      "common.topic.subject_of",
+      "Qualitas Career Academy"
+    ],
+    [
+      "TV Genre",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "TV Genre",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "TV Genre",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "100 Seasons of Duke Basketball",
+      "book.written_work.subjects",
+      "North Carolina"
+    ],
+    [
+      "The History Channel: Just Another Day",
+      "broadcast.content.language",
+      "English Language"
+    ],
+    [
+      "Hard to Be Me",
+      "tv.tv_program.languages",
+      "American English"
+    ],
+    [
+      "Hard to Be Me",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Hard to Be Me",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Johnny Be Good",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Johnny Be Good",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Burghs Eye View",
+      "broadcast.content.language",
+      "English Language"
+    ],
+    [
+      "The Bedford Diaries",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Bedford Diaries",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ]
+  ]
+}

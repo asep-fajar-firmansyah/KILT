@@ -1,0 +1,2100 @@
+{
+  "graph_id": 8205,
+  "subgraph": [
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Danish parish"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Danish parish"
+    ],
+    [
+      "Danish parish",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Danish parish",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "Danish parish",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Danish parish",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Danish parish"
+    ],
+    [
+      "Danish parish",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish parish",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Denmark"
+    ],
+    [
+      "Danish parish",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Denmark"
+    ],
+    [
+      "Danish parish",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Denmark"
+    ],
+    [
+      "Swiss commune",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Swiss canton"
+    ],
+    [
+      "Swiss commune",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Swiss canton",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Swiss commune"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Swiss commune"
+    ],
+    [
+      "Swiss commune",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Swiss commune",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Swiss district"
+    ],
+    [
+      "Swiss commune",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Swiss commune",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Swiss commune",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "Swiss constituency",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Swiss commune"
+    ],
+    [
+      "Swiss district",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Swiss commune"
+    ],
+    [
+      "Swiss commune",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Swiss constituency"
+    ],
+    [
+      "Swiss commune",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "French commune",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "France"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "French commune"
+    ],
+    [
+      "French commune",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "French commune",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "French commune",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "French canton"
+    ],
+    [
+      "French commune",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "French canton",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "French commune"
+    ],
+    [
+      "French commune",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "France"
+    ],
+    [
+      "French commune",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "French commune",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "France"
+    ],
+    [
+      "French commune",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "French canton",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "French commune"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "French commune"
+    ],
+    [
+      "French commune",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "French canton"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Italian commune"
+    ],
+    [
+      "Italian commune",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Italian commune",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Italian commune",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Italy"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Italian commune"
+    ],
+    [
+      "Italian commune",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Italian commune",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Italian commune"
+    ],
+    [
+      "Italian commune",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Italian province"
+    ],
+    [
+      "Italian commune",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Italian commune",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Italy"
+    ],
+    [
+      "Italian commune",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "m.011nshlk",
+      "government.government_position_held.district_represented",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_founder.organizations_founded",
+      "Council of Europe"
+    ],
+    [
+      "Council of Europe",
+      "organization.organization.founders",
+      "Denmark"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Denmark"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Denmark"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Denmark"
+    ],
+    [
+      "Emilie Turunen",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "m.0ghfs25",
+      "government.government_position_held.district_represented",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_member.member_of",
+      "m.03w605x"
+    ],
+    [
+      "Denmark",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Danish region"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Danish land"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Danish municipality"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Danish region"
+    ],
+    [
+      "Denmark",
+      "government.political_district.representatives",
+      "m.0ghfs25"
+    ],
+    [
+      "Denmark",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Denmark",
+      "government.political_district.representatives",
+      "m.011nshlk"
+    ],
+    [
+      "Morten Helveg Petersen",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Denmark"
+    ],
+    [
+      "m.03w605x",
+      "organization.organization_membership.member",
+      "Denmark"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Denmark"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Denmark"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Denmark"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Denmark"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Municipality of Cyprus"
+    ],
+    [
+      "Municipality of Cyprus",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Czech municipality"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Estonian linn"
+    ],
+    [
+      "Czech municipality",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Municipality of Finland"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.levels",
+      "Municipality"
+    ],
+    [
+      "LAU 2",
+      "base.industrystandards.industry_standard.publishing_body",
+      "European Union"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Greek municipal unit"
+    ],
+    [
+      "Bulgarian settlement",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Spanish municipality"
+    ],
+    [
+      "Nomenclature of Territorial Units for Statistics",
+      "base.industrystandards.industry_standard.parts",
+      "LAU 2"
+    ],
+    [
+      "Municipality of Finland",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "European Union",
+      "base.industrystandards.standard_organization.standards",
+      "LAU 2"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Commune of Luxembourg"
+    ],
+    [
+      "LAU 2",
+      "base.industrystandards.industry_standard.focus",
+      "Administrative Area"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Estonian vald"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Bulgarian settlement"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Estonian municipality"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Belgian municipality"
+    ],
+    [
+      "LAU 2",
+      "base.aareas.coding_scheme.types",
+      "Austrian municipality"
+    ],
+    [
+      "Austrian municipality",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "Greek municipal unit",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "Belgian municipality",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "LAU 2",
+      "base.industrystandards.industry_standard.part_of",
+      "Nomenclature of Territorial Units for Statistics"
+    ],
+    [
+      "Spanish municipality",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 2"
+    ],
+    [
+      "Spanish municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Danish land",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Spanish place of sovereignty",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Government Office or Title",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Building",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Bulgarian oblast",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Bulgarian municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Danish region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Government Agency",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Website",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Membership organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Bulgarian settlement",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "French department",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Political party",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Governmental Body",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Court",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "French region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Governmental Body",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Industry",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Administrative Area",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Spanish autonomous city",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Government Office or Title",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Greek prefecture",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Municipality of Cyprus",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Austrian municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Swiss district",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Book",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "French overseas department",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Book",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Sub-region of Finland",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Austrian state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Italian region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Italian autonomous province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Belgian municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Greek municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Political party",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Czech region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Court",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Business Operation",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Municipality of Finland",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Italian province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Swiss canton",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Danish municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Czech district",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Bulgarian planning region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "French overseas region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Membership organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Greek periphery",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Location",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Industry",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Region of Finland",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Swiss constituency",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "French canton",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Czech municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Italian autonomous region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Czech oblast",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Belgian region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Bulgarian region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Website",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Government Agency",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Spanish province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Building",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Belgian arrondissement",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "District of Cyprus",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Spanish autonomous community",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Greek municipal unit",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Belgian province",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Administrative Area",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Belgian province",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Belgian region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Bulgarian region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Greek periphery",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Bulgarian planning region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Region of Finland",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Nomenclature of Territorial Units for Statistics",
+      "base.industrystandards.industry_standard.focus",
+      "Administrative Area"
+    ],
+    [
+      "Swiss constituency",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Swiss canton",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Italian region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "State/Province",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Spanish place of sovereignty",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Greek periphery",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Italian province",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Swiss district",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Swiss district",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "French canton",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Danish region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Greek municipal unit",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "NUTS 3",
+      "base.industrystandards.industry_standard.focus",
+      "Administrative Area"
+    ],
+    [
+      "Bulgarian oblast",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Danish municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Czech municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Greek prefecture",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Greek prefecture",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Italian autonomous province",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "NUTS 2",
+      "base.industrystandards.industry_standard.focus",
+      "Administrative Area"
+    ],
+    [
+      "Spanish autonomous community",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Swiss canton",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Municipality of Cyprus",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Belgian arrondissement",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Czech region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Municipality of Finland",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Czech district",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Spanish autonomous city",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Belgian municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "French region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "District of Cyprus",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Spanish province",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Sub-region of Finland",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Austrian state",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Austrian municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Spanish municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Bulgarian settlement",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "LAU 1",
+      "base.industrystandards.industry_standard.focus",
+      "Administrative Area"
+    ],
+    [
+      "State/Province",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Greek municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "French overseas department",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Danish land",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Czech oblast",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Bulgarian municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "French overseas region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Greek municipality",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "French department",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "Italian autonomous region",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "NUTS 1",
+      "base.industrystandards.industry_standard.focus",
+      "Administrative Area"
+    ],
+    [
+      "m.0j7cq4m",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Bulgarian municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Italian autonomous region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "m.0s8sr0b",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "French overseas department",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Czech municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "French canton",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "French region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Austrian municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Danish municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Service location",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Swiss canton",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Greek prefecture",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Italian autonomous province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Czech region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Czech oblast",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Bulgarian region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Greek municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "French department",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Bulgarian settlement",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Building",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Spanish municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Swiss district",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Municipality of Cyprus",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Belgian region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Swiss constituency",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Greek periphery",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Bulgarian planning region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Greek municipal unit",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "m.0g9ddlq",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Spanish province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "District of Cyprus",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Belgian province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Spanish autonomous city",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Spanish autonomous community",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Service location",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Building",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "m.0gvw3vk",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Italian region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Danish region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Bulgarian oblast",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "m.011y_r0t",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Region of Finland",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Municipality of Finland",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Belgian municipality",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Spanish place of sovereignty",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Italian province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Austrian state",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Danish land",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "m.0zwhdgp",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Sub-region of Finland",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Czech district",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "State/Province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Belgian arrondissement",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "French overseas region",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "m.02_7m59",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "LAU 1",
+      "base.aareas.coding_scheme.types",
+      "Danish municipality"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 1"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Danish land"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Danish region"
+    ],
+    [
+      "NUTS 3",
+      "base.aareas.coding_scheme.types",
+      "Swiss canton"
+    ],
+    [
+      "Swiss constituency",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Swiss canton"
+    ],
+    [
+      "Swiss canton",
+      "base.aareas.schema.administrative_area_type.level",
+      "State/Province"
+    ],
+    [
+      "Swiss canton",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "NUTS 3"
+    ],
+    [
+      "Swiss canton",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Swiss district"
+    ],
+    [
+      "Swiss district",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Swiss canton"
+    ],
+    [
+      "Swiss canton",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Swiss constituency"
+    ],
+    [
+      "Swiss district",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 1"
+    ],
+    [
+      "LAU 1",
+      "base.aareas.coding_scheme.types",
+      "Swiss district"
+    ],
+    [
+      "Swiss district",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Austrian municipality",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Municipality of Cyprus",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Spanish municipality",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Czech district",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Greek municipality",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Bulgarian municipality",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Belgian municipality",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "Municipality of Finland",
+      "base.aareas.schema.administrative_area_type.level",
+      "Municipality"
+    ],
+    [
+      "LAU 1",
+      "base.aareas.coding_scheme.types",
+      "Swiss constituency"
+    ],
+    [
+      "Swiss constituency",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Swiss constituency",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 1"
+    ],
+    [
+      "French overseas department",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "France"
+    ],
+    [
+      "French department",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "France"
+    ],
+    [
+      "Joëlle Bergeron",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "French",
+      "language.human_language.countries_spoken_in",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "m.03w605f",
+      "organization.organization_membership.member",
+      "France"
+    ],
+    [
+      "French department",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.languages_spoken",
+      "French"
+    ],
+    [
+      "French",
+      "language.human_language.main_country",
+      "France"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains_major_portion_of",
+      "France"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.internet_tld",
+      "eu"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "French region"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "France"
+    ],
+    [
+      "France",
+      "location.country.official_language",
+      "French"
+    ],
+    [
+      "Daniel Cohn-Bendit",
+      "people.person.nationality",
+      "France"
+    ],
+    [
+      "French canton",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "France"
+    ],
+    [
+      "French canton",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "France"
+    ],
+    [
+      "France",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "French region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "France"
+    ],
+    [
+      "European Union",
+      "base.nations.supranational_body.member",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.primarily_containedby",
+      "Western Europe"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "France"
+    ],
+    [
+      "French overseas department",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "France"
+    ],
+    [
+      "French region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "Western Europe",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "French overseas region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "France"
+    ],
+    [
+      "France",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "French overseas department",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "France"
+    ],
+    [
+      "Western Europe",
+      "location.location.contains",
+      "France"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "French canton"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "French department"
+    ],
+    [
+      "France",
+      "location.location.containedby",
+      "Western Europe"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "French overseas region"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "Western Europe"
+    ],
+    [
+      "France",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "European Free Trade Association",
+      "base.nations.supranational_body.member",
+      "France"
+    ],
+    [
+      "Council of Europe",
+      "base.nations.supranational_body.member",
+      "France"
+    ],
+    [
+      "French overseas region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "France"
+    ],
+    [
+      "French overseas region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "France"
+    ],
+    [
+      "French canton",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "France"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "French overseas department"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "France"
+    ],
+    [
+      "French department",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "France"
+    ],
+    [
+      "French region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "France"
+    ],
+    [
+      "French region",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "France"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "French region"
+    ],
+    [
+      "France",
+      "organization.organization_member.member_of",
+      "m.03w605f"
+    ],
+    [
+      "French canton",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "LAU 1",
+      "base.aareas.coding_scheme.types",
+      "French canton"
+    ],
+    [
+      "French canton",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 1"
+    ],
+    [
+      "Bulgarian oblast",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "LAU 1",
+      "base.aareas.coding_scheme.levels",
+      "County"
+    ],
+    [
+      "Greek prefecture",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Sub-region of Finland",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Czech region",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "District of Cyprus",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Belgian arrondissement",
+      "base.aareas.schema.administrative_area_type.level",
+      "County"
+    ],
+    [
+      "Italian region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Italian region"
+    ],
+    [
+      "Italian autonomous province",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Italy"
+    ],
+    [
+      "European Union",
+      "organization.organization.founders",
+      "Italy"
+    ],
+    [
+      "Italian region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Italy"
+    ],
+    [
+      "Italian region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Italy"
+    ],
+    [
+      "m.03w604m",
+      "organization.organization_membership.member",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "organization.organization_founder.organizations_founded",
+      "Council of Europe"
+    ],
+    [
+      "Italy",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Italian autonomous province",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Italy"
+    ],
+    [
+      "Italian autonomous province",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Italian autonomous province"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Italian autonomous region"
+    ],
+    [
+      "Italy",
+      "organization.organization_founder.organizations_founded",
+      "European Union"
+    ],
+    [
+      "Council of Europe",
+      "organization.organization.founders",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Italian province"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Italian region"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Italy"
+    ],
+    [
+      "Italian region",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Italy"
+    ],
+    [
+      "Italian autonomous region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Italy"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Italy",
+      "organization.organization_member.member_of",
+      "m.03w604m"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Italy"
+    ],
+    [
+      "Italy",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Italian autonomous region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Italy"
+    ],
+    [
+      "Italian autonomous region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Italy"
+    ],
+    [
+      "Italian autonomous province",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "Italian province"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "LAU 1"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "NUTS 3"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.level",
+      "State/Province"
+    ],
+    [
+      "Italian region",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Italian province"
+    ],
+    [
+      "Italian autonomous province",
+      "freebase.type_hints.included_types",
+      "Italian province"
+    ],
+    [
+      "LAU 1",
+      "base.aareas.coding_scheme.types",
+      "Italian province"
+    ],
+    [
+      "NUTS 3",
+      "base.aareas.coding_scheme.types",
+      "Italian province"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Italian region"
+    ],
+    [
+      "Italian province",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Italian autonomous province"
+    ]
+  ]
+}

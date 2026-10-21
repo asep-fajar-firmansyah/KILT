@@ -1,0 +1,6495 @@
+{
+  "graph_id": 31335,
+  "subgraph": [
+    [
+      "Special Effects Artist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Special Effects Artist"
+    ],
+    [
+      "Special Effects Artist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_topic.subsumes",
+      "New York City"
+    ],
+    [
+      "Vanessa Johansson",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.jewlib.parent_institution.judaica_owning_units",
+      "New York Public Library Main Branch"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Mason Greyback"
+    ],
+    [
+      "New York Public Library Main Branch",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Steny Hoyer",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.militaryinfiction.location_in_fiction.contained_by",
+      "New York"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Songs of My People Art Exhibition Opens at Penn Center"
+    ],
+    [
+      "New York City",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Clear Rivers",
+      "fictional_universe.fictional_character.place_of_birth",
+      "New York City"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "New York"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York Public Library Main Branch",
+      "base.jewlib.judaica_owner.parent_institution",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Mason Greyback",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "Ted Sorensen",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_topic.is_really",
+      "New York City"
+    ],
+    [
+      "Scarlett Johansson",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Songs of My People Art Exhibition Opens at Penn Center",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New York",
+      "base.militaryinfiction.location_in_fiction.contains",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America"
+    ],
+    [
+      "New York City",
+      "location.hud_county_place.place",
+      "New York City"
+    ],
+    [
+      "New York Film Academy",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.state",
+      "New York"
+    ],
+    [
+      "Bill Cunningham New York",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "Queens",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Suz Andreasen"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.profession",
+      "Designer"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.profession",
+      "Visual Artist"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.profession",
+      "Artist"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.place_of_birth",
+      "Iowa"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.profession",
+      "Musician"
+    ],
+    [
+      "Suz Andreasen",
+      "people.person.profession",
+      "Music artist"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Leslie Nielsen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.languages_spoken",
+      "Danish Language"
+    ],
+    [
+      "Scarlett Johansson",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Janet Reno",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Viggo Mortensen"
+    ],
+    [
+      "Alexis Bledel",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Victor Borge"
+    ],
+    [
+      "AnnaSophia Robb",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Trent Olsen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Janet Reno"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Ben Mikaelsen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Niels Ebbesen Hansen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "William Petersen"
+    ],
+    [
+      "Eliza Dushku",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.languages_spoken",
+      "American English"
+    ],
+    [
+      "Vanessa Johansson",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Poul Anderson"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Trent Olsen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Gale Sondergaard"
+    ],
+    [
+      "Danish American",
+      "common.topic.article",
+      "m.0dqqx2"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Betty White"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Peter Sørensen Vig"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Torben Ulrich"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Jacob Riis"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Peter Sarsgaard"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Jessica Alba"
+    ],
+    [
+      "Erik Nielsen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Lars Ulrich",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Jess Mortensen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Jean Hersholt"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Alexis Bledel"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Lis Wiehl"
+    ],
+    [
+      "Mary-Kate Olsen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Erik Nielsen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Christopher Wiehl"
+    ],
+    [
+      "Danish American",
+      "common.topic.notable_types",
+      "Ethnicity"
+    ],
+    [
+      "Hans Peter Mareus Neilsen Gammel",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "common.topic.image",
+      "Scarlett Johansson"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Lloyd Bentsen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Mary-Kate Olsen"
+    ],
+    [
+      "Betty White",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "fictional_universe.ethnicity_in_fiction.characters_of_this_ethnicity",
+      "Petra"
+    ],
+    [
+      "Danish American",
+      "common.topic.image",
+      "Four famous dano-americans"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Leslie Nielsen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Anton Marius Andersen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Else Holmelund Minarik"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Jess Mortensen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Nica Noelle"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.includes_groups",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Brigitte Nielsen"
+    ],
+    [
+      "Lis Wiehl",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Victor Borge",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Iggy Pop"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Connie Nielsen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Martin Mortensen"
+    ],
+    [
+      "Ted Sorensen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Hjalmar Petersen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Christian Mortensen"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Lars Ulrich"
+    ],
+    [
+      "Jessica Alba",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Steny Hoyer"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.included_in_group",
+      "Scandinavian American"
+    ],
+    [
+      "Danish American",
+      "common.topic.image",
+      "Distribution of Danish Americans according to the 2000 census"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Scarlett Johansson"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Ted Sorensen"
+    ],
+    [
+      "Lloyd Bentsen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Joshua Alba"
+    ],
+    [
+      "Else Holmelund Minarik",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Vanessa Johansson"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Hans Peter Mareus Neilsen Gammel"
+    ],
+    [
+      "Hjalmar Petersen",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Peter Sarsgaard",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "AnnaSophia Robb"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Eliza Dushku"
+    ],
+    [
+      "Danish American",
+      "common.topic.notable_for",
+      "g.1256drkrq"
+    ],
+    [
+      "Steny Hoyer",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Iggy Pop",
+      "people.person.ethnicity",
+      "Danish American"
+    ],
+    [
+      "Danish American",
+      "people.ethnicity.people",
+      "Buddy Ebsen"
+    ],
+    [
+      "Matte Artist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Cristian Vega"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106ns_v"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nwx6"
+    ],
+    [
+      "Artist",
+      "organization.role.governors",
+      "m.0112k4dj"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Storyboard Artist"
+    ],
+    [
+      "Mrs MacBeth's Department Store",
+      "common.topic.subjects",
+      "Artist"
+    ],
+    [
+      "Andy Warhol",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Painter"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Textile artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Drafter"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105_6cd"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Toulouse-Lautrec"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Game artist"
+    ],
+    [
+      "Artist",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_l40lm"
+    ],
+    [
+      "m.0j52r0f",
+      "base.process.action.actor",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Tattoo artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Ceramic Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "CG Artist"
+    ],
+    [
+      "Artist",
+      "film.film_character.portrayed_in_films",
+      "m.01311ghl"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nqwy"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Multi Media Artist"
+    ],
+    [
+      "Artist",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Artists"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5l09"
+    ],
+    [
+      "Nuno Roque",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Contemporary artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010hjzfv"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Salvador Dali"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nqmk"
+    ],
+    [
+      "Storyboard Artist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Ella Montgomery"
+    ],
+    [
+      "Photographer",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nx4n"
+    ],
+    [
+      "Michelangelo",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "common.topic.subject_of",
+      "Tony Abeyta"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Background Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Food stylist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105_8g4"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Comics artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Draftsman"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Cartoonist"
+    ],
+    [
+      "Artist",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Piano Body"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nwcl"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nxcv"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5lgz"
+    ],
+    [
+      "Designer",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "m.0_tlm18",
+      "film.film_crew_gig.film_crew_role",
+      "Artist"
+    ],
+    [
+      "m.012l9rzm",
+      "music.recording_contribution.performance_role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Thomas Kinkade"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Matte Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Engineering Drafter"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5kvp"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Photographer"
+    ],
+    [
+      "m.0b6z9_3",
+      "film.film_crew_gig.film_crew_role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Justin Taylor"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010652nm"
+    ],
+    [
+      "m.0112k4dj",
+      "organization.organization_board_membership.role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "common.topic.article",
+      "m.0n1s"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105_5tv"
+    ],
+    [
+      "Photography",
+      "common.topic.subjects",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Plastic arts"
+    ],
+    [
+      "Jean-Francois Millet",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z2rkw"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nxm5"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010gwyhr"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Colorist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Valerie Hyerman"
+    ],
+    [
+      "Songs of My People Art Exhibition Opens at Penn Center",
+      "book.written_work.subjects",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "book.book_subject.works",
+      "Breakthrough Artist Amiri Farris Launches Multimedia Black History Month Platform"
+    ],
+    [
+      "Artist",
+      "common.topic.subjects",
+      "Mrs MacBeth's Department Store"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Digital Effects Artist"
+    ],
+    [
+      "Artist",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07ndkn1"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Limner"
+    ],
+    [
+      "m.0b3vx41",
+      "film.film_crew_gig.film_crew_role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Visual Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Usutu"
+    ],
+    [
+      "m.0bml3qw",
+      "film.film_crew_gig.film_crew_role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nq7q"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Dancer"
+    ],
+    [
+      "Clear Rivers",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Printmaker"
+    ],
+    [
+      "Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.09rym_r"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106npzq"
+    ],
+    [
+      "Mrs MacBeth's Department Store",
+      "common.topic.subject_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "book.book_subject.works",
+      "The Midas Consequence"
+    ],
+    [
+      "m.09jzh6s",
+      "film.film_crew_gig.film_crew_role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nwnw"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107yktv"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Marbler"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Lucas Fitzgerald"
+    ],
+    [
+      "Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.098lgnv"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Graphic Artist"
+    ],
+    [
+      "Ella Montgomery",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "book.book_subject.works",
+      "The Horse's Mouth"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5kz2"
+    ],
+    [
+      "Mason Greyback",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5lc2"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Penciller"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5krw"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Lead CGi Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Red-figure pottery"
+    ],
+    [
+      "Painter",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Light Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105ypy7"
+    ],
+    [
+      "Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.09jzh6s"
+    ],
+    [
+      "Artist",
+      "base.skosbase.vocabulary_equivalent_topic.narrower_concept",
+      "Engravers"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Mason Greyback"
+    ],
+    [
+      "Peeta Mellark",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Ted Cole",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5kwm"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nss3"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Conservator-restorer"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Art Director"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010652lv"
+    ],
+    [
+      "Artist",
+      "music.performance_role.guest_performances",
+      "m.012l9rzm"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Digital Visual Effects Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Clear Rivers"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Helen Thermopolis"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Paint Coordinator"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5lcr"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Sculptor"
+    ],
+    [
+      "Artist",
+      "business.consumer_product.brand",
+      "Eyecandyair"
+    ],
+    [
+      "Artist",
+      "common.topic.subjects",
+      "Dum-Doodles"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "glass artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Industrial Artist"
+    ],
+    [
+      "Music artist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.skosbase.vocabulary_equivalent_topic.narrower_concept",
+      "Actors"
+    ],
+    [
+      "Artist",
+      "projects.project_role.projects",
+      "m.0j96qgj"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Street artist"
+    ],
+    [
+      "Jim Kaplan",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Art Director",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.0b3vx41"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01076cn0"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Installation Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Potter"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Concept Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Stuart Chandler"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "David Alfaro Siqueiros"
+    ],
+    [
+      "MA$TADON",
+      "common.topic.subject_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nsd5"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Caricaturist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Multimedia artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Friday Monday"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Muralist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105_5sv"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Jenny Humphrey"
+    ],
+    [
+      "Artist",
+      "common.topic.subject_of",
+      "Mrs MacBeth's Department Store"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Jean-Francois Millet"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Inker"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010652xy"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Manhwa creator"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Tara Gregson"
+    ],
+    [
+      "Salvador Dali",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Folk Artist"
+    ],
+    [
+      "Artist",
+      "common.topic.image",
+      "Johann Heinrich Wilhelm Tischbein 007"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Lindsay Rappaport"
+    ],
+    [
+      "m.09rym_r",
+      "film.film_crew_gig.film_crew_role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "common.topic.subject_of",
+      "Brian Keith Kennedy"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Illustrator"
+    ],
+    [
+      "Visual Artist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106p2bp"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Nuno Roque"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Sailor Neptune"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Byron Montgomery"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Cally Harper Ewing"
+    ],
+    [
+      "Compositor",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.0bml3qw"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z2rmk"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Copyist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010652mb"
+    ],
+    [
+      "Artist",
+      "freebase.equivalent_topic.equivalent_type",
+      "Visual Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5k_b"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105_622"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Designer"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Choreographer"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "3D Effects Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Interdisciplinary Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Peeta Mellark"
+    ],
+    [
+      "Illustrator",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Music artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010652qk"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010652z7"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z2qwx"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Fine art artist"
+    ],
+    [
+      "Artist",
+      "common.topic.subject_of",
+      "The Piano Body"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Matte Painter"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Storyboard Coordinator"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Compositor"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Ted Cole"
+    ],
+    [
+      "Artist",
+      "common.topic.subjects",
+      "MA$TADON"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Conceptual Storyboard Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Andy Warhol"
+    ],
+    [
+      "Printmaker",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5kxj"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Digital Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Corinn Michaels"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nz73"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z2rnd"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Graphic Novelist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Cgi Artist"
+    ],
+    [
+      "Artist",
+      "base.skosbase.vocabulary_equivalent_topic.narrower_concept",
+      "Graphic artists"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Helen Daniels"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z2rl_"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105_62q"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Video Artist"
+    ],
+    [
+      "Jenny Humphrey",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "common.topic.subject_of",
+      "Dum-Doodles"
+    ],
+    [
+      "m.098lgnv",
+      "film.film_crew_gig.film_crew_role",
+      "Artist"
+    ],
+    [
+      "m.0dfc4gn",
+      "projects.project_participation.role",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Francis Bacon"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z2rl7"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.equivalent_topic",
+      "Artist"
+    ],
+    [
+      "Byron Montgomery",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Lithographer"
+    ],
+    [
+      "Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.0b6z9_3"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Set Painter"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Jim Kaplan"
+    ],
+    [
+      "Artist",
+      "book.book_subject.works",
+      "Songs of My People Art Exhibition Opens at Penn Center"
+    ],
+    [
+      "Concept Artist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107yktg"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Mangaka"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Musician"
+    ],
+    [
+      "Artist",
+      "base.process.process_environment.process",
+      "m.0j52r0f"
+    ],
+    [
+      "Artist",
+      "common.topic.subject_of",
+      "Fabrice de Villeneuve"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Motion Graphic Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Bonecarver"
+    ],
+    [
+      "Artist",
+      "projects.project_role.projects",
+      "m.0dfc4gn"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106nw40"
+    ],
+    [
+      "Artist",
+      "base.skosbase.vocabulary_equivalent_topic.narrower_concept",
+      "Printmakers"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01076cks"
+    ],
+    [
+      "Artist",
+      "base.skosbase.vocabulary_equivalent_topic.narrower_concept",
+      "Seal makers"
+    ],
+    [
+      "Artist",
+      "common.topic.subjects",
+      "The Loose Collective"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Book Artist"
+    ],
+    [
+      "Musician",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Pablo Picasso",
+      "fictional_universe.fictional_character.occupation",
+      "Artist"
+    ],
+    [
+      "Sculptor",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Visual Effects Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Scenic Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Colossus"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106np7g"
+    ],
+    [
+      "m.07ndkn1",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Motion Graphics Artist"
+    ],
+    [
+      "Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.0_tlm18"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Letterer"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5ktq"
+    ],
+    [
+      "Visual Effects Artist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Psychedelic art"
+    ],
+    [
+      "Dancer",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "m.0j96qgj",
+      "projects.project_participation.role",
+      "Artist"
+    ],
+    [
+      "Graphic Novelist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Michelangelo"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Pablo Picasso"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010gwyc6"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z5l75"
+    ],
+    [
+      "MA$TADON",
+      "people.person.profession",
+      "Artist"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.profession",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Commemorative Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_z2rkl"
+    ],
+    [
+      "Choreographer",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105_69s"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Mural Painter"
+    ],
+    [
+      "m.01311ghl",
+      "film.performance.character",
+      "Artist"
+    ],
+    [
+      "Artist",
+      "people.profession.specializations",
+      "Calligrapher"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Mark Rothko"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Eva Rawley"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Sabrina Hughes"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010652vb"
+    ],
+    [
+      "Artist",
+      "common.topic.notable_for",
+      "g.1258k4tdn"
+    ],
+    [
+      "Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Francis Sharp"
+    ],
+    [
+      "Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010hjzhl"
+    ],
+    [
+      "Artist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Cartoonist",
+      "people.profession.specialization_of",
+      "Artist"
+    ],
+    [
+      "Still Photographer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Painter",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Cartoonist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Dancer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Writer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Photographer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Choreographer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Camera Operator",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Graphic Novelist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Journalist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Storyboard Artist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "TV Journalist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Concept Artist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Architect",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Music artist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Fashion designer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Author",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Industrial designer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Photojournalist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Printmaker",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Illustrator",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Visual Effects Artist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Designer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Visual Artist",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Musician",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Graphic Designer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Model",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.people",
+      "Vanessa Johansson"
+    ],
+    [
+      "Vanessa Johansson",
+      "people.person.ethnicity",
+      "Scandinavian American"
+    ],
+    [
+      "Vanessa Johansson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New York"
+    ],
+    [
+      "Jacob Riis Park",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Queens",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Jacob A. Riis Neighborhood Settlement Records",
+      "base.jewlib.research_collection.collection_held_by",
+      "New York Public Library Main Branch"
+    ],
+    [
+      "Mason Greyback",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Steny Hoyer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Steny Hoyer",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Songs of My People Art Exhibition Opens at Penn Center",
+      "book.written_work.subjects",
+      "Biography"
+    ],
+    [
+      "Songs of My People Art Exhibition Opens at Penn Center",
+      "book.written_work.original_language",
+      "American English"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Jersey"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Carolina"
+    ],
+    [
+      "Missouri",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "South Dakota"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Utah"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Jersey"
+    ],
+    [
+      "Utah",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maine"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Vermont"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Indiana"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Hjalmar Petersen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Minnesota"
+    ],
+    [
+      "Massachusetts",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "North Dakota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Fur",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Annie Leibovitz: Life Through a Lens",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maine"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "Kordavision",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Eliza Dushku",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "South Dakota"
+    ],
+    [
+      "Montana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "South Carolina"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Delaware"
+    ],
+    [
+      "Ohio",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Leslie Nielsen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Iowa"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "Trent Olsen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Dakota"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Iowa"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Massachusetts"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Vermont"
+    ],
+    [
+      "Wyoming",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "Mary-Kate Olsen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maine"
+    ],
+    [
+      "Connecticut",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "Washington, D.C.",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "West Virginia"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Virginia"
+    ],
+    [
+      "Nevada",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Mississippi"
+    ],
+    [
+      "Washington",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alaska"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Else Holmelund Minarik",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Rhode Island"
+    ],
+    [
+      "m.0110n_g1",
+      "base.lightweight.regional_dated_float.region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Delaware"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kansas"
+    ],
+    [
+      "Colorado",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Connecticut"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Nebraska"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ohio"
+    ],
+    [
+      "California",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Ruth Osborne",
+      "fictional_universe.fictional_character.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Schlackman Intellectual Property Law",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Iggy Pop",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Georgia"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Missouri"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Michigan"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Mississippi"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "North Dakota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arizona"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Massachusetts"
+    ],
+    [
+      "Wyoming",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Nebraska"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Mexico"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Connecticut"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alaska"
+    ],
+    [
+      "Utah",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Nevada"
+    ],
+    [
+      "North Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "South Carolina"
+    ],
+    [
+      "Betty White",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kentucky"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "West Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Colorado"
+    ],
+    [
+      "North Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Ruth Osborne"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "Nebraska",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Hampshire"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "South Dakota"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alaska"
+    ],
+    [
+      "Peter Sarsgaard",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "West Virginia"
+    ],
+    [
+      "Pennsylvania",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Massachusetts"
+    ],
+    [
+      "Wyoming",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Colorado"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Nevada"
+    ],
+    [
+      "Iowa",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Oklahoma"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Idaho"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "Wyoming",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Wyoming",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Utah",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "An Unlikely Weapon: The Eddie Adams Story",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Mexico"
+    ],
+    [
+      "Wisconsin",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "New Jersey",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "No. 4 Schoolhouse, main campus",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Georgia"
+    ],
+    [
+      "Colorado",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "New Hampshire",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Delaware"
+    ],
+    [
+      "Tennessee",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Minnesota"
+    ],
+    [
+      "North Dakota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Nebraska"
+    ],
+    [
+      "North Dakota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arkansas"
+    ],
+    [
+      "Minnesota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Washington, D.C."
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Utah"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Virginia"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maine"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Nebraska"
+    ],
+    [
+      "Kansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Montana"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Marwencol",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Guest of Cindy Sherman",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Jersey"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Virginia"
+    ],
+    [
+      "Mississippi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Utah"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Carolina"
+    ],
+    [
+      "Delaware",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Oklahoma"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alaska"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Dakota"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Mississippi"
+    ],
+    [
+      "South Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Oregon"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Rhode Island"
+    ],
+    [
+      "Lars Ulrich",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Oklahoma"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Alexis Bledel",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kansas"
+    ],
+    [
+      "New Mexico",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "California"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Colorado"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "South Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Dakota"
+    ],
+    [
+      "Lloyd Bentsen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Maine",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Oregon"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Missouri"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "California"
+    ],
+    [
+      "Louisiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Rhode Island"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "California"
+    ],
+    [
+      "Oregon",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Eastman Kodak",
+      "organization.organization.place_founded",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Vermont"
+    ],
+    [
+      "Alaska",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maryland"
+    ],
+    [
+      "Ohio",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "Hallmark Institute of Photography",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Hampshire"
+    ],
+    [
+      "m.0110n_gy",
+      "base.lightweight.regional_dated_integer.region",
+      "United States of America"
+    ],
+    [
+      "Jess Mortensen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "John Smith",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North Dakota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Dakota"
+    ],
+    [
+      "Maine",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Hampshire"
+    ],
+    [
+      "Missouri",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kentucky"
+    ],
+    [
+      "Maine",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Michigan"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Hawaii"
+    ],
+    [
+      "Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Idaho"
+    ],
+    [
+      "Idaho",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "AnnaSophia Robb",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Rhode Island"
+    ],
+    [
+      "New England School of Photography",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Carolina"
+    ],
+    [
+      "United States of America",
+      "base.militaryinfiction.location_in_fiction.contains",
+      "Kansas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kansas"
+    ],
+    [
+      "Ted Sorensen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hawaii"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Oregon"
+    ],
+    [
+      "Rhode Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Vermont"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arkansas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Oregon"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Oklahoma"
+    ],
+    [
+      "Delaware",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arkansas"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Pennsylvania"
+    ],
+    [
+      "Hawaii",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Works Design Group",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "Montana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wyoming"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "location.country.capital",
+      "Washington, D.C."
+    ],
+    [
+      "North Dakota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Pennsylvania"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kansas"
+    ],
+    [
+      "Georgia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Jersey"
+    ],
+    [
+      "Washington",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Utah"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arizona"
+    ],
+    [
+      "Worcester County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Tennessee"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Carolina"
+    ],
+    [
+      "New Jersey",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "Nebraska",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Victor Borge",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Indiana"
+    ],
+    [
+      "South Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Hawaii"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Ohio"
+    ],
+    [
+      "Fotofilosophy, Inc.",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Dakota"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Barre",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.militaryinfiction.location_in_fiction.contained_by",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Iowa"
+    ],
+    [
+      "Michigan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Michigan"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arizona"
+    ],
+    [
+      "Nevada",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Mexico"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New York Film Academy Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Carolina"
+    ],
+    [
+      "Nebraska",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Colorado"
+    ],
+    [
+      "Louisiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Indiana"
+    ],
+    [
+      "Arkansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bill Cunningham New York",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Mexico"
+    ],
+    [
+      "Washington, D.C.",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Missouri"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "West Virginia"
+    ],
+    [
+      "New Hampshire",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Scarlett Johansson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Michigan"
+    ],
+    [
+      "Vermont",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Minnesota"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Delaware"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Massachusetts"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Lis Wiehl",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Hampshire"
+    ],
+    [
+      "Jessica Alba",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "MA$TADON",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "South Dakota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "Alaska",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Indiana"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "m.0110n_dy",
+      "base.lightweight.regional_dated_money_value.region",
+      "United States of America"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.country",
+      "United States of America"
+    ],
+    [
+      "Wyoming",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Ohio"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kentucky"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kentucky"
+    ],
+    [
+      "Alaska",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "California"
+    ],
+    [
+      "Odyssey Productions",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Connecticut"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Idaho"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arizona"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Iowa"
+    ],
+    [
+      "Oregon",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Hawaii"
+    ],
+    [
+      "West Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Queens",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Queens",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Connecticut"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arkansas"
+    ],
+    [
+      "Ohio",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maryland"
+    ],
+    [
+      "Blowup",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Missouri"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Tennessee"
+    ],
+    [
+      "California",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Louisiana"
+    ],
+    [
+      "Colorado",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Benjamin F Sullivan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Idaho"
+    ],
+    [
+      "California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.book.editions",
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.book.editions",
+      "The other half : the life of Jacob Riis and the world of immigrant America"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "common.topic.notable_for",
+      "g.1255l0l4s"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.translated_work.translations",
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America"
+    ],
+    [
+      "Jacob Riis",
+      "book.book_subject.works",
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.written_work.subjects",
+      "Jacob Riis"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.written_work.author",
+      "Tom Buk-Swienty"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "common.topic.image",
+      "half.jpg"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "common.topic.article",
+      "m.064btbc"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "common.topic.notable_types",
+      "Book"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.written_work.subjects",
+      "Immigration"
+    ],
+    [
+      "Immigration",
+      "book.book_subject.works",
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.book.genre",
+      "Biography"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.written_work.original_language",
+      "Danish Language"
+    ],
+    [
+      "Ribe",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Copenhagen",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Washington, D.C.",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Barre",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Ted Sorensen",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Ted Sorensen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ted Sorensen",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Ted Sorensen",
+      "people.deceased_person.cause_of_death",
+      "Stroke"
+    ],
+    [
+      "Scarlett Johansson",
+      "people.person.ethnicity",
+      "Scandinavian American"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.people",
+      "Scarlett Johansson"
+    ],
+    [
+      "Scarlett Johansson",
+      "people.person.profession",
+      "Model"
+    ],
+    [
+      "West Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Georgia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Washington, D.C.",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Barre",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New Hampshire",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Maine",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Indiana",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Vermont",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Connecticut",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Delaware",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Maryland",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North Carolina",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Rhode Island",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New Jersey",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Massachusetts",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Worcester County",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Queens",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Florida",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "South Carolina",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Kentucky",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Ohio",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Michigan",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Filmmaking",
+      "common.topic.subject_of",
+      "New York Film Academy"
+    ],
+    [
+      "Photography",
+      "common.topic.subject_of",
+      "New York Film Academy"
+    ],
+    [
+      "New York Film Academy",
+      "common.topic.subjects",
+      "Photography"
+    ],
+    [
+      "New York Film Academy",
+      "common.topic.subjects",
+      "Filmmaking"
+    ],
+    [
+      "Photography",
+      "film.film_subject.films",
+      "Bill Cunningham New York"
+    ],
+    [
+      "Photography",
+      "media_common.netflix_genre.titles",
+      "Bill Cunningham New York"
+    ],
+    [
+      "Bill Cunningham New York",
+      "film.film.subjects",
+      "Photography"
+    ],
+    [
+      "Bill Cunningham New York",
+      "media_common.netflix_title.netflix_genres",
+      "Photography"
+    ],
+    [
+      "Queens",
+      "location.us_county.county_seat",
+      "Queens"
+    ],
+    [
+      "Jacob Riis Park",
+      "location.location.containedby",
+      "Queens"
+    ],
+    [
+      "Designer",
+      "people.profession.corresponding_type",
+      "Visual Artist"
+    ],
+    [
+      "Designer",
+      "people.profession.specializations",
+      "Fashion designer"
+    ],
+    [
+      "Designer",
+      "people.profession.specializations",
+      "Industrial designer"
+    ],
+    [
+      "Graphic Designer",
+      "people.profession.specialization_of",
+      "Designer"
+    ],
+    [
+      "Fashion designer",
+      "people.profession.specialization_of",
+      "Designer"
+    ],
+    [
+      "Architect",
+      "people.profession.specialization_of",
+      "Designer"
+    ],
+    [
+      "Designer",
+      "people.profession.specializations",
+      "Graphic Designer"
+    ],
+    [
+      "Industrial designer",
+      "people.profession.specialization_of",
+      "Designer"
+    ],
+    [
+      "Designer",
+      "people.profession.specializations",
+      "Architect"
+    ],
+    [
+      "Visual Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106_1y2"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Painter",
+      "people.profession.corresponding_type",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.equivalent_topic",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010fzhtt"
+    ],
+    [
+      "Visual Artist",
+      "common.topic.subject_of",
+      "Michael Godard"
+    ],
+    [
+      "Visual Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106_3fj"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.profession",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "freebase.equivalent_topic.equivalent_type",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "people.profession.corresponding_type",
+      "Visual Artist"
+    ],
+    [
+      "Sculptor",
+      "people.profession.corresponding_type",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.0104snbr"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "m.0104snbr",
+      "film.film_crew_gig.film_crew_role",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.kind",
+      "Title"
+    ],
+    [
+      "Michal Heiman",
+      "common.topic.notable_types",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107h89m"
+    ],
+    [
+      "m.0bnlmf3",
+      "film.film_crew_gig.film_crew_role",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0107h855"
+    ],
+    [
+      "Visual Artist",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Eugène Delacroix"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Visual Artist",
+      "freebase.valuenotation.is_reviewed",
+      "Creator"
+    ],
+    [
+      "Visual Artist",
+      "common.topic.notable_for",
+      "g.125dw0j8l"
+    ],
+    [
+      "Visual Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0106_2f_"
+    ],
+    [
+      "Visual Artist",
+      "film.film_job.films_with_this_crew_job",
+      "m.0bnlmf3"
+    ],
+    [
+      "Nuno Roque",
+      "people.person.profession",
+      "Visual Artist"
+    ],
+    [
+      "Visual Artist",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Visual Artist",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010f3ls9"
+    ],
+    [
+      "Iowa",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Author",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011nj8nh"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Author/editor"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Authors"
+    ],
+    [
+      "Journalist",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011qyfwc"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01283tsj"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Book editions published"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Series Written (or Contributed To)"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Author(s)"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdby5"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Author",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Ernest Pratt"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbyn"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Works edited"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Contributing authors"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Editor"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Open Library ID"
+    ],
+    [
+      "Mary-Kate Olsen",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Edmund Grey"
+    ],
+    [
+      "Else Holmelund Minarik",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.documented_object.documentation",
+      "m.021y5yr"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "School or Movement"
+    ],
+    [
+      "Lis Wiehl",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author(s)",
+      "rdf-schema#range",
+      "Author"
+    ],
+    [
+      "Jacob Riis",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Editor of this edition"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdcrs"
+    ],
+    [
+      "Playwright",
+      "rdf-schema#range",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Person"
+    ],
+    [
+      "Author",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Playwright",
+      "type.property.delegated",
+      "Author"
+    ],
+    [
+      "Else Holmelund Minarik",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012r6gx3"
+    ],
+    [
+      "Writer",
+      "people.profession.corresponding_type",
+      "Author"
+    ],
+    [
+      "Works written",
+      "type.property.reverse_property",
+      "Author"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbvx"
+    ],
+    [
+      "Author",
+      "common.topic.subjects",
+      "MA$TADON"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdb_h"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01260pzp"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdccz"
+    ],
+    [
+      "Works written",
+      "owl#inverseOf",
+      "Author"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.equivalent_topic",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Playwright"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.01283tsy"
+    ],
+    [
+      "Betty White",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Contributing author to"
+    ],
+    [
+      "Author",
+      "freebase.equivalent_topic.equivalent_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Test1"
+    ],
+    [
+      "Playwright",
+      "type.property.expected_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbzz"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbt3"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "made by"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011nj8pr"
+    ],
+    [
+      "Author",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Ted Cole"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Works written"
+    ],
+    [
+      "Author",
+      "type.type.properties",
+      "Book editions edited"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbvg"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "book_author"
+    ],
+    [
+      "Author",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "MA$TADON",
+      "common.topic.subject_of",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "Associated Authors"
+    ],
+    [
+      "Works written",
+      "rdf-schema#domain",
+      "Author"
+    ],
+    [
+      "Author(s)",
+      "type.property.expected_type",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "/knowledge/literature/name"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbxq"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbxg"
+    ],
+    [
+      "Author",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0_zdbtr"
+    ],
+    [
+      "MA$TADON",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "type.type.domain",
+      "Media"
+    ],
+    [
+      "Author",
+      "type.type.expected_by",
+      "author"
+    ],
+    [
+      "Lis Wiehl",
+      "common.topic.notable_types",
+      "Author"
+    ],
+    [
+      "Author",
+      "common.topic.article",
+      "m.021y5yr"
+    ],
+    [
+      "Author",
+      "freebase.type_profile.kind",
+      "Title"
+    ],
+    [
+      "Works written",
+      "type.property.schema",
+      "Author"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Ted Cole",
+      "fictional_universe.fictional_character.occupation",
+      "Author"
+    ],
+    [
+      "Music artist",
+      "people.profession.specialization_of",
+      "Musician"
+    ],
+    [
+      "Musician",
+      "common.topic.subject_of",
+      "Biography"
+    ],
+    [
+      "Musician",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Sailor Neptune"
+    ],
+    [
+      "Musician",
+      "common.topic.subjects",
+      "MA$TADON"
+    ],
+    [
+      "MA$TADON",
+      "common.topic.subject_of",
+      "Musician"
+    ],
+    [
+      "Benjamin F Sullivan",
+      "people.person.profession",
+      "Musician"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.profession",
+      "Musician"
+    ],
+    [
+      "MA$TADON",
+      "people.person.profession",
+      "Musician"
+    ],
+    [
+      "Iggy Pop",
+      "people.person.profession",
+      "Musician"
+    ],
+    [
+      "Musician",
+      "people.profession.specializations",
+      "Music artist"
+    ],
+    [
+      "Lars Ulrich",
+      "people.person.profession",
+      "Musician"
+    ],
+    [
+      "MA$TADON",
+      "people.person.profession",
+      "Music artist"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.people",
+      "Leslie Nielsen"
+    ],
+    [
+      "Leslie Nielsen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Leslie Nielsen",
+      "people.person.ethnicity",
+      "Scandinavian American"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.languages",
+      "Danish Language"
+    ],
+    [
+      "Danish Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Denmark",
+      "location.country.languages_spoken",
+      "Danish Language"
+    ],
+    [
+      "Danish Language",
+      "language.human_language.main_country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.official_language",
+      "Danish Language"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.languages_spoken",
+      "Danish Language"
+    ],
+    [
+      "Danish Language",
+      "language.human_language.countries_spoken_in",
+      "Denmark"
+    ],
+    [
+      "Janet Reno",
+      "medicine.notable_person_with_medical_condition.condition",
+      "Parkinson's disease"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.notable_people_with_this_condition",
+      "Janet Reno"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.profession",
+      "Photographer"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.profession",
+      "Painter"
+    ],
+    [
+      "Viggo Mortensen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alexis Bledel",
+      "people.person.profession",
+      "Model"
+    ],
+    [
+      "Victor Borge",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Victor Borge",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Victor Borge",
+      "people.person.place_of_birth",
+      "Copenhagen"
+    ],
+    [
+      "AnnaSophia Robb",
+      "people.person.profession",
+      "Model"
+    ],
+    [
+      "Trent Olsen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Trent Olsen",
+      "people.person.languages",
+      "American English"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.languages_spoken",
+      "American English"
+    ],
+    [
+      "President Barack Obama and the Message Beyond the Photograph",
+      "book.written_work.original_language",
+      "American English"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.people",
+      "Gale Sondergaard"
+    ],
+    [
+      "Betty White",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Lars Ulrich",
+      "people.person.parents",
+      "Torben Ulrich"
+    ],
+    [
+      "Jacob Riis",
+      "symbols.name_source.namesakes",
+      "Riis Houses"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.profession",
+      "Journalist"
+    ],
+    [
+      "Jacob Riis",
+      "base.jewlib.original_owner.originator_of",
+      "Jacob A. Riis Neighborhood Settlement Records"
+    ],
+    [
+      "Jacob Riis",
+      "visual_art.visual_artist.artworks",
+      "Night in Gotham Court"
+    ],
+    [
+      "Jacob Riis Park",
+      "symbols.namesake.named_after",
+      "Jacob Riis"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Jacob Riis",
+      "book.author.works_written",
+      "How the Other Half Lives"
+    ],
+    [
+      "Jacob Riis",
+      "common.topic.image",
+      "Jacob Riis 2"
+    ],
+    [
+      "Jacob Riis",
+      "common.topic.article",
+      "m.0jllb"
+    ],
+    [
+      "Home of an Italian Ragpicker, Jersey Street",
+      "visual_art.artwork.artist",
+      "Jacob Riis"
+    ],
+    [
+      "Jacob Riis",
+      "symbols.name_source.namesakes",
+      "Jacob Riis Park"
+    ],
+    [
+      "Jacob Riis",
+      "common.topic.notable_for",
+      "g.125ghj_h1"
+    ],
+    [
+      "Jacob Riis",
+      "visual_art.visual_artist.artworks",
+      "Home of an Italian Ragpicker, Jersey Street"
+    ],
+    [
+      "Lower East Side",
+      "visual_art.artwork.artist",
+      "Jacob Riis"
+    ],
+    [
+      "Ribe",
+      "location.location.people_born_here",
+      "Jacob Riis"
+    ],
+    [
+      "Jacob Riis",
+      "visual_art.visual_artist.art_forms",
+      "Photography"
+    ],
+    [
+      "Jacob Riis",
+      "people.deceased_person.place_of_death",
+      "Barre"
+    ],
+    [
+      "m.04yv325",
+      "people.place_lived.person",
+      "Jacob Riis"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.place_of_birth",
+      "Ribe"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jacob Riis 2",
+      "common.image.appears_in_topic_gallery",
+      "Jacob Riis"
+    ],
+    [
+      "Jacob Riis",
+      "visual_art.visual_artist.artworks",
+      "Shooting Craps: The Game of the Street. Bootblacks and Newsboys"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.profession",
+      "Photographer"
+    ],
+    [
+      "Jacob Riis",
+      "visual_art.visual_artist.artworks",
+      "Lower East Side"
+    ],
+    [
+      "Jacob Riis",
+      "people.person.places_lived",
+      "m.04yv325"
+    ],
+    [
+      "Night in Gotham Court",
+      "visual_art.artwork.artist",
+      "Jacob Riis"
+    ],
+    [
+      "Riis Houses",
+      "symbols.namesake.named_after",
+      "Jacob Riis"
+    ],
+    [
+      "Jacob A. Riis Neighborhood Settlement Records",
+      "base.jewlib.research_collection.originators",
+      "Jacob Riis"
+    ],
+    [
+      "Shooting Craps: The Game of the Street. Bootblacks and Newsboys",
+      "visual_art.artwork.artist",
+      "Jacob Riis"
+    ],
+    [
+      "How the Other Half Lives",
+      "book.written_work.author",
+      "Jacob Riis"
+    ],
+    [
+      "Peter Sarsgaard",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jessica Alba",
+      "people.person.profession",
+      "Model"
+    ],
+    [
+      "Erik Nielsen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Erik Nielsen",
+      "people.deceased_person.cause_of_death",
+      "heart attack"
+    ],
+    [
+      "Lars Ulrich",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Lars Ulrich",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jess Mortensen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mary-Kate Olsen",
+      "people.person.profession",
+      "Fashion designer"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "medicine.disease.notable_people_with_this_condition",
+      "Mary-Kate Olsen"
+    ],
+    [
+      "Mary-Kate Olsen",
+      "medicine.notable_person_with_medical_condition.condition",
+      "Attention deficit hyperactivity disorder"
+    ],
+    [
+      "Ethnicity",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Ethnicity",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Ethnicity",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Scandinavian American",
+      "common.topic.notable_types",
+      "Ethnicity"
+    ],
+    [
+      "Hans Peter Mareus Neilsen Gammel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hans Peter Mareus Neilsen Gammel",
+      "people.person.place_of_birth",
+      "Denmark"
+    ],
+    [
+      "Lloyd Bentsen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lloyd Bentsen",
+      "people.deceased_person.cause_of_death",
+      "Stroke"
+    ],
+    [
+      "Else Holmelund Minarik",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Else Holmelund Minarik",
+      "people.person.place_of_birth",
+      "Denmark"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.people",
+      "Iggy Pop"
+    ],
+    [
+      "Scandinavian American",
+      "people.ethnicity.people",
+      "Brigitte Nielsen"
+    ],
+    [
+      "Iggy Pop",
+      "people.person.ethnicity",
+      "Scandinavian American"
+    ],
+    [
+      "Iggy Pop",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hjalmar Petersen",
+      "people.person.place_of_birth",
+      "Denmark"
+    ],
+    [
+      "Hjalmar Petersen",
+      "people.person.gender",
+      "Male"
+    ]
+  ]
+}

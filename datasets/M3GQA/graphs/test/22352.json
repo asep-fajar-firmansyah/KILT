@@ -1,0 +1,730 @@
+{
+  "graph_id": 22352,
+  "subgraph": [
+    [
+      "Milwaukee Bucks",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Milwaukee Bucks"
+    ],
+    [
+      "Milwaukee Bucks",
+      "basketball.basketball_team.division",
+      "Central Division"
+    ],
+    [
+      "Milwaukee Bucks",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Central Division",
+      "basketball.basketball_division.teams",
+      "Milwaukee Bucks"
+    ],
+    [
+      "Milwaukee Bucks",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Detroit Pistons",
+      "basketball.basketball_team.division",
+      "Central Division"
+    ],
+    [
+      "Detroit Pistons",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Detroit Pistons",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Detroit Pistons",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Detroit Pistons"
+    ],
+    [
+      "Central Division",
+      "basketball.basketball_division.teams",
+      "Detroit Pistons"
+    ],
+    [
+      "Indiana Pacers",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Central Division",
+      "basketball.basketball_division.teams",
+      "Indiana Pacers"
+    ],
+    [
+      "Indiana Pacers",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Indiana Pacers",
+      "basketball.basketball_team.division",
+      "Central Division"
+    ],
+    [
+      "Indiana Pacers",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Indiana Pacers"
+    ],
+    [
+      "Central Division",
+      "basketball.basketball_division.teams",
+      "Chicago Bulls"
+    ],
+    [
+      "Chicago Bulls",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Chicago Bulls"
+    ],
+    [
+      "Chicago Bulls",
+      "basketball.basketball_team.division",
+      "Central Division"
+    ],
+    [
+      "Chicago Bulls",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Chicago Bulls",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Philadelphia 76ers",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "common.topic.article",
+      "m.04rk0m"
+    ],
+    [
+      "Toronto Raptors",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Central Division",
+      "basketball.basketball_division.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "organization.organization.parent",
+      "m.0ck2ds0"
+    ],
+    [
+      "m.0ck2f0_",
+      "organization.organization_relationship.parent",
+      "Eastern Conference"
+    ],
+    [
+      "New York Knicks",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Atlanta Hawks",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Toronto Raptors"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Miami Heat"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Philadelphia 76ers"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Cleveland Cavaliers"
+    ],
+    [
+      "Eastern Conference",
+      "common.topic.notable_for",
+      "g.1254yr30d"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Washington Wizards"
+    ],
+    [
+      "Eastern Conference",
+      "common.topic.webpage",
+      "m.09xjjnh"
+    ],
+    [
+      "m.0ck2ds0",
+      "organization.organization_relationship.child",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "organization.organization.child",
+      "m.0ck2f0m"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.divisions",
+      "Atlantic Division"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Boston Celtics"
+    ],
+    [
+      "Miami Heat",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "organization.organization.child",
+      "m.0ck2f0t"
+    ],
+    [
+      "Brooklyn Nets",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.divisions",
+      "Southeast Division"
+    ],
+    [
+      "Charlotte Hornets",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.divisions",
+      "Central Division"
+    ],
+    [
+      "Eastern Conference",
+      "sports.sports_league.teams",
+      "m.0crtdcs"
+    ],
+    [
+      "m.0crtdcs",
+      "sports.sports_league_participation.league",
+      "Eastern Conference"
+    ],
+    [
+      "m.0ck2f0m",
+      "organization.organization_relationship.parent",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "common.topic.notable_types",
+      "Basketball Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.league",
+      "National Basketball Association"
+    ],
+    [
+      "m.0ck2f0t",
+      "organization.organization_relationship.parent",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Brooklyn Nets"
+    ],
+    [
+      "Eastern Conference",
+      "organization.organization.child",
+      "m.0ck2f0_"
+    ],
+    [
+      "Atlantic Division",
+      "basketball.basketball_division.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Washington Wizards",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Atlanta Hawks"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "New York Knicks"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Orlando Magic"
+    ],
+    [
+      "Cleveland Cavaliers",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Southeast Division",
+      "basketball.basketball_division.conference",
+      "Eastern Conference"
+    ],
+    [
+      "m.09xjjnh",
+      "common.webpage.topic",
+      "Eastern Conference"
+    ],
+    [
+      "Orlando Magic",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Eastern Conference",
+      "basketball.basketball_conference.teams",
+      "Charlotte Hornets"
+    ],
+    [
+      "Boston Celtics",
+      "basketball.basketball_team.conference",
+      "Eastern Conference"
+    ],
+    [
+      "Cleveland Cavaliers",
+      "basketball.basketball_team.division",
+      "Central Division"
+    ],
+    [
+      "Central Division",
+      "organization.organization.parent",
+      "m.0ck2f0t"
+    ],
+    [
+      "Central Division",
+      "common.topic.notable_types",
+      "Basketball Division"
+    ],
+    [
+      "Central Division",
+      "basketball.basketball_division.teams",
+      "Cleveland Cavaliers"
+    ],
+    [
+      "m.0ck2f0t",
+      "organization.organization_relationship.child",
+      "Central Division"
+    ],
+    [
+      "Dallas Mavericks",
+      "base.sportbase.sport_sport_club.involves_in",
+      "Basketball"
+    ],
+    [
+      "Washington Wizards",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Power forward",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "Miami Heat",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Shooting guard",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Charlotte Hornets",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "New York Knicks",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Guard"
+    ],
+    [
+      "Basketball",
+      "base.sportbase.sport.played_by_clubs",
+      "Dallas Mavericks"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Forward-center"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Center"
+    ],
+    [
+      "San Antonio Spurs",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "National Basketball Association",
+      "sports.sports_league.sport",
+      "Basketball"
+    ],
+    [
+      "Basketball",
+      "organization.organization_sector.organizations_in_this_sector",
+      "National Basketball Association"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Shooting guard"
+    ],
+    [
+      "Toronto Raptors",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Forward-center",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "National Basketball Association",
+      "organization.organization.sectors",
+      "Basketball"
+    ],
+    [
+      "Center",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "Forward",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "Philadelphia 76ers",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Guard",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "Small forward",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Small forward"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Power forward"
+    ],
+    [
+      "Point guard",
+      "sports.sports_position.sport",
+      "Basketball"
+    ],
+    [
+      "Cleveland Cavaliers",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Dallas Mavericks",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Forward"
+    ],
+    [
+      "m.0d65y8c",
+      "sports.pro_sports_played.sport",
+      "Basketball"
+    ],
+    [
+      "Brooklyn Nets",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Orlando Magic",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Atlanta Hawks",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Boston Celtics",
+      "sports.sports_team.sport",
+      "Basketball"
+    ],
+    [
+      "Basketball",
+      "sports.sport.positions",
+      "Point guard"
+    ],
+    [
+      "Professional Sports Team",
+      "type.type.properties",
+      "Draft Picks"
+    ],
+    [
+      "Teams Owned",
+      "rdf-schema#range",
+      "Professional Sports Team"
+    ],
+    [
+      "Miami Heat",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Professional Sports Team",
+      "type.type.domain",
+      "Sports"
+    ],
+    [
+      "Philadelphia 76ers",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Professional Sports Team",
+      "type.type.expected_by",
+      "Team"
+    ],
+    [
+      "Sports",
+      "type.domain.types",
+      "Professional Sports Team"
+    ],
+    [
+      "Draft Picks",
+      "type.property.schema",
+      "Professional Sports Team"
+    ],
+    [
+      "San Antonio Spurs",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Boston Celtics",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Brooklyn Nets",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Professional Sports Team",
+      "type.type.properties",
+      "Owner(s)"
+    ],
+    [
+      "Team",
+      "type.property.expected_type",
+      "Professional Sports Team"
+    ],
+    [
+      "Oklahoma City Thunder",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "New York Knicks",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Dallas Mavericks",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Professional Sports Team",
+      "freebase.type_hints.included_types",
+      "Sports Team"
+    ],
+    [
+      "Miami Dolphins",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Owner(s)",
+      "type.property.schema",
+      "Professional Sports Team"
+    ],
+    [
+      "Team",
+      "rdf-schema#range",
+      "Professional Sports Team"
+    ],
+    [
+      "Atlanta Hawks",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Professional Sports Team",
+      "common.topic.article",
+      "m.06_rt7r"
+    ],
+    [
+      "Professional Sports Team",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Professional Sports Team",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Professional Sports Team",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Owner(s)",
+      "rdf-schema#domain",
+      "Professional Sports Team"
+    ],
+    [
+      "Orlando Magic",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Charlotte Hornets",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Florida Panthers",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Toronto Raptors",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Teams Owned",
+      "type.property.expected_type",
+      "Professional Sports Team"
+    ],
+    [
+      "Cleveland Cavaliers",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Miami Marlins",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Washington Wizards",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Draft Picks",
+      "rdf-schema#domain",
+      "Professional Sports Team"
+    ],
+    [
+      "Professional Sports Team",
+      "type.type.expected_by",
+      "Teams Owned"
+    ]
+  ]
+}

@@ -1,0 +1,3110 @@
+{
+  "graph_id": 33161,
+  "subgraph": [
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maine"
+    ],
+    [
+      "Maine",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maine"
+    ],
+    [
+      "Maine",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maine"
+    ],
+    [
+      "Maine",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Maine",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Maine",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maine"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Illinois",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Illinois"
+    ],
+    [
+      "Illinois",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Illinois"
+    ],
+    [
+      "Arizona",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arizona"
+    ],
+    [
+      "Arizona",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arizona"
+    ],
+    [
+      "Arizona",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arizona"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Arizona",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arizona"
+    ],
+    [
+      "Arizona",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "California"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Jersey"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Colorado"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Mississippi"
+    ],
+    [
+      "Mississippi",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Carolina"
+    ],
+    [
+      "Missouri",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "South Carolina"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "North Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "South Dakota"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Utah"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Jersey"
+    ],
+    [
+      "Utah",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Dakota"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Nevada",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kiersten Fay",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Vermont"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Oregon"
+    ],
+    [
+      "Georgia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Indiana"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Missouri"
+    ],
+    [
+      "Oregon",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "California"
+    ],
+    [
+      "Louisiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Rhode Island"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Minnesota"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "California"
+    ],
+    [
+      "North Dakota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "T. J. Brennan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Vermont"
+    ],
+    [
+      "Alaska",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Maryland"
+    ],
+    [
+      "Ohio",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Hampshire"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "North Dakota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "South Dakota"
+    ],
+    [
+      "Rhode Island",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Dakota"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Hampshire"
+    ],
+    [
+      "Missouri",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Tennessee"
+    ],
+    [
+      "Montana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kentucky"
+    ],
+    [
+      "Oklahoma",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Michigan"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "South Carolina"
+    ],
+    [
+      "Jeremy Yablan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alice Stokes Paul",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "Vermont",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Hawaii"
+    ],
+    [
+      "Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Delaware"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Idaho"
+    ],
+    [
+      "Idaho",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Rhode Island"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Iowa"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Carolina"
+    ],
+    [
+      "United States of America",
+      "base.militaryinfiction.location_in_fiction.contains",
+      "Kansas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kansas"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hawaii"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Dakota"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Iowa"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Massachusetts"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Oregon"
+    ],
+    [
+      "Rhode Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Vermont"
+    ],
+    [
+      "Wyoming",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Vermont"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Arkansas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Oregon"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Oklahoma"
+    ],
+    [
+      "Delaware",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Louisiana"
+    ],
+    [
+      "Washington, D.C.",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "West Virginia"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Arkansas"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Pennsylvania"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Virginia"
+    ],
+    [
+      "Nevada",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Mississippi"
+    ],
+    [
+      "Washington",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alaska"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "Phil Costa",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Tennessee",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Nevada",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Washington, D.C."
+    ],
+    [
+      "Montana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Rhode Island"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Delaware"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kansas"
+    ],
+    [
+      "New Mexico",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Oregon",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "location.country.capital",
+      "Washington, D.C."
+    ],
+    [
+      "North Dakota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Connecticut"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Nebraska"
+    ],
+    [
+      "New York",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Brandon M. Dennis",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Pennsylvania"
+    ],
+    [
+      "California",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kansas"
+    ],
+    [
+      "Georgia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York"
+    ],
+    [
+      "Nevada",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Jersey"
+    ],
+    [
+      "Tennessee",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Washington",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Utah"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Georgia"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Tennessee"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Missouri"
+    ],
+    [
+      "Indiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Ridgefield",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Michigan"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "South Carolina"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Mississippi"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Oklahoma",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Indiana"
+    ],
+    [
+      "South Carolina",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Hawaii"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Mississippi",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Ohio"
+    ],
+    [
+      "North Dakota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Missouri",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Massachusetts"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "North Dakota"
+    ],
+    [
+      "Wyoming",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Nebraska"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Mexico"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Connecticut"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alaska"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Nevada"
+    ],
+    [
+      "North Carolina",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Lavinia Lloyd Dock",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "South Carolina"
+    ],
+    [
+      "Oklahoma",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "base.militaryinfiction.location_in_fiction.contained_by",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Kentucky"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Iowa"
+    ],
+    [
+      "Michigan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Michigan"
+    ],
+    [
+      "New Jersey",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "West Virginia"
+    ],
+    [
+      "Nevada",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Colorado"
+    ],
+    [
+      "North Carolina",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New Mexico"
+    ],
+    [
+      "Walter French",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Alaska",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States women's national gymnastics team",
+      "sports.sports_team.location",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Virginia"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "North Carolina"
+    ],
+    [
+      "Nebraska",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New Hampshire"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "South Dakota"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alaska"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Colorado"
+    ],
+    [
+      "American University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Indiana"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Montana"
+    ],
+    [
+      "Arkansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Steve Sabol",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "New Jersey",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "West Virginia"
+    ],
+    [
+      "Pennsylvania",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Massachusetts"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New Mexico"
+    ],
+    [
+      "Washington, D.C.",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Wyoming",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wyoming"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Colorado"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Missouri"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "West Virginia"
+    ],
+    [
+      "New Hampshire",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Oklahoma"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Idaho"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "Wyoming",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Wyoming",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Utah",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Utah",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Washington"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Michigan"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Minnesota"
+    ],
+    [
+      "Nebraska",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Mexico"
+    ],
+    [
+      "Wisconsin",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Delaware"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "New Jersey",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington, D.C.",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Massachusetts"
+    ],
+    [
+      "Kiersten Fay",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Idaho",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "m.04zr93l",
+      "base.firsts.first_achievement.category",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Georgia"
+    ],
+    [
+      "Colorado",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "University of Pennsylvania",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Iowa",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Hampshire"
+    ],
+    [
+      "Michigan",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "MA$TADON",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "North Carolina",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "Alaska",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "South Dakota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "Utah",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "New Hampshire",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Maryland"
+    ],
+    [
+      "Kansas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Indiana"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Delaware"
+    ],
+    [
+      "Tennessee",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Minnesota"
+    ],
+    [
+      "North Dakota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Wyoming",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Maryland"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Nebraska"
+    ],
+    [
+      "Hugh Borton",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "sports.sports_team_location.teams",
+      "United States women's national gymnastics team"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "North Dakota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Ohio"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Arkansas"
+    ],
+    [
+      "Minnesota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Washington, D.C."
+    ],
+    [
+      "Tennessee",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Rhode Island",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Michigan",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Utah"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Burlington County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Vermont",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Kentucky"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Virginia"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Nebraska"
+    ],
+    [
+      "Kansas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Kentucky"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Pennsylvania"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Montana"
+    ],
+    [
+      "Alaska",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "California"
+    ],
+    [
+      "m.04wyfrp",
+      "base.firsts.first_achievement.category",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Connecticut"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Delaware",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "California",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Idaho"
+    ],
+    [
+      "Kentucky",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hawaii",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Iowa"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New Jersey"
+    ],
+    [
+      "Oregon",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Hawaii"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Virginia"
+    ],
+    [
+      "West Virginia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Swarthmore College",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Mississippi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Maryland",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Washington"
+    ],
+    [
+      "Louisiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Utah"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Carolina"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Connecticut"
+    ],
+    [
+      "Delaware",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Arkansas"
+    ],
+    [
+      "Maryland",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Ohio",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Washington",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Maryland"
+    ],
+    [
+      "Iowa",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Arkansas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Oklahoma"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alaska"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Nevada"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tennessee"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Missouri"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Tennessee"
+    ],
+    [
+      "California",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Pennsylvania",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "North Dakota"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Mississippi"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Massachusetts",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "South Carolina",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Oregon"
+    ],
+    [
+      "Alaska",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Rhode Island"
+    ],
+    [
+      "Idaho",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Kansas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Kentucky",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Oklahoma"
+    ],
+    [
+      "Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04zr93l"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Connecticut",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Louisiana"
+    ],
+    [
+      "South Dakota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wyfrp"
+    ],
+    [
+      "Lucy Burns",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Colorado",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Kansas"
+    ],
+    [
+      "Virginia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "New Mexico",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "West Virginia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Idaho"
+    ],
+    [
+      "Missouri",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "California",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Nebraska",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Iowa",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Hawaii",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Washington, D.C.",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Alaska",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "New Mexico",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Ohio",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "North Dakota",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Oregon",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Idaho",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Wyoming",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Oklahoma",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Kentucky",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Mississippi",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Colorado",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Utah",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Vermont",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "North Carolina",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Arkansas",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States, with Territories"
+    ],
+    [
+      "South Carolina",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "United States, with Territories",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Washington",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Rhode Island",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Indiana",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Tennessee",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Nevada",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Delaware",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Louisiana",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Massachusetts",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Missouri",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Maryland",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "New Hampshire",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "West Virginia",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "South Dakota",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Connecticut",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "West Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Pennsylvania",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Delaware",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Maryland",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North Carolina",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Rhode Island",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New Jersey",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Georgia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Massachusetts",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Ridgefield",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Burlington County",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Washington, D.C.",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New Hampshire",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Tennessee",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Florida",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Indiana",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "New York",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "South Carolina",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Virginia",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Moorestown",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Kentucky",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Vermont",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Ohio",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Michigan",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ]
+  ]
+}

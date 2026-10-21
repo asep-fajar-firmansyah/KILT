@@ -1,0 +1,1245 @@
+{
+  "graph_id": 25215,
+  "subgraph": [
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Shabwah Governorate"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Shabwah Governorate"
+    ],
+    [
+      "Shabwah Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Shabwah Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Shabwah Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Shabwah Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Sana'a Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Sana'a Governorate"
+    ],
+    [
+      "Sana'a Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Sana'a Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Sana'a Governorate"
+    ],
+    [
+      "Sana'a Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Sana'a Governorate",
+      "location.location.contains",
+      "Sana'a"
+    ],
+    [
+      "Sana'a",
+      "location.location.containedby",
+      "Sana'a Governorate"
+    ],
+    [
+      "'Amran Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Aden",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Yemeni governorate",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Yemen"
+    ],
+    [
+      "Yemeni governorate",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Yemen"
+    ],
+    [
+      "Al Mahrah Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Yemeni governorate",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Yemen"
+    ],
+    [
+      "Yemeni governorate",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Hajjah Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Al Jawf Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Yemeni governorate",
+      "base.uncommon.topic.exceptions",
+      "Sa'dah Governorate is contained in both Yemen and Saudi Arabia."
+    ],
+    [
+      "Sa'dah Governorate is contained in both Yemen and Saudi Arabia.",
+      "base.uncommon.exception.involves",
+      "Yemeni governorate"
+    ],
+    [
+      "Ibb Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Hadhramaut",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Yemeni governorate",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Yemen"
+    ],
+    [
+      "Dhale Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Al Bayda Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Taiz Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Abyan Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Dhamar Governorate",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Yemeni governorate"
+    ],
+    [
+      "Aden",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Aden"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Aden"
+    ],
+    [
+      "Aden",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "South Yemen",
+      "location.country.capital",
+      "Aden"
+    ],
+    [
+      "Aden",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Dhale Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "Yemen"
+    ],
+    [
+      "Freya Stark in Southern Arabia",
+      "book.written_work.subjects",
+      "Yemen"
+    ],
+    [
+      "Hajjah Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Ma'rib",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Yemen: The Unknown Arabia",
+      "book.written_work.subjects",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Dhale Governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hajjah Governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Taiz Governorate"
+    ],
+    [
+      "m.04cp1nv",
+      "location.imports_and_exports.exported_to",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "Taiz Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Hajjah"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Abyan Governorate"
+    ],
+    [
+      "'Amran Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Ibb",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Al Mahwit",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Al Mahwit",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.location.events",
+      "South Yemen insurgency"
+    ],
+    [
+      "Sana'a",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "book.book_subject.works",
+      "Freya Stark in Southern Arabia"
+    ],
+    [
+      "Yemen",
+      "book.book_subject.works",
+      "Yemen: The Unknown Arabia"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "Al Mahrah Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Al Hudaydah"
+    ],
+    [
+      "Al Bayda Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Al Jawf Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "Yemen"
+    ],
+    [
+      "Al Bayda Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Al Jawf Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "m.05gpqpc",
+      "location.adjoining_relationship.adjoins",
+      "Yemen"
+    ],
+    [
+      "Sa'dah",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Ma'rib",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Arabic, Egyptian Spoken",
+      "base.rosetta.local_name.locale",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Al Mahwit"
+    ],
+    [
+      "Sana'a",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Hadhramaut",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Al Mahrah Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Taiz Governorate"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Hajjah Governorate"
+    ],
+    [
+      "Dhamar Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "'Amran Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Ibb Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Taiz Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.form_of_government",
+      "Republic"
+    ],
+    [
+      "Ibb",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Dhamar Governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Al Jawf Governorate"
+    ],
+    [
+      "Taiz Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Yemen",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "South Yemen insurgency",
+      "time.event.locations",
+      "Yemen"
+    ],
+    [
+      "Ma'rib",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hajjah"
+    ],
+    [
+      "Yemen",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Yemen",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "'Amran Governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Abyan Governorate"
+    ],
+    [
+      "Yemen",
+      "military.military_combatant.military_conflicts",
+      "m.047ksjt"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Ibb Governorate"
+    ],
+    [
+      "Hadhramaut",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.location.adjoin_s",
+      "m.05gpqpc"
+    ],
+    [
+      "Hajjah",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Ibb"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Hajjah",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Al Mahrah Governorate"
+    ],
+    [
+      "Yemen",
+      "location.country.form_of_government",
+      "Presidential system"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Abyan Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Ibb Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Abyan Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Dhamar Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Al Hudaydah",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hadhramaut"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Sa'dah"
+    ],
+    [
+      "Taiz",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Hajjah Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.capital",
+      "Sana'a"
+    ],
+    [
+      "Hajjah Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Al Mahwit"
+    ],
+    [
+      "Ibb",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "m.047ksjt",
+      "military.military_combatant_group.combatants",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Al Bayda Governorate"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Hadhramaut"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ma'rib"
+    ],
+    [
+      "'Amran Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Hajjah",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Sa'dah Governorate is contained in both Yemen and Saudi Arabia.",
+      "base.uncommon.exception.involves",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.statistical_region.places_imported_from",
+      "m.04cp1nv"
+    ],
+    [
+      "Dhale Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "Yemen"
+    ],
+    [
+      "Abubakar Al-Mass",
+      "people.person.nationality",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Ma'rib"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Yemen"
+    ],
+    [
+      "Al Hudaydah",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Sana'a"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ibb Governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Al Mahrah Governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Sa'dah"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Arab world"
+    ],
+    [
+      "Yemen",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Al Bayda Governorate"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Dhale Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Hadhramaut",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Taiz",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Sa'dah",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.uncommon.topic.exceptions",
+      "Sa'dah Governorate is contained in both Yemen and Saudi Arabia."
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "'Amran Governorate"
+    ],
+    [
+      "Abyan Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Sa'dah",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Dhale Governorate"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Yemen"
+    ],
+    [
+      "Al Jawf Governorate",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Yemen"
+    ],
+    [
+      "Al Bayda Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Al Mahrah Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Taiz"
+    ],
+    [
+      "Abdul Fattah Ismail",
+      "people.person.nationality",
+      "Yemen"
+    ],
+    [
+      "Al Mahwit",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Taiz",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Presidential system",
+      "government.form_of_government.countries",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ibb"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Taiz"
+    ],
+    [
+      "Yemen",
+      "location.country.administrative_divisions",
+      "Al Jawf Governorate"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Al Hudaydah"
+    ],
+    [
+      "Arab world",
+      "location.location.contains",
+      "Yemen"
+    ],
+    [
+      "Al Hudaydah",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Yemen",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Yemen",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Dhamar Governorate"
+    ],
+    [
+      "Ibb Governorate",
+      "location.location.containedby",
+      "Yemen"
+    ],
+    [
+      "Dhamar Governorate",
+      "location.administrative_division.country",
+      "Yemen"
+    ],
+    [
+      "Sana'a",
+      "location.location.time_zones",
+      "Arabia Time Zone"
+    ],
+    [
+      "Arabia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Sana'a"
+    ],
+    [
+      "Sana'a",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Language Family",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Region of Mauritania",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Human Language",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Djibouti region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Saudi Arabian region",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Language Dialect",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Language Writing System",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Country",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Human Language",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Country",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Journal",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Language Family",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Sovereign state",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Journal",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Topic",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Language Dialect",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Municipality of Qatar",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Language Writing System",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Hajjah",
+      "location.location.containedby",
+      "Hajjah Governorate"
+    ],
+    [
+      "Hajjah Governorate",
+      "location.location.contains",
+      "Hajjah"
+    ],
+    [
+      "Saudi Arabia",
+      "base.uncommon.topic.exceptions",
+      "Sa'dah Governorate is contained in both Yemen and Saudi Arabia."
+    ],
+    [
+      "Sa'dah Governorate is contained in both Yemen and Saudi Arabia.",
+      "base.uncommon.exception.involves",
+      "Saudi Arabia"
+    ],
+    [
+      "Ibb Governorate",
+      "location.location.contains",
+      "Ibb"
+    ],
+    [
+      "Ibb",
+      "location.location.containedby",
+      "Ibb Governorate"
+    ],
+    [
+      "Taiz",
+      "location.location.containedby",
+      "Taiz Governorate"
+    ],
+    [
+      "Taiz Governorate",
+      "location.location.contains",
+      "Taiz"
+    ],
+    [
+      "Dictatorship",
+      "government.form_of_government.countries",
+      "South Yemen"
+    ],
+    [
+      "Communist state",
+      "government.form_of_government.countries",
+      "South Yemen"
+    ],
+    [
+      "m.0hp5m8j",
+      "organization.organization_membership.member",
+      "South Yemen"
+    ],
+    [
+      "Abubakar Al-Mass",
+      "people.person.place_of_birth",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "location.country.form_of_government",
+      "Communist state"
+    ],
+    [
+      "South Yemen",
+      "location.location.geolocation",
+      "m.0wm_qfp"
+    ],
+    [
+      "South Yemen",
+      "location.country.currency_formerly_used",
+      "South Yemeni dinar"
+    ],
+    [
+      "Arabic Language",
+      "language.human_language.countries_spoken_in",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "common.topic.image",
+      "LocationSouthYemen"
+    ],
+    [
+      "South Yemen",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Socialist state",
+      "government.form_of_government.countries",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "South Yemen",
+      "common.topic.article",
+      "m.035hrh"
+    ],
+    [
+      "South Yemen",
+      "location.statistical_region.population",
+      "m.0w17l7w"
+    ],
+    [
+      "South Yemen",
+      "location.country.languages_spoken",
+      "Shehri language"
+    ],
+    [
+      "Arabian Peninsula",
+      "location.location.contains",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "common.topic.notable_for",
+      "g.12596bp3_"
+    ],
+    [
+      "South Yemen",
+      "location.location.events",
+      "South Yemen Civil War"
+    ],
+    [
+      "South Yemen",
+      "common.topic.image",
+      "800px-Flag_of_South_Yemen_svg.png"
+    ],
+    [
+      "South Yemen insurgency",
+      "time.event.locations",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "location.country.languages_spoken",
+      "Hobyót Language"
+    ],
+    [
+      "South Yemen",
+      "location.country.languages_spoken",
+      "Soqotri Language"
+    ],
+    [
+      "South Yemen",
+      "location.country.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "South Yemen",
+      "location.location.events",
+      "South Yemen insurgency"
+    ],
+    [
+      "South Yemen",
+      "location.location.people_born_here",
+      "Abubakar Al-Mass"
+    ],
+    [
+      "South Yemen",
+      "location.location.containedby",
+      "Arabian Peninsula"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "location.country.form_of_government",
+      "Dictatorship"
+    ],
+    [
+      "South Yemen",
+      "location.location.people_born_here",
+      "Abdul Fattah Ismail"
+    ],
+    [
+      "South Yemen",
+      "location.country.official_language",
+      "Arabic Language"
+    ],
+    [
+      "South Yemen",
+      "location.country.form_of_government",
+      "Socialist state"
+    ],
+    [
+      "Parliamentary system",
+      "government.form_of_government.countries",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "location.country.languages_spoken",
+      "Mehri language"
+    ],
+    [
+      "South Yemen",
+      "location.country.form_of_government",
+      "Parliamentary system"
+    ],
+    [
+      "Parliamentary republic",
+      "government.form_of_government.countries",
+      "South Yemen"
+    ],
+    [
+      "Abdul Fattah Ismail",
+      "people.deceased_person.place_of_death",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "organization.organization_member.member_of",
+      "m.0hp5m8j"
+    ],
+    [
+      "South Yemen",
+      "location.country.form_of_government",
+      "Republic"
+    ],
+    [
+      "Abdul Fattah Ismail",
+      "people.person.place_of_birth",
+      "South Yemen"
+    ],
+    [
+      "South Yemen",
+      "location.country.form_of_government",
+      "Parliamentary republic"
+    ]
+  ]
+}

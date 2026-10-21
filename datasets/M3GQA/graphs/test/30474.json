@@ -1,0 +1,980 @@
+{
+  "graph_id": 30474,
+  "subgraph": [
+    [
+      "Ukraine",
+      "location.country.languages_spoken",
+      "Tatar Language"
+    ],
+    [
+      "Ukraine",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Ukraine",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.countries_spoken_in",
+      "Ukraine"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Ukraine"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Russia",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Russia",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.country.languages_spoken",
+      "Tatar Language"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Russia"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.main_country",
+      "Russia"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.countries_spoken_in",
+      "Russia"
+    ],
+    [
+      "Soviet Union",
+      "location.country.languages_spoken",
+      "Tatar Language"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.countries_spoken_in",
+      "Soviet Union"
+    ],
+    [
+      "Soviet Union",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Soviet Union"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Soviet Union"
+    ],
+    [
+      "Soviet Union",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "Tatar Language",
+      "base.rosetta.languoid.local_name",
+      "Tatar"
+    ],
+    [
+      "Tatar Language",
+      "base.rosetta.languoid.parent",
+      "Uralian Group"
+    ],
+    [
+      "Tatar Language",
+      "common.topic.image",
+      "A subway sign in Tatar (top) and Russian"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.language_family",
+      "Turkic languages"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.writing_system",
+      "Arabic alphabet"
+    ],
+    [
+      "Tatar Language",
+      "common.topic.notable_types",
+      "Human Language"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.writing_system",
+      "Latin alphabet"
+    ],
+    [
+      "Cyrillic script",
+      "language.language_writing_system.languages",
+      "Tatar Language"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.writing_system",
+      "Cyrillic script"
+    ],
+    [
+      "Tatar Language",
+      "common.topic.image",
+      "Bilingual guide in Kazan Metro"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Tatar Language",
+      "base.rosetta.languoid.languoid_class",
+      "Language"
+    ],
+    [
+      "Tatar Language",
+      "base.rosetta.languoid.document",
+      "Tatar Genesis Translation"
+    ],
+    [
+      "Tatar Language",
+      "base.rosetta.languoid.document",
+      "Tatar Orthography"
+    ],
+    [
+      "Arabic alphabet",
+      "language.language_writing_system.languages",
+      "Tatar Language"
+    ],
+    [
+      "Tatar Language",
+      "language.human_language.language_family",
+      "Altaic languages"
+    ],
+    [
+      "Tatar Language",
+      "common.topic.article",
+      "m.019yzk"
+    ],
+    [
+      "Tatar Language",
+      "common.topic.notable_for",
+      "g.125fnc82s"
+    ],
+    [
+      "Armenia",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Spain"
+    ],
+    [
+      "Armenia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Spain",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Cypriot Maronite Arabic",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Turkey",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Spain",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "Cyprus",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Turkey"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Armenia"
+    ],
+    [
+      "Kazakhstan",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Kazakhstan"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Armenia"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "Spain"
+    ],
+    [
+      "Spain",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Mozarabic Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "United Arab Emirates"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Qatar"
+    ],
+    [
+      "Oman",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Armenia",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "Kazakhstan",
+      "location.location.primarily_containedby",
+      "Asia"
+    ],
+    [
+      "Philippines",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Jordan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Hejazi Arabic",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Iran",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Iraq",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Najdi Arabic",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Brunei"
+    ],
+    [
+      "Bahrain",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Uzbek language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Pakistan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Syria",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Dongxiang Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Saudi Arabia"
+    ],
+    [
+      "Talysh language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Iran"
+    ],
+    [
+      "Arabic, South Levantine Spoken Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Uzbekistan"
+    ],
+    [
+      "Hadhrami Arabic",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Kazakhstan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Lebanon",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Turkey"
+    ],
+    [
+      "India",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Kalami Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Philippines",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Kashmiri Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Punjabi language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Wakhi Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Indonesian Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Arabic, Baharna Spoken Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Salar Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Maranao Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Iraq",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Lebanon"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Pakistan"
+    ],
+    [
+      "Indonesia",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Thailand",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Kutchi language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Kyrgyzstan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Qatar",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Ta'izzi-Adeni Arabic",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Saudi Arabia",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Mongolia",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Yemen"
+    ],
+    [
+      "Qashqa'i Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Israel",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Kazakh Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Kyrgyzstan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Brunei",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "United Arab Emirates",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Afghanistan"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Iraq"
+    ],
+    [
+      "Aramaic language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Thailand",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Thailand"
+    ],
+    [
+      "India",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Malay Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Malaysia",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Malaysia"
+    ],
+    [
+      "Tajikistan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Turkey",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "Mongolia",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Gilaki Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Israel",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Qatar",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Shina Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Jordan"
+    ],
+    [
+      "Asia",
+      "location.location.contains_major_portion_of",
+      "Kazakhstan"
+    ],
+    [
+      "Brahui Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Iran",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Bangladesh"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Tajikistan"
+    ],
+    [
+      "North Mesopotamian Arabic",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Armenia"
+    ],
+    [
+      "Urdu Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Lebanon",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "India"
+    ],
+    [
+      "Mazanderani Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Kuwait",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Yemen",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "China",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Malaysia",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Arabic, Mesopotamian Spoken Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Arabic, North Levantine Spoken Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Bangladesh",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Uyghur Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Konkani language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Malayalam Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Afghanistan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Omani Arabic",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Pakistan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Philippines"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Kazakhstan"
+    ],
+    [
+      "Shughni language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Modern Standard Arabic",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "United Arab Emirates",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Javanese Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Oman",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "China",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Tausug Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Jordan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Kyrgyz language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Persian Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Cambodia",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Arabic, Gulf Spoken Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Mongolia"
+    ],
+    [
+      "Yemen",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Bangladesh",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Uzbekistan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Bahrain",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Syria"
+    ],
+    [
+      "Brunei",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Kuwait",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Sarikoli Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Israel"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Cambodia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Bahrain"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Kyrgyzstan"
+    ],
+    [
+      "Torwali language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Tajikistan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Maguindanao Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Kazakhstan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Cambodia",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Afghanistan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Sindhi Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Uzbekistan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Kuwait"
+    ],
+    [
+      "Saudi Arabia",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Kumzari Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Christmas Island",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Seraiki Language",
+      "language.human_language.region",
+      "Asia"
+    ],
+    [
+      "Gaza Strip",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Syria",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Oman"
+    ],
+    [
+      "Indonesia",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Indonesia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "China"
+    ]
+  ]
+}

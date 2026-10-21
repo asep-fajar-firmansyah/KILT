@@ -1,0 +1,1590 @@
+{
+  "graph_id": 24875,
+  "subgraph": [
+    [
+      "Thomas Jefferson",
+      "influence.influence_node.influenced",
+      "Ayn Rand"
+    ],
+    [
+      "Ayn Rand",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Ayn Rand",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Dan Conway"
+    ],
+    [
+      "Ayn Rand",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "James Taggart"
+    ],
+    [
+      "Ayn Rand",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Ayn Rand",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Dagny Taggart's Mother"
+    ],
+    [
+      "Ayn Rand",
+      "book.author.works_written",
+      "Atlas Shrugged"
+    ],
+    [
+      "Ayn Rand",
+      "influence.influence_node.influenced_by",
+      "Thomas Jefferson"
+    ],
+    [
+      "Ayn Rand",
+      "people.person.profession",
+      "Screenwriter"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.character_created_by",
+      "Ayn Rand"
+    ],
+    [
+      "Atlas Shrugged",
+      "book.written_work.author",
+      "Ayn Rand"
+    ],
+    [
+      "Ayn Rand",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Dagny Taggart's Father",
+      "fictional_universe.fictional_character.character_created_by",
+      "Ayn Rand"
+    ],
+    [
+      "Ayn Rand",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ayn Rand",
+      "fictional_universe.fictional_character_creator.fictional_characters_created",
+      "Dagny Taggart's Father"
+    ],
+    [
+      "Dagny Taggart's Mother",
+      "fictional_universe.fictional_character.character_created_by",
+      "Ayn Rand"
+    ],
+    [
+      "Dan Conway",
+      "fictional_universe.fictional_character.character_created_by",
+      "Ayn Rand"
+    ],
+    [
+      "Ayn Rand",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Dan Conway",
+      "book.book_character.appears_in_book",
+      "Atlas Shrugged"
+    ],
+    [
+      "Atlas Shrugged",
+      "book.book.characters",
+      "Dagny Taggart's Father"
+    ],
+    [
+      "Dagny Taggart's Father",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Atlas Shrugged"
+    ],
+    [
+      "Atlas Shrugged",
+      "book.book.characters",
+      "Dagny Taggart's Mother"
+    ],
+    [
+      "Dagny Taggart's Mother",
+      "book.book_character.appears_in_book",
+      "Atlas Shrugged"
+    ],
+    [
+      "Atlas Shrugged",
+      "book.book.characters",
+      "James Taggart"
+    ],
+    [
+      "Atlas Shrugged",
+      "book.book.characters",
+      "Dan Conway"
+    ],
+    [
+      "Atlas Shrugged",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Atlas Shrugged"
+    ],
+    [
+      "Dagny Taggart's Father",
+      "book.book_character.appears_in_book",
+      "Atlas Shrugged"
+    ],
+    [
+      "Dagny Taggart's Mother",
+      "fictional_universe.fictional_character.appears_in_these_fictional_universes",
+      "Atlas Shrugged"
+    ],
+    [
+      "James Taggart",
+      "book.book_character.appears_in_book",
+      "Atlas Shrugged"
+    ],
+    [
+      "Thomas Jefferson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Thomas Jefferson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Thomas Jefferson",
+      "people.person.profession",
+      "Teacher"
+    ],
+    [
+      "Thomas Jefferson",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Thomas Jefferson",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "No man will ever bring out of the Presidency the reputation which carries him into it.",
+      "media_common.quotation.author",
+      "Thomas Jefferson"
+    ],
+    [
+      "Sara Myers",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Luisa Diogo",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Georgia Benkart",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Elizabeth Garrett",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Pam Aungst",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Barbara Tate",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Dagny Taggart's Mother",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Florence King",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Laura Roslin",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Dan Conway",
+      "common.topic.notable_for",
+      "g.125c79wxk"
+    ],
+    [
+      "Dan Conway",
+      "fictional_universe.fictional_character.employers",
+      "m.047k456"
+    ],
+    [
+      "Dan Conway",
+      "fictional_universe.fictional_character.occupation",
+      "President"
+    ],
+    [
+      "Dan Conway",
+      "common.topic.article",
+      "m.047k450"
+    ],
+    [
+      "Dan Conway",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "m.047k456",
+      "fictional_universe.fictional_employment_tenure.employee",
+      "Dan Conway"
+    ],
+    [
+      "Dan Conway",
+      "common.topic.notable_types",
+      "Book Character"
+    ],
+    [
+      "President",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "Dan Conway"
+    ],
+    [
+      "m.047k4xc",
+      "fictional_universe.fictional_employment_tenure.employee",
+      "James Taggart"
+    ],
+    [
+      "President",
+      "fictional_universe.character_occupation.characters_with_this_occupation",
+      "James Taggart"
+    ],
+    [
+      "m.0mzm0l0",
+      "film.performance.character",
+      "James Taggart"
+    ],
+    [
+      "m.047k4xq",
+      "fictional_universe.sibling_relationship_of_fictional_characters.siblings",
+      "James Taggart"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.occupation",
+      "President"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.romantically_involved_with",
+      "m.047k2k_"
+    ],
+    [
+      "James Taggart",
+      "common.topic.notable_for",
+      "g.1257mnbn5"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.parents",
+      "Dagny Taggart's Mother"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.organizations",
+      "Looters"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.siblings",
+      "m.047k4xq"
+    ],
+    [
+      "Dagny Taggart's Mother",
+      "fictional_universe.fictional_character.children",
+      "James Taggart"
+    ],
+    [
+      "James Taggart",
+      "film.film_character.portrayed_in_films",
+      "m.0mzm0l0"
+    ],
+    [
+      "James Taggart",
+      "common.topic.article",
+      "m.047k4wv"
+    ],
+    [
+      "James Taggart",
+      "film.film_character.portrayed_in_films",
+      "m.0ghd99m"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.employers",
+      "m.047k4xc"
+    ],
+    [
+      "m.047k2qj",
+      "fictional_universe.marriage_of_fictional_characters.spouses",
+      "James Taggart"
+    ],
+    [
+      "Dagny Taggart's Father",
+      "fictional_universe.fictional_character.children",
+      "James Taggart"
+    ],
+    [
+      "m.0ghd99m",
+      "film.performance.character",
+      "James Taggart"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.parents",
+      "Dagny Taggart's Father"
+    ],
+    [
+      "James Taggart",
+      "fictional_universe.fictional_character.married_to",
+      "m.047k2qj"
+    ],
+    [
+      "m.047k2k_",
+      "fictional_universe.romantic_involvement.partner",
+      "James Taggart"
+    ],
+    [
+      "James Taggart",
+      "common.topic.notable_types",
+      "Book Character"
+    ],
+    [
+      "Cincinnati Gymnastics Academy",
+      "base.services.local_business.service_in_language",
+      "English Language"
+    ],
+    [
+      "Bob Dylan",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Moth Smoke",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Jon Paterson",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Pakistan",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "African American",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Mariusz Wróblewski",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Giovanni Sacheli",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Pakistan",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.dialects",
+      "American English"
+    ],
+    [
+      "Henry Adams",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Shame",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Sprung Investment Management Inc",
+      "base.services.local_business.service_in_language",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Pakistan"
+    ],
+    [
+      "Shabanu: Daughter of the Wind",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "American English",
+      "language.language_dialect.language",
+      "English Language"
+    ],
+    [
+      "Notes from My Travels",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Three Cups of Tea",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "In the Line of Fire: A Memoir",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Marco Maltraversi",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Luiz Centenaro",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "In Other Rooms, Other Wonders",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Dagny Taggart's Mother",
+      "common.topic.notable_types",
+      "Fictional Character"
+    ],
+    [
+      "P. J. O'Rourke",
+      "people.person.profession",
+      "Screenwriter"
+    ],
+    [
+      "John F. Kennedy",
+      "people.person.profession",
+      "Screenwriter"
+    ],
+    [
+      "Ronald D. Moore",
+      "people.person.profession",
+      "Screenwriter"
+    ],
+    [
+      "Screenwriter",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "MA$TADON",
+      "people.person.profession",
+      "Screenwriter"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Screenwriter"
+    ],
+    [
+      "James Thurber",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Florence King",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Bob Dylan",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Barbara Tate",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Walter Bagehot",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Herbert Brucker",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Winston Churchill",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "P. J. O'Rourke",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "John F. Kennedy",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Ralph Waldo Emerson",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Author",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "Sara Myers",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Vladimir Mažuranić",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Lyricist"
+    ],
+    [
+      "Georgia Benkart",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "MA$TADON",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Lyricist",
+      "people.profession.specialization_of",
+      "Writer"
+    ],
+    [
+      "Şuayib Yalçın",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "John Updike",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Feliks Młynarski",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Václav Havel",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Harry S. Truman",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Oscar Wilde",
+      "people.person.profession",
+      "Writer"
+    ],
+    [
+      "Writer",
+      "people.profession.specializations",
+      "Author"
+    ],
+    [
+      "Dagny Taggart's Father",
+      "common.topic.notable_types",
+      "Fictional Character"
+    ],
+    [
+      "Dagny Taggart's Father",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Alabama",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Robert G. Kluver, Jr",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Abraham Lincoln",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Richard Nixon",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Pam Aungst",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "United States of America"
+    ],
+    [
+      "Warren Jeffs",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Indian American",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "EPIC Systems, Inc",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Georgia Benkart",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Henry Miller",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "P. J. O'Rourke",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bob Jones University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Harry S. Truman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "White American",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "Max Lerner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ronald D. Moore",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Krishnan Suthanthiran",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Barry Meguiar",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Jack Greenwood",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Luiz Centenaro",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Alabama"
+    ],
+    [
+      "Alabama",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Marc Wigler",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Rod Ricciardi",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Italian American",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Alabama"
+    ],
+    [
+      "Dick Cheney",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Steve Pettit",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Herbert Brucker",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "James Thurber",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hubert Humphrey",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "John Updike",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Vice President of the United States",
+      "government.government_office_or_title.jurisdiction",
+      "United States of America"
+    ],
+    [
+      "MA$TADON",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Paul Ziert",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "What Death of Osama Bin Laden Indicates About Barack Obama's Leadership",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Florence King",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Shabanu: Daughter of the Wind",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "African American",
+      "people.ethnicity.geographic_distribution",
+      "United States of America"
+    ],
+    [
+      "Elizabeth Garrett",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Adlai Stevenson I",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ronald Reagan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.form_of_government",
+      "Federal republic"
+    ],
+    [
+      "Greg Green",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Zucchetti",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Mike Ward",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Henry Adams",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Nick Rosa",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "The United States and Pakistan, 1947-2000",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "Federal republic",
+      "government.form_of_government.countries",
+      "United States of America"
+    ],
+    [
+      "Jeff Idelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "government.governmental_jurisdiction.government_positions",
+      "Vice President of the United States"
+    ],
+    [
+      "Bob Dylan",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Alabama"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "United States of America"
+    ],
+    [
+      "Greg Corradetti",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Lyndon B. Johnson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Alabama"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Ralph Waldo Emerson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Robert Classic Weiman",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Clarence Darrow",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "International Brotherhood of Electrical Workers",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "David Rolf",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Palm Beach Atlantic University",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Alabama",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "John F. Kennedy",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Max Lerner",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "common.topic.subjects",
+      "MA$TADON"
+    ],
+    [
+      "John Updike",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "MA$TADON",
+      "common.topic.subject_of",
+      "Author"
+    ],
+    [
+      "Charles Alan Fyffe",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "\\\"Strickly O.G' Remind-U",
+      "common.topic.subjects",
+      "Author"
+    ],
+    [
+      "P. J. O'Rourke",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "James Thurber",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Bob Dylan",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Dick Cheney",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Winston Churchill",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "John F. Kennedy",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Václav Havel",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Richard Nixon",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Author",
+      "common.topic.subject_of",
+      "\\\"Strickly O.G' Remind-U"
+    ],
+    [
+      "MA$TADON",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Ralph Waldo Emerson",
+      "people.person.profession",
+      "Author"
+    ],
+    [
+      "Adlai Stevenson I",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nick Rosa",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Vice President Becker",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Ronald Reagan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Helder Bataglia dos Santos",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Greg Corradetti",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ralph Waldo Emerson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Vladimir Mažuranić",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David Rolf",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "James Thurber",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gaius Baltar",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Barry Meguiar",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Luca Cordero di Montezemolo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "MA$TADON",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Feliks Młynarski",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henry Miller",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Manoj Gupta",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Václav Havel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Giovanni Sacheli",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jan Hanses",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "President of the United Federation",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Abraham Lincoln",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jean-Paul Philippot",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lyndon B. Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henry Adams",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Taylor Rhodes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bob Dylan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Ward",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mark Wang",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ünal Aysal",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert Classic Weiman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "David M. Graham",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hassan Yussuff",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Niraj Goel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Walter Bagehot",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Winston Churchill",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Oscar Wilde",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Krishnan Suthanthiran",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "President Blake",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Edward Theodore Newell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Herbert Brucker",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Luiz Centenaro",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert G. Kluver, Jr",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marc Wigler",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jack Greenwood",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "P. J. O'Rourke",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John F. Kennedy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Max Lerner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "James Morrow",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Richard Adar",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Şuayib Yalçın",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Harry S. Truman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      " Aaron Watkins",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ronald D. Moore",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles Alan Fyffe",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Rod Ricciardi",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jon Paterson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Achmet Chatziosman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Richard Nixon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Steve Pettit",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marigay McKee",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hubert Humphrey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Greg Green",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Edward Burke",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alan Egerton, 3rd Baron Egerton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dick Cheney",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jeff Idelson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Clarence Darrow",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Julio Grondona",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Warren Jeffs",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marco Maltraversi",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "K. S. Jayaraman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ray Tatko",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ramon Llull",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Updike",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mariusz Wróblewski",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Georgia Benkart",
+      "people.person.profession",
+      "Teacher"
+    ],
+    [
+      "Lyndon B. Johnson",
+      "people.person.profession",
+      "Teacher"
+    ],
+    [
+      "Barbara Tate",
+      "people.person.profession",
+      "Teacher"
+    ],
+    [
+      "Hubert Humphrey",
+      "people.person.profession",
+      "Teacher"
+    ],
+    [
+      "Laura Roslin",
+      "fictional_universe.fictional_character.occupation",
+      "Teacher"
+    ],
+    [
+      "Şuayib Yalçın",
+      "people.person.profession",
+      "Teacher"
+    ],
+    [
+      "Herbert Brucker",
+      "people.person.profession",
+      "Teacher"
+    ],
+    [
+      "No man will ever bring out of the Presidency the reputation which carries him into it.",
+      "media_common.quotation.subjects",
+      "President"
+    ],
+    [
+      "No man will ever bring out of the Presidency the reputation which carries him into it.",
+      "common.topic.notable_types",
+      "Quotation"
+    ],
+    [
+      "President",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "No man will ever bring out of the Presidency the reputation which carries him into it."
+    ]
+  ]
+}

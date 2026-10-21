@@ -1,0 +1,4705 @@
+{
+  "graph_id": 5656,
+  "subgraph": [
+    [
+      "Tom Sturridge",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Tom Sturridge",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tom Sturridge",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Tom Sturridge",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Tom Sturridge",
+      "celebrities.celebrity.celebrity_friends",
+      "m.0h5qxyv"
+    ],
+    [
+      "m.0h5qxyv",
+      "celebrities.friendship.friend",
+      "Tom Sturridge"
+    ],
+    [
+      "m.0650rc3",
+      "base.popstra.friendship.participant",
+      "Tom Sturridge"
+    ],
+    [
+      "Tom Sturridge",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Tom Sturridge",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Sturridge",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Tom Sturridge",
+      "base.popstra.celebrity.friendship",
+      "m.0650rc3"
+    ],
+    [
+      "Tom Sturridge",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Tom Sturridge",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jack Haig",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Jack Haig"
+    ],
+    [
+      "Jack Haig",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jack Haig",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Jack Haig",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jack Haig",
+      "people.person.place_of_birth",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "Jack Haig",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jack Haig",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jack Haig",
+      "people.deceased_person.place_of_death",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "m.0pc65d2",
+      "award.award_nomination.award_nominee",
+      "Bryce Dallas Howard"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "award.award_winner.awards_won",
+      "m.0pc64ts"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "m.0pc64ts",
+      "award.award_honor.award_winner",
+      "Bryce Dallas Howard"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "award.award_nominee.award_nominations",
+      "m.0pc65d2"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Bryce Dallas Howard",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Jonathan Debin",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Kristen Stewart",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Klaus Badelt",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Richard Pattinson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Diane Lederman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Carol Cuddy",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Daniel Radcliffe",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Werner Herzog",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Peter Zeitlinger",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Joe Bini",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Paul Thirlwell",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Will Fetters",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Trevor Engelson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Camilla Belle",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Xavier Samuel",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Beth Charkham",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Cassian Elwes",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Nick N. Raslan",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jonathan Freeman",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Jordan Pickford",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Peter Zeitlinger",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Clare Pattinson",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Nick Osborne",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Andrew Mondshein",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Michael Benaroya",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ronald Neame",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Victoria Pattinson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Shirley Manson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Cam Gigandet",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Clare Pattinson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Werner Herzog",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Taylor Lautner",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Joe Bini",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Robert Pattinson",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jonathan Freeman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Jonathan Debin",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Nick N. Raslan",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Michael Benaroya",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Daniel Radcliffe",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Will Fetters",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Cassian Elwes",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Beth Charkham",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Xavier Samuel",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Kristen Stewart",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Peter Zeitlinger",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Jordan Pickford",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Camilla Belle",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Joe Jonas",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Diane Lederman",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Hayden Panettiere",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Klaus Badelt",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Carol Cuddy",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Richard Pattinson",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Allen Coulter",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Nick Osborne",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Billy Sorrentino",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Klaus Badelt",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Werner Herzog",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Billy Sorrentino",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Cassian Elwes",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Michael Benaroya",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Xavier Samuel",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Joe Bini",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ronald Neame",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Daniel Radcliffe",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Cam Gigandet",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#range",
+      "Gender"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.expected_type",
+      "Gender"
+    ],
+    [
+      "Will Fetters",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Hayden Panettiere",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Shirley Manson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Diane Lederman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Taylor Lautner",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jonathan Freeman",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Camilla Belle",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Joe Jonas",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Nick N. Raslan",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jordan Pickford",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Kristen Stewart",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Peter Zeitlinger",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Robert Pattinson",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "The Bad Mother's Handbook",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "Cornish Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Al-Hayat",
+      "base.meedan.arabic_language_media_source.country",
+      "United Kingdom"
+    ],
+    [
+      "How to Be",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Robsessed: Inside the Life of Robert Pattinson",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Anthony Trollope",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "g.122mr0bj"
+    ],
+    [
+      "Cassian Elwes",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "London",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "Preparing for the Yule Ball",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Scottish Gaelic",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Irish",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "The Summer House",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Daniel Radcliffe",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Gertrude Bell",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Welsh Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Unity Mitford",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "The Bad Mother's Handbook",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "How to Be",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Lizzy Pattinson",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Bel Ami",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Scots Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "The Haunted Airman",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Natasha Andersen",
+      "base.fictionaluniverse.deceased_fictional_character.place_of_death",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Scots Language"
+    ],
+    [
+      "The Childhood of a Leader",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Manx Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Little Ashes",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "The Bad Mother's Handbook",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "'Harry Potter': Behind the Magic",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "University of Oxford",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "United Kingdom",
+      "location.country.capital",
+      "London"
+    ],
+    [
+      "Reflections on the Fourth Film",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Tyne and Wear",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Scots Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Cornish Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Vanity Fair",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "London",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Cornish Language"
+    ],
+    [
+      "Washington",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Welsh Language"
+    ],
+    [
+      "Live from Studio Five",
+      "tv.tv_program.country_of_origin",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Irish"
+    ],
+    [
+      "Vanity Fair",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Beth Charkham",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Robert Pattinson",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Welsh Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "Scottish Gaelic"
+    ],
+    [
+      "Ronald Neame",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Robsessed: Inside the Life of Robert Pattinson",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Fraser Kemp",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "Scottish Gaelic",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "Harry Potter and the Order of the Phoenix",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "London",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Little Ashes",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "Natasha Andersen",
+      "base.fictionaluniverse.deceased_fictional_character.place_of_burial",
+      "United Kingdom"
+    ],
+    [
+      "Harry Potter and the Goblet of Fire",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Life",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Dark Kingdom: The Dragon King",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Robert Pattinson",
+      "celebrities.celebrity.celebrity_friends",
+      "m.0h5qxyv"
+    ],
+    [
+      "m.0h5qxyv",
+      "celebrities.friendship.friend",
+      "Robert Pattinson"
+    ],
+    [
+      "Robert Pattinson",
+      "base.popstra.celebrity.friendship",
+      "m.0650rc3"
+    ],
+    [
+      "m.0650rc3",
+      "base.popstra.friendship.participant",
+      "Robert Pattinson"
+    ],
+    [
+      "Michael Benaroya",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Carol Cuddy",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Werner Herzog",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Diane Lederman",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Clare Pattinson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Kristen Stewart",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jonathan Freeman",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Hayden Panettiere",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Nick Osborne",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Billy Sorrentino",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ronald Neame",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Nick N. Raslan",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Xavier Samuel",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Jordan Pickford",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Richard Pattinson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jonathan Debin",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Joe Jonas",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Will Fetters",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Shirley Manson",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Taylor Lautner",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Daniel Radcliffe",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Robert Pattinson",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Camilla Belle",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Victoria Pattinson",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Cam Gigandet",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Cassian Elwes",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Klaus Badelt",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "George Smiley",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Bladder cancer"
+    ],
+    [
+      "Werner Herzog",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pyloric stenosis"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Billy Cook",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael Palance",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Joe Jonas",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Scott P. Murphy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Peter Zeitlinger",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jonathan Debin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Harry Kirtley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Anthony Trollope",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nick Osborne",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ronald Neame",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Richard Pattinson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jimmy Hagan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Leo Taylor",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Male"
+    ],
+    [
+      "Allen Coulter",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Trevor Engelson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Salvador Dali",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Pyloric stenosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "George Duroy",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Richard Logan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Will Fetters",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Patrick Bartley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Roger",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Joe Bini",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert Pattinson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Digit",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Andrew Mondshein",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Richard Mento",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Billy Sorrentino",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fraser Kemp",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charlie Spencer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Col. T.E. Lawrence",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Arden Maddison",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Daniel Radcliffe",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jonathan Freeman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Cassian Elwes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jordan Pickford",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Barrett's esophagus"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Roger Bede Vaughan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Barrett's esophagus",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Chris Free",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bob Glendenning",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pectus excavatum"
+    ],
+    [
+      "Charles La Trobe",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Nick N. Raslan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Edward Cullen",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Gordon Hughes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Urolithiasis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Maxwell Sheffield",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Klaus Badelt",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jimmy McGrath",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul Thirlwell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Cedric Diggory",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Mark Prudhoe",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Xavier Samuel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Cam Gigandet",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tommy Gale",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Pectus excavatum",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jack Atkinson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Michael Benaroya",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Derek Hood",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urolithiasis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Billy Thirlaway",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bill Moore",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sir Hugh Bell, 2nd Baronet",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marcello Zavros",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Maxwell Sheffield",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Billy Furness",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Taylor Lautner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hayden Panettiere",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Daniel Radcliffe",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Robert Pattinson",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Celebrity",
+      "common.topic.article",
+      "m.047jqv5"
+    ],
+    [
+      "Shirley Manson",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Celebrity",
+      "freebase.type_profile.kind",
+      "Description"
+    ],
+    [
+      "Camilla Belle",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Celebrity",
+      "common.topic.article",
+      "m.047jsth"
+    ],
+    [
+      "Celebrity",
+      "type.type.expected_by",
+      "Celebrity represented"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Legal entanglements"
+    ],
+    [
+      "Celebrity",
+      "type.type.expected_by",
+      "Celebrity"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Net worth"
+    ],
+    [
+      "Joe Jonas",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Celebrity rivals"
+    ],
+    [
+      "Celebrity",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Celebrity friends"
+    ],
+    [
+      "Celebrity",
+      "type.type.expected_by",
+      "Celebrities with this Hairstyle"
+    ],
+    [
+      "Celebrity",
+      "type.type.expected_by",
+      "Partners"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Substance abuse problems"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Sexual orientation"
+    ],
+    [
+      "Celebrity",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Celebrity",
+      "type.type.expected_by",
+      "Rival"
+    ],
+    [
+      "Celebrity",
+      "freebase.type_profile.equivalent_topic",
+      "Celebrity"
+    ],
+    [
+      "Kristen Stewart",
+      "common.topic.notable_types",
+      "Celebrity"
+    ],
+    [
+      "Celebrity",
+      "type.type.expected_by",
+      "Friend"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Romantic relationships (with celebrities)"
+    ],
+    [
+      "Celebrity",
+      "type.type.properties",
+      "Rehab history"
+    ],
+    [
+      "Celebrity",
+      "type.type.domain",
+      "Celebrities"
+    ],
+    [
+      "Celebrity",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Joe Jonas",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Michael Palance",
+      "common.topic.subjects",
+      "Actor"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Daniel Radcliffe",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "base.lightweight.profession.professions_similar",
+      "Model"
+    ],
+    [
+      "Cassian Elwes",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Chris Free"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Chris Free"
+    ],
+    [
+      "Chris Free",
+      "common.topic.subject_of",
+      "Actor"
+    ],
+    [
+      "Xavier Samuel",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Lizzy Pattinson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Robert Pattinson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Model",
+      "base.lightweight.profession.similar_professions",
+      "Actor"
+    ],
+    [
+      "Kristen Stewart",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Werner Herzog",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subjects",
+      "Michael Palance"
+    ],
+    [
+      "Michael Palance",
+      "common.topic.subject_of",
+      "Actor"
+    ],
+    [
+      "Hayden Panettiere",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Shirley Manson",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Camilla Belle",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Michael Palance",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Cam Gigandet",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Actor",
+      "common.topic.subject_of",
+      "Michael Palance"
+    ],
+    [
+      "Taylor Lautner",
+      "people.person.profession",
+      "Actor"
+    ],
+    [
+      "Chris Free",
+      "common.topic.subjects",
+      "Actor"
+    ],
+    [
+      "Shirley Manson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Taylor Lautner",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "owl#inverseOf",
+      "People born here"
+    ],
+    [
+      "Nick Osborne",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Kristen Stewart",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Will Fetters",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Joe Jonas",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Joe Bini",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Werner Herzog",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.reverse_property",
+      "People born here"
+    ],
+    [
+      "Xavier Samuel",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Susan Lyall",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Michael Benaroya",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jordan Pickford",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Marcello Zavros",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "People born here",
+      "type.property.master_property",
+      "Place of birth"
+    ],
+    [
+      "Richard Mento",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Victoria Pattinson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Cassian Elwes",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Billy Sorrentino",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Klaus Badelt",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Camilla Belle",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Peter Zeitlinger",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Beth Charkham",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jonathan Debin",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Richard Pattinson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Diane Lederman",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "Hayden Panettiere",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Carol Cuddy",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Clare Pattinson",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Nick N. Raslan",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Joanna Colbert",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Jonathan Freeman",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Daniel Radcliffe",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Cam Gigandet",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Robert Pattinson",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ronald Neame",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.011syq28"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.geolocation",
+      "m.011nfrk5"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "m.011r98q8",
+      "government.government_position_held.jurisdiction_of_office",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Unity Mitford"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.country.administrative_divisions",
+      "Southern Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "James Hart"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.country.capital",
+      "London"
+    ],
+    [
+      "Roger Bede Vaughan",
+      "people.person.place_of_birth",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "James W. Naughton"
+    ],
+    [
+      "m.011s4nmg",
+      "government.government_position_held.jurisdiction_of_office",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "m.011xd0w1",
+      "government.government_position_held.jurisdiction_of_office",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.011s4nmg"
+    ],
+    [
+      "m.011vjfmb",
+      "government.government_position_held.jurisdiction_of_office",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "Unity Mitford",
+      "people.person.place_of_birth",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Edward Heron-Allen"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.011vjfmb"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "common.topic.notable_for",
+      "g.11b5r8pjl1"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "George Maddox"
+    ],
+    [
+      "Charles Vane-Tempest-Stewart, 6th Marquess of Londonderry",
+      "people.person.place_of_birth",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Anthony Trollope"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Nanamoli Bhikkhu"
+    ],
+    [
+      "Ronald Neame",
+      "people.person.place_of_birth",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "base.schemastaging.context_name.pronunciation",
+      "m.01316fx7"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Ronald Neame"
+    ],
+    [
+      "m.011rfjnp",
+      "government.government_position_held.jurisdiction_of_office",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "Anthony Trollope",
+      "people.person.place_of_birth",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "Charles La Trobe",
+      "people.person.place_of_birth",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "m.011syq28",
+      "government.government_position_held.jurisdiction_of_office",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "Anthony Trollope",
+      "people.deceased_person.place_of_death",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.011r98q8"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.011xd0w1"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "John Charles Molteno"
+    ],
+    [
+      "Gertrude Bell",
+      "people.person.nationality",
+      "United Kingdom of Great Britain and Ireland"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Roger Bede Vaughan"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Cora Pearl"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "location.location.people_born_here",
+      "Charles La Trobe"
+    ],
+    [
+      "United Kingdom of Great Britain and Ireland",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.011rfjnp"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subjects",
+      "Michael Palance"
+    ],
+    [
+      "Michael Palance",
+      "common.topic.subjects",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "freebase.equivalent_topic.equivalent_type",
+      "Film producer"
+    ],
+    [
+      "Ronald Neame",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Michael Palance"
+    ],
+    [
+      "Michael Benaroya",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subjects",
+      "Chris Free"
+    ],
+    [
+      "Carol Cuddy",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Michael Palance",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.notable_types",
+      "Profession"
+    ],
+    [
+      "Billy Sorrentino",
+      "common.topic.subjects",
+      "Film Producer"
+    ],
+    [
+      "Robert Pattinson",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Chris Free",
+      "common.topic.subject_of",
+      "Film Producer"
+    ],
+    [
+      "Film producer",
+      "freebase.type_profile.equivalent_topic",
+      "Film Producer"
+    ],
+    [
+      "Werner Herzog",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Klaus Badelt",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Trevor Engelson",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Jonathan Debin",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Cassian Elwes",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subject_of",
+      "Billy Sorrentino"
+    ],
+    [
+      "Nick N. Raslan",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Billy Sorrentino",
+      "common.topic.subject_of",
+      "Film Producer"
+    ],
+    [
+      "Allen Coulter",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "common.topic.subjects",
+      "Billy Sorrentino"
+    ],
+    [
+      "Joe Bini",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Joanna Colbert",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Film Producer",
+      "people.profession.corresponding_type",
+      "Film producer"
+    ],
+    [
+      "Michael Palance",
+      "common.topic.subject_of",
+      "Film Producer"
+    ],
+    [
+      "Will Fetters",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Chris Free",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "Nick Osborne",
+      "people.person.profession",
+      "Film Producer"
+    ],
+    [
+      "m.0pc65d2",
+      "award.award_nomination.award_nominee",
+      "Robert Pattinson"
+    ],
+    [
+      "m.0pc65d2",
+      "award.award_nomination.award",
+      "MTV Movie Award for Best Fight"
+    ],
+    [
+      "Eclipse",
+      "award.award_nominated_work.award_nominations",
+      "m.0pc65d2"
+    ],
+    [
+      "m.0pc65d2",
+      "award.award_nomination.nominated_for",
+      "Eclipse"
+    ],
+    [
+      "Xavier Samuel",
+      "award.award_nominee.award_nominations",
+      "m.0pc65d2"
+    ],
+    [
+      "Robert Pattinson",
+      "award.award_nominee.award_nominations",
+      "m.0pc65d2"
+    ],
+    [
+      "2011 MTV Movie Awards",
+      "award.award_ceremony.nominees",
+      "m.0pc65d2"
+    ],
+    [
+      "m.0pc65d2",
+      "award.award_nomination.award_nominee",
+      "Xavier Samuel"
+    ],
+    [
+      "m.0pc65d2",
+      "award.award_nomination.ceremony",
+      "2011 MTV Movie Awards"
+    ],
+    [
+      "Vanity Fair",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ronald Neame",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "m.04zr93l",
+      "base.firsts.first_achievement.category",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Smash His Camera",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Michael Benaroya",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Hayden Panettiere",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Diane Linkletter Story",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joe Bini",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Eclipse",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "Remember Me",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jack Atkinson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Dark Kingdom: The Dragon King",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Andrew Mondshein",
+      "people.person.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "Chris Free",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Logan's Run",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Appointment in Samarra",
+      "book.written_work.subjects",
+      "United States of America"
+    ],
+    [
+      "2011 MTV Movie Awards",
+      "time.event.locations",
+      "United States of America"
+    ],
+    [
+      "Love & Distrust",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "PG-13 (USA)",
+      "film.content_rating.country",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "Billy Sorrentino",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Harry Potter and the Goblet of Fire",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Natasha Andersen"
+    ],
+    [
+      "Andrew Mondshein",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "Los Angeles",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Natasha Andersen",
+      "fictional_universe.fictional_character.place_of_birth",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wyfrp"
+    ],
+    [
+      "Twilight",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States women's national gymnastics team",
+      "sports.sports_team.location",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "m.0zrwqjs",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Dark Kingdom: The Dragon King",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Last Days",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Life",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Ordinary People",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Joe Jonas",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Ulalume: Howling at New Moon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Jim in Bold",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "HBO First Look",
+      "tv.tv_program.country_of_origin",
+      "United States of America"
+    ],
+    [
+      "Los Angeles",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "m.04wyfrp",
+      "base.firsts.first_achievement.category",
+      "United States of America"
+    ],
+    [
+      "The Rover",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Harry Potter and the Order of the Phoenix",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Boy Interrupted",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Virgin Suicides",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Maps to the Stars",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04zr93l"
+    ],
+    [
+      "m.0v474mw",
+      "film.film_regional_release_date.film_release_region",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "Michael Palance",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Kristen Stewart",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Penn Dayton Badgley",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Cam Gigandet",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Taylor Lautner",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Queen of the Desert",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Shrink",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "sports.sports_team_location.teams",
+      "United States women's national gymnastics team"
+    ],
+    [
+      "Camilla Belle",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Trevor Engelson",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York City"
+    ],
+    [
+      "Allen Coulter",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Water for Elephants",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Xavier Samuel",
+      "award.award_winner.awards_won",
+      "m.0pc64ts"
+    ],
+    [
+      "m.0pc64ts",
+      "award.award_honor.award_winner",
+      "Robert Pattinson"
+    ],
+    [
+      "m.0pc64ts",
+      "award.award_honor.award_winner",
+      "Xavier Samuel"
+    ],
+    [
+      "m.0pc64ts",
+      "award.award_honor.ceremony",
+      "2011 MTV Movie Awards"
+    ],
+    [
+      "m.0pc64ts",
+      "award.award_honor.award",
+      "MTV Movie Award for Best Fight"
+    ],
+    [
+      "m.0pc64ts",
+      "award.award_honor.honored_for",
+      "Eclipse"
+    ],
+    [
+      "Eclipse",
+      "award.award_winning_work.awards_won",
+      "m.0pc64ts"
+    ],
+    [
+      "2011 MTV Movie Awards",
+      "award.award_ceremony.awards_presented",
+      "m.0pc64ts"
+    ],
+    [
+      "MTV Movie Award for Best Fight",
+      "award.award_category.winners",
+      "m.0pc64ts"
+    ],
+    [
+      "Robert Pattinson",
+      "award.award_winner.awards_won",
+      "m.0pc64ts"
+    ],
+    [
+      "Necrobiosis lipoidica",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Joss Carter",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_c"
+    ],
+    [
+      "m.07nf1bk",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.pethealth.pet_disease_risk_factor.pet_diseases_with_this_risk_factor",
+      "Hypoadrenocorticism in dogs"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pyelonephritis"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wyfrp"
+    ],
+    [
+      "Rhinitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Beth Charkham",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Follicular thyroid cancer"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Female",
+      "common.topic.webpage",
+      "m.0b6rypp"
+    ],
+    [
+      "m.02yxhns",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Susan Lyall",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pyogenic granuloma"
+    ],
+    [
+      "Cushing's syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dermatitis"
+    ],
+    [
+      "Rheumatoid arthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Trigger finger",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.notable_types",
+      "Literature Subject"
+    ],
+    [
+      "Iron-deficiency anemia",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04zr93l"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Bartholin's cyst"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0y"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wvp27"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Macular degeneration"
+    ],
+    [
+      "Polymorphous light eruption",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Canker sore"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02yxhp8"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymorphous light eruption"
+    ],
+    [
+      "Females",
+      "base.skosbase.skos_concept.equivalent_topic",
+      "Female"
+    ],
+    [
+      "Cirrhosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "sports.sports_gender.sports_teams",
+      "United States women's national gymnastics team"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Graves' disease"
+    ],
+    [
+      "Nephritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "g.122zk0s8"
+    ],
+    [
+      "Female",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Females"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Conversion disorder"
+    ],
+    [
+      "m.0b6rypp",
+      "common.webpage.topic",
+      "Female"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "m.04zr93l",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Nebraska Correctional Center for Women"
+    ],
+    [
+      "Hidradenitis suppurativa",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Urethral syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hidradenitis suppurativa"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02_98hp"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cystitis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Multiple sclerosis"
+    ],
+    [
+      "Lichen planus",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Unity Mitford",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Pain disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Female"
+    ],
+    [
+      "Carpal tunnel syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Hypoadrenocorticism in dogs",
+      "base.pethealth.pet_disease_or_medical_condition.risk_factors",
+      "Female"
+    ],
+    [
+      "Camilla Belle",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.0d522bw",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Pelvic inflammatory disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Restless legs syndrome"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjxs"
+    ],
+    [
+      "Canker sore",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Nebraska Correctional Center for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteoarthritis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Alcoholic hepatitis"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04w1jx1",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Anterior cruciate ligament injury",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.0blp5sb",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1jfn"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Acne"
+    ],
+    [
+      "Medullary thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "SFX Award for Best Actress",
+      "award.award_category.disciplines_or_subjects",
+      "Female"
+    ],
+    [
+      "Osteoporosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Carol Cuddy",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Bayview Correctional Facility"
+    ],
+    [
+      "m.02zd4v3",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Camino Nuevo Correctional Center",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wxl92"
+    ],
+    [
+      "m.0d5218k",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Postpartum thyroiditis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1jx1"
+    ],
+    [
+      "Arthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04j64qg"
+    ],
+    [
+      "m.0j7v__p",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Plantar fasciitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Plantar fasciitis"
+    ],
+    [
+      "Gallstone",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Joanna Colbert",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Adhesive capsulitis of shoulder"
+    ],
+    [
+      "Kristen Stewart",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Coffee Creek Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Second Glance"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Trigeminal neuralgia"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218k"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lf"
+    ],
+    [
+      "m.0j0ywwk",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Dermatomyositis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Erythema nodosum",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Carpal tunnel syndrome"
+    ],
+    [
+      "Trigeminal neuralgia",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteochondritis dissecans"
+    ],
+    [
+      "Somatic symptom disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Arthritis"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pr2"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Federal Prison Camp, Alderson"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrtw"
+    ],
+    [
+      "m.05bvk47",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Multiple sclerosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Diane Lederman",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hirsutism"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04j647d"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Polycystic ovary syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Scleroderma",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04w1g24",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__p"
+    ],
+    [
+      "female.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Female"
+    ],
+    [
+      "Osteochondritis dissecans",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Rett syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Erythema nodosum"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cushing's syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hypothyroidism"
+    ],
+    [
+      "Bedford Hills Correctional Facility for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Bartholin's cyst",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02yxhns"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrth"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Irritable bowel syndrome"
+    ],
+    [
+      "Female",
+      "common.topic.article",
+      "m.04tkq_2"
+    ],
+    [
+      "Taconic Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Silhouette"
+    ],
+    [
+      "m.0hzxnsq",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Acne",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Urethral syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteoporosis"
+    ],
+    [
+      "Pyelonephritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Bayview Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Clare Pattinson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Follicular thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Seasonal affective disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Anterior cruciate ligament injury"
+    ],
+    [
+      "Federal Correctional Institution, Danbury",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Urinary tract infection"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Postpartum thyroiditis"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.0h8ldqh"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sb"
+    ],
+    [
+      "Scleritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Alcoholic hepatitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Somatic symptom disorder"
+    ],
+    [
+      "Ureterocele",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Irritable bowel syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_hw"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Taconic Correctional Facility"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Livedo reticularis"
+    ],
+    [
+      "m.052j3w3",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Female",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actress"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Bedford Hills Correctional Facility for Women"
+    ],
+    [
+      "m.052m17c",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "m.05cckl0",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Medullary thyroid cancer"
+    ],
+    [
+      "m.04w1jfn",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Spina bifida",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Trigger finger"
+    ],
+    [
+      "m.05ndsqk",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.05bvkmk",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pain disorder"
+    ],
+    [
+      "m.0kfyrtw",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "m.05c6k96",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scoliosis"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Edna Mahan Correctional Facility for Women"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Somatization disorder"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Alzheimer's disease"
+    ],
+    [
+      "Varicose veins",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Ovarian cancer"
+    ],
+    [
+      "Macular degeneration",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Iron-deficiency anemia"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02zd4v3"
+    ],
+    [
+      "Alzheimer's disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.05z1cdk",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Acrodermatitis chronica atrophicans",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04j647d",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Spina bifida"
+    ],
+    [
+      "Lizzy Pattinson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.02yxhp8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.0blp57t",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Edna Mahan Correctional Facility for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Dyshidrosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04wyfrp",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rett syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Thyroid cancer"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymyalgia rheumatica"
+    ],
+    [
+      "m.0gxvt_c",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Lupus erythematosus"
+    ],
+    [
+      "Cystitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Pyogenic granuloma",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymyositis"
+    ],
+    [
+      "Gertrude Bell",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "m.04wvp27",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Polymyositis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pelvic inflammatory disease"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05c6k96"
+    ],
+    [
+      "Natasha Andersen",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Chronic fatigue syndrome"
+    ],
+    [
+      "Polymyalgia rheumatica",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05z1cdk"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.052m17c"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polycystic ovary syndrome"
+    ],
+    [
+      "m.0gxvv0y",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Apology",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Female"
+    ],
+    [
+      "Chronic fatigue syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Somatization disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.article",
+      "m.02zsy"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Myasthenia gravis"
+    ],
+    [
+      "Adhesive capsulitis of shoulder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Hirsutism",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Myasthenia gravis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.0h8ldqh",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "m.0bm6pr2",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Gallstone"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Seasonal affective disorder"
+    ],
+    [
+      "Conversion disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckl0"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Massachusetts Correctional Institution – Framingham"
+    ],
+    [
+      "m.04wxl92",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Massachusetts Correctional Institution – Framingham",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dyshidrosis"
+    ],
+    [
+      "Lupus erythematosus",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Apology"
+    ],
+    [
+      "United States women's national gymnastics team",
+      "sports.sports_team.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf1bk"
+    ],
+    [
+      "Federal Prison Camp, Alderson",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Ovarian cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsq"
+    ],
+    [
+      "Female",
+      "common.topic.notable_for",
+      "g.125ft2__h"
+    ],
+    [
+      "m.05bvjxs",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0j0ywwk"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dermatomyositis"
+    ],
+    [
+      "Adelle DeWitt",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Goitre",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.05ndsqk"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Nephritis"
+    ],
+    [
+      "m.0kfyrth",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scleroderma"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cirrhosis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rhinitis"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bw"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Necrobiosis lipoidica"
+    ],
+    [
+      "Osteoarthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Camino Nuevo Correctional Center"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp57t"
+    ],
+    [
+      "Victoria Pattinson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Ureterocele"
+    ],
+    [
+      "Female",
+      "common.topic.image",
+      "female.jpg"
+    ],
+    [
+      "Scoliosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.052j3w3"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkmk"
+    ],
+    [
+      "Shirley Manson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Federal Correctional Institution, Danbury"
+    ],
+    [
+      "Second Glance",
+      "visual_art.artwork.art_subject",
+      "Female"
+    ],
+    [
+      "m.0zm9_hw",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Goitre"
+    ],
+    [
+      "m.02_98hp",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.0d521lf",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Acrodermatitis chronica atrophicans"
+    ],
+    [
+      "Hayden Panettiere",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk47"
+    ],
+    [
+      "m.04j64qg",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Varicose veins"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Lichen planus"
+    ],
+    [
+      "Hypothyroidism",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scleritis"
+    ],
+    [
+      "Silhouette",
+      "visual_art.artwork.art_subject",
+      "Female"
+    ],
+    [
+      "Graves' disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1g24"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Coffee Creek Correctional Facility"
+    ],
+    [
+      "Livedo reticularis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "The Twilight Saga: New Moon",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Childhood of a Leader",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Ulalume: Howling at New Moon",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Paint It Black: A Novel",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Preparing for the Yule Ball",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Smash His Camera",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Kristen Stewart",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "The Little Stranger",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "The Bad Mother's Handbook",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Bel Ami",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "British people",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Vanity Fair",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Dark Kingdom: The Dragon King",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "'Harry Potter': Behind the Magic",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Summer House",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Daniel Radcliffe",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Remember Me",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "HBO First Look",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Teachings of Hafiz",
+      "book.translation.language",
+      "English Language"
+    ],
+    [
+      "Water for Elephants",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Boy Interrupted",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "How to Be",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Little Ashes",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Appointment in Samarra",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Queen of the Desert",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 1",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Camilla Belle",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Suicide Room",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Love & Distrust",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Last Days",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Maps to the Stars",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "White British",
+      "people.ethnicity.languages_spoken",
+      "English Language"
+    ],
+    [
+      "The Virgin Suicides",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Ordinary People",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Rover",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Harry Potter and the Goblet of Fire",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Logan's Run",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Haunted Airman",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Eclipse",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Dark Kingdom: The Dragon King",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Merchant and the Alchemist's Gate",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Reflections on the Fourth Film",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Harry Potter and the Order of the Phoenix",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Rules of Engagement: A Sir John Fielding Mystery",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "Life",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "The Hafez poems of Gertrude Bell",
+      "book.translation.language",
+      "English Language"
+    ],
+    [
+      "Jim in Bold",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Cosmopolis",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Shrink",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Night Train",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "A Long Way Down",
+      "book.written_work.original_language",
+      "English Language"
+    ],
+    [
+      "The Twilight Saga: Breaking Dawn - Part 2",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Robsessed: Inside the Life of Robert Pattinson",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Live from Studio Five",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "The Diane Linkletter Story",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Twilight",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Michael Palance",
+      "people.person.languages",
+      "English Language"
+    ],
+    [
+      "Water for Elephants",
+      "film.film.featured_film_locations",
+      "Los Angeles"
+    ],
+    [
+      "Ronald Neame",
+      "people.deceased_person.place_of_death",
+      "Los Angeles"
+    ],
+    [
+      "Camilla Belle",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "Los Angeles",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Los Angeles",
+      "location.hud_county_place.place",
+      "Los Angeles"
+    ],
+    [
+      "Kristen Stewart",
+      "people.person.place_of_birth",
+      "Los Angeles"
+    ],
+    [
+      "2009 MTV Movie Awards",
+      "time.event.locations",
+      "Los Angeles"
+    ],
+    [
+      "m.0gx3vfw",
+      "people.place_lived.location",
+      "Los Angeles"
+    ],
+    [
+      "Shrink",
+      "film.film.featured_film_locations",
+      "Los Angeles"
+    ]
+  ]
+}

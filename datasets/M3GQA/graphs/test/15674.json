@@ -1,0 +1,7980 @@
+{
+  "graph_id": 15674,
+  "subgraph": [
+    [
+      "Lincoln Center for the Performing Arts",
+      "architecture.building_complex.buildings_in_complex",
+      "New York Public Library for the Performing Arts"
+    ],
+    [
+      "Lincoln Center for the Performing Arts",
+      "location.location.contains",
+      "New York Public Library for the Performing Arts"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "architecture.building.building_complex",
+      "Lincoln Center for the Performing Arts"
+    ],
+    [
+      "Lincoln Center for the Performing Arts",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Lincoln Center for the Performing Arts",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "location.location.containedby",
+      "Lincoln Center for the Performing Arts"
+    ],
+    [
+      "Lincoln Center for the Performing Arts",
+      "freebase.valuenotation.has_value",
+      "Date founded"
+    ],
+    [
+      "Lincoln Center for the Performing Arts",
+      "freebase.valuenotation.is_reviewed",
+      "Founders"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "New York Public Library",
+      "library.public_library_system.branches",
+      "New York Public Library for the Performing Arts"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "freebase.valuenotation.has_value",
+      "Floors"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "library.public_library.library_system",
+      "New York Public Library"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "freebase.valuenotation.has_value",
+      "Founders"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "New York Public Library for the Performing Arts"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "freebase.valuenotation.has_value",
+      "Architectural Style"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "freebase.valuenotation.has_value",
+      "Date founded"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "architecture.building.building_function",
+      "Museum"
+    ],
+    [
+      "New York Public Library for the Performing Arts",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "location.location.containedby",
+      "Long Island"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "architecture.building.building_function",
+      "Science center"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "location.location.geolocation",
+      "m.0zp05nz"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "common.topic.article",
+      "m.0ll4_hy"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "freebase.valuenotation.has_value",
+      "Architectural Style"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "freebase.valuenotation.has_value",
+      "Place founded"
+    ],
+    [
+      "Long Island",
+      "location.location.contains",
+      "Tesla Science Center at Wardenclyffe"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "freebase.valuenotation.has_value",
+      "Architect"
+    ],
+    [
+      "m.0n9y_zg",
+      "common.webpage.topic",
+      "Tesla Science Center at Wardenclyffe"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "common.topic.webpage",
+      "m.0n9y_zg"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "common.topic.notable_types",
+      "Nonprofit organization"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "freebase.valuenotation.has_value",
+      "Date founded"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "freebase.valuenotation.has_value",
+      "Floors"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Tesla Science Center at Wardenclyffe"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "common.topic.notable_for",
+      "g.1yp3c1tx7"
+    ],
+    [
+      "Tesla Science Center at Wardenclyffe",
+      "freebase.valuenotation.has_value",
+      "Registered with"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "government.government_agency.government",
+      "Government of New York"
+    ],
+    [
+      "Buffalo",
+      "government.governmental_jurisdiction.agencies",
+      "Traffic Violations Bureau"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "freebase.valuenotation.has_value",
+      "Date founded"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "government.government_agency.jurisdiction",
+      "Buffalo"
+    ],
+    [
+      "Rochester",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Traffic Violations Bureau"
+    ],
+    [
+      "Rochester",
+      "government.governmental_jurisdiction.agencies",
+      "Traffic Violations Bureau"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "common.topic.notable_for",
+      "g.1ypm_dynm"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "organization.organization.geographic_scope",
+      "Buffalo"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "freebase.valuenotation.has_value",
+      "Place founded"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Traffic Violations Bureau"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "Traffic Violations Bureau"
+    ],
+    [
+      "Buffalo",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Traffic Violations Bureau"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "common.topic.article",
+      "m.0f607r"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "organization.organization.parent",
+      "m.0zs5zkx"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "government.government_agency.jurisdiction",
+      "Rochester"
+    ],
+    [
+      "m.0zs5zkx",
+      "organization.organization_relationship.child",
+      "Traffic Violations Bureau"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "organization.organization.geographic_scope",
+      "Rochester"
+    ],
+    [
+      "Traffic Violations Bureau",
+      "organization.organization.organization_type",
+      "Government agency"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "common.topic.notable_types",
+      "Court"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "common.topic.notable_for",
+      "g.1yp3cgdyr"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "freebase.valuenotation.has_value",
+      "Date founded"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "government.governmental_body.jurisdiction",
+      "New York"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "organization.organization.place_founded",
+      "New York"
+    ],
+    [
+      "New York City",
+      "law.court_jurisdiction_area.courts",
+      "United States Bankruptcy Court for the Southern District of New York"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "law.court.jurisdiction",
+      "New York City"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "common.topic.article",
+      "m.09g7zfn"
+    ],
+    [
+      "New York",
+      "government.governmental_jurisdiction.government_bodies",
+      "United States Bankruptcy Court for the Southern District of New York"
+    ],
+    [
+      "United States Bankruptcy Court for the Southern District of New York",
+      "business.employer.employees",
+      "m.0_krg06"
+    ],
+    [
+      "m.0_krg06",
+      "business.employment_tenure.company",
+      "United States Bankruptcy Court for the Southern District of New York"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5dn"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Post"
+    ],
+    [
+      "Japan Society of New York",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "High Line"
+    ],
+    [
+      "High Line",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Port Authority of New York and New Jersey Police Department",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.adjoin_s",
+      "m.046cvpy"
+    ],
+    [
+      "Columbia University Graduate School of Journalism",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Solomon R. Guggenheim Museum"
+    ],
+    [
+      "m.07sk7qk",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.0ggl2kk"
+    ],
+    [
+      "Shleppers Moving & Storage",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1hdscp"
+    ],
+    [
+      "RJS Pest Management",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Consumer Affairs"
+    ],
+    [
+      "Harlem Renaissance Way Down South",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Little Italy"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pczj"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Police Department School Safety Division"
+    ],
+    [
+      "Between Two Rivers: A Novel",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Investigation"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Al-Hoda"
+    ],
+    [
+      "m.0h_k2l9",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.063sbh8",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "Jo Danville",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.guidebooks",
+      "travefy.com"
+    ],
+    [
+      "m.04lqd7k",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.0q1zt03",
+      "base.schemastaging.phone_sandbox.service_location",
+      "New York City"
+    ],
+    [
+      "Morgan Library & Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Let the Great World Spin"
+    ],
+    [
+      "The Village Voice",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Crocheron Park",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Joss Carter"
+    ],
+    [
+      "m.065pbdw",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "Taxi!: A Social History of the New York City Cabdriver",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Five Towns Jewish Times",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Daily Worker"
+    ],
+    [
+      "Chinatown",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.1jmcbgvzj"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pd3g"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "Area code 917"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Morgen Freiheit"
+    ],
+    [
+      "Freie Arbeiter Stimme",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Elite SEM",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnxf"
+    ],
+    [
+      "m.0j5pqf9",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Central Park"
+    ],
+    [
+      "m.064sm80",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnxm"
+    ],
+    [
+      "Law & Order",
+      "fictional_universe.fictional_universe.locations",
+      "New York City"
+    ],
+    [
+      "Metropolitan Museum of Art",
+      "base.arthist.int_zm_nyek.helynev",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "common.topic.image",
+      "Midtown Manhattan as seen from the GE Building."
+    ],
+    [
+      "New York City",
+      "location.hud_foreclosure_area.hhuniv",
+      "m.07f62r7"
+    ],
+    [
+      "Viceroy New York",
+      "common.topic.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Paradigm Dancing: An Introduction"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Arts and Design"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Spirit of the Times"
+    ],
+    [
+      "The Aquarian Weekly",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Frick Collection",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "m.0j0_fk2",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.064sltb",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "Solomon R. Guggenheim Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Museum of Modern Art",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "New York City Half Marathon"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbjd"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1jm96n"
+    ],
+    [
+      "American Citizen",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Onion"
+    ],
+    [
+      "Chrysler Building",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Citywide Administrative Services"
+    ],
+    [
+      "m.011t8xh6",
+      "common.phone_number.service_location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.casinos.casino_theme.casinos_in_this_theme",
+      "New York-New York Hotel and Casino"
+    ],
+    [
+      "New York City Department of Homeless Services",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pbdw"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Flatiron Building"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Americada"
+    ],
+    [
+      "New York Knicks",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "College Point",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.adjoin_s",
+      "m.02wk9_t"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Housing Authority"
+    ],
+    [
+      "New York City",
+      "film.film_subject.films",
+      "Midnight Cowboy"
+    ],
+    [
+      "Columbia Daily Spectator",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Village Voice"
+    ],
+    [
+      "Der Groyser Kundes",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.universe",
+      "Law & Order"
+    ],
+    [
+      "New York City",
+      "base.popstra.rehab_facility.patient",
+      "m.063lrvg"
+    ],
+    [
+      "New York City",
+      "location.location.partially_contained_by",
+      "m.0wg9gt4"
+    ],
+    [
+      "Chelsea Art Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "The Sacred Band of Stepsons universe",
+      "fictional_universe.fictional_universe.locations",
+      "New York City"
+    ],
+    [
+      "New York Rangers",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Ishi Nakamura"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "New York City Audubon"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Chrysler Building"
+    ],
+    [
+      "m.065pd1c",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Between Two Rivers: A Novel"
+    ],
+    [
+      "Jo",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Chrysler Building: Creating a New York Icon Day by Day"
+    ],
+    [
+      "New York City Council",
+      "government.governmental_body.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York, New York (So Good They Named It Twice)",
+      "music.composition.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Board of Elections"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "China Daily"
+    ],
+    [
+      "New York Jets",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "Karoo: A Novel",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "New York City borough"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Dry Manhattan: Prohibition in New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnrq"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbj8"
+    ],
+    [
+      "Downtown Manhattan Heliport",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "American Museum of Natural History",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Empire State Building",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "New York Mini 10K"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "What Happened to Anna K."
+    ],
+    [
+      "Times Square",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "New York Skyports Inc. Seaplane Base"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pd84"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Chelsea Art Museum"
+    ],
+    [
+      "New York City",
+      "exhibitions.exhibition_subject.exhibitions_created_about_this_subject",
+      "Songs of My People"
+    ],
+    [
+      "m.063sbj0",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "Midtown Manhattan",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Grand Central Terminal"
+    ],
+    [
+      "m.0519cd5",
+      "travel.transportation.travel_destination",
+      "New York City"
+    ],
+    [
+      "Flatiron Building",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York Aquarium",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Peak Sales Recruiting"
+    ],
+    [
+      "New York City",
+      "location.location.partially_contains",
+      "Ellis Island"
+    ],
+    [
+      "m.05ndb6j",
+      "base.aubreymaturin.place_mention.place",
+      "New York City"
+    ],
+    [
+      "New York City Housing Authority",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "m.05qww1_",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "A.I.R. Gallery",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.partially_containedby",
+      "Area codes 212 and 646"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbhx"
+    ],
+    [
+      "New York City",
+      "business.employer.employees",
+      "m.012n4vzw"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Communist"
+    ],
+    [
+      "ELEMENTAL: The Power of Illuminated Love",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Press"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1l4_tt"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "New York Knicks"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Imagination Playground at Burling Slip"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11b7tlk4sq"
+    ],
+    [
+      "Imagination Playground at Burling Slip",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.0h_hy6q",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Forrest Church",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "m.051qt47",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04j7j70"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Union League Club of New York"
+    ],
+    [
+      "New York City",
+      "base.aubreymaturin.place.mentions",
+      "m.05ndb6j"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "Newark Liberty International Airport"
+    ],
+    [
+      "m.010h53v9",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "m.063lrvg",
+      "base.popstra.rehab_stay.facility",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0k6kggv"
+    ],
+    [
+      "Auctionata",
+      "organization.organization.locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5c5"
+    ],
+    [
+      "New York City",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "New York City borough"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Preserving New York: Winning the Right to Protect A City's Landmarks"
+    ],
+    [
+      "m.0j2l984",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1gs0k_"
+    ],
+    [
+      "New York City",
+      "film.film_subject.films",
+      "Deluge"
+    ],
+    [
+      "m.051qt5n",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "Richie",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "International Center of Photography",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Marymount Theatre School",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "tv.tv_location.tv_shows_filmed_here",
+      "Both Sides"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Triumph Hotels"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbhj"
+    ],
+    [
+      "The Warriors",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "g.1217c9h2"
+    ],
+    [
+      "East Village Other",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Joss Carter",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Barron's"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The New York Sun"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Human Resources Administration"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "John F. Kennedy International Airport"
+    ],
+    [
+      "Schomburg Center for Research in Black Culture",
+      "base.jewlib.judaica_owner.parent_institution",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Health and Mental Hygiene"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.arrestee",
+      "m.064hlq6"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Der Yid"
+    ],
+    [
+      "New York City",
+      "location.location.primarily_containedby",
+      "Area codes 718, 347 and 929"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5fm"
+    ],
+    [
+      "New York City Department for the Aging",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Catsitters"
+    ],
+    [
+      "Midnight Cowboy",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "Brooklyn Bridge",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "National Academy Museum and School"
+    ],
+    [
+      "The Jewish Daily Forward",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City Department of Records and Information Services",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "Cime",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "East River",
+      "geography.river.cities",
+      "New York City"
+    ],
+    [
+      "m.0w9vg9x",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "Exit Ghost",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.how_to_get_here",
+      "m.0519ccq"
+    ],
+    [
+      "Staten Island",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Records and Information Services"
+    ],
+    [
+      "Museum of Modern Art Department of Film",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Ishi Nakamura",
+      "base.fictionaluniverse.deceased_fictional_character.place_of_death",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Brooklyn Bridge"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbj0"
+    ],
+    [
+      "New York City Department of Youth and Community Development",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City Department of Health and Mental Hygiene",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.universe",
+      "Tempus Unbound"
+    ],
+    [
+      "George Templeton Strong",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Five Towns Jewish Times"
+    ],
+    [
+      "High Line",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York Mets",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt5c"
+    ],
+    [
+      "m.0zvdpy9",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "Grand Central Terminal",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Franklin D. Roosevelt Presidential Library and Museum"
+    ],
+    [
+      "Solomon R. Guggenheim Museum",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Art Deco New York"
+    ],
+    [
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York, Empire City: 1920-1945",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "St. Patrick's Cathedral",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064srzw"
+    ],
+    [
+      "The Wail of the Banshee!",
+      "fictional_universe.work_of_fiction.setting",
+      "New York City"
+    ],
+    [
+      "m.05qvsrm",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.arthist.helynevek.intezmeny",
+      "Metropolitan Museum of Art"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "g.122qmg44"
+    ],
+    [
+      "New York City Half Marathon",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Silver Star",
+      "rail.railway.terminuses",
+      "New York City"
+    ],
+    [
+      "m.05hpj3c",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Landmarks of New York: An Illustrated Record of the City's Historic Buildings"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "George Gustav Heye Center"
+    ],
+    [
+      "National Academy Museum and School",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Brooklyn Botanic Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.065pb_1",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "The Great Gatsby",
+      "fictional_universe.work_of_fiction.setting",
+      "New York City"
+    ],
+    [
+      "The Chrysler Building: Creating a New York Icon Day by Day",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "tv.tv_location.tv_shows_filmed_here",
+      "The Stand"
+    ],
+    [
+      "m.0_syrxc",
+      "common.phone_number.service_location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Sun"
+    ],
+    [
+      "m.051qt5y",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1h6qg6"
+    ],
+    [
+      "New York City",
+      "location.location.geolocation",
+      "m.0kfn9s"
+    ],
+    [
+      "The Skyscraper and the City: The Woolworth Building and the Making of Modern New York",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Dana Barrett",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.militaryinfiction.location_in_fiction.contained_by",
+      "Lemurian windows into any place or time"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Star"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "El Diario La Prensa"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5gz"
+    ],
+    [
+      "Alchemical Theatre",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt5n"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnrb"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "Port Authority of New York and New Jersey Police Department"
+    ],
+    [
+      "Manhattan",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "New York City"
+    ],
+    [
+      "m.063sbhn",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "Daily News",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Super in the City"
+    ],
+    [
+      "Adam Ross",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York City Department of Juvenile Justice",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "Wendy Wasserstein",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Exit Ghost"
+    ],
+    [
+      "Il Progresso Italo-Americano",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York Press",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbhd"
+    ],
+    [
+      "Songs of My People Art Exhibition Opens at Penn Center",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "m.04hb2dx",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "exhibitions.exhibition_subject.exhibitions_created_about_this_subject",
+      "State of the Art: New York"
+    ],
+    [
+      "m.029837n",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Columbia Daily Spectator"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "RJS Pest Management"
+    ],
+    [
+      "Capital City: New York City and the Men Behind America's Rise to Economic Dominance, 1860-1900",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1khy16"
+    ],
+    [
+      "Catholic Worker",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Central Park Zoo",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Commercial Advertiser"
+    ],
+    [
+      "Manhattan",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "El Diario La Prensa",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.0jh3fwc",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Sesame Street"
+    ],
+    [
+      "September 11 attacks",
+      "time.event.locations",
+      "New York City"
+    ],
+    [
+      "Rockefeller Center",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York Skyports Inc. Seaplane Base",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "Central Park in the Dark: More Mysteries of Urban Wildlife",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Pi",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt66"
+    ],
+    [
+      "New York-New York Hotel and Casino",
+      "base.casinos.casino.theme",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "common.topic.image",
+      "NYC Montage 3"
+    ],
+    [
+      "The New York Blade",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Area code 347",
+      "location.location.contains_major_portion_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Flags on Fifty-Seventh Street",
+      "visual_art.artwork.art_subject",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.0650mf9"
+    ],
+    [
+      "New York Aquarium",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.hud_county_place.place",
+      "New York City"
+    ],
+    [
+      "Lemurian windows into any place or time",
+      "fictional_universe.type_of_fictional_setting.settings",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "\\\"History dressed up in the glow of love’s kiss turned grief into beauty.\\\""
+    ],
+    [
+      "Rockefeller Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "The Morning Star",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Union League Club of New York",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "Midtown Manhattan",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010h53v9"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department for the Aging"
+    ],
+    [
+      "m.063sbjd",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Modern Art Department of Film"
+    ],
+    [
+      "m.0j1sr6_",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Brooklyn Botanic Garden"
+    ],
+    [
+      "New York City Department of Environmental Protection",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Staten Island Ferry"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New Yorker Volkszeitung"
+    ],
+    [
+      "Lemurian windows into any place or time",
+      "base.militaryinfiction.location_in_fiction.representation_of_real_location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "LaGuardia Airport"
+    ],
+    [
+      "UAE Healthy Kidney 10K",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "common.topic.subject_of",
+      "Engage the Crowd NYC"
+    ],
+    [
+      "Harlem",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Freie Arbeiter Stimme"
+    ],
+    [
+      "New York City Department of City Planning",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "The Cloisters",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.046cvpy",
+      "location.adjoining_relationship.adjoins",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Probation"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Capital City: New York City and the Men Behind America's Rise to Economic Dominance, 1860-1900"
+    ],
+    [
+      "Super in the City",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Midtown Manhattan as seen from the GE Building.",
+      "common.image.appears_in_topic_gallery",
+      "New York City"
+    ],
+    [
+      "m.064smxq",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.12vqhvb3l"
+    ],
+    [
+      "Wave Hill",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Newark Liberty International Airport",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "A Christmas Caroline"
+    ],
+    [
+      "New York City Department of Cultural Affairs",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "olympics.olympic_bidding_city.olympics_bid_on",
+      "m.0k8jmdw"
+    ],
+    [
+      "New York City borough",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "New York City"
+    ],
+    [
+      "m.065pd84",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "m.04yxx8v",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Spirit of the Times",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City Metropolitan Board of Health",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "m.0519ccq",
+      "travel.transportation.travel_destination",
+      "New York City"
+    ],
+    [
+      "10019",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Woolworth Building",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Generous Enemies: Patriots and Loyalists in Revolutionary New York"
+    ],
+    [
+      "m.04j7jc7",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "Vanishing Point: The Disappearance of Judge Crater, and the New York He Left Behind",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5gj"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1jnp8n"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "Mitchel Air Force Base"
+    ],
+    [
+      "New York City",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "The Soul of the Soulless City ('New York - an Abstraction')"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnhz"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Mathematics"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_topic.is_really",
+      "New York City"
+    ],
+    [
+      "International Center of Photography",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Area codes 718, 347 and 929",
+      "location.location.contains_major_portion_of",
+      "New York City"
+    ],
+    [
+      "m.012n4p76",
+      "business.employment_tenure.company",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "ELEMENTAL: The Power of Illuminated Love"
+    ],
+    [
+      "Times Square",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "Edward Skyler",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt6s"
+    ],
+    [
+      "New York City",
+      "base.popstra.company.shopping_choice",
+      "m.064vmp_"
+    ],
+    [
+      "New York World",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.0wg91t7",
+      "location.partial_containment_relationship.partially_contained_by",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Times Square Spectacular: Lighting up Broadway"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Who Dares Defy...the Demi-Men"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "National Guardian"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnlv"
+    ],
+    [
+      "Madonna",
+      "music.artist.origin",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064sm80"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Here Is New York: A Democracy of Photographs"
+    ],
+    [
+      "The Capitol",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Writing New York: A Literary Anthology"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The New York Observer"
+    ],
+    [
+      "Nowy Dziennik",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Ungovernable City: John Lindsay and His Struggle to Save New York"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Hoy"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Housing Preservation and Development"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "CCNY Beavers men's basketball"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5fd"
+    ],
+    [
+      "Franklin D. Roosevelt Presidential Library and Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.works_set_here",
+      "The Great Gatsby"
+    ],
+    [
+      "New York City",
+      "common.topic.subject_of",
+      "Viceroy New York"
+    ],
+    [
+      "Stevie Nichols",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "m.04j7jch",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "The City's End: Two Centuries of Fantasies, Fears, and Premonitions of New York's Destruction",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.local_transportation",
+      "Staten Island Ferry"
+    ],
+    [
+      "New York City Department of Consumer Affairs",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City Police Department Auxiliary Police",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.works_set_here",
+      "The Wail of the Banshee!"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The New York Times"
+    ],
+    [
+      "Imagination Playground at Burling Slip",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Louis Armstrong House"
+    ],
+    [
+      "Peter Clemenza",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "James II of England",
+      "symbols.name_source.namesakes",
+      "New York City"
+    ],
+    [
+      "New York City Department of Sanitation",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City Department of Probation",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "Sid Hammerback",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "The Moneychangers",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0yv0h9q"
+    ],
+    [
+      "Staten Island Ferry",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Bayside",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York Post",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pd1c"
+    ],
+    [
+      "American Academy of Dramatic Arts",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.hud_foreclosure_area.total_residential_addresses",
+      "m.07f62s3"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Youth and Community Development"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnx1"
+    ],
+    [
+      "Staten Island Advance",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Lowboy"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Sex"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "New York Yankees"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w_6dzs"
+    ],
+    [
+      "The Wall Street Journal",
+      "base.meedan.arabic_language_media_source.city",
+      "New York City"
+    ],
+    [
+      "Little Italy",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Deluge",
+      "film.film.subjects",
+      "New York City"
+    ],
+    [
+      "m.03p9k9b",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1g5czb"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "UAE Healthy Kidney 10K"
+    ],
+    [
+      "Time",
+      "music.composition.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt3z"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04j7jch"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064scdf"
+    ],
+    [
+      "Negro World",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "State of the Art: New York",
+      "exhibitions.exhibition.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pchg"
+    ],
+    [
+      "Graffiti Lives: Beyond the Tag in New York’s Urban Underground",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "George Gustav Heye Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.webvideo.internet_video_genre.series",
+      "Second-Hand NY"
+    ],
+    [
+      "Commercial Advertiser",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Mitchel Air Force Base",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "Triumph Hotels",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "Henry Clay Frick House",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Flight of the Conchords",
+      "tv.tv_program.filming_locations",
+      "New York City"
+    ],
+    [
+      "m.051qt5c",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Jo"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Lush Life: A Novel"
+    ],
+    [
+      "New York City Department of Transportation",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5gr"
+    ],
+    [
+      "New York Communist",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnj5"
+    ],
+    [
+      "New York World-Telegram",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.0h_kby2",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Anita Van Buren",
+      "fictional_universe.fictional_character.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w9vg9x"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "American Citizen"
+    ],
+    [
+      "New York City",
+      "business.business_location.parent_company",
+      "Auctionata"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Battery Park"
+    ],
+    [
+      "Chrysler Building",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0dkbj1x"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Evening Mail"
+    ],
+    [
+      "m.0j5zmmm",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.05qvnpz"
+    ],
+    [
+      "New York City",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Office at Night"
+    ],
+    [
+      "George Gustav Heye Center",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "m.02wk9_t",
+      "location.adjoining_relationship.adjoins",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0jsvymz"
+    ],
+    [
+      "Staten Island",
+      "location.us_county.hud_county_place",
+      "New York City"
+    ],
+    [
+      "A Death in the Family, Part Four",
+      "fictional_universe.work_of_fiction.setting",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.setting_type",
+      "Lemurian windows into any place or time"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Morgan Library & Museum"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Correction"
+    ],
+    [
+      "m.010664km",
+      "religion.religious_organization_leadership.jurisdiction",
+      "New York City"
+    ],
+    [
+      "m.051qt4t",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5d1"
+    ],
+    [
+      "One Brick",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "The Good Life",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Area codes 212 and 646",
+      "location.location.partially_contains",
+      "New York City"
+    ],
+    [
+      "m.0h_kdv2",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "AM New York",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.local_transportation",
+      "New York City Subway"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Atlantic Theater Company"
+    ],
+    [
+      "Kaito Nakamura",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "g.122161km"
+    ],
+    [
+      "Theodore Roosevelt Birthplace National Historic Site",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.0k8jmdw",
+      "olympics.olympic_city_bid.bidding_city",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.disneyana.disney_product_theme.disney_products_based_on_this_theme",
+      "New York City Pooh"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Good Life"
+    ],
+    [
+      "Delancey School",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "Gerard Kenny",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Gotham: A History of New York City to 1898"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Kaito Nakamura"
+    ],
+    [
+      "LaGuardia Airport",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "New York City Department of Finance",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.adjoin_s",
+      "m.046csmy"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York World-Telegram"
+    ],
+    [
+      "Old-timer, keeping up with the boys",
+      "visual_art.artwork.art_subject",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Fire Department"
+    ],
+    [
+      "The Stand",
+      "tv.tv_program.filming_locations",
+      "New York City"
+    ],
+    [
+      "Felix M. Warburg House",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Times Square",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Sullivan & Galleshaw, LLP",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "Little Italy",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Taxi!: A Social History of the New York City Cabdriver"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064smxq"
+    ],
+    [
+      "m.065pchg",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "The West Side Spirit",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The National Sports Daily"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.05qww1_"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt5y"
+    ],
+    [
+      "Passing Through Eden: Photographs of Central Park",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "William Dunlap",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "New York Giants",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Campus"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0sxfs9w"
+    ],
+    [
+      "New York City",
+      "base.popstra.business_location.customer",
+      "m.06527_0"
+    ],
+    [
+      "m.0wg9gsz",
+      "location.partial_containment_relationship.partially_contains",
+      "New York City"
+    ],
+    [
+      "m.012hmg4p",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt4j"
+    ],
+    [
+      "m.064_5kz",
+      "base.popstra.hangout.business_location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt3p"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "New York Giants"
+    ],
+    [
+      "Atlantic Theater Company",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnql"
+    ],
+    [
+      "Madison Square Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "American Folk Art Museum"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Rockefeller Center"
+    ],
+    [
+      "Midnight Cowboy",
+      "film.film.subjects",
+      "New York City"
+    ],
+    [
+      "Travefy",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York Perl Mongers",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "Dutchess County",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Bonfire of the Vanities"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1jdv9v"
+    ],
+    [
+      "m.0649tj0",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1m372j"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Mason Greyback"
+    ],
+    [
+      "New York City Department of Design and Construction",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0220_r0"
+    ],
+    [
+      "The New York Times",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Museum of Sex",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.jewlib.parent_institution.judaica_owning_units",
+      "Schomburg Center for Research in Black Culture"
+    ],
+    [
+      "m.064vmp_",
+      "base.popstra.shopping_choice.company",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Der Groyser Kundes"
+    ],
+    [
+      "The Ungovernable City: John Lindsay and His Struggle to Save New York",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New Yorker Volkszeitung",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "New York Rangers"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Jo Danville"
+    ],
+    [
+      "m.0cv3z85",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Seemed Like a Good Idea at the Time: A Memoir",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "m.064hlq6",
+      "base.popstra.arrest.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "business.employer.employees",
+      "m.0123w_43"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnqs"
+    ],
+    [
+      "The National Sports Daily",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.070zl78",
+      "base.popstra.arrest.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1j33rp"
+    ],
+    [
+      "New York City Department of Social Services",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5h5"
+    ],
+    [
+      "m.063sbhd",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "film.film_subject.films",
+      "The Warriors"
+    ],
+    [
+      "m.063sbj8",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "m.09kggfb",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.1jmcbhr5s"
+    ],
+    [
+      "New York City",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "New York"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Chelsea Clinton News"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Donald Flack, Jr."
+    ],
+    [
+      "RJS Pest Management",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Countdown of 10 Great Moments in 2010 Part 2 Beyonce and Jay-Z"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Metropolitan Museum of Art"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "AM New York"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "World Voices Festival Celebrates Literary Diplomacy (part 1 of 2)"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "New York Golden Blades"
+    ],
+    [
+      "Koyaanisqatsi",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_topic.subsumes",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.works_set_here",
+      "13 Going on 30"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.1jmcbkjyb"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.0649tj0"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnm2"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.government_bodies",
+      "New York City Council"
+    ],
+    [
+      "Channeling Mark Twain: A Novel",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Montage NYC",
+      "common.image.appears_in_topic_gallery",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Call"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "New York Perl Mongers"
+    ],
+    [
+      "m.0qs290r",
+      "base.schemastaging.phone_sandbox.service_location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0jt07bd"
+    ],
+    [
+      "New York City Law Department",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.arrestee",
+      "m.070ztkj"
+    ],
+    [
+      "m.0j0xrfd",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Adam Ross"
+    ],
+    [
+      "Sesame Street",
+      "fictional_universe.work_of_fiction.setting",
+      "New York City"
+    ],
+    [
+      "Flushing Airport",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "Andrew Carnegie Mansion",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.012n4vzw",
+      "business.employment_tenure.company",
+      "New York City"
+    ],
+    [
+      "New York Mini 10K",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Henry Clay Frick House"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbhn"
+    ],
+    [
+      "College Point",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "Who Dares Defy...the Demi-Men",
+      "fictional_universe.work_of_fiction.setting",
+      "New York City"
+    ],
+    [
+      "Statue of Liberty",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "The Battle for New York: The City at the Heart of the American Revolution",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Gavin Brown's Enterprise"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5f5"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pc3w"
+    ],
+    [
+      "New York City",
+      "business.business_location.parent_company",
+      "CommonBond"
+    ],
+    [
+      "Battery Park",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "13 Going on 30",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "m.0z9wk8p",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City Department of Housing Preservation and Development",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "United Nations Headquarters"
+    ],
+    [
+      "New York City",
+      "common.topic.subject_of",
+      "The Approaching 100th Anniversary of the Harlem Renaissance (part 2)"
+    ],
+    [
+      "The Sun",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.0pd33m4",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Big Oyster: History on the Half Shell"
+    ],
+    [
+      "m.09vx0zc",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 718, 347 and 929"
+    ],
+    [
+      "Grand Central Terminal",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "The New York Sun",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.hud_foreclosure_area.bls_unemployment_rate",
+      "m.07f62sb"
+    ],
+    [
+      "New York Call",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Frick Collection"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Small Business Services"
+    ],
+    [
+      "American Museum of Natural History",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Elements of Style"
+    ],
+    [
+      "Spence School",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "m.0h_flk2",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.010vspjx",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5cn"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnr4"
+    ],
+    [
+      "Freedomland U.S.A.",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Barron's",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Battle for New York: The City at the Heart of the American Revolution"
+    ],
+    [
+      "m.06527_0",
+      "base.popstra.hangout.business_location",
+      "New York City"
+    ],
+    [
+      "Ellis Island",
+      "location.location.partially_containedby",
+      "New York City"
+    ],
+    [
+      "The Approaching 100th Anniversary of the Harlem Renaissance (part 2)",
+      "common.topic.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Alchemical Theatre"
+    ],
+    [
+      "New York City",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 212 and 646"
+    ],
+    [
+      "Peking",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.jewishcommunities.jewish_community.synagogues",
+      "Congregation Or Zarua"
+    ],
+    [
+      "Kaito Nakamura",
+      "base.fictionaluniverse.deceased_fictional_character.place_of_death",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Crocheron Park"
+    ],
+    [
+      "16 Handles Astoria",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Headless Horseman Hayrides"
+    ],
+    [
+      "New York City",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "New York Mets"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Felix M. Warburg House"
+    ],
+    [
+      "Paradise Travel",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1g28sv"
+    ],
+    [
+      "m.0yv0h9q",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1fhf_7"
+    ],
+    [
+      "Broadway Theatre",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Parks and Recreation"
+    ],
+    [
+      "Metropolitan Museum of Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "National Guardian",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Cultural Affairs"
+    ],
+    [
+      "m.0cgx60x",
+      "award.award_honor.award_winner",
+      "New York City"
+    ],
+    [
+      "Statue of Liberty",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "New York Rises: Photographs by Eugene de Salignac"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Capitol"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Elite SEM"
+    ],
+    [
+      "A Christmas Caroline",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5bx"
+    ],
+    [
+      "Here Is New York: A Democracy of Photographs",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "award.award_winner.awards_won",
+      "m.0cgx60x"
+    ],
+    [
+      "New York City Police Department",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.works_set_here",
+      "A Death in the Family, Part Four"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.how_to_get_here",
+      "m.0519ccc"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Stevie Nichols"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbj4"
+    ],
+    [
+      "Ice wine",
+      "wine.wine.region",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Law Department"
+    ],
+    [
+      "“September 11, 2001: Citizens of the U.S., besieged by terror’s sting, rose up, weeping glory, as if on eagles’ wings.--from the poem Angel of Remembrance: Candles for September 11, 2001",
+      "media_common.quotation.subjects",
+      "New York City"
+    ],
+    [
+      "Nighthawks",
+      "visual_art.artwork.art_subject",
+      "New York City"
+    ],
+    [
+      "Headless Horseman Hayrides",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.0h_jlwj",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Treatment"
+    ],
+    [
+      "m.064scdf",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "92nd Street Y",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Harlem Renaissance Way Down South"
+    ],
+    [
+      "New York City Department of Parks and Recreation",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Sheldon Hawkes"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnjk"
+    ],
+    [
+      "New York City Pooh",
+      "base.disneyana.disney_product.theme",
+      "New York City"
+    ],
+    [
+      "Henry Clay Frick House",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Museum of Arts and Design",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Skyscraper and the City: The Woolworth Building and the Making of Modern New York"
+    ],
+    [
+      "Askelon follows Cime to the 20th Century",
+      "fictional_universe.event_in_fiction.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Vaba Eesti Sõna"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Wall Street Journal"
+    ],
+    [
+      "New York City Police Department School Safety Division",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Mac Taylor"
+    ],
+    [
+      "Ishi Nakamura",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Gastropolis: Food and New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Bruce Wayne"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Negro World"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5g9"
+    ],
+    [
+      "Peak Sales Recruiting",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "The Big Oyster: History on the Half Shell",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Karoo: A Novel"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "g.121764rk"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnrj"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "One Thousand New York Buildings"
+    ],
+    [
+      "Area codes 212 and 646",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "American Museum of Natural History"
+    ],
+    [
+      "m.05l35v5",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnx7"
+    ],
+    [
+      "East River",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Americada",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York Star",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Staten Island Advance"
+    ],
+    [
+      "New York City",
+      "location.location.partially_contained_by",
+      "m.0wg9gsz"
+    ],
+    [
+      "The Landmarks of New York: An Illustrated Record of the City's Historic Buildings",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "John F. Kennedy International Airport",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "New York Rises: Photographs by Eugene de Salignac",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Frick Collection",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "The Warriors",
+      "film.film.subjects",
+      "New York City"
+    ],
+    [
+      "Donald Flack, Jr.",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "American Folk Art Museum",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City Fire Department",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area code 917"
+    ],
+    [
+      "m.0j0z5vh",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.04lqc_w",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Chinatown",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Police Department Auxiliary Police"
+    ],
+    [
+      "New York City",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "“September 11, 2001: Citizens of the U.S., besieged by terror’s sting, rose up, weeping glory, as if on eagles’ wings.--from the poem Angel of Remembrance: Candles for September 11, 2001"
+    ],
+    [
+      "m.051qt6h",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04j7j5d"
+    ],
+    [
+      "New York City",
+      "location.location.partiallycontains",
+      "m.0wg91t7"
+    ],
+    [
+      "Der Yid",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.0j1_mhs",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "The Cloisters"
+    ],
+    [
+      "Let the Great World Spin",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Both Sides",
+      "tv.tv_program.filming_locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Brooklyn",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "The Stand",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "Hoy",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "The Sun and the Moon: The Remarkable True Account of Hoaxers, Showmen, Dueling Journalists, and Lunar Man-Bats in Nineteenth-Century New York",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Schomburg Center for Research in Black Culture",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11bccjclv2"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Shleppers Moving & Storage"
+    ],
+    [
+      "Friends, Writers, and Other Countrymen: A Memoir",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1j6cs5"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.local_transportation",
+      "MTA New York City Transit buses"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0zvdpy9"
+    ],
+    [
+      "Sheldon Hawkes",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "New York Public Library Main Branch",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Peter Clemenza"
+    ],
+    [
+      "m.0_syrtk",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Preserving New York: Winning the Right to Protect A City's Landmarks",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Manhattan West Side Spirit"
+    ],
+    [
+      "m.05qvnpz",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "The Bonfire of the Vanities",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Richard Zven Kruspe",
+      "music.artist.origin",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "St. Patrick's Cathedral"
+    ],
+    [
+      "New York City",
+      "tv.tv_location.tv_shows_filmed_here",
+      "Flight of the Conchords"
+    ],
+    [
+      "Lemuria",
+      "fictional_universe.type_of_fictional_setting.settings",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Graffiti Lives: Beyond the Tag in New York’s Urban Underground"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Death at the Old Hotel: A Bartender Brian McNulty Mystery"
+    ],
+    [
+      "Death at the Old Hotel: A Bartender Brian McNulty Mystery",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Morning Star"
+    ],
+    [
+      "13 Going on 30",
+      "fictional_universe.work_of_fiction.setting",
+      "New York City"
+    ],
+    [
+      "Crocheron Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.0220_r0",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04j7jcy"
+    ],
+    [
+      "Times Square Spectacular: Lighting up Broadway",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Channeling Mark Twain: A Novel"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnm8"
+    ],
+    [
+      "m.0whg4js",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "Writing New York: A Literary Anthology",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1k8z30"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Theodore Roosevelt Birthplace National Historic Site"
+    ],
+    [
+      "Lemurian windows into any place or time",
+      "base.militaryinfiction.location_in_fiction.contains",
+      "New York City"
+    ],
+    [
+      "American Folk Art Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.arthist.helynevek.intezmeny",
+      "Hearn Family Trust"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "FusionArts Museum"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "John Reese"
+    ],
+    [
+      "Edward Hopper",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "The Wall Street Journal",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Harlem",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnlb"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064sltb"
+    ],
+    [
+      "Louis Armstrong House",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "The Future Once Happened Here: New York, D.C., L.A., and the Fate of America's Big Cities",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Congregation Or Zarua",
+      "base.jewishcommunities.synagogue.community_affiliation",
+      "New York City"
+    ],
+    [
+      "Gotham: A History of New York City to 1898",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "common.topic.article",
+      "m.02_28j"
+    ],
+    [
+      "The Campus",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.0wg9gt4",
+      "location.partial_containment_relationship.partially_contains",
+      "New York City"
+    ],
+    [
+      "Museum of Mathematics",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1jh3_s"
+    ],
+    [
+      "New York City",
+      "base.militaryinfiction.location_in_fiction.contained_by",
+      "New York"
+    ],
+    [
+      "Henry Clay Frick",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "End of 14th Street Crosstown Line",
+      "visual_art.artwork.art_subject",
+      "New York City"
+    ],
+    [
+      "City Hall",
+      "fictional_universe.work_of_fiction.setting",
+      "New York City"
+    ],
+    [
+      "m.063sbhj",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "m.063sbhs",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "\\\"History dressed up in the glow of love’s kiss turned grief into beauty.\\\"",
+      "media_common.quotation.subjects",
+      "New York City"
+    ],
+    [
+      "m.0j0yyw_",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Statue of Liberty National Monument"
+    ],
+    [
+      "Bayside",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Information Technology and Telecommunications"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York World"
+    ],
+    [
+      "m.0j1d1y1",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Thirty-Three Swoons",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "m.0h_gswk",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Al-Hoda",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City Department of Correction",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "m.04j7j5d",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City Department of Buildings",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Social Services"
+    ],
+    [
+      "New York Yankees",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "m.0k2y38k",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.065pc3w",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "Metropolitan Museum of Art",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "m.064d17q",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt4t"
+    ],
+    [
+      "New York City",
+      "base.jewlib.parent_institution.judaica_owning_units",
+      "New York Public Library Main Branch"
+    ],
+    [
+      "Area code 917",
+      "location.location.contains",
+      "New York City"
+    ],
+    [
+      "Empire State Building",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Richie"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt52"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Russian Debutante's Handbook"
+    ],
+    [
+      "New York City",
+      "book.book_subject.musical_compositions_about_this_topic",
+      "New York, New York (So Good They Named It Twice)"
+    ],
+    [
+      "New York City",
+      "book.book_subject.musical_compositions_about_this_topic",
+      "Time"
+    ],
+    [
+      "United Nations Headquarters",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of City Planning"
+    ],
+    [
+      "Brooklyn Bridge",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Shaun Donovan",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5hf"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbhs"
+    ],
+    [
+      "New York Golden Blades",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "Paradigm Dancing: An Introduction",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "m.0j0x6h7",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "Lowboy",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "m.03p9kc1",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Broadway Theatre"
+    ],
+    [
+      "Spence School",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "sports.sports_team_location.teams",
+      "New York Jets"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Spence School"
+    ],
+    [
+      "National Anti-Slavery Standard",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "SEO Services New York",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.09kggfb"
+    ],
+    [
+      "Museum of Modern Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.04j7jcy",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Manhattan"
+    ],
+    [
+      "Gavin Brown's Enterprise",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "wine.wine_region.wines",
+      "Ice wine"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "East 34th Street Heliport"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Buildings"
+    ],
+    [
+      "New York City",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Nighthawks"
+    ],
+    [
+      "New York City Subway",
+      "metropolitan_transit.transit_system.area_served",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.arrestee",
+      "m.070zl78"
+    ],
+    [
+      "New York City Department of Information Technology and Telecommunications",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York Evening Mail",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Homeless Services"
+    ],
+    [
+      "New York City",
+      "base.popstra.restaurant.restaurant_choice",
+      "m.064jqf6"
+    ],
+    [
+      "New York City",
+      "location.hud_foreclosure_area.estimated_number_of_mortgages",
+      "m.07f62rp"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.1jmcbg7bf"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Vanishing Point: The Disappearance of Judge Crater, and the New York He Left Behind"
+    ],
+    [
+      "m.04yz5ld",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.0x2x5q1",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "Dry Manhattan: Prohibition in New York City",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "St. Patrick's Cathedral",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Divided We Stand: A Biography of New York's World Trade Center",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5bp"
+    ],
+    [
+      "Battery Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Madison Square Garden"
+    ],
+    [
+      "m.051qt3z",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "The Catsitters",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Thomas Hastings",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City Law Department",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.government_bodies",
+      "New York City Housing Authority"
+    ],
+    [
+      "Area code 646",
+      "location.location.partially_contains",
+      "New York City"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1kps8j"
+    ],
+    [
+      "Brooklyn Botanic Garden",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Bronx Beat",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Broadway",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "business.business_location.parent_company",
+      "MBSF - Private Jets"
+    ],
+    [
+      "Central Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Darien Lake",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064sr1t"
+    ],
+    [
+      "Joseph Force Crater",
+      "people.deceased_person.place_of_death",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "business.employer.employees",
+      "m.012n4p76"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Golos Truda"
+    ],
+    [
+      "m.0w_6dzs",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "New York, Empire City: 1920-1945"
+    ],
+    [
+      "New York City Human Resources Administration",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Jewish Daily Forward"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "New York Aquarium"
+    ],
+    [
+      "New York City Audubon",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.partially_containedby",
+      "Area code 646"
+    ],
+    [
+      "New York Public Library Main Branch",
+      "base.jewlib.judaica_owner.parent_institution",
+      "New York City"
+    ],
+    [
+      "m.065pczj",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "John Reese",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "Tempus Unbound",
+      "fictional_universe.fictional_universe.locations",
+      "New York City"
+    ],
+    [
+      "Mike Wallace",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The West Side Spirit"
+    ],
+    [
+      "Chelsea Clinton News",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Nowy Dziennik"
+    ],
+    [
+      "New York City Housing Authority",
+      "government.governmental_body.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Old-timer, keeping up with the boys"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnqz"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Dana Barrett"
+    ],
+    [
+      "m.051qt3p",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.1jmcbfml7"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Sullivan & Galleshaw, LLP"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "Flushing Airport"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1d7rv6"
+    ],
+    [
+      "m.0j0y7xb",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Mason Greyback",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "m.0j0y90p",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "MBSF - Private Jets",
+      "organization.organization.locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.05l35v5"
+    ],
+    [
+      "Flatiron Building",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "What Happened to Anna K.",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Washington Heights",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063sbh8"
+    ],
+    [
+      "New York City",
+      "symbols.namesake.named_after",
+      "James II of England"
+    ],
+    [
+      "m.0650mf9",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "SEO Services New York",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Statue of Liberty National Monument",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "City Hall",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.0kb7rn1",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04j7jc7"
+    ],
+    [
+      "m.0ggl2kk",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Transportation"
+    ],
+    [
+      "Lush Life: A Novel",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "CommonBond",
+      "organization.organization.locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1ftz7p"
+    ],
+    [
+      "m.0kvhzd4",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.064jqf6",
+      "base.popstra.restaurant_choice.restaurant",
+      "New York City"
+    ],
+    [
+      "John Russell Pope",
+      "people.person.place_of_birth",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Empire State Building"
+    ],
+    [
+      "Broadway Theatre",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.051qt6s",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.hud_foreclosure_area.ofheo_price_change",
+      "m.07f62sj"
+    ],
+    [
+      "New York City",
+      "base.biblioness.bibs_location.state",
+      "New York"
+    ],
+    [
+      "m.051qt52",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Claire Bennet"
+    ],
+    [
+      "Teenage Mutant Ninja Turtles",
+      "fictional_universe.fictional_universe.locations",
+      "New York City"
+    ],
+    [
+      "Songs of My People",
+      "exhibitions.exhibition.subjects",
+      "New York City"
+    ],
+    [
+      "Chinatown",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Radical Homosexual Agenda",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "m.064sw_s",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Moneychangers"
+    ],
+    [
+      "Countdown of 10 Great Moments in 2010 Part 2 Beyonce and Jay-Z",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Generous Enemies: Patriots and Loyalists in Revolutionary New York",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1g8hdx"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Divided We Stand: A Biography of New York's World Trade Center"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Radical Homosexual Agenda"
+    ],
+    [
+      "Queens",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "American Security Shredding",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0x2x5q1"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Statue of Liberty"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Passing Through Eden: Photographs of Central Park"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Times Square"
+    ],
+    [
+      "New York City",
+      "location.hud_foreclosure_area.estimated_number_foreclosures",
+      "m.07f62rg"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt6h"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.universe",
+      "JoJo's Bizarre Adventure"
+    ],
+    [
+      "New York City",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Flags on Fifty-Seventh Street"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Design and Construction"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Sun and the Moon: The Remarkable True Account of Hoaxers, Showmen, Dueling Journalists, and Lunar Man-Bats in Nineteenth-Century New York"
+    ],
+    [
+      "New York City",
+      "base.popstra.business_location.customer",
+      "m.064_5kz"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Catholic Worker"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1fx917"
+    ],
+    [
+      "The New York Times",
+      "base.meedan.arabic_language_media_source.city",
+      "New York City"
+    ],
+    [
+      "Engage the Crowd NYC",
+      "common.topic.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The New York Blade"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Aquarian Weekly"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Finance"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "16 Handles Astoria"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Juvenile Justice"
+    ],
+    [
+      "Rockefeller Center",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Delancey School"
+    ],
+    [
+      "Central Park Zoo",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "The Bronx",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "m.0dkbj1x",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Environmental Protection"
+    ],
+    [
+      "New York City",
+      "location.hud_county_place.county",
+      "Staten Island"
+    ],
+    [
+      "m.052m20r",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Times Square Roulette: Remaking the City Icon"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Sid Hammerback"
+    ],
+    [
+      "JoJo's Bizarre Adventure",
+      "fictional_universe.fictional_universe.locations",
+      "New York City"
+    ],
+    [
+      "m.04z0jhw",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.063sbhx",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "Second-Hand NY",
+      "base.webvideo.internet_video_series.genre",
+      "New York City"
+    ],
+    [
+      "NYC Montage 3",
+      "common.image.appears_in_topic_gallery",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.events",
+      "Askelon follows Cime to the 20th Century"
+    ],
+    [
+      "Little Italy",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Gastropolis: Food and New York City",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Travefy"
+    ],
+    [
+      "m.011t8xg0",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "A.I.R. Gallery"
+    ],
+    [
+      "Daily Worker",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Morgen Freiheit",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnmg"
+    ],
+    [
+      "Office at Night",
+      "visual_art.artwork.art_subject",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SEO Services New York"
+    ],
+    [
+      "m.064btq4",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "m.0519ccc",
+      "travel.transportation.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City Police Department Auxiliary Police",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "Mac Taylor",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "East 34th Street Heliport",
+      "aviation.airport.serves",
+      "New York City"
+    ],
+    [
+      "m.0j0xdzs",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City Board of Elections",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.029837n"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5db"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnhs"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.03p9kc1"
+    ],
+    [
+      "Vaba Eesti Sõna",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.location.primarily_containedby",
+      "Area code 347"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.characters_that_have_lived_here",
+      "Cime"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "One Brick"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Metropolitan Board of Health"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "92nd Street Y"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.universe",
+      "Teenage Mutant Ninja Turtles"
+    ],
+    [
+      "New York City",
+      "common.topic.image",
+      "Montage NYC"
+    ],
+    [
+      "The Onion",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Shreve, Lamb & Harmon",
+      "organization.organization.geographic_scope",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064sw_s"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Paradise Travel"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Central Park in the Dark: More Mysteries of Urban Wildlife"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.052m20r"
+    ],
+    [
+      "New York City",
+      "base.militaryinfiction.location_represented_in_fiction.representations",
+      "Lemurian windows into any place or time"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Other Half: The Life of Jacob Riis and the World of Immigrant America"
+    ],
+    [
+      "New York City",
+      "religion.religious_leadership_jurisdiction.leader",
+      "m.010664km"
+    ],
+    [
+      "m.0123w_43",
+      "business.employment_tenure.company",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Friends, Writers, and Other Countrymen: A Memoir"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0z9wk8p"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Police Department"
+    ],
+    [
+      "The Soul of the Soulless City ('New York - an Abstraction')",
+      "visual_art.artwork.art_subject",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Wave Hill"
+    ],
+    [
+      "New York City",
+      "base.militaryinfiction.location_in_fiction.events",
+      "Wizard Wars"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11b7tm_xvm"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Japan Society of New York"
+    ],
+    [
+      "m.012hmg50",
+      "common.phone_number.service_location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "American Security Shredding"
+    ],
+    [
+      "m.0j0yjlp",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Songs of My People Art Exhibition Opens at Penn Center"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Daily News"
+    ],
+    [
+      "China Daily",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "m.064srzw",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "FusionArts Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "m.0j0z_jz",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "National Anti-Slavery Standard"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04hb2dx"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.065pb_1"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.works_set_here",
+      "City Hall"
+    ],
+    [
+      "New York",
+      "base.militaryinfiction.location_in_fiction.contains",
+      "New York City"
+    ],
+    [
+      "m.0py3lg_",
+      "base.schemastaging.phone_sandbox.service_location",
+      "New York City"
+    ],
+    [
+      "m.046csmy",
+      "location.adjoining_relationship.adjoins",
+      "New York City"
+    ],
+    [
+      "Washington Heights",
+      "location.neighborhood.neighborhood_of",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.agencies",
+      "New York City Department of Sanitation"
+    ],
+    [
+      "Wizard Wars",
+      "base.militaryinfiction.event_in_fiction.location",
+      "New York City"
+    ],
+    [
+      "Brooklyn Bridge",
+      "transportation.bridge.locale",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11x1gv8b_"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Bronx Beat"
+    ],
+    [
+      "New York City Department of Small Business Services",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "m.064sr1t",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "m.04j7j70",
+      "government.government_position_held.jurisdiction_of_office",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "End of 14th Street Crosstown Line"
+    ],
+    [
+      "Trial Heat",
+      "tv.tv_program.filming_locations",
+      "New York City"
+    ],
+    [
+      "New York City Department of Investigation",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "Sullivan & Galleshaw, LLP",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "World Voices Festival Celebrates Literary Diplomacy (part 1 of 2)",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.climate",
+      "m.051qt47"
+    ],
+    [
+      "The Cloisters",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "tv.tv_location.tv_episodes_filmed_here",
+      "Old MacDonald Had a Curve"
+    ],
+    [
+      "New York City",
+      "location.location.nearby_airports",
+      "Downtown Manhattan Heliport"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0whg4js"
+    ],
+    [
+      "Art Deco New York",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.hud_foreclosure_area.total_90_day_vacant_residential_addresses",
+      "m.07f62rx"
+    ],
+    [
+      "m.051qt66",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "International Center of Photography"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.03p9k9b"
+    ],
+    [
+      "New York City borough",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "New York City"
+    ],
+    [
+      "travefy.com",
+      "travel.guidebook.travel_destinations_covered",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Central Park Zoo"
+    ],
+    [
+      "Elements of Style",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Thirty-Three Swoons"
+    ],
+    [
+      "Claire Bennet",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "The Russian Debutante's Handbook",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "tv.tv_location.tv_shows_filmed_here",
+      "Trial Heat"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Andrew Carnegie Mansion"
+    ],
+    [
+      "New York International Fringe Festival",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "Times Square Roulette: Remaking the City Icon",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "Hearn Family Trust",
+      "base.arthist.int_zm_nyek.helynev",
+      "New York City"
+    ],
+    [
+      "m.070ztkj",
+      "base.popstra.arrest.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5g2"
+    ],
+    [
+      "m.0h_kc5k",
+      "location.mailing_address.citytown",
+      "New York City"
+    ],
+    [
+      "The New York Observer",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "g.11b674hm47"
+    ],
+    [
+      "Museum of Arts and Design",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Marymount Theatre School"
+    ],
+    [
+      "m.065pd3g",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "base.popstra.location.vacationers",
+      "m.064svkj"
+    ],
+    [
+      "Viceroy New York",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "common.topic.notable_for",
+      "g.1259wzgk3"
+    ],
+    [
+      "City Hall",
+      "film.film.featured_film_locations",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Chinatown"
+    ],
+    [
+      "Central Park",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Peking"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.0hlr5fw"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.universe",
+      "The Sacred Band of Stepsons universe"
+    ],
+    [
+      "m.051qt4j",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The City's End: Two Centuries of Fantasies, Fears, and Premonitions of New York's Destruction"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Il Progresso Italo-Americano"
+    ],
+    [
+      "New York City",
+      "location.statistical_region.population",
+      "m.064gnlk"
+    ],
+    [
+      "One Thousand New York Buildings",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "New York City Department of Citywide Administrative Services",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City Police Department School Safety Division",
+      "government.government_agency.jurisdiction",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Shreve, Lamb & Harmon"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "City Hall"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "The Future Once Happened Here: New York, D.C., L.A., and the Fate of America's Big Cities"
+    ],
+    [
+      "New York City",
+      "book.book_subject.works",
+      "Seemed Like a Good Idea at the Time: A Memoir"
+    ],
+    [
+      "Gavin Brown's Enterprise",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "Bruce Wayne",
+      "fictional_universe.fictional_character.places_lived",
+      "New York City"
+    ],
+    [
+      "m.063sbj4",
+      "base.petbreeds.dog_city_relationship.cities",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Darien Lake"
+    ],
+    [
+      "Statue of Liberty National Monument",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "rail.railway_terminus.railways_terminating_here",
+      "Silver Star"
+    ],
+    [
+      "Manhattan West Side Spirit",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Museum of Sex",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "City University of New York",
+      "location.location.containedby",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "fictional_universe.fictional_setting.setting_type",
+      "Lemuria"
+    ],
+    [
+      "m.064svkj",
+      "base.popstra.vacation_choice.location",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.05qvsrm"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Freedomland U.S.A."
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Modern Art"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tourist_attractions",
+      "New York International Fringe Festival"
+    ],
+    [
+      "Elite SEM",
+      "organization.organization.place_founded",
+      "New York City"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.how_to_get_here",
+      "m.0519cd5"
+    ],
+    [
+      "New York City",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "East Village Other"
+    ],
+    [
+      "The Treatment",
+      "book.written_work.subjects",
+      "New York City"
+    ],
+    [
+      "CCNY Beavers men's basketball",
+      "sports.sports_team.location",
+      "New York City"
+    ],
+    [
+      "m.0q1zvzj",
+      "base.schemastaging.phone_sandbox.service_location",
+      "New York City"
+    ],
+    [
+      "Golos Truda",
+      "book.newspaper.circulation_areas",
+      "New York City"
+    ],
+    [
+      "Spence School",
+      "freebase.valuenotation.is_reviewed",
+      "Date founded"
+    ],
+    [
+      "Tribune Media",
+      "freebase.valuenotation.is_reviewed",
+      "Date founded"
+    ],
+    [
+      "Date founded",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Date founded",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Government Agency",
+      "type.type.properties",
+      "Date founded"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Date founded"
+    ],
+    [
+      "Founders",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Founders",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "New York City Fire Department",
+      "freebase.valuenotation.has_value",
+      "Founders"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Founders"
+    ],
+    [
+      "Manhattan",
+      "location.us_county.county_seat",
+      "Manhattan"
+    ],
+    [
+      "Midtown Manhattan as seen from the GE Building.",
+      "common.image.appears_in_topic_gallery",
+      "Manhattan"
+    ],
+    [
+      "Spence School",
+      "organization.organization.geographic_scope",
+      "Manhattan"
+    ],
+    [
+      "Harlem",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "New York Press",
+      "book.newspaper.circulation_areas",
+      "Manhattan"
+    ],
+    [
+      "Midtown Manhattan",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "September 11 attacks",
+      "time.event.locations",
+      "Manhattan"
+    ],
+    [
+      "Lush Life: A Novel",
+      "book.written_work.subjects",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Manhattan",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Tempus Unbound"
+    ],
+    [
+      "Chrysler Building",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Manhattan"
+    ],
+    [
+      "Little Italy",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York Public Library Main Branch",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Washington Heights",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "Chinatown",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "Times Square",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Rockefeller Center",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "Bill de Blasio",
+      "people.person.place_of_birth",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "travel.travel_destination.tourist_attractions",
+      "Henry Clay Frick House"
+    ],
+    [
+      "Daily News",
+      "book.newspaper.circulation_areas",
+      "Manhattan"
+    ],
+    [
+      "Broadway",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "The Wall Street Journal",
+      "book.newspaper.circulation_areas",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Five Towns Jewish Times"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Chinatown"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Times Square"
+    ],
+    [
+      "Andrew Carnegie Mansion",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Chinatown",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "book.book_subject.works",
+      "Lush Life: A Novel"
+    ],
+    [
+      "Viceroy New York",
+      "common.topic.subject_of",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Broadway"
+    ],
+    [
+      "Central Park",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Wall Street Journal"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Harlem"
+    ],
+    [
+      "Manhattan",
+      "common.topic.subjects",
+      "Viceroy New York"
+    ],
+    [
+      "Henry Clay Frick House",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "common.topic.image",
+      "Midtown Manhattan as seen from the GE Building."
+    ],
+    [
+      "Viceroy New York",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "High Line",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Little Italy",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Midtown Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Washington Heights"
+    ],
+    [
+      "Manhattan",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Press"
+    ],
+    [
+      "St. Patrick's Cathedral",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Henry Clay Frick House",
+      "travel.tourist_attraction.near_travel_destination",
+      "Manhattan"
+    ],
+    [
+      "Madison Square Garden",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "New York Post",
+      "book.newspaper.circulation_areas",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Spence School"
+    ],
+    [
+      "Manhattan",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Tempus Unbound",
+      "fictional_universe.work_of_fiction.setting",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Daily News"
+    ],
+    [
+      "Harlem",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "John Lindsay",
+      "people.person.place_of_birth",
+      "Manhattan"
+    ],
+    [
+      "Rockefeller Center",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Little Italy"
+    ],
+    [
+      "Manhattan",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "New York City borough"
+    ],
+    [
+      "Manhattan",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The New York Times"
+    ],
+    [
+      "Manhattan",
+      "location.location.events",
+      "September 11 attacks"
+    ],
+    [
+      "Midtown Manhattan",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "Brooklyn Bridge",
+      "transportation.bridge.locale",
+      "Manhattan"
+    ],
+    [
+      "Broadway Theatre",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Brooklyn Bridge",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Manhattan",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "New York Post"
+    ],
+    [
+      "Manhattan",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Rockefeller Center"
+    ],
+    [
+      "Five Towns Jewish Times",
+      "book.newspaper.circulation_areas",
+      "Manhattan"
+    ],
+    [
+      "Mario Puzo",
+      "people.person.place_of_birth",
+      "Manhattan"
+    ],
+    [
+      "Ellis Island",
+      "location.location.containedby",
+      "Manhattan"
+    ],
+    [
+      "Theodore Roosevelt",
+      "people.person.place_of_birth",
+      "Manhattan"
+    ],
+    [
+      "Times Square",
+      "location.neighborhood.neighborhood_of",
+      "Manhattan"
+    ],
+    [
+      "The New York Times",
+      "book.newspaper.circulation_areas",
+      "Manhattan"
+    ],
+    [
+      "New York Public Library",
+      "library.public_library_system.branches",
+      "New York Public Library Main Branch"
+    ],
+    [
+      "New York Public Library Main Branch",
+      "library.public_library.library_system",
+      "New York Public Library"
+    ],
+    [
+      "New York Public Library",
+      "library.public_library_system.central_library",
+      "New York Public Library Main Branch"
+    ],
+    [
+      "Schomburg Center for Research in Black Culture",
+      "library.public_library.library_system",
+      "New York Public Library"
+    ],
+    [
+      "New York Public Library",
+      "library.public_library_system.branches",
+      "Schomburg Center for Research in Black Culture"
+    ],
+    [
+      "Building",
+      "type.type.properties",
+      "Floors"
+    ],
+    [
+      "Floors",
+      "rdf-schema#domain",
+      "Building"
+    ],
+    [
+      "Floors",
+      "type.property.schema",
+      "Building"
+    ],
+    [
+      "Gavin Brown's Enterprise",
+      "freebase.valuenotation.has_value",
+      "Floors"
+    ],
+    [
+      "Gavin Brown's Enterprise",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "International Center of Photography",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "American Museum of Natural History",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Urbis",
+      "architecture.building.building_function",
+      "Museum"
+    ],
+    [
+      "Japan Society of New York",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Frick Collection",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "freebase.equivalent_topic.equivalent_type",
+      "Museum"
+    ],
+    [
+      "Solomon R. Guggenheim Museum",
+      "architecture.building.building_function",
+      "Museum"
+    ],
+    [
+      "Museum of Modern Art Department of Film",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Urbis",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum of Sex",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "freebase.type_hints.included_types",
+      "Tourist attraction"
+    ],
+    [
+      "A.I.R. Gallery",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Chelsea Art Museum",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum of Arts and Design",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum of Modern Art",
+      "architecture.building.building_function",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "freebase.type_profile.equivalent_topic",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "freebase.type_profile.equivalent_topic",
+      "Art Gallery"
+    ],
+    [
+      "American Folk Art Museum",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "National Academy Museum and School",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum of Mathematics",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Metropolitan Museum of Art",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "The Cloisters",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Morgan Library & Museum",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "book.book_subject.works",
+      "Songs of My People Art Exhibition Opens at Penn Center"
+    ],
+    [
+      "FusionArts Museum",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Louis Armstrong House",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Songs of My People Art Exhibition Opens at Penn Center",
+      "book.written_work.subjects",
+      "Museum"
+    ],
+    [
+      "Museum",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Solomon R. Guggenheim Museum",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "American Museum of Natural History",
+      "architecture.building.building_function",
+      "Museum"
+    ],
+    [
+      "Franklin D. Roosevelt Presidential Library and Museum",
+      "common.topic.notable_types",
+      "Museum"
+    ],
+    [
+      "Gavin Brown's Enterprise",
+      "freebase.valuenotation.has_value",
+      "Architectural Style"
+    ],
+    [
+      "The Sacred Band of Stepsons universe",
+      "fictional_universe.fictional_universe.locations",
+      "Long Island"
+    ],
+    [
+      "Tempus Unbound",
+      "fictional_universe.work_of_fiction.setting",
+      "Long Island"
+    ],
+    [
+      "Long Island",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Tempus Unbound"
+    ],
+    [
+      "Long Island",
+      "location.location.adjoin_s",
+      "m.046cvpy"
+    ],
+    [
+      "Long Island",
+      "fictional_universe.fictional_setting.universe",
+      "Tempus Unbound"
+    ],
+    [
+      "Long Island",
+      "fictional_universe.fictional_setting.universe",
+      "The Sacred Band of Stepsons universe"
+    ],
+    [
+      "Long Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Long Island",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Five Towns Jewish Times"
+    ],
+    [
+      "Garden City",
+      "location.location.containedby",
+      "Long Island"
+    ],
+    [
+      "Five Towns Jewish Times",
+      "book.newspaper.circulation_areas",
+      "Long Island"
+    ],
+    [
+      "Long Island",
+      "location.location.contains",
+      "Garden City"
+    ],
+    [
+      "m.046cvpy",
+      "location.adjoining_relationship.adjoins",
+      "Long Island"
+    ],
+    [
+      "Long Island",
+      "fictional_universe.fictional_setting.works_set_here",
+      "The Great Gatsby"
+    ],
+    [
+      "Long Island",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Tempus Unbound",
+      "fictional_universe.fictional_universe.locations",
+      "Long Island"
+    ],
+    [
+      "The Great Gatsby",
+      "fictional_universe.work_of_fiction.setting",
+      "Long Island"
+    ],
+    [
+      "Place founded",
+      "type.property.schema",
+      "Organization"
+    ],
+    [
+      "Place founded",
+      "rdf-schema#domain",
+      "Organization"
+    ],
+    [
+      "Tribune Media",
+      "freebase.valuenotation.is_reviewed",
+      "Place founded"
+    ],
+    [
+      "Place founded",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Place founded",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Organization",
+      "type.type.properties",
+      "Place founded"
+    ],
+    [
+      "Gavin Brown's Enterprise",
+      "freebase.valuenotation.has_value",
+      "Architect"
+    ],
+    [
+      "Nonprofit organization",
+      "freebase.type_profile.equivalent_topic",
+      "Non-profit organization"
+    ],
+    [
+      "Nonprofit organization",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "One Brick",
+      "common.topic.notable_types",
+      "Nonprofit organization"
+    ],
+    [
+      "Nonprofit organization",
+      "type.type.properties",
+      "Registered with"
+    ],
+    [
+      "Nonprofit organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Nonprofit organization",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "Nonprofit organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "New York City Audubon",
+      "common.topic.notable_types",
+      "Nonprofit organization"
+    ],
+    [
+      "Non-profit organization",
+      "freebase.equivalent_topic.equivalent_type",
+      "Nonprofit organization"
+    ],
+    [
+      "Buffalo",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Buffalo",
+      "location.hud_county_place.place",
+      "Buffalo"
+    ],
+    [
+      "Buffalo",
+      "base.ndbcd.buoy.region",
+      "New York"
+    ],
+    [
+      "Buffalo",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Buffalo",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Buffalo",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Buffalo",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Buffalo",
+      "base.biblioness.bibs_location.state",
+      "New York"
+    ],
+    [
+      "Rochester",
+      "location.hud_county_place.place",
+      "Rochester"
+    ],
+    [
+      "Rochester",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Rochester",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Rochester",
+      "base.biblioness.bibs_location.state",
+      "New York"
+    ],
+    [
+      "Rochester",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Rochester",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Rochester",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York City Department of Records and Information Services",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Finance",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Juvenile Justice",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Correction",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "Government Agency",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "New York City Department of City Planning",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Police Department Auxiliary Police",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Health and Mental Hygiene",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Homeless Services",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Information Technology and Telecommunications",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Buildings",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Law Department",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Police Department School Safety Division",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "Government Agency",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "Government Agency",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "New York City Department of Probation",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Youth and Community Development",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Design and Construction",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Parks and Recreation",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Small Business Services",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "United States Department of Housing and Urban Development",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Investigation",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Consumer Affairs",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "Port Authority of New York and New Jersey Police Department",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Police Department",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "U.S. National Park Service",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Citywide Administrative Services",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "Government Agency",
+      "freebase.type_profile.equivalent_topic",
+      "Government agency"
+    ],
+    [
+      "New York City Metropolitan Board of Health",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Department of Social Services",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "Government Agency",
+      "freebase.type_profile.strict_included_types",
+      "Organization"
+    ],
+    [
+      "New York City Department of Cultural Affairs",
+      "common.topic.notable_types",
+      "Government Agency"
+    ],
+    [
+      "New York City Law Department",
+      "organization.organization.organization_type",
+      "Government agency"
+    ],
+    [
+      "Court",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Court",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Andrew Carnegie Mansion",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "symbols.namesake.named_after",
+      "James II of England"
+    ],
+    [
+      "Madison Square Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Brooklyn Bridge",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Area codes 718, 347 and 929",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j0y90p",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Madison Square Garden",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Chinatown",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "m.012hmg4p",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Chrysler Building",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Rockefeller Center"
+    ],
+    [
+      "Tempus Unbound",
+      "fictional_universe.work_of_fiction.setting",
+      "New York"
+    ],
+    [
+      "Central Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Garden City",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Brooklyn Botanic Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Freedomland U.S.A.",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j2l984",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Peking",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Central Park"
+    ],
+    [
+      "m.0j1_mhs",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Brooklyn Botanic Garden"
+    ],
+    [
+      "m.0h_kby2",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Catholic Worker"
+    ],
+    [
+      "John F. Kennedy International Airport",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "American Museum of Natural History",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.04yz5ld",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "SEO Services New York",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SEO Services New York"
+    ],
+    [
+      "The Cloisters",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "College Point",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "George Templeton Strong",
+      "people.person.place_of_birth",
+      "New York"
+    ],
+    [
+      "m.011t8xg0",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Nassau County",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0pd33m4",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.04z0jhw",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Empire State Building",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Shleppers Moving & Storage",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "Solomon R. Guggenheim Museum",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Area codes 212 and 646",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0h_jlwj",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "book.book_subject.musical_compositions_about_this_topic",
+      "New York, New York (So Good They Named It Twice)"
+    ],
+    [
+      "Little Italy",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Flatiron Building"
+    ],
+    [
+      "Rockefeller Center",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0h_kc5k",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "St. Patrick's Cathedral",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "National Guardian",
+      "book.newspaper.circulation_areas",
+      "New York"
+    ],
+    [
+      "m.0j0_fk2",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "10021",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Area code 347",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Schomburg Center for Research in Black Culture",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0h_gswk",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.0j0yyw_",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "High Line"
+    ],
+    [
+      "Statue of Liberty",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "East 34th Street Heliport",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Ulster Park",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j1sr6_",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Museum of Modern Art",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Area code 646",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Wave Hill",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Frick Collection",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Garden City",
+      "base.biblioness.bibs_location.state",
+      "New York"
+    ],
+    [
+      "Imagination Playground at Burling Slip",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "American Museum of Natural History",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.nearby_airports",
+      "New York Skyports Inc. Seaplane Base"
+    ],
+    [
+      "St. Patrick's Cathedral",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.04lqc_w",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Metropolitan Museum of Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "American Museum of Natural History"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Flatiron Building",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j0g28b",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "National Guardian"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Little Italy"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Grand Central Terminal"
+    ],
+    [
+      "Frick Collection",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0kvhzd4",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Madison Square Garden"
+    ],
+    [
+      "Chinatown",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York Skyports Inc. Seaplane Base",
+      "aviation.airport.serves",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Brooklyn Bridge"
+    ],
+    [
+      "Museum of Modern Art",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "New York",
+      "business.business_location.parent_company",
+      "MBSF - Private Jets"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "New York"
+    ],
+    [
+      "m.0j0xdzs",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Dutchess County",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "City University of New York",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j0y7xb",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "International Center of Photography",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Harlem",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Ellis Island",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Statue of Liberty National Monument",
+      "base.usnationalparks.us_national_park.state",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Solomon R. Guggenheim Museum"
+    ],
+    [
+      "High Line",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Woolworth Building"
+    ],
+    [
+      "Grand Central Terminal",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Rockefeller Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Statue of Liberty National Monument"
+    ],
+    [
+      "Solomon R. Guggenheim Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Theodore Roosevelt Birthplace National Historic Site",
+      "base.usnationalparks.us_national_park.state",
+      "New York"
+    ],
+    [
+      "Statue of Liberty National Monument",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "m.06zwpyz",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Area code 917",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Chinatown"
+    ],
+    [
+      "MBSF - Private Jets",
+      "organization.organization.locations",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "New York"
+    ],
+    [
+      "Daily Worker",
+      "book.newspaper.circulation_areas",
+      "New York"
+    ],
+    [
+      "Brooklyn",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.05hpj3c",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Darien Lake",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j1d1y1",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.0jh3fwc",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.time_zones",
+      "UTC−05:00"
+    ],
+    [
+      "m.0h_k2l9",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Brooklyn Botanic Garden",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Statue of Liberty",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "SEO Services New York",
+      "organization.organization.place_founded",
+      "New York"
+    ],
+    [
+      "James II of England",
+      "symbols.name_source.namesakes",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "St. Patrick's Cathedral"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "The Cloisters"
+    ],
+    [
+      "m.0j0xrfd",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Statue of Liberty National Monument",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j0cht8",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.0kb7rn1",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Catholic Worker",
+      "book.newspaper.circulation_areas",
+      "New York"
+    ],
+    [
+      "m.0gtzpgg",
+      "location.mailing_address.citytown",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Statue of Liberty"
+    ],
+    [
+      "m.0pqynwp",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Ellis Island",
+      "base.usnationalparks.us_national_park.state",
+      "New York"
+    ],
+    [
+      "m.04lqd7k",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "16 Handles Astoria"
+    ],
+    [
+      "m.0k2y38k",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "10019",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Daily Worker"
+    ],
+    [
+      "New York",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "New York",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Tempus Unbound"
+    ],
+    [
+      "Louis Armstrong House",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j5pqf9",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "East River",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Chrysler Building"
+    ],
+    [
+      "New York",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Shleppers Moving & Storage"
+    ],
+    [
+      "New York",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Metropolitan Museum of Art",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Times Square"
+    ],
+    [
+      "Little Italy",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Brooklyn",
+      "base.biblioness.bibs_location.state",
+      "New York"
+    ],
+    [
+      "New York",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Ellis Island",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "The Bronx",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Empire State Building"
+    ],
+    [
+      "Staten Island",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Woolworth Building",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "16 Handles Astoria",
+      "organization.organization.place_founded",
+      "New York"
+    ],
+    [
+      "Viceroy New York",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.04yxx8v",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.0j0yjlp",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.0j0z5vh",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.0_syrtk",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Morgan Library & Museum",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Vaba Eesti Sõna"
+    ],
+    [
+      "Bayside",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Chrysler Building",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "New York"
+    ],
+    [
+      "Flatiron Building",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Frick Collection"
+    ],
+    [
+      "High Line",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York, New York (So Good They Named It Twice)",
+      "music.composition.subjects",
+      "New York"
+    ],
+    [
+      "Crocheron Park",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0j0x6h7",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Empire State Building",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Central Park",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "m.0h_hy6q",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Metropolitan Museum of Art"
+    ],
+    [
+      "Times Square",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "American Academy of Dramatic Arts",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Queens",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Grand Central Terminal",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Woolworth Building",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Brooklyn Bridge",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "16 Handles Astoria",
+      "organization.organization.geographic_scope",
+      "New York"
+    ],
+    [
+      "m.0h_flk2",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.064d17q",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "m.0j0z_jz",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Theodore Roosevelt Birthplace National Historic Site",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "Times Square",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Ellis Island"
+    ],
+    [
+      "New York",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Modern Art"
+    ],
+    [
+      "Fire Fighter",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "The Cloisters",
+      "travel.tourist_attraction.near_travel_destination",
+      "New York"
+    ],
+    [
+      "Vaba Eesti Sõna",
+      "book.newspaper.circulation_areas",
+      "New York"
+    ],
+    [
+      "m.064btq4",
+      "location.mailing_address.state_province_region",
+      "New York"
+    ],
+    [
+      "Freie Arbeiter Stimme",
+      "book.newspaper.circulation_areas",
+      "New York"
+    ],
+    [
+      "MBSF - Private Jets",
+      "location.location.containedby",
+      "New York"
+    ],
+    [
+      "New York",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Freie Arbeiter Stimme"
+    ],
+    [
+      "m.0gtzjzl",
+      "location.mailing_address.citytown",
+      "New York"
+    ],
+    [
+      "m.0gt_s64",
+      "location.mailing_address.citytown",
+      "New York"
+    ]
+  ]
+}

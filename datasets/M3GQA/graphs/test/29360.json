@@ -1,0 +1,4090 @@
+{
+  "graph_id": 29360,
+  "subgraph": [
+    [
+      "Feline infectious anemia",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline infectious anemia"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Savannah cat"
+    ],
+    [
+      "Savannah cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Savannah cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Savannah cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Savannah cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Savannah cat"
+    ],
+    [
+      "Savannah cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Savannah cat"
+    ],
+    [
+      "Savannah cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Went Underground",
+      "book.written_work.next_in_series",
+      "The Cat Who Talked to Ghosts"
+    ],
+    [
+      "The Cat Who Went Underground",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Went Underground"
+    ],
+    [
+      "The Cat Who Went Underground",
+      "book.written_work.previous_in_series",
+      "The Cat Who Sniffed Glue"
+    ],
+    [
+      "The Cat Who Talked to Ghosts",
+      "book.written_work.previous_in_series",
+      "The Cat Who Went Underground"
+    ],
+    [
+      "The Cat Who Sniffed Glue",
+      "book.written_work.next_in_series",
+      "The Cat Who Went Underground"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Turkish Van"
+    ],
+    [
+      "Persian cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Kurilian Bobtail"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Minskin"
+    ],
+    [
+      "Cymric cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Exotic Shorthair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Abyssinian cat"
+    ],
+    [
+      "Snowshoe cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "If a fish is the movement of water embodied, given shape, then cat is a diagram and pattern of subtle air."
+    ],
+    [
+      "Cheetoh",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Aegean cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09ygqpn"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Somali cat"
+    ],
+    [
+      "Cat",
+      "common.topic.notable_for",
+      "g.125b7l4pz"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "I said something which gave you to think I hated cats. But gad, sir, I am one of the most fanatical cat lovers in the business. If you hate them, I may learn to hate you. If your allergies hate them, I will tolerate the situation to the best of my ability."
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Havana Brown"
+    ],
+    [
+      "Birman",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Oriental Longhair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "m.09yy824",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "m.09yr24k",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Cornish Rex"
+    ],
+    [
+      "Periodontal Disease in Animals",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Peterbald"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Javanese cat"
+    ],
+    [
+      "Cat",
+      "common.topic.article",
+      "m.01ys6"
+    ],
+    [
+      "Of all God's creatures there is only one that cannot be made the slave of the lash. That one is the cat. If man could be crossed with a cat it would improve man, but it would deteriorate the cat.",
+      "media_common.quotation.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Pancreatitis in cats and dogs"
+    ],
+    [
+      "Thai cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Chausie",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Serengeti cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.rank",
+      "Species"
+    ],
+    [
+      "The Cat Who Saw Red",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "German Rex",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Colorpoint Shorthair"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Abyssinian cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Balinese cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Persian cat"
+    ],
+    [
+      "Tonkinese cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Devon Rex",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Tabby cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Diabetes in cats"
+    ],
+    [
+      "The Cat Who Went into the Closet",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "m.09yb5hd",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "British Longhair"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Ukrainian Levkoy"
+    ],
+    [
+      "LaPerm",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "European Shorthair"
+    ],
+    [
+      "Munchkin cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "m.09yj9x2",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yr24k"
+    ],
+    [
+      "Egyptian Mau",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Toxoplasmosis",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Asian cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Napoleon Cat"
+    ],
+    [
+      "Thai cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Wasn't There",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Feline infectious peritonitis",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "California Spangled",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Siberian cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "Le 10 Regole per Vivere Felici con un Gatto"
+    ],
+    [
+      "Ussuri",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Turkish Van",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Persian pussy from over the sea demure and lazy and smug and fat none of your ribbons and bells for me ours is the zest of the alley cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Birman"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline calicivirus infection"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Exotic Longhair"
+    ],
+    [
+      "Cat",
+      "common.topic.subject_of",
+      "A Cat's Tale"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Ragamuffin cat"
+    ],
+    [
+      "American Curl",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Ocicat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Scottish Fold"
+    ],
+    [
+      "Ragdoll",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "On Cats"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Cytauxzoonosis"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline hepatic lipidosis"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09wvykz"
+    ],
+    [
+      "European Shorthair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Munchkin Shorthair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "American Bobtail"
+    ],
+    [
+      "Aegean cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Oriental Shorthair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Sniffed Glue"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Robbed a Bank"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Chantilly-Tiffany"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Sphynx cat"
+    ],
+    [
+      "Minskin",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Siamese cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Asian Semi-longhair"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Norwegian Forest cat"
+    ],
+    [
+      "Tonkinese cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Skookum cat"
+    ],
+    [
+      "York Chocolate",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Went Bananas"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "British Semi-longhair"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Shorthair Curl"
+    ],
+    [
+      "British Semi-longhair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "m.0b470j9",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Somali cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Oriental Shorthair"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Aegean cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Lykoi"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Oriental Longhair"
+    ],
+    [
+      "Cat",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "The Warriors Universe"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Chartreux"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline intestinal lymphoma"
+    ],
+    [
+      "Javanese cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Burmese cat"
+    ],
+    [
+      "Corneal ulcers in animals",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "m.09yw429",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Ojos Azules",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Pixie-bob"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "Katie Loves the Kittens"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Smelled a Rat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "Dr. Pitcairn's Complete Guide to Natural Health for Dogs and Cats"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Egyptian Mau"
+    ],
+    [
+      "Donskoy cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Scottish Fold",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Had 14 Tales"
+    ],
+    [
+      "Korat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Japanese Bobtail",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "m.09xkxpt",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Abyssinian cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Napoleon Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Went up the Creek"
+    ],
+    [
+      "Bengal cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Polydactyl cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline infectious peritonitis"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Burmilla"
+    ],
+    [
+      "Singapura cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "British Shorthair"
+    ],
+    [
+      "Asian cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Went Bananas",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Sokoke",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "The Cat Who Moved a Mountain",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "m.09y4dn9",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yb5hd"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Cymric cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Chausie"
+    ],
+    [
+      "British Shorthair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Oriental Shorthair"
+    ],
+    [
+      "American Shorthair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.image",
+      "Tesla the cat 2"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline leukemia virus infection"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Maine Coon"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09wjfy9"
+    ],
+    [
+      "m.09w7r_w",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09wvn4h"
+    ],
+    [
+      "Minskin",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Domestic long-haired cat"
+    ],
+    [
+      "Maine Coon",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "American Curl"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline inflammatory bowel disease"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Ate Danish Modern"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Thai cat"
+    ],
+    [
+      "Exotic Longhair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.tail_length",
+      "m.0xn86cy"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.gestation_period",
+      "m.0xn8cb8"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Sokoke"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline chronic renal failure"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "American Shorthair"
+    ],
+    [
+      "Korat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Feline leukemia virus infection",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Javanese cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Arabian Mau"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Norwegian Forest cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Munchkin Shorthair"
+    ],
+    [
+      "Siberian cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cornish Rex",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Feral cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Dragon Li"
+    ],
+    [
+      "Toyger",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Perfect Nest"
+    ],
+    [
+      "Cat",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "A Dog and a Cat near a Partially Disembowelled Deer"
+    ],
+    [
+      "Kurilian Bobtail",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Played Brahms",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Talked to Ghosts"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Arabian Mau"
+    ],
+    [
+      "Siamese cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Talked Turkey"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Saw Red"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Japanese Bobtail"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Ocicat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Japanese Bobtail Longhair"
+    ],
+    [
+      "Ocicat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Oriental Longhair"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Russian Blue"
+    ],
+    [
+      "Cat",
+      "common.topic.article",
+      "m.0pdcyrm"
+    ],
+    [
+      "Shorthair Curl",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Cheetoh"
+    ],
+    [
+      "Scottish Fold",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "European Burmese",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Feline calicivirus infection",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Singapura cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "I wish I could write as mysterious as a cat.",
+      "media_common.quotation.subjects",
+      "Cat"
+    ],
+    [
+      "Selkirk Rex",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Dragon Li"
+    ],
+    [
+      "Norwegian Forest cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "California Spangled"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09y9n6s"
+    ],
+    [
+      "Peterbald",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Bengal cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Manx cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Selkirk Rex"
+    ],
+    [
+      "m.09wv9sj",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Casper the Commuting Cat",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Oregon Rex"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Nebelung"
+    ],
+    [
+      "Cat",
+      "base.skosbase.vocabulary_equivalent_topic.narrower_concept",
+      "Cat breeds"
+    ],
+    [
+      "Abyssinian cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Cornish Rex"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Corneal ulcers in animals"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yhrfz"
+    ],
+    [
+      "Nebelung",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "European Shorthair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline lower urinary tract disease"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Tonkinese cat"
+    ],
+    [
+      "Cornish Rex",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Munchkin Longhair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Talked to Ghosts",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "American Wirehair"
+    ],
+    [
+      "Obesity in animals",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yw429"
+    ],
+    [
+      "Himalayan cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09xkxpt"
+    ],
+    [
+      "Cat",
+      "common.topic.article",
+      "m.0gytl7j"
+    ],
+    [
+      "Exotic Shorthair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Diabetes in cats",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "American Shorthair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Munchkin Shorthair"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Nebelung"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Japanese Bobtail"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Ruffle"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Javanese cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "LaPerm"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yfbmt"
+    ],
+    [
+      "Exotic Longhair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Persian cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Cyprus cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "York Chocolate"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Ojos Azules"
+    ],
+    [
+      "Serengeti cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Siberian cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Saw Stars"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline hypertrophic cardiomyopathy"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Said Cheese"
+    ],
+    [
+      "Nebelung",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "m.09wvn4h",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Chartreux",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.subject_of",
+      "TatoChip.com"
+    ],
+    [
+      "Cat",
+      "common.topic.notable_types",
+      "Domesticated animal"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Asian Semi-longhair"
+    ],
+    [
+      "Devon Rex",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Asian cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Devon Rex"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "Casper the Commuting Cat"
+    ],
+    [
+      "California Spangled",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "European Burmese"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Knew Shakespeare"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Serengeti cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Havana Brown"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Sphynx cat"
+    ],
+    [
+      "Cat",
+      "book.periodical_subject.periodicals",
+      "Cats and Kittens"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Australian Mist"
+    ],
+    [
+      "Japanese Bobtail Longhair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Bengal cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Burmilla",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Chantilly-Tiffany"
+    ],
+    [
+      "The Cat Who Ate Danish Modern",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yy824"
+    ],
+    [
+      "The Cat Who Smelled a Rat",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Eosinophilic granuloma"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Peterbald"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Leptospirosis"
+    ],
+    [
+      "Burmese cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "American Wirehair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "m.09w3ns0",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "Impacts of Feral and Free-Roaming Cats on Bird Species of Conservation Concern"
+    ],
+    [
+      "Pancreatitis in cats and dogs",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline asthma"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Had 60 Whiskers"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline acne"
+    ],
+    [
+      "Donskoy cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Himalayan cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "American Bobtail"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Exotic Longhair"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Siamese cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Somali cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Australian Mist"
+    ],
+    [
+      "The Cat Who Went up the Creek",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Snowshoe cat"
+    ],
+    [
+      "m.09yhrfz",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Selkirk Rex"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "German Rex"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Asian cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Blew the Whistle"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Brazilian Shorthair"
+    ],
+    [
+      "Feline hyperthyroidism",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cytauxzoonosis",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Snowshoe cat"
+    ],
+    [
+      "m.09ytprg",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "The Tortall Universe",
+      "fictional_universe.fictional_universe.species",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Went into the Closet"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Donskoy cat"
+    ],
+    [
+      "Ukrainian Levkoy",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Ragdoll"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Domestic short-haired cat"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.mass",
+      "m.0xn8zgt"
+    ],
+    [
+      "Turkish Angora",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Ragamuffin cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Van cat"
+    ],
+    [
+      "Shorthair Curl",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Dr. Pitcairn's Complete Guide to Natural Health for Dogs and Cats",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Oriental Shorthair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Ussuri",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Persian cat"
+    ],
+    [
+      "Hyperadrenocorticism in Animals",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Cat flu"
+    ],
+    [
+      "Maine Coon",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Cyprus cat"
+    ],
+    [
+      "Japanese Bobtail Longhair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Born Without a Tail",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Of all God's creatures there is only one that cannot be made the slave of the lash. That one is the cat. If man could be crossed with a cat it would improve man, but it would deteriorate the cat."
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Oriental Bicolour"
+    ],
+    [
+      "Cat",
+      "common.topic.image",
+      "Collage of Six Cats-01"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.litter_size",
+      "m.0xn8ctm"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09y14tg"
+    ],
+    [
+      "Somali cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Australian Mist",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Burmilla"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Aegean cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Munchkin Longhair"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Tonkinese cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Dwarf cat"
+    ],
+    [
+      "Bombay cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Robbed a Bank",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Knew a Cardinal"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "American Shorthair"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Turkish Van"
+    ],
+    [
+      "Snowshoe cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Ragdoll",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Exotic Shorthair"
+    ],
+    [
+      "Havana Brown",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09xzn1w"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "American Curl"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Dropped a Bombshell"
+    ],
+    [
+      "m.09xfx1t",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline hyperthyroidism"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Munchkin Longhair"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.territory_extent",
+      "m.0xn8qwn"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline panleukopenia"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Bombay cat"
+    ],
+    [
+      "York Chocolate",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "m.09y9n6s",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Russian Blue"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Allergic Dermatitis in animals"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09y4dn9"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Scottish Fold"
+    ],
+    [
+      "British Shorthair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Sokoke"
+    ],
+    [
+      "The Cat Who Came to Breakfast",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Cats"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Chartreux"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat in the Hat"
+    ],
+    [
+      "The Perfect Nest",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat flu",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.higher_classification",
+      "Felis"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "California Spangled"
+    ],
+    [
+      "American Wirehair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09wylz_"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Cymric cat"
+    ],
+    [
+      "Sphynx cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.0b470j9"
+    ],
+    [
+      "Egyptian Mau",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Colorpoint Shorthair"
+    ],
+    [
+      "Russian Blue",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Allergic Dermatitis in animals",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Shorthair Curl"
+    ],
+    [
+      "Asian Semi-longhair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "fictional_universe.character_species.found_in_fictional_universe",
+      "The Tortall Universe"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "European Burmese"
+    ],
+    [
+      "Bombay cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "British Longhair"
+    ],
+    [
+      "The Cat Who Dropped a Bombshell",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09w7r_w"
+    ],
+    [
+      "Ocicat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline tapeworm infection"
+    ],
+    [
+      "Kurilian Bobtail",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Authors like cats because they are such quiet, lovable, wise creatures, and cats like authors for the same reasons."
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Rabies"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Brazilian Shorthair"
+    ],
+    [
+      "m.09ycbh0",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "A Dog and a Cat near a Partially Disembowelled Deer",
+      "visual_art.artwork.art_subject",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Bombay cat"
+    ],
+    [
+      "Cat",
+      "base.skosbase.vocabulary_equivalent_topic.broader_concept",
+      "Domestic animals"
+    ],
+    [
+      "American Bobtail",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "British Semi-longhair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Toyger"
+    ],
+    [
+      "Pixie-bob",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Sang for the Birds",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Feral cat"
+    ],
+    [
+      "Siamese cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09ytprg"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Cats are autocrats of naked self-interest. They are both amoral and immoral, consciously breaking rules. Their evil look at such times is no human projection: the cat may be the only animal who savors the perverse or reflects upon it."
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Came to Breakfast"
+    ],
+    [
+      "Ragamuffin cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "The Cat Who Had 14 Tales",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "The Cat Who Had 60 Whiskers",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "TatoChip.com",
+      "common.topic.subjects",
+      "Cat"
+    ],
+    [
+      "Balinese cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Ukrainian Levkoy",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Turkish Angora",
+      "biology.organism.organism_type",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Balinese cat"
+    ],
+    [
+      "Mew",
+      "base.pokemon.pok_mon.based_on",
+      "Cat"
+    ],
+    [
+      "Siberian cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Kurilian Bobtail"
+    ],
+    [
+      "Chausie",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Australian Mist",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Oregon Rex"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09w3ns0"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Ussuri"
+    ],
+    [
+      "Feline chlamydiosis",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Burmilla",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09xfx1t"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.lifespan",
+      "m.0y5254w"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "One cat in a house is a sign of loneliness, two of barrenness, and three of sodomy."
+    ],
+    [
+      "Sphynx cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09ycbh0"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.lifespan",
+      "m.0xn9hw0"
+    ],
+    [
+      "Chartreux",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Himalayan cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Raas cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Hyperadrenocorticism in Animals"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Ragamuffin cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Periodontal Disease in Animals"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Moved a Mountain"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline odontoclastic resorptive lesion"
+    ],
+    [
+      "Japanese Bobtail",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "British Shorthair"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.body_length",
+      "m.0y4f6mz"
+    ],
+    [
+      "Turkish Van",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Wasn't There"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Ojos Azules"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yj9x2"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Obesity in animals"
+    ],
+    [
+      "Sokoke",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Feline chronic renal failure",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cymric cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Munchkin cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "York Chocolate"
+    ],
+    [
+      "Cat",
+      "base.pokemon.pokemon_basis.pok_mon_based_on_this",
+      "Mew"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Bambino cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Cat fight abscess"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Turkish Angora"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "I wish I could write as mysterious as a cat."
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Donskoy cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Singapura cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Singapura cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "American Wirehair"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Egyptian Mau"
+    ],
+    [
+      "Katie Loves the Kittens",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Serengeti cat"
+    ],
+    [
+      "m.09wylz_",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Leptospirosis",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Munchkin Shorthair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Brought Down the House"
+    ],
+    [
+      "Birman",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Norwegian Forest cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "m.09yfbmt",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Oriental Bicolour"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "British Semi-longhair"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Manx cat"
+    ],
+    [
+      "Cat",
+      "common.topic.image",
+      "Cat"
+    ],
+    [
+      "The Cat Who Saw Stars",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Maine Coon"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline Dermatophytosis"
+    ],
+    [
+      "The Cat in the Hat",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Dwarf cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "European Shorthair"
+    ],
+    [
+      "Asian Semi-longhair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "The Cat Who Sniffed Glue",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat fight abscess",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "German Rex",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Devon Rex"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09wv9sj"
+    ],
+    [
+      "Selkirk Rex",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Balinese cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Birman"
+    ],
+    [
+      "LaPerm",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Head Trauma in Animals",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cheetoh",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "The Cat Who Knew Shakespeare",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline immunodeficiency virus infection"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Chausie"
+    ],
+    [
+      "Himalayan cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "common.topic.webpage",
+      "m.09yhvnn"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Bambino cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Ragdoll"
+    ],
+    [
+      "m.09y14tg",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Munchkin Longhair",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Domestic animals",
+      "base.skosbase.skos_concept.narrower_topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline chlamydiosis"
+    ],
+    [
+      "Burmese cat",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Pixie-bob",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Rabies",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "European Burmese",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "The Cat Who Brought Down the House",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Toyger"
+    ],
+    [
+      "Toyger",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Feline viral rhinotracheitis"
+    ],
+    [
+      "Feline viral rhinotracheitis",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "The Cat Who Talked Turkey",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Exotic Shorthair"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Burmese cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Korat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Pixie-bob"
+    ],
+    [
+      "m.09wjfy9",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Toxoplasmosis"
+    ],
+    [
+      "The Cat Who Knew a Cardinal",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "m.09ygqpn",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "LaPerm"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Polydactyl cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Khao Manee"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "A Cat's Tale"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "Born Without a Tail"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Thai cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Played Brahms"
+    ],
+    [
+      "American Curl",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "The Cat Who Said Cheese",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Skookum cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "m.09wvykz",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Korat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Ukrainian Levkoy"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Bengal cat"
+    ],
+    [
+      "Feline hypertrophic cardiomyopathy",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.height",
+      "m.0xn9547"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "German Rex"
+    ],
+    [
+      "m.09yhvnn",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "The Cat Who Blew the Whistle",
+      "book.written_work.subjects",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "media_common.quotation_subject.quotations_about_this_subject",
+      "Your rat tail is all the fashion now. I prefer a bushy plume, carried straight up. You are Siamese and your ancestors lived in trees. Mine lived in palaces. It has been suggested to me that I am a bit of a snob. How true! I prefer to be."
+    ],
+    [
+      "Cat",
+      "base.animal_synopses.animal_synopsis.daily_sleep",
+      "m.0xn89p_"
+    ],
+    [
+      "m.09xzn1w",
+      "common.webpage.topic",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "base.pethealth.pet_with_medical_condition.diseases_and_other_conditions_of_this_pet",
+      "Head Trauma in Animals"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Munchkin cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Japanese Bobtail Longhair"
+    ],
+    [
+      "Munchkin cat",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Turkish Angora"
+    ],
+    [
+      "Oriental Longhair",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Cheetoh"
+    ],
+    [
+      "Feline panleukopenia",
+      "base.pethealth.pet_disease_or_medical_condition.pets_affected",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "book.book_subject.works",
+      "The Cat Who Sang for the Birds"
+    ],
+    [
+      "Cat",
+      "biology.domesticated_animal.breeds",
+      "Ruffle"
+    ],
+    [
+      "Havana Brown",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Ussuri"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Minskin"
+    ],
+    [
+      "Ojos Azules",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Turkish Angora",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Peterbald",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "American Bobtail",
+      "biology.animal_breed.breed_of",
+      "Cat"
+    ],
+    [
+      "Russian Blue",
+      "biology.organism_classification.higher_classification",
+      "Cat"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Khao Manee"
+    ],
+    [
+      "Cat",
+      "biology.organism_classification.lower_classifications",
+      "Tabby cat"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Japanese Bobtail Longhair"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Devon Rex"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "American Curl"
+    ],
+    [
+      "Norwegian Forest cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Snowshoe cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "British Shorthair",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Sphynx cat"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Russian Blue"
+    ],
+    [
+      "Kurilian Bobtail",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Cheetoh",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "European Burmese"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Tonkinese cat"
+    ],
+    [
+      "American Wirehair",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Peterbald",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "German Rex",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Abyssinian cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Sokoke",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Egyptian Mau",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Maine Coon",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Pixie-bob"
+    ],
+    [
+      "Sphynx cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Japanese Bobtail"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Chartreux"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Siamese cat"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Korat"
+    ],
+    [
+      "Korat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Asian Semi-longhair"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Somali cat"
+    ],
+    [
+      "Nebelung",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Russian Blue",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Siberian cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Burmese cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Nebelung"
+    ],
+    [
+      "Aegean cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Oriental Longhair"
+    ],
+    [
+      "American Bobtail",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Asian Semi-longhair",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Sokoke"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Turkish Angora"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Turkish Van"
+    ],
+    [
+      "California Spangled",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "common.topic.notable_for",
+      "g.1259hghbs"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "California Spangled"
+    ],
+    [
+      "Javanese cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Abyssinian cat"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Siberian cat"
+    ],
+    [
+      "Chartreux",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Havana Brown"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Aegean cat"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Himalayan cat"
+    ],
+    [
+      "Japanese Bobtail",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "common.topic.notable_types",
+      "Literature Subject"
+    ],
+    [
+      "European Burmese",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Tonkinese cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "American Bobtail"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "German Rex"
+    ],
+    [
+      "Donskoy cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Peterbald"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Burmese cat"
+    ],
+    [
+      "Oriental Longhair",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "American Wirehair"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Donskoy cat"
+    ],
+    [
+      "Somali cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "British Shorthair"
+    ],
+    [
+      "Chausie",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Devon Rex",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Turkish Angora",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "American Curl",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Pixie-bob",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Japanese Bobtail Longhair",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Snowshoe cat"
+    ],
+    [
+      "Siamese cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Kurilian Bobtail"
+    ],
+    [
+      "Himalayan cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Maine Coon"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Cymric cat"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Egyptian Mau"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Oriental Shorthair"
+    ],
+    [
+      "Turkish Van",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Oriental Shorthair",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Havana Brown",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Cheetoh"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Javanese cat"
+    ],
+    [
+      "Cymric cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Intelligent"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Chausie"
+    ],
+    [
+      "Intelligent",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Norwegian Forest cat"
+    ],
+    [
+      "Cornish Rex",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Japanese Bobtail",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Somali cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Sokoke",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Asian Semi-longhair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Toyger",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Japanese Bobtail Longhair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Ojos Azules",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Havana Brown",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Javanese cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Ukrainian Levkoy",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Biology",
+      "type.domain.types",
+      "Animal breed"
+    ],
+    [
+      "Tonkinese cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Himalayan cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.expected_by",
+      "Breeds"
+    ],
+    [
+      "Aegean cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Cretan Hound",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Temperament"
+    ],
+    [
+      "Turkish Van",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Balinese cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Chausie",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "British Semi-longhair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Maine Coon",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_hints.included_types",
+      "Animal"
+    ],
+    [
+      "American Wirehair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Registered with"
+    ],
+    [
+      "Cheetoh",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Hypoallergenic"
+    ],
+    [
+      "Chartreux",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "European Shorthair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Breed of"
+    ],
+    [
+      "Turkish Angora",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Peterbald",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Burmese cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Place of origin"
+    ],
+    [
+      "Abyssinian cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "American Shorthair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Norwegian Forest cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_profile.equivalent_topic",
+      "Breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.expected_by",
+      "Breed"
+    ],
+    [
+      "Cymric cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Color"
+    ],
+    [
+      "Munchkin Longhair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Shorthair Curl",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Examples"
+    ],
+    [
+      "American Bobtail",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.properties",
+      "Light shedder"
+    ],
+    [
+      "Egyptian Mau",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Selkirk Rex",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Place of origin",
+      "rdf-schema#domain",
+      "Animal breed"
+    ],
+    [
+      "Burmilla",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Singapura cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Munchkin cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_profile.strict_included_types",
+      "Animal"
+    ],
+    [
+      "Pixie-bob",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Snowshoe cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "common.topic.article",
+      "m.05c6g93"
+    ],
+    [
+      "Exotic Shorthair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "York Chocolate",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Russian Blue",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_profile.strict_included_types",
+      "Non-Agent"
+    ],
+    [
+      "Minskin",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Oriental Shorthair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "British Shorthair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "European Burmese",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "California Spangled",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.expected_by",
+      "Breeds orginating here"
+    ],
+    [
+      "Siamese cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "type.type.domain",
+      "Biology"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Siberian cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "American Curl",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Ocicat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Ussuri",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Hellenikos Ichnilatis",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Bombay cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Ragamuffin cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Exotic Longhair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Molossus",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Sphynx cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Animal breed",
+      "base.schemastaging.context_name.plural",
+      "m.0_vkk08"
+    ],
+    [
+      "Oriental Longhair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Asian cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "German Rex",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Birman",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Serengeti cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Kurilian Bobtail",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Korat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Nebelung",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Place of origin",
+      "type.property.schema",
+      "Animal breed"
+    ],
+    [
+      "Dalmatian",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Munchkin Shorthair",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Scottish Fold",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Australian Mist",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Breed",
+      "freebase.equivalent_topic.equivalent_type",
+      "Animal breed"
+    ],
+    [
+      "Skyros Pony",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "LaPerm",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Bengal cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Devon Rex",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Ragdoll",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Thai cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Persian cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Donskoy cat",
+      "common.topic.notable_types",
+      "Animal breed"
+    ],
+    [
+      "Korat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Serengeti cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Serengeti cat"
+    ],
+    [
+      "Japanese Bobtail Longhair",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Ukrainian Levkoy"
+    ],
+    [
+      "Turkish Angora",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Japanese Bobtail",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Devon Rex",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Egyptian Mau"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Devon Rex"
+    ],
+    [
+      "Egyptian Mau",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Birman",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "LaPerm",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Himalayan cat"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Japanese Bobtail"
+    ],
+    [
+      "Munchkin cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Ukrainian Levkoy",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "German Rex",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "common.topic.notable_for",
+      "g.125dd3l0t"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Japanese Bobtail Longhair"
+    ],
+    [
+      "Sokoke",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Korat"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Pixie-bob"
+    ],
+    [
+      "Russian Blue",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Aegean cat"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Kurilian Bobtail"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Turkish Angora"
+    ],
+    [
+      "Pixie-bob",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Singapura cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Donskoy cat"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Ojos Azules"
+    ],
+    [
+      "Himalayan cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Munchkin cat"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Birman"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Russian Blue"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Manx cat"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "LaPerm"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "German Rex"
+    ],
+    [
+      "Donskoy cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Singapura cat"
+    ],
+    [
+      "Aegean cat",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Active",
+      "base.petbreeds.cat_temperament.cat_breeds",
+      "Sokoke"
+    ],
+    [
+      "Active",
+      "common.topic.notable_types",
+      "Literature Subject"
+    ],
+    [
+      "Ojos Azules",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "Kurilian Bobtail",
+      "base.petbreeds.cat_breed.temperament",
+      "Active"
+    ],
+    [
+      "The Cat Who Sniffed Glue",
+      "book.written_work.previous_in_series",
+      "The Cat Who Knew Shakespeare"
+    ],
+    [
+      "The Cat Who Knew Shakespeare",
+      "book.written_work.next_in_series",
+      "The Cat Who Sniffed Glue"
+    ]
+  ]
+}

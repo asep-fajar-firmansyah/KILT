@@ -1,0 +1,2215 @@
+{
+  "graph_id": 2900,
+  "subgraph": [
+    [
+      "TelecomConsulting",
+      "organization.organization.locations",
+      "Moscow"
+    ],
+    [
+      "Saint Petersburg",
+      "business.business_location.parent_company",
+      "TelecomConsulting"
+    ],
+    [
+      "Moscow",
+      "business.business_location.parent_company",
+      "TelecomConsulting"
+    ],
+    [
+      "TelecomConsulting",
+      "common.topic.notable_types",
+      "Organization"
+    ],
+    [
+      "TelecomConsulting",
+      "organization.organization.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Russia",
+      "common.topic.subject_of",
+      "TelecomConsulting"
+    ],
+    [
+      "TelecomConsulting",
+      "organization.organization.geographic_scope",
+      "Russia"
+    ],
+    [
+      "TelecomConsulting",
+      "common.topic.subjects",
+      "Russia"
+    ],
+    [
+      "Saint Petersburg",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Novaya Zhizn"
+    ],
+    [
+      "Novaya Zhizn",
+      "book.newspaper.circulation_areas",
+      "Saint Petersburg"
+    ],
+    [
+      "Novaya Zhizn",
+      "book.newspaper.circulation_areas",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Novaya Zhizn"
+    ],
+    [
+      "Russia",
+      "sports.sports_team_location.teams",
+      "BC Dynamo Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "sports.sports_team_location.teams",
+      "BC Dynamo Saint Petersburg"
+    ],
+    [
+      "BC Dynamo Saint Petersburg",
+      "sports.sports_team.location",
+      "Russia"
+    ],
+    [
+      "BC Dynamo Saint Petersburg",
+      "sports.sports_team.location",
+      "Saint Petersburg"
+    ],
+    [
+      "Moscow",
+      "location.location.containedby",
+      "Soviet Union"
+    ],
+    [
+      "1980 Summer Olympics",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "Aleksandr Solzhenitsyn",
+      "people.deceased_person.place_of_death",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Pravda"
+    ],
+    [
+      "Moscow",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Russian federal city"
+    ],
+    [
+      "Nikita Mikhalkov",
+      "people.person.place_of_birth",
+      "Moscow"
+    ],
+    [
+      "Golos Truda",
+      "book.newspaper.circulation_areas",
+      "Moscow"
+    ],
+    [
+      "2011 Festival of German Films in Russia",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "Pravda",
+      "book.newspaper.circulation_areas",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "common.topic.notable_types",
+      "Russian federal city"
+    ],
+    [
+      "Russia",
+      "location.country.administrative_divisions",
+      "Moscow"
+    ],
+    [
+      "2012–13 Euro Hockey Tour",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "base.biblioness.bibs_topic.subsumes",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Moscow",
+      "location.administrative_division.country",
+      "Russia"
+    ],
+    [
+      "Moscow",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.country.capital",
+      "Moscow"
+    ],
+    [
+      "Soviet Union",
+      "location.country.capital",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "base.biblioness.bibs_topic.is_really",
+      "Moscow"
+    ],
+    [
+      "2013 American Film Festival",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "m.03lskbr",
+      "location.mailing_address.citytown",
+      "Moscow"
+    ],
+    [
+      "2002 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "1980 Summer Olympics",
+      "olympics.olympic_games.host_city",
+      "Moscow"
+    ],
+    [
+      "Anna Politkovskaya",
+      "people.deceased_person.place_of_death",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "olympics.olympic_host_city.olympics_hosted",
+      "1980 Summer Olympics"
+    ],
+    [
+      "2011 American Film Festival",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "2012 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "Saint Basil's Cathedral",
+      "travel.tourist_attraction.near_travel_destination",
+      "Moscow"
+    ],
+    [
+      "2010 American Film Festival",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "2013 International Film Festival Message to Man",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "travel.travel_destination.tourist_attractions",
+      "Saint Basil's Cathedral"
+    ],
+    [
+      "1991 Soviet coup d'état attempt",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "Ivan Ilyin",
+      "people.person.place_of_birth",
+      "Moscow"
+    ],
+    [
+      "Soviet Union",
+      "location.location.contains",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Golos Truda"
+    ],
+    [
+      "2008 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "Moscow",
+      "base.biblioness.bibs_location.country",
+      "Russia"
+    ],
+    [
+      "2000 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Moscow"
+    ],
+    [
+      "m.02h91rn",
+      "protected_sites.natural_or_cultural_site_listing.listed_site",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.how_to_get_here",
+      "m.051fn77"
+    ],
+    [
+      "Saint Petersburg",
+      "sports.sports_team_location.teams",
+      "FC Zenit Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2011 Festival of German Films in Russia"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2010 International Side by Side LGBT Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "g.120v_003"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Operation Iskra"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Peter and Paul Cathedral"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2004 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.1jmcbgvv0"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2000 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2013 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "m.052lfyt",
+      "location.adjoining_relationship.adjoins",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.webpage",
+      "m.04j731n"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Saint Petersburg State University",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "Kazan Cathedral in Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.containedby",
+      "Northwestern Federal District"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Battle of Krasny Bor"
+    ],
+    [
+      "Peter and Paul Fortress",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Peterhof Palace",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Operation Polyarnaya Zvezda",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2008 KROK International Animated Film Festival"
+    ],
+    [
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "Burying the sun"
+    ],
+    [
+      "Saint Petersburg",
+      "symbols.namesake.named_after",
+      "Saint Peter"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2006 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "base.biblioness.bibs_location.country",
+      "Russia"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2009 Museek Music Video Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Leningrad Zoo"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.notable_types",
+      "Russian federal city"
+    ],
+    [
+      "Leningrad Zoo",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2007 International Film Festival Message to Man"
+    ],
+    [
+      "2011 American Film Festival",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "2013 American Film Festival",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "St Nicolas Cathedral in Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "organization.organization_scope.organizations_with_this_scope",
+      "GU SRZ Vera"
+    ],
+    [
+      "Vladimir Putin",
+      "people.person.place_of_birth",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "rail.railway_terminus.railways_terminating_here",
+      "Trans-Siberian Railway"
+    ],
+    [
+      "Saint Petersburg",
+      "award.award_winner.awards_won",
+      "m.0b6zdcq"
+    ],
+    [
+      "Saint Isaac's Cathedral",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "Saint Isaac Cathedral in Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Bridges in Saint Petersburg"
+    ],
+    [
+      "Church of the Savior on Blood",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "The Death of Ivan Ilyich"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.adjoin_s",
+      "m.052lfyt"
+    ],
+    [
+      "m.0p88_2q",
+      "government.government_position_held.jurisdiction_of_office",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.article",
+      "m.06prj"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2009 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1993 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.nearby_airports",
+      "Pulkovo International Airport"
+    ],
+    [
+      "Nevsky Prospect",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Peterhof Palace",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Hotel Astoria",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.local_transportation",
+      "Saint Petersburg Metro"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Admiralty building, Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1983 All-Union Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1994 NCAA Men's Division I Basketball Tournament- Southeast Regional Second Round"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2008 International Side by Side LGBT Film Festival"
+    ],
+    [
+      "m.03lbv3w",
+      "common.webpage.topic",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2002 International Film Festival Message to Man"
+    ],
+    [
+      "Smolny Cathedral in Saint Petersburg",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "m.04j731g",
+      "common.webpage.topic",
+      "Saint Petersburg"
+    ],
+    [
+      "2013 International Film Festival Message to Man",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2010 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2002 KROK International Animated Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Saint Isaac's Cathedral"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "The  Mariinsky Theatre in Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Operation Polyarnaya Zvezda"
+    ],
+    [
+      "1991 Soviet coup d'état attempt",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.1jmcbg761"
+    ],
+    [
+      "Saint Petersburg",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0p88_2q"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1978 FIVB Volleyball Women's World Championship"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2014 International Side by Side LGBT Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "Peter and Paul Cathedral, Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Catherine Palace"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2009 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "View of the Palace Square in Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.major_exports",
+      "m.04mt9kj"
+    ],
+    [
+      "Valse des fleurs",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "Peter and Paul Cathedral",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Russian Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Leningrad Zoo",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.11btt563sb"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "The bronze horseman"
+    ],
+    [
+      "Pravda",
+      "book.newspaper.circulation_areas",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1998 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "Saint Petersburg Bridge"
+    ],
+    [
+      "2002 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2005 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1989 International Film Festival Message to Man"
+    ],
+    [
+      "The National Mineral Resources University",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "m.07yv_mv"
+    ],
+    [
+      "Saint Isaac's Cathedral",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.notable_for",
+      "g.1255mdxk3"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Smolny Cathedral in Saint Petersburg"
+    ],
+    [
+      "Operation Iskra",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg State University of Aerospace Instrumentation",
+      "organization.organization.geographic_scope",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2013 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Decembrist revolt"
+    ],
+    [
+      "Kseniya Sobchak",
+      "people.person.place_of_birth",
+      "Saint Petersburg"
+    ],
+    [
+      "Church of the Savior on Blood",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Peter and Paul Fortress",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Di varhayt"
+    ],
+    [
+      "2008 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.1jmcbjmy2"
+    ],
+    [
+      "2010 American Film Festival",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "2011 Festival of German Films in Russia",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Kunstkamera",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Pravda"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "Hunger"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2011 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2012 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1968 All-Union Film Festival"
+    ],
+    [
+      "Burying the sun",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2008 Museek Music Video Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2012 Saint-Petersburg International Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Siege of Leningrad"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Russian Museum"
+    ],
+    [
+      "Saint Petersburg",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Northwestern Federal District"
+    ],
+    [
+      "Saint Petersburg",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Ternii Truda"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2011 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Peter",
+      "symbols.name_source.namesakes",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "February Revolution"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2012–13 Euro Hockey Tour"
+    ],
+    [
+      "Hermitage Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2008 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2004 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2010 Museek Music Video Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2013 American Film Festival"
+    ],
+    [
+      "Mariinsky Theatre",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Sunlight at midnight",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "2008 Moviemiento",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2013 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2010 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Winter Palace"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "m.04kbc7g"
+    ],
+    [
+      "Ice road",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Kazan Cathedral, Saint Petersburg"
+    ],
+    [
+      "Winter Palace",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "sports.sports_team_location.teams",
+      "Saint Petersburg Lions"
+    ],
+    [
+      "m.04j731n",
+      "common.webpage.topic",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "Valse des fleurs"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2008 Moviemiento"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "October Revolution"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Sinyavino Offensive"
+    ],
+    [
+      "Saint Petersburg",
+      "symbols.name_source.namesakes",
+      "St. Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "m.0n7wrz8"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Church of the Savior on Blood"
+    ],
+    [
+      "Saint Petersburg",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.09rfds6"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2011 American Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2012 KROK International Animated Film Festival"
+    ],
+    [
+      "Kunstkamera",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "White Nights Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "organization.organization_member.member_of",
+      "m.0b2lv15"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Commission for the Second International Polar Year - First Session"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Mariinsky Theatre"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.webpage",
+      "m.03lbv3w"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2010 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.1jmcbgvv1"
+    ],
+    [
+      "m.09klk2t",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1991 International Film Festival Message to Man"
+    ],
+    [
+      "Battle of Krasny Bor",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Mariinsky Theatre",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09klk2t"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Nevsky Prospect"
+    ],
+    [
+      "Golos Truda",
+      "book.newspaper.circulation_areas",
+      "Saint Petersburg"
+    ],
+    [
+      "One hot summer in St Petersburg",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "m.04zgzks",
+      "government.government_position_held.jurisdiction_of_office",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg State University of Aerospace Instrumentation",
+      "organization.organization.place_founded",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "Angliyskaya Enbankment SPb"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1995 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.1jmcbfy5g"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2009 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "Junker mutiny"
+    ],
+    [
+      "Nevsky Prospect",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Hermitage Museum",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.accommodation",
+      "Grand Hotel Europe"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2005 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2008 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2014 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "m.03pj_1k",
+      "people.place_lived.location",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.geolocation",
+      "m.02k8bmr"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2012 International Side by Side LGBT Film Festival"
+    ],
+    [
+      "m.0b2lv15",
+      "organization.organization_membership.member",
+      "Saint Petersburg"
+    ],
+    [
+      "2000 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Kazan Cathedral, Saint Petersburg",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2014 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Central Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2001 International Film Festival Message to Man"
+    ],
+    [
+      "St. Petersburg",
+      "symbols.namesake.named_after",
+      "Saint Petersburg"
+    ],
+    [
+      "FC Zenit Saint Petersburg",
+      "sports.sports_team.location",
+      "Saint Petersburg"
+    ],
+    [
+      "Hunger",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2009 International Side by Side LGBT Film Festival"
+    ],
+    [
+      "Saint Michael's Castle",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Catherine Palace",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2011 International Side by Side LGBT Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "freebase.valuenotation.has_no_value",
+      "Date dissolved"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2011 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Journal de St.-Pétersbourg"
+    ],
+    [
+      "Winter Palace",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "g.1213bnjw"
+    ],
+    [
+      "Saint Petersburg",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04zgzks"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2013–14 Euro Hockey Tour"
+    ],
+    [
+      "m.02wjbpg",
+      "common.webpage.topic",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.1jmcbfmg9"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "g.11btt6x2qn"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.local_transportation",
+      "Trams in Saint Petersburg"
+    ],
+    [
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2010 European Track Championships"
+    ],
+    [
+      "Mariya Putina",
+      "people.person.place_of_birth",
+      "Saint Petersburg"
+    ],
+    [
+      "The bronze horseman",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "Russian Museum",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "The Admirality Building in Saint Petersburg"
+    ],
+    [
+      "m.09rfds6",
+      "government.government_position_held.jurisdiction_of_office",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "m.0b68ljd"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.webpage",
+      "m.02wjbpg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1964 All-Union Film Festival"
+    ],
+    [
+      "Saint Petersburg State University of Aerospace Instrumentation",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "Tarskoye Selo"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2013 St. Petersburg International Student Film Festival BEGINNING"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Hermitage Museum"
+    ],
+    [
+      "Saint Petersburg",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Golos Truda"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2010 American Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2007 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "Sunlight at midnight"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2008 International Film Festival Message to Man"
+    ],
+    [
+      "m.04jr8sv",
+      "media_common.dedication.dedicated_to",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Saint Petersburg State University of Aerospace Instrumentation"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.webpage",
+      "m.04j731g"
+    ],
+    [
+      "m.0b6zdcq",
+      "award.award_honor.award_winner",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2006 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2014 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2012 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "m.051fn77",
+      "travel.transportation.travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1994 International Film Festival Message to Man"
+    ],
+    [
+      "2012 KROK International Animated Film Festival",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Michael's Castle",
+      "location.location.containedby",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "film.film_location.featured_in_films",
+      "The Loves of Liszt"
+    ],
+    [
+      "2012–13 Euro Hockey Tour",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2004 Open Cinema International Short and Animation Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "July Days"
+    ],
+    [
+      "The Death of Ivan Ilyich",
+      "book.written_work.subjects",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1991 Soviet coup d'état attempt"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Saint Michael's Castle"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "g.1q66p45n5"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2003 Multivision Festival"
+    ],
+    [
+      "2013–14 Euro Hockey Tour",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2003 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.local_transportation",
+      "Saint Petersburg Hiitola railroad"
+    ],
+    [
+      "Siege of Leningrad",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1994 Summer Goodwill Games"
+    ],
+    [
+      "Sinyavino Offensive",
+      "time.event.locations",
+      "Saint Petersburg"
+    ],
+    [
+      "m.0b6r73f",
+      "common.webpage.topic",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1999 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.webpage",
+      "m.0b6r73f"
+    ],
+    [
+      "The Loves of Liszt",
+      "film.film.featured_film_locations",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Isaac Cathedral in Saint Petersburg",
+      "common.image.appears_in_topic_gallery",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "Ice road"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "The Gentle Axe: A Novel"
+    ],
+    [
+      "Saint Petersburg",
+      "location.statistical_region.population",
+      "m.0n7wrzg"
+    ],
+    [
+      "Saint Petersburg",
+      "common.topic.image",
+      "The Winter Palace in Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2000 KROK International Animated Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Rabocheye Znamya"
+    ],
+    [
+      "Saint Petersburg",
+      "protected_sites.listed_site.designation_as_natural_or_cultural_site",
+      "m.02h91rn"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tour_operators",
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Northwestern Federal District",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2012 Multivision Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "sports.sports_team_location.teams",
+      "g.12qbgjt_k"
+    ],
+    [
+      "Northwestern Federal District",
+      "location.location.contains",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.accommodation",
+      "Hotel Astoria"
+    ],
+    [
+      "Saint Petersburg",
+      "government.governmental_jurisdiction.government_bodies",
+      "Legislative Assembly of Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Peterhof Palace"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1997 International Film Festival Message to Man"
+    ],
+    [
+      "Smolny Cathedral in Saint Petersburg",
+      "travel.tourist_attraction.near_travel_destination",
+      "Saint Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "sports.sports_team_location.teams",
+      "g.120yrpm3"
+    ],
+    [
+      "Saint Petersburg",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Russian federal city"
+    ],
+    [
+      "Saint Petersburg",
+      "book.book_subject.works",
+      "One hot summer in St Petersburg"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "2013 Saint-Petersburg International Film Festival"
+    ],
+    [
+      "Saint Petersburg",
+      "location.location.events",
+      "1996 International Film Festival Message to Man"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Peter and Paul Fortress"
+    ],
+    [
+      "Saint Petersburg",
+      "media_common.dedicatee.dedications",
+      "m.04jr8sv"
+    ],
+    [
+      "Saint Petersburg",
+      "travel.travel_destination.tourist_attractions",
+      "Kunstkamera"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Religious Organization",
+      "freebase.type_hints.included_types",
+      "Organization"
+    ],
+    [
+      "State Council",
+      "common.topic.notable_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Vive Targi Kielce",
+      "common.topic.notable_types",
+      "Organization"
+    ],
+    [
+      "Organization",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Peter and Paul Fortress",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.country.languages_spoken",
+      "Russian Language"
+    ],
+    [
+      "Saint Petersburg State University",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0j67sr9"
+    ],
+    [
+      "Russian federal city",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Russia"
+    ],
+    [
+      "Poisoned by Polonium: The Litvinenko File",
+      "film.film.country",
+      "Russia"
+    ],
+    [
+      "Putin's Kiss",
+      "film.film.country",
+      "Russia"
+    ],
+    [
+      "Cathedral of St. Sophia, Novgorod",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Yury Chaika",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Winter Palace",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Svetlogorsk",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0110fs45"
+    ],
+    [
+      "Mariya Sobchak",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Grand Hotel Europe",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russian Language",
+      "language.human_language.countries_spoken_in",
+      "Russia"
+    ],
+    [
+      "Alexander Emelianenko",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "The bronze horseman",
+      "book.written_work.subjects",
+      "Russia"
+    ],
+    [
+      "m.0jscz6j",
+      "government.government_position_held.jurisdiction_of_office",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.country.languages_spoken",
+      "Ukrainian Language"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04mn90b"
+    ],
+    [
+      "Hermitage Museum",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Mariinsky Theatre",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0110fs5x"
+    ],
+    [
+      "Church of the Savior on Blood",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russian",
+      "people.ethnicity.geographic_distribution",
+      "Russia"
+    ],
+    [
+      "Russian Language",
+      "language.human_language.main_country",
+      "Russia"
+    ],
+    [
+      "Valentina Matviyenko",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Saint Isaac's Cathedral",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Kunstkamera",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Anatoly Sobchak",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Saint Basil's Cathedral",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Our Home – Russia",
+      "organization.organization.geographic_scope",
+      "Russia"
+    ],
+    [
+      "m.0j67sr9",
+      "government.government_position_held.jurisdiction_of_office",
+      "Russia"
+    ],
+    [
+      "The London 2012 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "The National Mineral Resources University",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Northwestern Federal District",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Russia"
+    ],
+    [
+      "Yekaterina Putina",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Nevsky Prospect",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Ukrainian Language",
+      "language.human_language.countries_spoken_in",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0jscz6j"
+    ],
+    [
+      "Nikita Mikhalkov",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Lyudmila Putina",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Kseniya Sobchak",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Kremlin Rising: Vladimir Putin's Russia and the End of Revolution",
+      "book.written_work.subjects",
+      "Russia"
+    ],
+    [
+      "Leningrad Zoo",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russian Lessons",
+      "media_common.netflix_title.netflix_genres",
+      "Russia"
+    ],
+    [
+      "Catherine Palace",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Russia"
+    ],
+    [
+      "m.0110fs45",
+      "government.government_position_held.jurisdiction_of_office",
+      "Russia"
+    ],
+    [
+      "Fedor Emelianenko",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Crimson Dynamo"
+    ],
+    [
+      "Chita",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Vladimir Spiridonovich Putin",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Russian Lessons",
+      "film.film.country",
+      "Russia"
+    ],
+    [
+      "The New Cold War: Putin's Russia and the Threat to the West",
+      "book.written_work.subjects",
+      "Russia"
+    ],
+    [
+      "m.04mn8zn",
+      "government.government_position_held.jurisdiction_of_office",
+      "Russia"
+    ],
+    [
+      "Oleg Taktarov",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Russian federal city",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Russia"
+    ],
+    [
+      "Petrostate: Putin, Power, and the New Russia",
+      "book.written_work.subjects",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Northwestern Federal District"
+    ],
+    [
+      "Russian federal city",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Russia"
+    ],
+    [
+      "President of Russia",
+      "government.government_office_or_title.jurisdiction",
+      "Russia"
+    ],
+    [
+      "Peterhof Palace",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "freebase.valuenotation.has_no_value",
+      "Date dissolved"
+    ],
+    [
+      "Anna Politkovskaya",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Saint Michael's Castle",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Russian federal city"
+    ],
+    [
+      "Unity",
+      "organization.organization.geographic_scope",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "The London 2012 Summer Olympics"
+    ],
+    [
+      "Pussy Riot: A Punk Prayer",
+      "film.film.country",
+      "Russia"
+    ],
+    [
+      "Northwestern Federal District",
+      "location.administrative_division.country",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "m.04mn90b",
+      "government.government_position_held.jurisdiction_of_office",
+      "Russia"
+    ],
+    [
+      "m.0110fs5x",
+      "government.government_position_held.jurisdiction_of_office",
+      "Russia"
+    ],
+    [
+      "Crimson Dynamo",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Russia"
+    ],
+    [
+      "Northwestern Federal District",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.country.official_language",
+      "Russian Language"
+    ],
+    [
+      "Russia",
+      "location.country.administrative_divisions",
+      "Northwestern Federal District"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0ngpvp9"
+    ],
+    [
+      "Russia",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.04mn8zn"
+    ],
+    [
+      "Aleksandr Solzhenitsyn",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Mariya Putina",
+      "people.person.nationality",
+      "Russia"
+    ],
+    [
+      "Kazan Cathedral, Saint Petersburg",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "government.governmental_jurisdiction.government_positions",
+      "President of Russia"
+    ],
+    [
+      "m.0ngpvp9",
+      "government.government_position_held.jurisdiction_of_office",
+      "Russia"
+    ],
+    [
+      "Russian Museum",
+      "location.location.containedby",
+      "Russia"
+    ],
+    [
+      "United Russia",
+      "organization.organization.geographic_scope",
+      "Russia"
+    ],
+    [
+      "Vladimir Putin",
+      "people.person.nationality",
+      "Russia"
+    ]
+  ]
+}

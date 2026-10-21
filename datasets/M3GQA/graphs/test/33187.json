@@ -1,0 +1,3080 @@
+{
+  "graph_id": 33187,
+  "subgraph": [
+    [
+      "Roman–Parthian War of 161–166",
+      "base.culturalevent.event.entity_involved",
+      "Parthian Empire"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "time.event.includes_event",
+      "Roman–Parthian War of 161–166"
+    ],
+    [
+      "Roman–Parthian War of 161–166",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Roman–Parthian War of 161–166",
+      "time.event.locations",
+      "Syria"
+    ],
+    [
+      "Syria",
+      "location.location.events",
+      "Roman–Parthian War of 161–166"
+    ],
+    [
+      "m.07ssb0k",
+      "military.military_combatant_group.conflict",
+      "Roman–Parthian War of 161–166"
+    ],
+    [
+      "Roman–Parthian War of 161–166",
+      "time.event.included_in_event",
+      "Roman–Parthian Wars"
+    ],
+    [
+      "Roman–Parthian War of 161–166",
+      "military.military_conflict.combatants",
+      "m.07ssb0k"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Roman–Parthian War of 161–166"
+    ],
+    [
+      "Roman–Parthian War of 161–166",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Siege of Singara"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Roman–Parthian Wars"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Battle of Samarra",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Battle of Resaena"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Kitos War"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Battle of Firaz"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Siege of Amida",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Battle of Firaz",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Battle of Ctesiphon"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Mesopotamia"
+    ],
+    [
+      "Kitos War",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Battle of Edessa",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Siege of Singara",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Battle of Barbalissos",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Battle of Barbalissos"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Siege of Amida"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Battle of Samarra"
+    ],
+    [
+      "Battle of Misiche",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Battle of Edessa"
+    ],
+    [
+      "Battle of Resaena",
+      "time.event.locations",
+      "Mesopotamia"
+    ],
+    [
+      "Mesopotamia",
+      "location.location.events",
+      "Battle of Misiche"
+    ],
+    [
+      "Battle of Edessa",
+      "time.event.locations",
+      "Edessa"
+    ],
+    [
+      "Edessa",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Edessa",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Edessa",
+      "location.location.events",
+      "Battle of Edessa"
+    ],
+    [
+      "Roman–Parthian War of 58–63",
+      "base.culturalevent.event.entity_involved",
+      "Parthian Empire"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "base.culturalevent.event.entity_involved",
+      "Parthian Empire"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Parthian Empire"
+    ],
+    [
+      "Centurion",
+      "book.written_work.subjects",
+      "Parthian Empire"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Parthian Empire"
+    ],
+    [
+      "Battle of Nisibis",
+      "base.culturalevent.event.entity_involved",
+      "Parthian Empire"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "time.event.includes_event",
+      "Roman–Parthian War of 58–63"
+    ],
+    [
+      "m.04z6xxv",
+      "military.military_combatant_group.conflict",
+      "Roman–Parthian Wars"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "book.book_subject.works",
+      "The Eagle in the Sand"
+    ],
+    [
+      "Centurion",
+      "book.written_work.subjects",
+      "Roman–Parthian Wars"
+    ],
+    [
+      "The Eagle in the Sand",
+      "book.written_work.subjects",
+      "Roman–Parthian Wars"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "book.book_subject.works",
+      "Centurion"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Roman–Parthian Wars"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman–Parthian War of 58–63",
+      "time.event.included_in_event",
+      "Roman–Parthian Wars"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "military.military_conflict.combatants",
+      "m.04z6xxv"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Trajan"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Roman–Parthian Wars",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.locations",
+      "Syria"
+    ],
+    [
+      "Battle of Antioch",
+      "time.event.locations",
+      "Syria"
+    ],
+    [
+      "Syria",
+      "location.location.containedby",
+      "Syria"
+    ],
+    [
+      "Syria",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Syria",
+      "book.book_subject.works",
+      "Centurion"
+    ],
+    [
+      "Centurion",
+      "book.written_work.subjects",
+      "Syria"
+    ],
+    [
+      "Syria",
+      "location.location.events",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Syria",
+      "common.topic.image",
+      "Roman Empire 125"
+    ],
+    [
+      "Ras al-Ayn, al-Hasakah Governorate",
+      "location.location.containedby",
+      "Syria"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Syria"
+    ],
+    [
+      "Syria",
+      "book.book_subject.works",
+      "The Eagle in the Sand"
+    ],
+    [
+      "Battle of Emesa",
+      "time.event.locations",
+      "Syria"
+    ],
+    [
+      "Syria",
+      "location.location.events",
+      "Battle of Antioch"
+    ],
+    [
+      "Syria",
+      "location.location.events",
+      "Battle of Emesa"
+    ],
+    [
+      "Syria",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Syria",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "The Eagle in the Sand",
+      "book.written_work.subjects",
+      "Syria"
+    ],
+    [
+      "m.07ssb0k",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.07ssb0k"
+    ],
+    [
+      "Greek Language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yynbg"
+    ],
+    [
+      "The History of the Decline and Fall of the Roman Empire: Vol. 3",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yypjc"
+    ],
+    [
+      "Domitian's Dacian War",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04y_8r5"
+    ],
+    [
+      "m.04y_8r5",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Alexius of Rome",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyhld"
+    ],
+    [
+      "Battle of Argentovaria",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Philippopolis",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0fs6qvf"
+    ],
+    [
+      "Caesars Windsor",
+      "base.casinos.casino.theme",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yypmf"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yynwh"
+    ],
+    [
+      "m.0ws8w38",
+      "location.partial_containment_relationship.partially_contains",
+      "Roman Empire"
+    ],
+    [
+      "Battle at the Harzhorn",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "Centurion"
+    ],
+    [
+      "Caesars Palace",
+      "base.casinos.casino.theme",
+      "Roman Empire"
+    ],
+    [
+      "m.0ws8w7_",
+      "location.partial_containment_relationship.partially_contains",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Abritus",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "common.topic.image",
+      "m.0291myr"
+    ],
+    [
+      "Roman Empire",
+      "film.film_subject.films",
+      "The Robe"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.048zt0d"
+    ],
+    [
+      "m.04yynj8",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.0b7hjs5",
+      "military.force_strength.combatant",
+      "Roman Empire"
+    ],
+    [
+      "Battle of the Weser River",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yynhl"
+    ],
+    [
+      "m.04yvlvy",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04z0r7n",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yypd1"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyn4w"
+    ],
+    [
+      "m.04z6xxv",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Strasbourg",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z74kq"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0fs82dk"
+    ],
+    [
+      "Roman Empire",
+      "location.location.events",
+      "Battle of Edessa"
+    ],
+    [
+      "m.04z212s",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "base.casinos.casino_theme.casinos_in_this_theme",
+      "Caesars Atlantic City"
+    ],
+    [
+      "m.04yybcw",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyp6x",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "The Eagle in the Sand",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "m.04yvn32",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z0r85"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.048zt46"
+    ],
+    [
+      "Battle of Antioch",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yvn32"
+    ],
+    [
+      "First Dacian War",
+      "time.event.locations",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Mons Graupius",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Siege of Amida",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Bagrevand",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.country.form_of_government",
+      "Autocracy"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yxbg4"
+    ],
+    [
+      "The History of the Decline and Fall of the Roman Empire: Vol. 2",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Beth Horon",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.force_deployments",
+      "m.0b7hjs5"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.05prg1q"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0jmx43y"
+    ],
+    [
+      "m.0t5qtbp",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Paul I of Constantinople",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyplz",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Caer Caradoc",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yz542"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0t5qtbp"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yw_16"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yynj8"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyx6k"
+    ],
+    [
+      "m.0ws8wk6",
+      "location.partial_containment_relationship.partially_contains",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Alexius of Rome"
+    ],
+    [
+      "Roman Empire",
+      "location.country.capital",
+      "Constantinople"
+    ],
+    [
+      "Battle of Barbalissos",
+      "time.event.locations",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyx56",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.0gf9wnr",
+      "royalty.system_title_relationship.system",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Resaena",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Placentia",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Edessa",
+      "time.event.locations",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0b7hgc7"
+    ],
+    [
+      "The Age of Constantine the Great",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0ngxd7s"
+    ],
+    [
+      "m.04yv1hl",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The Age of Constantine the Great"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Eudoxius of Antioch"
+    ],
+    [
+      "m.04y_8_s",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yypjc",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.0291myr",
+      "common.image.appears_in_topic_gallery",
+      "Roman Empire"
+    ],
+    [
+      "m.04y_9hc",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Brumath",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire 117 AD",
+      "common.image.appears_in_topic_gallery",
+      "Roman Empire"
+    ],
+    [
+      "m.04yx36x",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0c05v9w"
+    ],
+    [
+      "Cantabrian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z0r7n"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.05nxjh8"
+    ],
+    [
+      "RomanEmpire large",
+      "common.image.appears_in_topic_gallery",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Resaena",
+      "time.event.locations",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.events",
+      "Battle of Barbalissos"
+    ],
+    [
+      "m.05nxjh8",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Sarmisegetusa",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04z21j3",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yx1rk"
+    ],
+    [
+      "Roman Empire",
+      "location.location.partially_contained_by",
+      "m.0ws8w38"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Demophilus of Constantinople"
+    ],
+    [
+      "m.048zz14",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "m.0fs821s",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Constantine the Great",
+      "people.person.nationality",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "fictional_universe.fictional_setting.languages",
+      "Latin Language"
+    ],
+    [
+      "m.04yynbg",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "g.121p62yj"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyl91"
+    ],
+    [
+      "Battle of Faesulae",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.events",
+      "First Dacian War"
+    ],
+    [
+      "m.0fs82dk",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Second Battle of Tapae",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.geolocation",
+      "m.0wmrmtf"
+    ],
+    [
+      "Coelia Concordia",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.events",
+      "Battle of Resaena"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04ytytf"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Augustine of Hippo"
+    ],
+    [
+      "m.04yyn4w",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yypm5"
+    ],
+    [
+      "Battle of Pavia",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z31gb"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.048zsyf"
+    ],
+    [
+      "m.04yzgh6",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman–Parthian War of 58–63",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04yx1rk",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0fs6xjh"
+    ],
+    [
+      "m.04yxbg4",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04y_96k",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0648xgk"
+    ],
+    [
+      "Battle of Nisibis",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "The Gladiator",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Siege of Yodfat",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.0gf9wj4",
+      "royalty.system_title_relationship.system",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The History of the Decline and Fall of the Roman Empire: Vol. 6"
+    ],
+    [
+      "m.04y_8s7",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyhld",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0fs8d74"
+    ],
+    [
+      "m.0fs6xjh",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Caesars Atlantic City",
+      "base.casinos.casino.theme",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.partially_contained_by",
+      "m.0ws8wk6"
+    ],
+    [
+      "Second Dacian War",
+      "time.event.locations",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z4n1f"
+    ],
+    [
+      "Latin Language",
+      "fictional_universe.fictional_language.where_spoken",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "film.film_subject.films",
+      "Gladiator"
+    ],
+    [
+      "The History of the Decline and Fall of the Roman Empire: Vol. 5",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyhq9"
+    ],
+    [
+      "Battle of Mursa Major",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.0b7hgc7",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of the Willows",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "fictional_universe.fictional_setting.languages",
+      "Greek Language"
+    ],
+    [
+      "Africa Proconsularis",
+      "location.administrative_division.country",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyplz"
+    ],
+    [
+      "Battle of Lake Benacus",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04y_9f9"
+    ],
+    [
+      "m.04yv0k1",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yv15g"
+    ],
+    [
+      "m.048zt8g",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z0bs7"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The History of the Decline and Fall of the Roman Empire: Vol. 1"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yymzq"
+    ],
+    [
+      "m.04yynht",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.0c05v9w",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyp3_"
+    ],
+    [
+      "m.04yv15g",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of the Medway",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Marcomannic Wars",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04yynhl",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyp4d"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04y_8s7"
+    ],
+    [
+      "Second Dacian War",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Maximilian"
+    ],
+    [
+      "Roman Empire",
+      "common.topic.image",
+      "Roman Empire 117 AD"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.05prg15"
+    ],
+    [
+      "Siege of Senonae",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "base.monetarydebase.governments_that_debase.largest_denomination",
+      "m.05b9fpl"
+    ],
+    [
+      "Titus",
+      "people.person.nationality",
+      "Roman Empire"
+    ],
+    [
+      "m.04yypmf",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yypd1",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "Memoirs of Hadrian"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yvzx5"
+    ],
+    [
+      "Battle of Vindonissa",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Eudoxius of Antioch",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yvlvy"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04y_9hc"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "g.11b62y00s2"
+    ],
+    [
+      "Gladiator",
+      "film.film.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The History of the Decline and Fall of the Roman Empire: Vol. 4"
+    ],
+    [
+      "m.04yyhqj",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "base.services.costume_styles.costume_shop",
+      "Costumes Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.partially_contained_by",
+      "m.0ws8w7_"
+    ],
+    [
+      "m.05prg15",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Jewish revolt against Constantius Gallus",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Pollentia",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Siege of Jerusalem",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "royalty.system_of_nobility.titles",
+      "m.0gf9wj4"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.048zt4f"
+    ],
+    [
+      "Roman Empire",
+      "location.country.administrative_divisions",
+      "Africa Proconsularis"
+    ],
+    [
+      "m.07nfqr2",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Roman Empire"
+    ],
+    [
+      "Bar Kokhba revolt",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.country.official_language",
+      "Latin Language"
+    ],
+    [
+      "m.04z0r85",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "First Jewish–Roman War",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.048zt4f",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "royalty.system_of_nobility.titles",
+      "m.0gf9wnr"
+    ],
+    [
+      "The History of the Decline and Fall of the Roman Empire: Vol. 6",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.country.capital",
+      "Ravenna"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z212s"
+    ],
+    [
+      "m.0w_k7yp",
+      "government.government_position_held.jurisdiction_of_office",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Watling Street",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Forum Julii",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of the Lupia River",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yv1hl"
+    ],
+    [
+      "Memoirs of Hadrian",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Barbalissos",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.0b7hhs4",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "m.04yynwh",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfqr2"
+    ],
+    [
+      "m.0648xgk",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The History of the Decline and Fall of the Roman Empire: Vol. 2"
+    ],
+    [
+      "Roman Empire",
+      "location.statistical_region.population",
+      "m.0ngxd03"
+    ],
+    [
+      "m.0ngxd7s",
+      "government.government_position_held.jurisdiction_of_office",
+      "Roman Empire"
+    ],
+    [
+      "The History of the Decline and Fall of the Roman Empire: Vol. 1",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The Eagle in the Sand"
+    ],
+    [
+      "Gothic War",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Augustine of Hippo",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Maximilian",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Eunomius of Cyzicus"
+    ],
+    [
+      "m.05prg1q",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "First Dacian War",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04y_9f9",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04y_7j9"
+    ],
+    [
+      "Roman Empire",
+      "common.topic.subject_of",
+      "Ephesus"
+    ],
+    [
+      "Alexius of Rome",
+      "people.deceased_person.place_of_death",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.0wzb909"
+    ],
+    [
+      "Battle of Thessalonica",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "The Robe",
+      "film.film.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.048zs__"
+    ],
+    [
+      "Battle of Mons Seleucus",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Costumes Empire",
+      "base.services.costume_shop.type_of_costumes_carried",
+      "Roman Empire"
+    ],
+    [
+      "Siege of Singara",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Publius Quinctilius Varus",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Immae",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.0wzb909",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "m.04yypjj",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yymzq",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04z74kq",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyp3_",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Verona",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The Roman Empire and Its Germanic Peoples"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Paul I of Constantinople"
+    ],
+    [
+      "Roman Empire",
+      "location.country.capital",
+      "Rome"
+    ],
+    [
+      "m.04yyhq9",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Scythopolis",
+      "location.location.containedby",
+      "Roman Empire"
+    ],
+    [
+      "Ulpian",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The Gladiator"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z21j3"
+    ],
+    [
+      "m.04yyp4d",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04z0bs7",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.048zt3v"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yybcw"
+    ],
+    [
+      "Battle of Lingones",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Revolt of the Batavi",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.0fs8d74",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.048zt0d",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "base.casinos.casino_theme.casinos_in_this_theme",
+      "Caesars Windsor"
+    ],
+    [
+      "Battle of Emesa",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04yy59k",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yv0k1"
+    ],
+    [
+      "m.04z4n1f",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.0fs821s"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyp4p"
+    ],
+    [
+      "Battle of Durocortorum",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.048zt8g"
+    ],
+    [
+      "Vespasian",
+      "people.person.nationality",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_qw5d4"
+    ],
+    [
+      "m.04yw_16",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.contains",
+      "g.120phpf9"
+    ],
+    [
+      "m.04yyx6k",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The History of the Decline and Fall of the Roman Empire: Vol. 3"
+    ],
+    [
+      "Battle of Naissus",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Thyatira",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Cilicia",
+      "location.location.containedby",
+      "Roman Empire"
+    ],
+    [
+      "Battle of the Teutoburg Forest",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.048zs__",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "m.04ywrm8",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Firaz",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Lucifer of Cagliari",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "common.topic.notable_for",
+      "g.1255jhsl0"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yynht"
+    ],
+    [
+      "m.04z31gb",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "The Roman Empire and Its Germanic Peoples",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyndt",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.events",
+      "Second Dacian War"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z6xxv"
+    ],
+    [
+      "Ulpian",
+      "people.person.nationality",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The History of the Decline and Fall of the Roman Empire: Vol. 7"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04y_96k"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyhqj"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.048zz14"
+    ],
+    [
+      "m.048zsyf",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yypjj"
+    ],
+    [
+      "Roman Empire",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Battle of Misiche",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.048zz0x"
+    ],
+    [
+      "Battle of Edessa",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "common.topic.article",
+      "m.06cm_"
+    ],
+    [
+      "Saint Glyceria",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "base.casinos.casino_theme.casinos_in_this_theme",
+      "Caesars Palace"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yw37r"
+    ],
+    [
+      "m.04z74p6",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_commanders",
+      "m.0b7hhs4"
+    ],
+    [
+      "Jewish–Roman wars",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.0fs6qvf",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Trajan",
+      "people.person.nationality",
+      "Roman Empire"
+    ],
+    [
+      "Centurion",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Saint Glyceria"
+    ],
+    [
+      "m.04y_7j9",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Lucifer of Cagliari"
+    ],
+    [
+      "m.04yytvg",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyl91",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Coelia Concordia"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yytvg"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyp76"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yy59k"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Ulpian"
+    ],
+    [
+      "m.04yyn8f",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.05cbwst",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yx36x"
+    ],
+    [
+      "The History of the Decline and Fall of the Roman Empire: Vol. 4",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Demophilus of Constantinople",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "book.book_subject.works",
+      "The History of the Decline and Fall of the Roman Empire: Vol. 5"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyn8f"
+    ],
+    [
+      "Roman Empire",
+      "location.location.contains",
+      "Cilicia"
+    ],
+    [
+      "m.04yvzx5",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Great Conspiracy",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Samarra",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04yyp4p",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04ywrm8"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04z74p6"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "Publius Quinctilius Varus"
+    ],
+    [
+      "Eunomius of Cyzicus",
+      "people.person.place_of_birth",
+      "Roman Empire"
+    ],
+    [
+      "m.048zt3v",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yw37r",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.05cbwst"
+    ],
+    [
+      "m.04yyp76",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "common.topic.image",
+      "RomanEmpire large"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04y_8_s"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyndt"
+    ],
+    [
+      "Roman Empire",
+      "location.location.people_born_here",
+      "g.1hb_fx1hx"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyp6x"
+    ],
+    [
+      "Battle of Camulodunum",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.04yz542",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "m.04yypm5",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Ephesus",
+      "common.topic.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Fano",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.048zt46",
+      "military.military_command.military_combatant",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w_k7yp"
+    ],
+    [
+      "m.04ytytf",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "location.location.contains",
+      "Scythopolis"
+    ],
+    [
+      "Battle of Adamclisi",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Thermopylae",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.0jmx43y",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Kitos War",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Solicinium",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "The History of the Decline and Fall of the Roman Empire: Vol. 7",
+      "book.written_work.subjects",
+      "Roman Empire"
+    ],
+    [
+      "Battle of Châlons",
+      "base.culturalevent.event.entity_involved",
+      "Roman Empire"
+    ],
+    [
+      "m.048zz0x",
+      "military.military_combatant_group.combatants",
+      "Roman Empire"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yzgh6"
+    ],
+    [
+      "Roman Empire",
+      "military.military_combatant.military_conflicts",
+      "m.04yyx56"
+    ],
+    [
+      "Autocracy",
+      "government.form_of_government.countries",
+      "Roman Empire"
+    ],
+    [
+      "m.04yypjj",
+      "military.military_combatant_group.conflict",
+      "Siege of Singara"
+    ],
+    [
+      "Siege of Singara",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Siege of Singara"
+    ],
+    [
+      "Siege of Singara",
+      "military.military_conflict.combatants",
+      "m.04yypjj"
+    ],
+    [
+      "Siege of Singara",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Siege of Singara",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "m.04yyx56",
+      "military.military_combatant_group.conflict",
+      "Battle of Ctesiphon"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Battle of Ctesiphon"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "military.military_conflict.combatants",
+      "m.04yyx56"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "m.04z212s",
+      "military.military_combatant_group.conflict",
+      "Battle of Ctesiphon"
+    ],
+    [
+      "m.04z21j3",
+      "military.military_combatant_group.conflict",
+      "Battle of Ctesiphon"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "military.military_conflict.combatants",
+      "m.04z21j3"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Battle of Ctesiphon",
+      "military.military_conflict.combatants",
+      "m.04z212s"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Battle of Samarra"
+    ],
+    [
+      "Battle of Samarra",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Battle of Samarra",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "m.04y_9hc",
+      "military.military_combatant_group.conflict",
+      "Battle of Samarra"
+    ],
+    [
+      "Battle of Samarra",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Battle of Samarra",
+      "military.military_conflict.combatants",
+      "m.04y_9hc"
+    ],
+    [
+      "m.0w5spty",
+      "military.military_command.military_conflict",
+      "Battle of Resaena"
+    ],
+    [
+      "Battle of Resaena",
+      "base.culturalevent.event.entity_involved",
+      "Gaius Furius Sabinius Aquila Timesitheus"
+    ],
+    [
+      "Battle of Resaena",
+      "common.topic.notable_for",
+      "g.125c_3ncm"
+    ],
+    [
+      "m.04yyp6x",
+      "military.military_combatant_group.conflict",
+      "Battle of Resaena"
+    ],
+    [
+      "Battle of Resaena",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Battle of Resaena",
+      "time.event.locations",
+      "Ras al-Ayn, al-Hasakah Governorate"
+    ],
+    [
+      "Battle of Resaena",
+      "military.military_conflict.commanders",
+      "m.0w5spty"
+    ],
+    [
+      "Battle of Resaena",
+      "time.event.locations",
+      "Resaena"
+    ],
+    [
+      "Battle of Resaena",
+      "common.topic.article",
+      "m.08w5dk"
+    ],
+    [
+      "Battle of Resaena",
+      "military.military_conflict.combatants",
+      "m.04yyp6x"
+    ],
+    [
+      "Ras al-Ayn, al-Hasakah Governorate",
+      "location.location.events",
+      "Battle of Resaena"
+    ],
+    [
+      "Battle of Resaena",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Battle of Resaena",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Battle of Resaena",
+      "base.culturalevent.event.entity_involved",
+      "Shapur I"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Battle of Resaena"
+    ],
+    [
+      "Kitos War",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Kitos War",
+      "time.event.locations",
+      "Cyprus"
+    ],
+    [
+      "m.048zz14",
+      "military.military_command.military_conflict",
+      "Kitos War"
+    ],
+    [
+      "Cyprus",
+      "location.location.events",
+      "Kitos War"
+    ],
+    [
+      "Kitos War",
+      "time.event.included_in_event",
+      "Jewish–Roman wars"
+    ],
+    [
+      "Jewish–Roman wars",
+      "time.event.includes_event",
+      "Kitos War"
+    ],
+    [
+      "Kitos War",
+      "military.military_conflict.combatants",
+      "m.048zz0x"
+    ],
+    [
+      "Kitos War",
+      "base.culturalevent.event.entity_involved",
+      "Cyprus"
+    ],
+    [
+      "Kitos War",
+      "base.culturalevent.event.entity_involved",
+      "Lusius Quietus"
+    ],
+    [
+      "Kitos War",
+      "military.military_conflict.commanders",
+      "m.048zz14"
+    ],
+    [
+      "m.048zz0x",
+      "military.military_combatant_group.conflict",
+      "Kitos War"
+    ],
+    [
+      "Kitos War",
+      "base.culturalevent.event.entity_involved",
+      "Judea"
+    ],
+    [
+      "Battle of Firaz",
+      "military.military_conflict.combatants",
+      "m.04z0bs7"
+    ],
+    [
+      "Battle of Firaz",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Battle of Firaz",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Battle of Firaz",
+      "base.culturalevent.event.entity_involved",
+      "Byzantine Empire"
+    ],
+    [
+      "m.04z0bs7",
+      "military.military_combatant_group.conflict",
+      "Battle of Firaz"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Judea"
+    ],
+    [
+      "Middle East",
+      "location.location.partiallycontains",
+      "m.0ws8wk6"
+    ],
+    [
+      "North Africa",
+      "location.location.partially_contains",
+      "Middle East"
+    ],
+    [
+      "The Eagle in the Sand",
+      "book.written_work.subjects",
+      "Middle East"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Abbasid Caliphate"
+    ],
+    [
+      "Abbasid Caliphate",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "m.0ws8wk6",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Middle East"
+    ],
+    [
+      "Judea",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Middle East",
+      "location.location.partially_containedby",
+      "North Africa"
+    ],
+    [
+      "Siege of Amida",
+      "military.military_conflict.combatants",
+      "m.04yyn4w"
+    ],
+    [
+      "m.04yyn4w",
+      "military.military_combatant_group.conflict",
+      "Siege of Amida"
+    ],
+    [
+      "Siege of Amida",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Siege of Amida",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Siege of Amida"
+    ],
+    [
+      "Siege of Amida",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Battle of Edessa",
+      "base.culturalevent.event.entity_involved",
+      "Shapur I"
+    ],
+    [
+      "m.0w5t3jx",
+      "military.military_command.military_conflict",
+      "Battle of Edessa"
+    ],
+    [
+      "Battle of Edessa",
+      "military.military_conflict.commanders",
+      "m.0w5t3jx"
+    ],
+    [
+      "Battle of Edessa",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Battle of Edessa",
+      "common.topic.article",
+      "m.08m2bn"
+    ],
+    [
+      "Battle of Edessa",
+      "military.military_conflict.combatants",
+      "m.04yyl91"
+    ],
+    [
+      "m.04yyl91",
+      "military.military_combatant_group.conflict",
+      "Battle of Edessa"
+    ],
+    [
+      "Battle of Edessa",
+      "common.topic.notable_for",
+      "g.12554g7kv"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Battle of Edessa"
+    ],
+    [
+      "Battle of Edessa",
+      "base.culturalevent.event.entity_involved",
+      "Valerian"
+    ],
+    [
+      "Battle of Edessa",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Battle of Edessa",
+      "common.topic.image",
+      "Battle of Edessa"
+    ],
+    [
+      "Battle of Edessa",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Battle of Edessa",
+      "common.topic.image",
+      "Bas relief nagsh-e-rostam al"
+    ],
+    [
+      "Siege of Antioch",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Battle of Nisibis"
+    ],
+    [
+      "Roman–Persian Wars",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Siege of Antioch"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Valerian"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Siege of Constantinople"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Trajan"
+    ],
+    [
+      "Battle of Misiche",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Battle of Barbalissos"
+    ],
+    [
+      "Siege of Constantinople",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Byzantine Empire"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Shapur I"
+    ],
+    [
+      "Roman–Persian Wars",
+      "military.military_conflict.combatants",
+      "m.04yyx6k"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Gaius Furius Sabinius Aquila Timesitheus"
+    ],
+    [
+      "Roman–Persian Wars",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "m.04yyx6k",
+      "military.military_combatant_group.conflict",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Roman–Persian Wars",
+      "time.event.includes_event",
+      "Battle of Misiche"
+    ],
+    [
+      "Battle of Nisibis",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Battle of Barbalissos",
+      "time.event.included_in_event",
+      "Roman–Persian Wars"
+    ],
+    [
+      "Battle of Barbalissos",
+      "military.military_conflict.combatants",
+      "m.04y_9f9"
+    ],
+    [
+      "Battle of Barbalissos",
+      "common.topic.notable_for",
+      "g.125dr27ng"
+    ],
+    [
+      "Battle of Barbalissos",
+      "time.event.locations",
+      "Barbalissos"
+    ],
+    [
+      "Battle of Barbalissos",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Battle of Barbalissos",
+      "base.culturalevent.event.entity_involved",
+      "Valerian"
+    ],
+    [
+      "Battle of Barbalissos",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Battle of Barbalissos",
+      "base.culturalevent.event.entity_involved",
+      "Shapur I"
+    ],
+    [
+      "m.0w5t8nf",
+      "military.military_command.military_conflict",
+      "Battle of Barbalissos"
+    ],
+    [
+      "Battle of Barbalissos",
+      "common.topic.article",
+      "m.0fl2vd"
+    ],
+    [
+      "m.04y_9f9",
+      "military.military_combatant_group.conflict",
+      "Battle of Barbalissos"
+    ],
+    [
+      "Battle of Barbalissos",
+      "military.military_conflict.commanders",
+      "m.0w5t8nf"
+    ],
+    [
+      "Battle of Misiche",
+      "base.culturalevent.event.entity_involved",
+      "Shapur I"
+    ],
+    [
+      "Battle of Misiche",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Battle of Misiche",
+      "military.military_conflict.combatants",
+      "m.04y_8_s"
+    ],
+    [
+      "m.04y_8_s",
+      "military.military_combatant_group.conflict",
+      "Battle of Misiche"
+    ],
+    [
+      "Battle of Misiche",
+      "base.culturalevent.event.entity_involved",
+      "Sasanian Empire"
+    ],
+    [
+      "Church of Mary",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Turkey",
+      "location.location.events",
+      "Ottoman coups of 1807–08"
+    ],
+    [
+      "Turkey",
+      "freebase.valuenotation.is_reviewed",
+      "Calling Code"
+    ],
+    [
+      "Hagia Sophia",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Hostage",
+      "film.film.country",
+      "Turkey"
+    ],
+    [
+      "Ephesus",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Turkey",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "Ottoman coups of 1807–08",
+      "time.event.locations",
+      "Turkey"
+    ],
+    [
+      "A Touch of Spice",
+      "film.film.country",
+      "Turkey"
+    ],
+    [
+      "Istanbul",
+      "base.biblioness.bibs_location.country",
+      "Turkey"
+    ],
+    [
+      "Turkey",
+      "freebase.valuenotation.is_reviewed",
+      "Official Language"
+    ],
+    [
+      "Temple of Artemis",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Turkey"
+    ],
+    [
+      "Selçuk",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Greek",
+      "base.rosetta.local_name.locale",
+      "Turkey"
+    ],
+    [
+      "Istanbul",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Library of Celsus",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Turkey",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Marmara Ereğlisi",
+      "location.location.containedby",
+      "Turkey"
+    ],
+    [
+      "Turkey",
+      "freebase.valuenotation.is_reviewed",
+      "Capital"
+    ],
+    [
+      "Windsor",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Capital",
+      "rdf-schema#range",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Istanbul",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Dated location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Constantinople",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Las Vegas",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Statistical region"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Statistical region"
+    ],
+    [
+      "Marmara Ereğlisi",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Dated location"
+    ],
+    [
+      "Selçuk",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Ras al-Ayn, al-Hasakah Governorate",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Italian comune",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Capital",
+      "type.property.expected_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Significant"
+    ],
+    [
+      "Ephesus",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Atlantic City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ]
+  ]
+}

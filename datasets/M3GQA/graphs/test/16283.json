@@ -1,0 +1,1580 @@
+{
+  "graph_id": 16283,
+  "subgraph": [
+    [
+      "Rheumatoid arthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Carpal tunnel syndrome",
+      "medicine.disease.causes",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Myasthenia gravis",
+      "medicine.disease.risk_factors",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Rheumatoid arthritis",
+      "medicine.disease.parent_disease",
+      "Arthritis"
+    ],
+    [
+      "Arthritis",
+      "medicine.disease.includes_diseases",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Rheumatoid arthritis",
+      "medicine.disease_cause.diseases",
+      "Carpal tunnel syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.disease.risk_factors",
+      "Rheumatoid arthritis"
+    ],
+    [
+      "Rheumatoid arthritis",
+      "medicine.risk_factor.diseases",
+      "Myasthenia gravis"
+    ],
+    [
+      "Rheumatoid arthritis",
+      "medicine.risk_factor.diseases",
+      "Restless legs syndrome"
+    ],
+    [
+      "Varicose veins",
+      "medicine.risk_factor.diseases",
+      "Restless legs syndrome"
+    ],
+    [
+      "Varicose veins",
+      "medicine.disease.symptoms",
+      "Restless legs syndrome"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.disease.risk_factors",
+      "Varicose veins"
+    ],
+    [
+      "Varicose veins",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.symptom.symptom_of",
+      "Varicose veins"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Varicose veins"
+    ],
+    [
+      "Osteoarthritis",
+      "medicine.disease.parent_disease",
+      "Arthritis"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.disease.risk_factors",
+      "Osteoarthritis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteoarthritis"
+    ],
+    [
+      "Osteoarthritis",
+      "medicine.risk_factor.diseases",
+      "Restless legs syndrome"
+    ],
+    [
+      "Arthritis",
+      "medicine.disease.includes_diseases",
+      "Osteoarthritis"
+    ],
+    [
+      "Osteoarthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Necrobiosis lipoidica",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_c"
+    ],
+    [
+      "Bella",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "m.07nf1bk",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.pethealth.pet_disease_risk_factor.pet_diseases_with_this_risk_factor",
+      "Hypoadrenocorticism in dogs"
+    ],
+    [
+      "Mia Jones",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pyelonephritis"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wyfrp"
+    ],
+    [
+      "Rhinitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Follicular thyroid cancer"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Female",
+      "common.topic.webpage",
+      "m.0b6rypp"
+    ],
+    [
+      "m.02yxhns",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pyogenic granuloma"
+    ],
+    [
+      "Cushing's syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dermatitis"
+    ],
+    [
+      "Trigger finger",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.notable_types",
+      "Literature Subject"
+    ],
+    [
+      "Iron-deficiency anemia",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04zr93l"
+    ],
+    [
+      "Misa Amane",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Bartholin's cyst"
+    ],
+    [
+      "Dazzler",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0y"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wvp27"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Macular degeneration"
+    ],
+    [
+      "Lisa Hunter",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Polymorphous light eruption",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Canker sore"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02yxhp8"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymorphous light eruption"
+    ],
+    [
+      "Females",
+      "base.skosbase.skos_concept.equivalent_topic",
+      "Female"
+    ],
+    [
+      "Cirrhosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "sports.sports_gender.sports_teams",
+      "United States women's national gymnastics team"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Graves' disease"
+    ],
+    [
+      "Nephritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Maria Pitillo",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "g.122zk0s8"
+    ],
+    [
+      "Female",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Females"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Conversion disorder"
+    ],
+    [
+      "m.0b6rypp",
+      "common.webpage.topic",
+      "Female"
+    ],
+    [
+      "Krista Starr",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "m.04zr93l",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Julie",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Nebraska Correctional Center for Women"
+    ],
+    [
+      "Hidradenitis suppurativa",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Urethral syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hidradenitis suppurativa"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02_98hp"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cystitis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Multiple sclerosis"
+    ],
+    [
+      "Lichen planus",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Pain disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Female"
+    ],
+    [
+      "Carpal tunnel syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Hypoadrenocorticism in dogs",
+      "base.pethealth.pet_disease_or_medical_condition.risk_factors",
+      "Female"
+    ],
+    [
+      "m.0d522bw",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Pelvic inflammatory disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Restless legs syndrome"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjxs"
+    ],
+    [
+      "Canker sore",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Nebraska Correctional Center for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Alcoholic hepatitis"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04w1jx1",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Anterior cruciate ligament injury",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.0blp5sb",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1jfn"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Acne"
+    ],
+    [
+      "Medullary thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "SFX Award for Best Actress",
+      "award.award_category.disciplines_or_subjects",
+      "Female"
+    ],
+    [
+      "Osteoporosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Bayview Correctional Facility"
+    ],
+    [
+      "Psylocke",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "m.02zd4v3",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Camino Nuevo Correctional Center",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.04wxl92"
+    ],
+    [
+      "Olivia Schneider",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Serena van der Woodsen",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "m.0d5218k",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Postpartum thyroiditis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1jx1"
+    ],
+    [
+      "Arthritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04j64qg"
+    ],
+    [
+      "m.0j7v__p",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Plantar fasciitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Plantar fasciitis"
+    ],
+    [
+      "Gallstone",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Adhesive capsulitis of shoulder"
+    ],
+    [
+      "Coffee Creek Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Second Glance"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Trigeminal neuralgia"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218k"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lf"
+    ],
+    [
+      "m.0j0ywwk",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Dermatomyositis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Erythema nodosum",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Carpal tunnel syndrome"
+    ],
+    [
+      "Chardonnay Lane-Pascoe",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Trigeminal neuralgia",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteochondritis dissecans"
+    ],
+    [
+      "Somatic symptom disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Arthritis"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pr2"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Federal Prison Camp, Alderson"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrtw"
+    ],
+    [
+      "m.05bvk47",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Multiple sclerosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hirsutism"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04j647d"
+    ],
+    [
+      "Polycystic ovary syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Scleroderma",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04w1g24",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__p"
+    ],
+    [
+      "Zoe Davis",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "female.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Female"
+    ],
+    [
+      "Osteochondritis dissecans",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Rett syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Jill Wagner",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Erythema nodosum"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cushing's syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Hypothyroidism"
+    ],
+    [
+      "Bedford Hills Correctional Facility for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Bartholin's cyst",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02yxhns"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrth"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Irritable bowel syndrome"
+    ],
+    [
+      "Hope Logan",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.article",
+      "m.04tkq_2"
+    ],
+    [
+      "Taconic Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "visual_art.art_subject.artwork_on_the_subject",
+      "Silhouette"
+    ],
+    [
+      "m.0hzxnsq",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Acne",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Urethral syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Inessa Kraft",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteoporosis"
+    ],
+    [
+      "Pyelonephritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Bayview Correctional Facility",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Follicular thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Aoi Hidaka",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Seasonal affective disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Anterior cruciate ligament injury"
+    ],
+    [
+      "Federal Correctional Institution, Danbury",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Urinary tract infection"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Postpartum thyroiditis"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.0h8ldqh"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sb"
+    ],
+    [
+      "Scleritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Alcoholic hepatitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Somatic symptom disorder"
+    ],
+    [
+      "Ureterocele",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Irritable bowel syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_hw"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Taconic Correctional Facility"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Livedo reticularis"
+    ],
+    [
+      "m.052j3w3",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Female",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actress"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Bedford Hills Correctional Facility for Women"
+    ],
+    [
+      "m.052m17c",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "m.05cckl0",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Medullary thyroid cancer"
+    ],
+    [
+      "m.04w1jfn",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Spina bifida",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Trigger finger"
+    ],
+    [
+      "m.05ndsqk",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.05bvkmk",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pain disorder"
+    ],
+    [
+      "m.0kfyrtw",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "m.05c6k96",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scoliosis"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Edna Mahan Correctional Facility for Women"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Somatization disorder"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Alzheimer's disease"
+    ],
+    [
+      "Gravure idol",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Ovarian cancer"
+    ],
+    [
+      "Macular degeneration",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Iron-deficiency anemia"
+    ],
+    [
+      "Patsy Stone",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.02zd4v3"
+    ],
+    [
+      "Alzheimer's disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.05z1cdk",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Silk Spectre",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Acrodermatitis chronica atrophicans",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04j647d",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Spina bifida"
+    ],
+    [
+      "m.02yxhp8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.0blp57t",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Edna Mahan Correctional Facility for Women",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Dyshidrosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.04wyfrp",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Shannon Donnelly-Lawson",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rett syndrome"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Thyroid cancer"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymyalgia rheumatica"
+    ],
+    [
+      "Jennifer Munson Donovan",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "m.0gxvt_c",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Lupus erythematosus"
+    ],
+    [
+      "Cystitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Pyogenic granuloma",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polymyositis"
+    ],
+    [
+      "m.04wvp27",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Polymyositis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pelvic inflammatory disease"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05c6k96"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Chronic fatigue syndrome"
+    ],
+    [
+      "Polymyalgia rheumatica",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05z1cdk"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.052m17c"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polycystic ovary syndrome"
+    ],
+    [
+      "m.0gxvv0y",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Apology",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Female"
+    ],
+    [
+      "Chronic fatigue syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Somatization disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.article",
+      "m.02zsy"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Myasthenia gravis"
+    ],
+    [
+      "Adhesive capsulitis of shoulder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Hirsutism",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Myasthenia gravis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.0h8ldqh",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "m.0bm6pr2",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Gallstone"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Seasonal affective disorder"
+    ],
+    [
+      "Drucilla Winters",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Conversion disorder",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Cece",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckl0"
+    ],
+    [
+      "Bleona",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Massachusetts Correctional Institution – Framingham"
+    ],
+    [
+      "m.04wxl92",
+      "base.firsts.first_achievement.category",
+      "Female"
+    ],
+    [
+      "Massachusetts Correctional Institution – Framingham",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dyshidrosis"
+    ],
+    [
+      "Lupus erythematosus",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Apology"
+    ],
+    [
+      "United States women's national gymnastics team",
+      "sports.sports_team.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf1bk"
+    ],
+    [
+      "Federal Prison Camp, Alderson",
+      "base.prison.prison.prison_type",
+      "Female"
+    ],
+    [
+      "Ovarian cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsq"
+    ],
+    [
+      "Female",
+      "common.topic.notable_for",
+      "g.125ft2__h"
+    ],
+    [
+      "m.05bvjxs",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.0j0ywwk"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dermatomyositis"
+    ],
+    [
+      "Sarah Barnes",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Goitre",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.05ndsqk"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Nephritis"
+    ],
+    [
+      "m.0kfyrth",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scleroderma"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cirrhosis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Rhinitis"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bw"
+    ],
+    [
+      "Amber Gates",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Necrobiosis lipoidica"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Camino Nuevo Correctional Center"
+    ],
+    [
+      "Female",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp57t"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Ureterocele"
+    ],
+    [
+      "Female",
+      "common.topic.image",
+      "female.jpg"
+    ],
+    [
+      "Scoliosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Miss Yvonne",
+      "fictional_universe.fictional_character.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.firsts.first_achievement_category.firsts",
+      "m.052j3w3"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkmk"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Federal Correctional Institution, Danbury"
+    ],
+    [
+      "Second Glance",
+      "visual_art.artwork.art_subject",
+      "Female"
+    ],
+    [
+      "m.0zm9_hw",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Goitre"
+    ],
+    [
+      "m.02_98hp",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "m.0d521lf",
+      "biology.hybrid_parentage.parent_sex",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Acrodermatitis chronica atrophicans"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk47"
+    ],
+    [
+      "m.04j64qg",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Lichen planus"
+    ],
+    [
+      "Hypothyroidism",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scleritis"
+    ],
+    [
+      "Silhouette",
+      "visual_art.artwork.art_subject",
+      "Female"
+    ],
+    [
+      "Graves' disease",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.gender.gender_identity.people",
+      "m.04w1g24"
+    ],
+    [
+      "Female",
+      "base.prison.prison_type.prisons_of_this_type",
+      "Coffee Creek Correctional Facility"
+    ],
+    [
+      "Livedo reticularis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Hypothyroidism",
+      "medicine.disease.symptoms",
+      "Carpal tunnel syndrome"
+    ],
+    [
+      "Carpal tunnel syndrome",
+      "medicine.symptom.symptom_of",
+      "Hypothyroidism"
+    ],
+    [
+      "Lupus erythematosus",
+      "medicine.risk_factor.diseases",
+      "Myasthenia gravis"
+    ],
+    [
+      "Myasthenia gravis",
+      "medicine.disease.risk_factors",
+      "Lupus erythematosus"
+    ],
+    [
+      "Hypothyroidism",
+      "medicine.disease.symptoms",
+      "Arthritis"
+    ],
+    [
+      "Arthritis",
+      "medicine.symptom.symptom_of",
+      "Hypothyroidism"
+    ],
+    [
+      "Iron-deficiency anemia",
+      "medicine.disease.symptoms",
+      "Restless legs syndrome"
+    ],
+    [
+      "Restless legs syndrome",
+      "medicine.symptom.symptom_of",
+      "Iron-deficiency anemia"
+    ]
+  ]
+}

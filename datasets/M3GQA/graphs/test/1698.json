@@ -1,0 +1,1300 @@
+{
+  "graph_id": 1698,
+  "subgraph": [
+    [
+      "Juliette Binoche",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Juliette Binoche",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Juliette Binoche",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Juliette Binoche"
+    ],
+    [
+      "Juliette Binoche",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Juliette Binoche",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Juliette Binoche",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Juliette Binoche",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Juliette Binoche",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Juliette Binoche",
+      "freebase.valuenotation.is_reviewed",
+      "Siblings"
+    ],
+    [
+      "Tariq ibn Ziyad",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tariq ibn Ziyad",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Tariq ibn Ziyad",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Tariq ibn Ziyad",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Tariq ibn Ziyad",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Tariq ibn Ziyad"
+    ],
+    [
+      "Tariq ibn Ziyad",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tariq ibn Ziyad",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Mohammed VI of Morocco",
+      "people.person.parents",
+      "Hassan II of Morocco"
+    ],
+    [
+      "Hassan II of Morocco",
+      "people.person.children",
+      "Mohammed VI of Morocco"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Hassan II of Morocco"
+    ],
+    [
+      "Hassan II of Morocco",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hassan II of Morocco",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Elma Aveiro",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Jamel Debbouze",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Eden Riegel",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Omar Berdouni",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "type.property.expected_type",
+      "Country"
+    ],
+    [
+      "RedOne",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Hugo Aveiro",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Country of nationality"
+    ],
+    [
+      "Trevor Myles",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Amelle Berrabah",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Irina Shayk",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Juan Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#range",
+      "Country"
+    ],
+    [
+      "Carlos Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Ronald Reagan",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Lance Kawas",
+      "freebase.valuenotation.has_value",
+      "Country of nationality"
+    ],
+    [
+      "Laila Rouass",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Hicham El Guerrouj",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Country of nationality",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Children",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Parents",
+      "type.property.reverse_property",
+      "Children"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Cristiano Ronaldo Jr.",
+      "freebase.valuenotation.has_no_value",
+      "Children"
+    ],
+    [
+      "Parents",
+      "owl#inverseOf",
+      "Children"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Children",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Elisa Salinas",
+      "freebase.valuenotation.has_value",
+      "Children"
+    ],
+    [
+      "Jamel Debbouze",
+      "freebase.valuenotation.is_reviewed",
+      "Children"
+    ],
+    [
+      "Children",
+      "type.property.master_property",
+      "Parents"
+    ],
+    [
+      "Children",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Abd el-Krim"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Laila Rouass"
+    ],
+    [
+      "Tahar Ben Jelloun",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "common.topic.image",
+      "Moroccan people mosaicg"
+    ],
+    [
+      "Eden Riegel",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "RedOne",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Amelle Berrabah"
+    ],
+    [
+      "Badr Hari",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Marouane Fellaini"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Ahmed Aboutaleb"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "Berber languages"
+    ],
+    [
+      "Karima Adebibe",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Omar Berdouni",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Myriem Roussel"
+    ],
+    [
+      "Moroccans",
+      "common.topic.article",
+      "m.0c3wsgl"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Karima Adebibe"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "French"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Mohammed VI of Morocco"
+    ],
+    [
+      "Amelle Berrabah",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Ibn Battuta"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Tahar Ben Jelloun"
+    ],
+    [
+      "Moroccans",
+      "common.topic.notable_for",
+      "g.1255574vr"
+    ],
+    [
+      "Marouane Chamakh",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Badr Hari"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "Rifian language"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "Tashelhiyt Language"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Ismail Ibn Sharif"
+    ],
+    [
+      "Abd el-Krim",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Marouane Fellaini",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "Central Atlas Tamazight"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Marouane Chamakh"
+    ],
+    [
+      "Saïd Taghmaoui",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Hicham El Guerrouj",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Hicham El Guerrouj"
+    ],
+    [
+      "Moroccans",
+      "common.topic.notable_types",
+      "Ethnicity"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "Moroccan Arabic"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.languages_spoken",
+      "Arabic Language"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Omar Berdouni"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Jamel Debbouze"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Saïd Taghmaoui"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Cristiano Ronaldo"
+    ],
+    [
+      "Moroccans",
+      "common.topic.image",
+      "Moroccans"
+    ],
+    [
+      "Mohammed VI of Morocco",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Myriem Roussel",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Eden Riegel"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "Abdullah al-Ghumari"
+    ],
+    [
+      "Moroccans",
+      "common.topic.article",
+      "m.0cc5y78"
+    ],
+    [
+      "Laila Rouass",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Ahmed Aboutaleb",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "common.topic.image",
+      "Moroccans1"
+    ],
+    [
+      "Jamel Debbouze",
+      "people.person.ethnicity",
+      "Moroccans"
+    ],
+    [
+      "Moroccans",
+      "people.ethnicity.people",
+      "RedOne"
+    ],
+    [
+      "Eden Riegel",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "owl#inverseOf",
+      "People born here"
+    ],
+    [
+      "Lance Kawas",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Laila Rouass",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Adolfo Meléndez",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Hugo Aveiro",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Omar Berdouni",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.reverse_property",
+      "People born here"
+    ],
+    [
+      "Tahar Ben Jelloun",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Saïd Taghmaoui",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Jamel Debbouze",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Ronald Reagan",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Hicham El Guerrouj",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "People born here",
+      "type.property.master_property",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Place of birth",
+      "rdf-schema#range",
+      "Location"
+    ],
+    [
+      "Maria Dolores dos Santos Aveiro",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Irina Shayk",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Amelle Berrabah",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Cristiano Ronaldo Jr.",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Place of birth"
+    ],
+    [
+      "RedOne",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Place of birth",
+      "type.property.expected_type",
+      "Location"
+    ],
+    [
+      "Elma Aveiro",
+      "freebase.valuenotation.has_value",
+      "Place of birth"
+    ],
+    [
+      "Juan Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Carlos Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Place of birth"
+    ],
+    [
+      "Irina Shayk",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Laila Rouass",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Myriem Roussel",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Amelle Berrabah",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Karima Adebibe",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Liliana Catia Aveiro",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Elma Aveiro",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Maria Dolores dos Santos Aveiro",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Elisa Salinas",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Eden Riegel",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Laila Rouass",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Amelle Berrabah",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Saïd Taghmaoui",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Tahar Ben Jelloun",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Jamel Debbouze",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Irina Shayk",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Carlos Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Juan Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "rdf-schema#range",
+      "Gender"
+    ],
+    [
+      "Omar Berdouni",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Ronald Reagan",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Trevor Myles",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Gender",
+      "type.property.expected_type",
+      "Gender"
+    ],
+    [
+      "Eden Riegel",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Hicham El Guerrouj",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Lance Kawas",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "Adolfo Meléndez",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "RedOne",
+      "freebase.valuenotation.is_reviewed",
+      "Gender"
+    ],
+    [
+      "RedOne",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Laila Rouass",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Eden Riegel",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Irina Shayk",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#range",
+      "Date/Time"
+    ],
+    [
+      "Amelle Berrabah",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Adolfo Meléndez",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Tahar Ben Jelloun",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Ronald Reagan",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Lance Kawas",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Maria Dolores dos Santos Aveiro",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Elma Aveiro",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Hicham El Guerrouj",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Carlos Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Hugo Aveiro",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Jamel Debbouze",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Elisa Salinas",
+      "freebase.valuenotation.has_value",
+      "Date of birth"
+    ],
+    [
+      "Abd el-Krim",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Juan Padrós",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Saïd Taghmaoui",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Omar Berdouni",
+      "freebase.valuenotation.is_reviewed",
+      "Date of birth"
+    ],
+    [
+      "Date of birth",
+      "type.property.expected_type",
+      "Date/Time"
+    ],
+    [
+      "Carlos Padrós",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.expected_type",
+      "Person"
+    ],
+    [
+      "Badr Hari",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Ronald Reagan",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Saïd Taghmaoui",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Parents"
+    ],
+    [
+      "Myriem Roussel",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Abd el-Krim",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Omar Berdouni",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#range",
+      "Person"
+    ],
+    [
+      "Eden Riegel",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Lance Kawas",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Juan Padrós",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Parents"
+    ],
+    [
+      "Laila Rouass",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Parents",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Siblings",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Siblings",
+      "type.property.expected_type",
+      "Sibling Relationship"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Siblings"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Siblings"
+    ],
+    [
+      "Saïd Taghmaoui",
+      "freebase.valuenotation.has_value",
+      "Siblings"
+    ],
+    [
+      "Siblings",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Jamel Debbouze",
+      "freebase.valuenotation.is_reviewed",
+      "Siblings"
+    ],
+    [
+      "Siblings",
+      "rdf-schema#range",
+      "Sibling Relationship"
+    ],
+    [
+      "Siblings",
+      "type.property.master_property",
+      "Sibling"
+    ],
+    [
+      "Ronald Reagan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Santos",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Lance Kawas",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Trevor Myles",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jamel Debbouze",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tahar Ben Jelloun",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Adolfo Meléndez",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Omar Berdouni",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Juan Padrós",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pasqual",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Hicham El Guerrouj",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "RedOne",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Badr Hari",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ahmed Aboutaleb",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Hugo Aveiro",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "José Dinis Aveiro",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marouane Fellaini",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Cristiano Ronaldo Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Saïd Taghmaoui",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Carlos Padrós",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Abd el-Krim",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marouane Chamakh",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mohammed VI of Morocco",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Elma Aveiro",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Liliana Catia Aveiro",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Height",
+      "rdf-schema#domain",
+      "Person"
+    ],
+    [
+      "Cristiano Ronaldo",
+      "freebase.valuenotation.is_reviewed",
+      "Height"
+    ],
+    [
+      "Hugo Aveiro",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "José Dinis Aveiro",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Height",
+      "rdf-schema#range",
+      "Floating Point Number"
+    ],
+    [
+      "Cristiano Ronaldo Jr.",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ],
+    [
+      "Height",
+      "type.property.unit",
+      "Meter"
+    ],
+    [
+      "Height",
+      "type.property.schema",
+      "Person"
+    ],
+    [
+      "Height",
+      "type.property.expected_type",
+      "Floating Point Number"
+    ],
+    [
+      "Person",
+      "type.type.properties",
+      "Height"
+    ],
+    [
+      "Maria Dolores dos Santos Aveiro",
+      "freebase.valuenotation.has_value",
+      "Height"
+    ]
+  ]
+}

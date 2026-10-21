@@ -1,0 +1,5400 @@
+{
+  "graph_id": 25865,
+  "subgraph": [
+    [
+      "Adventures by Disney - Australia Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Sydney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Sydney"
+    ],
+    [
+      "Sydney",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sydney",
+      "base.biblioness.bibs_location.country",
+      "Australia"
+    ],
+    [
+      "Sydney",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Sydney",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "Sydney",
+      "location.location.containedby",
+      "Australia"
+    ],
+    [
+      "Sydney",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "London",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "London",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "London",
+      "base.biblioness.bibs_topic.subsumes",
+      "London"
+    ],
+    [
+      "2009 Raindance Film Festival",
+      "time.event.locations",
+      "London"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.featured_film_locations",
+      "London"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "London"
+    ],
+    [
+      "Adventures by Disney - England and France Vacation",
+      "travel.tour_operator.travel_destinations",
+      "London"
+    ],
+    [
+      "Peter Wollen",
+      "people.person.place_of_birth",
+      "London"
+    ],
+    [
+      "London",
+      "base.biblioness.bibs_topic.is_really",
+      "London"
+    ],
+    [
+      "Paul Morrison",
+      "people.person.place_of_birth",
+      "London"
+    ],
+    [
+      "London",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "London",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - England and France Vacation"
+    ],
+    [
+      "United Kingdom",
+      "location.country.capital",
+      "London"
+    ],
+    [
+      "London",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "2008 Raindance Film Festival",
+      "time.event.locations",
+      "London"
+    ],
+    [
+      "London",
+      "location.location.containedby",
+      "England"
+    ],
+    [
+      "England",
+      "location.country.capital",
+      "London"
+    ],
+    [
+      "Peter Safran",
+      "people.person.place_of_birth",
+      "London"
+    ],
+    [
+      "London",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "Waldeck",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Waldeck",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Germany Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Waldeck"
+    ],
+    [
+      "Waldeck",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Adventures by Disney - Germany Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Waldeck"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.capital",
+      "Vienna"
+    ],
+    [
+      "Vienna",
+      "location.administrative_division.second_level_division_of",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Austria",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Vienna"
+    ],
+    [
+      "Austria",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Austria",
+      "location.country.second_level_divisions",
+      "Vienna"
+    ],
+    [
+      "Austria",
+      "location.country.second_level_divisions",
+      "Salzburg"
+    ],
+    [
+      "Vienna",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.capital",
+      "Vienna"
+    ],
+    [
+      "Vienna",
+      "location.administrative_division.country",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.first_level_divisions",
+      "Vienna"
+    ],
+    [
+      "Vienna",
+      "base.biblioness.bibs_location.country",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Salzburg",
+      "location.location.containedby",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.administrative_divisions",
+      "Vienna"
+    ],
+    [
+      "Vienna",
+      "location.administrative_division.first_level_division_of",
+      "Austria"
+    ],
+    [
+      "m.0q4fksm",
+      "film.film_regional_release_date.film_release_region",
+      "Austria"
+    ],
+    [
+      "Battle of San Lorenzo de la Muga",
+      "base.culturalevent.event.entity_involved",
+      "Austria"
+    ],
+    [
+      "Salzburg",
+      "location.administrative_division.second_level_division_of",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Austria",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Vienna",
+      "location.location.containedby",
+      "Austria"
+    ],
+    [
+      "Austria",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Adventures by Disney - Australia Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Australia Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Great Barrier Reef"
+    ],
+    [
+      "Kuranda",
+      "common.topic.subject_of",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Great Barrier Reef Marine Park",
+      "common.topic.subject_of",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Port Arthur",
+      "common.topic.subject_of",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Adventures by Disney - Australia Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Tasmania"
+    ],
+    [
+      "Adventures by Disney - Australia Vacation",
+      "common.topic.subjects",
+      "Port Arthur"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Great Barrier Reef",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Adventures by Disney - Australia Vacation",
+      "common.topic.subjects",
+      "Kuranda"
+    ],
+    [
+      "Tasmania",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Adventures by Disney - Australia Vacation",
+      "common.topic.subjects",
+      "Great Barrier Reef Marine Park"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Heidelberg"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Sacred Valley"
+    ],
+    [
+      "Aswan",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Otavalo",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Abu Simbel temples"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.geographic_scope",
+      "International organization"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Scotland Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Versailles"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Otavalo"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "France"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Ecuador"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "San José"
+    ],
+    [
+      "Norway",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Rothenburg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cape Town"
+    ],
+    [
+      "Cambodia",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "      Adventures by Disney - Norway Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "m.011lljzf",
+      "organization.organization_relationship.child",
+      "Adventures by Disney"
+    ],
+    [
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.article",
+      "m.09rmp8"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "China"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Utah"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Costa Rica"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Utah",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Santorini",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Amalfi Coast"
+    ],
+    [
+      "Arenal Volcano",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Amazon River",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Sacred Valley",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Egypt"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Nashville"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Ireland",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Ecuador",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Laos",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "m.0ny6h_n",
+      "organization.organization_relationship.child",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Giza"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Peru Vacation"
+    ],
+    [
+      "Adventures by Disney - Scotland Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Cape Town",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Ecuador: Amazon and Galapagos Islands",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Hanoi",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Switzerland"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Peru"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Norway"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "San Francisco"
+    ],
+    [
+      "Barcelona",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Alaska"
+    ],
+    [
+      "Scotland",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Munich"
+    ],
+    [
+      "Port Arthur",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Austria, Germany, Czech Republic Vacation"
+    ],
+    [
+      "France",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Shanghai",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Baltic Sea",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Baltic Sea"
+    ],
+    [
+      "Australia",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Arenal Volcano"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Kuranda"
+    ],
+    [
+      "Ho Chi Minh City",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Paris"
+    ],
+    [
+      "Guanacaste Province",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Cairo",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Versailles",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Germany Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Anaheim"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Sharm el-Sheikh"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - France Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Copenhagen"
+    ],
+    [
+      "Knysna",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.parent",
+      "m.011lljzf"
+    ],
+    [
+      "Luxor",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Kapama Game Reserve"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Machu Picchu"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise"
+    ],
+    [
+      "Alberta",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Athens",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - China Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - 7-Night Mediterranean Magic Cruise"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Quito"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Nashville Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Alberta"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Egypt Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Australia"
+    ],
+    [
+      "China",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Montana"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Siem Reap"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Ecuador: Amazon and Galapagos Islands"
+    ],
+    [
+      "Switzerland",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Ireland Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Aswan"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "New York City"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "South Africa"
+    ],
+    [
+      "Heidelberg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Paris",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Montana",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Prague",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Quito",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Delphi"
+    ],
+    [
+      "Adventures by Disney - England and France Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Costa Rica Vacation"
+    ],
+    [
+      "Adventures by Disney - Egypt Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Barcelona"
+    ],
+    [
+      "Vienna",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - France Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Xi'an",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Salzburg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "England"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.notable_for",
+      "g.12h2_skk4"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Santorini"
+    ],
+    [
+      "Galápagos Islands",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Salzburg"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Spain"
+    ],
+    [
+      "Amalfi Coast",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - China Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Laos"
+    ],
+    [
+      "Egypt",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Greece",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Barcelona Pre-Cruise Stay",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - South Africa Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Chengdu"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Port Arthur"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Knysna"
+    ],
+    [
+      "Czech Republic",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Munich",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cairo"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hollywood"
+    ],
+    [
+      "Santa Cruz Island",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "San José",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Scotland"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - England and France Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Bavarian Alps"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Crete"
+    ],
+    [
+      "Lima",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Costa Rica Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Delphi",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Santa Cruz Island"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Great Barrier Reef"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Ho Chi Minh City"
+    ],
+    [
+      "San Francisco",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Ecuador and Galapagos Islands"
+    ],
+    [
+      "Abu Simbel temples",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Yasuni National Park"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hanoi"
+    ],
+    [
+      "Nashville",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Italy",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Normandy"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Greece Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Personalised travel planning"
+    ],
+    [
+      "Chengdu",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Peru",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Prague"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hong Kong"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hội An"
+    ],
+    [
+      "Machu Picchu",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cusco"
+    ],
+    [
+      "Hong Kong",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Kuranda",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Vacation Package"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Lima"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Shanghai"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Tasmania"
+    ],
+    [
+      "Hội An",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Germany",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - South Africa Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Germany Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Athens"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Great Barrier Reef Marine Park"
+    ],
+    [
+      "Alaska",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Crete",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Rothenburg"
+    ],
+    [
+      "Adventures by Disney - Italy and Amalfi Coast Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Barcelona Pre-Cruise Stay"
+    ],
+    [
+      "Adventures by Disney - 7-Night Mediterranean Magic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Wyoming",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Luang Prabang"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Italy: Tuscany"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Galápagos Islands"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Wyoming"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Beijing"
+    ],
+    [
+      "Siem Reap",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Ecuador and Galapagos Islands",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Vienna"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "      Adventures by Disney - Norway Vacation"
+    ],
+    [
+      "Great Barrier Reef",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Ireland"
+    ],
+    [
+      "Adventures by Disney - Ireland Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Germany"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.phone_number",
+      "m.011llj_0"
+    ],
+    [
+      "South Africa",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Giza",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Luxor"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Greece"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.parent",
+      "m.0ny6h_n"
+    ],
+    [
+      "Beijing",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Copenhagen",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Czech Republic"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Xi'an"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Amazon River"
+    ],
+    [
+      "Adventures by Disney - Greece Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Luang Prabang",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Costa Rica",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cambodia"
+    ],
+    [
+      "Hollywood",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Cusco",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Austria, Germany, Czech Republic Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Tortuguero"
+    ],
+    [
+      "Anaheim",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Tourism"
+    ],
+    [
+      "Great Barrier Reef Marine Park",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Tasmania",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Vietnam",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Guilin",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Italy and Amalfi Coast Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Italy"
+    ],
+    [
+      "Normandy",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Travel agency"
+    ],
+    [
+      "Adventures by Disney - Nashville Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Guilin"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Guanacaste Province"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Vietnam"
+    ],
+    [
+      "England",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Wangen an der Aare is contained in both Oberaargau and Wangen."
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Valladolid",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Statistical region"
+    ],
+    [
+      "Barberà del Vallès",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Bangui should not be contained in Ombella-M'Poko."
+    ],
+    [
+      "Giza",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Taiwanese provincial city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City",
+      "freebase.equivalent_topic.equivalent_type",
+      "City/Town/Village"
+    ],
+    [
+      "Vietnamese provincial city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Gavà",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010h51yy"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0105y_05"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Glarus should be contained in some Argentinian department, Swiss district, Municipality, or Brazilian municipality within Canton of Glarus."
+    ],
+    [
+      "Oviedo",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Alella",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Igualada",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Caldes de Montbui",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Andreu de la Barca",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Barcelona",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "Cabrera de Mar",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.domain",
+      "Location"
+    ],
+    [
+      "Mataró",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Significant"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011nr3__"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010h51x5"
+    ],
+    [
+      "Ukrainian independent city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Geneva should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Geneva."
+    ],
+    [
+      "Russian federal city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District.",
+      "base.uncommon.exception.focus",
+      "City/Town/Village"
+    ],
+    [
+      "U.S. independent city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "German city"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011x4lp6"
+    ],
+    [
+      "Borredà",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Vietnamese provincial city"
+    ],
+    [
+      "Peru",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010kk9vk"
+    ],
+    [
+      "U.S. federal district",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "German independent city"
+    ],
+    [
+      "Russian federal city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012z3l2r"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "U.S. independent city"
+    ],
+    [
+      "German city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Marseille should not be contained in Bouches-du-Rhône."
+    ],
+    [
+      "Mollet del Vallès",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Jerez de la Frontera",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0111t6pl"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011jtngz"
+    ],
+    [
+      "Begues",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Tecklenburg is contained in both Tecklenburg and Steinfurt."
+    ],
+    [
+      "Sabadell",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Barcelona",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Village",
+      "freebase.equivalent_topic.equivalent_type",
+      "City/Town/Village"
+    ],
+    [
+      "Corbera de Llobregat",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Villa La Angostura is contained in both Los Lagos Department and Río Negro Province."
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.equivalent_topic",
+      "Town"
+    ],
+    [
+      "Santa Coloma de Gramenet",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "U.S. federal district",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City Limits",
+      "rdf-schema#domain",
+      "City/Town/Village"
+    ],
+    [
+      "Martorell",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Hội An",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Neighborhood"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.properties",
+      "County or Province"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Polish city of county right"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011jt74t"
+    ],
+    [
+      "Seville",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.expected_codes",
+      "FIPS 10-4"
+    ],
+    [
+      "Aswan",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Bilbao",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Australian rural city"
+    ],
+    [
+      "New Zealand city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Valencia",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Luang Prabang",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Badalona",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Hungarian capital city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Beijing",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Delémont should be contained in some Argentinian department, Swiss district, Municipality, or Brazilian municipality within Canton of Jura.",
+      "base.uncommon.exception.involves",
+      "City/Town/Village"
+    ],
+    [
+      "Vietnamese provincial city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Schaffhausen should be contained in some Argentinian department, Swiss district, Municipality, or Brazilian municipality within Canton of Schaffhausen."
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Administrative Area"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Saanen is contained in both Obersimmental-Saanen and Saanen."
+    ],
+    [
+      "Quito",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Esplugues de Llobregat",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Lleida",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "South Korean metropolitan city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Salzburg",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Postal codes",
+      "rdf-schema#domain",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Adrià de Besòs",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Laufen is contained in both Bavaria and Switzerland.",
+      "base.uncommon.exception.involves",
+      "City/Town/Village"
+    ],
+    [
+      "Viladecans",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Trogen should be contained in some Argentinian department, Swiss district, Municipality, or Brazilian municipality within Appenzell Ausserrhoden."
+    ],
+    [
+      "Nashville",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Dated location"
+    ],
+    [
+      "Shanghai",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.equivalent_topic",
+      "City"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Town"
+    ],
+    [
+      "Georgian city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Cerdanyola del Vallès",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vienna",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Inanimate"
+    ],
+    [
+      "Siem Reap",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Andreu de Llavaneres",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Hungarian capital city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Earth"
+    ],
+    [
+      "German independent city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011ckjyy"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011ckj_k"
+    ],
+    [
+      "Otavalo",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Córdoba",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010rnll5"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Torrent is contained in both Horta Oest and Valencia."
+    ],
+    [
+      "U.S. independent city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Córdoba",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Town",
+      "freebase.equivalent_topic.equivalent_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.properties",
+      "City Limits"
+    ],
+    [
+      "Spanish autonomous city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Taiwanese provincial city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011m57bw"
+    ],
+    [
+      "Seville",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Berisso is not contained in an Administrative Area."
+    ],
+    [
+      "Sant Feliu de Llobregat",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Caldes d'Estrac",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Madrid",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010h51zj"
+    ],
+    [
+      "City/Town/Village",
+      "common.topic.article",
+      "m.03bnd2c"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.properties",
+      "Neighborhoods"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Taiwanese provincial city"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.administrative_area_level.examples",
+      "Congolese commune"
+    ],
+    [
+      "Spanish autonomous city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Kazakhstani city"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Ukrainian independent city"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010r12s4"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Grandson is contained in both Grandson and Jura-North Vaudois."
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Orbe is contained in both Orbe and Jura-North Vaudois."
+    ],
+    [
+      "Azerbaijani city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Component city of the Philippines"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Ugandan city council"
+    ],
+    [
+      "Vilassar de Mar",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Cusco",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Azerbaijani city"
+    ],
+    [
+      "German city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Hinwil should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Zürich."
+    ],
+    [
+      "Vilassar de Dalt",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Port Arthur",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010kkbry"
+    ],
+    [
+      "Murcia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "Paris",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City Limits",
+      "type.property.schema",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Esteve Sesrovires",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vilanova de Sau",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Postal codes",
+      "type.property.schema",
+      "City/Town/Village"
+    ],
+    [
+      "Significant",
+      "freebase.type_kind.types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "type.type.properties",
+      "Postal codes"
+    ],
+    [
+      "Valladolid",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Cugat del Vallès",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011ckjwd"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "City of Trinidad and Tobago"
+    ],
+    [
+      "Marbella",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "New Zealand city"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Herisau should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Appenzell Ausserrhoden."
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011c38cw"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Georgian city"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Statistical region"
+    ],
+    [
+      "Carthage",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "New Zealand city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010h51y0"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Villefranche-sur-Mer",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Murcia",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Èze",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Hanoi",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011m9jg_"
+    ],
+    [
+      "Calaf",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "Anaheim",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Component city of the Philippines",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Adelaide should be contained in some Argentinian department, Municipality, or Brazilian municipality within Australia.",
+      "base.uncommon.exception.involves",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Vicenç de Montalt",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Cossonay is contained in both Morges and Cossonay."
+    ],
+    [
+      "Cardona, Spain",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "German independent city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0111t6vw"
+    ],
+    [
+      "Oviedo",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010kkbfd"
+    ],
+    [
+      "Granollers",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011ckjv4"
+    ],
+    [
+      "Olesa de Montserrat",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Pere de Ribes",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Laufen is contained in both Bavaria and Switzerland."
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Hungarian capital city"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Uzbek city"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011jt6z3"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012w3hyx"
+    ],
+    [
+      "Berga",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012_976x"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011nbp0r"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011lvjc_"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Dated location"
+    ],
+    [
+      "Cairo",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Cornellà de Llobregat",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Australian rural city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Málaga",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vic",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "El Prat de Llobregat",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Pallejà",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Málaga",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "Cervelló",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Pol de Mar",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Tunis",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Teruel",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sabadell",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Vietnamese commune",
+      "base.aareas.schema.administrative_area_type.level",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011ckk64"
+    ],
+    [
+      "Prague",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Argentona",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011ckkfd"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Agent"
+    ],
+    [
+      "Polish city of county right",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Azerbaijani city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Iscle de Vallalta",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Joan Despí",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "El Papiol",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Manresa",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "San Francisco",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010h51_h"
+    ],
+    [
+      "Vallgorguina",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Vicenç dels Horts",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Bilbao",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Luxor",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Santa Susanna, Catalonia",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Darwin should not be contained in Northern Territory."
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011f9yg3"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Burgdorf is contained in both Emmental and Burgdorf."
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Avenches is contained in both Avenches and Broye-Vully."
+    ],
+    [
+      "Versailles",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Georgian city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "A Coruña",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vigo",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Zaragoza",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.equivalent_topic",
+      "Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Bangalore should not be contained in Bangalore Urban."
+    ],
+    [
+      "Lleida",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Valencia should be contained in some Argentinian department, Municipality, or Brazilian municipality within Valencia."
+    ],
+    [
+      "Castellbisbal",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Russian federal city"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Delémont should be contained in some Argentinian department, Swiss district, Municipality, or Brazilian municipality within Canton of Jura."
+    ],
+    [
+      "Ripollet",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vilafranca del Penedès",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "South Korean metropolitan city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Zaragoza",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011ckk2n"
+    ],
+    [
+      "Copenhagen",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Adelaide should be contained in some Argentinian department, Municipality, or Brazilian municipality within Australia."
+    ],
+    [
+      "Phoenix should not be contained in Maricopa County.",
+      "base.uncommon.exception.involves",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Canton of Luxembourg is subdivided by types at different levels."
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Moudon is contained in both Broye-Vully and Moudon."
+    ],
+    [
+      "Huesca",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Polish city of county right",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Abrera",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Spanish autonomous city"
+    ],
+    [
+      "Knysna",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Ukrainian independent city",
+      "base.aareas.schema.administrative_area_type.kind_of",
+      "City/Town/Village"
+    ],
+    [
+      "Lima",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "New York City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Sadurní d'Anoia",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "L'Hospitalet de Llobregat",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011tz0b1"
+    ],
+    [
+      "Cape Town",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "South Korean metropolitan city"
+    ],
+    [
+      "Vic",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "Huesca",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.011vl2ss"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "City/Town/Village"
+    ],
+    [
+      "Montcada i Reixac",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Collbató",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Component city of the Philippines",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Molins de Rei",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Canyelles",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Madrid",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Arenys de Munt",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Cebrià de Vallalta",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Moldovan city"
+    ],
+    [
+      "Castellón de la Plana",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Just Desvern",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.012_74vb"
+    ],
+    [
+      "City/Town/Village",
+      "base.uncommon.topic.exceptions",
+      "Phoenix should not be contained in Maricopa County."
+    ],
+    [
+      "Kuranda",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "U.S. federal district"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.0114s4js"
+    ],
+    [
+      "City/Town/Village",
+      "base.descriptive_names.names.descriptive_name",
+      "m.010h5200"
+    ],
+    [
+      "Sant Feliu de Codines",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Valencia",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "City/Town/Village"
+    ],
+    [
+      "Australian rural city",
+      "freebase.type_hints.included_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sant Celoni",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.administrative_area_level.examples",
+      "Vietnamese commune"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Athens",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "base.aareas.schema.administrative_area_type.kinds",
+      "Lithuanian city municipality"
+    ],
+    [
+      "Australia",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tasmania"
+    ],
+    [
+      "Tasmania",
+      "base.biblioness.bibs_location.country",
+      "Australia"
+    ],
+    [
+      "Port Arthur",
+      "location.location.containedby",
+      "Australia"
+    ],
+    [
+      "Australia",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Mark Burry",
+      "people.person.nationality",
+      "Australia"
+    ],
+    [
+      "Australia",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Australian rural city"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Australia"
+    ],
+    [
+      "Australian rural city",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Australia"
+    ],
+    [
+      "Great Barrier Reef",
+      "location.location.containedby",
+      "Australia"
+    ],
+    [
+      "Australia",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Australian rural city",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Australia"
+    ],
+    [
+      "Kuranda",
+      "location.location.containedby",
+      "Australia"
+    ],
+    [
+      "Tasmania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Australia"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Australia"
+    ],
+    [
+      "Australian rural city",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Australia"
+    ],
+    [
+      "Australia",
+      "location.country.administrative_divisions",
+      "Tasmania"
+    ],
+    [
+      "Australia",
+      "base.uncommon.topic.exceptions",
+      "Adelaide should be contained in some Argentinian department, Municipality, or Brazilian municipality within Australia."
+    ],
+    [
+      "Tasmania",
+      "location.location.containedby",
+      "Australia"
+    ],
+    [
+      "Adelaide should be contained in some Argentinian department, Municipality, or Brazilian municipality within Australia.",
+      "base.uncommon.exception.involves",
+      "Australia"
+    ],
+    [
+      "Australia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Tasmania",
+      "location.administrative_division.country",
+      "Australia"
+    ],
+    [
+      "1992 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United Kingdom"
+    ],
+    [
+      "Jonny Persey",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1992 Summer Olympics"
+    ],
+    [
+      "Paul Morrison",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "m.0j5dbch",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "m.0j578lw",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "United Kingdom"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United Kingdom"
+    ],
+    [
+      "England",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "m.0hzv2n4",
+      "film.film_film_distributor_relationship.region",
+      "United Kingdom"
+    ],
+    [
+      "Peter Safran",
+      "people.person.nationality",
+      "United Kingdom"
+    ],
+    [
+      "m.0wzbgmn",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "England",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "United Kingdom"
+    ],
+    [
+      "Scotland",
+      "base.biblioness.bibs_location.country",
+      "United Kingdom"
+    ],
+    [
+      "Fragile",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Little Ashes",
+      "film.film.country",
+      "United Kingdom"
+    ],
+    [
+      "Scotland",
+      "location.location.containedby",
+      "United Kingdom"
+    ],
+    [
+      "m.0gl7nv2",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Scotland"
+    ],
+    [
+      "Scotland",
+      "location.administrative_division.first_level_division_of",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Scotland",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "m.0q4fkcr",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "Scotland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United Kingdom"
+    ],
+    [
+      "m.0q4hxwl",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.first_level_divisions",
+      "England"
+    ],
+    [
+      "England",
+      "location.administrative_division.country",
+      "United Kingdom"
+    ],
+    [
+      "England",
+      "location.administrative_division.first_level_division_of",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.first_level_divisions",
+      "Scotland"
+    ],
+    [
+      "United Kingdom",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "England"
+    ],
+    [
+      "Little Ashes",
+      "media_common.netflix_title.netflix_genres",
+      "United Kingdom"
+    ],
+    [
+      "United Kingdom",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "England",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United Kingdom"
+    ],
+    [
+      "m.0wzbfkz",
+      "film.film_regional_release_date.film_release_region",
+      "United Kingdom"
+    ],
+    [
+      "25 Carat",
+      "film.film.film_festivals",
+      "2009 Raindance Film Festival"
+    ],
+    [
+      "m.0xnnmp6",
+      "film.film_cut.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Joan Pujol Garcia",
+      "film.film_subject.films",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.subjects",
+      "Joan Pujol Garcia"
+    ],
+    [
+      "Garbo: The Spy",
+      "award.award_nominated_work.award_nominations",
+      "m.0cgzkm7"
+    ],
+    [
+      "Edmon Roch Colom",
+      "film.producer.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0gcsfgh",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0bglc6k",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.release_date_s",
+      "m.0cj5mjv"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.subjects",
+      "World War II"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.release_date_s",
+      "m.0xnnmlb"
+    ],
+    [
+      "2009 International Documentary Film Festival Amsterdam",
+      "film.film_festival_event.films",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0bglc66",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.production_companies",
+      "Televisió de Catalunya"
+    ],
+    [
+      "m.0clzrr1",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.executive_produced_by",
+      "Edmon Roch Colom"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc66"
+    ],
+    [
+      "m.0bglc6x",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0gcx52y",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.directed_by",
+      "Edmon Roch Colom"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.language",
+      "Spanish Language"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.film_festivals",
+      "2010 San Francisco International Film Festival"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.release_date_s",
+      "m.0xnnm5b"
+    ],
+    [
+      "Espionage",
+      "film.film_subject.films",
+      "Garbo: The Spy"
+    ],
+    [
+      "Fernando Velázquez",
+      "film.music_contributor.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc6x"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.language",
+      "Catalan language"
+    ],
+    [
+      "Belén Bernuy",
+      "film.producer.films_executive_produced",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0gd6ndf"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.written_by",
+      "Isaki Lacuesta"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.subjects",
+      "D-Day"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.runtime",
+      "m.0xnnmqt"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0clzrr1"
+    ],
+    [
+      "m.0xnnm5b",
+      "film.film_regional_release_date.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0bglbxh",
+      "film.film_cut.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0bglc4z",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.genre",
+      "History"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc4z"
+    ],
+    [
+      "m.0cj5mjv",
+      "film.film_regional_release_date.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.film_festivals",
+      "2011 Palm Springs International Film Festival"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.subjects",
+      "Espionage"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.written_by",
+      "Edmon Roch Colom"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.cinematography",
+      "Bet Rourich"
+    ],
+    [
+      "Garbo: The Spy",
+      "award.award_winning_work.awards_won",
+      "m.0ch8_3y"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.genre",
+      "Historical fiction"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.film_festivals",
+      "2009 International Documentary Film Festival Amsterdam"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.featured_film_locations",
+      "Barcelona"
+    ],
+    [
+      "m.0bglcfg",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "Madrid",
+      "film.film_location.featured_in_films",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.film_festivals",
+      "2010 Karlovy Vary International Film Festival"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.executive_produced_by",
+      "Belén Bernuy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc5p"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.release_date_s",
+      "m.0xnnmdc"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.notable_types",
+      "Award-Winning Work"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.film_festivals",
+      "2010 Melbourne International Film Festival"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.article",
+      "m.0bgldf_"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0gcsfgh"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0cj5mm2"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.production_companies",
+      "Centuria Films S.L."
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.runtime",
+      "m.0bglbxh"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0cm6r90"
+    ],
+    [
+      "m.0bglc54",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Edmon Roch Colom",
+      "film.writer.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.film_format",
+      "35 mm film"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.country",
+      "Spain"
+    ],
+    [
+      "m.0bglc5b",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.music",
+      "Fernando Velázquez"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.release_date_s",
+      "m.0xnnmjl"
+    ],
+    [
+      "m.0xnnmdc",
+      "film.film_regional_release_date.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.featured_film_locations",
+      "Madrid"
+    ],
+    [
+      "Garbo: The Spy",
+      "freebase.valuenotation.has_no_value",
+      "Film Series"
+    ],
+    [
+      "m.0cm6r90",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0cj5mlx"
+    ],
+    [
+      "m.0bglc5p",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc6k"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0gd6nd3"
+    ],
+    [
+      "m.0xnnmqt",
+      "film.film_cut.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.release_date_s",
+      "m.0xnnm8n"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.production_companies",
+      "Colosé Producciones"
+    ],
+    [
+      "m.0xnnm8n",
+      "film.film_regional_release_date.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Isaki Lacuesta",
+      "film.writer.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0gcrcy_",
+      "film.film_cut.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Sandra Hermida",
+      "film.producer.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.cinematography",
+      "Gabriel Guerra"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.notable_for",
+      "g.1259shmyy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.produced_by",
+      "Sandra Hermida"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.produced_by",
+      "Belén Bernuy"
+    ],
+    [
+      "Barcelona",
+      "film.film_location.featured_in_films",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0cjlh9m"
+    ],
+    [
+      "m.0gd6ndf",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0cgzkm7",
+      "award.award_nomination.nominated_for",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0ch8_3y",
+      "award.award_honor.honored_for",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0xnnmjl",
+      "film.film_regional_release_date.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "m.0cj5mm2",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "freebase.valuenotation.has_no_value",
+      "Sequel"
+    ],
+    [
+      "Edmon Roch Colom",
+      "film.producer.films_executive_produced",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc54"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.article",
+      "m.0cmd4wc"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0gcx52y"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.genre",
+      "Thriller"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.genre",
+      "Biographical film"
+    ],
+    [
+      "Edmon Roch Colom",
+      "film.director.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.language",
+      "English Language"
+    ],
+    [
+      "Garbo: The Spy",
+      "common.topic.webpage",
+      "m.0bglcfg"
+    ],
+    [
+      "m.0cj5mlx",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "freebase.valuenotation.has_no_value",
+      "Prequel"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.film_festivals",
+      "g.1yg4lyt0n"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.executive_produced_by",
+      "Sandra Hermida"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.genre",
+      "Documentary film"
+    ],
+    [
+      "m.0cjlh9m",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.runtime",
+      "m.0xnnmp6"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.produced_by",
+      "Edmon Roch Colom"
+    ],
+    [
+      "m.0xnnmlb",
+      "film.film_regional_release_date.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.edited_by",
+      "Alexander Adams"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.production_companies",
+      "Ikiru Films"
+    ],
+    [
+      "m.0gd6nd3",
+      "common.webpage.topic",
+      "Garbo: The Spy"
+    ],
+    [
+      "Belén Bernuy",
+      "film.producer.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.cinematography",
+      "Joachim Bergamin"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.genre",
+      "War film"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.written_by",
+      "Maria Hervera"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc5b"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.personal_appearances",
+      "m.0bglc5w"
+    ],
+    [
+      "m.0bglc5w",
+      "film.personal_film_appearance.film",
+      "Garbo: The Spy"
+    ],
+    [
+      "Sandra Hermida",
+      "film.producer.films_executive_produced",
+      "Garbo: The Spy"
+    ],
+    [
+      "Garbo: The Spy",
+      "film.film.runtime",
+      "m.0gcrcy_"
+    ],
+    [
+      "Adventures by Disney - England and France Vacation",
+      "common.topic.notable_types",
+      "Tour operator"
+    ],
+    [
+      "Adventures by Disney - England and France Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Fountain of Neptune, Florence"
+    ],
+    [
+      "Peter Wollen",
+      "people.person.nationality",
+      "England"
+    ],
+    [
+      "Peter Wollen",
+      "film.writer.film",
+      "The Passenger"
+    ],
+    [
+      "The Passenger",
+      "film.film.written_by",
+      "Peter Wollen"
+    ],
+    [
+      "Peter Wollen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Peter Wollen",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Little Ashes",
+      "film.film.directed_by",
+      "Paul Morrison"
+    ],
+    [
+      "Paul Morrison",
+      "film.director.film",
+      "Little Ashes"
+    ],
+    [
+      "Paul Morrison",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Paul Morrison",
+      "freebase.valuenotation.is_reviewed",
+      "Country of nationality"
+    ],
+    [
+      "Paul Morrison",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "2008 Raindance Film Festival",
+      "film.film_festival_event.films",
+      "Little Ashes"
+    ],
+    [
+      "m.0gl7nv2",
+      "film.film_regional_release_date.film_regional_debut_venue",
+      "2008 Raindance Film Festival"
+    ],
+    [
+      "Little Ashes",
+      "film.film.film_festivals",
+      "2008 Raindance Film Festival"
+    ],
+    [
+      "England",
+      "travel.travel_destination.tour_operators",
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Boxing",
+      "martial_arts.martial_art.origin",
+      "England"
+    ],
+    [
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "England"
+    ],
+    [
+      "England",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "England"
+    ],
+    [
+      "Peter Safran",
+      "film.producer.film",
+      "Buried"
+    ],
+    [
+      "Peter Safran",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Buried",
+      "film.film.produced_by",
+      "Peter Safran"
+    ],
+    [
+      "Peter Safran",
+      "freebase.valuenotation.has_value",
+      "Parents"
+    ],
+    [
+      "Heidelberg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Germany Vacation"
+    ],
+    [
+      "Munich",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Germany Vacation"
+    ],
+    [
+      "Adventures by Disney - Germany Vacation",
+      "common.topic.notable_types",
+      "Tour operator"
+    ],
+    [
+      "Adventures by Disney - Germany Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Heidelberg"
+    ],
+    [
+      "Adventures by Disney - Germany Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adventures by Disney - Germany Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Munich"
+    ],
+    [
+      "Germany",
+      "travel.travel_destination.tour_operators",
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Salzburg",
+      "base.biblioness.bibs_location.country",
+      "Germany"
+    ],
+    [
+      "German Language",
+      "language.human_language.main_country",
+      "Germany"
+    ],
+    [
+      "German city",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Germany"
+    ],
+    [
+      "Tom Tykwer",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "German city",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Germany"
+    ],
+    [
+      "German independent city",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Germany",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Germany",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "German independent city"
+    ],
+    [
+      "Central European Summer Time",
+      "time.time_zone.locations_in_this_time_zone",
+      "Germany"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Munich",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Germany"
+    ],
+    [
+      "Perfume: The Story of a Murderer",
+      "film.film.country",
+      "Germany"
+    ],
+    [
+      "Heidelberg",
+      "location.location.containedby",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Germany"
+    ],
+    [
+      "German independent city",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Germany"
+    ],
+    [
+      "m.0x05j8n",
+      "film.film_regional_release_date.film_release_region",
+      "Germany"
+    ],
+    [
+      "German independent city",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Germany"
+    ],
+    [
+      "Hans Beimler",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.location.time_zones",
+      "Central European Summer Time"
+    ],
+    [
+      "Bernd Eichinger",
+      "people.person.nationality",
+      "Germany"
+    ],
+    [
+      "Germany",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Germany",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "Germany",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "German city"
+    ],
+    [
+      "Germany",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Heidelberg",
+      "base.biblioness.bibs_location.country",
+      "Germany"
+    ],
+    [
+      "German city",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Germany"
+    ],
+    [
+      "Munich",
+      "base.biblioness.bibs_location.country",
+      "Germany"
+    ],
+    [
+      "Vienna",
+      "freebase.valuenotation.is_reviewed",
+      "Official website"
+    ],
+    [
+      "Vienna",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Austria, Germany, Czech Republic Vacation"
+    ],
+    [
+      "Adventures by Disney - Austria, Germany, Czech Republic Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Vienna"
+    ],
+    [
+      "Vienna",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Mexico",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Neighborhood"
+    ],
+    [
+      "Zimbabwe",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Cambodia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "India",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Town"
+    ],
+    [
+      "France",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "Ecuador",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Costa Rica",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Ghana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "France",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Peru",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "South Africa",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Laos",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Uganda",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Greece",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Vatican City",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Spain",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Administrative Area"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "Zambia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Tanzania",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Rwanda",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Czech Republic",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Kenya",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Egypt",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Norway",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Switzerland",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "France"
+    ],
+    [
+      "Vietnam",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Monaco",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Italy",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "United States of America"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "Europe"
+    ],
+    [
+      "FIPS 10-4",
+      "base.aareas.coding_scheme.geo_scope",
+      "Earth"
+    ],
+    [
+      "Malawi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Earth"
+    ],
+    [
+      "German Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Czech Republic",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Switzerland"
+    ],
+    [
+      "South Africa",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "South Africa"
+    ],
+    [
+      "Switzerland",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "Vatican City",
+      "location.country.languages_spoken",
+      "German Language"
+    ],
+    [
+      "The Passenger",
+      "film.film.language",
+      "German Language"
+    ],
+    [
+      "Switzerland",
+      "location.country.official_language",
+      "German Language"
+    ],
+    [
+      "German Language",
+      "book.translation.language",
+      "German Language"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Vatican City"
+    ],
+    [
+      "German Language",
+      "language.human_language.countries_spoken_in",
+      "Czech Republic"
+    ],
+    [
+      "Catalan language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "organization.organization_scope.organizations_with_this_scope",
+      "DeMomentSomTres SL"
+    ],
+    [
+      "Norway",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "DeMomentSomTres SL",
+      "organization.organization.geographic_scope",
+      "Europe"
+    ],
+    [
+      "Switzerland",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "France"
+    ],
+    [
+      "Norway",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Vatican City",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "ESADE Business School",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Montserrat",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "France",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "Tibidabo",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Spain",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "m.01140kz7",
+      "common.phone_number.service_location",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Italy"
+    ],
+    [
+      "French",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Czech Republic",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "EADA Business School",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Spain"
+    ],
+    [
+      "Cold War",
+      "time.event.locations",
+      "Europe"
+    ],
+    [
+      "Czech Republic",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.contains_major_portion_of",
+      "Spain"
+    ],
+    [
+      "Italy",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Vatican City"
+    ],
+    [
+      "Switzerland",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Czech Republic"
+    ],
+    [
+      "Greece",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Monaco"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Greece"
+    ],
+    [
+      "Italy",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Switzerland"
+    ],
+    [
+      "Iberian Peninsula",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Mount Vesuvius",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Greece",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Capri",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Spain",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.region",
+      "Europe"
+    ],
+    [
+      "Monaco",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Ireland",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Vatican City",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Norway"
+    ],
+    [
+      "France",
+      "location.location.primarily_containedby",
+      "Europe"
+    ],
+    [
+      "Segre",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Monaco",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Spain",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "m.0q4fksm",
+      "film.film_regional_release_date.film",
+      "The Passenger"
+    ],
+    [
+      "The Passenger",
+      "film.film.release_date_s",
+      "m.0q4fksm"
+    ],
+    [
+      "Battle of San Lorenzo de la Muga",
+      "base.culturalevent.event.entity_involved",
+      "France"
+    ],
+    [
+      "Battle of San Lorenzo de la Muga",
+      "time.event.locations",
+      "Catalonia"
+    ],
+    [
+      "Catalonia",
+      "location.location.events",
+      "Battle of San Lorenzo de la Muga"
+    ],
+    [
+      "Sabadell",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Esteve Sesrovires",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "L'Hospitalet de Llobregat",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Barberà del Vallès",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Caldes d'Estrac",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vilassar de Mar",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Osona",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Esplugues de Llobregat",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adventures by Disney - France Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "ToÄen srednjeevropski Äas",
+      "common.image.appears_in_topic_gallery",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.article",
+      "m.02llzr"
+    ],
+    [
+      "Normandy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Berguedà",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "time.time_zone.day_dst_ends",
+      "Last Sunday in October"
+    ],
+    [
+      "Málaga",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vilassar de Dalt",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Tzdiff-Europe-winter",
+      "common.image.appears_in_topic_gallery",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Celoni",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.image",
+      "ToÄen srednjeevropski Äas"
+    ],
+    [
+      "Vilanova de Sau",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Molins de Rei",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vallgorguina",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Switzerland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Puerto Banús",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.notable_for",
+      "g.1254yq_hs"
+    ],
+    [
+      "Munich",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central Italy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Norway",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vic",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sardinia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Collbató",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Anoia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_n1f0t"
+    ],
+    [
+      "Florence",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adventures by Disney - Italy and Amalfi Coast Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Spain",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Begues",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Rome",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Castellbisbal",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Alella",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Naples",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Jerez de la Frontera",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Andreu de la Barca",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Cabrera de Mar",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Andreu de Llavaneres",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.notable_types",
+      "Time Zone"
+    ],
+    [
+      "Plaza Mayor, Madrid",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Borredà",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Italy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Martorell",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Garraf",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Tunis",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Pallejà",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Marbella",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "El Papiol",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Iscle de Vallalta",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Civitavecchia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Majorca",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Argentona",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Czech Republic",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Arenys de Munt",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "PortAventura",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Olesa de Montserrat",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Vicenç dels Horts",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Abrera",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Sadurní d'Anoia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Pol de Mar",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Just Desvern",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Pere de Ribes",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Bages",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Copenhagen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Santa Susanna, Catalonia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "France",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Calaf",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Feliu de Codines",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "      Adventures by Disney - Norway Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Ripollet",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Caldes de Montbui",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Paris",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Adventures by Disney - Austria, Germany, Czech Republic Vacation",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vatican City",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Cebrià de Vallalta",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "common.topic.image",
+      "Tzdiff-Europe-winter"
+    ],
+    [
+      "Canyelles",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Villefranche-sur-Mer",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Ibiza",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sant Vicenç de Montalt",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "La Spezia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Èze",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Monaco",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Lleida",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Montcada i Reixac",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Cerdanyola del Vallès",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Cervelló",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sicily",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Museo Nacional Del Prado",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Prague",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Corbera de Llobregat",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Central European Time Zone",
+      "time.time_zone.day_dst_begins",
+      "Last Sunday in March"
+    ],
+    [
+      "Barcelona",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Gavà",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "South Africa",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Hong Kong",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Czech Republic",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "India",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Malawi",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Costa Rica",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Rwanda",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Spain",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Ghana",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Scotland",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Cambodia",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Kenya",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Laos",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Ecuador",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ],
+    [
+      "Tanzania",
+      "base.uncommon.topic.exceptions",
+      "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District."
+    ]
+  ]
+}

@@ -1,0 +1,7820 @@
+{
+  "graph_id": 5571,
+  "subgraph": [
+    [
+      "Gribskov Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Gribskov Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Gribskov Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Gribskov Municipality"
+    ],
+    [
+      "Gribskov Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Gribskov Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Gribskov Municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Tårnby Municipality"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Tårnby Municipality"
+    ],
+    [
+      "Tårnby Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Tårnby Municipality",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Tårnby Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Tårnby Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Tårnby Municipality"
+    ],
+    [
+      "Tårnby Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Egedal Municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Egedal Municipality"
+    ],
+    [
+      "Egedal Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Egedal Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Egedal Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Egedal Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Egedal Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Frederikssund Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Syddjurs Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Holbæk Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Danish municipality"
+    ],
+    [
+      "Frederikshavn Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Danish municipality"
+    ],
+    [
+      "Høje-Taastrup Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Sorø Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Aarhus Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Ringkøbing-Skjern Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Ærø Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Roskilde Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Morsø Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Halsnæs Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Denmark"
+    ],
+    [
+      "Middelfart Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Fredericia Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Aalborg Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish municipality",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Gladsaxe Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.subdividing_type",
+      "Danish municipality"
+    ],
+    [
+      "Vesthimmerland Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Brønderslev Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Albertslund Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Odder Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Kalundborg Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Fredensborg Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Frederiksberg Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Silkeborg Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Rebild Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Vejle Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Kolding Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Faxe Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Helsingør Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Køge Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Ringsted Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Odsherred Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Herning Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Samsø Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Skive Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Mariagerfjord Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Tønder Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Hjørring Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Slagelse Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Varde Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Lejre Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Stevns Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Aabenraa Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Hillerød Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Guldborgsund Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Denmark"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Denmark"
+    ],
+    [
+      "Næstved Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Sønderborg Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Danish land"
+    ],
+    [
+      "Bornholm",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Favrskov Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Danish municipality",
+      "base.aareas.schema.administrative_area_type.subdivides_type",
+      "Danish region"
+    ],
+    [
+      "Langeland Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Skanderborg Municipality",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish municipality"
+    ],
+    [
+      "Læsø Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04y_nh2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7mv"
+    ],
+    [
+      "Christian VII of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "m.04z1twx",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Trade Union Social Citizens List"
+    ],
+    [
+      "North Jutland County",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.health_expenditure_as_percent_of_gdp",
+      "g.1hhc4cnrz"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Confederation of Trade Unions"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.12tb6fzt6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn6x6"
+    ],
+    [
+      "Gladsaxe Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.subdividing_type",
+      "Danish region"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4rf3t"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc53_qt"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Christian VI of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc3gh5c"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.12460sshx"
+    ],
+    [
+      "Danish Swedish Farmdog",
+      "biology.animal_breed.place_of_origin",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Deluge"
+    ],
+    [
+      "Søndagsavisen",
+      "book.newspaper.circulation_areas",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc3f1qf"
+    ],
+    [
+      "m.010r31cp",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3yf54"
+    ],
+    [
+      "Fredensborg Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfshwn"
+    ],
+    [
+      "Frederick VI of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yybp0"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z2cv2"
+    ],
+    [
+      "Frederikssund Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Geodata Agency"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsm7z"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsccd"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "June Movement"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z6g0b"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfshv_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc390vm"
+    ],
+    [
+      "Denmark national handball team",
+      "sports.sports_team.location",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Socialist People's Party"
+    ],
+    [
+      "National Socialist Workers' Party of Denmark",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "West Zealand County",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Denmark"
+    ],
+    [
+      "m.0bj78bj",
+      "sports.competitor_country_relationship.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "common.topic.notable_for",
+      "g.1256scgn2"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Communist Party of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245zfwr_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc4q2bn"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0gj59wh"
+    ],
+    [
+      "Danish Ministry of Energy",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Aalborg Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.124611g88"
+    ],
+    [
+      "Bornholm Regional Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.time_required_to_start_a_business",
+      "g.1hhc422wq"
+    ],
+    [
+      "m.04z8y1l",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245zy5xb"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmlx"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3kp5f"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3mxm1"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Frit Forum"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3zppx"
+    ],
+    [
+      "Danish Language",
+      "language.human_language.countries_spoken_in",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.partially_contains",
+      "Euroregion Baltic"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "International Socialists"
+    ],
+    [
+      "Faxe Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc4n78d"
+    ],
+    [
+      "m.0jrc4mv",
+      "symbols.flag_use.flag_user",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Left Socialists"
+    ],
+    [
+      "Helsingør Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Visions-Partiet",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc492wt"
+    ],
+    [
+      "Skanderborg Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_member.member_of",
+      "m.05kynpj"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4gvs7"
+    ],
+    [
+      "THY Limfjordsporter",
+      "food.beer.from_region",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Danish land"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_k6l_"
+    ],
+    [
+      "Sweyn Forkbeard",
+      "people.person.place_of_birth",
+      "Denmark"
+    ],
+    [
+      "Odsherred Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.subdivides_place",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfspgj"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc3z4v_"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "North Jutland County"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4w197"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc3xpn_"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "g.11c3kq0r7s"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc4hyyx"
+    ],
+    [
+      "Breath and shadows",
+      "book.written_work.subjects",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc3pmvx"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.12tb6g_c1"
+    ],
+    [
+      "Livonian War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Storstrøm County",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc55bfy"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Alternative"
+    ],
+    [
+      "Denmark",
+      "book.book_subject.works",
+      "The Ugly Duckling"
+    ],
+    [
+      "Hillerød Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4t0yw"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrb6"
+    ],
+    [
+      "Denmark",
+      "location.location.partially_contained_by",
+      "m.0wg8l53"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4vmcb"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Bornholm"
+    ],
+    [
+      "m.04z6g0b",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4w196"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfspg0"
+    ],
+    [
+      "m.04ywr9f",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Norwegian Campaign",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrr_c"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.124609nfb"
+    ],
+    [
+      "UNESCO",
+      "organization.organization.founders",
+      "Denmark"
+    ],
+    [
+      "Dano-Swedish War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Holbæk Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3kknq"
+    ],
+    [
+      "Battle of Isted",
+      "base.culturalevent.event.entity_involved",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc4392g"
+    ],
+    [
+      "Socialist Workers Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Slagelse Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc3vp_z"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3ts8m"
+    ],
+    [
+      "Peace Politics People's Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.places_imported_from",
+      "m.04c6shh"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Statistics Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z0tm0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3j5tt"
+    ],
+    [
+      "Socialist People's Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z1jb3"
+    ],
+    [
+      "Favrskov Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3m7gm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmln"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsph0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.1245_j1nq"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Valdemar III of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc43v3v"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Region of Southern Denmark"
+    ],
+    [
+      "Denmark",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Broholmer",
+      "biology.animal_breed.place_of_origin",
+      "Denmark"
+    ],
+    [
+      "Odsherred Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Næstved Municipality"
+    ],
+    [
+      "Denmark",
+      "sports.sports_team_location.teams",
+      "Denmark national speedway team"
+    ],
+    [
+      "Danish Geodata Agency",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Frederick II of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245_38cp"
+    ],
+    [
+      "Carls Porter",
+      "food.beer.from_region",
+      "Denmark"
+    ],
+    [
+      "Deluge",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfr_kb"
+    ],
+    [
+      "Danish Association of Chartered Surveyors",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Albertslund Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "m.04z1y1w",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc47p4s"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3z87g"
+    ],
+    [
+      "Denmark",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "National Socialist Workers' Party of Denmark"
+    ],
+    [
+      "Sweyn Forkbeard",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "2011 European Summer Time",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "2010 European Summer Time",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "m.03x82k8"
+    ],
+    [
+      "Denmark",
+      "location.country.official_language",
+      "Danish Language"
+    ],
+    [
+      "m.043wpn_",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc42f3q"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Red–Green Alliance"
+    ],
+    [
+      "Denmark",
+      "sports.sports_team_location.teams",
+      "Denmark national cricket team"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.1s05_3qbw"
+    ],
+    [
+      "m.04z2z5p",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.12460krc4"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3f_qr"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc4q5ff"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrcz"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc4xf2q"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Danish Food and Allied Workers' Union",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "m.0j1c0jt",
+      "common.webpage.topic",
+      "Denmark"
+    ],
+    [
+      "Ringkøbing-Skjern Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Berlingske"
+    ],
+    [
+      "Zealand Region",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Carlsberg Elephant Beer",
+      "food.beer.from_region",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Visions-Partiet"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_h_9w"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.foreign_direct_investment_net_inflows",
+      "g.1hhc4lnxj"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfs0fh"
+    ],
+    [
+      "Danish Union of Architects",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.12cp_kbpx"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245zj2r4"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrm8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7nb"
+    ],
+    [
+      "Favrskov Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc51x2x"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc4dtgd"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Dano-Swedish War"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Liberal Alliance"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Guldborgsund Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.1245zs6_b"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245z_1wm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4j1m8"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Battle of Møn"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Zealand Region"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Frederick VIII of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc4twyd"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4vtz3"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.12460fcvz"
+    ],
+    [
+      "Frederikssund Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Ringsted Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Timber Industry and Construction Workers' Union"
+    ],
+    [
+      "m.011nshlk",
+      "government.government_position_held.district_represented",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc431xv"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs8_3"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3z87f"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245_1jc7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4rf9y"
+    ],
+    [
+      "m.04yy9pq",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Humanist Party"
+    ],
+    [
+      "m.04y_nh2",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc49f36"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfspcs"
+    ],
+    [
+      "Frederikshavn Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Harald Bluetooth",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Room in the heart",
+      "book.written_work.subjects",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc549m0"
+    ],
+    [
+      "Humanist Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Den danske Gradmaaling"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Horik II"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.09hykrj"
+    ],
+    [
+      "Denmark",
+      "food.beer_country_region.beers_from_here",
+      "Tuborg Pilsner"
+    ],
+    [
+      "Eric II of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04ywyw0"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Union of Librarians"
+    ],
+    [
+      "The Danish System of Labor Relations",
+      "book.written_work.subjects",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Frederick V of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3z857"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc4qppt"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrs71"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.043wpn_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfspf0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.124610xyz"
+    ],
+    [
+      "Gunboat War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark national cricket team",
+      "sports.sports_team.location",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "g.12hhh1wkb"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc4pwvj"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfscbc"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_4lv4"
+    ],
+    [
+      "Copenhagen",
+      "base.biblioness.bibs_location.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.renewable_freshwater_per_capita",
+      "g.11b6p069t_"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Perfume Click"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc4n7h9"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245zj9sn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc4h7kn"
+    ],
+    [
+      "Sønderborg Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.12tb6fsxc"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4krry"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3g2wh"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Aarhus Municipality"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Lejre Municipality"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletes",
+      "m.0bj78cd"
+    ],
+    [
+      "Gladsaxe Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Ærø Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3l9b1"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc4cgdk"
+    ],
+    [
+      "Gorm the Old",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Fagligt Fælles Forbund"
+    ],
+    [
+      "Halsnæs Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrsdr"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4vlw1"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3bjj1"
+    ],
+    [
+      "1952 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Denmark"
+    ],
+    [
+      "m.09l5ghy",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "m.04z07c7",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmjl"
+    ],
+    [
+      "Communist Party in Denmark",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark national basketball team",
+      "sports.sports_team.location",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmjv"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc4twxk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245_0swg"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Winter Time in Europe, 2010-2011"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc501tm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4sp_1"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4dlxb"
+    ],
+    [
+      "Northern Europe",
+      "location.location.contains",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfr_ks"
+    ],
+    [
+      "m.02sf7z3",
+      "common.webpage.topic",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.124603kl8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrsg_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc4sh4q"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Communist League"
+    ],
+    [
+      "Slagelse Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Sorø Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "g.1q5hjndvt"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrpv"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.12461304b"
+    ],
+    [
+      "Kingdom of Denmark",
+      "location.location.contains",
+      "Denmark"
+    ],
+    [
+      "Frederick IV of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc3z8fn"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Halsnæs Municipality"
+    ],
+    [
+      "m.0wg8x4_",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrsp"
+    ],
+    [
+      "People's Movement against the EU",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4y_xt"
+    ],
+    [
+      "Denmark",
+      "location.location.containedby",
+      "Eurasia"
+    ],
+    [
+      "Middelfart Municipality",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Operation Weserübung"
+    ],
+    [
+      "Fokus",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z07c7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4q8vk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4y0w6"
+    ],
+    [
+      "m.09hykrj",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc3l9jh"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245_wdq2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.12460mtvz"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Scanian War"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3t8h4"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Høje-Taastrup Municipality"
+    ],
+    [
+      "Common Course",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3szdp"
+    ],
+    [
+      "m.0hhycwc",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "m.0hhzp5g",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc37prz"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn5pn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.health_expenditure_as_percent_of_gdp",
+      "g.1hhc37psz"
+    ],
+    [
+      "Aarhus County",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Frederikssund Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn78s"
+    ],
+    [
+      "m.04yzc95",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_founder.organizations_founded",
+      "UNESCO"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_jcfp"
+    ],
+    [
+      "Denmark",
+      "organization.organization_founder.organizations_founded",
+      "Council of Europe"
+    ],
+    [
+      "Danish Ministry of Defence",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0gj59r3"
+    ],
+    [
+      "Borgerligt Centrum",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "m.04c6shh",
+      "location.imports_and_exports.exported_to",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc39c7s"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrsg2"
+    ],
+    [
+      "Matrikeldirektoratet",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Frederick IX of Denmark"
+    ],
+    [
+      "Denmark",
+      "food.beer_country_region.beers_from_here",
+      "THY Limfjordsporter"
+    ],
+    [
+      "Vidå",
+      "location.location.partially_containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.05nzjcj"
+    ],
+    [
+      "Syddjurs Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.0hhycwc"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Christian X of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc39wsl"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "g.11b6bcs5fk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245__rvk"
+    ],
+    [
+      "Central Denmark Region",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc50stn"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "National Liberal Party"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.1245z_w4r"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4n09s"
+    ],
+    [
+      "Danish Union of Professional Technicians",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "m.05kynpj",
+      "organization.organization_membership.member",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.health_expenditure_as_percent_of_gdp",
+      "g.1hhc3w6pf"
+    ],
+    [
+      "Denmark",
+      "food.beer_country_region.beers_from_here",
+      "Hancock Brewery Old Gambrinus Beer Dark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Socialist Workers Party"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.12460lptd"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3zxtp"
+    ],
+    [
+      "Battle of Køge Bay",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.currency_used",
+      "Danish krone"
+    ],
+    [
+      "Fredericia Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Morsø Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3hg60"
+    ],
+    [
+      "National Liberal Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "m.04yxjzc",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245z3pv_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3pmvm"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Winter Time in Europe, 2011-2012"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.renewable_freshwater_per_capita",
+      "g.1hhc4_7gm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc4f7y0"
+    ],
+    [
+      "Middelfart Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245_3w1l"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc50l6k"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc3yfc4"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc4lnsx"
+    ],
+    [
+      "m.04ywsqt",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245ywrjm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc52mf0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc40vm_"
+    ],
+    [
+      "International Socialists",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3t8rl"
+    ],
+    [
+      "Hillerød Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.containedby",
+      "Nordic countries"
+    ],
+    [
+      "m.04z86l5",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4nnfz"
+    ],
+    [
+      "Húsar",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Denmark"
+    ],
+    [
+      "Communist League",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Ministry of Defence"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.12tb6flpn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc3w6j5"
+    ],
+    [
+      "Denmark",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Weekendavisen"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn6rs"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Ministry of Health and Prevention"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfshw6"
+    ],
+    [
+      "Council of Europe",
+      "organization.organization.founders",
+      "Denmark"
+    ],
+    [
+      "Harald Klak",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.12460nm3_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4krzw"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010gfyrv"
+    ],
+    [
+      "Berlingske",
+      "book.newspaper.circulation_areas",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrqy"
+    ],
+    [
+      "Albertslund Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3sjhf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_z6n2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfshx2"
+    ],
+    [
+      "m.04yybp0",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Herning Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Eric I of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "m.04y_0kr",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Faroese",
+      "language.human_language.main_country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Greenland"
+    ],
+    [
+      "Danish Ministry of Justice",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Akademikerne – The Danish Confederation of Professional Associations"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4dq92"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc4857p"
+    ],
+    [
+      "Sweyn Forkbeard",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Det Kongelige danske Søkortarkiv"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmc7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc3jqpc"
+    ],
+    [
+      "Den danske Gradmaaling",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Morsø Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Brønderslev Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc3h6vy"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc37_dw"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc53kz6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245_rbyg"
+    ],
+    [
+      "Danish Timber Industry and Construction Workers' Union",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Winter Time in Europe, 2013-2014"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Eric II of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.1hhc388jd"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Gunboat War"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245z9pv_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc4pgf8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.12460tjhf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1246058tx"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmc_"
+    ],
+    [
+      "People's Movement for Justice and Welfare",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "North Denmark Region",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Christopher of Bavaria",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Helsingin Sanomat"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Progress Party"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmjb"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Communist Unification"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.pertinent_type",
+      "Danish region"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Centre Democrats"
+    ],
+    [
+      "Høgni Lisberg",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "m.062x487",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfscd4"
+    ],
+    [
+      "Samsø Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_9gzy"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Valdemar I of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4twrb"
+    ],
+    [
+      "Harald Bluetooth",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.05cm8tz"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Common Course"
+    ],
+    [
+      "Langeland Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc51339"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yvx5f"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7p0"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Margrethe II of Denmark"
+    ],
+    [
+      "Kalundborg Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Industry Party"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Aabenraa Municipality"
+    ],
+    [
+      "Halsnæs Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Dannebrog, the Danish flag",
+      "common.image.appears_in_topic_gallery",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc4r9qb"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3h6xr"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Skanderborg Municipality"
+    ],
+    [
+      "Danish Confederation of Trade Unions",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Sweyn Forkbeard"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrs3b"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Odsherred Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_kbk1"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc403p0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc3n9mt"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.12460jzqn"
+    ],
+    [
+      "Lejre Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrsgk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc52yzg"
+    ],
+    [
+      "Denmark",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "m.05cmc7s",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc5383h"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Peace Politics People's Party"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.124614y1c"
+    ],
+    [
+      "Langeland Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "m.0bj787g",
+      "sports.competitor_country_relationship.country",
+      "Denmark"
+    ],
+    [
+      "Aalborg Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Slagelse Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Hotel Jørgensen explosion",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Operation Weserübung",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3n9pv"
+    ],
+    [
+      "Central Denmark Region",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Silkeborg Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc4t15f"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc44n_v"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "g.11dylj4s6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc4q5g7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4m8bp"
+    ],
+    [
+      "Northern Seven Years' War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc3y302"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Matrikeldirektoratet"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Rebild Municipality"
+    ],
+    [
+      "Kalmar War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Hjørring Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.11b60lkkcl"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.12460_0p4"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245zj91b"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3wv48"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsbzk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc438nl"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04y_0kr"
+    ],
+    [
+      "m.0w2wkbw",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Region of Southern Denmark"
+    ],
+    [
+      "Denmark",
+      "sports.sports_team_location.teams",
+      "Denmark national handball team"
+    ],
+    [
+      "Denmark",
+      "sports.sports_team_location.teams",
+      "Denmark women's national rugby union team"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Denmark"
+    ],
+    [
+      "Bornholm's Self-Government Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3zll5"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfs0cz"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.12460s_73"
+    ],
+    [
+      "Copenhagen",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsc5f"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc40vrx"
+    ],
+    [
+      "Region of Southern Denmark",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.time_required_to_start_a_business",
+      "g.1hhc4b1st"
+    ],
+    [
+      "The Society of the Friends of Peasants",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "m.04z1jb3",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "m.09hzj_y",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Transport Authority"
+    ],
+    [
+      "Christian X of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Unity"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.renewable_freshwater_per_capita",
+      "g.1hhc41ktl"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "West Zealand County"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245yvl65"
+    ],
+    [
+      "Zealand Region",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4b228"
+    ],
+    [
+      "Communist Unification",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Skive Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "m.010gfyzt",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn6tk"
+    ],
+    [
+      "Frederick IX of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Helsingør Municipality"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Communist Party"
+    ],
+    [
+      "m.04yy8vz",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0h5z38_"
+    ],
+    [
+      "m.04z2cv2",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245zcvfj"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3jtw7"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Ærø Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3s3fc"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Eric III of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmdh"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1s06rbblf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc47nym"
+    ],
+    [
+      "Resolution Media",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Carlsberg Jacobsen Dark Lager",
+      "food.beer.from_region",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc41kxz"
+    ],
+    [
+      "Danish Communist Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc39p2p"
+    ],
+    [
+      "Denmark",
+      "book.book_subject.works",
+      "Breath and shadows"
+    ],
+    [
+      "Greenland",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.12460lq4s"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfs0d5"
+    ],
+    [
+      "Centre Democrats",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Frederiksberg Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245zydgb"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Battle of Isted"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc4j1mf"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Gladsaxe Municipality"
+    ],
+    [
+      "Unitary state",
+      "government.form_of_government.countries",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn8cy"
+    ],
+    [
+      "Danish Language",
+      "language.human_language.main_country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.renewable_freshwater_per_capita",
+      "g.1hhc3yvg6"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "2010 European Summer Time"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs8z2"
+    ],
+    [
+      "Hjørring Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.net_migration",
+      "g.1s065xpxg"
+    ],
+    [
+      "Winter Time in Europe, 2012-2013",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc53_p5"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.11b60qdnnn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrs2p"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn6v7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrsdj"
+    ],
+    [
+      "Høje-Taastrup Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn310"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.12460tj5d"
+    ],
+    [
+      "Odder Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "m.0w2tv61",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Denmark"
+    ],
+    [
+      "Valdemar II of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc51995"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7mb"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfsfbk"
+    ],
+    [
+      "Morsø Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Rebild Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3_kyp"
+    ],
+    [
+      "Statistics Denmark",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Frederick IX of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0ghbq5x"
+    ],
+    [
+      "Næstved Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "travel.travel_destination.tour_operators",
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn88b"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4gvlr"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsnv_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc4c09h"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yxjzc"
+    ],
+    [
+      "Danish Writers Guild",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Harald III of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc4t_rs"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z8y1l"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc47bbd"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245z5zss"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3rxfv"
+    ],
+    [
+      "Denmark",
+      "government.political_district.representatives",
+      "m.011nshlk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3hgd_"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z1y1w"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletes",
+      "m.0bj787g"
+    ],
+    [
+      "Denmark",
+      "biology.breed_origin.breeds_originating_here",
+      "Danish Warmblood"
+    ],
+    [
+      "The Alternative",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Valdemar III of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Medical Association"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Gorm the Old"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Kolding Municipality"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Northern Seven Years' War"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.1246176ll"
+    ],
+    [
+      "Denmark",
+      "base.jewlib.parent_institution.judaica_owning_units",
+      "Royal Library, Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc3y6jy"
+    ],
+    [
+      "Middelfart Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Akademikerne – The Danish Confederation of Professional Associations",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "North Denmark Region"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmhb"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Aarhus County"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4wt5g"
+    ],
+    [
+      "Denmark",
+      "location.location.adjoin_s",
+      "m.0z231nd"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc4lnr0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc49nb7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245z86c7"
+    ],
+    [
+      "Royal Library, Denmark",
+      "base.jewlib.judaica_owner.parent_institution",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Norwegian Campaign"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc37pm4"
+    ],
+    [
+      "m.04yvrhy",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245_6vg4"
+    ],
+    [
+      "Denmark",
+      "common.topic.webpage",
+      "m.02sf7_2"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yvkyk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4hrvk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4k6fm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3k0nf"
+    ],
+    [
+      "Guldborgsund Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.11b60gm1bl"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.administrative_division.first_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Royal Mint"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsnt7"
+    ],
+    [
+      "Denmark",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Nyhedsavisen"
+    ],
+    [
+      "Frederick VIII of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_86ff"
+    ],
+    [
+      "Denmark",
+      "location.country.internet_tld",
+      "dk"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yzc95"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Ærø League"
+    ],
+    [
+      "Denmark",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Stevns Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc51_gd"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Abel, King of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.brain_drain_percent",
+      "g.1hhc55bgs"
+    ],
+    [
+      "m.010gfyrv",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Euroregion Baltic",
+      "location.location.partially_containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Skive Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.renewable_freshwater_per_capita",
+      "g.1hhc3d66w"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Christian VII of Denmark"
+    ],
+    [
+      "m.0jytmsf",
+      "sports.competitor_country_relationship.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.124613lsk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_jh8q"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z2z5p"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfspfj"
+    ],
+    [
+      "Herning Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.political_district.representatives",
+      "m.012f0rvn"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Denmark"
+    ],
+    [
+      "Winter Time in Europe, 2011-2012",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "South Jutland County",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc508g2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.12tb6gb0n"
+    ],
+    [
+      "Denmark",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1936 Summer Olympics"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "South Jutland County"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc53pfw"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.11b60sf4bm"
+    ],
+    [
+      "Denmark",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Søndagsavisen"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc46rdx"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Count's Feud"
+    ],
+    [
+      "Denmark",
+      "book.book_subject.works",
+      "Room in the heart"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3bym2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc45tl2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc3y6f9"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4xym7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3h6zk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.12460s_7n"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc4zjld"
+    ],
+    [
+      "Progress Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Vesthimmerland Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Vejle Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4xvln"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.1245_22vr"
+    ],
+    [
+      "Denmark",
+      "food.beer_country_region.beers_from_here",
+      "Carlsberg Elephant Beer"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Kalundborg Municipality"
+    ],
+    [
+      "m.02sf7zp",
+      "common.webpage.topic",
+      "Denmark"
+    ],
+    [
+      "m.02sf7_2",
+      "common.webpage.topic",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "book.book_subject.works",
+      "Suspended In Language"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrc2"
+    ],
+    [
+      "Statistics Denmark",
+      "base.statistics.statistics_agency.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "German invasion of Denmark",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc4zykq"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04ywt5j"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Food and Allied Workers' Union"
+    ],
+    [
+      "Frederiksberg Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.health_expenditure_as_percent_of_gdp",
+      "g.1hhc39x2j"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Harald Klak"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Syddjurs Municipality"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.0hhyl0l"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "Kingdom of Denmark"
+    ],
+    [
+      "Mariagerfjord Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Sorø Municipality"
+    ],
+    [
+      "Danish Medical Association",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "symbols.name_source.namesakes",
+      "Danian"
+    ],
+    [
+      "m.0w2gnf2",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Nordic countries",
+      "location.location.contains",
+      "Denmark"
+    ],
+    [
+      "Helsingør Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Aalborg Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1246011kn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn33w"
+    ],
+    [
+      "Denmark",
+      "location.country.first_level_divisions",
+      "North Denmark Region"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.health_expenditure_as_percent_of_gdp",
+      "g.1hhc385fl"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4mh9y"
+    ],
+    [
+      "Danish Union of Librarians",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Harald Bluetooth"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4xf57"
+    ],
+    [
+      "Denmark",
+      "location.location.geolocation",
+      "m.02_prkq"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_6fhz"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.foreign_direct_investment_net_inflows",
+      "g.1hhc4krx3"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245_22z4"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.09l5ghy"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245_rxy2"
+    ],
+    [
+      "Denmark",
+      "common.topic.webpage",
+      "m.0j1c0jt"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc50cmb"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3cwj5"
+    ],
+    [
+      "m.0w2tk11",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4b5f_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsm86"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc4g2c8"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Second Northern War"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245zkf9p"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Rorik of Dorestad"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Frederick II of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.poverty_rate_2dollars_per_day",
+      "g.11b6dcgf_v"
+    ],
+    [
+      "Brøckhouse India Pale Ale",
+      "food.beer.from_region",
+      "Denmark"
+    ],
+    [
+      "Margaret I of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.124619vzh"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.poverty_rate_2dollars_per_day",
+      "g.11b6d151d8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn70j"
+    ],
+    [
+      "Kolding Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Vejle Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Valdemar II of Denmark"
+    ],
+    [
+      "Tróndur Bogason",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.sovereignty",
+      "Denmark"
+    ],
+    [
+      "Communist League – Politics",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Copenhagen",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3nwx0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc3gq4j"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245znhv6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc3wmhr"
+    ],
+    [
+      "Eric III of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.time_required_to_start_a_business",
+      "g.1hhc4j8qv"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Writers Guild"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Society of the Friends of Peasants"
+    ],
+    [
+      "Denmark",
+      "organization.organization_member.member_of",
+      "m.04ddtx6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245zx_dm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_k2lf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.1245_ltq6"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "North Denmark Region"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfs0dv"
+    ],
+    [
+      "Denmark",
+      "food.beer_country_region.beers_from_here",
+      "Brøckhouse India Pale Ale"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.1245zm62g"
+    ],
+    [
+      "Skive Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3xc7n"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Fokus"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245z_m_2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc45965"
+    ],
+    [
+      "Kolding Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Frederick IV of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4bxzf"
+    ],
+    [
+      "Danish Ministry of Taxation",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn6ml"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3jm9_"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Bornholm's Self-Government Party"
+    ],
+    [
+      "Kingdom of Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4zjjf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc45tj2"
+    ],
+    [
+      "Torstenson War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.partiallycontains",
+      "m.0wg8x4_"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Varde Municipality"
+    ],
+    [
+      "Hancock Brewery Old Gambrinus Beer Dark",
+      "food.beer.from_region",
+      "Denmark"
+    ],
+    [
+      "Christian III of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245_vsyl"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245ywr4l"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc3c1cl"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Ministry of Taxation"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Samsø Municipality"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yy9pq"
+    ],
+    [
+      "Frederick V of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.11b60nknxz"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Middelfart Municipality"
+    ],
+    [
+      "Frederikshavn Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Red–Green Alliance",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Aabenraa Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.containedby",
+      "Kingdom of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245_k4xb"
+    ],
+    [
+      "Left Socialists",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Lejre Municipality"
+    ],
+    [
+      "Suspended In Language",
+      "book.written_work.subjects",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7ll"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Torstenson War"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.11b60r3j1k"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4t0n1"
+    ],
+    [
+      "Denmark",
+      "biology.breed_origin.breeds_originating_here",
+      "Danish Swedish Farmdog"
+    ],
+    [
+      "Denmark",
+      "location.country.form_of_government",
+      "Constitutional monarchy"
+    ],
+    [
+      "m.04yvkyk",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc431p5"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3xgnf"
+    ],
+    [
+      "m.012f0rvn",
+      "government.government_position_held.district_represented",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmhl"
+    ],
+    [
+      "Danish region",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.net_migration",
+      "g.1q5jprgj3"
+    ],
+    [
+      "m.04z6grg",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Geodætisk Institut",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc3p9bn"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w2wkbw"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4dyd_"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Faxe Municipality"
+    ],
+    [
+      "Denmark",
+      "biology.breed_origin.breeds_originating_here",
+      "Broholmer"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010r31cp"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc469vg"
+    ],
+    [
+      "2012 European Summer Time",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "North Denmark Region",
+      "location.administrative_division.first_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1900 Summer Olympics"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc4stjm"
+    ],
+    [
+      "Central Denmark Region",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Denmark"
+    ],
+    [
+      "Olof the Brash",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4f8gl"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc3w08p"
+    ],
+    [
+      "Representative democracy",
+      "government.form_of_government.countries",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z6grg"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245_vdk7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3xt7s"
+    ],
+    [
+      "Tønder Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Count's Feud",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Margrethe II of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Brønderslev Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "m.04ddtx6",
+      "organization.organization_membership.member",
+      "Denmark"
+    ],
+    [
+      "m.04ywt5j",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "English Wars"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Frederick VI of Denmark"
+    ],
+    [
+      "Bornholm",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc4j1p7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4pwp9"
+    ],
+    [
+      "m.0h5z38_",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "book.book_subject.works",
+      "The Yellow Star"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.12460dnhm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.time_required_to_start_a_business",
+      "g.1hhc4jpvn"
+    ],
+    [
+      "m.0cv49mk",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Danian",
+      "symbols.namesake.named_after",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4dyct"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc51_jg"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmj2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "m.05nc0hx"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfsfcn"
+    ],
+    [
+      "m.063w88z",
+      "base.nobelprizes.nobel_honor.subject_area",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc469hc"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Funny Party"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc53plf"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletes",
+      "m.0jytmsf"
+    ],
+    [
+      "Frederick VIII of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Generalstabens Topografiske Afdeling",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsnvr"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfsfdz"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn60v"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.poverty_rate_2dollars_per_day",
+      "g.11b6d2lg_7"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Christopher of Bavaria"
+    ],
+    [
+      "Karup Airport",
+      "aviation.airport.serves",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc492qg"
+    ],
+    [
+      "Aabenraa Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrs5z"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Communist Party"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Holbæk Municipality"
+    ],
+    [
+      "Køge Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4q8pc"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc4bprg"
+    ],
+    [
+      "Denmark",
+      "base.nobelprizes.nobel_subject_area.nobel_awards",
+      "m.063w88z"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Ministry of Justice"
+    ],
+    [
+      "Christian VII of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.form_of_government",
+      "Representative democracy"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3msfv"
+    ],
+    [
+      "Det Kongelige danske Søkortarkiv",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletes",
+      "m.0bj78bz"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletes",
+      "m.0bj78bj"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Union of Public Employees"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.net_migration",
+      "g.1q5jgvm5b"
+    ],
+    [
+      "Lejre Municipality",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Hjørring Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Kingdom of Denmark",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "Denmark"
+    ],
+    [
+      "m.05nzjcj",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "German invasion of Denmark"
+    ],
+    [
+      "Communist Party of Denmark",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Sønderborg Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Eric II of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3h6zl"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.12460l40q"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Geodætisk Institut"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.1245zn3hf"
+    ],
+    [
+      "North Denmark Region",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc53x82"
+    ],
+    [
+      "Denmark",
+      "common.topic.image",
+      "Dannebrog, the Danish flag"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7lv"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Frederikshavn Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.124618ccp"
+    ],
+    [
+      "Silkeborg Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4mh5y"
+    ],
+    [
+      "Denmark",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Vejle Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc44j_c"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Roskilde Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4l7w4"
+    ],
+    [
+      "Zealand Region",
+      "location.administrative_division.first_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Police of Denmark",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc4vdvv"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Odder Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc44k46"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3f500"
+    ],
+    [
+      "Perfume Click",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc4bxtb"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w2tk11"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc4xyrn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.124617m9w"
+    ],
+    [
+      "Denmark women's national football team",
+      "sports.sports_team.location",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc3s6t9"
+    ],
+    [
+      "Aarhus Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "English Wars",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Hereditary monarchy",
+      "government.form_of_government.countries",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.12460xxxh"
+    ],
+    [
+      "Denmark",
+      "location.location.partially_contains",
+      "Vidå"
+    ],
+    [
+      "1936 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "2000 UEFA Cup Final riots"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Christian II of Denmark"
+    ],
+    [
+      "Danish Warmblood",
+      "biology.animal_breed.place_of_origin",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Union of Architects"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Copenhagen"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245znqf3"
+    ],
+    [
+      "Ærø Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4yl0t"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.0cv49mk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc53_jf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245yz_p3"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc50cgz"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3rdt3"
+    ],
+    [
+      "Roskilde Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "biology.breed_origin.breeds_originating_here",
+      "g.112yfx07n"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Free Social Democrats"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Schleswig Party"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0j5qt6j"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfr_n5"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "2011 European Summer Time"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3mbv8"
+    ],
+    [
+      "Weekendavisen",
+      "book.newspaper.circulation_areas",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfscbx"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.government_bodies",
+      "Folketing"
+    ],
+    [
+      "Læsø Municipality",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3h760"
+    ],
+    [
+      "Denmark",
+      "symbols.flag_referent.flag",
+      "m.0jrc4mv"
+    ],
+    [
+      "Denmark",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1952 Summer Olympics"
+    ],
+    [
+      "Denmark",
+      "location.location.nearby_airports",
+      "Karup Airport"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsc65"
+    ],
+    [
+      "Faroese",
+      "language.human_language.countries_spoken_in",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Eric V of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrxm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc499f4"
+    ],
+    [
+      "Odder Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc4r9lr"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn355"
+    ],
+    [
+      "The Yellow Star",
+      "book.written_work.subjects",
+      "Denmark"
+    ],
+    [
+      "m.010gfyp2",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc47p4r"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Ringsted Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc4665w"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4k6d4"
+    ],
+    [
+      "m.04ywyw0",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "Denmark"
+    ],
+    [
+      "2000 UEFA Cup Final riots",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "South Jutland County",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.1245zj2q3"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc4tfwm"
+    ],
+    [
+      "Viðareiði",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Viborg County"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Christian IX of Denmark"
+    ],
+    [
+      "Rorik of Dorestad",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4zt_m"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245zgfgv"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "People's Movement against the EU"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Eric I of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1246105fc"
+    ],
+    [
+      "Industry Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Trade Union Social Citizens List",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Samsø Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Varde Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Free Social Democrats",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.first_level_divisions",
+      "Central Denmark Region"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Fredericia Municipality"
+    ],
+    [
+      "Helsingin Sanomat",
+      "book.newspaper.circulation_areas",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Urban"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc49024"
+    ],
+    [
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Olof the Brash"
+    ],
+    [
+      "Roskilde Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "m.0hhyl0l",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Lejre Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc3z8fm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc3jj1v"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc403z9"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc499lm"
+    ],
+    [
+      "Nyhedsavisen",
+      "book.newspaper.circulation_areas",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Union of Professional Technicians"
+    ],
+    [
+      "Denmark",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Brønderslev Municipality"
+    ],
+    [
+      "Aarhus Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.capital",
+      "Copenhagen"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Herning Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.12460lpc4"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn6xf"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yvrhy"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Independent Party"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Tønder Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.health_expenditure_as_percent_of_gdp",
+      "g.1hhc4tnx4"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Zealand Region"
+    ],
+    [
+      "Horik II",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark national cricket team",
+      "cricket.cricket_team.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc3__yf"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Free Democrats"
+    ],
+    [
+      "West Zealand County",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc3jhxx"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Winter Time in Europe, 2014-2015"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3m0ls"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z8gf7"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Frederiksberg Municipality"
+    ],
+    [
+      "Denmark",
+      "common.topic.image",
+      "Denmark in Google Earth"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc4c3_6"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.0hhzp5g"
+    ],
+    [
+      "German invasion of Denmark",
+      "base.culturalevent.event.entity_involved",
+      "Denmark"
+    ],
+    [
+      "Danish Unity",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Fredensborg Municipality"
+    ],
+    [
+      "Denmark",
+      "location.country.form_of_government",
+      "Hereditary monarchy"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Sønderborg Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4v9n7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.renewable_freshwater_per_capita",
+      "g.1hhc3qg74"
+    ],
+    [
+      "m.0wg8l53",
+      "location.partial_containment_relationship.partially_contains",
+      "Denmark"
+    ],
+    [
+      "m.0w2vqsg",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Battle of Isted",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Kingdom of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Nordic Council Prize Ceremony 1981"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010gfyzt"
+    ],
+    [
+      "Eric V of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "common.topic.webpage",
+      "m.02sf7zp"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc4vm9m"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_jr1f"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Stevns Municipality"
+    ],
+    [
+      "Battle of Møn",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc37x63"
+    ],
+    [
+      "Frit Forum",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Ministry of the Environment"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc4f838"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrs20"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Ministry of Energy"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn5nk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc3l98l"
+    ],
+    [
+      "Danish Ministry of the Interior and Health",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Karup Airport",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Guldborgsund Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_2h9m"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Bornholm Regional Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4mh5z"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc45dng"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrk1"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_wm84"
+    ],
+    [
+      "Marxist–Leninist League",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_0s2x"
+    ],
+    [
+      "Harald III of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "John, King of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245z_nb3"
+    ],
+    [
+      "Ringsted Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Battle of Køge Bay"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Farmers' Party"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245zjhvh"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Læsø Municipality"
+    ],
+    [
+      "June Movement",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc522zw"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3h76w"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.12tb6gn8k"
+    ],
+    [
+      "Region of Southern Denmark",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245zf3xb"
+    ],
+    [
+      "Danish Union of Public Employees",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc3m0mp"
+    ],
+    [
+      "Region of Southern Denmark",
+      "location.administrative_division.first_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfshyv"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn77g"
+    ],
+    [
+      "Kingdom of Denmark",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "Denmark"
+    ],
+    [
+      "Denmark women's national rugby union team",
+      "sports.sports_team.location",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.1245zcvd7"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Communist League – Politics"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Langeland Municipality"
+    ],
+    [
+      "Region of Southern Denmark",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "m.0z231nd",
+      "location.adjoining_relationship.adjoins",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn33n"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1246176l0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.renewable_freshwater_per_capita",
+      "g.1hhc3l9f8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3bdy9"
+    ],
+    [
+      "Skanderborg Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrryk"
+    ],
+    [
+      "Danish Transport Authority",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Parliamentary system",
+      "government.form_of_government.countries",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3pjl6"
+    ],
+    [
+      "Denmark",
+      "location.location.adjoin_s",
+      "m.02wrxld"
+    ],
+    [
+      "Denmark",
+      "location.location.containedby",
+      "Northern Europe"
+    ],
+    [
+      "m.0bj787x",
+      "sports.competitor_country_relationship.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Winter Time in Europe, 2012-2013"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfsgdy"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yybh6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc3wmc0"
+    ],
+    [
+      "Vesthimmerland Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Harald Klak",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_founder.organizations_founded",
+      "Nordic Council"
+    ],
+    [
+      "Viborg County",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.1245_pntf"
+    ],
+    [
+      "Holbæk Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245z3pw0"
+    ],
+    [
+      "Denmark",
+      "common.topic.webpage",
+      "m.02sf7z3"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn30l"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245zj9rd"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.time_required_to_start_a_business",
+      "g.1hhc3r2r6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7pk"
+    ],
+    [
+      "Denmark in Google Earth",
+      "common.image.appears_in_topic_gallery",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w2gnf2"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3f_mv"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc388p1"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.05cmc7s"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.iso_country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4x3cb"
+    ],
+    [
+      "Zealand Region",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "2012 European Summer Time"
+    ],
+    [
+      "Køge Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Danish Association of Chartered Surveyors"
+    ],
+    [
+      "Winter Time in Europe, 2013-2014",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc47bhj"
+    ],
+    [
+      "Danish Ministry of Health and Prevention",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.diesel_price_liter",
+      "g.12cp_j7jc"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4gqn5"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletes",
+      "m.0bj788s"
+    ],
+    [
+      "Denmark national speedway team",
+      "sports.sports_team.location",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3pmxb"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.12tb6gthd"
+    ],
+    [
+      "Central Denmark Region",
+      "location.administrative_division.first_level_division_of",
+      "Denmark"
+    ],
+    [
+      "m.04z8gf7",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Kalundborg Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Favrskov Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc429mc"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc4dy72"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Albertslund Municipality"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Marxist–Leninist League"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1246105d1"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3zl63"
+    ],
+    [
+      "Abel, King of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Fredericia Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsc8z"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04ywsqt"
+    ],
+    [
+      "Viborg County",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Danish Ministry of the Interior and Health"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3hshf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc4ks05"
+    ],
+    [
+      "Faroese",
+      "base.rosetta.local_name.locale",
+      "Denmark"
+    ],
+    [
+      "Nordic Council",
+      "organization.organization.founders",
+      "Denmark"
+    ],
+    [
+      "Tønder Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.1245zkdmc"
+    ],
+    [
+      "Frederick VI of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "m.0ghbq5x",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "People's Movement for Justice and Welfare"
+    ],
+    [
+      "Amasyn",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsc35"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc414fh"
+    ],
+    [
+      "1900 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfsgdh"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.12460m8mx"
+    ],
+    [
+      "Aarhus County",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc3f_4h"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.010gfyp2"
+    ],
+    [
+      "Second Northern War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.net_migration",
+      "g.1q5jlkcws"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w2vqsg"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Hotel Jørgensen explosion"
+    ],
+    [
+      "Funny Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Christian IX of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "m.04yybh6",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.124610xlh"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Amasyn"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Vesthimmerland Municipality"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z86l5"
+    ],
+    [
+      "Denmark",
+      "location.location.containedby",
+      "Europe"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4rrgl"
+    ],
+    [
+      "m.05cm8tz",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Central Denmark Region"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc3msn8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.12460x5l5"
+    ],
+    [
+      "Stevns Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.foreign_direct_investment_net_inflows",
+      "g.1hhc3bdzj"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.12cp_k6rv"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "g.1245zp1z1"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04ywr9f"
+    ],
+    [
+      "Tróndur í Gøtu",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Middelfart Municipality"
+    ],
+    [
+      "Denmark",
+      "location.country.languages_spoken",
+      "Danish Language"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfs0f8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc4qq43"
+    ],
+    [
+      "m.0bj788s",
+      "sports.competitor_country_relationship.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.062x487"
+    ],
+    [
+      "Denmark",
+      "food.beer_country_region.beers_from_here",
+      "Carls Porter"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc403f1"
+    ],
+    [
+      "Margrethe II of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Schleswig Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "m.0gj59r3",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4j8wf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc3yflp"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3sr5m"
+    ],
+    [
+      "Liberal Alliance",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Royal Mint",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "m.09rmxdp",
+      "sports.competitor_competition_relationship.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsc96"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc3cc8t"
+    ],
+    [
+      "m.0bj78bz",
+      "sports.competitor_country_relationship.country",
+      "Denmark"
+    ],
+    [
+      "John, King of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.poverty_rate_2dollars_per_day",
+      "g.11b6c_cxtm"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Kalmar War"
+    ],
+    [
+      "Independent Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc4xdzk"
+    ],
+    [
+      "Christian X of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1s0614r1v"
+    ],
+    [
+      "Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Central Denmark Region"
+    ],
+    [
+      "Christian II of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1hhc508gq"
+    ],
+    [
+      "The Ærø League",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc489g4"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn34r"
+    ],
+    [
+      "Denmark",
+      "location.country.first_level_divisions",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc53kzk"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245z1vjb"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Resolution Media"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.net_migration",
+      "g.1s05_z4hc"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.high_tech_as_percent_of_manufactured_exports",
+      "g.1q5jsyjgp"
+    ],
+    [
+      "Denmark",
+      "food.beer_country_region.beers_from_here",
+      "Carlsberg Jacobsen Dark Lager"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04z1twx"
+    ],
+    [
+      "Winter Time in Europe, 2010-2011",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrshn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245zfw9n"
+    ],
+    [
+      "m.0bj78cd",
+      "sports.competitor_country_relationship.country",
+      "Denmark"
+    ],
+    [
+      "Communist Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfsfbs"
+    ],
+    [
+      "Nordic Council Prize Ceremony 1981",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Danish Ministry of the Environment",
+      "government.government_agency.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Urban",
+      "book.newspaper.circulation_areas",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.first_level_divisions",
+      "Region of Southern Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Christian III of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1hhc3c19y"
+    ],
+    [
+      "Sorø Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.long_term_unemployment_rate",
+      "g.1s05_3v00"
+    ],
+    [
+      "m.04yvx5f",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc4fzty"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfs0dm"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3pjf8"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "m.0nfsmd7"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4b1ps"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.net_migration",
+      "g.1s06b0qph"
+    ],
+    [
+      "Denmark",
+      "location.country.languages_spoken",
+      "Faroese"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3y30p"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3jmgs"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsc3w"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Margaret I of Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "m.0nfsfb3"
+    ],
+    [
+      "Denmark",
+      "location.country.administrative_divisions",
+      "Storstrøm County"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.deposit_interest_rate",
+      "g.1hhc4kjm5"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc42fng"
+    ],
+    [
+      "Denmark",
+      "sports.sports_team_location.teams",
+      "Denmark national basketball team"
+    ],
+    [
+      "Tuborg Pilsner",
+      "food.beer.from_region",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc4tftk"
+    ],
+    [
+      "Denmark",
+      "location.country.form_of_government",
+      "Parliamentary system"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.04yy8vz"
+    ],
+    [
+      "North Jutland County",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245zfvzn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.brain_drain_percent",
+      "g.1hhc4_s7s"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3r_t1"
+    ],
+    [
+      "Danish krone",
+      "finance.currency.countries_used",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w2tv61"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfs7lb"
+    ],
+    [
+      "Denmark",
+      "location.country.form_of_government",
+      "Unitary state"
+    ],
+    [
+      "Mariagerfjord Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Ringkøbing-Skjern Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.part_time_employment_percent",
+      "g.1hhc41kxl"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc3n6lt"
+    ],
+    [
+      "Denmark",
+      "sports.sports_team_location.teams",
+      "Denmark women's national football team"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc3lhzf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4dxzd"
+    ],
+    [
+      "Bornholm",
+      "location.administrative_division.country",
+      "Denmark"
+    ],
+    [
+      "Christian IX of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.broadband_penetration_rate",
+      "m.0nfn6ts"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.net_migration",
+      "g.1q5k273xr"
+    ],
+    [
+      "Denmark",
+      "location.country.first_level_divisions",
+      "Zealand Region"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.labor_participation_rate",
+      "g.1hhc4cg2r"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletic_performances",
+      "m.09rmxdp"
+    ],
+    [
+      "m.02wrxld",
+      "location.adjoining_relationship.adjoins",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Police of Denmark"
+    ],
+    [
+      "North Denmark Region",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Mariagerfjord Municipality"
+    ],
+    [
+      "Høje-Taastrup Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.agriculture_as_percent_of_gdp",
+      "g.1hhc3k08x"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Læsø Municipality"
+    ],
+    [
+      "Frederick II of Denmark",
+      "people.person.nationality",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4_7jp"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfr_gn"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3npx1"
+    ],
+    [
+      "m.0j5qt6j",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "m.0nfr_ln"
+    ],
+    [
+      "Fagligt Fælles Forbund",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Storstrøm County",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrsff"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4_4bh"
+    ],
+    [
+      "The Ugly Duckling",
+      "book.written_work.subjects",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.12460mtxj"
+    ],
+    [
+      "m.0gj59wh",
+      "government.government_position_held.jurisdiction_of_office",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc3pn29"
+    ],
+    [
+      "Scanian War",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp",
+      "g.1hhc3w0dt"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Communist Party in Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245ytgg_"
+    ],
+    [
+      "Denmark",
+      "sports.sport_country.athletes",
+      "m.0bj787x"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.12tb6hc01"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsb_l"
+    ],
+    [
+      "Valdemar I of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "royalty.kingdom.rulers",
+      "Harthacnut I of Denmark"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "g.1yh7_wqlh"
+    ],
+    [
+      "Greenlandic language",
+      "language.human_language.countries_spoken_in",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1245_mkns"
+    ],
+    [
+      "Valdemar III of Denmark",
+      "people.person.place_of_birth",
+      "Denmark"
+    ],
+    [
+      "Winter Time in Europe, 2014-2015",
+      "time.event.locations",
+      "Denmark"
+    ],
+    [
+      "Silkeborg Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gender_balance_members_of_parliament",
+      "g.1hhc3gt9z"
+    ],
+    [
+      "Denmark",
+      "government.governmental_jurisdiction.agencies",
+      "Generalstabens Topografiske Afdeling"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.cpi_inflation_rate",
+      "g.1hhc4tws3"
+    ],
+    [
+      "m.04z0tm0",
+      "military.military_combatant_group.combatants",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_in_ppp_dollars",
+      "g.124613sxl"
+    ],
+    [
+      "Denmark",
+      "book.book_subject.works",
+      "The Danish System of Labor Relations"
+    ],
+    [
+      "Denmark",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Borgerligt Centrum"
+    ],
+    [
+      "Farmers' Party",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrrwr"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.health_expenditure_as_percent_of_gdp",
+      "g.1hhc3smyh"
+    ],
+    [
+      "Denmark",
+      "location.country.languages_spoken",
+      "Greenlandic language"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.time_required_to_start_a_business",
+      "g.11b6n_s0z6"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.merchandise_trade_percent_of_gdp",
+      "g.1hhc4hcdj"
+    ],
+    [
+      "Faxe Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "biology.breed_origin.breeds_originating_here",
+      "g.122wt67x"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Køge Municipality"
+    ],
+    [
+      "Syddjurs Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "g.12460kr9y"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.military_expenditure_percent_gdp",
+      "g.124609vmp"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Hillerød Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.time_required_to_start_a_business",
+      "g.1hhc4lp55"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc52957"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "g.1245__bf0"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.government_debt_percent_gdp",
+      "m.0nfn342"
+    ],
+    [
+      "Fredensborg Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "military.military_combatant.military_conflicts",
+      "m.09hzj_y"
+    ],
+    [
+      "Næstved Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gni_per_capita_in_ppp_dollars",
+      "m.0nfsc9w"
+    ],
+    [
+      "Rebild Municipality",
+      "location.location.containedby",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.location.events",
+      "Livonian War"
+    ],
+    [
+      "Denmark",
+      "location.country.second_level_divisions",
+      "Ringkøbing-Skjern Municipality"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gdp_nominal_per_capita",
+      "g.1hhc4tnyf"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrs65"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "g.1246059ht"
+    ],
+    [
+      "The Free Democrats",
+      "organization.organization.geographic_scope",
+      "Denmark"
+    ],
+    [
+      "Varde Municipality",
+      "location.administrative_division.second_level_division_of",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc474b_"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.gross_savings_as_percent_of_gdp",
+      "g.1hhc3vp_m"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.co2_emissions_per_capita",
+      "m.0nfrs6v"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.size_of_armed_forces",
+      "g.1hhc3wtyh"
+    ],
+    [
+      "Harthacnut I of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.consumer_price_index",
+      "g.1hhc4gdq8"
+    ],
+    [
+      "Christian VI of Denmark",
+      "royalty.monarch.kingdom",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.internet_users_percent_population",
+      "g.1245z3wr6"
+    ],
+    [
+      "Danish land",
+      "base.aareas.schema.administrative_area_type.pertains_to",
+      "Denmark"
+    ],
+    [
+      "Folketing",
+      "government.governmental_body.jurisdiction",
+      "Denmark"
+    ],
+    [
+      "Denmark",
+      "location.statistical_region.trade_balance_as_percent_of_gdp",
+      "g.1hhc3p956"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Capital Region of Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Frederikssund Municipality"
+    ],
+    [
+      "Fredensborg Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Frederikssund Municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Helsingør Municipality"
+    ],
+    [
+      "Halsnæs Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Kingdom of Denmark",
+      "location.location.contains",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Hillerød Municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Halsnæs Municipality"
+    ],
+    [
+      "Høje-Taastrup Municipality",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Høje-Taastrup Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Copenhagen"
+    ],
+    [
+      "Gladsaxe Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Frederiksberg Municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Albertslund Municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Bornholm Regional Municipality"
+    ],
+    [
+      "Frederikssund Municipality",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.containedby",
+      "Kingdom of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Bornholm"
+    ],
+    [
+      "Bornholm Regional Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Fredensborg Municipality"
+    ],
+    [
+      "Brønderslev Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Brønderslev Municipality"
+    ],
+    [
+      "Hillerød Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Albertslund Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Frederiksberg Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Gladsaxe Municipality"
+    ],
+    [
+      "Frederikssund Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Helsingør Municipality",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Copenhagen",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "location.location.contains",
+      "Høje-Taastrup Municipality"
+    ],
+    [
+      "Bornholm",
+      "location.location.containedby",
+      "Capital Region of Denmark"
+    ],
+    [
+      "Capital Region of Denmark",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Høje-Taastrup Municipality"
+    ],
+    [
+      "Capital Region of Denmark",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Danish region"
+    ],
+    [
+      "Republic of Macedonia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "San Marino",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Bosnia and Herzegovina",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Faxe Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Kolding Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Copenhagen",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Germany",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Køge Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Albania",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Republic of Kosovo",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Belgium",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "basecom GmbH & Co.KG",
+      "business.open_times.time_zone",
+      "Central European Time Zone"
+    ],
+    [
+      "Hungary",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Monaco",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Slovakia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Frederikssund Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Holbæk Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Poland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Czech Republic",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Roskilde Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "France",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Næstved Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Halsnæs Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Hillerød Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Kalundborg Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Netherlands",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Guldborgsund Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Europe",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Italy",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Malta",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Luxembourg",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Spain",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Switzerland",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Odsherred Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sweden",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Slovenia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Sorø Municipality",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Kingdom of the Netherlands",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Liechtenstein",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Austria",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Serbia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Montenegro",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Andorra",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Vatican City",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Norway",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ],
+    [
+      "Croatia",
+      "location.location.time_zones",
+      "Central European Time Zone"
+    ]
+  ]
+}

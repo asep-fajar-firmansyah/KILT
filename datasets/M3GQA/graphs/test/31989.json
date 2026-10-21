@@ -1,0 +1,3325 @@
+{
+  "graph_id": 31989,
+  "subgraph": [
+    [
+      "Hanoi",
+      "travel.travel_destination.tourist_attractions",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Hanoi",
+      "location.location.containedby",
+      "Vietnam"
+    ],
+    [
+      "Hanoi",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vietnam",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hanoi"
+    ],
+    [
+      "Hanoi",
+      "base.biblioness.bibs_location.country",
+      "Vietnam"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Hanoi"
+    ],
+    [
+      "Vietnam",
+      "location.country.administrative_divisions",
+      "Hanoi"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tourist_attraction.near_travel_destination",
+      "Hanoi"
+    ],
+    [
+      "Hanoi",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Vietnam"
+    ],
+    [
+      "Vietnam",
+      "location.country.capital",
+      "Hanoi"
+    ],
+    [
+      "Hanoi",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hanoi"
+    ],
+    [
+      "Hanoi",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Hanoi",
+      "location.administrative_division.country",
+      "Vietnam"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Russia"
+    ],
+    [
+      "India",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "South Korea"
+    ],
+    [
+      "Sri Lanka",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Cambodia",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Cambodia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "China"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Japan"
+    ],
+    [
+      "Asia",
+      "location.location.events",
+      "United States Exploring Expedition"
+    ],
+    [
+      "Myanmar",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Israel",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Japan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Nepal"
+    ],
+    [
+      "China",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Myanmar",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Cambodia",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "United States Exploring Expedition",
+      "time.event.locations",
+      "Asia"
+    ],
+    [
+      "Bhutan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Asia"
+    ],
+    [
+      "Turkey",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "South Korea",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Laos",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Vietnam",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "location.location.partially_contains",
+      "Turkey"
+    ],
+    [
+      "Nepal",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "location.location.events",
+      "World War II"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Jordan"
+    ],
+    [
+      "Jordan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Hong Kong"
+    ],
+    [
+      "Taiwan",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "United Arab Emirates"
+    ],
+    [
+      "Oman",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Jordan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Vietnam"
+    ],
+    [
+      "Thailand",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "United Arab Emirates",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Bhutan"
+    ],
+    [
+      "Laos",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Russia",
+      "location.location.partially_containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Taiwan"
+    ],
+    [
+      "Bhutan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Asia"
+    ],
+    [
+      "Oman",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Nepal",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Thailand"
+    ],
+    [
+      "South Korea",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Vietnam",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Israel"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Oman"
+    ],
+    [
+      "Thailand",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "China",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Sri Lanka",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Myanmar"
+    ],
+    [
+      "India",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Israel",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "India"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Sri Lanka"
+    ],
+    [
+      "United Arab Emirates",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Japan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Hong Kong",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Hong Kong",
+      "base.locations.countries.continent",
+      "Asia"
+    ],
+    [
+      "Asia",
+      "base.locations.continents.countries_within",
+      "Laos"
+    ],
+    [
+      "Taiwan",
+      "location.location.containedby",
+      "Asia"
+    ],
+    [
+      "Ho Chi Minh City",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Vietnam",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Ho Chi Minh City"
+    ],
+    [
+      "Ho Chi Minh City",
+      "base.biblioness.bibs_location.country",
+      "Vietnam"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Ho Chi Minh City"
+    ],
+    [
+      "Ho Chi Minh City",
+      "location.location.containedby",
+      "Vietnam"
+    ],
+    [
+      "Ho Chi Minh City",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tourist_attraction.near_travel_destination",
+      "Ho Chi Minh City"
+    ],
+    [
+      "Ho Chi Minh City",
+      "travel.travel_destination.tourist_attractions",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Vietnam",
+      "location.country.administrative_divisions",
+      "Ho Chi Minh City"
+    ],
+    [
+      "Ho Chi Minh City",
+      "location.administrative_division.country",
+      "Vietnam"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Ho Chi Minh City"
+    ],
+    [
+      "Ho Chi Minh City",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Vietnam"
+    ],
+    [
+      "Mainland Southeast Asia",
+      "location.location.contains",
+      "Vietnam"
+    ],
+    [
+      "Vietnam",
+      "location.location.containedby",
+      "Mainland Southeast Asia"
+    ],
+    [
+      "Mainland Southeast Asia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Mainland Southeast Asia",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Mainland Southeast Asia"
+    ],
+    [
+      "Cambodia",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Hội An",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "South China Sea"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Cambodia"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tourist_attraction.near_travel_destination",
+      "Luang Prabang"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Siem Reap"
+    ],
+    [
+      "Siem Reap",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Luang Prabang"
+    ],
+    [
+      "Luang Prabang",
+      "travel.travel_destination.tourist_attractions",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Siem Reap",
+      "travel.travel_destination.tourist_attractions",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Laos",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tourist_attraction.near_travel_destination",
+      "Hội An"
+    ],
+    [
+      "South China Sea",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "common.topic.notable_types",
+      "Tour operator"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Hội An"
+    ],
+    [
+      "Luang Prabang",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "South China Sea",
+      "travel.travel_destination.tourist_attractions",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tourist_attraction.near_travel_destination",
+      "South China Sea"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Vietnam"
+    ],
+    [
+      "Vietnam",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Laos"
+    ],
+    [
+      "Hội An",
+      "travel.travel_destination.tourist_attractions",
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation"
+    ],
+    [
+      "Adventures by Disney - Cambodia, Vietnam & Laos Vacation",
+      "travel.tourist_attraction.near_travel_destination",
+      "Siem Reap"
+    ],
+    [
+      "Hội An",
+      "location.location.containedby",
+      "Vietnam"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Vietnam"
+    ],
+    [
+      "Vietnam",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Vietnam",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Vietnam"
+    ],
+    [
+      "Salzburg",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Anaheim",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Cusco",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Puerto Ayora",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sydney",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Nashville",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Peru",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Giza",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Luxor",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Siem Reap",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Knysna",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Port Arthur",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Copenhagen",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Lima",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Aswan",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "San Francisco",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Athens",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Otavalo",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Quito",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Kuranda",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Cairo",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "New York City",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Paris",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Hội An",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Puerto Armuelles",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Barcelona",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Shanghai",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Versailles",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "London",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Beijing",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Prague",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Luang Prabang",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vienna",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Cape Town",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Giza"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Guanacaste Province"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Montana"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Waldeck"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "South Africa"
+    ],
+    [
+      "Utah",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cairo"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "England"
+    ],
+    [
+      "Scotland",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "      Adventures by Disney - Norway Vacation"
+    ],
+    [
+      "Vienna",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Abu Simbel temples"
+    ],
+    [
+      "Alaska",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Galápagos Islands"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Barcelona"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Yasuni National Park"
+    ],
+    [
+      "Machu Picchu",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Aswan",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Anaheim",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Alberta"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Ecuador"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Sharm el-Sheikh"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Knysna"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Crete"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - South Africa Vacation"
+    ],
+    [
+      "Santorini",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Santorini"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Utah"
+    ],
+    [
+      "m.011lljzf",
+      "organization.organization_relationship.child",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cambodia"
+    ],
+    [
+      "Ireland",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Shanghai"
+    ],
+    [
+      "Adventures by Disney - Ireland Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Alberta",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Wyoming"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Machu Picchu"
+    ],
+    [
+      "China",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "New York City",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Quito",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Siem Reap"
+    ],
+    [
+      "Giza",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Barcelona Pre-Cruise Stay"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Peru"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Lima"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Sacred Valley"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "New York City"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Laos"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Munich"
+    ],
+    [
+      "Egypt",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Egypt"
+    ],
+    [
+      "Wyoming",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.article",
+      "m.09rmp8"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Amalfi Coast"
+    ],
+    [
+      "  Adventures by Disney - 12-Night Magic of the Baltic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Vacation Package"
+    ],
+    [
+      "Adventures by Disney - England and France Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Switzerland"
+    ],
+    [
+      "Adventures by Disney - Italy Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Personalised travel planning"
+    ],
+    [
+      "Xi'an",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.phone_number",
+      "m.011llj_0"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Versailles"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Amazon River"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Scotland Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - China Vacation"
+    ],
+    [
+      "Munich",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.parent",
+      "m.0ny6h_n"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Salzburg"
+    ],
+    [
+      "Arenal Volcano",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.notable_for",
+      "g.12h2_skk4"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - 7-Night Mediterranean Magic Cruise"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Great Barrier Reef"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Chengdu"
+    ],
+    [
+      "Switzerland",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Australia Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Paris"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Italy: Tuscany"
+    ],
+    [
+      "Peru",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Austria, Germany, Czech Republic Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.geographic_scope",
+      "International organization"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Xi'an"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Normandy"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Ecuador: Amazon and Galapagos Islands"
+    ],
+    [
+      "Adventures by Disney - 7-Night Mediterranean Magic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Arenal Volcano"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise"
+    ],
+    [
+      "San José",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Barcelona Pre-Cruise Stay",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Baltic Sea",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Costa Rica",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Aswan"
+    ],
+    [
+      "Laos",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "m.0ny6h_n",
+      "organization.organization_relationship.child",
+      "Adventures by Disney"
+    ],
+    [
+      "Sharm el-Sheikh",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hong Kong"
+    ],
+    [
+      "Galápagos Islands",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Montana",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Beijing",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Luang Prabang",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Vienna"
+    ],
+    [
+      "Rothenburg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Guilin"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Anaheim"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Czech Republic"
+    ],
+    [
+      "Salzburg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Sydney",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Greece",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Kapama Game Reserve"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Santa Cruz Island"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Kuranda"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "San Francisco"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Tortuguero"
+    ],
+    [
+      "London",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Luxor",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Egypt Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Luang Prabang"
+    ],
+    [
+      "Siem Reap",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Normandy",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Delphi"
+    ],
+    [
+      "Nashville",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Italy"
+    ],
+    [
+      "Crete",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Greece Vacation"
+    ],
+    [
+      "Versailles",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Italy and Amalfi Coast Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Prague"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Great Barrier Reef Marine Park"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Germany Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Greece"
+    ],
+    [
+      "Czech Republic",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Beijing"
+    ],
+    [
+      "Cairo",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Great Barrier Reef",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Ecuador and Galapagos Islands",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Heidelberg"
+    ],
+    [
+      "Australia",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Nashville Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Bavarian Alps"
+    ],
+    [
+      "  Adventures by Disney - 5-Night Mediterranean Magic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Port Arthur"
+    ],
+    [
+      "Cape Town",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Costa Rica Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Tasmania"
+    ],
+    [
+      "Heidelberg",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cape Town"
+    ],
+    [
+      "Austria",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Hội An",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Santa Cruz Island",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Cambodia",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "San Francisco",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Norway",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "France"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Quito"
+    ],
+    [
+      "Ecuador",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Copenhagen"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - England and France Vacation"
+    ],
+    [
+      "France",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Scotland"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Ireland"
+    ],
+    [
+      "Knysna",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Nashville"
+    ],
+    [
+      "Chengdu",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "London"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Cusco"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Austria"
+    ],
+    [
+      "Adventures by Disney - Australia Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - Greece Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "China"
+    ],
+    [
+      "Adventures by Disney",
+      "organization.organization.parent",
+      "m.011lljzf"
+    ],
+    [
+      "Abu Simbel temples",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Shanghai",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Waldeck",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Germany"
+    ],
+    [
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Prague",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Sydney"
+    ],
+    [
+      "Hong Kong",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Peru Vacation"
+    ],
+    [
+      "Adventures by Disney - Ecuador: Amazon and Galapagos Islands",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Ecuador and Galapagos Islands"
+    ],
+    [
+      "Adventures by Disney - Italy and Amalfi Coast Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Italy Vacation"
+    ],
+    [
+      "Tasmania",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Barcelona",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Copenhagen",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Cusco",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Amazon River",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hollywood"
+    ],
+    [
+      "England",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Costa Rica"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Australia"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Luxor"
+    ],
+    [
+      "Adventures by Disney - Austria, Germany, Czech Republic Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Amalfi Coast",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney - China Vacation",
+      "common.topic.subject_of",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Norway"
+    ],
+    [
+      "Sacred Valley",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Ireland Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Rothenburg"
+    ],
+    [
+      "Italy",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Athens",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - France Vacation"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Alaska"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Athens"
+    ],
+    [
+      "Hollywood",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Tourism"
+    ],
+    [
+      "Lima",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "San José"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Otavalo"
+    ],
+    [
+      "Port Arthur",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Otavalo",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Kuranda",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Baltic Sea"
+    ],
+    [
+      "Adventures by Disney",
+      "travel.tour_operator.travel_destinations",
+      "Hội An"
+    ],
+    [
+      "Delphi",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Germany",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "common.topic.subjects",
+      "Adventures by Disney - Spain"
+    ],
+    [
+      "Paris",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Guilin",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Adventures by Disney",
+      "business.business_operation.industry",
+      "Travel agency"
+    ],
+    [
+      "South Africa",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "Guanacaste Province",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "base.locations.countries.continent",
+      "Europe"
+    ],
+    [
+      "Russia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise",
+      "travel.tour_operator.travel_destinations",
+      "Russia"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - 7-Night Magic of the Baltic Cruise"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Europe",
+      "base.locations.continents.countries_within",
+      "Russia"
+    ],
+    [
+      "Russia",
+      "location.location.events",
+      "World War II"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "India"
+    ],
+    [
+      "Life of Pi",
+      "book.written_work.subjects",
+      "India"
+    ],
+    [
+      "India",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "South Korea",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "South Korea"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Sri Lanka"
+    ],
+    [
+      "Sri Lanka",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Cambodia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Cambodia"
+    ],
+    [
+      "Siem Reap",
+      "location.location.containedby",
+      "Cambodia"
+    ],
+    [
+      "Beijing",
+      "base.biblioness.bibs_location.country",
+      "China"
+    ],
+    [
+      "Xi'an",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.capital",
+      "Beijing"
+    ],
+    [
+      "Hong Kong",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Beijing",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Shanghai",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Shanghai",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Pacific War",
+      "time.event.locations",
+      "China"
+    ],
+    [
+      "Chengdu",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Shanghai"
+    ],
+    [
+      "Shanghai",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Beijing"
+    ],
+    [
+      "Shanghai",
+      "base.biblioness.bibs_location.country",
+      "China"
+    ],
+    [
+      "Beijing",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Shanghai"
+    ],
+    [
+      "China",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Hong Kong",
+      "location.administrative_division.country",
+      "China"
+    ],
+    [
+      "Guilin",
+      "location.location.containedby",
+      "China"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "China"
+    ],
+    [
+      "Hong Kong",
+      "base.biblioness.bibs_location.country",
+      "China"
+    ],
+    [
+      "China",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Hong Kong"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Hong Kong"
+    ],
+    [
+      "Beijing",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "Hong Kong",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "China"
+    ],
+    [
+      "China",
+      "location.country.administrative_divisions",
+      "Beijing"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Japan"
+    ],
+    [
+      "Japan",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Midway",
+      "book.written_work.subjects",
+      "Japan"
+    ],
+    [
+      "United States Exploring Expedition",
+      "time.event.locations",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.events",
+      "United States Exploring Expedition"
+    ],
+    [
+      "Battle of Drummond's Island",
+      "time.event.included_in_event",
+      "United States Exploring Expedition"
+    ],
+    [
+      "United States Exploring Expedition",
+      "time.event.locations",
+      "Africa"
+    ],
+    [
+      "Pacific Ocean",
+      "location.location.events",
+      "United States Exploring Expedition"
+    ],
+    [
+      "Bombardment of Upolu",
+      "time.event.included_in_event",
+      "United States Exploring Expedition"
+    ],
+    [
+      "United States Exploring Expedition",
+      "time.event.locations",
+      "Australia"
+    ],
+    [
+      "Australia",
+      "location.location.events",
+      "United States Exploring Expedition"
+    ],
+    [
+      "United States Exploring Expedition",
+      "time.event.locations",
+      "Pacific Ocean"
+    ],
+    [
+      "United States Exploring Expedition",
+      "time.event.includes_event",
+      "Battle of Drummond's Island"
+    ],
+    [
+      "United States Exploring Expedition",
+      "time.event.includes_event",
+      "Bombardment of Upolu"
+    ],
+    [
+      "United States Exploring Expedition",
+      "base.culturalevent.event.entity_involved",
+      "Samoa"
+    ],
+    [
+      "United States Exploring Expedition",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "Africa",
+      "location.location.events",
+      "United States Exploring Expedition"
+    ],
+    [
+      "United States Exploring Expedition",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Myanmar"
+    ],
+    [
+      "Myanmar",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Israel",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Israel"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Israel"
+    ],
+    [
+      "Israel",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Nepal"
+    ],
+    [
+      "Nepal",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Bhutan"
+    ],
+    [
+      "Bhutan",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bombardment of Fort Stevens",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "American Theater",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Mariana and Palau Islands campaign",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Operation Ten-Go",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "The Dauntless dive bomber of World War Two",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "Operation Tan No. 2",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "War Without Mercy",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "World War II",
+      "common.topic.notable_types",
+      "Military Conflict"
+    ],
+    [
+      "The Liberation of the Philippines",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "Midway",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Africa"
+    ],
+    [
+      "Escape from the Deep",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "Middle East",
+      "location.location.events",
+      "World War II"
+    ],
+    [
+      "Battle of Leyte Gulf",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Scandinavia"
+    ],
+    [
+      "Lookout Air Raids",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Pacific Ocean"
+    ],
+    [
+      "Battle of Balikpapan",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Wildcat",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "Scandinavia",
+      "location.location.events",
+      "World War II"
+    ],
+    [
+      "Gilbert and Marshall Islands campaign",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "From Omaha to Okinawa",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "Japanese occupation of Attu",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Action of 5 July 1942",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Hellcat, the F6F in World War II",
+      "book.written_work.subjects",
+      "World War II"
+    ],
+    [
+      "Pacific War",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Pacific Theater of Operations",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Middle East"
+    ],
+    [
+      "Battle of Guam",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Solomon Islands campaign",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "World War II",
+      "time.event.locations",
+      "Europe"
+    ],
+    [
+      "Bombardment of Ellwood",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Africa",
+      "location.location.events",
+      "World War II"
+    ],
+    [
+      "Western New Guinea campaign",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Pacific Ocean",
+      "location.location.events",
+      "World War II"
+    ],
+    [
+      "Volcano and Ryukyu Islands campaign",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "First Bombardment of Midway",
+      "time.event.included_in_event",
+      "World War II"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Turkey"
+    ],
+    [
+      "Turkey",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Europe",
+      "location.location.partially_contains",
+      "Turkey"
+    ],
+    [
+      "Turkey",
+      "location.location.partially_containedby",
+      "Europe"
+    ],
+    [
+      "Luang Prabang",
+      "location.location.containedby",
+      "Laos"
+    ],
+    [
+      "Laos",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Laos"
+    ],
+    [
+      "Jordan",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Jordan",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Jordan"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Jordan"
+    ],
+    [
+      "Hong Kong",
+      "travel.travel_destination.tour_operators",
+      "Adventures by Disney - China Vacation"
+    ],
+    [
+      "Adventures by Disney - China Vacation",
+      "travel.tour_operator.travel_destinations",
+      "Hong Kong"
+    ],
+    [
+      "Taiwan",
+      "location.location.events",
+      "Pacific War"
+    ],
+    [
+      "Taiwan",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Pacific War",
+      "time.event.locations",
+      "Taiwan"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Taiwan"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "United Arab Emirates"
+    ],
+    [
+      "United Arab Emirates",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "United Arab Emirates"
+    ],
+    [
+      "United Arab Emirates",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Oman",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Middle East",
+      "location.location.contains",
+      "Oman"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Oman"
+    ],
+    [
+      "Oman",
+      "location.location.containedby",
+      "Middle East"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Thailand"
+    ],
+    [
+      "Thailand",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Rwanda"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Namibia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Bolivia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Portugal"
+    ],
+    [
+      "Bunnik Tours",
+      "freebase.valuenotation.is_reviewed",
+      "Image"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "France"
+    ],
+    [
+      "Scandinavia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Namibia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Cairo",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Italy",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Africa"
+    ],
+    [
+      "Africa",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Chile",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Argentina",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Egypt",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Sweden"
+    ],
+    [
+      "France",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Malta",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Finland"
+    ],
+    [
+      "Morocco",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Brazil"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Malta"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Ecuador"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.product_lines",
+      "Group Tour"
+    ],
+    [
+      "Iceland",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Madagascar",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Denmark"
+    ],
+    [
+      "Portugal",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Mexico"
+    ],
+    [
+      "Tanzania",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bosnia and Herzegovina",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Madagascar"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Morocco"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Colombia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Egypt"
+    ],
+    [
+      "Bunnik Tours",
+      "common.topic.subject_of",
+      "Travel agency"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Spain"
+    ],
+    [
+      "Greece",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Iceland"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Botswana"
+    ],
+    [
+      "Botswana",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Greece"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Serbia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Middle East"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Peru"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.slogans",
+      "m.012m06_0"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Galápagos Islands"
+    ],
+    [
+      "Hungary",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "South America",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Chile"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Bosnia and Herzegovina"
+    ],
+    [
+      "Colombia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Mexico",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "m.012m06_0",
+      "business.brand_slogan.brand",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Italy"
+    ],
+    [
+      "Finland",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Europe"
+    ],
+    [
+      "Ecuador",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Kenya",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.product_lines",
+      "Package tour"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.owner_s",
+      "m.012m0fnn"
+    ],
+    [
+      "m.012m0fnn",
+      "business.company_brand_relationship.brand",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Cuba"
+    ],
+    [
+      "Brazil",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Uganda"
+    ],
+    [
+      "Slovenia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Middle East",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Serbia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Europe",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Galápagos Islands",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Spain",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Cairo"
+    ],
+    [
+      "Croatia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bolivia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Peru",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Cuba",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Uganda",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Slovakia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Scandinavia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Tanzania"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.slogans",
+      "m.012lyfqx"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Montenegro"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Kenya"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Croatia"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "South America"
+    ],
+    [
+      "Slovakia",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Hungary"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Slovenia"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.parent_brand",
+      "Bunnik Tours"
+    ],
+    [
+      "Norway",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Argentina"
+    ],
+    [
+      "Rwanda",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Romania",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.product_lines",
+      "Small Group Tour"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Central America"
+    ],
+    [
+      "Montenegro",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "business.brand.product_lines",
+      "Cruise & Tour"
+    ],
+    [
+      "Central America",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "common.topic.subject_of",
+      "Travel website"
+    ],
+    [
+      "Denmark",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "freebase.valuenotation.has_value",
+      "Image"
+    ],
+    [
+      "Sweden",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Bulgaria"
+    ],
+    [
+      "m.012lyfqx",
+      "business.brand_slogan.brand",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Norway"
+    ],
+    [
+      "Bulgaria",
+      "travel.travel_destination.tour_operators",
+      "Bunnik Tours"
+    ],
+    [
+      "Bunnik Tours",
+      "common.topic.subject_of",
+      "Tour operator"
+    ],
+    [
+      "Bunnik Tours",
+      "travel.tour_operator.travel_destinations",
+      "Romania"
+    ],
+    [
+      "Airport",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Geographical Feature",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Travel destination",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Body Of Water",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Mountain",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Tourist attraction",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Gulf of Arauco",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Crete",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Travel destination",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Normandy",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Mountain",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Administrative Division",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Airport",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Puerto Baquerizo Moreno",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Island Group",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Copper Bay",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Geographical Feature",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Body Of Water",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Amalfi Coast",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Island Group",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Spacecraft cemetery",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Administrative Division",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Location",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Ecuadorean province",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "Protected Site",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Ronald Reagan Ballistic Missile Defense Test Site",
+      "common.topic.notable_types",
+      "Location"
+    ]
+  ]
+}

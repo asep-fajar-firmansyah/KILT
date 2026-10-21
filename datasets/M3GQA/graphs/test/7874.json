@@ -1,0 +1,7610 @@
+{
+  "graph_id": 7874,
+  "subgraph": [
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Stanley Park"
+    ],
+    [
+      "Stanley Park",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Stanley Park",
+      "base.vancouver.location_in_neighborhood.neighborhood",
+      "Stanley Park"
+    ],
+    [
+      "Stanley Park",
+      "location.location.contains",
+      "Vancouver Aquarium"
+    ],
+    [
+      "Stanley Park",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Stanley Park"
+    ],
+    [
+      "Stanley Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Stanley Park",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Calgary Cowboys"
+    ],
+    [
+      "Calgary Cowboys",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Calgary Cowboys",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "m.02_321p",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl45t"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Marpole"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Playland"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02yxjx9"
+    ],
+    [
+      "m.059f2p7",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "m.0b6rzh0",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2n7"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl44r"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "University Golf Club"
+    ],
+    [
+      "Pretty Little Liars",
+      "tv.tv_program.filming_locations",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Greektown, Vancouver"
+    ],
+    [
+      "m.04xh7cx",
+      "travel.transportation.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Empire Landmark Hotel"
+    ],
+    [
+      "m.04vywd9",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "architecture.architectural_structure_owner.structures_owned",
+      "m.04xg_6k"
+    ],
+    [
+      "m.065pb_f",
+      "base.popstra.vacation_choice.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Little Mountain"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09yt3tb"
+    ],
+    [
+      "Vancouver",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Grizzlies"
+    ],
+    [
+      "m.09wwb7z",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.059f2nr",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wcqp6"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Nitobe Memorial Garden"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2m_"
+    ],
+    [
+      "West Point Grey",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "m.04vyw0f",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Hastings–Sunrise"
+    ],
+    [
+      "m.059f2nh",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Grandview–Woodland"
+    ],
+    [
+      "Gastown",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3nz"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09ynzt2"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Dose"
+    ],
+    [
+      "Hurricane I.P.A.",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyvtz"
+    ],
+    [
+      "m.09wbxn5",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "World Journal"
+    ],
+    [
+      "South Granville",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3jd"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl46w"
+    ],
+    [
+      "Vancouver",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vancouver Organizing Committee"
+    ],
+    [
+      "m.09xy_qx",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.0b46r1j",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.0b479k5",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Vancouver Marathon"
+    ],
+    [
+      "Vancouver",
+      "architecture.architectural_structure_owner.structures_owned",
+      "m.04xgzbn"
+    ],
+    [
+      "m.04vyv_5",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wp7j7"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.how_to_get_here",
+      "m.059f36y"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Queen Elizabeth Park, British Columbia"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyw7n"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl45m"
+    ],
+    [
+      "Vancouver",
+      "location.location.containedby",
+      "Greater Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.infrastructure.infrastructural_municipality.landfill",
+      "Delta landfill"
+    ],
+    [
+      "m.09wx9rl",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl45g"
+    ],
+    [
+      "Downtown Eastside",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.04sx3nk",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.059f2lh",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "tv.tv_location.tv_shows_filmed_here",
+      "Pretty Little Liars"
+    ],
+    [
+      "Kitsilano",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "m.04sx3pc",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Canadians",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "False Creek"
+    ],
+    [
+      "Vancouver",
+      "government.governmental_jurisdiction.agencies",
+      "Vancouver Fire and Rescue Services"
+    ],
+    [
+      "m.09yq8h_",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.04sx2wt",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Sasquatch",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Vancouver"
+    ],
+    [
+      "m.04_j5gs",
+      "business.employment_tenure.company",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Vancouver Maritime Museum"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3b7"
+    ],
+    [
+      "m.046csxh",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.infrastructure.infrastructural_municipality.landfill",
+      "Cache Creek landfill"
+    ],
+    [
+      "m.04vyw7n",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2lr"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Peak"
+    ],
+    [
+      "m.04sx3b7",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.image",
+      "Vancouver Panorama"
+    ],
+    [
+      "Museum of Anthropology at UBC",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Black Cherry Lambic"
+    ],
+    [
+      "Vancouver Giants",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Denman Street"
+    ],
+    [
+      "m.04vyv_n",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.article",
+      "m.080hd"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl450"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Giants"
+    ],
+    [
+      "Playland",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.governmental_jurisdiction.government_bodies",
+      "Vancouver City Council"
+    ],
+    [
+      "24 Hours",
+      "book.newspaper.circulation_areas",
+      "Vancouver"
+    ],
+    [
+      "m.04sx3bn",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Millionaires",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "m.04xg_dx",
+      "architecture.ownership.owner",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyv_n"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Millionaires"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl448"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "24 Hours"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Granville Island Honey Lager"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3c1"
+    ],
+    [
+      "Vancouver",
+      "common.topic.article",
+      "m.02z_wrl"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Canadian Rockies"
+    ],
+    [
+      "m.04xg_bg",
+      "architecture.ownership.owner",
+      "Vancouver"
+    ],
+    [
+      "Granville Island",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Royals"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2n_"
+    ],
+    [
+      "Vancouver",
+      "base.popstra.location.vacationers",
+      "m.064spdr"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl468"
+    ],
+    [
+      "m.02z_yh3",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09w9jxx"
+    ],
+    [
+      "m.0b47dx8",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.04sx30t",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx2t2"
+    ],
+    [
+      "Marpole",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vywb_"
+    ],
+    [
+      "m.02z_xdz",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "m.09yq45_",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.popstra.location.vacationers",
+      "m.064tkxj"
+    ],
+    [
+      "Victoria–Fraserview",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Lower Mainland",
+      "location.location.contains",
+      "Vancouver"
+    ],
+    [
+      "m.04sx2x1",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl44g"
+    ],
+    [
+      "Vancouver",
+      "base.popstra.location.vacationers",
+      "m.064snv_"
+    ],
+    [
+      "Vancouver",
+      "government.governmental_jurisdiction.government_bodies",
+      "Vancouver Park Board"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl459"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02_3225"
+    ],
+    [
+      "Vancouver",
+      "common.topic.image",
+      "Vancouver ib"
+    ],
+    [
+      "m.09ynzt2",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "olympics.olympic_bidding_city.olympics_bid_on",
+      "m.04dwjb3"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kitsilano"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx2wk"
+    ],
+    [
+      "Cache Creek landfill",
+      "base.infrastructure.landfill.serves_location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Downtown Eastside"
+    ],
+    [
+      "m.02z_yc9",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Vancouver Courier"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Xtra Vancouver"
+    ],
+    [
+      "m.04lq0g9",
+      "location.mailing_address.citytown",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Ravens"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Dunbar-Southlands"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3ps"
+    ],
+    [
+      "m.09wvph8",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wbkzx"
+    ],
+    [
+      "Kerrisdale",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wjs6l"
+    ],
+    [
+      "m.059f2mh",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "m.09w18fn",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Grizzlies",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "m.059f2n7",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2p7"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "South Granville"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.059kv84"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Sheraton Wall Centre"
+    ],
+    [
+      "m.064snv_",
+      "base.popstra.vacation_choice.location",
+      "Vancouver"
+    ],
+    [
+      "Hotel Vancouver",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_yh3"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Robson Street"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3q5"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyw8n"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wvph8"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Dickens, Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3n4"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2mh"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_yfm"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Riley Park–Little Mountain"
+    ],
+    [
+      "m.064b4w1",
+      "base.popstra.vacation_choice.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx30k"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.local_transportation",
+      "SeaBus"
+    ],
+    [
+      "Vancouver",
+      "business.employer.employees",
+      "m.04_j5gs"
+    ],
+    [
+      "m.09xwnm6",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "2010 Winter Olympics",
+      "time.event.locations",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyv_z"
+    ],
+    [
+      "m.04sx37z",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.04vyw93",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.09w_hvw",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.how_to_get_here",
+      "m.04xh7d8"
+    ],
+    [
+      "m.059kv84",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.059f2m_",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Comfort Inn Downtown Vancouver"
+    ],
+    [
+      "m.04sx3ps",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Fairview, Vancouver"
+    ],
+    [
+      "Sylvia Hotel",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Mounties",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "m.04vyvtz",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.064snzq",
+      "base.popstra.vacation_choice.location",
+      "Vancouver"
+    ],
+    [
+      "Yaletown",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Punjabi Market, Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx38n"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Ramada Inns and Suites Downtown Vancouver"
+    ],
+    [
+      "m.04sx3nz",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx34_"
+    ],
+    [
+      "m.064spdr",
+      "base.popstra.vacation_choice.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.governmental_jurisdiction.agencies",
+      "Vancouver Police Department"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09w18fn"
+    ],
+    [
+      "m.09wfldz",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Science World"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.02z_wxt"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Renfrew–Collingwood"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09w_hvw"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Arbutus Ridge"
+    ],
+    [
+      "Precipitation Pilsner",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09kln8c"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Davie Village"
+    ],
+    [
+      "m.04vyv_z",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.02z_xbv",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx2rm"
+    ],
+    [
+      "Gastown",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.059f36y",
+      "travel.transportation.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.local_transportation",
+      "SkyTrain"
+    ],
+    [
+      "People's Voice",
+      "book.newspaper.circulation_areas",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "South Cambie"
+    ],
+    [
+      "Coal Harbour",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "m.09x31nr",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Art Gallery",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Whitecaps FC",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Blackberry Lambic",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.nearby_airports",
+      "Vancouver Harbour Flight Centre"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Blackberry Lambic"
+    ],
+    [
+      "Science World",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Japantown, Vancouver",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09w85zc"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "South Main"
+    ],
+    [
+      "Vancouver Nats",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Ubyssey"
+    ],
+    [
+      "South Granville",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Shaughnessy, Vancouver",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx38c"
+    ],
+    [
+      "m.04sx309",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wbxn5"
+    ],
+    [
+      "Museum of Vancouver",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "m.04sx38n",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "VanDusen Botanical Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "olympics.olympic_host_city.olympics_hosted",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09xwnm6"
+    ],
+    [
+      "Vancouver",
+      "symbols.namesake.named_after",
+      "George Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.03ldss0"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3pc"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Canadians"
+    ],
+    [
+      "Science World",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2l_"
+    ],
+    [
+      "Vancouver Art Gallery",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "m.04vywcn",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.04sx312",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Granville Island"
+    ],
+    [
+      "m.09w996s",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.popstra.location.vacationers",
+      "m.065pb_f"
+    ],
+    [
+      "m.09w9jxx",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Queen Elizabeth Park, British Columbia",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.09wp7j7",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2nh"
+    ],
+    [
+      "Nitobe Memorial Garden",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl454"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Cougars"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Vancouver International Film Festival"
+    ],
+    [
+      "Vancouver",
+      "fictional_universe.fictional_setting.works_set_here",
+      "Mario & Sonic at the Olympic Winter Games"
+    ],
+    [
+      "Vancouver",
+      "location.location.geolocation",
+      "m.022lvvt"
+    ],
+    [
+      "Vancouver",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Sasquatch"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3mr"
+    ],
+    [
+      "m.02z_xnl",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.localfood.csa_coverage_area.supplied_by",
+      "NOWBC Co-op"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyv_5"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Anthropology at UBC"
+    ],
+    [
+      "m.09wcqp6",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Harbour Flight Centre",
+      "aviation.airport.serves",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_xbv"
+    ],
+    [
+      "m.09yt3tb",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Queen Elizabeth Park, British Columbia"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_yc9"
+    ],
+    [
+      "m.02_322r",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "m.09w87b7",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Sing Tao Daily"
+    ],
+    [
+      "m.09x5ph2",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Strathcona, Vancouver"
+    ],
+    [
+      "m.04vyw83",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Strathcona, Vancouver",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.05gr8lp",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.059f2n_",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.vancouver.podcaster.podcast",
+      "Four Pillars Drug Strategy Podcast"
+    ],
+    [
+      "Coal Harbour",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl44w"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09w87b7"
+    ],
+    [
+      "Vancouver",
+      "olympics.olympic_bidding_city.olympics_bid_on",
+      "m.063x27y"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyw0f"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Whitecaps FC"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Sunset, Vancouver"
+    ],
+    [
+      "Vancouver",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Hawksworth Restaurant"
+    ],
+    [
+      "m.02xk__t",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "m.059f2m7",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2nr"
+    ],
+    [
+      "Vancouver",
+      "architecture.architectural_structure_owner.structures_owned",
+      "m.06v12gr"
+    ],
+    [
+      "Vancouver",
+      "organization.organization_scope.organizations_with_this_scope",
+      "King Edward High School"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Vancouver Aquarium"
+    ],
+    [
+      "Vancouver",
+      "base.popstra.location.vacationers",
+      "m.064snzq"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West End"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09yq45_"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09x31nr"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyw73"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl444"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Furious George"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Little Italy, Vancouver"
+    ],
+    [
+      "Arbutus Ridge",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Museum of Vancouver",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.local_transportation",
+      "TransLink"
+    ],
+    [
+      "m.02_3225",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Sing Tao Daily",
+      "book.newspaper.circulation_areas",
+      "Vancouver"
+    ],
+    [
+      "Kerrisdale",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "m.04_j5hh",
+      "business.employment_tenure.company",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09x5ph2"
+    ],
+    [
+      "m.04sx3q5",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Hastings–Sunrise",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Jewish Tribune"
+    ],
+    [
+      "m.09w85zc",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Black Plague Stout",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Vancouver Sun Run"
+    ],
+    [
+      "Strathcona, Vancouver",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "m.04sx3c1",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Metropolitan Vancouver Hotel"
+    ],
+    [
+      "m.0rqg3gr",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Nats"
+    ],
+    [
+      "George Vancouver",
+      "symbols.name_source.namesakes",
+      "Vancouver"
+    ],
+    [
+      "Dose",
+      "book.newspaper.circulation_areas",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09x5vcr"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Province"
+    ],
+    [
+      "Raspberry Lambic",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Commercial Drive, Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.05gr8lp"
+    ],
+    [
+      "Vancouver",
+      "location.location.containedby",
+      "Lower Mainland"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.0b47dx8"
+    ],
+    [
+      "m.09x5vcr",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Marpole",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09xy_qx"
+    ],
+    [
+      "Vancouver",
+      "location.location.nearby_airports",
+      "Vancouver International Airport"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Fraser Street"
+    ],
+    [
+      "m.03ldss0",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.image",
+      "Vancouver Photo Montage"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Mount Pleasant, Vancouver"
+    ],
+    [
+      "m.04sx2t2",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver International Water Airport",
+      "aviation.airport.serves",
+      "Vancouver"
+    ],
+    [
+      "Queen Elizabeth Park, British Columbia",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Victoria Drive"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyw83"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Sylvia Hotel"
+    ],
+    [
+      "m.04sx2r1",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2mr"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wwb7z"
+    ],
+    [
+      "Vancouver",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Proto3000"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_xnl"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.local_transportation",
+      "Aquabus Ferries"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Killarney, Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.0b47pkk"
+    ],
+    [
+      "m.0b47pkk",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.04xg_6k",
+      "architecture.ownership.owner",
+      "Vancouver"
+    ],
+    [
+      "m.02z_yfm",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "m.04sx3n4",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Marriott Vancouver Pinnacle Downtown"
+    ],
+    [
+      "Vancouver",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Public Storage Canada"
+    ],
+    [
+      "Tablet",
+      "book.newspaper.circulation_areas",
+      "Vancouver"
+    ],
+    [
+      "Japantown, Vancouver",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.musiteca.situation.performers_living_here",
+      "Norine Braun"
+    ],
+    [
+      "m.0b4795k",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.subject_of",
+      "Circa 1948"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Ming Pao"
+    ],
+    [
+      "VanDusen Botanical Garden",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.04sx3mr",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.09w5nzv",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02_321p"
+    ],
+    [
+      "m.04vyw8n",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Shaughnessy, Vancouver"
+    ],
+    [
+      "m.04vywb_",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09w996s"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09w5nzv"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Downtown Vancouver"
+    ],
+    [
+      "Black Cherry Lambic",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Precipitation Pilsner"
+    ],
+    [
+      "Vancouver",
+      "business.employer.employees",
+      "m.04_j5hh"
+    ],
+    [
+      "Metro Vancouver",
+      "location.location.contains",
+      "Vancouver"
+    ],
+    [
+      "m.059gh2f",
+      "travel.transportation.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.how_to_get_here",
+      "m.059gh2f"
+    ],
+    [
+      "m.04xgzbn",
+      "architecture.ownership.owner",
+      "Vancouver"
+    ],
+    [
+      "Kitsilano",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx37z"
+    ],
+    [
+      "Vancouver",
+      "common.topic.notable_for",
+      "g.125bw8_fm"
+    ],
+    [
+      "m.09wxldv",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.046csxh"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Chinatown"
+    ],
+    [
+      "Vancouver International Airport",
+      "aviation.airport.serves",
+      "Vancouver"
+    ],
+    [
+      "m.02z_yg7",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vywd9"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Railtown"
+    ],
+    [
+      "Vancouver",
+      "location.citytown.postal_codes",
+      "V6C 1H2"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Raspberry Lambic"
+    ],
+    [
+      "m.04sx2wk",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.04sx2rm",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "base.biblioness.bibs_location.state",
+      "British Columbia"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.how_to_get_here",
+      "m.059kw4_"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2m7"
+    ],
+    [
+      "Vancouver",
+      "base.biblioness.bibs_location.country",
+      "Canada"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "St. Regis Hotel Vancouver"
+    ],
+    [
+      "Vancouver",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vancouver Drupal Users Group"
+    ],
+    [
+      "m.04sx30k",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.09wcjj0",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3nk"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Yaletown"
+    ],
+    [
+      "m.059f2lr",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Proto3000",
+      "organization.organization.geographic_scope",
+      "Vancouver"
+    ],
+    [
+      "m.09kln8c",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Quilchena"
+    ],
+    [
+      "Vancouver Maritime Museum",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Delta landfill",
+      "base.infrastructure.landfill.serves_location",
+      "Vancouver"
+    ],
+    [
+      "West Point Grey",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "VanDusen Botanical Garden"
+    ],
+    [
+      "m.04vywbf",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx2wt"
+    ],
+    [
+      "m.04sx38c",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.nearby_airports",
+      "Vancouver International Water Airport"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx309"
+    ],
+    [
+      "Vancouver",
+      "government.governmental_jurisdiction.agencies",
+      "Vancouver Public Library"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl46q"
+    ],
+    [
+      "Yaletown",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09ww8yl"
+    ],
+    [
+      "m.02yxjx9",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Budget Inn Patricia Hotel"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "People's Voice"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx30t"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kerrisdale"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Georgia Straight"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Tablet"
+    ],
+    [
+      "m.09ww8yl",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "m.02xky5f",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "The Jewish Tribune",
+      "book.newspaper.circulation_areas",
+      "Vancouver"
+    ],
+    [
+      "m.063x27y",
+      "olympics.olympic_city_bid.bidding_city",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Mounties"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Black Plague Stout"
+    ],
+    [
+      "m.059f2l_",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Japantown, Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09yq8h_"
+    ],
+    [
+      "Granville Island Honey Lager",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_xd6"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Republic"
+    ],
+    [
+      "Vancouver Royals",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kensington–Cedar Cottage"
+    ],
+    [
+      "m.09wjs6l",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.0b4795k"
+    ],
+    [
+      "Vancouver",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area code 604"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Victoria–Fraserview"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx2x1"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "g.1jmcbfxsz"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.0b46r1j"
+    ],
+    [
+      "Greater Vancouver",
+      "location.location.contains",
+      "Vancouver"
+    ],
+    [
+      "Queen Elizabeth Park, British Columbia",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "m.059kw4_",
+      "travel.transportation.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Granville Entertainment District"
+    ],
+    [
+      "Downtown Eastside",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "m.04dwjb3",
+      "olympics.olympic_city_bid.bidding_city",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "West Point Grey"
+    ],
+    [
+      "Vancouver Public Library",
+      "government.government_agency.jurisdiction",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "m.04swgp2",
+      "location.mailing_address.citytown",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Dr. Sun Yat-Sen Classical Chinese Garden"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Voodoo"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Opus Hotel"
+    ],
+    [
+      "Empire Landmark Hotel",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.04sx34_",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "m.059f2mr",
+      "travel.travel_destination_monthly_climate.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "g.1jmcbfm22"
+    ],
+    [
+      "False Creek",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.how_to_get_here",
+      "m.04xh7dj"
+    ],
+    [
+      "Vancouver",
+      "base.popstra.location.vacationers",
+      "m.064b4w1"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.how_to_get_here",
+      "m.04xh7cx"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.0b6rzh0"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.jurisdiction",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wx9rl"
+    ],
+    [
+      "Vancouver",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Robin Scherbatsky"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02_322r"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Century Plaza Hotel Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vywcn"
+    ],
+    [
+      "Public Storage Canada",
+      "organization.organization.geographic_scope",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vywbf"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04vyw93"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Oakridge, Vancouver"
+    ],
+    [
+      "Granville Island",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wcjj0"
+    ],
+    [
+      "m.04vyw73",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "The Fairmont Waterfront"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl462"
+    ],
+    [
+      "Vancouver",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Dunowen Properties"
+    ],
+    [
+      "Vancouver",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Vancouver Sun"
+    ],
+    [
+      "Playland",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.04xh7d8",
+      "travel.transportation.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Hurricane I.P.A."
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl45y"
+    ],
+    [
+      "m.02z_wxt",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Coal Harbour"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_xdz"
+    ],
+    [
+      "False Creek",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "m.04sx3jd",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Mario & Sonic at the Olympic Winter Games",
+      "fictional_universe.work_of_fiction.setting",
+      "Vancouver"
+    ],
+    [
+      "m.02z_xd6",
+      "location.adjoining_relationship.adjoins",
+      "Vancouver"
+    ],
+    [
+      "m.06v12gr",
+      "architecture.ownership.owner",
+      "Vancouver"
+    ],
+    [
+      "Valter Sedin",
+      "people.person.place_of_birth",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.local_transportation",
+      "False Creek Ferries"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Gastown"
+    ],
+    [
+      "Hastings–Sunrise",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx3bn"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.host_city",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.0rqg3gr"
+    ],
+    [
+      "BC Lions",
+      "sports.sports_team.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02z_yg7"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl44l"
+    ],
+    [
+      "University Golf Club",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Downtown South, Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wfldz"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.tourist_attractions",
+      "Vancouver Art Gallery"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx301"
+    ],
+    [
+      "Vancouver",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Musqueam Indian Band"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl46f"
+    ],
+    [
+      "m.04xh7dj",
+      "travel.transportation.travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09wxldv"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "The Dominion Hotel"
+    ],
+    [
+      "Highland Scottish Ale",
+      "food.beer.from_region",
+      "Vancouver"
+    ],
+    [
+      "m.04sx301",
+      "government.government_position_held.district_represented",
+      "Vancouver"
+    ],
+    [
+      "Canadian Rockies",
+      "travel.tourist_attraction.near_travel_destination",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver",
+      "architecture.architectural_structure_owner.structures_owned",
+      "m.04xg_bg"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.accommodation",
+      "Hotel Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.09xn89y"
+    ],
+    [
+      "Vancouver",
+      "travel.travel_destination.climate",
+      "m.059f2lh"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx312"
+    ],
+    [
+      "m.09wbkzx",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "government.political_district.representatives",
+      "m.04sx2r1"
+    ],
+    [
+      "Vancouver Public Library",
+      "location.location.containedby",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "sports.sports_team_location.teams",
+      "BC Lions"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Victory Square"
+    ],
+    [
+      "Shaughnessy, Vancouver",
+      "location.neighborhood.neighborhood_of",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "common.topic.webpage",
+      "m.0b479k5"
+    ],
+    [
+      "Vancouver",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Crosstown"
+    ],
+    [
+      "m.064tkxj",
+      "base.popstra.vacation_choice.location",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "m.0kcl46l"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02xk__t"
+    ],
+    [
+      "Robin Scherbatsky",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "location.location.adjoin_s",
+      "m.02xky5f"
+    ],
+    [
+      "Vancouver",
+      "location.location.containedby",
+      "Metro Vancouver"
+    ],
+    [
+      "Vancouver",
+      "food.beer_country_region.beers_from_here",
+      "Highland Scottish Ale"
+    ],
+    [
+      "m.09xn89y",
+      "common.webpage.topic",
+      "Vancouver"
+    ],
+    [
+      "Vancouver",
+      "architecture.architectural_structure_owner.structures_owned",
+      "m.04xg_dx"
+    ],
+    [
+      "Vancouver",
+      "location.statistical_region.population",
+      "g.11btt4fmhb"
+    ],
+    [
+      "Vancouver Nats",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Japantown, Vancouver",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "m.010f_rds",
+      "base.schemastaging.phone_open_times.time_zone",
+      "Pacific Time Zone"
+    ],
+    [
+      "Playland",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Strathcona, Vancouver",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "VanDusen Botanical Garden",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Coal Harbour",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Canada",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "West Point Grey",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Shaughnessy, Vancouver",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "South Granville",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Kerrisdale",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Kitsilano",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Hastings–Sunrise",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Marpole",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Granville Island",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Greater Vancouver",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Queen Elizabeth Park, British Columbia",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "m.010f_q6s",
+      "base.schemastaging.phone_open_times.time_zone",
+      "Pacific Time Zone"
+    ],
+    [
+      "British Columbia",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Metro Vancouver",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Gastown",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Downtown Eastside",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Yaletown",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mark Faucette"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Hockey puck"
+    ],
+    [
+      "Hockey Chronicles",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Red Storey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Pierre Racicot"
+    ],
+    [
+      "Ian Walsh",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Craig Bonner",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Alex Romeril",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dan Marouelli",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "The Beanpot 50th Anniversary",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "It's Our Game",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Wayne Bonney",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Slapshot",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Dave Smith",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1960 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Youngblood"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Miracle"
+    ],
+    [
+      "Ice Hockey",
+      "base.events.type_of_event.event_feeds_for_this_type_of_event",
+      "m.0774ylr"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dan Marouelli"
+    ],
+    [
+      "Bruce Hood",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Vintage Collection: Overtime",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "No Sleep 'Til Madison",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Shane Heyer"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.events",
+      "Women's Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "John D'Amico"
+    ],
+    [
+      "The Chiefs",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "1936 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup 2006",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL 2003"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Tom Pokel"
+    ],
+    [
+      "The Game of Our Lives",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Dave Bidini: The Hockey Nomad"
+    ],
+    [
+      "Leon Stickle",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Starvation Lake: A Mystery"
+    ],
+    [
+      "Matt Pavelich",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Shane Heyer",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Just Like Me: The Legends, The Next Gen"
+    ],
+    [
+      "1924 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Tom Kowal",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Pat Dapuzzo",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Right wing",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1952 Winter Olympics"
+    ],
+    [
+      "Ron Wicks",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Maguire",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Tooth Fairy"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Dave Smith"
+    ],
+    [
+      "Brad Watson",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: All Access!",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bill Chadwick"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Twice as Nice: Wisconsin's 2006 Men's and Women's Hockey National Championships"
+    ],
+    [
+      "Kevin Collins",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "2002 NCAA Division I: Men's Ice Hockey National Championship: Minnesota vs. Maine"
+    ],
+    [
+      "m.07nf61y",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Ice Hockey"
+    ],
+    [
+      "Mike Rodden",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Miracle on Ice"
+    ],
+    [
+      "Stéphane Provost",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1998 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "D2: The Mighty Ducks"
+    ],
+    [
+      "Forward",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Right wing"
+    ],
+    [
+      "Dennis LaRue",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kevin Collins"
+    ],
+    [
+      "Scott Carter",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.notable_for",
+      "g.125b466gp"
+    ],
+    [
+      "Andy Van Hellemond",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Puck Hogs"
+    ],
+    [
+      "Open net",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "NHL History of the Philadelphia Flyers",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "John D'Amico",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Men's Ice Hockey",
+      "olympics.olympic_event.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Gérard Gauthier",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "London Knights",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1964 Winter Olympics"
+    ],
+    [
+      "Slap Shot 2: Breaking the Ice",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup Champions 2008-2009: Pittsburgh Penguins",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Vintage Collection: Greatest Goals"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup Champions 2003 - 2004: Tampa Bay Lightning"
+    ],
+    [
+      "Ultimate Skating: Skills & Drills for Beginners to Pros: Vol. 1",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Gérard Gauthier",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Ultimate Bad Boys"
+    ],
+    [
+      "Bill McCreary",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Blue and White Book 1997"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1956 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "New England Hockey: A Life at the Rink"
+    ],
+    [
+      "Good old days of ice hockey",
+      "common.image.appears_in_topic_gallery",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Asselstine",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "George Hayes",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2003",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Rob Shick"
+    ],
+    [
+      "Kerry Fraser",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Finn"
+    ],
+    [
+      "NHL Minnesota Wild: The State of Hockey",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Women's Ice Hockey",
+      "olympics.olympic_event.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Vancouver 2010: Winter Olympics Highlights"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kerry Fraser"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The New Ice Age"
+    ],
+    [
+      "National Hockey League",
+      "sports.sports_league.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "base.disaster2.dangerous_activity.connected_with_this_type_of_injuy_event",
+      "Ice hockey accident"
+    ],
+    [
+      "Bob Hodges",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kevin Maguire"
+    ],
+    [
+      "Goaltender mask",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Slap Shot 2: Breaking the Ice"
+    ],
+    [
+      "Ron Finn",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Official 2002 Stanley Cup Championship: Detroit Red Wings",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "NHL Slapshot"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Night Undone"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Slap Shot"
+    ],
+    [
+      "A Canadian Saturday Night",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1994 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bruce Hood"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kevin Pollock"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Brad Meier"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Greatest Moments"
+    ],
+    [
+      "Odie Cleghorn",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "2007 NCAA Division I Men's Ice Hockey National Championship: Michigan State vs. Boston College",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Ken Tyler"
+    ],
+    [
+      "1960 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Pollock",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "1956 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Jay Sharrers"
+    ],
+    [
+      "Stanley Cup 2006-2007 Champions",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mike Rodden"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Frank Udvari"
+    ],
+    [
+      "Wally Harris",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "D2: The Mighty Ducks",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup Champions 2008-2009: Pittsburgh Penguins"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bob Hodges"
+    ],
+    [
+      "Chaucer Elliott",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Gérard Gauthier"
+    ],
+    [
+      "Defenseman",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Anaheim Ducks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chris Lee",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Hockey Stars Speak",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Jay Sharrers",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Neil Armstrong",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Mike Sertich",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Wayne Bonney",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Neil Armstrong"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Maurice Richard"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "NHL 2K10"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Sidney Crosby: On the Ice and Beyond"
+    ],
+    [
+      "Don Van Massenhoven",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Paul Devorski",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Brett Hull Hockey '95",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Minnesota Wild: The State of Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1984 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Paul Devorski"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: All Access!"
+    ],
+    [
+      "Ryan Bozak",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Seahawk: Confessions of an Old Hockey Goalie",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Vintage Collection: Masked Men",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Matt Pavelich"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Hockey Chronicles"
+    ],
+    [
+      "Kerry Fraser",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Franz Baader"
+    ],
+    [
+      "Winger",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Eastside Hockey Manager 2007",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "2006 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Fred Waghorne"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Andrew Allen"
+    ],
+    [
+      "D3: The Mighty Ducks",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Centerman"
+    ],
+    [
+      "Pierre Champoux",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Ted Nolan"
+    ],
+    [
+      "Mike Leggo",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Brad Meier",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Jim Paek"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1988 Winter Olympics"
+    ],
+    [
+      "Vancouver Millionaires",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bobby Hewitson"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Goaltender mask"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Brett Hull Hockey"
+    ],
+    [
+      "Charley McVeigh",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Left wing"
+    ],
+    [
+      "Marsh Ryman",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Mike Corbett"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Greatest Moments",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Denis Morel",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Scott Carter"
+    ],
+    [
+      "1968 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Youngblood",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Pat Dapuzzo",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1920 Summer Olympics"
+    ],
+    [
+      "Bill Chadwick",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Don Cherry's Hard-Hitting Hockey 3"
+    ],
+    [
+      "Marcus Vinnerborg",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Gerard Gallant"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "No Sleep 'Til Madison"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Face-Off"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dennis LaRue"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Face-Off",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ultimate Bad Boys",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "2014 IIHF World Championship",
+      "common.topic.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Eastside Hockey Manager 2005",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Wayne Bonney"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Chiefs"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Tom Kowal"
+    ],
+    [
+      "Franz Baader",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dan O'Rourke",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Just Like Me: The Legends, The Next Gen",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "George Hayes"
+    ],
+    [
+      "The Game",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Marsh Ryman"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.09y8fd0"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Mike Sertich"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Inside Hockey",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL All-Access (2008)"
+    ],
+    [
+      "Alex Romeril",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dan O'Halloran"
+    ],
+    [
+      "Shane Heyer",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.events",
+      "Men's Ice Hockey"
+    ],
+    [
+      "Kevin Collins",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Ultimate Skating: Skills & Drills for Beginners to Pros: Vol. 1"
+    ],
+    [
+      "Sticks and Stones",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Net Worth",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Searching for Bobby Orr",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dan O'Rourke"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.image",
+      "Ilves-Blues Feb 2008"
+    ],
+    [
+      "Junior",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf61y"
+    ],
+    [
+      "Mike Hasenfratz",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "St. Louis Blues",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bill Stewart"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1968 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Chris Lee"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mike Hasenfratz"
+    ],
+    [
+      "Paul Loicq",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Mark Messier: Leader, Champion and Legend",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K11",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Open net"
+    ],
+    [
+      "Miracle on Ice",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Pierre Racicot",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chaucer Elliott",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Wicks",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Game"
+    ],
+    [
+      "George Hayes",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bobby Hewitson",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Home Game"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Sojourn",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Junior"
+    ],
+    [
+      "Bob Hodges",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "San Jose Sharks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: The History of the Boston Bruins"
+    ],
+    [
+      "Wally Harris",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ray Scapinello",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "m.09x5z5y",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Hoggarth"
+    ],
+    [
+      "Maurice Richard: The Man, the Myth, the Rocket",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Beanpot 50th Anniversary"
+    ],
+    [
+      "Slap Shot",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "1972 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Futuresport"
+    ],
+    [
+      "Marcus Vinnerborg",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ray Scapinello"
+    ],
+    [
+      "Mark Faucette",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Inside Hockey"
+    ],
+    [
+      "Dan O'Rourke",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Lord Stanley's Cup: Hockey's Ultimate Prize"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1936 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Great One"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "William Earl Ormshaw"
+    ],
+    [
+      "Stephen Walkom",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Nashville Predators",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Eddie Livingstone",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Eddie Livingstone",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Neil Armstrong",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ryan Bozak",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K10",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "m.0c55w2g",
+      "sports.pro_sports_played.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Mighty Ducks"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Pierre Champoux"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Denis Morel"
+    ],
+    [
+      "Ron Hoggarth",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup 2003"
+    ],
+    [
+      "Ron Finn",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Wicks"
+    ],
+    [
+      "Mike Corbett",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Sylvio Mantha",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ilves-Blues Feb 2008",
+      "common.image.appears_in_topic_gallery",
+      "Ice Hockey"
+    ],
+    [
+      "Greg Devorski",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup Champions 2007-2008",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Greg Devorski"
+    ],
+    [
+      "1998 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Dan Bylsma"
+    ],
+    [
+      "Centerman",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Jean Morin",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Don Cherry's Hard-Hitting Hockey 3",
+      "film.film.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Don Koharski",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ian Walsh"
+    ],
+    [
+      "NHL Eastside Hockey Manager",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K10",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Greg Kimmerly",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Pollock",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "NHL 2K11"
+    ],
+    [
+      "The Puck Hogs",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "2002 NCAA Division I: Men's Ice Hockey National Championship: Minnesota vs. Maine",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Frank Udvari",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2006 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Shooting stars"
+    ],
+    [
+      "Charley McVeigh",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Swede Knox"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Winger"
+    ],
+    [
+      "Mike Hasenfratz",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mick McGeough"
+    ],
+    [
+      "Ken Tyler",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ryan Bozak"
+    ],
+    [
+      "MVP: Most Valuable Primate",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.notable_types",
+      "Sport"
+    ],
+    [
+      "Red Storey",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Scotty Morrison",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "The Great One",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Bill Chadwick",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Minnesota Wild",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Tom Pokel",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Winnipeg Jets",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Score: A Hockey Musical",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Wes McCauley",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1932 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "film.film_subject.films",
+      "Don Cherry's Hard-Hitting Hockey 3"
+    ],
+    [
+      "Wes McCauley",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Edmonton Oilers",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Wes McCauley"
+    ],
+    [
+      "Front wing",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Terry Ewasiuk",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Greg Walters",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Wally Harris"
+    ],
+    [
+      "1976 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "1988 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Greg Devorski",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Jean Morin"
+    ],
+    [
+      "Ice skate",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "1928 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Asselstine",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Gord Broseker"
+    ],
+    [
+      "Pierre Racicot",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "1952 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Arizona Coyotes",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chris Lee",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Hoggarth",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chicago Blackhawks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Paul Devorski",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.image",
+      "Good old days of ice hockey"
+    ],
+    [
+      "Home Game",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Marc Joannette"
+    ],
+    [
+      "Futuresport",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Red Storey",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Mystery, Alaska",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Dan Bylsma",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Bill Stewart",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "m.0774ylr",
+      "base.events.event_feed.type_of_event",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1972 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Cooper Smeaton"
+    ],
+    [
+      "Bobby Hewitson",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mickey Ion"
+    ],
+    [
+      "The New Ice Age",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Terry Gregson"
+    ],
+    [
+      "Marc Joannette",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.subjects",
+      "Daniel Podgaichenko"
+    ],
+    [
+      "Brad Meier",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Stephen Walkom"
+    ],
+    [
+      "1992 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Gord Broseker",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Los Angeles Kings",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup Champions 2007-2008"
+    ],
+    [
+      "Hockey Mom",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Super Ice Hockey",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Slap Shot 3: The Junior League",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Marsh Ryman",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL All-Access (2008)",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Slapshot",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Maguire",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bryan Lewis",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Calgary Flames",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Searching for Bobby Orr"
+    ],
+    [
+      "Ice Hockey",
+      "base.onlineadvertising.ad_network_vertical.ad_networks",
+      "Hockey Ad Network"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Quest for the Cup"
+    ],
+    [
+      "Dan O'Halloran",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Honor & Courage: Tough Guys of the NHL"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.09x5z5y"
+    ],
+    [
+      "Vancouver Giants",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Honor & Courage: Tough Guys of the NHL",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Bryan Lewis",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Hockey Stars Speak"
+    ],
+    [
+      "Mike Rodden",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bill McCreary",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Tom Kowal",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dennis LaRue",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Sylvio Mantha",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "André Tourigny"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Greg Kimmerly"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.article",
+      "m.03tn1"
+    ],
+    [
+      "Left wing",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Peter Horachek"
+    ],
+    [
+      "1920 Summer Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Andrew Allen",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL History of the Philadelphia Flyers"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Front wing"
+    ],
+    [
+      "Terry Gregson",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Sticks and Stones"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1924 Winter Olympics"
+    ],
+    [
+      "One Hundred Years of Hockey",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "The Rhino Brothers",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Don Koharski",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.0b48zpz"
+    ],
+    [
+      "Pierre Champoux",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Motor City muscle",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Randy Mitton",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Terry Ewasiuk"
+    ],
+    [
+      "Ice hockey accident",
+      "base.disaster2.type_of_injury_causing_event.caused_by_activity",
+      "Ice Hockey"
+    ],
+    [
+      "m.09dvdwg",
+      "olympics.olympic_athlete_affiliation.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "2007 NCAA Division I Men's Ice Hockey National Championship: Michigan State vs. Boston College"
+    ],
+    [
+      "Lord Stanley's Cup: Hockey's Ultimate Prize",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Power Play",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Stéphane Provost",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Forward"
+    ],
+    [
+      "Don Van Massenhoven",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ian Walsh",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup 2003",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K11",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Leon Stickle"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Sylvio Mantha"
+    ],
+    [
+      "New England Hockey: A Life at the Rink",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Power Play"
+    ],
+    [
+      "Randy Mitton",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Official 2002 Stanley Cup Championship: Detroit Red Wings"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "1998 Olympic Hockey Highlights"
+    ],
+    [
+      "Barrie Christian Hockey League",
+      "sports.sports_league.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Don Van Massenhoven"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Paul Loicq"
+    ],
+    [
+      "NHL",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "John D'Amico",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Hockey Ad Network",
+      "base.onlineadvertising.ad_network.verticals",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Slap Shot 3: The Junior League"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Hockey Night"
+    ],
+    [
+      "Jim Paek",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup Champions 2003 - 2004: Tampa Bay Lightning",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Andy Van Hellemond",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "It's Our Game"
+    ],
+    [
+      "Ernie Leacock",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Odie Cleghorn",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Rhino Brothers"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Marcus Vinnerborg"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Eastside Hockey Manager 2005"
+    ],
+    [
+      "Night Undone",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Peter Horachek",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Colorado Avalanche",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Seahawk: Confessions of an Old Hockey Goalie"
+    ],
+    [
+      "Twice as Nice: Wisconsin's 2006 Men's and Women's Hockey National Championships",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Jean Morin",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Randy Mitton"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Hockey Mom"
+    ],
+    [
+      "Mark Faucette",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bill Stewart",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1928 Winter Olympics"
+    ],
+    [
+      "Cooper Smeaton",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Sojourn"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.subject_of",
+      "2014 IIHF World Championship"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL 2K11"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Brett Hull Hockey '95"
+    ],
+    [
+      "Mick McGeough",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "1994 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Hockey Night",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Mark Messier: Leader, Champion and Legend"
+    ],
+    [
+      "The Blue and White Book 1997",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Odie Cleghorn"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Goaltender"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "D3: The Mighty Ducks"
+    ],
+    [
+      "Franz Baader",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Mickey Ion",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Pat Dapuzzo"
+    ],
+    [
+      "Mike Gilligan",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Greg Walters"
+    ],
+    [
+      "Fred Waghorne",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Vancouver 2010: Winter Olympics Highlights",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Denis Morel",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Vintage Collection: Greatest Goals",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Slapshot"
+    ],
+    [
+      "André Tourigny",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1976 Winter Olympics"
+    ],
+    [
+      "Ted Nolan",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "1984 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mike Leggo"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ernie Leacock"
+    ],
+    [
+      "Quest for the Cup",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Asselstine"
+    ],
+    [
+      "Cooper Smeaton",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Alex Romeril"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Craig Bonner"
+    ],
+    [
+      "Matt Pavelich",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Chaucer Elliott"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Net Worth"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Ice Hockey"
+    ],
+    [
+      "The Mighty Ducks",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "m.0b48zpz",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Super Ice Hockey"
+    ],
+    [
+      "Starvation Lake: A Mystery",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "Mario & Sonic at the Olympic Winter Games"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Scotty Morrison"
+    ],
+    [
+      "Brad Watson",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Don Koharski"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Score: A Hockey Musical"
+    ],
+    [
+      "Rob Shick",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Daniel Podgaichenko",
+      "common.topic.subject_of",
+      "Ice Hockey"
+    ],
+    [
+      "Rob Shick",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bruce Hood",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Sidney Crosby: On the Ice and Beyond",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Dan O'Halloran",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Jay Sharrers",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Game of Our Lives"
+    ],
+    [
+      "Barrie Christian Hockey League",
+      "organization.organization.sectors",
+      "Ice Hockey"
+    ],
+    [
+      "m.0b495h4",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1992 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "George Hardy"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Eddie Livingstone"
+    ],
+    [
+      "Hockey puck",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "1932 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Barrie Christian Hockey League"
+    ],
+    [
+      "Swede Knox",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Mystery, Alaska"
+    ],
+    [
+      "George Hardy",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Frank Udvari",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Scotty Morrison",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Gerard Gallant",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Marc Joannette",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Hockey stick"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Brad Watson"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bryan Lewis"
+    ],
+    [
+      "Shooting stars",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Stéphane Provost"
+    ],
+    [
+      "Miracle",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Mike Gilligan"
+    ],
+    [
+      "Tooth Fairy",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Mickey Ion",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ray Scapinello",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bill McCreary"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL 2K10"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Stanley Cup 2006-2007 Champions"
+    ],
+    [
+      "Leon Stickle",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Vintage Collection: Masked Men"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "MVP: Most Valuable Primate"
+    ],
+    [
+      "Eishockey Eisbaeren gegen Capitals",
+      "common.image.appears_in_topic_gallery",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Eastside Hockey Manager"
+    ],
+    [
+      "Swede Knox",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Andy Van Hellemond"
+    ],
+    [
+      "Greg Kimmerly",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Terry Gregson",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Slap Shot"
+    ],
+    [
+      "Fred Waghorne",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Vintage Collection: Overtime"
+    ],
+    [
+      "William Earl Ormshaw",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Maurice Richard",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "One Hundred Years of Hockey"
+    ],
+    [
+      "m.09y8fd0",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Maurice Richard: The Man, the Myth, the Rocket"
+    ],
+    [
+      "Gord Broseker",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dan Marouelli",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Lee Davidson",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Defenseman"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Eastside Hockey Manager 2007"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.image",
+      "Eishockey Eisbaeren gegen Capitals"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.0b495h4"
+    ],
+    [
+      "Mario & Sonic at the Olympic Winter Games",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup 2006"
+    ],
+    [
+      "William Earl Ormshaw",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Lee Davidson"
+    ],
+    [
+      "Hockey stick",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Motor City muscle"
+    ],
+    [
+      "Mick McGeough",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Charley McVeigh"
+    ],
+    [
+      "Don Cherry's Hard-Hitting Hockey 3",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "1964 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "1998 Olympic Hockey Highlights",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Stephen Walkom",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ernie Leacock",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Brett Hull Hockey",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Goaltender",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: The History of the Boston Bruins",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "2006 NCAA Division I Men's Ice Hockey National Championship: Wisconsin vs. Boston College",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Slap Shot",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Paul Loicq",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "2006 NCAA Division I Men's Ice Hockey National Championship: Wisconsin vs. Boston College"
+    ],
+    [
+      "Mike Leggo",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "A Canadian Saturday Night"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Ice skate"
+    ],
+    [
+      "Playland",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Playland",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "University Golf Club",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Pretty Little Liars",
+      "tv.tv_program.languages",
+      "English Language"
+    ],
+    [
+      "Empire Landmark Hotel",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Vancouver Grizzlies",
+      "sports.sports_team.arena_stadium",
+      "Rogers Arena"
+    ],
+    [
+      "m.0wz1_0p",
+      "sports.team_venue_relationship.team",
+      "Vancouver Grizzlies"
+    ],
+    [
+      "Vancouver Grizzlies",
+      "sports.sports_team.venue",
+      "m.0wz1_0p"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.teams",
+      "Vancouver Grizzlies"
+    ],
+    [
+      "Nitobe Memorial Garden",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "m.04vyw0f",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04vyw0f"
+    ],
+    [
+      "Hurricane I.P.A.",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04vyvtz"
+    ],
+    [
+      "m.04vyvtz",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04vyv_5"
+    ],
+    [
+      "m.04vyv_5",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Queen Elizabeth Park, British Columbia",
+      "base.vancouver.location_in_neighborhood.neighborhood",
+      "Queen Elizabeth Park, British Columbia"
+    ],
+    [
+      "Queen Elizabeth Park, British Columbia",
+      "base.vancouver.location_in_neighborhood.neighborhood",
+      "Riley Park–Little Mountain"
+    ],
+    [
+      "m.04vyw7n",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "Delta landfill",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "False Creek",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "m.04sx2wt",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx2wt"
+    ],
+    [
+      "Sasquatch",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Vancouver Maritime Museum",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "m.04sx3b7",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "Cache Creek landfill",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Museum of Anthropology at UBC",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Black Cherry Lambic",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04vyv_n"
+    ],
+    [
+      "m.04vyv_n",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "m.04sx2r1",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "m.04sx30k",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx30t"
+    ],
+    [
+      "m.04sx2t2",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx2r1"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx312"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx301"
+    ],
+    [
+      "m.04sx309",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx2t2"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx2wk"
+    ],
+    [
+      "m.04sx2wk",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "m.04sx312",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx2x1"
+    ],
+    [
+      "m.04sx2x1",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx2rm"
+    ],
+    [
+      "m.04vyv_z",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "m.04sx30t",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04vyv_z"
+    ],
+    [
+      "m.04sx2rm",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "m.04sx301",
+      "government.government_position_held.governmental_body",
+      "Vancouver City Council"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx309"
+    ],
+    [
+      "Vancouver City Council",
+      "government.governmental_body.members",
+      "m.04sx30k"
+    ],
+    [
+      "24 Hours",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "m.04sx3bn",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "Granville Island Honey Lager",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "m.04sx3c1",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "Canadian Rockies",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Canadian Rockies",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Metro Vancouver",
+      "location.location.containedby",
+      "Lower Mainland"
+    ],
+    [
+      "Lower Mainland",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Lower Mainland",
+      "location.location.contains",
+      "Metro Vancouver"
+    ],
+    [
+      "m.04vyw93",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "m.04vyw83",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "m.04sx37z",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "m.04sx38n",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "m.04sx34_",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "m.04vyw73",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "m.04sx38c",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "m.04vyw8n",
+      "government.government_position_held.governmental_body",
+      "Vancouver Park Board"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.bidding_cities",
+      "m.04dwjb3"
+    ],
+    [
+      "m.04dwjb3",
+      "olympics.olympic_city_bid.olympic_games",
+      "1980 Winter Olympics"
+    ],
+    [
+      "m.04lq0g9",
+      "location.mailing_address.state_province_region",
+      "British Columbia"
+    ],
+    [
+      "Canucks Sports & Entertainment",
+      "organization.organization.headquarters",
+      "m.04lq0g9"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.teams",
+      "Vancouver Ravens"
+    ],
+    [
+      "m.0wz1_0x",
+      "sports.team_venue_relationship.team",
+      "Vancouver Ravens"
+    ],
+    [
+      "m.059kv84",
+      "common.webpage.category",
+      "Topic Webpage"
+    ],
+    [
+      "Hotel Vancouver",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Hotel Vancouver",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.events",
+      "Women's Ice Hockey"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.venues",
+      "Rogers Arena"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Ice hockey at the 2010 Winter Olympics – Men's tournament",
+      "olympics.olympic_event_competition.olympic_games_contested",
+      "2010 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.bidding_cities",
+      "m.063x27y"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.competitions",
+      "Ice hockey at the 2010 Winter Olympics – Women's tournament"
+    ],
+    [
+      "Women's Ice Hockey",
+      "olympics.olympic_event.olympic_games_contested",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Mario & Sonic at the Olympic Winter Games",
+      "cvg.computer_videogame.subjects",
+      "2010 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "time.event.includes_event",
+      "Ice hockey at the 2010 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "book.book_subject.works",
+      "Night Undone"
+    ],
+    [
+      "m.063x27y",
+      "olympics.olympic_city_bid.olympic_games",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Men's Ice Hockey",
+      "olympics.olympic_event.olympic_games_contested",
+      "2010 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.events",
+      "Men's Ice Hockey"
+    ],
+    [
+      "Sweden",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.competitions",
+      "Ice hockey at the 2010 Winter Olympics – Men's tournament"
+    ],
+    [
+      "Ice hockey at the 2010 Winter Olympics – Women's tournament",
+      "olympics.olympic_event_competition.olympic_games_contested",
+      "2010 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Sweden"
+    ],
+    [
+      "2010 Winter Olympics",
+      "cvg.computer_game_subject.games",
+      "Mario & Sonic at the Olympic Winter Games"
+    ],
+    [
+      "Night Undone",
+      "book.written_work.subjects",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Rogers Arena",
+      "olympics.olympic_venue.olympic_games_used_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Sylvia Hotel",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Vancouver Mounties",
+      "common.topic.notable_types",
+      "Sports Team"
+    ],
+    [
+      "m.02z_wxt",
+      "common.webpage.category",
+      "Topic Webpage"
+    ],
+    [
+      "Museum of Vancouver",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Arbutus Ridge",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Precipitation Pilsner",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "m.09kln8c",
+      "base.ontologies.ontology_instance_mapping.ontology",
+      "OpenCyc"
+    ],
+    [
+      "People's Voice",
+      "book.newspaper.circulation_areas",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "People's Voice"
+    ],
+    [
+      "Coal Harbour",
+      "location.location.nearby_airports",
+      "Vancouver Harbour Flight Centre"
+    ],
+    [
+      "Vancouver Harbour Flight Centre",
+      "aviation.airport.serves",
+      "Coal Harbour"
+    ],
+    [
+      "Vancouver Art Gallery",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Blackberry Lambic",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Vancouver Harbour Flight Centre",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.teams",
+      "Vancouver Voodoo"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "48th National Hockey League All-Star Game"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Mechanical Bull Tour"
+    ],
+    [
+      "Rogers Arena",
+      "common.topic.image",
+      "Rogers Arena"
+    ],
+    [
+      "m.060c0t_",
+      "business.sponsorship.sponsored_recipient",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Rock Bottom: In Your House"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "UFC 174"
+    ],
+    [
+      "m.0wz1_07",
+      "sports.team_venue_relationship.venue",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Viva la Vida World Tour, Vancouver, BC Concert"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.street_address",
+      "m.04swgp2"
+    ],
+    [
+      "Rogers Arena",
+      "common.topic.notable_types",
+      "Olympic venue"
+    ],
+    [
+      "Rogers Arena",
+      "common.topic.article",
+      "m.038hp8"
+    ],
+    [
+      "Ice hockey at the 2010 Winter Olympics – Men's tournament",
+      "olympics.olympic_event_competition.venue",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Black Ice World Tour, Vancouver, BC - General Motors Place Concert"
+    ],
+    [
+      "Ice hockey at the 2010 Winter Olympics – Women's tournament",
+      "olympics.olympic_event_competition.venue",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "UFC 131"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "The Circus Tour Vancouver, Canada Concert"
+    ],
+    [
+      "Mechanical Bull Tour",
+      "time.event.locations",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "In Your House 9: International Incident"
+    ],
+    [
+      "On With The Show Tour",
+      "time.event.locations",
+      "Rogers Arena"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.arena_stadium",
+      "Rogers Arena"
+    ],
+    [
+      "Metallica: World Magnetic Tour, Vancouver, BC Concert",
+      "time.event.locations",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "olympics.olympic_venue.olympic_events_contested_here",
+      "Ice hockey at the 2010 Winter Olympics – Women's tournament"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Todd Bertuzzi–Steve Moore incident"
+    ],
+    [
+      "m.0wz1_0g",
+      "sports.team_venue_relationship.venue",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.geolocation",
+      "m.02_vl87"
+    ],
+    [
+      "Rogers Arena",
+      "common.topic.notable_for",
+      "g.125bkcb1m"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "World Domination Tour, Vancouver, BC Concert"
+    ],
+    [
+      "Rogers Arena",
+      "business.sponsored_recipient.sponsorship",
+      "m.060c0t_"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Metallica: World Magnetic Tour, Vancouver, BC Concert"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.teams",
+      "Vancouver Canucks"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Ice hockey at the 2010 Winter Olympics"
+    ],
+    [
+      "m.06v106f",
+      "architecture.ownership.structure",
+      "Rogers Arena"
+    ],
+    [
+      "The Circus Tour Vancouver, Canada Concert",
+      "time.event.locations",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.home_venue_for",
+      "m.0wz1_0p"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.home_venue_for",
+      "m.0wz1_0g"
+    ],
+    [
+      "Rogers Arena",
+      "architecture.structure.owner",
+      "m.06v106f"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "2011 Stanley Cup Finals"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "On With The Show Tour"
+    ],
+    [
+      "I Am… Tour, Vancouver, BC Concert",
+      "time.event.locations",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.home_venue_for",
+      "m.0wz1_07"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "I Am… Tour, Vancouver, BC Concert"
+    ],
+    [
+      "Rogers Arena",
+      "location.location.events",
+      "Jonas Brothers World Tour 2009, Vancouver, BC, Concert"
+    ],
+    [
+      "Jonas Brothers World Tour 2009, Vancouver, BC, Concert",
+      "time.event.locations",
+      "Rogers Arena"
+    ],
+    [
+      "m.0wz1_0x",
+      "sports.team_venue_relationship.venue",
+      "Rogers Arena"
+    ],
+    [
+      "m.0wz1_0p",
+      "sports.team_venue_relationship.venue",
+      "Rogers Arena"
+    ],
+    [
+      "Rogers Arena",
+      "olympics.olympic_venue.olympic_events_contested_here",
+      "Ice hockey at the 2010 Winter Olympics – Men's tournament"
+    ],
+    [
+      "Rogers Arena",
+      "sports.sports_facility.home_venue_for",
+      "m.0wz1_0x"
+    ],
+    [
+      "VanDusen Botanical Garden",
+      "base.vancouver.location_in_neighborhood.neighborhood",
+      "Shaughnessy, Vancouver"
+    ],
+    [
+      "VanDusen Botanical Garden",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "VanDusen Botanical Garden",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "George Vancouver",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Strathcona, Vancouver",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area code 604"
+    ],
+    [
+      "m.05gr8lp",
+      "common.webpage.category",
+      "Topic Webpage"
+    ],
+    [
+      "The Jewish Tribune",
+      "book.periodical.language",
+      "English Language"
+    ],
+    [
+      "Black Plague Stout",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Raspberry Lambic",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Vancouver International Airport",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Vancouver International Airport",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "m.059kw4_",
+      "travel.transportation.transport_terminus",
+      "Vancouver International Airport"
+    ],
+    [
+      "Vancouver International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.04xh7dj"
+    ],
+    [
+      "m.04xh7dj",
+      "travel.transportation.transport_terminus",
+      "Vancouver International Airport"
+    ],
+    [
+      "Vancouver International Airport",
+      "travel.transport_terminus.travel_destinations_served",
+      "m.059kw4_"
+    ],
+    [
+      "Vancouver International Water Airport",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Proto3000",
+      "organization.organization.geographic_scope",
+      "Canada"
+    ],
+    [
+      "Public Storage Canada",
+      "common.topic.notable_types",
+      "Business Operation"
+    ],
+    [
+      "Public Storage Canada",
+      "organization.organization.geographic_scope",
+      "Canada"
+    ],
+    [
+      "Metro Vancouver",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "Metro Vancouver",
+      "location.administrative_division.second_level_division_of",
+      "Canada"
+    ],
+    [
+      "Metro Vancouver",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Örnsköldsvik",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Climax",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "British Columbia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Canada"
+    ],
+    [
+      "British Columbia",
+      "location.administrative_division.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.country.administrative_divisions",
+      "British Columbia"
+    ],
+    [
+      "Canada",
+      "location.country.first_level_divisions",
+      "British Columbia"
+    ],
+    [
+      "Canada",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "British Columbia"
+    ],
+    [
+      "Area code 604",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "m.04swgp2",
+      "location.mailing_address.state_province_region",
+      "British Columbia"
+    ],
+    [
+      "Tom Kowal",
+      "people.person.place_of_birth",
+      "British Columbia"
+    ],
+    [
+      "British Columbia",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "British Columbia",
+      "base.biblioness.bibs_location.country",
+      "Canada"
+    ],
+    [
+      "Vancouver Public Library",
+      "location.location.containedby",
+      "British Columbia"
+    ],
+    [
+      "British Columbia",
+      "location.administrative_division.first_level_division_of",
+      "Canada"
+    ],
+    [
+      "Stéphane Provost",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Chaucer Elliott",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Neil Armstrong",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Terry Ewasiuk",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Miracle",
+      "film.film.featured_film_locations",
+      "Canada"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Scotty Morrison",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "tv.tv_program.country_of_origin",
+      "Canada"
+    ],
+    [
+      "1920 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "film.film_location.featured_in_films",
+      "Miracle"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "m.010f_pr8",
+      "internet.localized_uri.location",
+      "Canada"
+    ],
+    [
+      "Face-Off",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Junior",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Sticks and Stones",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Andy Van Hellemond",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Ultimate Bad Boys",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "Alain Vigneault",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Mike Rodden",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Cooper Smeaton",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Lee Davidson",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "Highland Scottish Ale",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Eddie Livingstone",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Dave Smith",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Dan Marouelli",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Gérard Gauthier",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ernie Leacock",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Don Koharski",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Andrew Allen",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ted Nolan",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Score: A Hockey Musical",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Daniel Podgaichenko",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Home Game",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "m.010f_rds",
+      "base.schemastaging.phone_sandbox.service_location",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Ron Asselstine",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1920 Summer Olympics"
+    ],
+    [
+      "Greg Walters",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Valter Sedin",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Jim Benning",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Gerard Gallant",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Odie Cleghorn",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Tooth Fairy",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Net Worth",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Charley McVeigh",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Scott Carter",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Trevor Linden",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "m.010f_q6s",
+      "base.schemastaging.phone_sandbox.service_location",
+      "Canada"
+    ],
+    [
+      "Stephen Walkom",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "It's Our Game",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Climax",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Futuresport",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Stéphane Provost",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Mickey Ion",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Scotty Morrison",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Jim Paek",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Kerry Fraser",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Kevin Maguire",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ray Scapinello",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Peter Horachek",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Doug Lidster",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Sylvio Mantha",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Mystery, Alaska",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Puck Hogs",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Chiefs",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "George Hardy",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Hockey Night",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Maurice Richard",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "André Tourigny",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "The Game",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "Lord Stanley's Cup: Hockey's Ultimate Prize",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Craig Bonner",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "The Rhino Brothers",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Hockey Mom",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "William Earl Ormshaw",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ken Tyler",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Mick McGeough",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Hockey Chronicles",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "m.0yqhn59",
+      "base.schemastaging.athlete_salary.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.venue",
+      "m.0wz1_07"
+    ],
+    [
+      "Fin the Whale",
+      "sports.mascot.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.professional_sports_team.owner_s",
+      "Canucks Sports & Entertainment"
+    ],
+    [
+      "m.010671n8",
+      "organization.leadership.organization",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "base.schemastaging.sports_team_extra.managers",
+      "m.010nvcrq"
+    ],
+    [
+      "Vancouver Canucks",
+      "base.schemastaging.organization_extra.phone_number",
+      "m.010f_q6s"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.coaches",
+      "m.010yzbv3"
+    ],
+    [
+      "m.0yqhn38",
+      "base.schemastaging.athlete_salary.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "m.0113n9pr",
+      "sports.sports_team_coach_tenure.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Canucks Sports & Entertainment",
+      "sports.sports_team_owner.teams_owned",
+      "Vancouver Canucks"
+    ],
+    [
+      "m.0crt43r",
+      "sports.sports_league_participation.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.league",
+      "m.0crt43r"
+    ],
+    [
+      "m.09kmk0b",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.team_mascot",
+      "Fin the Whale"
+    ],
+    [
+      "Vancouver Canucks",
+      "ice_hockey.hockey_team.captain",
+      "Henrik Sedin"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.coaches",
+      "m.0w1yrsm"
+    ],
+    [
+      "m.02h5kvd",
+      "sports.sports_team_roster.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Willie Desjardins",
+      "ice_hockey.hockey_coach.current_team",
+      "Vancouver Canucks"
+    ],
+    [
+      "m.0vbljnd",
+      "sports.sports_team_coach_tenure.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "m.0422fbt",
+      "common.webpage.topic",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "common.topic.webpage",
+      "m.0422fbt"
+    ],
+    [
+      "Vancouver Canucks",
+      "base.schemastaging.organization_extra.contact_webpages",
+      "m.010f_pr8"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.coaches",
+      "m.0vbljnd"
+    ],
+    [
+      "m.0j2g7qm",
+      "base.schemastaging.athlete_salary.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Pacific Division",
+      "ice_hockey.hockey_division.teams",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "organization.organization.leadership",
+      "m.010671n8"
+    ],
+    [
+      "m.010nvcrq",
+      "base.schemastaging.sports_team_manager_tenure.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "common.topic.article",
+      "m.0jnp5"
+    ],
+    [
+      "m.0w1yrsm",
+      "sports.sports_team_coach_tenure.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "common.topic.notable_for",
+      "g.125h3vf1s"
+    ],
+    [
+      "Vancouver Canucks",
+      "ice_hockey.hockey_team.division",
+      "Pacific Division"
+    ],
+    [
+      "Western Conference",
+      "ice_hockey.hockey_conference.teams",
+      "Vancouver Canucks"
+    ],
+    [
+      "m.0wz1_07",
+      "sports.team_venue_relationship.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.coaches",
+      "m.0113n9pr"
+    ],
+    [
+      "Vancouver Canucks",
+      "ice_hockey.hockey_team.conference",
+      "Western Conference"
+    ],
+    [
+      "m.010yzbv3",
+      "sports.sports_team_coach_tenure.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "ice_hockey.hockey_team.coach",
+      "Willie Desjardins"
+    ],
+    [
+      "Vancouver Canucks",
+      "base.schemastaging.organization_extra.phone_number",
+      "m.010f_rds"
+    ],
+    [
+      "Vancouver Canucks",
+      "common.topic.notable_types",
+      "Professional Sports Team"
+    ],
+    [
+      "Vancouver Canucks",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09kmk0b"
+    ],
+    [
+      "m.0wz1_0g",
+      "sports.team_venue_relationship.team",
+      "Vancouver Voodoo"
+    ],
+    [
+      "Valter Sedin",
+      "people.person.parents",
+      "Henrik Sedin"
+    ],
+    [
+      "Valter Sedin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henrik Sedin",
+      "people.person.children",
+      "Valter Sedin"
+    ]
+  ]
+}

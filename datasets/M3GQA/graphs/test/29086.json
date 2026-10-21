@@ -1,0 +1,5610 @@
+{
+  "graph_id": 29086,
+  "subgraph": [
+    [
+      "Dermatitis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Dermatitis"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.parent_disease",
+      "Skin Disorder"
+    ],
+    [
+      "Dermatitis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Hair loss"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Dermatitis"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Dermatitis",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.includes_diseases",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Xeroderma"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.treatments",
+      "Ketoconazole"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.parent_disease",
+      "Dermatitis"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Skin lesion",
+      "medicine.symptom.symptom_of",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Flushing"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Skin lesion"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Erythema"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.includes_diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Dermatitis"
+    ],
+    [
+      "Erythema",
+      "medicine.symptom.symptom_of",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Blister"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.parent_disease",
+      "Dermatitis"
+    ],
+    [
+      "Dermatitis",
+      "medicine.disease.symptoms",
+      "Desquamation"
+    ],
+    [
+      "Bone fracture",
+      "medicine.symptom.symptom_of",
+      "Multiple myeloma"
+    ],
+    [
+      "Bone fracture",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Bone fracture",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "Bone fracture",
+      "base.disaster2.type_of_injury.includes_injury",
+      "Chalkstick fracture"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Bone fracture"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Bone fracture"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Bone fracture"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Bone fracture"
+    ],
+    [
+      "Bone fracture",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Bone fracture",
+      "medicine.symptom.symptom_of",
+      "Paget's disease of bone"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.icd_9_cm_classification.parent_classification",
+      "Ringworm"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Xeroderma"
+    ],
+    [
+      "Athlete's foot",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Flushing"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Athlete's foot"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Blister"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.risk_factors",
+      "Immunosuppression"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.parent_disease",
+      "Skin Disorder"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.treatments",
+      "Ketoconazole"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Scaly skin"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Erythema"
+    ],
+    [
+      "Erythema",
+      "medicine.symptom.symptom_of",
+      "Athlete's foot"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Athlete's foot"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Desquamation"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Athlete's foot"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Athlete's foot"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.parent_disease",
+      "Ringworm"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Athlete's foot",
+      "medicine.disease.parent_disease",
+      "Infectious disease"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.risk_factor.diseases",
+      "Athlete's foot"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Athlete's foot"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Athlete's foot"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Pyelonephritis"
+    ],
+    [
+      "Gretchen Rubin",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Katharine Hepburn",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Joan Crawford",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Cirrhosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Female"
+    ],
+    [
+      "Jean Kennedy Smith",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Judith Exner",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Lynn Conway",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Female"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Acne"
+    ],
+    [
+      "Osteoporosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Bette Davis",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Antonia Bird",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Charlotte Payne-Townshend",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Arlene Dahl",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Rachel Carson",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Debbie",
+      "biology.organism.sex",
+      "Female"
+    ],
+    [
+      "Polycystic ovary syndrome",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Rose Kennedy",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Caroline Kennedy",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Shannon",
+      "biology.organism.sex",
+      "Female"
+    ],
+    [
+      "Pushinka",
+      "biology.organism.sex",
+      "Female"
+    ],
+    [
+      "Acne",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Osteoporosis"
+    ],
+    [
+      "Pyelonephritis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Poppy Z. Brite",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Urinary tract infection"
+    ],
+    [
+      "Arabella Kennedy",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Rosemary Kennedy",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Spina bifida",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Scoliosis"
+    ],
+    [
+      "Betty Grable",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Renée Richards",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Spina bifida"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Thyroid cancer"
+    ],
+    [
+      "Eunice Kennedy Shriver",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Polycystic ovary syndrome"
+    ],
+    [
+      "Patricia Kennedy Lawford",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Carole Lombard",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Jacqueline Kennedy Onassis",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Eleanor Roosevelt",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Marilyn Monroe",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Lauren Bacall",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Goitre",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Cirrhosis"
+    ],
+    [
+      "Tallulah Bankhead",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Scoliosis",
+      "medicine.disease.risk_factors",
+      "Female"
+    ],
+    [
+      "Female",
+      "medicine.risk_factor.diseases",
+      "Goitre"
+    ],
+    [
+      "Kathleen Cavendish",
+      "people.person.gender",
+      "Female"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "Cirrhosis",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Hodgkin's lymphoma",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Diabetes mellitus"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Pruritus",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Actinic keratosis"
+    ],
+    [
+      "Jaundice",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Gout"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Ringworm"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Cirrhosis"
+    ],
+    [
+      "Pruritus",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Non-Hodgkin lymphoma",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Jaundice"
+    ],
+    [
+      "Gout",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Pruritus",
+      "medicine.symptom.symptom_of",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Actinic keratosis",
+      "medicine.disease.symptoms",
+      "Pruritus"
+    ],
+    [
+      "Erythema",
+      "medicine.disease.parent_disease",
+      "Skin Disorder"
+    ],
+    [
+      "Acne",
+      "medicine.disease.parent_disease",
+      "Skin Disorder"
+    ],
+    [
+      "Skin lesion",
+      "medicine.symptom.symptom_of",
+      "Skin Disorder"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.parent_disease",
+      "Skin Disorder"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.parent_disease",
+      "Skin Disorder"
+    ],
+    [
+      "Skin Disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.parent_disease",
+      "Skin Disorder"
+    ],
+    [
+      "Skin Disorder",
+      "medicine.disease.symptoms",
+      "Skin lesion"
+    ],
+    [
+      "Skin Disorder",
+      "medicine.disease.symptoms",
+      "Erythema"
+    ],
+    [
+      "Erythema",
+      "medicine.symptom.symptom_of",
+      "Skin Disorder"
+    ],
+    [
+      "Mitral valve prolapse",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "Non-gonococcal urethritis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Cirrhosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Retroperitoneal fibrosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Aortic aneurysm",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "freebase.type_profile.strict_included_types",
+      "Abstract"
+    ],
+    [
+      "Meningococcal disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Spina bifida",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Burn",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Scoliosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Pyelonephritis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Alcoholism",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Immunodeficiency",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Prostate cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Antisocial personality disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Multiple myeloma",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Survival Rates",
+      "rdf-schema#domain",
+      "Disease or medical condition"
+    ],
+    [
+      "Prevention factors",
+      "type.property.schema",
+      "Disease or medical condition"
+    ],
+    [
+      "Kawasaki disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Hirschsprung's disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Vasculitis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Aneurysm",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "type.type.expected_by",
+      "Diseases with this Risk Factor"
+    ],
+    [
+      "Stages",
+      "rdf-schema#domain",
+      "Disease or medical condition"
+    ],
+    [
+      "Coronary artery disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Nephrotic syndrome",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Stroke",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Major depression",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Paget's disease of bone",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Pregnancy",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "type.type.properties",
+      "Causes"
+    ],
+    [
+      "HIV/AIDS",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Transient ischemic attack",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Ankylosing spondylitis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Mental disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Congenital disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Noonan syndrome",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Autism",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Preterm birth",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Osteoporosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "type.type.properties",
+      "Prevention factors"
+    ],
+    [
+      "Causes",
+      "rdf-schema#domain",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "Malnutrition",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Acute myeloid leukemia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Causes",
+      "type.property.schema",
+      "Disease or medical condition"
+    ],
+    [
+      "Menopause",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Marfan syndrome",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Cardiovascular disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Blood disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Malignant Neoplasm of the Lower Third of the Esophagus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Urinary tract infection",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Hodgkin's lymphoma",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Pancreatic cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Dyslexia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Hypertension",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Ectodermal dysplasia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Sleep disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Autoimmune Disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Parkinson's disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Alcohol abuse",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Obesity",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Epilepsy",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Diabetes mellitus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Acne",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Leprosy",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Tetralogy of Fallot",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Barrett's esophagus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Actinic keratosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Urolithiasis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Testicular cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Infertility",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Malignant Neoplasm of the Cervical Esophagus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Hyperlipidemia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Non-Hodgkin lymphoma",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "Obstructive sleep apnea",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Kyphosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Genetic disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Esophageal cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Psychosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Pyloric stenosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Central nervous system disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Female urologic disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Kidney cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Golfer's elbow",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Club foot",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Gastrointestinal Disorder",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Malignant Neoplasm of the Abdominal Esophagus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Anaplastic thyroid cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Peripheral artery disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "heart attack",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Addison's disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Syphilis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Infectious disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Malignant Neoplasm of the Middle Third of the Esophagus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Thyroid cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Malignant Neoplasm of the Thoracic Esophagus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Goitre",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Dupuytren's contracture",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Ventricular tachycardia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Abscess",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Hypercholesterolemia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "type.type.properties",
+      "Risk Factors"
+    ],
+    [
+      "Hypospadias",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "type.type.properties",
+      "Stages"
+    ],
+    [
+      "Gout",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Gastroesophageal reflux disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Congenital heart defect",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Atherosclerosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "Acute kidney injury",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "type.type.domain",
+      "Medicine"
+    ],
+    [
+      "Obstructive uropathy",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Urethritis",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Emphysema",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Survival Rates",
+      "type.property.schema",
+      "Disease or medical condition"
+    ],
+    [
+      "Infection",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Polycystic ovary syndrome",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Kidney Stone",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Inguinal hernia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Erectile dysfunction",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Stages",
+      "type.property.schema",
+      "Disease or medical condition"
+    ],
+    [
+      "Pectus excavatum",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Sebaceous cyst",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Respiratory disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Gastrointestinal disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Malignant Neoplasm of the Upper Third of the Esophagus",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Bladder cancer",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Myocardial Ischemia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Prevention factors",
+      "rdf-schema#domain",
+      "Disease or medical condition"
+    ],
+    [
+      "Male urologic disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Kidney disease",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "DiGeorge syndrome",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Ventricular fibrillation",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Major trauma",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Liver tumour",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Disease or medical condition",
+      "type.type.properties",
+      "Survival Rates"
+    ],
+    [
+      "Intracranial aneurysm",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Corneal abrasion",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Angina Pectoris",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Benign prostatic hyperplasia",
+      "common.topic.notable_types",
+      "Disease or medical condition"
+    ],
+    [
+      "Nephrotic syndrome",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Pyelonephritis"
+    ],
+    [
+      "Pyelonephritis",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Emphysema"
+    ],
+    [
+      "Acne",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Vertigo",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Cardiovascular disease"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Noonan syndrome"
+    ],
+    [
+      "Non-gonococcal urethritis",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Urethritis"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Gastritis"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Urinary tract infection"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Vertigo"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Emphysema",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Urethritis",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Syphilis"
+    ],
+    [
+      "Noonan syndrome",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Acne"
+    ],
+    [
+      "Gastritis",
+      "medicine.disease.treatments",
+      "Antibiotics"
+    ],
+    [
+      "Antibiotics",
+      "medicine.medical_treatment.used_to_treat",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Ringworm"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Syphilis"
+    ],
+    [
+      "Polycystic ovary syndrome",
+      "medicine.disease.symptoms",
+      "Hair loss"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Hair loss"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Hair loss"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.symptoms",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.treatments",
+      "Finasteride"
+    ],
+    [
+      "Chemotherapy",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Ectodermal dysplasia"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.risk_factors",
+      "Malnutrition"
+    ],
+    [
+      "Stress",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Pregnancy",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.risk_factors",
+      "Pregnancy"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Polycystic ovary syndrome"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.risk_factors",
+      "Chemotherapy"
+    ],
+    [
+      "Goitre",
+      "medicine.disease.symptoms",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Ectodermal dysplasia",
+      "medicine.disease.symptoms",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Goitre"
+    ],
+    [
+      "Hair loss",
+      "medicine.disease.risk_factors",
+      "Stress"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Hair loss",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Malnutrition",
+      "medicine.risk_factor.diseases",
+      "Hair loss"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Urethritis"
+    ],
+    [
+      "Diabetes mellitus",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Scoliosis",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Hodgkin's lymphoma",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Ankylosing spondylitis",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Corneal abrasion"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Younger age",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Urethritis",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Diabetes mellitus"
+    ],
+    [
+      "Corneal abrasion",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Scoliosis"
+    ],
+    [
+      "Younger age",
+      "medicine.risk_factor.diseases",
+      "Kawasaki disease"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Younger age"
+    ],
+    [
+      "Acne",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Sebaceous cyst"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Gout",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Retroperitoneal fibrosis",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Goitre",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Goitre"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Dupuytren's contracture"
+    ],
+    [
+      "Nephrotic syndrome",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Dupuytren's contracture",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Gout"
+    ],
+    [
+      "Sebaceous cyst",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Corticosteroid"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Kawasaki disease"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Acne"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.medical_treatment.used_to_treat",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "Indigestion",
+      "medicine.disease.risk_factors",
+      "Corticosteroid"
+    ],
+    [
+      "Corticosteroid",
+      "medicine.risk_factor.diseases",
+      "Indigestion"
+    ],
+    [
+      "Pain",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Pregnancy",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Syphilis",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Actinic keratosis",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Erythema",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Acne",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Infectious disease",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "common.topic.subject_of",
+      "Del Sorbo Antonio"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.includes_symptoms",
+      "Swollen lymph nodes"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Goitre"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Syphilis"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.includes_symptoms",
+      "Edema"
+    ],
+    [
+      "Non-Hodgkin lymphoma",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Edema"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Gout"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Swelling",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.includes_symptoms",
+      "Abdominal distension"
+    ],
+    [
+      "Swollen lymph nodes",
+      "medicine.symptom.parent_symptom",
+      "Swelling"
+    ],
+    [
+      "Goitre",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Swelling",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Gout",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Edema",
+      "medicine.symptom.parent_symptom",
+      "Swelling"
+    ],
+    [
+      "Edema",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Swelling"
+    ],
+    [
+      "Erythema",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Edema"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Chest pain"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Anorexia"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Weight loss",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Joint stiffness",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Muscle pain",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "UCB",
+      "base.bioventurist.science_or_technology_company.develops_treatments_for_disease",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "people.cause_of_death.parent_cause_of_death",
+      "Autoimmune Disease"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Blurred vision"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Dizziness"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Swollen lymph nodes"
+    ],
+    [
+      "Autoimmune Disease",
+      "people.cause_of_death.includes_causes_of_death",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Sleep disorder"
+    ],
+    [
+      "Anxiety",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Hematuria"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Anorexia",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Joint pain",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Erythema"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Blister"
+    ],
+    [
+      "Chest pain",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Dizziness",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Dyspnea"
+    ],
+    [
+      "Hematuria",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Autoimmunity",
+      "medicine.disease_cause.diseases",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "heart attack"
+    ],
+    [
+      "Major depression",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Weight loss"
+    ],
+    [
+      "Autoimmune Disease",
+      "medicine.disease.includes_diseases",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Joint pain"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Anxiety"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Joint stiffness"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Vasculitis"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Photophobia"
+    ],
+    [
+      "Nephrotic syndrome",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "base.bioventurist.bv_medical_condition.company_involved",
+      "UCB"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.causes",
+      "Autoimmunity"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Muscle pain"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Palpitations"
+    ],
+    [
+      "Swollen lymph nodes",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Mental confusion",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Back pain",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Stroke"
+    ],
+    [
+      "Vasculitis",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Nausea"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Headache"
+    ],
+    [
+      "Angina Pectoris",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Purpura"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Fever"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Angina Pectoris"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Major depression"
+    ],
+    [
+      "Dyspnea",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Headache",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Stroke",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Mental confusion"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Cyanosis"
+    ],
+    [
+      "Cyanosis",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.symptoms",
+      "Back pain"
+    ],
+    [
+      "Edema",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Blurred vision",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "heart attack",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Palpitations",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Systemic lupus erythematosus",
+      "medicine.disease.parent_disease",
+      "Autoimmune Disease"
+    ],
+    [
+      "Sleep disorder",
+      "medicine.symptom.symptom_of",
+      "Systemic lupus erythematosus"
+    ],
+    [
+      "Pain",
+      "medicine.symptom.includes_symptoms",
+      "Abdominal pain"
+    ],
+    [
+      "Hypertension",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Pyelonephritis",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Lidocaine",
+      "medicine.condition_prevention_factors.conditions_this_may_prevent",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.disease.prevention_factors",
+      "Aspirin"
+    ],
+    [
+      "Paracetamol",
+      "medicine.medical_treatment.used_to_treat",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.disease.treatments",
+      "Paracetamol"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.symptom.includes_symptoms",
+      "Neck pain"
+    ],
+    [
+      "Kidney Stone",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.disease.treatments",
+      "Aspirin"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Constipation",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Gout",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Aspirin",
+      "medicine.medical_treatment.used_to_treat",
+      "Pain"
+    ],
+    [
+      "Dysphagia",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Naproxen",
+      "medicine.condition_prevention_factors.conditions_this_may_prevent",
+      "Pain"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Aspirin",
+      "medicine.condition_prevention_factors.conditions_this_may_prevent",
+      "Pain"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.disease.prevention_factors",
+      "Naproxen"
+    ],
+    [
+      "Golfer's elbow",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Abdominal pain",
+      "medicine.symptom.parent_symptom",
+      "Pain"
+    ],
+    [
+      "Angina Pectoris",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Ibuprofen",
+      "medicine.condition_prevention_factors.conditions_this_may_prevent",
+      "Pain"
+    ],
+    [
+      "Chest pain",
+      "medicine.symptom.parent_symptom",
+      "Pain"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Anxiety",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.disease.prevention_factors",
+      "Lidocaine"
+    ],
+    [
+      "Back pain",
+      "medicine.symptom.parent_symptom",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.disease.prevention_factors",
+      "Ibuprofen"
+    ],
+    [
+      "Pain",
+      "medicine.symptom.includes_symptoms",
+      "Back pain"
+    ],
+    [
+      "depression",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Aneurysm",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Burn",
+      "medicine.disease.symptoms",
+      "Pain"
+    ],
+    [
+      "Pain",
+      "medicine.symptom.includes_symptoms",
+      "Chest pain"
+    ],
+    [
+      "Inflammation",
+      "people.cause_of_death.includes_causes_of_death",
+      "Edema"
+    ],
+    [
+      "Inflammation",
+      "people.cause_of_death.includes_causes_of_death",
+      "Gout"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.disease_cause.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Pancreatic cancer"
+    ],
+    [
+      "Ankylosing spondylitis",
+      "people.cause_of_death.parent_cause_of_death",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.disease.treatments",
+      "Aspirin"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.causes",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Inguinal hernia"
+    ],
+    [
+      "Gout",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Gout",
+      "people.cause_of_death.parent_cause_of_death",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Urinary tract infection"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "people.cause_of_death.includes_causes_of_death",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Inflammation",
+      "medicine.disease.treatments",
+      "Diclofenac"
+    ],
+    [
+      "Inflammation",
+      "medicine.disease.treatments",
+      "Ibuprofen"
+    ],
+    [
+      "Inguinal hernia",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.disease.treatments",
+      "Naproxen"
+    ],
+    [
+      "Edema",
+      "people.cause_of_death.parent_cause_of_death",
+      "Inflammation"
+    ],
+    [
+      "Naproxen",
+      "medicine.medical_treatment.used_to_treat",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.disease_cause.diseases",
+      "Vasculitis"
+    ],
+    [
+      "Inflammation",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Peripheral artery disease",
+      "people.cause_of_death.parent_cause_of_death",
+      "Inflammation"
+    ],
+    [
+      "Vasculitis",
+      "medicine.disease.causes",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.disease_cause.diseases",
+      "Uveitis"
+    ],
+    [
+      "Ankylosing spondylitis",
+      "medicine.disease.symptoms",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Gout"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Atherosclerosis"
+    ],
+    [
+      "Ibuprofen",
+      "medicine.medical_treatment.used_to_treat",
+      "Inflammation"
+    ],
+    [
+      "Aspirin",
+      "medicine.medical_treatment.used_to_treat",
+      "Inflammation"
+    ],
+    [
+      "Inflammation",
+      "people.cause_of_death.includes_causes_of_death",
+      "Peripheral artery disease"
+    ],
+    [
+      "Inflammation",
+      "medicine.symptom.symptom_of",
+      "Ringworm"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Kawasaki disease"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "HIV/AIDS"
+    ],
+    [
+      "Skin rash",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Syphilis"
+    ],
+    [
+      "Obesity",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Obesity"
+    ],
+    [
+      "Skin rash",
+      "medicine.symptom.symptom_of",
+      "Ringworm"
+    ],
+    [
+      "HIV/AIDS",
+      "medicine.disease.symptoms",
+      "Skin rash"
+    ],
+    [
+      "Dehydration",
+      "medicine.disease.symptoms",
+      "Xeroderma"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Xeroderma"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.treatments",
+      "Ketoconazole"
+    ],
+    [
+      "Skin lesion",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Skin lesion",
+      "medicine.symptom.symptom_of",
+      "HIV/AIDS"
+    ],
+    [
+      "Acne",
+      "medicine.disease.symptoms",
+      "Skin lesion"
+    ],
+    [
+      "Skin lesion",
+      "medicine.symptom.symptom_of",
+      "Actinic keratosis"
+    ],
+    [
+      "Skin lesion",
+      "medicine.symptom.symptom_of",
+      "Acne"
+    ],
+    [
+      "Leprosy",
+      "medicine.disease.symptoms",
+      "Skin lesion"
+    ],
+    [
+      "Skin lesion",
+      "medicine.symptom.symptom_of",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Actinic keratosis",
+      "medicine.disease.symptoms",
+      "Skin lesion"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.symptoms",
+      "Skin lesion"
+    ],
+    [
+      "Skin lesion",
+      "medicine.symptom.symptom_of",
+      "Leprosy"
+    ],
+    [
+      "HIV/AIDS",
+      "medicine.disease.symptoms",
+      "Skin lesion"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Flushing"
+    ],
+    [
+      "Burn",
+      "medicine.disease.symptoms",
+      "Erythema"
+    ],
+    [
+      "Erythema",
+      "medicine.symptom.symptom_of",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Erythema",
+      "common.topic.notable_types",
+      "Symptom"
+    ],
+    [
+      "Erythema",
+      "medicine.disease.treatments",
+      "Thalidomide"
+    ],
+    [
+      "Erythema",
+      "medicine.symptom.symptom_of",
+      "Burn"
+    ],
+    [
+      "Erythema",
+      "medicine.symptom.symptom_of",
+      "Ringworm"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Erythema"
+    ],
+    [
+      "Acne",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Sebaceous cyst",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Actinic keratosis",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.medical_specialties",
+      "Dermatology"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.symptom.symptom_of",
+      "Parkinson's disease"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.risk_factors",
+      "Stress"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Fatigue",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.parent_disease",
+      "Diseases of sebaceous glands"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.parent_disease",
+      "Erythematosquamous dermatosis"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.risk_factors",
+      "Immunodeficiency"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.icd_9_cm_classification.parent_classification",
+      "Erythematosquamous dermatosis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.symptoms",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Stress",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Immunodeficiency",
+      "medicine.risk_factor.diseases",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Scaly skin"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.symptom.symptom_of",
+      "Polycystic ovary syndrome"
+    ],
+    [
+      "Polycystic ovary syndrome",
+      "medicine.disease.symptoms",
+      "Seborrheic dermatitis"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.risk_factors",
+      "Fatigue"
+    ],
+    [
+      "Seborrheic dermatitis",
+      "medicine.disease.symptoms",
+      "Desquamation"
+    ],
+    [
+      "Burn",
+      "medicine.disease.symptoms",
+      "Blister"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.symptoms",
+      "Desquamation"
+    ],
+    [
+      "Multiple myeloma",
+      "base.bioventurist.bv_medical_condition.company_involved",
+      "SONUS Pharmaceuticals, Inc."
+    ],
+    [
+      "Black",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Nausea"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "Tom Brokaw",
+      "medicine.notable_person_with_medical_condition.condition",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.parent_disease",
+      "Blood disorder"
+    ],
+    [
+      "Chemotherapy",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Blood disorder",
+      "medicine.disease.includes_diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "SONUS Pharmaceuticals, Inc.",
+      "base.bioventurist.science_or_technology_company.develops_treatments_for_disease",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.medical_specialties",
+      "Hematology"
+    ],
+    [
+      "Frequent urination",
+      "medicine.symptom.symptom_of",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Cyclophosphamide"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Constipation"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Multiple myeloma",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cancer"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Chemotherapy"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Bone pain"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.notable_people_with_this_condition",
+      "Tom Brokaw"
+    ],
+    [
+      "Constipation",
+      "medicine.symptom.symptom_of",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Thalidomide"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.parent_disease",
+      "Cardiovascular disease"
+    ],
+    [
+      "Acute kidney injury",
+      "medicine.disease.risk_factors",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Radiation therapy"
+    ],
+    [
+      "Infection",
+      "medicine.symptom.symptom_of",
+      "Multiple myeloma"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "Bone pain",
+      "medicine.symptom.symptom_of",
+      "Multiple myeloma"
+    ],
+    [
+      "Cyclophosphamide",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Fatigue"
+    ],
+    [
+      "Carmustine",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Cisplatin"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.medical_specialties",
+      "Oncology"
+    ],
+    [
+      "Radiation therapy",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Fever"
+    ],
+    [
+      "Cisplatin",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.risk_factor.diseases",
+      "Acute kidney injury"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Infection"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Hematopoietic stem cell transplantation"
+    ],
+    [
+      "Procarbazine",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Procarbazine"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.treatments",
+      "Carmustine"
+    ],
+    [
+      "Hematology",
+      "medicine.medical_specialty.diseases_treated",
+      "Multiple myeloma"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Multiple myeloma"
+    ],
+    [
+      "Hematopoietic stem cell transplantation",
+      "medicine.medical_treatment.used_to_treat",
+      "Multiple myeloma"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.parent_disease",
+      "Cancer"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.symptoms",
+      "Frequent urination"
+    ],
+    [
+      "Multiple myeloma",
+      "medicine.disease.risk_factors",
+      "Black"
+    ],
+    [
+      "Obesity",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Hematuria",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.parent_disease",
+      "Male urologic disease"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Nocturia"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Erectile dysfunction"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.medical_specialties",
+      "Oncology"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Frequent urination"
+    ],
+    [
+      "Erectile dysfunction",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "Frequent urination",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Hematuria"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.medical_specialties",
+      "Urology"
+    ],
+    [
+      "Cryosurgery",
+      "medicine.medical_treatment.used_to_treat",
+      "Prostate cancer"
+    ],
+    [
+      "Chemotherapy",
+      "medicine.medical_treatment.used_to_treat",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Dysuria"
+    ],
+    [
+      "Acute kidney injury",
+      "medicine.disease.risk_factors",
+      "Prostate cancer"
+    ],
+    [
+      "African American",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Nocturia",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "people.cause_of_death.parent_cause_of_death",
+      "Assassination in ways which appear natural"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.treatments",
+      "Cryosurgery"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.treatments",
+      "Radiation therapy"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "African American"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Urinary retention"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Obesity"
+    ],
+    [
+      "SONUS Pharmaceuticals, Inc.",
+      "base.bioventurist.science_or_technology_company.develops_treatments_for_disease",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Tobacco smoking"
+    ],
+    [
+      "Male urologic disease",
+      "medicine.disease.includes_diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Urinary retention",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "UCB",
+      "base.bioventurist.science_or_technology_company.develops_treatments_for_disease",
+      "Prostate cancer"
+    ],
+    [
+      "Assassination in ways which appear natural",
+      "people.cause_of_death.includes_causes_of_death",
+      "Prostate cancer"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Tobacco smoking",
+      "medicine.risk_factor.diseases",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.symptoms",
+      "Bone pain"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.parent_disease",
+      "Cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.risk_factor.diseases",
+      "Acute kidney injury"
+    ],
+    [
+      "Bone pain",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "Fredric March",
+      "people.deceased_person.cause_of_death",
+      "Prostate cancer"
+    ],
+    [
+      "Prostate cancer",
+      "people.cause_of_death.parent_cause_of_death",
+      "Cancer"
+    ],
+    [
+      "Prostate cancer",
+      "medicine.disease.treatments",
+      "Chemotherapy"
+    ],
+    [
+      "Urology",
+      "medicine.medical_specialty.diseases_treated",
+      "Prostate cancer"
+    ],
+    [
+      "Dysuria",
+      "medicine.symptom.symptom_of",
+      "Prostate cancer"
+    ],
+    [
+      "Radiation therapy",
+      "medicine.medical_treatment.used_to_treat",
+      "Prostate cancer"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Chalkstick fracture"
+    ],
+    [
+      "Paget's disease of bone",
+      "common.topic.image",
+      "Pagets skull"
+    ],
+    [
+      "Paget's disease of bone",
+      "common.topic.article",
+      "m.02_jz2"
+    ],
+    [
+      "Paget's disease of bone",
+      "common.topic.notable_for",
+      "g.1258wstd6"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.parent_disease",
+      "Musculoskeletal disorder"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Osteoporosis circumscripta"
+    ],
+    [
+      "Paracetamol",
+      "medicine.medical_treatment.used_to_treat",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.medical_specialties",
+      "Orthopedic surgery"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Joint stiffness"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.treatments",
+      "Nonsteroidal anti-inflammatory drug"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Deformity"
+    ],
+    [
+      "Charlotte Payne-Townshend",
+      "people.deceased_person.cause_of_death",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Hearing loss"
+    ],
+    [
+      "Orthopedic surgery",
+      "medicine.medical_specialty.diseases_treated",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "people.cause_of_death.people",
+      "Charlotte Payne-Townshend"
+    ],
+    [
+      "Joint pain",
+      "medicine.symptom.symptom_of",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Headache"
+    ],
+    [
+      "Paget's disease of bone",
+      "people.cause_of_death.parent_cause_of_death",
+      "Bone disease"
+    ],
+    [
+      "Bone pain",
+      "medicine.symptom.symptom_of",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.treatments",
+      "Calcitonin"
+    ],
+    [
+      "Paget's disease of bone",
+      "base.schemastaging.context_name.pronunciation",
+      "m.011k0kg7"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.treatments",
+      "Calcitonin salmon"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Bone pain"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.risk_factors",
+      "Family history of Paget's Disease"
+    ],
+    [
+      "Paget's disease of bone",
+      "symbols.namesake.named_after",
+      "James Paget"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease_cause.diseases",
+      "Spinal stenosis"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.parent_disease",
+      "Bone disease"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.risk_factors",
+      "Old age"
+    ],
+    [
+      "Paget's disease of bone",
+      "common.topic.image",
+      "Paget's Disease-x-ray"
+    ],
+    [
+      "Hearing loss",
+      "medicine.symptom.symptom_of",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Neck pain"
+    ],
+    [
+      "Headache",
+      "medicine.symptom.symptom_of",
+      "Paget's disease of bone"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.treatments",
+      "Surgery"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.symptoms",
+      "Joint pain"
+    ],
+    [
+      "Surgery",
+      "medicine.medical_treatment.used_to_treat",
+      "Paget's disease of bone"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.treatments",
+      "Paracetamol"
+    ],
+    [
+      "Paget's disease of bone",
+      "medicine.disease.treatments",
+      "Bisphosphonate"
+    ],
+    [
+      "Nonsteroidal anti-inflammatory drug",
+      "medicine.medical_treatment.used_to_treat",
+      "Paget's disease of bone"
+    ],
+    [
+      "Joint stiffness",
+      "medicine.symptom.symptom_of",
+      "Paget's disease of bone"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.risk_factor.diseases",
+      "Ringworm"
+    ],
+    [
+      "Non-gonococcal urethritis",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Atherosclerosis"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Angina Pectoris"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Obesity"
+    ],
+    [
+      "Obstructive sleep apnea",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Obesity",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Major depression",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Coronary artery disease"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Dehydration"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "HIV/AIDS"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Jaundice"
+    ],
+    [
+      "Osteoporosis",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Myocardial Ischemia",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Angina Pectoris",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "HIV/AIDS",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Cardiovascular disease"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Osteoporosis"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Major depression"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Kawasaki disease"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Coronary artery disease",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Jaundice",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Meningococcal disease"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Gastritis"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Myocardial Ischemia"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Dehydration",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Gastritis",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Family medicine",
+      "medicine.medical_specialty.diseases_treated",
+      "Syphilis"
+    ],
+    [
+      "Atherosclerosis",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Meningococcal disease",
+      "medicine.disease.medical_specialties",
+      "Family medicine"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.risk_factor.diseases",
+      "Urinary tract infection"
+    ],
+    [
+      "Hodgkin's lymphoma",
+      "medicine.disease.risk_factors",
+      "Immunosuppression"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.risk_factor.diseases",
+      "Pyelonephritis"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "Immunosuppression",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Nephrotic syndrome",
+      "medicine.disease.causes",
+      "Immunosuppression"
+    ],
+    [
+      "Non-Hodgkin lymphoma",
+      "medicine.disease.risk_factors",
+      "Immunosuppression"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.risk_factor.diseases",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.disease_cause.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Immunosuppression",
+      "medicine.risk_factor.diseases",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Pyelonephritis",
+      "medicine.disease.risk_factors",
+      "Immunosuppression"
+    ],
+    [
+      "Retroperitoneal fibrosis",
+      "medicine.disease.risk_factors",
+      "Immunosuppression"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.risk_factors",
+      "Immunosuppression"
+    ],
+    [
+      "Obstructive sleep apnea",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.05bvjyj",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Hirschsprung's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Burn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Benign prostatic hyperplasia"
+    ],
+    [
+      "Pierre Salinger",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Inguinal hernia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Burn",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Stuttering",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Robert Frost",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Attention deficit hyperactivity disorder"
+    ],
+    [
+      "Shadow Figure",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Alcohol abuse"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-Hodgkin lymphoma"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "neilplus's types"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.07n73w_"
+    ],
+    [
+      "Phone Trick",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "m.0d521lm",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Mel Tillis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hirschsprung's disease"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrvl"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Bladder cancer"
+    ],
+    [
+      "Nikita Khrushchev",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Autism"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_1x1x"
+    ],
+    [
+      "Liver tumour",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hodgkin's lymphoma"
+    ],
+    [
+      "m.0kfyrvl",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Hypospadias",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Myocardial Ischemia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Henry David Thoreau",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Corneal abrasion",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Joseph P. Kennedy, Sr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64rh"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pyloric stenosis"
+    ],
+    [
+      "Male",
+      "common.topic.subjects",
+      "ZasPorn"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kawasaki disease"
+    ],
+    [
+      "Actinic keratosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Epilepsy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0d5218t",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Peter Schweizer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John F. Fitzgerald",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "C. Douglas Dillon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0bm6pqb",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Albert Cashier",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "W. Averell Harriman",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "James Earl Jones",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Inguinal hernia"
+    ],
+    [
+      "Cardiovascular disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Fredric March",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bill Denbrough",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Meningococcal disease"
+    ],
+    [
+      "Cyrus Vance",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Kitten",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Abdominal aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Transient ischemic attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Retroperitoneal fibrosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Dean Rusk",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gastritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Martin Luther King, Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Vive Targi Kielce",
+      "sports.sports_team.gender",
+      "Male"
+    ],
+    [
+      "m.0blp5sr",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0hzxnsy"
+    ],
+    [
+      "Billie",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Felix Dodds",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.article",
+      "m.05zpq8"
+    ],
+    [
+      "Emphysema",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Kawasaki disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Henry Fairlie",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Antisocial personality disorder"
+    ],
+    [
+      "Antisocial personality disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0d522bn",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Hodgkin's lymphoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrw1"
+    ],
+    [
+      "Zell Miller",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "ZasPorn",
+      "common.topic.subject_of",
+      "Male"
+    ],
+    [
+      "m.0zm9_69",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Igor Stravinsky",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d521lm"
+    ],
+    [
+      "heart attack",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Golfer's elbow"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrt3"
+    ],
+    [
+      "m.04j64q8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Parkinson's disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Bladder cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.05bvjy3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Non-Hodgkin lymphoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Rich Little",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ernst Fraenkel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Aortic aneurysm",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "award.award_discipline.awards_in_this_discipline",
+      "SFX Award for Best Actor"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp5sr"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0bm6pqb"
+    ],
+    [
+      "Pyloric stenosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Guillaume Dupuytren",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "male.jpg",
+      "common.image.appears_in_topic_gallery",
+      "Male"
+    ],
+    [
+      "Pancreatic cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d5218t"
+    ],
+    [
+      "Charles de Gaulle",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney cancer"
+    ],
+    [
+      "neilplus's types",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pancreatic cancer"
+    ],
+    [
+      "Wolf",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Parkinson's disease"
+    ],
+    [
+      "David Reimer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stroke",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Shadow Figure"
+    ],
+    [
+      "Urethritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Myocardial Ischemia"
+    ],
+    [
+      "m.04j647l",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Acute myeloid leukemia"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ventricular tachycardia"
+    ],
+    [
+      "m.02_98hd",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "m.02_1x1x",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Golfer's elbow",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Club foot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05cckn4"
+    ],
+    [
+      "m.04j64rh",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Obstructive sleep apnea"
+    ],
+    [
+      "m.05cckn4",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Kidney cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Leprosy"
+    ],
+    [
+      "Byron White",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Males",
+      "base.skosbase.skos_concept.equivalent_topic",
+      "Male"
+    ],
+    [
+      "Irving Ben Cooper",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kyphosis"
+    ],
+    [
+      "John F. Kennedy Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Newton N. Minow",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Hypospadias"
+    ],
+    [
+      "\\t John F. Kennedy",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Jock Young",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Brokaw",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urethritis"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0zm9_69"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Abdominal aortic aneurysm"
+    ],
+    [
+      "John Liu",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02_98hd"
+    ],
+    [
+      "Ernest May",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "heart attack"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Barrett's esophagus"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvklm"
+    ],
+    [
+      "Nephrotic syndrome",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gout"
+    ],
+    [
+      "Ankylosing spondylitis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Syphilis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ankylosing spondylitis"
+    ],
+    [
+      "Damon Wayans",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjyj"
+    ],
+    [
+      "Barrett's esophagus",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Thomas Jefferson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvt_4"
+    ],
+    [
+      "m.0gxvv0q",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0h"
+    ],
+    [
+      "m.0gxvv0h",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Acute myeloid leukemia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Ectodermal dysplasia"
+    ],
+    [
+      "Kidney Stone",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Pectus excavatum"
+    ],
+    [
+      "Dwight D. Eisenhower",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Griffin Bell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "SFX Award for Best Actor",
+      "award.award_category.disciplines_or_subjects",
+      "Male"
+    ],
+    [
+      "m.0hzxnsy",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Alcohol abuse",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Kyphosis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Joseph P. Kennedy, Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0d522bn"
+    ],
+    [
+      "m.0kfyrw1",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Porky Pig",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Autism",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Lyndon B. Johnson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Urolithiasis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Amyotrophic lateral sclerosis"
+    ],
+    [
+      "Esophageal cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Meningococcal disease",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0gxvt_4",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Patrick Bouvier Kennedy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.0kfyrv7"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Dupuytren's contracture"
+    ],
+    [
+      "André Malraux",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Arthur Goldberg",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.0gxvv0q"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j64q8"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Transient ischemic attack"
+    ],
+    [
+      "Leonard Bernstein",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Club foot"
+    ],
+    [
+      "Lou Rell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrt3",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Actinic keratosis"
+    ],
+    [
+      "Benign prostatic hyperplasia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.02zd4tr",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Liver tumour"
+    ],
+    [
+      "Male",
+      "base.skosbase.vocabulary_equivalent_topic.equivalent_concept",
+      "Males"
+    ],
+    [
+      "James Branning",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.image",
+      "male.jpg"
+    ],
+    [
+      "Phone Trick",
+      "base.thoroughbredracing.thoroughbred_racehorse.sex",
+      "Male"
+    ],
+    [
+      "Ronald Radosh",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.07n73w_",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stroke"
+    ],
+    [
+      "Male",
+      "sports.sports_gender.sports_teams",
+      "Vive Targi Kielce"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.02zd4tr"
+    ],
+    [
+      "Henry H. Fowler",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gout",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Ectodermal dysplasia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Anaplastic thyroid cancer",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Ventricular tachycardia",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Kermit Gordon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert F. Kennedy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.0kfyrv7",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvkm6"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kidney Stone"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Gastritis"
+    ],
+    [
+      "David E. Bell",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dupuytren's contracture",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.0blp580",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvk3z"
+    ],
+    [
+      "John F. Kennedy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Luther Terry",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Massimo Zanini",
+      "freebase.domain_profile.category",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Anaplastic thyroid cancer"
+    ],
+    [
+      "Archibald Cox",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pectus excavatum",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex",
+      "Phone Trick"
+    ],
+    [
+      "Male",
+      "common.topic.notable_for",
+      "g.1255p_jgc"
+    ],
+    [
+      "Charlie",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.09td39b"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Epilepsy"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Sebaceous cyst"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Stuttering"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Emphysema"
+    ],
+    [
+      "m.04mmfr8",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Joseph W. Barr",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Corneal abrasion"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Nephrotic syndrome"
+    ],
+    [
+      "Leprosy",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Esophageal cancer"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0j7v__g"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Tetralogy of Fallot"
+    ],
+    [
+      "Ted Kennedy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sardar",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "Simon Brown",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Non-gonococcal urethritis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "W. Willard Wirtz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Urolithiasis"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Aortic aneurysm"
+    ],
+    [
+      "Male",
+      "biology.hybrid_parent_gender.hybrids",
+      "m.0blp580"
+    ],
+    [
+      "Male",
+      "base.schemastaging.context_name.pronunciation",
+      "m.011sf4j6"
+    ],
+    [
+      "Male",
+      "freebase.domain_category.domains",
+      "Massimo Zanini"
+    ],
+    [
+      "Piglet",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Tetralogy of Fallot",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Richard Nixon",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04mmfr8"
+    ],
+    [
+      "Stan Greenberg",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fidel Castro",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "common.topic.notable_types",
+      "Risk Factor"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Cardiovascular disease"
+    ],
+    [
+      "Attention deficit hyperactivity disorder",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Will Rogers",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "m.05bvk3z",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Sebaceous cyst",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "Ted Sorensen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.animalnames.animal_gender.animal_names",
+      "m.05bvjy3"
+    ],
+    [
+      "m.05bvkm6",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "m.0j7v__g",
+      "biology.hybrid_parentage.parent_sex",
+      "Male"
+    ],
+    [
+      "Male",
+      "base.gender.gender_identity.people",
+      "m.04j647l"
+    ],
+    [
+      "m.05bvklm",
+      "base.animalnames.animal_specific_name_relationship.gender",
+      "Male"
+    ],
+    [
+      "Favorite Trick",
+      "biology.organism.sex",
+      "Male"
+    ],
+    [
+      "James Madison",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lee Harvey Oswald",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Robert McNamara",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.risk_factors",
+      "Male"
+    ],
+    [
+      "m.09td39b",
+      "base.gender.personal_gender_identity.gender_identity",
+      "Male"
+    ],
+    [
+      "Male",
+      "medicine.risk_factor.diseases",
+      "Retroperitoneal fibrosis"
+    ],
+    [
+      "Infectious disease",
+      "medicine.medical_specialty.diseases_treated",
+      "Syphilis"
+    ],
+    [
+      "Infectious disease",
+      "medicine.medical_specialty.diseases_treated",
+      "HIV/AIDS"
+    ],
+    [
+      "HIV/AIDS",
+      "medicine.disease.parent_disease",
+      "Infectious disease"
+    ],
+    [
+      "Infectious disease",
+      "base.medical_schema_staging.medical_subspecialty.parent_medical_specialty",
+      "Internal medicine"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.parent_disease",
+      "Infectious disease"
+    ],
+    [
+      "Internal medicine",
+      "base.medical_schema_staging.medical_specialty.subspecialties",
+      "Infectious disease"
+    ],
+    [
+      "Urinary tract infection",
+      "medicine.disease.parent_disease",
+      "Infectious disease"
+    ],
+    [
+      "Infectious disease",
+      "medicine.medical_specialty.diseases_treated",
+      "Non-gonococcal urethritis"
+    ],
+    [
+      "Infectious disease",
+      "medicine.medical_specialty.diseases_treated",
+      "Urethritis"
+    ],
+    [
+      "Infection",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Infectious disease",
+      "medicine.medical_specialty.diseases_treated",
+      "Kaposi's sarcoma"
+    ],
+    [
+      "Infectious disease",
+      "people.cause_of_death.parent_cause_of_death",
+      "Assassination in ways which appear natural"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.medical_specialties",
+      "Infectious disease"
+    ],
+    [
+      "Non-gonococcal urethritis",
+      "medicine.disease.medical_specialties",
+      "Infectious disease"
+    ],
+    [
+      "HIV/AIDS",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Assassination in ways which appear natural",
+      "people.cause_of_death.includes_causes_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Herpes simplex virus",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Urethritis",
+      "medicine.disease.medical_specialties",
+      "Infectious disease"
+    ],
+    [
+      "Fever",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Urinary tract infection",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Kaposi's sarcoma",
+      "medicine.disease.medical_specialties",
+      "Infectious disease"
+    ],
+    [
+      "Amyotrophic lateral sclerosis",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Leprosy",
+      "medicine.disease.parent_disease",
+      "Infectious disease"
+    ],
+    [
+      "Syphilis",
+      "medicine.disease.parent_disease",
+      "Infectious disease"
+    ],
+    [
+      "Syphilis",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ],
+    [
+      "Urethritis",
+      "medicine.disease.parent_disease",
+      "Infectious disease"
+    ],
+    [
+      "HIV/AIDS",
+      "medicine.disease.medical_specialties",
+      "Infectious disease"
+    ],
+    [
+      "Leprosy",
+      "people.cause_of_death.parent_cause_of_death",
+      "Infectious disease"
+    ]
+  ]
+}

@@ -1,0 +1,4950 @@
+{
+  "graph_id": 19059,
+  "subgraph": [
+    [
+      "smarTours",
+      "travel.tour_operator.travel_destinations",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "travel.travel_destination.tour_operators",
+      "smarTours"
+    ],
+    [
+      "smarTours",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Central America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "South America"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "Central America"
+    ],
+    [
+      "South America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Exclaimer"
+    ],
+    [
+      "Exclaimer",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Vcoins",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Vcoins",
+      "organization.organization.geographic_scope",
+      "South America"
+    ],
+    [
+      "Vcoins",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vcoins"
+    ],
+    [
+      "Vcoins",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "South America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vcoins"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Vcoins"
+    ],
+    [
+      "Tribal Gathering 2014",
+      "common.topic.subjects",
+      "Central America"
+    ],
+    [
+      "Tribal Gathering",
+      "time.recurring_event.instances",
+      "Tribal Gathering 2014"
+    ],
+    [
+      "Latin America",
+      "common.topic.subject_of",
+      "Tribal Gathering 2014"
+    ],
+    [
+      "Tribal Gathering 2014",
+      "common.topic.subjects",
+      "Latin America"
+    ],
+    [
+      "Central America",
+      "common.topic.subject_of",
+      "Tribal Gathering 2014"
+    ],
+    [
+      "Tribal Gathering 2014",
+      "time.event.instance_of_recurring_event",
+      "Tribal Gathering"
+    ],
+    [
+      "Burberry",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Burberry"
+    ],
+    [
+      "Burberry",
+      "common.topic.subject_of",
+      "Burberry"
+    ],
+    [
+      "Burberry",
+      "common.topic.subjects",
+      "Burberry"
+    ],
+    [
+      "m.0b46_rm",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "m.09yhz5s",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Dominican Republic"
+    ],
+    [
+      "Peru",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Coderic, S.A."
+    ],
+    [
+      "Latin America",
+      "common.topic.article",
+      "m.04pp6"
+    ],
+    [
+      "m.0b47w6d",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.09yhz5s"
+    ],
+    [
+      "Chile",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "BIAlita",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Argentina"
+    ],
+    [
+      "m.09y23xm",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.09ykmyt"
+    ],
+    [
+      "Aeropost International Services, Inc.",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Great Pyramid of Tenochtitlán"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Guatemala"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Pro Mujer"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Paraguay"
+    ],
+    [
+      "m.0b486zk",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "AMREP Mexico"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Nicaragua"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Cuba"
+    ],
+    [
+      "Latin America",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.09xjv7k"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Peru"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "m.09w_yts",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf9w0"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Honduras"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Panama"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.09y23xm"
+    ],
+    [
+      "Latin America",
+      "location.location.events",
+      "The Wailers 2009 Concert Tour"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Nicaragua",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "LocationWHLatinAmerica",
+      "common.image.appears_in_topic_gallery",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Practical Action"
+    ],
+    [
+      "Great Pyramid of Tenochtitlán",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Pro Mujer",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Surgeons of Hope",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "m.09wb_3j",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.image",
+      "LocationWHLatinAmerica"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Cuauhtémoc, D.F."
+    ],
+    [
+      "Practical Action",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.0b46_rm"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Haiti"
+    ],
+    [
+      "Ensip",
+      "common.topic.subjects",
+      "Latin America"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "base.folklore.mythology.mythical_creatures",
+      "La Llorona"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.0b47w6d"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Uruguay"
+    ],
+    [
+      "m.0b48fh2",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.subject_of",
+      "Ensip"
+    ],
+    [
+      "Central Latinoamericana de Trabajadores",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "BIAlita"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.09wltrt"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Uruguay",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.image",
+      "Latin America is the area south of the Rio Grande, excluding French Guiana, Guyana and Suriname"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Escuela Española de Desarrollo Transpersonal"
+    ],
+    [
+      "m.09ykmyt",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.0b48fh2"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Central Latinoamericana de Trabajadores"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "iPivot.co"
+    ],
+    [
+      "Latin America",
+      "common.topic.notable_for",
+      "g.125cng3yk"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.09wb_3j"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Costa Rica"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Chile"
+    ],
+    [
+      "The Wailers 2009 Concert Tour",
+      "time.event.locations",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Aeropost International Services, Inc."
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Bolivia"
+    ],
+    [
+      "Latin America",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Miami Herald"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Las Américas Film Network"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Belize"
+    ],
+    [
+      "Latin America",
+      "location.location.events",
+      "Radiohead 2009 Concert Tour"
+    ],
+    [
+      "m.09xjv7k",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "La Llorona",
+      "base.folklore.mythical_creature.mythology",
+      "Latin America"
+    ],
+    [
+      "Bolivia",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "The Hunger Project",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "AMREP Mexico",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "iPivot.co",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.partially_contains",
+      "Caribbean"
+    ],
+    [
+      "m.07nf9w0",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Latin America"
+    ],
+    [
+      "Coderic, S.A.",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Paraguay",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Caribbean",
+      "location.location.partially_containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.events",
+      "Cómplices Tour"
+    ],
+    [
+      "m.0wg9fxr",
+      "location.partial_containment_relationship.partially_contained_by",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "Venezuela",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Las Américas Film Network",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.0b486zk"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Escuela Española de Desarrollo Transpersonal",
+      "organization.organization.geographic_scope",
+      "Latin America"
+    ],
+    [
+      "Mexico",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.webpage",
+      "m.09w_yts"
+    ],
+    [
+      "Latin America",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "Argentina",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "common.topic.subject_of",
+      "Tribal Gathering"
+    ],
+    [
+      "Radiohead 2009 Concert Tour",
+      "time.event.locations",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Mexico"
+    ],
+    [
+      "Cómplices Tour",
+      "time.event.locations",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Hunger Project"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "El Salvador"
+    ],
+    [
+      "Tribal Gathering",
+      "common.topic.subjects",
+      "Latin America"
+    ],
+    [
+      "Miami Herald",
+      "book.newspaper.circulation_areas",
+      "Latin America"
+    ],
+    [
+      "Cuauhtémoc, D.F.",
+      "location.location.containedby",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.contains",
+      "Venezuela"
+    ],
+    [
+      "Latin America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Surgeons of Hope"
+    ],
+    [
+      "Argentina Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.partiallycontains",
+      "m.0wg9fxr"
+    ],
+    [
+      "m.09wltrt",
+      "common.webpage.topic",
+      "Latin America"
+    ],
+    [
+      "Latin America is the area south of the Rio Grande, excluding French Guiana, Guyana and Suriname",
+      "common.image.appears_in_topic_gallery",
+      "Latin America"
+    ],
+    [
+      "Latin America",
+      "location.location.time_zones",
+      "Argentina Time Zone"
+    ],
+    [
+      "OVH",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "United States Virgin Islands",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Puerto Rico",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United Nations",
+      "organization.organization.founders",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Navassa Island"
+    ],
+    [
+      "Louisiana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Spanish Language",
+      "language.human_language.countries_spoken_in",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Pioneer Astronautics",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "m.0wg91ym",
+      "location.partial_containment_relationship.partially_contains",
+      "United States of America"
+    ],
+    [
+      "Constitutional republic",
+      "government.form_of_government.countries",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_area_type",
+      "Sovereign state"
+    ],
+    [
+      "Wisconsin",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Operation Golden Pheasant",
+      "base.culturalevent.event.entity_involved",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "location.location.primarily_containedby",
+      "North America"
+    ],
+    [
+      "Samoa Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Louisiana"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "Navassa Island",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "The London 2012 Summer Olympics"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Wisconsin"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.subdivides_place",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Louisiana"
+    ],
+    [
+      "The London 2012 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "United States of America"
+    ],
+    [
+      "Joseph Mencia",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Florida"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "finance.currency.countries_used",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.languages_spoken",
+      "Spanish Language"
+    ],
+    [
+      "Florida",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "organization.organization_founder.organizations_founded",
+      "World Trade Organization"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "United States of America",
+      "location.country.currency_used",
+      "United States Dollar"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.earth.sovereign_domain.sovereign_state",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Louisiana"
+    ],
+    [
+      "Las Américas Film Network",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "United States Dollar",
+      "base.coinsdaily.coin_type.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.administrative_division.first_level_division_of",
+      "United States, with Territories"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.planet",
+      "Earth"
+    ],
+    [
+      "José Zúñiga",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Georgia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States, with Territories",
+      "location.country.first_level_divisions",
+      "United States of America"
+    ],
+    [
+      "Illich Guardiola",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Genova Diagnostics",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "World Trade Organization",
+      "organization.organization.founders",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Hawaii-Aleutian Time Zone"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Georgia"
+    ],
+    [
+      "United States, with Territories",
+      "base.aareas.schema.administrative_area.subdividing_place",
+      "United States of America"
+    ],
+    [
+      "Roger Espinoza",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "North America",
+      "location.location.contains_major_portion_of",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Wisconsin"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Samoa Time Zone"
+    ],
+    [
+      "Unique Hosereels",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "iPivot.co",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Skorr Steel Co., Inc.",
+      "organization.organization.place_founded",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Florida"
+    ],
+    [
+      "Wisconsin",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "AMREP Mexico",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "The Hunger Project",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "common.topic.notable_types",
+      "Country"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Montana"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Minnesota"
+    ],
+    [
+      "United States of America",
+      "location.country.form_of_government",
+      "Constitutional republic"
+    ],
+    [
+      "United States of America",
+      "location.location.partially_contained_by",
+      "m.0wg91ym"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Georgia",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "travel.travel_destination.tour_operators",
+      "FOX Vakanties"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Georgia"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Montana"
+    ],
+    [
+      "Sag Harbor Industries, Inc.",
+      "organization.organization.place_founded",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "freebase.valuenotation.is_reviewed",
+      "Currency Used"
+    ],
+    [
+      "FOX Vakanties",
+      "travel.tour_operator.travel_destinations",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Alaska Time Zone"
+    ],
+    [
+      "Florida",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "Louisiana",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Dunia Elvir",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Florida"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States, with Territories"
+    ],
+    [
+      "Minnesota",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Montana"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "Montana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Montana"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.countries_within",
+      "United States of America"
+    ],
+    [
+      "Montana",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "organization.organization_founder.organizations_founded",
+      "United Nations"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Georgia",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Renán Almendárez Coello",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2008 Summer Olympics"
+    ],
+    [
+      "Florida",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Wisconsin",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.containedby",
+      "United States, with Territories"
+    ],
+    [
+      "Minnesota",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Louisiana",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Sin Nombre",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "Central America"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Costa Rica"
+    ],
+    [
+      "Hurricane Gordon",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Panama"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Guatemala"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Central America"
+    ],
+    [
+      "Hurricane Mitch",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Central America"
+    ],
+    [
+      "Tribal Gathering",
+      "common.topic.subjects",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Belize"
+    ],
+    [
+      "Central America",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Tropical Storm Arthur",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Central America"
+    ],
+    [
+      "Hurricane Abby",
+      "meteorology.tropical_cyclone.affected_areas",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Abby"
+    ],
+    [
+      "Central America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Central America",
+      "common.topic.notable_types",
+      "Region"
+    ],
+    [
+      "Central America",
+      "common.topic.subject_of",
+      "Tribal Gathering"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "El Salvador"
+    ],
+    [
+      "Central America",
+      "location.location.contains",
+      "Honduras"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "Central America"
+    ],
+    [
+      "Central America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Mitch"
+    ],
+    [
+      "Central America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Tropical Storm Arthur"
+    ],
+    [
+      "Central America",
+      "meteorology.cyclone_affected_area.cyclones",
+      "Hurricane Gordon"
+    ],
+    [
+      "South America",
+      "location.location.adjoin_s",
+      "m.046cvv2"
+    ],
+    [
+      "Chile",
+      "location.location.primarily_containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.contains_major_portion_of",
+      "Ecuador"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.partially_contains",
+      "Ecuador"
+    ],
+    [
+      "Suriname",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Falkland Islands Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Venezuela Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Suriname Time Zone"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "South America"
+    ],
+    [
+      "Venezuela",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "French Guiana",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Crystal Fountains",
+      "organization.organization.geographic_scope",
+      "South America"
+    ],
+    [
+      "Peru",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Argentina",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Chile Time Zone"
+    ],
+    [
+      "Fernando de Noronha Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Falkland Islands Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Bolivia Time Zone"
+    ],
+    [
+      "Northern Hemisphere",
+      "location.location.partially_contains",
+      "South America"
+    ],
+    [
+      "South America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Genova Diagnostics"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Ecuador Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Paraguay Time Zone"
+    ],
+    [
+      "m.046cvv2",
+      "location.adjoining_relationship.adjoins",
+      "South America"
+    ],
+    [
+      "South America",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Argentina Time Zone"
+    ],
+    [
+      "Paraguay",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Colombia Time Zone"
+    ],
+    [
+      "Amazon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Ecuador",
+      "location.location.primarily_containedby",
+      "South America"
+    ],
+    [
+      "Uruguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Chile Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Suriname Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Peru Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Uruguay Time Zone"
+    ],
+    [
+      "Falkland Islands",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Ecuador",
+      "location.location.partially_containedby",
+      "South America"
+    ],
+    [
+      "Bolivia",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.partially_contains",
+      "Overseas France"
+    ],
+    [
+      "South America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "South America",
+      "location.location.partially_containedby",
+      "Northern Hemisphere"
+    ],
+    [
+      "Brazil",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "South America",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "Paraguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "TellUs Leads"
+    ],
+    [
+      "Argentina Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "South America"
+    ],
+    [
+      "South America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Crystal Fountains"
+    ],
+    [
+      "Bolivia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "Colombia",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Genova Diagnostics",
+      "organization.organization.geographic_scope",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Guyana Time Zone"
+    ],
+    [
+      "South America",
+      "common.topic.notable_types",
+      "Continent"
+    ],
+    [
+      "Uruguay",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.contains_major_portion_of",
+      "Chile"
+    ],
+    [
+      "Colombia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Brasília Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "Guyana",
+      "location.location.containedby",
+      "South America"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Fernando de Noronha Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Amazon Time Zone"
+    ],
+    [
+      "TellUs Leads",
+      "organization.organization.geographic_scope",
+      "South America"
+    ],
+    [
+      "Overseas France",
+      "location.location.partially_containedby",
+      "South America"
+    ],
+    [
+      "Guyana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "French Guiana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "South America"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "Brasília Time Zone"
+    ],
+    [
+      "South America",
+      "location.location.time_zones",
+      "French Guiana Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Mexico"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Turks and Caicos Islands"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Antigua and Barbuda"
+    ],
+    [
+      "m.09yfznn",
+      "common.webpage.topic",
+      "Americas"
+    ],
+    [
+      "Canada",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "common.topic.notable_for",
+      "g.1255lzm84"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Pan American Health Organization"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Grenada"
+    ],
+    [
+      "Curaçao",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Collectivity of Saint Martin"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Newfoundland Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Brazil"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "East Greenland Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Pierre and Miquelon"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Panama"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Alaska Time Zone"
+    ],
+    [
+      "Guyana",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Philippi Corporate Solutions",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Saba",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Philippi Corporate Solutions"
+    ],
+    [
+      "French Guiana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bolivia"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "South Georgia and the South Sandwich Islands Time Zone"
+    ],
+    [
+      "Americas",
+      "symbols.name_source.namesakes",
+      "Americium"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Sticky & Sweet Tour"
+    ],
+    [
+      "Maryland Campaign",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Uruguay"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Caribbean"
+    ],
+    [
+      "Americas",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sudoku Master"
+    ],
+    [
+      "m.0b4647l",
+      "common.webpage.topic",
+      "Americas"
+    ],
+    [
+      "Uruguay",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Falkland Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Chile",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    [
+      "Nicaragua",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Paraguay",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Suriname"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Trinidad and Tobago"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "North America"
+    ],
+    [
+      "Brasília Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Suriname Time Zone"
+    ],
+    [
+      "Bolivia",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Falkland Islands Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Galápagos Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Colombia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Venezuela Time Zone"
+    ],
+    [
+      "Americas",
+      "common.topic.image",
+      "LocationAmericas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "French Guiana Time Zone"
+    ],
+    [
+      "Barbados",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Montserrat",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Brasília Time Zone"
+    ],
+    [
+      "Jamaica",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Uruguay Time Zone"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "common.topic.webpage",
+      "m.0b4647l"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Guatemala"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Cuba"
+    ],
+    [
+      "Brazil",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "g.122nc6z5"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Guadeloupe"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Peru Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "United States Virgin Islands"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Honduras"
+    ],
+    [
+      "Americas",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "Americas",
+      "common.topic.article",
+      "m.07c5x"
+    ],
+    [
+      "Trinidad and Tobago",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Colombia Time Zone"
+    ],
+    [
+      "Americas",
+      "common.topic.notable_types",
+      "Continent"
+    ],
+    [
+      "Fernando de Noronha Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Fernando de Noronha Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Paraguay Time Zone"
+    ],
+    [
+      "Ecuador",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Bolivia Time Zone"
+    ],
+    [
+      "Anglo-Spanish War",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Guyana Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Saint Lucia",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Western European Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bermuda"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Ecuador Time Zone"
+    ],
+    [
+      "Americas",
+      "location.statistical_region.population",
+      "m.011n96gt"
+    ],
+    [
+      "Americas",
+      "common.topic.webpage",
+      "m.09yfznn"
+    ],
+    [
+      "Paraguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Argentina",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Anguilla"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Amazon Time Zone"
+    ],
+    [
+      "Mexico",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Barbados"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Clipperton Island Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Martinique"
+    ],
+    [
+      "m.07nfx8r",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Americas"
+    ],
+    [
+      "Argentina Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Bonaire",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "French Guiana",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Bermuda",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Jackson's Valley Campaign",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Venezuela",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "American Theater",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Venezuela"
+    ],
+    [
+      "South Georgia and the South Sandwich Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "base.schemastaging.context_name.pronunciation",
+      "g.125_pbk6t"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Dominica"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Costa Rica"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Eastern Caribbean Time Zone"
+    ],
+    [
+      "Americas",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nfx8r"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Guyana"
+    ],
+    [
+      "Caribbean",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Sticky & Sweet Tour",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.statistical_region.population",
+      "m.0ngmdzd"
+    ],
+    [
+      "Saint Barthélemy",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Dominican Republic"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Guadeloupe",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Aruba"
+    ],
+    [
+      "Americas",
+      "common.topic.webpage",
+      "m.09w_5_4"
+    ],
+    [
+      "Collectivity of Saint Martin",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Curaçao"
+    ],
+    [
+      "Bolivia Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Suriname Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Falkland Islands Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Canada"
+    ],
+    [
+      "North America",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Chile Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Falkland Islands"
+    ],
+    [
+      "Sint Eustatius",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "2014 FINA Men's Water Polo World League"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "French Guiana"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Sint Maarten"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Puerto Rico"
+    ],
+    [
+      "Americas",
+      "location.location.geolocation",
+      "m.0wn3cvp"
+    ],
+    [
+      "Pan American Health Organization",
+      "organization.organization.geographic_scope",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Peru"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Nicaragua"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Argentina"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Lucia"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Vincent and the Grenadines"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "British Virgin Islands"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Suriname",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Guyana Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Cayman Islands"
+    ],
+    [
+      "East Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bahamas"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "West Greenland Time Zone"
+    ],
+    [
+      "Grenada",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "Americas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Trade Union Confederation of the Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saba"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Galápagos Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Belize"
+    ],
+    [
+      "Peru",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Aruba",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.statistical_region.population",
+      "m.0pdrw2s"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Ecuador"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "Americas"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Paraguay"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "West Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "g.122srxp9"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Argentina Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Chile"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Jamaica"
+    ],
+    [
+      "Eastern Caribbean Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "British Virgin Islands",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Sint Eustatius"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Haiti"
+    ],
+    [
+      "Americas",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "Chile Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Colombia",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "American Theater"
+    ],
+    [
+      "Saint Pierre and Miquelon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Dominica",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Bahamas",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Cuba Time Zone"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "El Salvador"
+    ],
+    [
+      "Sint Maarten",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Navassa Island"
+    ],
+    [
+      "2014 FINA Men's Water Polo World League",
+      "time.event.locations",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Maryland Campaign"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Barthélemy"
+    ],
+    [
+      "Martinique",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Uruguay Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.time_zones",
+      "Saint Pierre and Miquelon Time Zone"
+    ],
+    [
+      "Antigua and Barbuda",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "m.09w_5_4",
+      "common.webpage.topic",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Montserrat"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Colombia"
+    ],
+    [
+      "Amazon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Saint Kitts and Nevis"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Anglo-Spanish War"
+    ],
+    [
+      "Garifuna Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Anguilla",
+      "location.location.containedby",
+      "Americas"
+    ],
+    [
+      "Americas",
+      "location.location.events",
+      "Jackson's Valley Campaign"
+    ],
+    [
+      "Americas",
+      "location.location.contains",
+      "Bonaire"
+    ],
+    [
+      "Mískito Language",
+      "language.human_language.region",
+      "Americas"
+    ],
+    [
+      "Guatemala",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Pintail Action Group",
+      "base.conservationaction.coordinated_program.focal_location",
+      "North America"
+    ],
+    [
+      "m.09y58pz",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Mr. Driller"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Guatemala"
+    ],
+    [
+      "MaxCDN",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North American Federation of Temple Youth",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Bermuda",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Arkedo Series - 001 JUMP!"
+    ],
+    [
+      "Coastal Reign",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Saint Vincent and the Grenadines"
+    ],
+    [
+      "North America",
+      "common.topic.notable_for",
+      "g.1258qxcpy"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.0b46f90"
+    ],
+    [
+      "Mr. Driller Drill Spirits",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Dynasty Tactics",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Assassin's Creed: Bloodlines (NA)",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Unique Hosereels",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Saint Lucia",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Dominica"
+    ],
+    [
+      "Battlefield: Bad Company 2",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "Kingdom of Denmark"
+    ],
+    [
+      "North America",
+      "base.mapcentral.fgdc_location_keyword.metadata_location_records",
+      "2005 Land Cover of North America at 250 meters"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "El Shaddai: Ascension of the Metatron (360 NA)"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "LEGO Star Wars III: The Clone Wars"
+    ],
+    [
+      "Sudoku Gridmaster",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "m.0wg91ym",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sonic & Sega All-Stars Racing"
+    ],
+    [
+      "Lego Star Wars III: The Clone Wars",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Birds and Climate Change: On the Move",
+      "base.abcbirds.conservation_project.project_location_s",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Castle Harlan"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.coordinated_program_s",
+      "North American Pollinator Protection Campaign"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Ameriquest Transportation Services"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Arkedo Series - 002 SWAP!"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sonic Classic Collection"
+    ],
+    [
+      "Assassin's Creed II: Discovery (DS NA)",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Final Fantasy XIII"
+    ],
+    [
+      "Corcentric",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.image",
+      "LocationNorthAmerica"
+    ],
+    [
+      "Saint Lucia",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Spider-Man: Web of Shadows",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Digital Realty",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Brafton"
+    ],
+    [
+      "Assassin's Creed: Revelations (360)",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Dominican Republic",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.dinosaur.dinosaur_location.dinosaur_s",
+      "Ceratopsia"
+    ],
+    [
+      "Cuba",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "East Greenland Time Zone"
+    ],
+    [
+      "Mr. Driller",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Barbados"
+    ],
+    [
+      "Western Hemisphere",
+      "location.location.contains",
+      "North America"
+    ],
+    [
+      "El Shaddai: Ascension of the Metatron (360 NA)",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Cerro El Pital",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Military Madness",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "PCI Communications",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "PCI Communications"
+    ],
+    [
+      "Panama",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Dominican Republic"
+    ],
+    [
+      "North America",
+      "freebase.valuenotation.is_reviewed",
+      "Time zone(s)"
+    ],
+    [
+      "East Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Skorr Steel Co., Inc."
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Castlevania: The Adventure ReBirth"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Costa Rica"
+    ],
+    [
+      "Arkedo Series - 002 SWAP!",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Assassin's Creed: Bloodlines (NA)"
+    ],
+    [
+      "m.0b46n3g",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "Dominica",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "UNITE HERE"
+    ],
+    [
+      "Spider-Man: Web of Shadows PS2/PSP",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Sag Harbor Industries, Inc."
+    ],
+    [
+      "British Virgin Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Union of North American Vietnamese Student Associations",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Trinidad and Tobago",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SEO Richmond"
+    ],
+    [
+      "Wisconsin",
+      "base.locations.states_and_provences.continent",
+      "North America"
+    ],
+    [
+      "OVH",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "The Legend of Zelda: Twilight Princess"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Assassin's Creed: Brotherhood (360 NA)"
+    ],
+    [
+      "North America",
+      "travel.travel_destination.tour_operators",
+      "Voyages Jules Verne"
+    ],
+    [
+      "Saint Pierre and Miquelon Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Saint Pierre and Miquelon Time Zone"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "DonorPerfect"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "Overseas France"
+    ],
+    [
+      "UNITE HERE",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Motagua River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Jamaica"
+    ],
+    [
+      "Curaçao",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Belize",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Genova Diagnostics",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Farrow"
+    ],
+    [
+      "VVVVVV 3DS (NA)",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "m.04kgyy8",
+      "location.geometry.delineates_location",
+      "North America"
+    ],
+    [
+      "Guatemala",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "El Salvador",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.0b46n3g"
+    ],
+    [
+      "Navassa Island",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cuauhtémoc, D.F.",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Redmond Consulting, Inc."
+    ],
+    [
+      "North America satellite orthographic",
+      "common.image.appears_in_topic_gallery",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "NationaLease"
+    ],
+    [
+      "Castlevania: The Adventure ReBirth",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "LocationNorthAmerica",
+      "common.image.appears_in_topic_gallery",
+      "North America"
+    ],
+    [
+      "m.09yhhdb",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "BrightRoll",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Honduras",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Belize",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Sonic Classic Collection",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Corcentric"
+    ],
+    [
+      "Saint Pierre and Miquelon",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Coco River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Spider-Man: Web of Shadows DS"
+    ],
+    [
+      "L.A. Noire",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "American Registry for Internet Numbers"
+    ],
+    [
+      "Dominica",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Haiti",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Voyages Jules Verne",
+      "travel.tour_operator.travel_destinations",
+      "North America"
+    ],
+    [
+      "Association of Alternative Newsmedia",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Madden NFL 10 Wii",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Saba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "m.09wvf8k",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "OVH"
+    ],
+    [
+      "Earth",
+      "base.locations.planets.continents_within",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Digital Realty"
+    ],
+    [
+      "TellUs Leads",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Pokémon White Version",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "NationaLease",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "West Greenland Time Zone"
+    ],
+    [
+      "LEGO Star Wars III: The Clone Wars",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Jamaica",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.image",
+      "North America satellite orthographic"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Final Fantasy Gaiden: 4 Warriors of Light"
+    ],
+    [
+      "Puyo Pop",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Crystal Fountains",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Ameriquest"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.09wk95w"
+    ],
+    [
+      "North America",
+      "location.statistical_region.population",
+      "m.0hp123j"
+    ],
+    [
+      "Bonaire",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Martinique",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "North America",
+      "location.location.partiallycontains",
+      "m.0_gjrm_"
+    ],
+    [
+      "m.0wg91ys",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North America"
+    ],
+    [
+      "m.0wg91xy",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North America"
+    ],
+    [
+      "Castle Harlan",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "El Salvador",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North American Waterfowl Management Plan: A Strategy for Cooperation",
+      "base.abcbirds.conservation_plan.focal_location",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Spider-Man: Web of Shadows PS2/PSP"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.09wtxw_"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Mexico"
+    ],
+    [
+      "North America",
+      "location.location.partiallycontains",
+      "m.0wg91xy"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sonic Colors"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "The Legend of Zelda"
+    ],
+    [
+      "France",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "Mexico",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Graphic"
+    ],
+    [
+      "North America",
+      "symbols.namesake.named_after",
+      "Amerigo Vespucci"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Assassin's Creed II: Discovery (DS NA)"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Spider-Man: Web of Shadows"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Pilot Fish SEO"
+    ],
+    [
+      "Flyways.us",
+      "base.conservationaction.coordinated_program.focal_location",
+      "North America"
+    ],
+    [
+      "United States Virgin Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Minnesota",
+      "base.locations.states_and_provences.continent",
+      "North America"
+    ],
+    [
+      "Panama",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "L.A. Noire"
+    ],
+    [
+      "Sonic Drift 2",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Nicaragua",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North American Waterbird Conservation Plan, Version 1",
+      "base.abcbirds.conservation_plan.focal_location",
+      "North America"
+    ],
+    [
+      "Radiohead 2009 Concert Tour",
+      "time.event.locations",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.0b48h3v"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Newfoundland Time Zone"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.coordinated_program_s",
+      "NAWMP Science Support Team"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Panama"
+    ],
+    [
+      "The Wailers 2009 Concert Tour",
+      "time.event.locations",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partiallycontains",
+      "m.0wg91x8"
+    ],
+    [
+      "North America",
+      "base.dinosaur.dinosaur_location.dinosaur_s",
+      "Ornithopoda"
+    ],
+    [
+      "North America",
+      "base.locations.continents.states_provinces_within",
+      "Montana"
+    ],
+    [
+      "SEO Richmond",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "DonorPerfect",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Antigua and Barbuda",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sonic Drift 2"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "NAWMP Science Support Team"
+    ],
+    [
+      "El Shaddai: Ascension of the Metatron (PS3 NA)",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "United States, with Territories",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "United States, with Territories"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.conservation_plan_s",
+      "North American Waterbird Conservation Plan, Version 1"
+    ],
+    [
+      "Canada",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Bahamas",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Dragon Quest Heroes: Rocket Slime"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Dominican Republic",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Association of Alternative Newsmedia"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sonic Free Riders"
+    ],
+    [
+      "International New York Times",
+      "book.newspaper.circulation_areas",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.conservation_project_s",
+      "North American Breeding Bird Survey database"
+    ],
+    [
+      "Amerigo Vespucci",
+      "symbols.name_source.namesakes",
+      "North America"
+    ],
+    [
+      "Skorr Steel Co., Inc.",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.09wvf8k"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Pilotwings Resort"
+    ],
+    [
+      "North American Pollinator Protection Campaign",
+      "base.conservationaction.coordinated_program.focal_location",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "VVVVVV 3DS (NA)"
+    ],
+    [
+      "North American Breeding Bird Survey database",
+      "base.database.spatial_database.geographic_extent",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Haiti"
+    ],
+    [
+      "Saint Barthélemy",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partially_contains",
+      "France"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Bahamas"
+    ],
+    [
+      "Sonic Adventure 2 Battle",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Madden NFL 10",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.09y58pz"
+    ],
+    [
+      "m.0b46f90",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Mario & Sonic at the Olympic WInter Games"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "El Shaddai: Ascension of the Metatron (PS3 NA)"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SFR Industries"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Atlantic Time Zone"
+    ],
+    [
+      "m.09wtxw_",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.conservation_plan_s",
+      "North American Waterfowl Management Plan: A Strategy for Cooperation"
+    ],
+    [
+      "Sonic & Sega All-Stars Racing",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partiallycontains",
+      "m.0wg91ys"
+    ],
+    [
+      "Pokémon Gold and Silver",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Farrow",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Sag Harbor Industries, Inc.",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Aruba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Barbados",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.09yhhdb"
+    ],
+    [
+      "Montana",
+      "base.locations.states_and_provences.continent",
+      "North America"
+    ],
+    [
+      "Trinidad and Tobago",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Caribbean",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Saint Lucia"
+    ],
+    [
+      "Final Fantasy XIII",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Northern Hemisphere",
+      "location.location.contains",
+      "North America"
+    ],
+    [
+      "West Greenland Time Zone",
+      "time.time_zone.locations_in_this_time_zone",
+      "North America"
+    ],
+    [
+      "Arkedo Series - 001 JUMP!",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "m.09wyxjh",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "m.09wk95w",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "Dragon Quest Heroes: Rocket Slime",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Puerto Rico",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Antigua and Barbuda"
+    ],
+    [
+      "Dragster",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.containedby",
+      "Northern Hemisphere"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Battlefield: Bad Company 2"
+    ],
+    [
+      "The Western Hummingbird Project (WHP): Hummingbird Conservation in North America",
+      "base.abcbirds.conservation_project.project_location_s",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Military Madness"
+    ],
+    [
+      "North America",
+      "location.location.partiallycontains",
+      "m.0wg91ym"
+    ],
+    [
+      "Canada",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "m.0b47c69",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "Saint Kitts and Nevis",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Goascorán River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Cómplices Tour",
+      "time.event.locations",
+      "North America"
+    ],
+    [
+      "Nicaragua",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "SFR Industries",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "m.04zn0pk",
+      "base.thoroughbredracing.horse_owner_relationship.owner",
+      "North America"
+    ],
+    [
+      "Sint Eustatius",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Pioneer Astronautics"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sudoku Gridmaster"
+    ],
+    [
+      "Super Street Fighter IV: 3D Edition",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "National Collegiate Athletic Association"
+    ],
+    [
+      "Ameriquest Transportation Services",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Honduras",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Final Fantasy Gaiden: 4 Warriors of Light",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Mario & Sonic at the Olympic Winter Games",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Pokémon White Version"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Super Street Fighter IV: 3D Edition"
+    ],
+    [
+      "The Legend of Zelda: Twilight Princess",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "m.0wg91x8",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North America"
+    ],
+    [
+      "Montserrat",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.0b47c69"
+    ],
+    [
+      "North America",
+      "location.location.geolocation",
+      "m.02_hw9b"
+    ],
+    [
+      "Pioneer Astronautics",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Pilotwings Resort",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Crystal Fountains"
+    ],
+    [
+      "North America",
+      "base.locations.continents.states_provinces_within",
+      "Wisconsin"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "SACCA"
+    ],
+    [
+      "Overseas France",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.article",
+      "m.059gg"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Mr. Driller Drill Spirits"
+    ],
+    [
+      "Saint Vincent and the Grenadines",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "Barbados",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "North American Federation of Temple Youth"
+    ],
+    [
+      "Assassin's Creed: Brotherhood (360 NA)",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Grenada",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "SACCA",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Cuba",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Antigua and Barbuda",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "MaxCDN"
+    ],
+    [
+      "Turks and Caicos Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Haiti",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "m.046cvv2",
+      "location.adjoining_relationship.adjoins",
+      "North America"
+    ],
+    [
+      "National Collegiate Athletic Association",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Costa Rica",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.partiallycontains",
+      "m.0wg91xs"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Madden NFL 10 Wii"
+    ],
+    [
+      "m.0wg91yg",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North America"
+    ],
+    [
+      "Redmond Consulting, Inc.",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Jamaica",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Belize"
+    ],
+    [
+      "Sonic & Sega All-Stars Racing with Banjo-Kazooie",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Bahamas",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Union of North American Vietnamese Student Associations"
+    ],
+    [
+      "NAWMP Science Support Team",
+      "base.conservationaction.coordinated_program.focal_location",
+      "North America"
+    ],
+    [
+      "Sonic Free Riders",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "El Salvador"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Dragster"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Honduras"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Cuba"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.conservation_project_s",
+      "The Western Hummingbird Project (WHP): Hummingbird Conservation in North America"
+    ],
+    [
+      "Panopticon Software",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Sonic Colors",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.09wyxjh"
+    ],
+    [
+      "North America",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "International New York Times"
+    ],
+    [
+      "m.0b48h3v",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Hunger Project"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Trinidad and Tobago"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sonic Adventure 2 Battle"
+    ],
+    [
+      "The Legend of Zelda",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.thoroughbredracing.thoroughbred_racehorse_owner.horses_owned",
+      "m.04zn0pk"
+    ],
+    [
+      "2Moons",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Hawaii-Aleutian Time Zone"
+    ],
+    [
+      "Ceratopsia",
+      "base.dinosaur.dinosaur.area_s_of_occurrence",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Mario & Sonic at the Olympic Winter Games"
+    ],
+    [
+      "Guadeloupe",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.coordinated_program_s",
+      "Pintail Action Group"
+    ],
+    [
+      "North America",
+      "location.location.containedby",
+      "Western Hemisphere"
+    ],
+    [
+      "m.09y74v6",
+      "common.webpage.topic",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Canada"
+    ],
+    [
+      "North America",
+      "location.location.partiallycontains",
+      "m.0wg91yg"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Eastern Time Zone"
+    ],
+    [
+      "American Registry for Internet Numbers",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Lempa River",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Lego Star Wars III: The Clone Wars"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.coordinated_program_s",
+      "Flyways.us"
+    ],
+    [
+      "The Graphic",
+      "book.newspaper.circulation_areas",
+      "North America"
+    ],
+    [
+      "Great Pyramid of Tenochtitlán",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Genova Diagnostics"
+    ],
+    [
+      "North America",
+      "base.locations.continents.planet",
+      "Earth"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Sonic & Sega All-Stars Racing with Banjo-Kazooie"
+    ],
+    [
+      "Costa Rica",
+      "base.locations.countries.continent",
+      "North America"
+    ],
+    [
+      "m.09dvr9m",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Alaska Time Zone"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Dynasty Tactics"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "2Moons"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Puyo Pop"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Grenada"
+    ],
+    [
+      "Brafton",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Kingdom of Denmark",
+      "location.location.partially_containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.09dvr9m"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Pokémon Gold and Silver"
+    ],
+    [
+      "The Hunger Project",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "location.location.adjoin_s",
+      "m.046cvv2"
+    ],
+    [
+      "North America",
+      "common.topic.notable_types",
+      "Continent"
+    ],
+    [
+      "Grenada",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.schemastaging.context_name.pronunciation",
+      "m.013168rw"
+    ],
+    [
+      "2005 Land Cover of North America at 250 meters",
+      "base.mapcentral.fgdc_identification.place_keyword_s",
+      "North America"
+    ],
+    [
+      "Pilot Fish SEO",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "m.0wg91xs",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North America"
+    ],
+    [
+      "Spider-Man: Web of Shadows DS",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "Ameriquest",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "Mario & Sonic at the Olympic WInter Games",
+      "cvg.game_version.regions",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.states_provinces_within",
+      "Minnesota"
+    ],
+    [
+      "Ornithopoda",
+      "base.dinosaur.dinosaur.area_s_of_occurrence",
+      "North America"
+    ],
+    [
+      "Mexico",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Nicaragua"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "BrightRoll"
+    ],
+    [
+      "NAWMP Science Support Team",
+      "organization.organization.geographic_scope",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "TellUs Leads"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Unique Hosereels"
+    ],
+    [
+      "North America",
+      "base.locations.continents.countries_within",
+      "Saint Kitts and Nevis"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Panopticon Software"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Assassin's Creed: Revelations (360)"
+    ],
+    [
+      "Anguilla",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "m.0_gjrm_",
+      "location.partial_containment_relationship.partially_contained_by",
+      "North America"
+    ],
+    [
+      "North America",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Coastal Reign"
+    ],
+    [
+      "North America",
+      "base.litcentral.focal_location.conservation_project_s",
+      "Birds and Climate Change: On the Move"
+    ],
+    [
+      "North America",
+      "location.location.time_zones",
+      "Mountain Time Zone"
+    ],
+    [
+      "Cayman Islands",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "Sint Maarten",
+      "location.location.containedby",
+      "North America"
+    ],
+    [
+      "North America",
+      "common.topic.webpage",
+      "m.09y74v6"
+    ],
+    [
+      "North America",
+      "location.location.geometry",
+      "m.04kgyy8"
+    ],
+    [
+      "North American Breeding Bird Survey database",
+      "base.abcbirds.conservation_project.project_location_s",
+      "North America"
+    ],
+    [
+      "North America",
+      "cvg.computer_game_region.versions_released_in_this_region",
+      "Madden NFL 10"
+    ]
+  ]
+}

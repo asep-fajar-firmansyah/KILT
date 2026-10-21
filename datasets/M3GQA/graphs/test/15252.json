@@ -1,0 +1,5285 @@
+{
+  "graph_id": 15252,
+  "subgraph": [
+    [
+      "Houston Rockets",
+      "sports.sports_team.arena_stadium",
+      "Toyota Center"
+    ],
+    [
+      "Toyota Center",
+      "sports.sports_facility.teams",
+      "Houston Rockets"
+    ],
+    [
+      "Houston Rockets",
+      "base.sportbase.sport_sport_club.location",
+      "Houston"
+    ],
+    [
+      "Houston Rockets",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "Houston",
+      "sports.sports_team_location.teams",
+      "Houston Rockets"
+    ],
+    [
+      "Houston Rockets",
+      "sports.sports_team.location",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "University Oaks"
+    ],
+    [
+      "University Oaks",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "University Oaks",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Walnut Bend",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Walnut Bend"
+    ],
+    [
+      "Walnut Bend",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Fairbanks"
+    ],
+    [
+      "Fairbanks",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Fairbanks",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Fairbanks",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Settegast",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "sports.sports_team_location.teams",
+      "Houston Texans"
+    ],
+    [
+      "Northshore",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "m.09w_qg3",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Bayou Bend Collection and Gardens",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Weiser Air Park",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Alief",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Afton Oaks",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "m.09xhkf_",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "m.09ypj26",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1fzn2_"
+    ],
+    [
+      "Houston Museum of Natural Science",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Aldine"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1wl"
+    ],
+    [
+      "Spring Branch",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Champion Forest",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Boulevard Oaks",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Champion Forest"
+    ],
+    [
+      "m.0b484sp",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.1jmcbgvbh"
+    ],
+    [
+      "Houston Heights",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Morningside Place"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsnp"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Weiser Air Park"
+    ],
+    [
+      "George Bush Intercontinental Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "St. George Place"
+    ],
+    [
+      "Sunset Terrace",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "William P. Hobby Airport"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09x617n"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Magnolia Grove"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1g2rmy"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xvj38"
+    ],
+    [
+      "Spring Branch",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Southampton"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1jp66j"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s39l"
+    ],
+    [
+      "Logan's Run",
+      "film.film.featured_film_locations",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Children's Museum of Houston"
+    ],
+    [
+      "William P. Hobby Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "The Document Scanning Guys",
+      "organization.organization.geographic_scope",
+      "Houston"
+    ],
+    [
+      "Addicks",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "The Waiter",
+      "film.film.featured_film_locations",
+      "Houston"
+    ],
+    [
+      "Downtown Aquarium, Houston",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Willowbrook"
+    ],
+    [
+      "Rice Military",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Forrest Lake",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Willow Meadows",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Woodland Heights",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Lindale Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.containedby",
+      "Area code 713"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsmc"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Houston Fort Bend Airport"
+    ],
+    [
+      "Cloverland",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Urdu Times"
+    ],
+    [
+      "Ellington Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "David Wayne Hooks Memorial Airport"
+    ],
+    [
+      "Glenbrook Valley",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Port Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsn9"
+    ],
+    [
+      "Houston mayoral election, 2009",
+      "government.election.district",
+      "Houston"
+    ],
+    [
+      "m.09xwv_w",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1ktftz"
+    ],
+    [
+      "Space Center Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Bayou Bend Collection and Gardens"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Rice Village"
+    ],
+    [
+      "Houston Museum of Natural Science",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Magnolia Grove",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Garden Oaks",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1h27mh"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1j6y9f"
+    ],
+    [
+      "m.09x617n",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Harrisburg"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "West Houston Airport"
+    ],
+    [
+      "m.09w_mkg",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "m.09wsnr_",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.hud_foreclosure_area.total_residential_addresses",
+      "m.07cvhym"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Greater Houston Weekly"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1tl"
+    ],
+    [
+      "Addicks",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Northeast News",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.12vqht3m8"
+    ],
+    [
+      "Southgate",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsp1"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1f2kyw"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.1jmcbhfp2"
+    ],
+    [
+      "Rice Military",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.07yrtmg"
+    ],
+    [
+      "Houston",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Document Scanning Guys"
+    ],
+    [
+      "Near Northside, Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Montrose",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Pearland Regional Airport"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Daily Cougar"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Houston Chronicle"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Westheimer Air Park"
+    ],
+    [
+      "m.09x3czt",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Tanglewood",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Cloverland",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Greenspoint",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Willowood",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Alief"
+    ],
+    [
+      "Area code 281",
+      "location.location.contains",
+      "Houston"
+    ],
+    [
+      "Manchester",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Willowbend",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.hud_foreclosure_area.ofheo_price_change",
+      "m.07cvhz4"
+    ],
+    [
+      "Houston Executive Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Sugar Land Regional Airport"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Lakewood Church"
+    ],
+    [
+      "m.07yrt45",
+      "government.government_position_held.jurisdiction_of_office",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Northeast News"
+    ],
+    [
+      "Moonshine Hill",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Uptown Houston",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "m.09dxpqd",
+      "government.government_position_held.jurisdiction_of_office",
+      "Houston"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Royal Oaks Country Club",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Data Shredding Services Houston"
+    ],
+    [
+      "Houston Marathon",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Houston Gulf Airport"
+    ],
+    [
+      "University of Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xrfcw"
+    ],
+    [
+      "Powder",
+      "film.film.featured_film_locations",
+      "Houston"
+    ],
+    [
+      "West Houston Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Lakewood Church",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.image",
+      "Houstontexas1danielarizpe"
+    ],
+    [
+      "Rice Village",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Almeda"
+    ],
+    [
+      "Briargrove Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1mdgz_"
+    ],
+    [
+      "Port Houston",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "George R. Brown Convention Center",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Dan Jones International Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Rice Village",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Memorial"
+    ],
+    [
+      "Houston",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Star of Hope"
+    ],
+    [
+      "m.0h6ldyr",
+      "location.mailing_address.citytown",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1d0y8v"
+    ],
+    [
+      "Pecan Park",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "The Signal",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Shady Acres",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "South Park"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09wpgn1"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Houston Southwest Airport"
+    ],
+    [
+      "Houston",
+      "film.film_location.featured_in_films",
+      "Attention Shoppers"
+    ],
+    [
+      "Uptown Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.hud_county_place.place",
+      "Houston"
+    ],
+    [
+      "m.09ytf22",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Riverside Terrace"
+    ],
+    [
+      "Puncture",
+      "film.film.featured_film_locations",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09x3czt"
+    ],
+    [
+      "Downtown Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1vl"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s392"
+    ],
+    [
+      "m.063s3b2",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Clinton Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "South Main"
+    ],
+    [
+      "Sam Houston",
+      "symbols.name_source.namesakes",
+      "Houston"
+    ],
+    [
+      "St. George Place",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "University of Houston College of Liberal Arts and Social Sciences",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Westheimer Air Park",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Pierce Junction"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Clear Lake City"
+    ],
+    [
+      "Hanna–Barbera Land",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bay Glen"
+    ],
+    [
+      "East End",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0jtcf_k"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1wx"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Space Center Houston"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s3b6"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11b7tcbqts"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Pecan Park"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Northline"
+    ],
+    [
+      "Almeda",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09w_qg3"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s396"
+    ],
+    [
+      "Area code 713",
+      "location.location.contains",
+      "Houston"
+    ],
+    [
+      "Willow Meadows",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Westchase",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston Zoo",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "m.07yrtmg",
+      "government.government_position_held.jurisdiction_of_office",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1g25cd"
+    ],
+    [
+      "Highland Village",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsnh"
+    ],
+    [
+      "Bay Glen",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Port of Houston Authority",
+      "organization.organization.geographic_scope",
+      "Houston"
+    ],
+    [
+      "USS Texas (BB-35)",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Crestwood",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1f8xm7"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Park Place"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.0b472m9"
+    ],
+    [
+      "Near Northside, Houston",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Northshore"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Denver Harbor"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xvh87"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Jeanetta"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0k6khhm"
+    ],
+    [
+      "Area code 832",
+      "location.location.contains",
+      "Houston"
+    ],
+    [
+      "Clinton Park",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Alief",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Morningside Place",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09wnxwq"
+    ],
+    [
+      "Upper Kirby",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Lone Star Executive Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Village at Glen Iris",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1knv7w"
+    ],
+    [
+      "Northshore",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "The Galleria"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Westchase"
+    ],
+    [
+      "Rothko Chapel",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Toyota Center"
+    ],
+    [
+      "Independence Heights",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Magnolia Grove",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Houston Museum of Natural Science"
+    ],
+    [
+      "m.09x3ml3",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houstonmontage2",
+      "common.image.appears_in_topic_gallery",
+      "Houston"
+    ],
+    [
+      "Montgomery County",
+      "location.us_county.hud_county_place",
+      "Houston"
+    ],
+    [
+      "Denver Harbor",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Genoa Township"
+    ],
+    [
+      "Free Press Houston",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Harrisburg",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston Southwest Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.image",
+      "Houstonmontage2"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Ellington Airport"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Briarmeadow"
+    ],
+    [
+      "m.0b6rwdp",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Museum of Fine Arts, Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Magnolia Park"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s39z"
+    ],
+    [
+      "Genoa Township",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Magnolia Park",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Willowbend",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "The Dateline Downtown",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.09dxpqd"
+    ],
+    [
+      "Houston",
+      "business.business_location.parent_company",
+      "Simplilearn"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.07yrt45"
+    ],
+    [
+      "m.063s39b",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Afton Oaks",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1v9"
+    ],
+    [
+      "Houston Astros",
+      "sports.sports_team.location",
+      "Houston"
+    ],
+    [
+      "m.09y1t8j",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Kingwood"
+    ],
+    [
+      "Marilyn Estates",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Memorial",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "sports.sports_team_location.teams",
+      "Cloud 9"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Old Braeswood"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Rice Military"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Willowbend"
+    ],
+    [
+      "Blue Ridge",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Pleasantville"
+    ],
+    [
+      "Downtown Aquarium, Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.agencies",
+      "Houston Fire Department"
+    ],
+    [
+      "Southampton",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Dynamic fitness",
+      "organization.organization.geographic_scope",
+      "Houston"
+    ],
+    [
+      "Bay Glen",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1dw6ph"
+    ],
+    [
+      "William P. Hobby Airport",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1ddsd_"
+    ],
+    [
+      "River Oaks, Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09ypj26"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xwv_w"
+    ],
+    [
+      "Chinatown",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston Fort Bend Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Oak Forest"
+    ],
+    [
+      "Children's Museum of Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Data Shredding Services Houston",
+      "organization.organization.geographic_scope",
+      "Houston"
+    ],
+    [
+      "Crestwood",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Briarmeadow",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Denver Harbor",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1sy"
+    ],
+    [
+      "Aldine",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Sunset Terrace"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsmk"
+    ],
+    [
+      "Almeda",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "m.0k1bcpf",
+      "government.government_position_held.jurisdiction_of_office",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.hud_foreclosure_area.total_90_day_vacant_residential_addresses",
+      "m.07cvhy8"
+    ],
+    [
+      "Houston Aeros",
+      "sports.sports_team.location",
+      "Houston"
+    ],
+    [
+      "Maplewood",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Toyota Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1rv"
+    ],
+    [
+      "Northwest Houston Leader",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lakes of Parkway, Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11b66fk05m"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Timbergrove Manor"
+    ],
+    [
+      "Space Center Houston",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Houston Executive Airport"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1kf38p"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s39q"
+    ],
+    [
+      "Gerald D. Hines Waterwall Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "m.063s3b6",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Briargrove",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "film.film_location.featured_in_films",
+      "Night Game"
+    ],
+    [
+      "Houston Dynamo",
+      "sports.sports_team.location",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Gerald D. Hines Waterwall Park"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Montrose"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.government_bodies",
+      "Houston City Council"
+    ],
+    [
+      "Houston",
+      "location.hud_foreclosure_area.hhuniv",
+      "m.07cvhxh"
+    ],
+    [
+      "Corinthian Pointe",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "St. George Place",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Houston Arboretum and Nature Center"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Kemah Boardwalk"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.07yrt5m"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Marilyn Estates"
+    ],
+    [
+      "Attention Shoppers",
+      "film.film.featured_film_locations",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1x4"
+    ],
+    [
+      "Pecan Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Clear Lake City",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Timbergrove Manor",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Memorial",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Genoa Township",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Downtown Houston",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Southampton",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Upper Kirby",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09y1t8j"
+    ],
+    [
+      "George Bush Intercontinental Airport",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "film.film_location.featured_in_films",
+      "Logan's Run"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Briargrove Park"
+    ],
+    [
+      "Houston",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Dynamic fitness"
+    ],
+    [
+      "Woodland Heights",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston Museum District",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.notable_types",
+      "City/Town/Village"
+    ],
+    [
+      "Rice Thresher",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Maplewood South/North"
+    ],
+    [
+      "Midtown",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Chinatown",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "m.04yw43n",
+      "location.mailing_address.citytown",
+      "Houston"
+    ],
+    [
+      "Southgate",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Bayou Bend Collection and Gardens",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston Heights",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1wb"
+    ],
+    [
+      "Houston",
+      "symbols.namesake.named_after",
+      "Sam Houston"
+    ],
+    [
+      "Magnolia Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "business.employer.employees",
+      "m.04yxqcz"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Dan Jones International Airport"
+    ],
+    [
+      "Area codes 281, 346, 713, and 832",
+      "location.location.contains",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Greenway Plaza"
+    ],
+    [
+      "Pearland Regional Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Jeanetta",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.geolocation",
+      "m.0khgv5"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xslb5"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Corinthian Pointe"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bay Knoll"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1v0"
+    ],
+    [
+      "Houston Chronicle",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston Skyline",
+      "common.image.appears_in_topic_gallery",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Moonshine Hill"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1w2"
+    ],
+    [
+      "Willowbrook",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Pierce Junction",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "fictional_universe.fictional_setting.fictional_characters_born_here",
+      "Jasper Hale"
+    ],
+    [
+      "Houston",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Near Northside, Houston"
+    ],
+    [
+      "Braeswood Place",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Lyndon B. Johnson Space Center",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Independence Heights"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Village at Glen Iris"
+    ],
+    [
+      "Houston",
+      "film.film_location.featured_in_films",
+      "The Waiter"
+    ],
+    [
+      "Westbury",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "base.biblioness.bibs_location.state",
+      "Texas"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsmr"
+    ],
+    [
+      "Museum of Fine Arts, Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Kingwood",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Glenshire"
+    ],
+    [
+      "The Daily Cougar",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Uptown Houston"
+    ],
+    [
+      "Timbergrove Manor",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Rothko Chapel",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11btt54h79"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Rothko Chapel"
+    ],
+    [
+      "Morningside Place",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Larchmont"
+    ],
+    [
+      "Urdu Times",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "m.063s396",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Cloud 9",
+      "sports.sports_team.location",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Braeswood Place"
+    ],
+    [
+      "Glenshire",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Houston Museum District"
+    ],
+    [
+      "Corinthian Pointe",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Clinton Park"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Midtown"
+    ],
+    [
+      "The Galleria",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsnw"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1g8gq8"
+    ],
+    [
+      "Houston",
+      "sports.sports_team_location.teams",
+      "Houston Astros"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1tt"
+    ],
+    [
+      "Riverside Terrace",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09y1nj1"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Boulevard Oaks"
+    ],
+    [
+      "Westbury",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xvbv7"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1tc"
+    ],
+    [
+      "Clear Lake City",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Eastwood"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xksfq"
+    ],
+    [
+      "Aldine",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "m.04yxqcz",
+      "business.employment_tenure.company",
+      "Houston"
+    ],
+    [
+      "Greenway Plaza",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "USS Texas (BB-35)",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston City Council",
+      "government.governmental_body.jurisdiction",
+      "Houston"
+    ],
+    [
+      "Montrose",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Bay Knoll",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Nottingham Forest VIII",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Glenshire",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Chinatown"
+    ],
+    [
+      "Houston",
+      "location.location.containedby",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "University of Houston Law Center",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Greenspoint",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "m.03l3pzw",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Marilyn Estates",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Simplilearn",
+      "organization.organization.locations",
+      "Houston"
+    ],
+    [
+      "Jasper Hale",
+      "fictional_universe.fictional_character.place_of_birth",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Briargrove"
+    ],
+    [
+      "Willowbrook",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Northwest Houston Leader"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1gd53c"
+    ],
+    [
+      "Maplewood South/North",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Independence Heights",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "m.07sr0s1",
+      "business.employment_tenure.company",
+      "Houston"
+    ],
+    [
+      "Sam Houston Race Park",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "sports.sports_team_location.teams",
+      "Houston Aeros"
+    ],
+    [
+      "m.09wnxwq",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "m.0w03tb0",
+      "government.government_position_held.jurisdiction_of_office",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "sports.sports_team_location.teams",
+      "Houston Dynamo"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hslt"
+    ],
+    [
+      "Mykawa",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "m.09x05f2",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Highland Village"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Upper Kirby"
+    ],
+    [
+      "Pleasantville",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "The Katy Sun",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston Zoo",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Lyndon B. Johnson Space Center"
+    ],
+    [
+      "Houston",
+      "common.topic.subject_of",
+      "Engage the crowd Houston"
+    ],
+    [
+      "Sugar Land Regional Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Northcliffe Manor",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Manchester",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "m.09xvh87",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston Press",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Northline",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Copperfield"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Westbury"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1lz6h1"
+    ],
+    [
+      "Garden Oaks",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1t4"
+    ],
+    [
+      "m.063s39l",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Park Place",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Manchester"
+    ],
+    [
+      "Park Place",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Houston Marathon"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0w03tb0"
+    ],
+    [
+      "Night Game",
+      "film.film.featured_film_locations",
+      "Houston"
+    ],
+    [
+      "m.063s39q",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.1jmcbg79z"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "George R. Brown Convention Center"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsp7"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsl_"
+    ],
+    [
+      "Houston Museum District",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "River Oaks, Houston"
+    ],
+    [
+      "m.09xksfq",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.notable_for",
+      "g.125fy1p_r"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Settegast"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Tanglewood"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "USS Texas (BB-35)"
+    ],
+    [
+      "m.09xvj38",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "David Wayne Hooks Memorial Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "m.0fp935m",
+      "base.popstra.arrest.location",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "base.popstra.location.arrestee",
+      "m.0fp935m"
+    ],
+    [
+      "Moores School of Music",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Mykawa"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Downtown Houston"
+    ],
+    [
+      "Houston",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Synergy Insulation"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xyf94"
+    ],
+    [
+      "Willowood",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Briargrove Park",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "City Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Bay Knoll",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "George Bush Intercontinental Airport"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "North Star News"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Free Press Houston"
+    ],
+    [
+      "Larchmont",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "East End"
+    ],
+    [
+      "Jeanetta",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Bay Forest",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "North Star News",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0jtbdh1"
+    ],
+    [
+      "Oak Forest",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Dateline Downtown"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s39g"
+    ],
+    [
+      "Kingwood",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Forrest Lake",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Settegast",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Gulfton"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hsm5"
+    ],
+    [
+      "Houston Gulf Airport",
+      "aviation.airport.serves",
+      "Houston"
+    ],
+    [
+      "Riverside Terrace",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "government.governmental_jurisdiction.governing_officials",
+      "m.0k1bcpf"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Spring Branch"
+    ],
+    [
+      "South Park",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Midtown",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "University of Houston, main campus",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Blue Ridge"
+    ],
+    [
+      "Houston",
+      "location.hud_foreclosure_area.bls_unemployment_rate",
+      "m.07cvhyx"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Katy Sun"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Bay Forest"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09ytf22"
+    ],
+    [
+      "Houston",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "Larchmont",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Northcliffe Manor",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "South Main",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Copperfield",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Bay Forest",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Moonshine Hill",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Port Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Addicks"
+    ],
+    [
+      "Houston",
+      "location.location.nearby_airports",
+      "Lone Star Executive Airport"
+    ],
+    [
+      "Museum of Fine Arts, Houston",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "m.07yrt5m",
+      "government.government_position_held.jurisdiction_of_office",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Woodland Heights"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Houston Post"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Maplewood"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s3b2"
+    ],
+    [
+      "Pleasantville",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Old Braeswood",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston Texans",
+      "sports.sports_team.location",
+      "Houston"
+    ],
+    [
+      "m.09xvjf2",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Houston Heights"
+    ],
+    [
+      "Garden Villas",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09wsnr_"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Southgate"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09y5wty"
+    ],
+    [
+      "Maplewood South/North",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Oak Forest",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1djhvb"
+    ],
+    [
+      "South Main",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houstontexas1danielarizpe",
+      "common.image.appears_in_topic_gallery",
+      "Houston"
+    ],
+    [
+      "Harrisburg",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston Fire Department",
+      "government.government_agency.jurisdiction",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1sj"
+    ],
+    [
+      "Glenbrook Valley",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Greenspoint"
+    ],
+    [
+      "Boulevard Oaks",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Synergy Insulation",
+      "organization.organization.geographic_scope",
+      "Houston"
+    ],
+    [
+      "m.09wpgn1",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Nottingham Forest VIII"
+    ],
+    [
+      "Kemah Boardwalk",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Garden Villas"
+    ],
+    [
+      "Star of Hope",
+      "organization.organization.geographic_scope",
+      "Houston"
+    ],
+    [
+      "Nottingham Forest VIII",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Collegian"
+    ],
+    [
+      "Neartown Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Sunset Terrace",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Pierce Junction",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "m.0b472m9",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Bauer College of Business",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Willowood"
+    ],
+    [
+      "m.09y5wty",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Children's Museum of Houston",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Wet'n'Wild SplashTown"
+    ],
+    [
+      "m.09xvbv7",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "business.employer.employees",
+      "m.07sr0s1"
+    ],
+    [
+      "Champion Forest",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Cloverland"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Houston Zoo"
+    ],
+    [
+      "Houston",
+      "government.political_district.elections",
+      "Houston mayoral election, 2009"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Lindale Park"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.1jmcbgvyy"
+    ],
+    [
+      "m.0jvvtvv",
+      "location.administrative_division_capital_relationship.capital",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s39v"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hspf"
+    ],
+    [
+      "m.063s39z",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09x3ml3"
+    ],
+    [
+      "Greenway Plaza",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "base.petbreeds.city_with_dogs.top_breeds",
+      "m.063s39b"
+    ],
+    [
+      "Highland Village",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Jewish Herald-Voice",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Rice Thresher"
+    ],
+    [
+      "Lakes of Parkway, Houston",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "City Park",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "organization.organization_scope.organizations_with_this_scope",
+      "Port of Houston Authority"
+    ],
+    [
+      "Houston",
+      "film.film_location.featured_in_films",
+      "Powder"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Afton Oaks"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "City Park"
+    ],
+    [
+      "m.063s39v",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Maplewood",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Westchase",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Wet'n'Wild SplashTown",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Tanglewood",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Greater Houston Weekly",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "George R. Brown Convention Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "East End",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1s9"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1s2"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "The Signal"
+    ],
+    [
+      "Gulfton",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Sam Houston Race Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.0b6rwdp"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1lrb29"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Downtown Aquarium, Houston"
+    ],
+    [
+      "Gulfton",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Toyota Center",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Jewish Herald-Voice"
+    ],
+    [
+      "Garden Villas",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Garden Oaks"
+    ],
+    [
+      "Houston",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Houston Press"
+    ],
+    [
+      "Shady Acres",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Eastwood",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Northline",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Lyndon B. Johnson Space Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xvjf2"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.1jmcbfmkm"
+    ],
+    [
+      "m.063s392",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Blue Ridge",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.location.containedby",
+      "Area code 281"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.064hslm"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Willow Meadows"
+    ],
+    [
+      "Old Braeswood",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.0b484sp"
+    ],
+    [
+      "Houston",
+      "location.hud_county_place.county",
+      "Montgomery County"
+    ],
+    [
+      "Houston Post",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Village at Glen Iris",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1xc"
+    ],
+    [
+      "m.09xrfcw",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "m.09xslb5",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Copperfield",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09w_mkg"
+    ],
+    [
+      "Eastwood",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Royal Oaks Country Club"
+    ],
+    [
+      "Houston",
+      "location.location.containedby",
+      "Area code 832"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Hanna–Barbera Land"
+    ],
+    [
+      "Houston",
+      "common.topic.image",
+      "Houston Skyline"
+    ],
+    [
+      "Mykawa",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "River Oaks, Houston",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "travel.travel_destination.tourist_attractions",
+      "Sam Houston Race Park"
+    ],
+    [
+      "Briarmeadow",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "m.0hmg1vv"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09xhkf_"
+    ],
+    [
+      "South Park",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Neartown Houston",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "book.book_subject.works",
+      "Countdown of 10 Great Moments in 2010 Part 2 Beyonce and Jay-Z"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1h1rpz"
+    ],
+    [
+      "Houston Arboretum and Nature Center",
+      "travel.tourist_attraction.near_travel_destination",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Glenbrook Valley"
+    ],
+    [
+      "Houston",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Royal Oaks Country Club",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.capital_of_administrative_division.capital_of",
+      "m.0jvvtvv"
+    ],
+    [
+      "Houston",
+      "location.hud_foreclosure_area.estimated_number_foreclosures",
+      "m.07cvhxs"
+    ],
+    [
+      "Briargrove",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "Braeswood Place",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "Lakes of Parkway, Houston",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "The Collegian",
+      "book.newspaper.circulation_areas",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.statistical_region.population",
+      "g.11x1jcj6t"
+    ],
+    [
+      "m.09y1nj1",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Countdown of 10 Great Moments in 2010 Part 2 Beyonce and Jay-Z",
+      "book.written_work.subjects",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Northcliffe Manor"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.03l3pzw"
+    ],
+    [
+      "m.09xyf94",
+      "common.webpage.topic",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "film.film_location.featured_in_films",
+      "Puncture"
+    ],
+    [
+      "Engage the crowd Houston",
+      "common.topic.subjects",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Neartown Houston"
+    ],
+    [
+      "Houston",
+      "location.hud_foreclosure_area.estimated_number_of_mortgages",
+      "m.07cvhy0"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Crestwood"
+    ],
+    [
+      "Lindale Park",
+      "location.neighborhood.neighborhood_of",
+      "Houston"
+    ],
+    [
+      "The Galleria",
+      "location.location.containedby",
+      "Houston"
+    ],
+    [
+      "m.063s39g",
+      "base.petbreeds.dog_city_relationship.cities",
+      "Houston"
+    ],
+    [
+      "Houston",
+      "common.topic.webpage",
+      "m.09x05f2"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Shady Acres"
+    ],
+    [
+      "Houston",
+      "location.place_with_neighborhoods.neighborhoods",
+      "Forrest Lake"
+    ],
+    [
+      "Toyota Center",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.colors",
+      "White"
+    ],
+    [
+      "Houston Cougars football",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "Houston Cougars men's basketball",
+      "sports.sports_team.colors",
+      "White"
+    ],
+    [
+      "Almeda",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Northshore",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "base.locations.countries.states_provinces_within",
+      "Texas"
+    ],
+    [
+      "Eastwood",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Tanglewood",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Bay Glen",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Oak Forest",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Children's Museum of Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Alief",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Bay Forest",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Greenspoint",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Denver Harbor",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Montrose",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Night Game",
+      "film.film.featured_film_locations",
+      "Texas"
+    ],
+    [
+      "Pierce Junction",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.first_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Southampton",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Jewish Herald-Voice",
+      "book.newspaper.circulation_areas",
+      "Texas"
+    ],
+    [
+      "Lyndon B. Johnson Space Center",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Independence Heights",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Space Center Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.administrative_division.country",
+      "United States of America"
+    ],
+    [
+      "Texas",
+      "film.film_location.featured_in_films",
+      "Night Game"
+    ],
+    [
+      "Spring Branch",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Boulevard Oaks",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "East End",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Aldine",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Lindale Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Kingwood",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Jewish Herald-Voice"
+    ],
+    [
+      "Afton Oaks",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Houston Heights",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Area code 281",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Addicks",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Shady Acres",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "University of Houston College of Liberal Arts and Social Sciences",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Westbury",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "m.0h6ldyr",
+      "location.mailing_address.state_province_region",
+      "Texas"
+    ],
+    [
+      "Harrisburg",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Moores School of Music",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "USS Texas (BB-35)",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Jeanetta",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Kemah Boardwalk",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Willowbend",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Briargrove",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Glenshire",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Museum of Fine Arts, Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Clear Lake City",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "University of Houston, main campus",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Gulfton",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Pecan Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "University of Houston Sugar Land",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Bauer College of Business",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Maplewood",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "South Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Area code 832",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Clinton Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "location.country.administrative_divisions",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "United States of America"
+    ],
+    [
+      "Port Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "River Oaks, Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Area code 713",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Blue Ridge",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Cloverland",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Manchester",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Bay Knoll",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Area codes 281, 346, 713, and 832",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Bayou Bend Collection and Gardens",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Riverside Terrace",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Northcliffe Manor",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Southgate",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "m.04yw43n",
+      "location.mailing_address.state_province_region",
+      "Texas"
+    ],
+    [
+      "Lakes of Parkway, Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Magnolia Park",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Houston Zoo",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "base.biblioness.bibs_location.country",
+      "United States of America"
+    ],
+    [
+      "University of Houston Law Center",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Highland Village",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Garden Oaks",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Lakewood Church",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Northline",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Willowbrook",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "The Document Scanning Guys",
+      "organization.organization.geographic_scope",
+      "Texas"
+    ],
+    [
+      "Montgomery County",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "Texas"
+    ],
+    [
+      "Mykawa",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Rice Military",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Westchase",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Settegast",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Magnolia Grove",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "base.locations.states_and_provences.country",
+      "United States of America"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Woodland Heights",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "University of Houston",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Pleasantville",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Houston Museum of Natural Science",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "Texas",
+      "organization.organization_scope.organizations_with_this_scope",
+      "The Document Scanning Guys"
+    ],
+    [
+      "Old Braeswood",
+      "location.location.containedby",
+      "Texas"
+    ],
+    [
+      "United States of America",
+      "location.country.first_level_divisions",
+      "Texas"
+    ],
+    [
+      "Alief",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Aldine",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Aldine",
+      "location.hud_county_place.place",
+      "Aldine"
+    ],
+    [
+      "Clear Lake City",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Forrest Lake",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Upper Kirby",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Chinatown",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Midtown",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Kingwood",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Garden Oaks",
+      "base.wikipedia_infobox.settlement.area_code",
+      "Area codes 281, 346, 713, and 832"
+    ],
+    [
+      "Houston Heights",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "George Bush Intercontinental Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "William P. Hobby Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Logan's Run",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "The Document Scanning Guys",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "The Waiter",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Cloverland",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Urdu Times",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "Ellington Airport",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Greater Houston Weekly",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "Northeast News",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "Montgomery County",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Northeast News"
+    ],
+    [
+      "Northeast News",
+      "book.newspaper.circulation_areas",
+      "Montgomery County"
+    ],
+    [
+      "The Daily Cougar",
+      "book.periodical.format",
+      "m.02npbn5"
+    ],
+    [
+      "The Daily Cougar",
+      "book.periodical.first_issue_date",
+      "m.02npqt3"
+    ],
+    [
+      "The Daily Cougar",
+      "common.topic.notable_for",
+      "g.125c049yy"
+    ],
+    [
+      "m.02npbn5",
+      "book.periodical_format_period.periodical",
+      "The Daily Cougar"
+    ],
+    [
+      "The Daily Cougar",
+      "book.newspaper.owner",
+      "University of Houston"
+    ],
+    [
+      "The Daily Cougar",
+      "common.topic.notable_types",
+      "School newspaper"
+    ],
+    [
+      "The Daily Cougar",
+      "book.periodical.format",
+      "m.04m1gw_"
+    ],
+    [
+      "The Daily Cougar",
+      "book.newspaper.headquarters",
+      "m.04yw43n"
+    ],
+    [
+      "m.04m1gw_",
+      "book.periodical_format_period.periodical",
+      "The Daily Cougar"
+    ],
+    [
+      "m.03ln3x_",
+      "common.webpage.topic",
+      "The Daily Cougar"
+    ],
+    [
+      "The Daily Cougar",
+      "common.topic.article",
+      "m.02qsvp"
+    ],
+    [
+      "University of Houston",
+      "book.newspaper_owner.newspapers_owned",
+      "The Daily Cougar"
+    ],
+    [
+      "The Daily Cougar",
+      "book.periodical.frequency_or_issues_per_year",
+      "m.0770ch2"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.newspaper",
+      "The Daily Cougar"
+    ],
+    [
+      "The Daily Cougar",
+      "education.school_newspaper.school",
+      "University of Houston"
+    ],
+    [
+      "The Daily Cougar",
+      "common.topic.webpage",
+      "m.03ln3x_"
+    ],
+    [
+      "The Daily Cougar",
+      "book.newspaper.headquarters",
+      "m.0ccfj4t"
+    ],
+    [
+      "Montgomery County",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Houston Chronicle"
+    ],
+    [
+      "Houston Chronicle",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "Houston Chronicle",
+      "book.newspaper.circulation_areas",
+      "Montgomery County"
+    ],
+    [
+      "Sugar Land Regional Airport",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "education.educational_institution_campus.educational_institution",
+      "Hilton College of Hotel and Restaurant Management"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "Hilton College of Hotel and Restaurant Management"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "education.educational_institution.parent_institution",
+      "University of Houston"
+    ],
+    [
+      "Hilton College of Hotel and Restaurant Management",
+      "education.educational_institution.campuses",
+      "Hilton College of Hotel and Restaurant Management"
+    ],
+    [
+      "University of Houston",
+      "education.university.number_of_undergraduates",
+      "m.0zw03hp"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hmx1r"
+    ],
+    [
+      "University of Houston",
+      "common.topic.webpage",
+      "m.0422541"
+    ],
+    [
+      "University of Houston",
+      "education.university.domestic_tuition",
+      "m.0k7h28r"
+    ],
+    [
+      "University of Houston",
+      "education.university.local_tuition",
+      "m.0k8sd4g"
+    ],
+    [
+      "University of Houston",
+      "organization.organization.leadership",
+      "m.0h6ldzj"
+    ],
+    [
+      "m.03ldbk9",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.campuses",
+      "University of Houston, main campus"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "Cullen College of Engineering"
+    ],
+    [
+      "m.04gd1s8",
+      "organization.organization_board_membership.organization",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "organization.organization.headquarters",
+      "m.0h6ldyr"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hctvx"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hlwd3"
+    ],
+    [
+      "m.04hsvpr",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.0zw0w_f",
+      "organization.organization_relationship.child",
+      "University of Houston"
+    ],
+    [
+      "University of Houston Sugar Land",
+      "education.educational_institution_campus.educational_institution",
+      "University of Houston"
+    ],
+    [
+      "m.04hlbmx",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.03ldbk9"
+    ],
+    [
+      "University of Houston, main campus",
+      "education.educational_institution_campus.educational_institution",
+      "University of Houston"
+    ],
+    [
+      "m.0422541",
+      "common.webpage.topic",
+      "University of Houston"
+    ],
+    [
+      "m.04hnq5q",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "base.schemastaging.organization_extra.contact_webpages",
+      "m.010h0d3w"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hdd3j"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.campuses",
+      "Lone Star College–University Park"
+    ],
+    [
+      "University of Houston",
+      "education.university.acceptance_rate",
+      "m.0zw052m"
+    ],
+    [
+      "University of Houston",
+      "freebase.valuenotation.has_value",
+      "Founders"
+    ],
+    [
+      "m.04hmx1r",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "Houston Cougars men's basketball",
+      "sports.school_sports_team.school",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.0105xqgq"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.012r340d"
+    ],
+    [
+      "Houston Cougars football",
+      "sports.school_sports_team.school",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.university.domestic_tuition",
+      "m.0kdpqdx"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hj4cf"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hfksj"
+    ],
+    [
+      "m.0h6ldzj",
+      "organization.leadership.organization",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "organization.organization.parent",
+      "m.0zw0w_f"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.faculty",
+      "m.0k8_8s7"
+    ],
+    [
+      "University of Houston",
+      "education.university.number_of_undergraduates",
+      "m.0k7h0zx"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.school_type",
+      "University"
+    ],
+    [
+      "m.04hk64j",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.04hlwd3",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.0cmhzb1"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hh3sr"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hq1kt"
+    ],
+    [
+      "m.04hfksj",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.university.acceptance_rate",
+      "m.011__jgb"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hk_t0"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.sports_teams",
+      "Houston Cougars football"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hnl76"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.campuses",
+      "University of Houston Sugar Land"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hk64j"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hnq5q"
+    ],
+    [
+      "m.0whc9_p",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.university.number_of_postgraduates",
+      "m.0k8_8kx"
+    ],
+    [
+      "University of Houston",
+      "education.university.departments",
+      "University of Houston Creative Writing Program"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hcx5l"
+    ],
+    [
+      "University of Houston",
+      "education.university.international_tuition",
+      "m.0zw049d"
+    ],
+    [
+      "m.0gb1ggv",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.0g69xww"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hw1jn"
+    ],
+    [
+      "m.04hw1jn",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.0h6lf5g",
+      "award.ranking.item",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.mascot",
+      "University of Houston Shasta"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.0nbvstb"
+    ],
+    [
+      "m.04hq1kt",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.0105xqgq",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hn9rz"
+    ],
+    [
+      "University of Houston",
+      "education.university.domestic_tuition",
+      "m.0h6_s7v"
+    ],
+    [
+      "m.04hk_t0",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.0cmhzb1",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston College of Liberal Arts and Social Sciences",
+      "education.educational_institution.parent_institution",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "University of Houston Law Center"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.total_enrollment",
+      "m.0zw03nn"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "Moores School of Music"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "Hines College of Architecture"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.athletics_brand",
+      "Houston Cougars"
+    ],
+    [
+      "University of Houston",
+      "common.topic.notable_for",
+      "g.1256nntc8"
+    ],
+    [
+      "University of Houston",
+      "education.university.local_tuition",
+      "m.0zw0459"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hkqv9"
+    ],
+    [
+      "m.04hh3sr",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "location.location.geolocation",
+      "m.0112r1m3"
+    ],
+    [
+      "m.04hdd3j",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hs7qp"
+    ],
+    [
+      "University of Houston",
+      "award.award_nominee.award_nominations",
+      "m.0ywhyw6"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.sports_teams",
+      "Houston Cougars men's basketball"
+    ],
+    [
+      "University of Houston",
+      "book.periodical_publisher.periodicals_published",
+      "m.010674lm"
+    ],
+    [
+      "m.04hnl76",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.04hn9rz",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hsvpr"
+    ],
+    [
+      "University of Houston",
+      "education.university.acceptance_rate",
+      "m.0h744w5"
+    ],
+    [
+      "Houston Cougars",
+      "education.athletics_brand.institution",
+      "University of Houston"
+    ],
+    [
+      "m.012r340d",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.04hs24y",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "organization.endowed_organization.endowment",
+      "m.0zw051q"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04gcs2g"
+    ],
+    [
+      "m.04hcx5l",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.04hmh8g",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.0lyw7k3"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hlbmx"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hmh8g"
+    ],
+    [
+      "m.0zw0370",
+      "award.ranking.item",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "organization.endowed_organization.endowment",
+      "m.0h6lf0n"
+    ],
+    [
+      "University of Houston",
+      "organization.organization.board_members",
+      "m.04gd1s8"
+    ],
+    [
+      "m.04gcs2g",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.0_srkxr",
+      "award.award_nomination.award_nominee",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.university.local_tuition",
+      "m.0k8sbsb"
+    ],
+    [
+      "University of Houston",
+      "education.university.local_tuition",
+      "m.0h6_s7m"
+    ],
+    [
+      "m.0ywhyw6",
+      "award.award_nomination.award_nominee",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "award.ranked_item.appears_in_ranked_lists",
+      "m.0zw0370"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "University of Houston College of Liberal Arts and Social Sciences"
+    ],
+    [
+      "University of Houston",
+      "common.topic.webpage",
+      "m.03lkz8y"
+    ],
+    [
+      "University of Houston",
+      "education.university.number_of_undergraduates",
+      "m.0h77t04"
+    ],
+    [
+      "Bauer College of Business",
+      "education.educational_institution.parent_institution",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.university.number_of_postgraduates",
+      "m.0zw03l7"
+    ],
+    [
+      "University of Houston",
+      "award.award_nominee.award_nominations",
+      "m.0_srkxr"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.subsidiary_or_constituent_schools",
+      "Bauer College of Business"
+    ],
+    [
+      "m.04hkqv9",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.04hj4cf",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "common.topic.article",
+      "m.02gr86"
+    ],
+    [
+      "m.04hs7qp",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.04hctvx",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hs9fy"
+    ],
+    [
+      "University of Houston",
+      "award.ranked_item.appears_in_ranked_lists",
+      "m.0h6lf5g"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.0whc9_p"
+    ],
+    [
+      "University of Houston",
+      "education.university.domestic_tuition",
+      "m.0zw0488"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hs24y"
+    ],
+    [
+      "m.0g69xww",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.colors",
+      "Scarlet"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.04hlcty"
+    ],
+    [
+      "University of Houston Law Center",
+      "education.educational_institution.parent_institution",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "m.010674lm",
+      "book.periodical_publisher_period.publisher",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "business.employer.employees",
+      "m.0gb1ggv"
+    ],
+    [
+      "University of Houston",
+      "education.university.domestic_tuition",
+      "m.0k8_mz8"
+    ],
+    [
+      "University of Houston",
+      "base.rivalries.rival.rivals",
+      "Houston–Rice rivalry"
+    ],
+    [
+      "m.0lyw7k3",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.03lkz8y",
+      "common.webpage.topic",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "m.04hs9fy",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.0nbvstb",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "m.04hlcty",
+      "business.employment_tenure.company",
+      "University of Houston"
+    ],
+    [
+      "Moores School of Music",
+      "education.educational_institution.parent_institution",
+      "University of Houston"
+    ],
+    [
+      "University of Houston",
+      "education.educational_institution.phone_number",
+      "m.0h6ldz3"
+    ],
+    [
+      "University of Houston",
+      "education.university.local_tuition",
+      "m.0k7zykb"
+    ],
+    [
+      "Powder",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "m.0h6ldyr",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "m.0h6ldyr",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "The Signal",
+      "common.topic.notable_types",
+      "School newspaper"
+    ],
+    [
+      "Attention Shoppers",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Puncture",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Sam Houston",
+      "people.person.nationality",
+      "United States of America"
+    ],
+    [
+      "University of Houston College of Liberal Arts and Social Sciences",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "University of Houston College of Liberal Arts and Social Sciences",
+      "education.educational_institution_campus.educational_institution",
+      "University of Houston College of Liberal Arts and Social Sciences"
+    ],
+    [
+      "University of Houston College of Liberal Arts and Social Sciences",
+      "education.educational_institution.campuses",
+      "University of Houston College of Liberal Arts and Social Sciences"
+    ],
+    [
+      "University of Houston College of Liberal Arts and Social Sciences",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Clear Lake City",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Upper Kirby",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Lone Star Executive Airport",
+      "location.location.containedby",
+      "Montgomery County"
+    ],
+    [
+      "Montgomery County",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "Northwest Houston Leader"
+    ],
+    [
+      "Montgomery County",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Northwest Houston Leader",
+      "book.newspaper.circulation_areas",
+      "Montgomery County"
+    ],
+    [
+      "Montgomery County",
+      "location.administrative_division.second_level_division_of",
+      "United States of America"
+    ],
+    [
+      "Free Press Houston",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "The Dateline Downtown",
+      "common.topic.notable_types",
+      "School newspaper"
+    ],
+    [
+      "Kingwood",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Northwest Houston Leader",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "Lakes of Parkway, Houston",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Night Game",
+      "film.film.country",
+      "United States of America"
+    ],
+    [
+      "Houston City Council",
+      "government.governmental_body.members",
+      "m.0w03tb0"
+    ],
+    [
+      "Houston City Council",
+      "government.governmental_body.members",
+      "m.07yrt5m"
+    ],
+    [
+      "m.0w03tb0",
+      "government.government_position_held.governmental_body",
+      "Houston City Council"
+    ],
+    [
+      "m.07yrt5m",
+      "government.government_position_held.governmental_body",
+      "Houston City Council"
+    ],
+    [
+      "Kemah Boardwalk",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Kemah Boardwalk",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Topic"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.kind",
+      "Definition"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_hints.included_types",
+      "Location"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.published",
+      "Published"
+    ],
+    [
+      "City/Town/Village",
+      "freebase.type_profile.strict_included_types",
+      "Location"
+    ],
+    [
+      "Rice Thresher",
+      "common.topic.notable_types",
+      "School newspaper"
+    ],
+    [
+      "Midtown",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "m.04yw43n",
+      "location.mailing_address.postal_code",
+      "77204"
+    ],
+    [
+      "m.04yw43n",
+      "common.topic.notable_for",
+      "g.1q5zsc874"
+    ],
+    [
+      "m.04yw43n",
+      "common.topic.notable_types",
+      "Location"
+    ],
+    [
+      "Synergy Insulation",
+      "organization.organization.place_founded",
+      "United States of America"
+    ],
+    [
+      "Synergy Insulation",
+      "organization.organization.geographic_scope",
+      "United States of America"
+    ],
+    [
+      "77204",
+      "location.postal_code.country",
+      "United States of America"
+    ],
+    [
+      "m.0ccfj4t",
+      "location.mailing_address.country",
+      "United States of America"
+    ],
+    [
+      "Wet'n'Wild SplashTown",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "Moores School of Music",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Houston Law Center",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.is_really",
+      "United States of America"
+    ],
+    [
+      "Bauer College of Business",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "University of Houston, main campus",
+      "location.location.containedby",
+      "United States of America"
+    ],
+    [
+      "United States of America",
+      "base.biblioness.bibs_topic.subsumes",
+      "United States of America"
+    ],
+    [
+      "University of Houston Law Center",
+      "education.educational_institution.campuses",
+      "University of Houston Law Center"
+    ],
+    [
+      "University of Houston Law Center",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "University of Houston Law Center",
+      "education.educational_institution_campus.educational_institution",
+      "University of Houston Law Center"
+    ],
+    [
+      "University of Houston Law Center",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "m.03l3pzw",
+      "common.webpage.category",
+      "Official Website"
+    ],
+    [
+      "The Katy Sun",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "Houston Press",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "Moores School of Music",
+      "education.educational_institution_campus.educational_institution",
+      "Moores School of Music"
+    ],
+    [
+      "Moores School of Music",
+      "education.educational_institution.campuses",
+      "Moores School of Music"
+    ],
+    [
+      "Moores School of Music",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Synergy Insulation",
+      "freebase.valuenotation.is_reviewed",
+      "Founders"
+    ],
+    [
+      "North Star News",
+      "common.topic.notable_types",
+      "School newspaper"
+    ],
+    [
+      "Gulfton",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Houston Post",
+      "common.topic.notable_types",
+      "Newspaper"
+    ],
+    [
+      "The Collegian",
+      "common.topic.notable_types",
+      "School newspaper"
+    ],
+    [
+      "Bauer College of Business",
+      "education.educational_institution_campus.educational_institution",
+      "Bauer College of Business"
+    ],
+    [
+      "Bauer College of Business",
+      "common.topic.notable_types",
+      "College/University"
+    ],
+    [
+      "Bauer College of Business",
+      "education.educational_institution.school_type",
+      "Public university"
+    ],
+    [
+      "Bauer College of Business",
+      "education.educational_institution.campuses",
+      "Bauer College of Business"
+    ],
+    [
+      "Wet'n'Wild SplashTown",
+      "location.location.time_zones",
+      "Central Time Zone"
+    ],
+    [
+      "Jewish Herald-Voice",
+      "common.topic.notable_types",
+      "Newspaper"
+    ]
+  ]
+}

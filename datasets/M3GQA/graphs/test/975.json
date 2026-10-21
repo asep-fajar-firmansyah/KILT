@@ -1,0 +1,4585 @@
+{
+  "graph_id": 975,
+  "subgraph": [
+    [
+      "Greg Walters",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Greg Walters",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Greg Walters",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Greg Walters",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Greg Walters",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Greg Walters",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Greg Walters"
+    ],
+    [
+      "Jim Benning",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "Jim Benning",
+      "base.schemastaging.sports_team_manager.teams_managed",
+      "m.010nvcrq"
+    ],
+    [
+      "Jim Benning",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jim Benning",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "m.010nvcrq",
+      "base.schemastaging.sports_team_manager_tenure.manager",
+      "Jim Benning"
+    ],
+    [
+      "Jim Benning",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Trevor Linden",
+      "ice_hockey.hockey_player.hockey_position",
+      "Centerman"
+    ],
+    [
+      "m.010671n8",
+      "organization.leadership.person",
+      "Trevor Linden"
+    ],
+    [
+      "Trevor Linden",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Trevor Linden",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Trevor Linden",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Trevor Linden",
+      "business.board_member.leader_of",
+      "m.010671n8"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Andrew Allen"
+    ],
+    [
+      "Andrew Allen",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Andrew Allen",
+      "people.person.profession",
+      "Athlete"
+    ],
+    [
+      "Andrew Allen",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Andrew Allen",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andrew Allen",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Andrew Allen",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Andrew Allen",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Alain Vigneault",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Ken Tyler",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Terry Ewasiuk",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Scott Carter",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Peter Horachek",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "John Tortorella",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Gerard Gallant",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Mike Corbett",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Tom Pokel",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Craig Bonner",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Athlete",
+      "base.lightweight.profession.similar_professions",
+      "Coach"
+    ],
+    [
+      "Coach",
+      "base.lightweight.profession.professions_similar",
+      "Athlete"
+    ],
+    [
+      "George Hardy",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Dan Bylsma",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Mike Sertich",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Ted Nolan",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Lee Davidson",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Mike Gilligan",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "Willie Desjardins",
+      "people.person.profession",
+      "Coach"
+    ],
+    [
+      "André Tourigny",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Peter Horachek",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "George Hardy",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Ted Nolan",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Tom Pokel",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "John Tortorella",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Gerard Gallant",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Sylvio Mantha",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Marsh Ryman",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Dan Bylsma",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Mike Corbett",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Willie Desjardins",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Alain Vigneault",
+      "common.topic.notable_types",
+      "Ice hockey coach"
+    ],
+    [
+      "Athlete",
+      "people.profession.specializations",
+      "Ice hockey player"
+    ],
+    [
+      "Craig Bonner",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Dave Smith",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Scott Carter",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Doug Lidster",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Lee Davidson",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Mike Sertich",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Ice hockey player",
+      "people.profession.specialization_of",
+      "Athlete"
+    ],
+    [
+      "Henrik Sedin",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Terry Ewasiuk",
+      "people.person.profession",
+      "Ice hockey player"
+    ],
+    [
+      "Matt Pavelich",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bill Chadwick",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jim Paek",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Wes McCauley",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marcus Vinnerborg",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ted Nolan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Wally Harris",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Henrik Sedin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mark Faucette",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dave Smith",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Craig Bonner",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ian Walsh",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Odie Cleghorn",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ryan Bozak",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Leggo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Rob Shick",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "André Tourigny",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Gilligan",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jay Sharrers",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Andy Van Hellemond",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gerard Gallant",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Swede Knox",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kevin Collins",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Brad Watson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Greg Kimmerly",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Don Koharski",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ken Tyler",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Frank Udvari",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ernie Leacock",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Don Van Massenhoven",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kevin Pollock",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mickey Ion",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mick McGeough",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pat Dapuzzo",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dan O'Halloran",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Fred Waghorne",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Red Storey",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dan O'Rourke",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "William Earl Ormshaw",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John Tortorella",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dan Bylsma",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Peter Horachek",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Shane Heyer",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Franz Baader",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sylvio Mantha",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ray Scapinello",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Scotty Morrison",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Denis Morel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gérard Gauthier",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Hasenfratz",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pierre Racicot",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chris Lee",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "George Hayes",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John D'Amico",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Pierre Champoux",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Marc Joannette",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Corbett",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dennis LaRue",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "George Hardy",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bob Hodges",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Randy Mitton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Neil Armstrong",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bryan Lewis",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Willie Desjardins",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Gord Broseker",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tommy Sedin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bill McCreary",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Terry Ewasiuk",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bill Stewart",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Cooper Smeaton",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stephen Walkom",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Eddie Livingstone",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Sertich",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Mike Rodden",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ron Asselstine",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Chaucer Elliott",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bobby Hewitson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kevin Maguire",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Pokel",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Daniel Podgaichenko",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Scott Carter",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ron Wicks",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Wayne Bonney",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Doug Lidster",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Bruce Hood",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alain Vigneault",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Alex Romeril",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Sasquatch",
+      "fictional_universe.fictional_character.gender",
+      "Male"
+    ],
+    [
+      "Paul Devorski",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Kerry Fraser",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "George Vancouver",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Tom Kowal",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Valter Sedin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Charley McVeigh",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Paul Loicq",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Jean Morin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Terry Gregson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Greg Devorski",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Leon Stickle",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ron Finn",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Dan Marouelli",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Ron Hoggarth",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Brad Meier",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "John McCaw, Jr.",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Harry Sedin",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Lee Davidson",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "Stéphane Provost",
+      "people.person.gender",
+      "Male"
+    ],
+    [
+      "British Columbia",
+      "base.aareas.schema.administrative_area.administrative_parent",
+      "Canada"
+    ],
+    [
+      "Stéphane Provost",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Chaucer Elliott",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Neil Armstrong",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Blackberry Lambic",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Terry Ewasiuk",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Miracle",
+      "film.film.featured_film_locations",
+      "Canada"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Scotty Morrison",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Vancouver International Airport",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "British Columbia",
+      "location.administrative_division.country",
+      "Canada"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "tv.tv_program.country_of_origin",
+      "Canada"
+    ],
+    [
+      "Vancouver Art Gallery",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "1920 Summer Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.country.administrative_divisions",
+      "British Columbia"
+    ],
+    [
+      "False Creek",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "film.film_location.featured_in_films",
+      "Miracle"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.country.official_language",
+      "English Language"
+    ],
+    [
+      "m.010f_pr8",
+      "internet.localized_uri.location",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.country.first_level_divisions",
+      "British Columbia"
+    ],
+    [
+      "Face-Off",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Junior",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Sticks and Stones",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Andy Van Hellemond",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2014 Winter Olympics"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Ultimate Bad Boys",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "People's Voice",
+      "book.newspaper.circulation_areas",
+      "Canada"
+    ],
+    [
+      "Alain Vigneault",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Precipitation Pilsner",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Canadian Rockies",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Mike Rodden",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Cooper Smeaton",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Lee Davidson",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Metro Vancouver",
+      "location.administrative_division.second_level_division_of",
+      "Canada"
+    ],
+    [
+      "English Language",
+      "language.human_language.countries_spoken_in",
+      "Canada"
+    ],
+    [
+      "Highland Scottish Ale",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.location.time_zones",
+      "Pacific Time Zone"
+    ],
+    [
+      "Eddie Livingstone",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Dave Smith",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Dan Marouelli",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Gérard Gauthier",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ernie Leacock",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "VanDusen Botanical Garden",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Don Koharski",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Raspberry Lambic",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "base.aareas.schema.administrative_area.administrative_children",
+      "British Columbia"
+    ],
+    [
+      "Ted Nolan",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Score: A Hockey Musical",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Daniel Podgaichenko",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Home Game",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "Granville Island Honey Lager",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "m.010f_rds",
+      "base.schemastaging.phone_sandbox.service_location",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "location.country.languages_spoken",
+      "English Language"
+    ],
+    [
+      "Canada",
+      "periodicals.newspaper_circulation_area.newspapers",
+      "People's Voice"
+    ],
+    [
+      "Ron Asselstine",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "British Columbia",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "English Language",
+      "language.human_language.main_country",
+      "Canada"
+    ],
+    [
+      "British Columbia",
+      "base.biblioness.bibs_location.country",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "1920 Summer Olympics"
+    ],
+    [
+      "Valter Sedin",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Hotel Vancouver",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Gerard Gallant",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Odie Cleghorn",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Tooth Fairy",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Net Worth",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Charley McVeigh",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Scott Carter",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Public Storage Canada",
+      "organization.organization.geographic_scope",
+      "Canada"
+    ],
+    [
+      "Lower Mainland",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "m.010f_q6s",
+      "base.schemastaging.phone_sandbox.service_location",
+      "Canada"
+    ],
+    [
+      "Vancouver",
+      "base.biblioness.bibs_location.country",
+      "Canada"
+    ],
+    [
+      "Stephen Walkom",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "It's Our Game",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.participating_countries",
+      "Canada"
+    ],
+    [
+      "Climax",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Futuresport",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Stéphane Provost",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Black Plague Stout",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Mickey Ion",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Black Cherry Lambic",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Scotty Morrison",
+      "people.person.place_of_birth",
+      "Canada"
+    ],
+    [
+      "Jim Paek",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Kerry Fraser",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Canada",
+      "olympics.olympic_participating_country.olympics_participated_in",
+      "2002 Winter Olympics"
+    ],
+    [
+      "British Columbia",
+      "location.administrative_division.first_level_division_of",
+      "Canada"
+    ],
+    [
+      "Hurricane I.P.A.",
+      "food.beer.from_region",
+      "Canada"
+    ],
+    [
+      "Kevin Maguire",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ray Scapinello",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Proto3000",
+      "organization.organization.geographic_scope",
+      "Canada"
+    ],
+    [
+      "Peter Horachek",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Doug Lidster",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Sylvio Mantha",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Mystery, Alaska",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Puck Hogs",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "The Chiefs",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "George Hardy",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Hockey Night",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Maurice Richard",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "André Tourigny",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "The Game",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "Vancouver",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Metro Vancouver",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Lord Stanley's Cup: Hockey's Ultimate Prize",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Craig Bonner",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "The Rhino Brothers",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "Playland",
+      "location.location.containedby",
+      "Canada"
+    ],
+    [
+      "Hockey Mom",
+      "film.film.country",
+      "Canada"
+    ],
+    [
+      "William Earl Ormshaw",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Ken Tyler",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Mick McGeough",
+      "people.person.nationality",
+      "Canada"
+    ],
+    [
+      "Hockey Chronicles",
+      "book.written_work.subjects",
+      "Canada"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mark Faucette"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Hockey puck"
+    ],
+    [
+      "Hockey Chronicles",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Red Storey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Pierre Racicot"
+    ],
+    [
+      "Ian Walsh",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Craig Bonner",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Alex Romeril",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dan Marouelli",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "The Beanpot 50th Anniversary",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "It's Our Game",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Wayne Bonney",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Slapshot",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Dave Smith",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1960 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Youngblood"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Miracle"
+    ],
+    [
+      "Ice Hockey",
+      "base.events.type_of_event.event_feeds_for_this_type_of_event",
+      "m.0774ylr"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dan Marouelli"
+    ],
+    [
+      "Bruce Hood",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Vintage Collection: Overtime",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "No Sleep 'Til Madison",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Shane Heyer"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.events",
+      "Women's Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "John D'Amico"
+    ],
+    [
+      "The Chiefs",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "1936 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup 2006",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL 2003"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Tom Pokel"
+    ],
+    [
+      "The Game of Our Lives",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Dave Bidini: The Hockey Nomad"
+    ],
+    [
+      "Leon Stickle",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Starvation Lake: A Mystery"
+    ],
+    [
+      "Matt Pavelich",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Shane Heyer",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Just Like Me: The Legends, The Next Gen"
+    ],
+    [
+      "1924 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Tom Kowal",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Pat Dapuzzo",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Right wing",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1952 Winter Olympics"
+    ],
+    [
+      "Ron Wicks",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Maguire",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Tooth Fairy"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Dave Smith"
+    ],
+    [
+      "Brad Watson",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: All Access!",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bill Chadwick"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Twice as Nice: Wisconsin's 2006 Men's and Women's Hockey National Championships"
+    ],
+    [
+      "Kevin Collins",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "2002 NCAA Division I: Men's Ice Hockey National Championship: Minnesota vs. Maine"
+    ],
+    [
+      "m.07nf61y",
+      "base.ontologies.ontology_instance_mapping.freebase_topic",
+      "Ice Hockey"
+    ],
+    [
+      "Mike Rodden",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Miracle on Ice"
+    ],
+    [
+      "Stéphane Provost",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1998 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "D2: The Mighty Ducks"
+    ],
+    [
+      "Forward",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Right wing"
+    ],
+    [
+      "Dennis LaRue",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kevin Collins"
+    ],
+    [
+      "Scott Carter",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.notable_for",
+      "g.125b466gp"
+    ],
+    [
+      "Andy Van Hellemond",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Puck Hogs"
+    ],
+    [
+      "Open net",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "NHL History of the Philadelphia Flyers",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "John D'Amico",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Men's Ice Hockey",
+      "olympics.olympic_event.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Gérard Gauthier",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "London Knights",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1964 Winter Olympics"
+    ],
+    [
+      "Slap Shot 2: Breaking the Ice",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup Champions 2008-2009: Pittsburgh Penguins",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Vintage Collection: Greatest Goals"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup Champions 2003 - 2004: Tampa Bay Lightning"
+    ],
+    [
+      "Ultimate Skating: Skills & Drills for Beginners to Pros: Vol. 1",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "2014 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Gérard Gauthier",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Ultimate Bad Boys"
+    ],
+    [
+      "Bill McCreary",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Blue and White Book 1997"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1956 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "New England Hockey: A Life at the Rink"
+    ],
+    [
+      "Good old days of ice hockey",
+      "common.image.appears_in_topic_gallery",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Asselstine",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "George Hayes",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2003",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Rob Shick"
+    ],
+    [
+      "Kerry Fraser",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Finn"
+    ],
+    [
+      "NHL Minnesota Wild: The State of Hockey",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Women's Ice Hockey",
+      "olympics.olympic_event.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Vancouver 2010: Winter Olympics Highlights"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kerry Fraser"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The New Ice Age"
+    ],
+    [
+      "National Hockey League",
+      "sports.sports_league.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "base.disaster2.dangerous_activity.connected_with_this_type_of_injuy_event",
+      "Ice hockey accident"
+    ],
+    [
+      "Bob Hodges",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kevin Maguire"
+    ],
+    [
+      "Goaltender mask",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Slap Shot 2: Breaking the Ice"
+    ],
+    [
+      "Ron Finn",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Official 2002 Stanley Cup Championship: Detroit Red Wings",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "NHL Slapshot"
+    ],
+    [
+      "Calgary Cowboys",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Night Undone"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Slap Shot"
+    ],
+    [
+      "A Canadian Saturday Night",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1994 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bruce Hood"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Kevin Pollock"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Brad Meier"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Greatest Moments"
+    ],
+    [
+      "Odie Cleghorn",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "2007 NCAA Division I Men's Ice Hockey National Championship: Michigan State vs. Boston College",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Ken Tyler"
+    ],
+    [
+      "1960 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Pollock",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "1956 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Jay Sharrers"
+    ],
+    [
+      "Stanley Cup 2006-2007 Champions",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mike Rodden"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Frank Udvari"
+    ],
+    [
+      "Wally Harris",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "D2: The Mighty Ducks",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup Champions 2008-2009: Pittsburgh Penguins"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bob Hodges"
+    ],
+    [
+      "Chaucer Elliott",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Gérard Gauthier"
+    ],
+    [
+      "Defenseman",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Anaheim Ducks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chris Lee",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Hockey Stars Speak",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Jay Sharrers",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Neil Armstrong",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Mike Sertich",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Wayne Bonney",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Neil Armstrong"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Maurice Richard"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "NHL 2K10"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Sidney Crosby: On the Ice and Beyond"
+    ],
+    [
+      "Don Van Massenhoven",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Paul Devorski",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Brett Hull Hockey '95",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Minnesota Wild: The State of Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1984 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Paul Devorski"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: All Access!"
+    ],
+    [
+      "Ryan Bozak",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Seahawk: Confessions of an Old Hockey Goalie",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Vintage Collection: Masked Men",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Matt Pavelich"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Hockey Chronicles"
+    ],
+    [
+      "Kerry Fraser",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Franz Baader"
+    ],
+    [
+      "Winger",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Eastside Hockey Manager 2007",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "2006 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Fred Waghorne"
+    ],
+    [
+      "D3: The Mighty Ducks",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Centerman"
+    ],
+    [
+      "Pierre Champoux",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Ted Nolan"
+    ],
+    [
+      "Mike Leggo",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Brad Meier",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Jim Paek"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1988 Winter Olympics"
+    ],
+    [
+      "Vancouver Millionaires",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bobby Hewitson"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Goaltender mask"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Brett Hull Hockey"
+    ],
+    [
+      "Charley McVeigh",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Left wing"
+    ],
+    [
+      "Marsh Ryman",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Mike Corbett"
+    ],
+    [
+      "1980 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Greatest Moments",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Denis Morel",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Scott Carter"
+    ],
+    [
+      "1968 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Youngblood",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Pat Dapuzzo",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1920 Summer Olympics"
+    ],
+    [
+      "Bill Chadwick",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Don Cherry's Hard-Hitting Hockey 3"
+    ],
+    [
+      "Marcus Vinnerborg",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Gerard Gallant"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "No Sleep 'Til Madison"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Face-Off"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dennis LaRue"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1980 Winter Olympics"
+    ],
+    [
+      "Face-Off",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ultimate Bad Boys",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "2014 IIHF World Championship",
+      "common.topic.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Eastside Hockey Manager 2005",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Wayne Bonney"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Chiefs"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2014 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Tom Kowal"
+    ],
+    [
+      "Franz Baader",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dan O'Rourke",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Just Like Me: The Legends, The Next Gen",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "George Hayes"
+    ],
+    [
+      "The Game",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Marsh Ryman"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.09y8fd0"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Mike Sertich"
+    ],
+    [
+      "Dallas Stars",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Inside Hockey",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL All-Access (2008)"
+    ],
+    [
+      "Alex Romeril",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dan O'Halloran"
+    ],
+    [
+      "Shane Heyer",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dave Bidini: The Hockey Nomad",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.events",
+      "Men's Ice Hockey"
+    ],
+    [
+      "Kevin Collins",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Ultimate Skating: Skills & Drills for Beginners to Pros: Vol. 1"
+    ],
+    [
+      "Sticks and Stones",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Net Worth",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Searching for Bobby Orr",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Dan O'Rourke"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.image",
+      "Ilves-Blues Feb 2008"
+    ],
+    [
+      "Junior",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "base.ontologies.ontology_instance.equivalent_instances",
+      "m.07nf61y"
+    ],
+    [
+      "Mike Hasenfratz",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "St. Louis Blues",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bill Stewart"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1968 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Chris Lee"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mike Hasenfratz"
+    ],
+    [
+      "Paul Loicq",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Mark Messier: Leader, Champion and Legend",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K11",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Open net"
+    ],
+    [
+      "Miracle on Ice",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Pierre Racicot",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chaucer Elliott",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Wicks",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Game"
+    ],
+    [
+      "George Hayes",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bobby Hewitson",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Home Game"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1948 Winter Olympics"
+    ],
+    [
+      "Vancouver Canucks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Sojourn",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Junior"
+    ],
+    [
+      "Bob Hodges",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "San Jose Sharks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: The History of the Boston Bruins"
+    ],
+    [
+      "Wally Harris",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ray Scapinello",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "m.09x5z5y",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Hoggarth"
+    ],
+    [
+      "Maurice Richard: The Man, the Myth, the Rocket",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Beanpot 50th Anniversary"
+    ],
+    [
+      "Slap Shot",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "1972 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Futuresport"
+    ],
+    [
+      "Marcus Vinnerborg",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ray Scapinello"
+    ],
+    [
+      "Mark Faucette",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Inside Hockey"
+    ],
+    [
+      "Dan O'Rourke",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Lord Stanley's Cup: Hockey's Ultimate Prize"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1936 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Great One"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "William Earl Ormshaw"
+    ],
+    [
+      "Stephen Walkom",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Nashville Predators",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Eddie Livingstone",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Eddie Livingstone",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Neil Armstrong",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ryan Bozak",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K10",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "m.0c55w2g",
+      "sports.pro_sports_played.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Mighty Ducks"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Pierre Champoux"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Denis Morel"
+    ],
+    [
+      "Ron Hoggarth",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup 2003"
+    ],
+    [
+      "Ron Finn",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Wicks"
+    ],
+    [
+      "Mike Corbett",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Sylvio Mantha",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ilves-Blues Feb 2008",
+      "common.image.appears_in_topic_gallery",
+      "Ice Hockey"
+    ],
+    [
+      "Greg Devorski",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup Champions 2007-2008",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Greg Devorski"
+    ],
+    [
+      "1998 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Dan Bylsma"
+    ],
+    [
+      "Centerman",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Jean Morin",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Don Cherry's Hard-Hitting Hockey 3",
+      "film.film.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Don Koharski",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ian Walsh"
+    ],
+    [
+      "NHL Eastside Hockey Manager",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K10",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Greg Kimmerly",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Pollock",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "NHL 2K11"
+    ],
+    [
+      "The Puck Hogs",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "2002 NCAA Division I: Men's Ice Hockey National Championship: Minnesota vs. Maine",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Frank Udvari",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2006 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Shooting stars"
+    ],
+    [
+      "Charley McVeigh",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Swede Knox"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Winger"
+    ],
+    [
+      "Mike Hasenfratz",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mick McGeough"
+    ],
+    [
+      "Ken Tyler",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ryan Bozak"
+    ],
+    [
+      "MVP: Most Valuable Primate",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.notable_types",
+      "Sport"
+    ],
+    [
+      "Red Storey",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Scotty Morrison",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "The Great One",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Bill Chadwick",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Minnesota Wild",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Tom Pokel",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Winnipeg Jets",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Score: A Hockey Musical",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Wes McCauley",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1932 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "film.film_subject.films",
+      "Don Cherry's Hard-Hitting Hockey 3"
+    ],
+    [
+      "Wes McCauley",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Edmonton Oilers",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Wes McCauley"
+    ],
+    [
+      "Front wing",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Terry Ewasiuk",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Wally Harris"
+    ],
+    [
+      "1976 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "1988 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Greg Devorski",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Jean Morin"
+    ],
+    [
+      "Ice skate",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "1928 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Asselstine",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Gord Broseker"
+    ],
+    [
+      "Pierre Racicot",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "1952 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Arizona Coyotes",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chris Lee",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ron Hoggarth",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Chicago Blackhawks",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Paul Devorski",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.image",
+      "Good old days of ice hockey"
+    ],
+    [
+      "Home Game",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Marc Joannette"
+    ],
+    [
+      "Futuresport",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Red Storey",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Mystery, Alaska",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Dan Bylsma",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Bill Stewart",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "m.0774ylr",
+      "base.events.event_feed.type_of_event",
+      "Ice Hockey"
+    ],
+    [
+      "Vancouver Nats",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1972 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Cooper Smeaton"
+    ],
+    [
+      "Bobby Hewitson",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mickey Ion"
+    ],
+    [
+      "The New Ice Age",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Terry Gregson"
+    ],
+    [
+      "Marc Joannette",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.subjects",
+      "Daniel Podgaichenko"
+    ],
+    [
+      "Brad Meier",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Stephen Walkom"
+    ],
+    [
+      "1992 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Gord Broseker",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Los Angeles Kings",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup Champions 2007-2008"
+    ],
+    [
+      "Hockey Mom",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Super Ice Hockey",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Slap Shot 3: The Junior League",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Marsh Ryman",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL All-Access (2008)",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Slapshot",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Kevin Maguire",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bryan Lewis",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Calgary Flames",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Searching for Bobby Orr"
+    ],
+    [
+      "Ice Hockey",
+      "base.onlineadvertising.ad_network_vertical.ad_networks",
+      "Hockey Ad Network"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Quest for the Cup"
+    ],
+    [
+      "Dan O'Halloran",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Honor & Courage: Tough Guys of the NHL"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.09x5z5y"
+    ],
+    [
+      "Vancouver Giants",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Honor & Courage: Tough Guys of the NHL",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Bryan Lewis",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Hockey Stars Speak"
+    ],
+    [
+      "Mike Rodden",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bill McCreary",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Tom Kowal",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dennis LaRue",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Sylvio Mantha",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "André Tourigny"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Greg Kimmerly"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.article",
+      "m.03tn1"
+    ],
+    [
+      "Left wing",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Peter Horachek"
+    ],
+    [
+      "1920 Summer Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL History of the Philadelphia Flyers"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Front wing"
+    ],
+    [
+      "Terry Gregson",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Sticks and Stones"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1924 Winter Olympics"
+    ],
+    [
+      "One Hundred Years of Hockey",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "The Rhino Brothers",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Don Koharski",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.0b48zpz"
+    ],
+    [
+      "Pierre Champoux",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Motor City muscle",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Randy Mitton",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Terry Ewasiuk"
+    ],
+    [
+      "Ice hockey accident",
+      "base.disaster2.type_of_injury_causing_event.caused_by_activity",
+      "Ice Hockey"
+    ],
+    [
+      "m.09dvdwg",
+      "olympics.olympic_athlete_affiliation.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2010 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "2007 NCAA Division I Men's Ice Hockey National Championship: Michigan State vs. Boston College"
+    ],
+    [
+      "Lord Stanley's Cup: Hockey's Ultimate Prize",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Power Play",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Stéphane Provost",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Forward"
+    ],
+    [
+      "Don Van Massenhoven",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ian Walsh",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup 2003",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "NHL 2K11",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Leon Stickle"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Sylvio Mantha"
+    ],
+    [
+      "New England Hockey: A Life at the Rink",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Power Play"
+    ],
+    [
+      "Randy Mitton",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Official 2002 Stanley Cup Championship: Detroit Red Wings"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "1998 Olympic Hockey Highlights"
+    ],
+    [
+      "Barrie Christian Hockey League",
+      "sports.sports_league.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Don Van Massenhoven"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Paul Loicq"
+    ],
+    [
+      "NHL",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "John D'Amico",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Hockey Ad Network",
+      "base.onlineadvertising.ad_network.verticals",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Slap Shot 3: The Junior League"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Hockey Night"
+    ],
+    [
+      "Jim Paek",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "NHL Stanley Cup Champions 2003 - 2004: Tampa Bay Lightning",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Andy Van Hellemond",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "It's Our Game"
+    ],
+    [
+      "Ernie Leacock",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Odie Cleghorn",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "The Rhino Brothers"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Marcus Vinnerborg"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Eastside Hockey Manager 2005"
+    ],
+    [
+      "Night Undone",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Peter Horachek",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Colorado Avalanche",
+      "sports.sports_team.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Seahawk: Confessions of an Old Hockey Goalie"
+    ],
+    [
+      "Twice as Nice: Wisconsin's 2006 Men's and Women's Hockey National Championships",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Jean Morin",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Randy Mitton"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Hockey Mom"
+    ],
+    [
+      "Mark Faucette",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bill Stewart",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1928 Winter Olympics"
+    ],
+    [
+      "Cooper Smeaton",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Sojourn"
+    ],
+    [
+      "2010 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.subject_of",
+      "2014 IIHF World Championship"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL 2K11"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Brett Hull Hockey '95"
+    ],
+    [
+      "Mick McGeough",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "1994 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Hockey Night",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Mark Messier: Leader, Champion and Legend"
+    ],
+    [
+      "The Blue and White Book 1997",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Odie Cleghorn"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Goaltender"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "D3: The Mighty Ducks"
+    ],
+    [
+      "Franz Baader",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Mickey Ion",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Pat Dapuzzo"
+    ],
+    [
+      "Mike Gilligan",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Fred Waghorne",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Vancouver 2010: Winter Olympics Highlights",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Denis Morel",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: Vintage Collection: Greatest Goals",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Slapshot"
+    ],
+    [
+      "André Tourigny",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1976 Winter Olympics"
+    ],
+    [
+      "Ted Nolan",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "1984 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Mike Leggo"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ernie Leacock"
+    ],
+    [
+      "Quest for the Cup",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Ron Asselstine"
+    ],
+    [
+      "Cooper Smeaton",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Alex Romeril"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Craig Bonner"
+    ],
+    [
+      "Matt Pavelich",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Chaucer Elliott"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Net Worth"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Ice Hockey"
+    ],
+    [
+      "The Mighty Ducks",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "m.0b48zpz",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "Super Ice Hockey"
+    ],
+    [
+      "Starvation Lake: A Mystery",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.computer_game_subject.games",
+      "Mario & Sonic at the Olympic Winter Games"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Scotty Morrison"
+    ],
+    [
+      "Brad Watson",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Don Koharski"
+    ],
+    [
+      "2002 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Score: A Hockey Musical"
+    ],
+    [
+      "Rob Shick",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Daniel Podgaichenko",
+      "common.topic.subject_of",
+      "Ice Hockey"
+    ],
+    [
+      "Rob Shick",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Bruce Hood",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Sidney Crosby: On the Ice and Beyond",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Dan O'Halloran",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Jay Sharrers",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "The Game of Our Lives"
+    ],
+    [
+      "Barrie Christian Hockey League",
+      "organization.organization.sectors",
+      "Ice Hockey"
+    ],
+    [
+      "m.0b495h4",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "1992 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "George Hardy"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Eddie Livingstone"
+    ],
+    [
+      "Hockey puck",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "1932 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "organization.organization_sector.organizations_in_this_sector",
+      "Barrie Christian Hockey League"
+    ],
+    [
+      "Swede Knox",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Mystery, Alaska"
+    ],
+    [
+      "George Hardy",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Frank Udvari",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Scotty Morrison",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Gerard Gallant",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Marc Joannette",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Hockey stick"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Brad Watson"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bryan Lewis"
+    ],
+    [
+      "Shooting stars",
+      "book.written_work.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Stéphane Provost"
+    ],
+    [
+      "Miracle",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Mike Gilligan"
+    ],
+    [
+      "Tooth Fairy",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Mickey Ion",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ray Scapinello",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Bill McCreary"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL 2K10"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Stanley Cup 2006-2007 Champions"
+    ],
+    [
+      "Leon Stickle",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Vintage Collection: Masked Men"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "MVP: Most Valuable Primate"
+    ],
+    [
+      "Eishockey Eisbaeren gegen Capitals",
+      "common.image.appears_in_topic_gallery",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Eastside Hockey Manager"
+    ],
+    [
+      "Swede Knox",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Andy Van Hellemond"
+    ],
+    [
+      "Greg Kimmerly",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Terry Gregson",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Slap Shot"
+    ],
+    [
+      "Fred Waghorne",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL: Vintage Collection: Overtime"
+    ],
+    [
+      "William Earl Ormshaw",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Maurice Richard",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "1948 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "One Hundred Years of Hockey"
+    ],
+    [
+      "m.09y8fd0",
+      "common.webpage.topic",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "olympics.olympic_sport.olympic_games_contested",
+      "2002 Winter Olympics"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "Maurice Richard: The Man, the Myth, the Rocket"
+    ],
+    [
+      "Gord Broseker",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Dan Marouelli",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Lee Davidson",
+      "sports.sports_team_coach.sports_coached",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.positions",
+      "Defenseman"
+    ],
+    [
+      "Ice Hockey",
+      "cvg.cvg_genre.games",
+      "NHL Eastside Hockey Manager 2007"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.image",
+      "Eishockey Eisbaeren gegen Capitals"
+    ],
+    [
+      "Ice Hockey",
+      "common.topic.webpage",
+      "m.0b495h4"
+    ],
+    [
+      "Mario & Sonic at the Olympic Winter Games",
+      "cvg.computer_videogame.subjects",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "NHL Stanley Cup 2006"
+    ],
+    [
+      "William Earl Ormshaw",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.team_coaches",
+      "Lee Davidson"
+    ],
+    [
+      "Hockey stick",
+      "sports.sports_equipment.sport_used_for",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "Motor City muscle"
+    ],
+    [
+      "Mick McGeough",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.officials",
+      "Charley McVeigh"
+    ],
+    [
+      "Don Cherry's Hard-Hitting Hockey 3",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "1964 Winter Olympics",
+      "olympics.olympic_games.sports",
+      "Ice Hockey"
+    ],
+    [
+      "1998 Olympic Hockey Highlights",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Stephen Walkom",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ernie Leacock",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Brett Hull Hockey",
+      "cvg.computer_videogame.cvg_genre",
+      "Ice Hockey"
+    ],
+    [
+      "Goaltender",
+      "sports.sports_position.sport",
+      "Ice Hockey"
+    ],
+    [
+      "NHL: The History of the Boston Bruins",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "2006 NCAA Division I Men's Ice Hockey National Championship: Wisconsin vs. Boston College",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Slap Shot",
+      "media_common.netflix_title.netflix_genres",
+      "Ice Hockey"
+    ],
+    [
+      "Paul Loicq",
+      "sports.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "media_common.netflix_genre.titles",
+      "2006 NCAA Division I Men's Ice Hockey National Championship: Wisconsin vs. Boston College"
+    ],
+    [
+      "Mike Leggo",
+      "base.fight.sports_official.sport",
+      "Ice Hockey"
+    ],
+    [
+      "Ice Hockey",
+      "book.book_subject.works",
+      "A Canadian Saturday Night"
+    ],
+    [
+      "Ice Hockey",
+      "sports.sport.related_equipment",
+      "Ice skate"
+    ],
+    [
+      "Jim Paek",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "Sylvio Mantha",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "Mike Corbett",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "Doug Lidster",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "Alain Vigneault",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "Tom Pokel",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "Ernie Leacock",
+      "ice_hockey.hockey_player.hockey_position",
+      "Defenseman"
+    ],
+    [
+      "m.010nvcrq",
+      "base.schemastaging.sports_team_manager_tenure.position",
+      "General Manager"
+    ],
+    [
+      "Vancouver Canucks",
+      "base.schemastaging.sports_team_extra.managers",
+      "m.010nvcrq"
+    ],
+    [
+      "General Manager",
+      "base.schemastaging.sports_team_manager_position.managers",
+      "m.010nvcrq"
+    ],
+    [
+      "m.010nvcrq",
+      "base.schemastaging.sports_team_manager_tenure.team",
+      "Vancouver Canucks"
+    ],
+    [
+      "m.010nvcrq",
+      "freebase.valuenotation.has_no_value",
+      "To"
+    ],
+    [
+      "m.02h5kvd",
+      "sports.sports_team_roster.position",
+      "Centerman"
+    ],
+    [
+      "Henrik Sedin",
+      "ice_hockey.hockey_player.hockey_position",
+      "Centerman"
+    ],
+    [
+      "Charley McVeigh",
+      "ice_hockey.hockey_player.hockey_position",
+      "Centerman"
+    ],
+    [
+      "m.010671n8",
+      "organization.leadership.organization",
+      "Vancouver Canucks"
+    ],
+    [
+      "Vancouver Canucks",
+      "organization.organization.leadership",
+      "m.010671n8"
+    ],
+    [
+      "m.010671n8",
+      "freebase.valuenotation.has_no_value",
+      "To"
+    ],
+    [
+      "m.010671n8",
+      "organization.leadership.role",
+      "President"
+    ],
+    [
+      "Henrik Sedin",
+      "people.person.profession",
+      "Athlete"
+    ],
+    [
+      "Mike Sertich",
+      "people.person.profession",
+      "Athlete"
+    ],
+    [
+      "Mike Corbett",
+      "people.person.profession",
+      "Athlete"
+    ],
+    [
+      "Lee Davidson",
+      "people.person.profession",
+      "Athlete"
+    ]
+  ]
+}
