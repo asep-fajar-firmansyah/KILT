@@ -37,12 +37,6 @@ main { min-width: 0; padding: 28px 36px 64px; }
 .navigation { display: flex; align-items: center; gap: 8px; }
 .icon { width: 36px; height: 36px; padding: 0; font-size: 24px; line-height: 1; }
 #position { min-width: 80px; text-align: center; color: var(--muted); font-size: 12px; }
-.controls { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 18px 0; flex-wrap: wrap; }
-.controls select { width: auto; min-width: 160px; }
-.modes { display: flex; border: 1px solid var(--line); border-radius: 4px; overflow: hidden; margin: 0; padding: 0; }
-.modes label { margin: 0; padding: 9px 12px; cursor: pointer; font-size: 13px; }
-.modes label:has(input:checked) { background: var(--wash); color: var(--accent); }
-.modes input { min-height: 0; width: auto; accent-color: var(--accent); margin-right: 5px; }
 .entity { border-top: 1px solid var(--line); padding: 24px 0 28px; }
 .entity-heading { display: flex; align-items: baseline; gap: 16px; justify-content: space-between; }
 .entity h3 { font-family: Georgia, serif; font-size: 21px; font-weight: 400; margin: 0 0 14px; overflow-wrap: anywhere; }
@@ -79,7 +73,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <div class="workspace">
 <aside aria-label="Datasets and records">
   <div class="filters">
-    <div class="field"><label for="folder">Prediction folder</label><select id="folder" disabled></select></div>
+    <div class="field"><label for="model">LLM annotator</label><select id="model" aria-label="LLM models" disabled><option value="" selected disabled>LLM models</option></select></div>
     <div class="field"><label for="dataset">Dataset</label><select id="dataset" disabled></select></div>
   </div>
   <label for="search">Search records</label><input id="search" type="search" placeholder="Record ID, entity, or summary" disabled>
@@ -91,10 +85,6 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
     <div><span class="label">RECORD</span><h2 id="record-title">Entity summaries</h2><div class="record-meta" id="record-meta"></div></div>
     <div class="navigation"><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
   </div>
-  <div class="controls" id="controls" hidden>
-    <div><label for="annotator">Annotator</label><select id="annotator"></select></div>
-    <fieldset class="modes" aria-label="Summary view"><label><input type="radio" name="view" value="summary" checked>Summary</label><label><input type="radio" name="view" value="triples">Triples</label></fieldset>
-  </div>
   <div id="status" class="status" role="status" aria-live="polite">Loading datasets...</div>
   <div id="entities"></div>
 </main>
@@ -102,7 +92,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <script>
 const element = (id) => document.getElementById(id);
 let datasets = [], records = [], filtered = [], selected = -1, requestNumber = 0;
-let annotatorIndex = 0;
+const MODEL_FOLDERS = ['annotation-pools', 'annotation-pools-2', 'annotation-pools-3'];
 const text = (tag, value, className) => {
   const node = document.createElement(tag);
   node.textContent = value;
@@ -116,9 +106,17 @@ function setStatus(message, error = false) {
 }
 async function getJSON(url) {
   const response = await fetch(url);
+  const contentType = response.headers.get('content-type') || '';
+  if (!contentType.includes('application/json')) {
+    throw new Error(`Viewer API returned ${response.status}; check reverse-proxy path routing.`);
+  }
   const data = await response.json();
   if (!response.ok) throw new Error(data.error || 'Unable to load dataset');
   return data;
+}
+function apiURL(path) {
+  const prefix = location.pathname.endsWith('/') ? location.pathname : `${location.pathname}/`;
+  return `${prefix}${path}`;
 }
 function groups(record) { return record.output.flatMap((output) => output.summary_by_entity); }
 function updateList() {
@@ -147,33 +145,26 @@ function renderRecord() {
   element('previous').disabled = position <= 0;
   element('next').disabled = position < 0 || position >= filtered.length - 1;
   element('entities').replaceChildren();
-  element('controls').hidden = !record || !record.output.length;
   element('record-title').textContent = record ? record.id || `Record ${selected + 1}` : 'Entity summaries';
   element('record-meta').textContent = '';
   if (!record) { setStatus(records.length ? 'No matching records.' : 'No records in this dataset.'); return; }
-  if (annotatorIndex >= record.output.length) annotatorIndex = 0;
-  element('annotator').replaceChildren(...record.output.map((output, index) => new Option(output.annotator, index)));
-  element('annotator').value = annotatorIndex;
-  const summaries = record.output[annotatorIndex]?.summary_by_entity || [];
+  const output = record.output[0];
+  const summaries = output?.summary_by_entity || [];
   const tripleCount = summaries.reduce((count, group) => count + group.triples.length, 0);
   element('record-meta').textContent = `${summaries.length} entities / ${tripleCount} selected triples`;
-  setStatus(summaries.length ? '' : 'No entity summaries for this annotator.');
-  const mode = document.querySelector('input[name="view"]:checked').value;
+  setStatus(summaries.length ? '' : 'No entity summaries for this model.');
   for (const group of summaries) {
     const section = text('section', '', 'entity');
     const heading = text('div', '', 'entity-heading');
     heading.append(text('h3', group.topic_entity || 'Unassigned entity'), text('span', `${group.triples.length} triples`, 'count'));
     section.append(heading);
-    if (mode === 'summary') section.append(text('p', group.answer || 'No summary text.', 'answer'));
-    else {
-      const table = document.createElement('table');
-      const head = document.createElement('thead'), row = document.createElement('tr');
-      for (const name of ['Head', 'Relation', 'Tail']) { const cell = text('th', name); cell.scope = 'col'; row.append(cell); }
-      head.append(row); table.append(head);
-      const body = document.createElement('tbody');
-      for (const triple of group.triples) { const row = document.createElement('tr'); for (const value of triple) row.append(text('td', value)); body.append(row); }
-      table.append(body); section.append(table);
-    }
+    const table = document.createElement('table');
+    const head = document.createElement('thead'), row = document.createElement('tr');
+    for (const name of ['Head', 'Relation', 'Tail']) { const cell = text('th', name); cell.scope = 'col'; row.append(cell); }
+    head.append(row); table.append(head);
+    const body = document.createElement('tbody');
+    for (const triple of group.triples) { const row = document.createElement('tr'); for (const value of triple) row.append(text('td', value)); body.append(row); }
+    table.append(body); section.append(table);
     element('entities').append(section);
   }
 }
@@ -183,27 +174,25 @@ async function loadDataset() {
   updateList(); setStatus('Loading summaries...');
   element('search').disabled = true;
   try {
-    const result = await getJSON(`api/records?dataset=${encodeURIComponent(element('dataset').value)}`);
+    const result = await getJSON(apiURL(`api/records?dataset=${encodeURIComponent(element('dataset').value)}`));
     if (currentRequest !== requestNumber) return;
     records = result;
     element('search').disabled = false;
     updateList();
   } catch (error) { if (currentRequest === requestNumber) setStatus(error.message, true); }
 }
-function chooseFolder() {
+function chooseModel() {
   const previousName = element('dataset').selectedOptions[0]?.textContent;
-  const available = datasets.filter((dataset) => dataset.folder === element('folder').value);
+  const available = datasets.filter((dataset) => dataset.folder === element('model').value);
   element('dataset').replaceChildren(...available.map((dataset) => new Option(dataset.name, dataset.key)));
   const previous = available.find((dataset) => dataset.name === previousName);
   if (previous) element('dataset').value = previous.key;
   element('search').value = '';
   loadDataset();
 }
-element('folder').onchange = chooseFolder;
+element('model').onchange = chooseModel;
 element('dataset').onchange = () => { element('search').value = ''; loadDataset(); };
 element('search').oninput = updateList;
-element('annotator').onchange = () => { annotatorIndex = Number(element('annotator').value); renderRecord(); };
-for (const radio of document.querySelectorAll('input[name="view"]')) radio.onchange = renderRecord;
 function moveRecord(offset) {
   const position = filtered.findIndex((item) => item.index === selected);
   const target = filtered[position + offset];
@@ -213,11 +202,18 @@ element('previous').onclick = () => moveRecord(-1);
 element('next').onclick = () => moveRecord(1);
 async function initialize() {
   try {
-    datasets = await getJSON('api/datasets');
+    datasets = await getJSON(apiURL('api/datasets'));
     if (!datasets.length) { setStatus('No annotation-pool JSONL files found.'); return; }
-    element('folder').replaceChildren(...[...new Set(datasets.map((dataset) => dataset.folder))].map((folder) => new Option(folder, folder)));
-    element('folder').disabled = false; element('dataset').disabled = false;
-    chooseFolder();
+    const sources = MODEL_FOLDERS.map((folder) => ({
+      folder,
+      model: datasets.find((dataset) => dataset.folder === folder)?.model,
+    })).filter((source) => source.model);
+    element('model').replaceChildren(
+      new Option('LLM models', '', true, true),
+      ...sources.map((source) => new Option(source.model, source.folder)),
+    );
+    element('model').disabled = false; element('dataset').disabled = false;
+    chooseModel();
   } catch (error) { setStatus(error.message, true); }
 }
 initialize();

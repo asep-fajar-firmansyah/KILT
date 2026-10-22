@@ -1,12 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-if [[ $# -gt 1 || ( $# -eq 1 && "$1" != "--print-unit" ) ]]; then
-    printf 'Usage: bash scripts/deploy_viewer.sh [--print-unit]\n' >&2
-    exit 1
-fi
-
-if [[ $EUID -ne 0 && "${1:-}" != "--print-unit" ]]; then
+if [[ $EUID -ne 0 ]]; then
     printf 'Run on the target server: sudo bash scripts/deploy_viewer.sh\n' >&2
     exit 1
 fi
@@ -40,22 +35,22 @@ id "$SERVICE_USER" >/dev/null
 command -v systemctl >/dev/null
 command -v systemd-analyze >/dev/null
 
-systemd_quote() {
+systemd_escape() {
     local value=$1
     if [[ "$value" == *$'\n'* || "$value" == *$'\r'* ]]; then
         printf 'Paths cannot contain newlines.\n' >&2
         return 1
     fi
-    value=${value//\\/\\\\}
-    value=${value//\"/\\\"}
+    value=${value//\\/\\x5c}
+    value=${value// /\\x20}
+    value=${value//$'\t'/\\x09}
+    value=${value//\"/\\x22}
     value=${value//%/%%}
-    printf '"%s"' "$value"
+    printf '%s' "$value"
 }
 
-systemd_quote "$REPO_DIR" >/dev/null
-WORKING_DIR=${REPO_DIR//%/%%}
-PYTHON_COMMAND=$(systemd_quote "$PYTHON_BIN")
-PYTHON_COMMAND=${PYTHON_COMMAND//\$/\$\$}
+WORKING_DIR=$(systemd_escape "$REPO_DIR")
+PYTHON_COMMAND=$(systemd_escape "$PYTHON_BIN")
 TEMP_DIR=$(mktemp -d)
 trap 'rm -rf "$TEMP_DIR"' EXIT
 
@@ -79,11 +74,6 @@ ProtectSystem=full
 [Install]
 WantedBy=multi-user.target
 EOF
-
-if [[ "${1:-}" == "--print-unit" ]]; then
-    cat "$TEMP_DIR/kilt-viewer.service"
-    exit 0
-fi
 
 systemd-analyze verify "$TEMP_DIR/kilt-viewer.service"
 install -m 0644 "$TEMP_DIR/kilt-viewer.service" /etc/systemd/system/kilt-viewer.service
