@@ -73,7 +73,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <div class="workspace">
 <aside aria-label="Datasets and records">
   <div class="filters">
-    <div class="field"><label for="model">LLM annotator</label><select id="model" aria-label="LLM models" disabled><option value="" selected disabled>LLM models</option></select></div>
+    <div class="field"><label for="model">LLM annotator</label><select id="model" disabled></select></div>
     <div class="field"><label for="dataset">Dataset</label><select id="dataset" disabled></select></div>
   </div>
   <label for="search">Search records</label><input id="search" type="search" placeholder="Record ID, entity, or summary" disabled>
@@ -169,6 +169,13 @@ function renderRecord() {
   }
 }
 async function loadDataset() {
+  if (!element('dataset').value) {
+    records = []; filtered = []; selected = -1;
+    updateList();
+    setStatus('No datasets found for this LLM annotator.');
+    element('search').disabled = true;
+    return;
+  }
   const currentRequest = ++requestNumber;
   records = []; filtered = []; selected = -1;
   updateList(); setStatus('Loading summaries...');
@@ -208,12 +215,10 @@ async function initialize() {
       folder,
       model: datasets.find((dataset) => dataset.folder === folder)?.model,
     })).filter((source) => source.model);
-    element('model').replaceChildren(
-      new Option('LLM models', '', true, true),
-      ...sources.map((source) => new Option(source.model, source.folder)),
-    );
+    element('model').replaceChildren(...sources.map((source) => new Option(source.model, source.folder)));
     element('model').disabled = false; element('dataset').disabled = false;
-    chooseModel();
+    if (sources.length) chooseModel();
+    else setStatus('No annotation-pool datasets with model metadata were found.', true);
   } catch (error) { setStatus(error.message, true); }
 }
 initialize();

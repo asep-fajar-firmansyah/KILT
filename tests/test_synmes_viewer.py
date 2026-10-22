@@ -84,7 +84,7 @@ class TestSynMESViewer(unittest.TestCase):
                     self.assertIn(b"Entity summaries", page)
                     self.assertIn(b'id="model"', page)
                     self.assertIn(b">LLM annotator</label>", page)
-                    self.assertIn(b"LLM models", page)
+                    self.assertNotIn(b"LLM models", page)
                     self.assertNotIn(b"Prediction folder", page)
                     self.assertNotIn(b'id="folder"', page)
                 with urlopen(url + "/api/datasets") as response:
