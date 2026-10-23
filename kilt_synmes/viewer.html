@@ -93,7 +93,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <main>
   <div class="toolbar">
     <div><span class="label">RECORD</span><h2><span id="record-title">Entity summaries</span><span id="record-index" class="record-index"></span></h2><div class="record-meta" id="record-meta"></div></div>
-    <div class="navigation"><button id="evaluate" title="Evaluate this dataset against M3GQA ground truth" disabled>Evaluate</button><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
+    <div class="navigation"><button id="evaluate" title="Evaluate the current record against M3GQA ground truth" disabled>Evaluate record</button><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
   </div>
   <div id="evaluation-status" role="status" aria-live="polite" hidden></div>
   <section id="evaluation" class="evaluation" aria-label="Annotation evaluation" hidden></section>
@@ -104,7 +104,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <script>
 const element = (id) => document.getElementById(id);
 let datasets = [], records = [], filtered = [], selected = -1, requestNumber = 0;
-let evaluation = null, evaluationRequest = 0;
+let evaluation = null, evaluationRequest = 0, evaluationEnabled = false;
 const MODEL_FOLDERS = ['annotation-pools', 'annotation-pools-2', 'annotation-pools-3'];
 const text = (tag, value, className) => {
   const node = document.createElement(tag);
@@ -141,25 +141,22 @@ function renderEvaluation() {
   const percentage = (value) => value == null ? 'N/A' : `${(value * 100).toFixed(1)}%`;
   const table = document.createElement('table');
   const head = document.createElement('thead'), heading = document.createElement('tr');
-  for (const label of ['Metric', 'Dataset (macro)', 'Current record']) {
+  for (const label of ['Metric', 'Current record']) {
     const cell = text('th', label); cell.scope = 'col'; heading.append(cell);
   }
   head.append(heading); table.append(head);
-  const current = evaluation.records.find((record) => record.annotation_index === selected);
+  const current = evaluation.record;
   const body = document.createElement('tbody');
   for (const [key, label] of [['precision', 'Edge precision'], ['recall', 'Edge recall'], ['f1', 'Edge F1'], ['full_support', 'Full-support coverage'], ['exact_match', 'Exact edge-set match'], ['answer_presence', 'Any gold answer present'], ['answer_coverage', 'Gold answer coverage'], ['all_answers_present', 'All gold answers present']]) {
     const row = document.createElement('tr');
-    row.append(text('td', label), text('td', percentage(evaluation.macro[key])), text('td', percentage(current?.[key])));
+    row.append(text('td', label), text('td', percentage(current?.[key])));
     body.append(row);
   }
   table.append(body); panel.append(table);
-  panel.append(text('p', `Answer-presence scores: ${evaluation.answer_evaluated_records} matched records with nonempty gold answers. Missing or empty gold answers are excluded (N/A).`));
-  panel.append(text('p', `${evaluation.evaluated_records} evaluated / ${evaluation.annotation_records} annotations / ${evaluation.gold_records} gold records. Unmatched annotations: ${evaluation.unmatched_annotation_ids.length}. Gold records without annotations: ${evaluation.missing_annotation_indices.length}.`));
-  panel.append(text('p', `Micro P / R / F1: ${percentage(evaluation.micro.precision)} / ${percentage(evaluation.micro.recall)} / ${percentage(evaluation.micro.f1)}. Mean unique selected triples: ${evaluation.mean_selected_edges?.toFixed(1) ?? 'N/A'}.`));
   if (current) {
     panel.append(text('p', `Gold answers: ${current.gold_answers.join(' / ') || 'N/A'}`));
     panel.append(text('p', `Present answers: ${current.present_answers.join(' / ') || 'None'}. Missing answers: ${current.missing_answers.join(' / ') || 'None'}.`));
-    panel.append(text('p', `Current record: ${current.matched_edges} matched / ${current.selected_edges} selected / ${current.gold_edges} gold edges.`));
+    panel.append(text('p', `Edges: ${current.matched_edges} matched / ${current.selected_edges} selected / ${current.gold_edges} gold.`));
     for (const [key, label] of [['answer_triples', 'Triples containing gold answers'], ['missing_triples', 'Missing gold triples'], ['extra_triples', 'Extra selected triples']]) {
       const details = document.createElement('details');
       details.append(text('summary', `${label} (${current[key].length})`));
@@ -170,24 +167,32 @@ function renderEvaluation() {
   } else {
     panel.append(text('p', 'No matching ground truth for the current record.'));
   }
-  panel.append(text('p', evaluation.scope), text('p', evaluation.matching), text('p', evaluation.warning), text('p', evaluation.answer_evaluation));
+  panel.append(text('p', evaluation.matching), text('p', evaluation.warning), text('p', evaluation.answer_evaluation));
 }
-async function evaluateDataset() {
+async function evaluateCurrentRecord() {
+  if (selected < 0) {
+    evaluation = null;
+    renderEvaluation();
+    return;
+  }
   const dataset = element('dataset').value;
+  const annotationIndex = selected;
   const currentRequest = ++evaluationRequest;
   const notice = element('evaluation-status');
   element('evaluate').disabled = true;
-  notice.hidden = false; notice.textContent = 'Evaluating annotations...';
+  notice.hidden = false; notice.textContent = 'Evaluating current record...';
+  evaluation = null;
+  renderEvaluation();
   try {
-    const result = await getJSON(apiURL(`api/evaluate?dataset=${encodeURIComponent(dataset)}`));
+    const result = await getJSON(apiURL(`api/evaluate?dataset=${encodeURIComponent(dataset)}&index=${annotationIndex}`));
     if (currentRequest !== evaluationRequest) return;
     evaluation = result;
-    notice.textContent = result.evaluated_records ? 'Evaluation complete.' : 'No annotation records matched the ground truth.';
+    notice.textContent = result.record ? 'Current record evaluated.' : 'No matching ground truth for the current record.';
     renderEvaluation();
   } catch (error) {
     if (currentRequest === evaluationRequest) notice.textContent = error.message;
   } finally {
-    if (currentRequest === evaluationRequest) element('evaluate').disabled = !records.length;
+    if (currentRequest === evaluationRequest) element('evaluate').disabled = selected < 0;
   }
 }
 function updateList() {
@@ -210,6 +215,16 @@ function updateList() {
   renderRecord();
 }
 function renderRecord() {
+  element('evaluate').disabled = selected < 0;
+  if (evaluationEnabled) {
+    if (selected >= 0) {
+      evaluateCurrentRecord();
+    } else {
+      ++evaluationRequest;
+      evaluation = null;
+      element('evaluation-status').hidden = true;
+    }
+  }
   renderEvaluation();
   const record = records[selected];
   const position = filtered.findIndex((item) => item.index === selected);
@@ -244,6 +259,7 @@ function renderRecord() {
 async function loadDataset() {
   ++evaluationRequest;
   evaluation = null;
+  evaluationEnabled = false;
   element('evaluation').hidden = true;
   element('evaluation-status').hidden = true;
   element('evaluate').disabled = true;
@@ -277,7 +293,7 @@ function chooseModel() {
   loadDataset();
 }
 element('model').onchange = chooseModel;
-element('evaluate').onclick = evaluateDataset;
+element('evaluate').onclick = () => { evaluationEnabled = true; evaluateCurrentRecord(); };
 element('dataset').onchange = () => { element('search').value = ''; loadDataset(); };
 element('search').oninput = updateList;
 function moveRecord(offset) {

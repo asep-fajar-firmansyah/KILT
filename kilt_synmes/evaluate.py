@@ -9,10 +9,6 @@ from pathlib import Path
 
 
 DEFAULT_GOLD_ROOT = Path(__file__).resolve().parents[1] / "datasets" / "M3GQA" / "test"
-METRICS = ("precision", "recall", "f1", "full_support", "exact_match")
-ANSWER_METRICS = ("answer_presence", "answer_coverage", "all_answers_present")
-
-
 def normalize(value: str) -> str:
     return " ".join(unicodedata.normalize("NFC", value).split())
 
@@ -86,7 +82,27 @@ def read_records(path: Path) -> list[dict]:
     return records
 
 
-def evaluate_annotations(annotation_path: Path, gold_path: Path) -> dict:
+def read_record_at(path: Path, record_index: int) -> dict:
+    if record_index < 0:
+        raise ValueError("Annotation index must be nonnegative")
+    with path.open(encoding="utf-8") as handle:
+        current_index = 0
+        for line_number, line in enumerate(handle, 1):
+            if not line.strip():
+                continue
+            if current_index == record_index:
+                try:
+                    record = json.loads(line)
+                    if not isinstance(record, dict):
+                        raise ValueError("Expected an object")
+                    return record
+                except ValueError as error:
+                    raise ValueError(f"Invalid JSON record in {path.name}, line {line_number}") from error
+            current_index += 1
+    raise ValueError(f"Annotation index {record_index} is outside {path.name}")
+
+
+def evaluate_annotation(annotation_path: Path, gold_path: Path, annotation_index: int) -> dict:
     gold_by_question = {}
     gold_records = read_records(gold_path)
     for gold_index, record in enumerate(gold_records):
@@ -97,25 +113,16 @@ def evaluate_annotations(annotation_path: Path, gold_path: Path) -> dict:
             gold_index, triple_set(record["edges"]), record.get("answer")
         ))
 
-    results = []
-    unmatched = []
-    seen = set()
-    matched_gold_indices = set()
-    annotation_records = read_records(annotation_path)
-    for annotation_index, record in enumerate(annotation_records):
-        record_id = str(record.get("id", ""))
-        question = normalize(record.get("input", ""))
-        if question and question in seen:
-            raise ValueError(f"Duplicate annotation question at record {annotation_index}")
-        seen.add(question)
-        matches = gold_by_question.get(question, [])
-        if len(matches) > 1:
-            raise ValueError(f"Ambiguous ground-truth question at annotation record {annotation_index}")
-        if not matches:
-            unmatched.append(record_id)
-            continue
-        gold_index, gold, answer = matches[0]
-        matched_gold_indices.add(gold_index)
+    record = read_record_at(annotation_path, annotation_index)
+    record_id = str(record.get("id", ""))
+    question = normalize(record.get("input", ""))
+    matches = gold_by_question.get(question, [])
+    if len(matches) > 1:
+        raise ValueError(f"Ambiguous ground-truth question at annotation record {annotation_index}")
+
+    result = None
+    if matches:
+        _, gold, answer = matches[0]
         outputs = record.get("output", [])
         output = outputs[0] if outputs else {}
         selected = triple_set([
@@ -123,55 +130,24 @@ def evaluate_annotations(annotation_path: Path, gold_path: Path) -> dict:
             for group in output.get("summary_by_entity", [])
             for triple in group.get("triples", [])
         ])
-        results.append({
+        result = {
             "id": record_id,
             "annotation_index": annotation_index,
             **edge_scores(selected, gold),
             **answer_scores(selected, answer),
             "missing_triples": sorted(gold - selected),
             "extra_triples": sorted(selected - gold),
-        })
+        }
 
-    count = len(results)
-    macro = {
-        metric: sum(record[metric] for record in results) / count if count else None
-        for metric in METRICS
-    }
-    answer_records = [record for record in results if record["gold_answers"]]
-    for metric in ANSWER_METRICS:
-        macro[metric] = (
-            sum(record[metric] for record in answer_records) / len(answer_records)
-            if answer_records else None
-        )
-    matched = sum(record["matched_edges"] for record in results)
-    selected_count = sum(record["selected_edges"] for record in results)
-    gold_count = sum(record["gold_edges"] for record in results)
-    micro_precision = matched / selected_count if selected_count else float(not gold_count)
-    micro_recall = matched / gold_count if gold_count else 1.0
     return {
         "dataset": annotation_path.name,
         "gold_file": gold_path.name,
-        "scope": "First annotator output; all records in the selected dataset, ignoring search filters",
+        "annotation_index": annotation_index,
+        "record": result,
+        "scope": "First annotator output for the current record only",
         "matching": "Question text only (graph IDs ignored); directed triples, NFC and whitespace normalization, deduplicated across entities",
         "warning": "Reference-edge agreement, not factual correctness. Candidates include source gold edges; this is not independent retrieval evaluation.",
         "answer_evaluation": "Gold answer presence in complete heads/tails only, with NFC and whitespace normalization. No substring, relation, alias, or case-insensitive matching. Presence is not QA accuracy or proof of sufficient reasoning; computed answers need not appear literally.",
-        "answer_evaluated_records": len(answer_records),
-        "evaluated_records": count,
-        "annotation_records": len(annotation_records),
-        "gold_records": len(gold_records),
-        "unmatched_annotation_ids": unmatched,
-        "missing_annotation_indices": [
-            index for index in range(len(gold_records))
-            if index not in matched_gold_indices
-        ],
-        "macro": macro,
-        "micro": {
-            "precision": micro_precision if count else None,
-            "recall": micro_recall if count else None,
-            "f1": (2 * matched / (selected_count + gold_count) if selected_count + gold_count else 1.0) if count else None,
-        },
-        "mean_selected_edges": selected_count / count if count else None,
-        "records": results,
     }
 
 
@@ -179,8 +155,9 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--annotations", required=True, type=Path)
     parser.add_argument("--gold", required=True, type=Path)
+    parser.add_argument("--index", required=True, type=int, help="Zero-based annotation record index")
     args = parser.parse_args()
-    print(json.dumps(evaluate_annotations(args.annotations, args.gold), ensure_ascii=False, indent=2))
+    print(json.dumps(evaluate_annotation(args.annotations, args.gold, args.index), ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

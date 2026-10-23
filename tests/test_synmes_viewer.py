@@ -50,24 +50,30 @@ class TestSynMESViewer(unittest.TestCase):
             url = f"http://127.0.0.1:{server.server_port}"
             try:
                 for prefix in ("", "/workspace/dataset"):
-                    with urlopen(url + prefix + "/api/evaluate?dataset=annotation-pools/sample.jsonl") as response:
+                    with urlopen(url + prefix + "/api/evaluate?dataset=annotation-pools/sample.jsonl&index=0") as response:
                         result = json.load(response)
-                        self.assertEqual(result["macro"]["f1"], 1)
-                        self.assertEqual(result["evaluated_records"], 1)
+                        self.assertEqual(result["record"]["f1"], 1)
+                        self.assertEqual(result["annotation_index"], 0)
+                        self.assertNotIn("macro", result)
                         self.assertNotIn("Hidden", json.dumps(result))
+                with self.assertRaises(HTTPError) as error:
+                    urlopen(url + "/api/evaluate?dataset=annotation-pools/sample.jsonl")
+                self.assertEqual(error.exception.code, 400)
                 with urlopen(url + "/") as response:
-                    self.assertIn(b'id="evaluate"', response.read())
+                    page = response.read()
+                    self.assertIn(b'id="evaluate"', page)
+                    self.assertNotIn(b'Dataset (macro)', page)
                 for key in ("../sample.jsonl", "retrieval/sample.jsonl"):
                     with self.assertRaises(HTTPError) as error:
-                        urlopen(url + "/api/evaluate?dataset=" + key)
+                        urlopen(url + "/api/evaluate?dataset=" + key + "&index=0")
                     self.assertEqual(error.exception.code, 404)
                 (gold / "sample.jsonl").unlink()
                 with self.assertRaises(HTTPError) as error:
-                    urlopen(url + "/api/evaluate?dataset=annotation-pools/sample.jsonl")
+                    urlopen(url + "/api/evaluate?dataset=annotation-pools/sample.jsonl&index=0")
                 self.assertEqual(error.exception.code, 404)
                 (gold / "sample.jsonl").write_text("invalid", encoding="utf-8")
                 with self.assertRaises(HTTPError) as error:
-                    urlopen(url + "/api/evaluate?dataset=annotation-pools/sample.jsonl")
+                    urlopen(url + "/api/evaluate?dataset=annotation-pools/sample.jsonl&index=0")
                 self.assertEqual(error.exception.code, 422)
             finally:
                 server.shutdown()
