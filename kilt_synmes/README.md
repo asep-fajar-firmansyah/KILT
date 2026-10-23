@@ -56,10 +56,8 @@ arbitrary match. A missing question is reported as having no matching ground tru
 Selected triples are combined across entity groups and deduplicated. Matching
 requires the complete directed triple, with NFC and whitespace normalization but
 no lowercasing, alias expansion, or inverse-relation equivalence. The panel shows
-the current record's precision, recall, F1, full-support coverage (all gold edges
-selected), exact edge-set match, and answer-presence metrics, plus expandable
-missing/extra triples. There are no dataset-level macro or micro scores. Both edge
-sets empty scores 1; an empty selection against nonempty gold scores 0.
+the current record's edge recall and answer-presence metrics, plus expandable
+missing/extra triples. There are no dataset-level macro or micro scores.
 For empty gold, recall is 1 and precision/F1 are 0 for a nonempty selection.
 
 This measures reference-edge agreement, not factual correctness or independent

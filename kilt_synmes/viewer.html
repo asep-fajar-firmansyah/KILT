@@ -147,7 +147,7 @@ function renderEvaluation() {
   head.append(heading); table.append(head);
   const current = evaluation.record;
   const body = document.createElement('tbody');
-  for (const [key, label] of [['precision', 'Edge precision'], ['recall', 'Edge recall'], ['f1', 'Edge F1'], ['full_support', 'Full-support coverage'], ['exact_match', 'Exact edge-set match'], ['answer_presence', 'Any gold answer present'], ['answer_coverage', 'Gold answer coverage'], ['all_answers_present', 'All gold answers present']]) {
+  for (const [key, label] of [['recall', 'Edge recall'], ['answer_presence', 'Any gold answer present'], ['answer_coverage', 'Gold answer coverage'], ['all_answers_present', 'All gold answers present']]) {
     const row = document.createElement('tr');
     row.append(text('td', label), text('td', percentage(current?.[key])));
     body.append(row);

@@ -63,6 +63,10 @@ class TestSynMESViewer(unittest.TestCase):
                     page = response.read()
                     self.assertIn(b'id="evaluate"', page)
                     self.assertNotIn(b'Dataset (macro)', page)
+                    self.assertNotIn(b'Edge precision', page)
+                    self.assertNotIn(b'Edge F1', page)
+                    self.assertNotIn(b'Full-support coverage', page)
+                    self.assertNotIn(b'Exact edge-set match', page)
                 for key in ("../sample.jsonl", "retrieval/sample.jsonl"):
                     with self.assertRaises(HTTPError) as error:
                         urlopen(url + "/api/evaluate?dataset=" + key + "&index=0")
