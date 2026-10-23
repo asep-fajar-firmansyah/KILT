@@ -33,6 +33,7 @@ label, .label { display: block; color: var(--muted); font-size: 12px; font-weigh
 main { min-width: 0; padding: 28px 36px 64px; }
 .toolbar { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; border-bottom: 1px solid var(--line); padding-bottom: 20px; }
 .toolbar h2 { font-family: Georgia, serif; font-size: 25px; font-weight: 400; margin: 5px 0 8px; overflow-wrap: anywhere; }
+.record-index { color: var(--muted); font-family: "Segoe UI", "Helvetica Neue", sans-serif; font-size: 12px; margin-left: 8px; vertical-align: middle; }
 .record-meta { color: var(--muted); font-size: 12px; }
 .navigation { display: flex; align-items: center; gap: 8px; }
 .icon { width: 36px; height: 36px; padding: 0; font-size: 24px; line-height: 1; }
@@ -82,7 +83,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 </aside>
 <main>
   <div class="toolbar">
-    <div><span class="label">RECORD</span><h2 id="record-title">Entity summaries</h2><div class="record-meta" id="record-meta"></div></div>
+    <div><span class="label">RECORD</span><h2><span id="record-title">Entity summaries</span><span id="record-index" class="record-index"></span></h2><div class="record-meta" id="record-meta"></div></div>
     <div class="navigation"><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
   </div>
   <div id="status" class="status" role="status" aria-live="polite">Loading datasets...</div>
@@ -146,6 +147,7 @@ function renderRecord() {
   element('next').disabled = position < 0 || position >= filtered.length - 1;
   element('entities').replaceChildren();
   element('record-title').textContent = record ? record.id || `Record ${selected + 1}` : 'Entity summaries';
+  element('record-index').textContent = record ? `(index ${selected})` : '';
   element('record-meta').textContent = '';
   if (!record) { setStatus(records.length ? 'No matching records.' : 'No records in this dataset.'); return; }
   const output = record.output[0];

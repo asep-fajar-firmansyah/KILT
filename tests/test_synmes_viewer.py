@@ -82,6 +82,7 @@ class TestSynMESViewer(unittest.TestCase):
                 with urlopen(url + "/") as response:
                     page = response.read()
                     self.assertIn(b"Entity summaries", page)
+                    self.assertIn(b'id="record-index"', page)
                     self.assertIn(b'id="model"', page)
                     self.assertIn(b">LLM annotator</label>", page)
                     self.assertNotIn(b"LLM models", page)
