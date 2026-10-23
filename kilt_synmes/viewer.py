@@ -8,6 +8,8 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
+from kilt_synmes.evaluate import DEFAULT_GOLD_ROOT, evaluate_annotations
+
 
 POOL_FOLDERS = ("annotation-pools", "annotation-pools-2", "annotation-pools-3")
 DEFAULT_ROOT = Path(__file__).resolve().parents[1] / "predictions" / "synmes"
@@ -71,7 +73,7 @@ def load_summaries(path: Path) -> list[dict]:
     return records
 
 
-def make_handler(root: Path) -> type[BaseHTTPRequestHandler]:
+def make_handler(root: Path, gold_root: Path = DEFAULT_GOLD_ROOT) -> type[BaseHTTPRequestHandler]:
     class ViewerHandler(BaseHTTPRequestHandler):
         def respond(self, status: int, body: bytes, content_type: str) -> None:
             self.send_response(status)
@@ -115,6 +117,22 @@ def make_handler(root: Path) -> type[BaseHTTPRequestHandler]:
                     return
                 self.send_json(200, records)
                 return
+            if route.endswith("/api/evaluate"):
+                key = parse_qs(request.query).get("dataset", [""])[0]
+                if key not in paths:
+                    self.send_json(404, {"error": "Dataset not found"})
+                    return
+                gold_path = gold_root / paths[key].name
+                if not gold_path.is_file() or not gold_path.resolve().is_relative_to(gold_root.resolve()):
+                    self.send_json(404, {"error": "Matching ground-truth file not found"})
+                    return
+                try:
+                    report = evaluate_annotations(paths[key], gold_path)
+                except (OSError, ValueError, KeyError, TypeError, AttributeError) as error:
+                    self.send_json(422, {"error": f"Unable to evaluate dataset: {error}"})
+                    return
+                self.send_json(200, report)
+                return
             self.send_json(404, {"error": "Not found"})
 
     return ViewerHandler
@@ -123,12 +141,13 @@ def make_handler(root: Path) -> type[BaseHTTPRequestHandler]:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--data-dir", type=Path, default=DEFAULT_ROOT)
+    parser.add_argument("--gold-dir", type=Path, default=DEFAULT_GOLD_ROOT)
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8765)
     args = parser.parse_args()
     if not args.data_dir.is_dir():
         parser.error(f"Data directory does not exist: {args.data_dir}")
-    with ThreadingHTTPServer((args.host, args.port), make_handler(args.data_dir)) as server:
+    with ThreadingHTTPServer((args.host, args.port), make_handler(args.data_dir, args.gold_dir)) as server:
         print(f"Entity summary viewer: http://{args.host}:{server.server_port}", flush=True)
         try:
             server.serve_forever()

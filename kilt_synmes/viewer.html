@@ -49,6 +49,15 @@ th, td { text-align: left; padding: 12px; border-bottom: 1px solid var(--line); 
 td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; font-size: 12px; }
 .status { padding: 40px 0; color: var(--muted); line-height: 1.6; }
 .error { color: #a32944; }
+.evaluation { border-bottom: 1px solid var(--line); padding: 20px 0; }
+.evaluation h3 { font-size: 16px; margin: 0 0 12px; }
+.evaluation p { font-size: 12px; color: var(--muted); line-height: 1.6; overflow-wrap: anywhere; }
+.evaluation td:nth-child(2) { font: inherit; color: inherit; }
+.evaluation details { margin-top: 12px; }
+.evaluation summary { cursor: pointer; font-size: 13px; }
+.evaluation li { overflow-wrap: anywhere; margin: 8px 0; font-size: 12px; }
+#evaluation-status { margin: 12px 0; color: var(--muted); }
+#evaluate { margin-right: 8px; }
 [hidden] { display: none !important; }
 @media (min-width: 1500px) { main { padding-left: 56px; padding-right: 56px; } }
 @media (max-width: 760px) {
@@ -84,8 +93,10 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <main>
   <div class="toolbar">
     <div><span class="label">RECORD</span><h2><span id="record-title">Entity summaries</span><span id="record-index" class="record-index"></span></h2><div class="record-meta" id="record-meta"></div></div>
-    <div class="navigation"><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
+    <div class="navigation"><button id="evaluate" title="Evaluate this dataset against M3GQA ground truth" disabled>Evaluate</button><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
   </div>
+  <div id="evaluation-status" role="status" aria-live="polite" hidden></div>
+  <section id="evaluation" class="evaluation" aria-label="Annotation evaluation" hidden></section>
   <div id="status" class="status" role="status" aria-live="polite">Loading datasets...</div>
   <div id="entities"></div>
 </main>
@@ -93,6 +104,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <script>
 const element = (id) => document.getElementById(id);
 let datasets = [], records = [], filtered = [], selected = -1, requestNumber = 0;
+let evaluation = null, evaluationRequest = 0;
 const MODEL_FOLDERS = ['annotation-pools', 'annotation-pools-2', 'annotation-pools-3'];
 const text = (tag, value, className) => {
   const node = document.createElement(tag);
@@ -120,6 +132,64 @@ function apiURL(path) {
   return `${prefix}${path}`;
 }
 function groups(record) { return record.output.flatMap((output) => output.summary_by_entity); }
+function renderEvaluation() {
+  const panel = element('evaluation');
+  panel.replaceChildren();
+  panel.hidden = !evaluation;
+  if (!evaluation) return;
+  panel.append(text('h3', 'Reference-edge and answer-presence evaluation'));
+  const percentage = (value) => value == null ? 'N/A' : `${(value * 100).toFixed(1)}%`;
+  const table = document.createElement('table');
+  const head = document.createElement('thead'), heading = document.createElement('tr');
+  for (const label of ['Metric', 'Dataset (macro)', 'Current record']) {
+    const cell = text('th', label); cell.scope = 'col'; heading.append(cell);
+  }
+  head.append(heading); table.append(head);
+  const current = evaluation.records.find((record) => record.annotation_index === selected);
+  const body = document.createElement('tbody');
+  for (const [key, label] of [['precision', 'Edge precision'], ['recall', 'Edge recall'], ['f1', 'Edge F1'], ['full_support', 'Full-support coverage'], ['exact_match', 'Exact edge-set match'], ['answer_presence', 'Any gold answer present'], ['answer_coverage', 'Gold answer coverage'], ['all_answers_present', 'All gold answers present']]) {
+    const row = document.createElement('tr');
+    row.append(text('td', label), text('td', percentage(evaluation.macro[key])), text('td', percentage(current?.[key])));
+    body.append(row);
+  }
+  table.append(body); panel.append(table);
+  panel.append(text('p', `Answer-presence scores: ${evaluation.answer_evaluated_records} matched records with nonempty gold answers. Missing or empty gold answers are excluded (N/A).`));
+  panel.append(text('p', `${evaluation.evaluated_records} evaluated / ${evaluation.annotation_records} annotations / ${evaluation.gold_records} gold records. Unmatched annotations: ${evaluation.unmatched_annotation_ids.length}. Gold records without annotations: ${evaluation.missing_annotation_indices.length}.`));
+  panel.append(text('p', `Micro P / R / F1: ${percentage(evaluation.micro.precision)} / ${percentage(evaluation.micro.recall)} / ${percentage(evaluation.micro.f1)}. Mean unique selected triples: ${evaluation.mean_selected_edges?.toFixed(1) ?? 'N/A'}.`));
+  if (current) {
+    panel.append(text('p', `Gold answers: ${current.gold_answers.join(' / ') || 'N/A'}`));
+    panel.append(text('p', `Present answers: ${current.present_answers.join(' / ') || 'None'}. Missing answers: ${current.missing_answers.join(' / ') || 'None'}.`));
+    panel.append(text('p', `Current record: ${current.matched_edges} matched / ${current.selected_edges} selected / ${current.gold_edges} gold edges.`));
+    for (const [key, label] of [['answer_triples', 'Triples containing gold answers'], ['missing_triples', 'Missing gold triples'], ['extra_triples', 'Extra selected triples']]) {
+      const details = document.createElement('details');
+      details.append(text('summary', `${label} (${current[key].length})`));
+      const list = document.createElement('ul');
+      for (const triple of current[key]) list.append(text('li', triple.join(' | ')));
+      details.append(list); panel.append(details);
+    }
+  } else {
+    panel.append(text('p', 'No matching ground truth for the current record.'));
+  }
+  panel.append(text('p', evaluation.scope), text('p', evaluation.matching), text('p', evaluation.warning), text('p', evaluation.answer_evaluation));
+}
+async function evaluateDataset() {
+  const dataset = element('dataset').value;
+  const currentRequest = ++evaluationRequest;
+  const notice = element('evaluation-status');
+  element('evaluate').disabled = true;
+  notice.hidden = false; notice.textContent = 'Evaluating annotations...';
+  try {
+    const result = await getJSON(apiURL(`api/evaluate?dataset=${encodeURIComponent(dataset)}`));
+    if (currentRequest !== evaluationRequest) return;
+    evaluation = result;
+    notice.textContent = result.evaluated_records ? 'Evaluation complete.' : 'No annotation records matched the ground truth.';
+    renderEvaluation();
+  } catch (error) {
+    if (currentRequest === evaluationRequest) notice.textContent = error.message;
+  } finally {
+    if (currentRequest === evaluationRequest) element('evaluate').disabled = !records.length;
+  }
+}
 function updateList() {
   const query = element('search').value.trim().toLowerCase();
   filtered = records.map((record, index) => ({record, index})).filter(({record}) => {
@@ -140,6 +210,7 @@ function updateList() {
   renderRecord();
 }
 function renderRecord() {
+  renderEvaluation();
   const record = records[selected];
   const position = filtered.findIndex((item) => item.index === selected);
   element('position').textContent = `${position + 1} / ${filtered.length}`;
@@ -171,6 +242,11 @@ function renderRecord() {
   }
 }
 async function loadDataset() {
+  ++evaluationRequest;
+  evaluation = null;
+  element('evaluation').hidden = true;
+  element('evaluation-status').hidden = true;
+  element('evaluate').disabled = true;
   if (!element('dataset').value) {
     records = []; filtered = []; selected = -1;
     updateList();
@@ -186,6 +262,7 @@ async function loadDataset() {
     const result = await getJSON(apiURL(`api/records?dataset=${encodeURIComponent(element('dataset').value)}`));
     if (currentRequest !== requestNumber) return;
     records = result;
+    element('evaluate').disabled = !records.length;
     element('search').disabled = false;
     updateList();
   } catch (error) { if (currentRequest === requestNumber) setStatus(error.message, true); }
@@ -200,6 +277,7 @@ function chooseModel() {
   loadDataset();
 }
 element('model').onchange = chooseModel;
+element('evaluate').onclick = evaluateDataset;
 element('dataset').onchange = () => { element('search').value = ''; loadDataset(); };
 element('search').oninput = updateList;
 function moveRecord(offset) {

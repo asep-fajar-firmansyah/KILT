@@ -33,6 +33,47 @@ def annotation_record():
 
 
 class TestSynMESViewer(unittest.TestCase):
+    def test_evaluation_endpoint_and_prefixed_route(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            pool = root / "annotation-pools"
+            gold = root / "gold"
+            pool.mkdir()
+            gold.mkdir()
+            record = annotation_record()
+            record["id"] = "m3gqa-1"
+            (pool / "sample.jsonl").write_text(json.dumps(record), encoding="utf-8")
+            (gold / "sample.jsonl").write_text(json.dumps({"graph_id": 1, "question": "Hidden question", "edges": [["Entity A", "lives_in", "Paris"]]}), encoding="utf-8")
+            server = ThreadingHTTPServer(("127.0.0.1", 0), make_handler(root, gold))
+            thread = threading.Thread(target=server.serve_forever, daemon=True)
+            thread.start()
+            url = f"http://127.0.0.1:{server.server_port}"
+            try:
+                for prefix in ("", "/workspace/dataset"):
+                    with urlopen(url + prefix + "/api/evaluate?dataset=annotation-pools/sample.jsonl") as response:
+                        result = json.load(response)
+                        self.assertEqual(result["macro"]["f1"], 1)
+                        self.assertEqual(result["evaluated_records"], 1)
+                        self.assertNotIn("Hidden", json.dumps(result))
+                with urlopen(url + "/") as response:
+                    self.assertIn(b'id="evaluate"', response.read())
+                for key in ("../sample.jsonl", "retrieval/sample.jsonl"):
+                    with self.assertRaises(HTTPError) as error:
+                        urlopen(url + "/api/evaluate?dataset=" + key)
+                    self.assertEqual(error.exception.code, 404)
+                (gold / "sample.jsonl").unlink()
+                with self.assertRaises(HTTPError) as error:
+                    urlopen(url + "/api/evaluate?dataset=annotation-pools/sample.jsonl")
+                self.assertEqual(error.exception.code, 404)
+                (gold / "sample.jsonl").write_text("invalid", encoding="utf-8")
+                with self.assertRaises(HTTPError) as error:
+                    urlopen(url + "/api/evaluate?dataset=annotation-pools/sample.jsonl")
+                self.assertEqual(error.exception.code, 422)
+            finally:
+                server.shutdown()
+                server.server_close()
+                thread.join()
+
     def test_projection_only_contains_entity_summaries(self):
         projected = project_record(annotation_record())
         self.assertEqual(set(projected), {"id", "output"})

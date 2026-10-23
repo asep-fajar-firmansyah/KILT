@@ -44,6 +44,51 @@ Use `--port 8766` if the default port is occupied, or
 `--data-dir /path/to/predictions/synmes` to choose a different data root.
 The server binds to localhost by default and requires no additional packages.
 
+### Annotation evaluation
+
+Click **Evaluate** in the record toolbar to score the entire selected dataset
+against the same-named M3GQA test file. Search filters do not limit evaluation.
+The viewer evaluates the first annotator output, matching the displayed summaries.
+Records match by question text only, with NFC and whitespace normalization;
+graph IDs are ignored. Duplicate annotation questions or ambiguous gold questions
+produce an error instead of an arbitrary match. Missing questions do not match.
+
+Selected triples are combined across entity groups and deduplicated. Matching
+requires the complete directed triple, with NFC and whitespace normalization but
+no lowercasing, alias expansion, or inverse-relation equivalence. The panel shows
+macro precision, recall, F1, full-support coverage (all gold edges selected), exact
+edge-set match, micro precision/recall/F1, and mean unique selected edge count.
+Current-record scores and expandable missing/extra triples are also available.
+Macro scores average per-record scores over matched questions only; unmatched
+annotations and gold records without annotations are reported separately. Both
+edge sets empty scores 1; an empty selection against nonempty gold scores 0.
+For empty gold, recall is 1 and precision/F1 are 0 for a nonempty selection.
+
+This measures reference-edge agreement, not factual correctness or independent
+retrieval: the current candidate pipeline includes gold source edges. Answer
+accuracy is not computed because annotation summaries are not final QA answers.
+Answer presence is measured separately using the gold `answer` field, not
+`answer_entities`: any gold answer present, fraction of gold answers present,
+and all gold answers present. Single answers and lists are supported; duplicate
+answers are removed. Answers must match a complete triple head or tail after
+NFC and whitespace normalization. Relations, substrings, case folding, and aliases
+are not used. Numeric answers use their string representation for literal matching.
+Missing/empty answers score N/A and are excluded from answer metric averages;
+the answer evaluation denominator is displayed separately. Current-record details
+list found/missing answers and triples containing them. Presence does not establish
+reasoning sufficiency; computed answers may be derivable without appearing literally.
+The operation is read-only and does not call an LLM or change annotation files.
+Use `--gold-dir /path/to/gold` when starting the viewer to override the default
+`datasets/M3GQA/test` directory.
+
+The evaluator is also available from the command line:
+
+```bash
+python3 -m kilt_synmes.evaluate \
+  --annotations predictions/synmes/annotation-pools/multihop_setting.jsonl \
+  --gold datasets/M3GQA/test/multihop_setting.jsonl
+```
+
 ### Dataset viewer service
 
 On another Linux server with systemd and Python 3.10+, copy the repository
