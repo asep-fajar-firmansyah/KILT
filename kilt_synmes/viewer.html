@@ -60,6 +60,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 #evaluate { margin-right: 8px; }
 #rerun { white-space: nowrap; }
 #version-select { width: auto; min-width: 112px; }
+#rerun-log { max-height: 190px; overflow: auto; margin: 8px 0 18px; padding: 10px 12px; border-left: 2px solid var(--accent); background: #f0f4f2; color: var(--muted); font: 12px/1.6 "Courier New", monospace; white-space: pre-wrap; }
 [hidden] { display: none !important; }
 @media (min-width: 1500px) { main { padding-left: 56px; padding-right: 56px; } }
 @media (max-width: 760px) {
@@ -99,6 +100,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
   </div>
   <div id="evaluation-status" role="status" aria-live="polite" hidden></div>
   <div id="rerun-status" role="status" aria-live="polite" hidden></div>
+  <pre id="rerun-log" role="log" aria-live="polite" aria-label="Re-annotation progress" hidden></pre>
   <section id="evaluation" class="evaluation" aria-label="Annotation evaluation" hidden></section>
   <div id="status" class="status" role="status" aria-live="polite">Loading datasets...</div>
   <div id="entities"></div>
@@ -135,11 +137,26 @@ function apiURL(path) {
   const prefix = location.pathname.endsWith('/') ? location.pathname : `${location.pathname}/`;
   return `${prefix}${path}`;
 }
-async function postJSON(url) {
+async function streamJSON(url, onEvent) {
   const response = await fetch(url, {method: 'POST'});
-  const data = await response.json();
-  if (!response.ok) throw new Error(data.error || 'Unable to rerun annotation');
-  return data;
+  if (!response.ok) {
+    const data = await response.json();
+    throw new Error(data.error || 'Unable to rerun annotation');
+  }
+  const reader = response.body.getReader();
+  const decoder = new TextDecoder();
+  let buffer = '';
+  while (true) {
+    const {value, done} = await reader.read();
+    buffer += decoder.decode(value || new Uint8Array(), {stream: !done});
+    const lines = buffer.split('\n');
+    buffer = lines.pop();
+    for (const line of lines) {
+      if (line.trim()) onEvent(JSON.parse(line));
+    }
+    if (done) break;
+  }
+  if (buffer.trim()) onEvent(JSON.parse(buffer));
 }
 function groups(record) { return record.output.flatMap((output) => output.summary_by_entity); }
 function renderEvaluation() {
@@ -306,11 +323,24 @@ async function rerunCurrentRecord() {
   const annotationIndex = selected;
   const recordId = records[annotationIndex]?.id || `Record ${annotationIndex + 1}`;
   const status = element('rerun-status');
+  const log = element('rerun-log');
+  let completed = false;
   element('rerun').disabled = true;
   status.hidden = false;
   status.textContent = `Rerunning annotation for ${recordId} with ${datasets.find((item) => item.key === dataset)?.model || 'the selected model'}...`;
+  log.hidden = false;
+  log.textContent = '';
   try {
-    await postJSON(apiURL(`api/rerun?dataset=${encodeURIComponent(dataset)}&index=${annotationIndex}`));
+    await streamJSON(apiURL(`api/rerun?dataset=${encodeURIComponent(dataset)}&index=${annotationIndex}`), (event) => {
+      if (event.type === 'error') throw new Error(event.message);
+      if (event.type === 'complete') { completed = true; return; }
+      const line = event.type === 'progress'
+        ? `${event.annotator}: search step ${event.step}/${event.total}, best score ${Number(event.value).toFixed(4)}`
+        : event.message;
+      log.textContent += `${line}\n`;
+      log.scrollTop = log.scrollHeight;
+    });
+    if (!completed) throw new Error('Rerun stream ended before completion.');
     const result = await getJSON(apiURL(`api/records?dataset=${encodeURIComponent(dataset)}`));
     records = result;
     versionedRecord = '';

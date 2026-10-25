@@ -136,14 +136,24 @@ def write_records_atomically(path: Path, records: list[dict]) -> None:
             temporary_path.unlink()
 
 
-def rerun_record(annotation_path: Path, retrieval_path: Path, annotation_index: int) -> int:
+def rerun_record(annotation_path: Path, retrieval_path: Path, annotation_index: int, progress_callback=None) -> int:
     from kilt_synmes.annotate import annotate_record, build_annotators
 
     with WRITE_LOCK:
-        return _rerun_record_locked(annotation_path, retrieval_path, annotation_index, annotate_record, build_annotators)
+        return _rerun_record_locked(
+            annotation_path, retrieval_path, annotation_index, annotate_record,
+            build_annotators, progress_callback
+        )
 
 
-def _rerun_record_locked(annotation_path: Path, retrieval_path: Path, annotation_index: int, annotate_record, build_annotators) -> int:
+def _rerun_record_locked(
+    annotation_path: Path,
+    retrieval_path: Path,
+    annotation_index: int,
+    annotate_record,
+    build_annotators,
+    progress_callback=None,
+) -> int:
     records = []
     with annotation_path.open(encoding="utf-8") as handle:
         records = [json.loads(line) for line in handle if line.strip()]
@@ -178,12 +188,15 @@ def _rerun_record_locked(annotation_path: Path, retrieval_path: Path, annotation
     annotator = build_annotators(
         1, str(model), None, output_meta.get("seed", 42), "http://localhost:11434"
     )
+    if progress_callback:
+        progress_callback({"type": "log", "message": f"Connected to annotator model {model}."})
     generated = annotate_record(
         retrieval,
         annotator,
         config,
         progress=False,
         per_entity_budget=record_meta.get("budget_scope", "per-entity") != "total",
+        progress_callback=progress_callback,
     )
     updated = copy.deepcopy(current)
     updated.setdefault("output", [])[0] = generated["output"][0]
@@ -317,12 +330,28 @@ def make_handler(root: Path, gold_root: Path = DEFAULT_GOLD_ROOT) -> type[BaseHT
             except ValueError:
                 self.send_json(400, {"error": "A nonnegative annotation index is required"})
                 return
+            self.send_response(200)
+            self.send_header("Content-Type", "application/x-ndjson; charset=utf-8")
+            self.send_header("Cache-Control", "no-store")
+            self.send_header("X-Content-Type-Options", "nosniff")
+            self.send_header("Transfer-Encoding", "chunked")
+            self.end_headers()
+
+            def send_event(event: dict) -> None:
+                body = json.dumps(event, ensure_ascii=False).encode("utf-8") + b"\n"
+                self.wfile.write(f"{len(body):X}\r\n".encode("ascii") + body + b"\r\n")
+                self.wfile.flush()
+
+            send_event({"type": "log", "message": "Preparing rerun for the selected record..."})
             try:
-                latest_version = rerun_record(annotation_path, retrieval_path, annotation_index)
+                latest_version = rerun_record(
+                    annotation_path, retrieval_path, annotation_index, send_event
+                )
+                send_event({"type": "complete", "version": latest_version})
             except (OSError, ValueError, KeyError, TypeError, AttributeError) as error:
-                self.send_json(422, {"error": f"Unable to rerun selected record: {error}"})
-                return
-            self.send_json(200, {"version": latest_version})
+                send_event({"type": "error", "message": f"Unable to rerun selected record: {error}"})
+            finally:
+                self.wfile.write(b"0\r\n\r\n")
 
     return ViewerHandler
 

@@ -73,7 +73,9 @@ class TestSynMESViewer(unittest.TestCase):
                 annotation_module.build_annotators = Mock(return_value=[{"name": "annotator-1"}])
                 with patch.dict(sys.modules, {"kilt_synmes.annotate": annotation_module}):
                     with urlopen(url + "/api/rerun?dataset=annotation-pools/sample.jsonl&index=0", data=b"") as response:
-                        self.assertEqual(json.load(response)["version"], 2)
+                        events = [json.loads(line) for line in response.read().decode("utf-8").splitlines()]
+                        self.assertEqual(events[-1], {"type": "complete", "version": 2})
+                        self.assertTrue(any("Preparing rerun" in event.get("message", "") for event in events))
                 self.assertEqual(annotation_module.annotate_record.call_args.args[0], source_records[0])
                 saved = [json.loads(line) for line in annotation_path.read_text(encoding="utf-8").splitlines()]
                 self.assertEqual(saved[0]["output"][0]["answer"], "new")

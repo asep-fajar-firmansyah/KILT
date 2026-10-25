@@ -13,7 +13,7 @@ import time
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from typing import Dict, List, Sequence, Tuple
+from typing import Callable, Dict, List, Sequence, Tuple
 
 from tqdm import tqdm
 
@@ -166,6 +166,7 @@ def annotate_record(
     progress: bool = False,
     per_entity_budget: bool = True,
     max_workers: int = 1,
+    progress_callback: Callable[[dict], None] | None = None,
 ) -> dict:
     """Run every annotator over one retrieval record and collect its summaries."""
     triples = [tuple(triple) for triple in record["candidate_triples"]]
@@ -205,11 +206,20 @@ def annotate_record(
             leave=False,
             disable=not progress or workers > 1,
         ) as bar:
+            def on_step(step: int, total: int, value: float) -> None:
+                bar.update(1)
+                bar.set_postfix(value=f"{value:.3f}")
+                if progress_callback:
+                    progress_callback({
+                        "type": "progress",
+                        "annotator": annotator["name"],
+                        "step": step,
+                        "total": total,
+                        "value": round(value, 4),
+                    })
+
             return search.search(
-                on_step=lambda step, total, value: (
-                    bar.update(1),
-                    bar.set_postfix(value=f"{value:.3f}"),
-                )
+                on_step=on_step
             )
 
     if workers > 1:
