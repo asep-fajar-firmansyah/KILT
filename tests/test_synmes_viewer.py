@@ -1,11 +1,14 @@
 import json
+import sys
 import tempfile
 import threading
+import types
 import unittest
 from http.server import ThreadingHTTPServer
 from pathlib import Path
 from urllib.error import HTTPError
 from urllib.request import urlopen
+from unittest.mock import Mock, patch
 
 from kilt_synmes.viewer import dataset_model, dataset_paths, load_summaries, make_handler, project_record
 
@@ -33,6 +36,60 @@ def annotation_record():
 
 
 class TestSynMESViewer(unittest.TestCase):
+    def test_rerun_updates_only_selected_record_and_keeps_versions(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            pool = root / "annotation-pools"
+            retrieval = root / "retrieval"
+            pool.mkdir()
+            retrieval.mkdir()
+            first = annotation_record()
+            first["id"] = "record-1"
+            first["output"][0]["meta"]["model"] = "ollama:qwen3"
+            first["meta"] = {"max_summary_len": 4, "budget_scope": "total"}
+            second = annotation_record()
+            second["id"] = "record-2"
+            source_records = [
+                {"id": "record-1", "question": "question 1", "candidate_triples": [["A", "r", "B"]], "provenance": [], "meta": {"topic_entities": ["A"]}},
+                {"id": "record-2", "question": "question 2", "candidate_triples": [["C", "r", "D"]], "provenance": [], "meta": {"topic_entities": ["C"]}},
+            ]
+            annotation_path = pool / "sample.jsonl"
+            retrieval_path = retrieval / "sample.jsonl"
+            annotation_path.write_text("\n".join(json.dumps(record) for record in (first, second)) + "\n", encoding="utf-8")
+            retrieval_path.write_text("\n".join(json.dumps(record) for record in source_records) + "\n", encoding="utf-8")
+            generated = {
+                "id": "record-1",
+                "input": "question 1",
+                "output": [{"answer": "new", "meta": {"model": "ollama:qwen3"}, "summary_by_entity": []}],
+                "meta": {},
+            }
+            server = ThreadingHTTPServer(("127.0.0.1", 0), make_handler(root))
+            thread = threading.Thread(target=server.serve_forever, daemon=True)
+            thread.start()
+            url = f"http://127.0.0.1:{server.server_port}"
+            try:
+                annotation_module = types.ModuleType("kilt_synmes.annotate")
+                annotation_module.annotate_record = Mock(return_value=generated)
+                annotation_module.build_annotators = Mock(return_value=[{"name": "annotator-1"}])
+                with patch.dict(sys.modules, {"kilt_synmes.annotate": annotation_module}):
+                    with urlopen(url + "/api/rerun?dataset=annotation-pools/sample.jsonl&index=0", data=b"") as response:
+                        self.assertEqual(json.load(response)["version"], 2)
+                self.assertEqual(annotation_module.annotate_record.call_args.args[0], source_records[0])
+                saved = [json.loads(line) for line in annotation_path.read_text(encoding="utf-8").splitlines()]
+                self.assertEqual(saved[0]["output"][0]["answer"], "new")
+                self.assertEqual(saved[1], second)
+                with urlopen(url + "/api/versions?dataset=annotation-pools/sample.jsonl&index=0") as response:
+                    versions = json.load(response)
+                self.assertEqual([entry["version"] for entry in versions], [1, 2])
+                self.assertEqual(versions[0]["record"]["output"][0]["summary_by_entity"][0]["answer"], "Entity A lives in Paris.")
+                self.assertEqual(versions[1]["record"]["output"][0]["summary_by_entity"], [])
+                self.assertTrue((root / "versions" / "annotation-pools" / "sample.jsonl").is_file())
+                self.assertEqual(len(dataset_paths(root)), 1)
+            finally:
+                server.shutdown()
+                server.server_close()
+                thread.join()
+
     def test_evaluation_endpoint_and_prefixed_route(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
@@ -135,6 +192,8 @@ class TestSynMESViewer(unittest.TestCase):
                     self.assertIn(b"Entity summaries", page)
                     self.assertIn(b'id="record-index"', page)
                     self.assertIn(b'id="model"', page)
+                    self.assertIn(b'id="rerun"', page)
+                    self.assertIn(b'id="version-select"', page)
                     self.assertIn(b">LLM annotator</label>", page)
                     self.assertNotIn(b"LLM models", page)
                     self.assertNotIn(b"Prediction folder", page)

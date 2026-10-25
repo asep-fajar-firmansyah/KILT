@@ -58,6 +58,8 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 .evaluation li { overflow-wrap: anywhere; margin: 8px 0; font-size: 12px; }
 #evaluation-status { margin: 12px 0; color: var(--muted); }
 #evaluate { margin-right: 8px; }
+#rerun { white-space: nowrap; }
+#version-select { width: auto; min-width: 112px; }
 [hidden] { display: none !important; }
 @media (min-width: 1500px) { main { padding-left: 56px; padding-right: 56px; } }
 @media (max-width: 760px) {
@@ -93,9 +95,10 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 <main>
   <div class="toolbar">
     <div><span class="label">RECORD</span><h2><span id="record-title">Entity summaries</span><span id="record-index" class="record-index"></span></h2><div class="record-meta" id="record-meta"></div></div>
-    <div class="navigation"><button id="evaluate" title="Evaluate the current record against M3GQA ground truth" disabled>Evaluate record</button><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
+    <div class="navigation"><button id="evaluate" title="Evaluate the current record against M3GQA ground truth" disabled>Evaluate record</button><select id="version-select" aria-label="Record version" title="Record version" disabled></select><button id="rerun" title="Rerun annotation for this record with its current model" disabled>Rerun annotation</button><button class="icon" id="previous" title="Previous record" aria-label="Previous record" disabled>&lsaquo;</button><span id="position">0 / 0</span><button class="icon" id="next" title="Next record" aria-label="Next record" disabled>&rsaquo;</button></div>
   </div>
   <div id="evaluation-status" role="status" aria-live="polite" hidden></div>
+  <div id="rerun-status" role="status" aria-live="polite" hidden></div>
   <section id="evaluation" class="evaluation" aria-label="Annotation evaluation" hidden></section>
   <div id="status" class="status" role="status" aria-live="polite">Loading datasets...</div>
   <div id="entities"></div>
@@ -105,6 +108,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 const element = (id) => document.getElementById(id);
 let datasets = [], records = [], filtered = [], selected = -1, requestNumber = 0;
 let evaluation = null, evaluationRequest = 0, evaluationEnabled = false;
+let versions = [], selectedVersion = -1, versionedRecord = '', versionRequest = 0;
 const MODEL_FOLDERS = ['annotation-pools', 'annotation-pools-2', 'annotation-pools-3'];
 const text = (tag, value, className) => {
   const node = document.createElement(tag);
@@ -130,6 +134,12 @@ async function getJSON(url) {
 function apiURL(path) {
   const prefix = location.pathname.endsWith('/') ? location.pathname : `${location.pathname}/`;
   return `${prefix}${path}`;
+}
+async function postJSON(url) {
+  const response = await fetch(url, {method: 'POST'});
+  const data = await response.json();
+  if (!response.ok) throw new Error(data.error || 'Unable to rerun annotation');
+  return data;
 }
 function groups(record) { return record.output.flatMap((output) => output.summary_by_entity); }
 function renderEvaluation() {
@@ -215,7 +225,26 @@ function updateList() {
   renderRecord();
 }
 function renderRecord() {
-  element('evaluate').disabled = selected < 0;
+  const latestVersion = versions.length - 1;
+  const viewingLatest = !versions.length || selectedVersion === latestVersion;
+  element('evaluate').disabled = selected < 0 || !viewingLatest;
+  element('rerun').disabled = selected < 0;
+  const versionKey = `${element('dataset').value}:${selected}`;
+  if (selected >= 0 && versionedRecord !== versionKey) {
+    versionedRecord = versionKey;
+    versions = [];
+    selectedVersion = -1;
+    loadRecordVersions(selected, versionKey);
+  }
+  const versionSelect = element('version-select');
+  versionSelect.disabled = selected < 0 || versions.length < 2;
+  versionSelect.replaceChildren(...versions.map((version, index) => {
+    const label = version.created_at === 'Current'
+      ? `Version ${version.version} (current)`
+      : `Version ${version.version} (${new Date(version.created_at).toLocaleString()})`;
+    return new Option(label, String(index));
+  }));
+  if (selectedVersion >= 0) versionSelect.value = String(selectedVersion);
   if (evaluationEnabled) {
     if (selected >= 0) {
       evaluateCurrentRecord();
@@ -226,7 +255,7 @@ function renderRecord() {
     }
   }
   renderEvaluation();
-  const record = records[selected];
+  const record = versions[selectedVersion]?.record || records[selected];
   const position = filtered.findIndex((item) => item.index === selected);
   element('position').textContent = `${position + 1} / ${filtered.length}`;
   element('previous').disabled = position <= 0;
@@ -256,10 +285,50 @@ function renderRecord() {
     element('entities').append(section);
   }
 }
+async function loadRecordVersions(index, versionKey) {
+  const currentRequest = ++versionRequest;
+  try {
+    const result = await getJSON(apiURL(`api/versions?dataset=${encodeURIComponent(element('dataset').value)}&index=${index}`));
+    if (currentRequest !== versionRequest || versionKey !== versionedRecord) return;
+    versions = result;
+    selectedVersion = versions.length - 1;
+    renderRecord();
+  } catch (error) {
+    if (currentRequest === versionRequest) {
+      element('rerun-status').hidden = false;
+      element('rerun-status').textContent = error.message;
+    }
+  }
+}
+async function rerunCurrentRecord() {
+  if (selected < 0) return;
+  const dataset = element('dataset').value;
+  const annotationIndex = selected;
+  const recordId = records[annotationIndex]?.id || `Record ${annotationIndex + 1}`;
+  const status = element('rerun-status');
+  element('rerun').disabled = true;
+  status.hidden = false;
+  status.textContent = `Rerunning annotation for ${recordId} with ${datasets.find((item) => item.key === dataset)?.model || 'the selected model'}...`;
+  try {
+    await postJSON(apiURL(`api/rerun?dataset=${encodeURIComponent(dataset)}&index=${annotationIndex}`));
+    const result = await getJSON(apiURL(`api/records?dataset=${encodeURIComponent(dataset)}`));
+    records = result;
+    versionedRecord = '';
+    updateList();
+    status.textContent = `Rerun complete for ${recordId}. A new record version was saved.`;
+  } catch (error) {
+    status.textContent = error.message;
+  } finally {
+    element('rerun').disabled = selected < 0;
+  }
+}
 async function loadDataset() {
   ++evaluationRequest;
   evaluation = null;
   evaluationEnabled = false;
+  versionedRecord = '';
+  versions = [];
+  selectedVersion = -1;
   element('evaluation').hidden = true;
   element('evaluation-status').hidden = true;
   element('evaluate').disabled = true;
@@ -294,6 +363,14 @@ function chooseModel() {
 }
 element('model').onchange = chooseModel;
 element('evaluate').onclick = () => { evaluationEnabled = true; evaluateCurrentRecord(); };
+element('rerun').onclick = rerunCurrentRecord;
+element('version-select').onchange = () => {
+  selectedVersion = Number(element('version-select').value);
+  evaluationEnabled = false;
+  evaluation = null;
+  element('evaluation-status').hidden = true;
+  renderRecord();
+};
 element('dataset').onchange = () => { element('search').value = ''; loadDataset(); };
 element('search').oninput = updateList;
 function moveRecord(offset) {
