@@ -43,6 +43,9 @@ def main() -> int:
     parser.add_argument(
         "--yes", action="store_true", help="Rerun without asking for confirmation"
     )
+    parser.add_argument(
+        "--verbose", action="store_true", help="Print model and annotation-step progress"
+    )
     args = parser.parse_args()
     if args.index is not None and args.index < 0:
         parser.error("--index must be nonnegative")
@@ -79,10 +82,30 @@ def main() -> int:
     failures = 0
     for index, record_id, _ in targets:
         try:
+            progress_callback = None
+            if args.verbose:
+                print(
+                    f"Starting rerun for index={index} id={record_id}...",
+                    file=sys.stderr,
+                    flush=True,
+                )
+
+                def progress_callback(event: dict) -> None:
+                    if event.get("type") == "progress":
+                        message = (
+                            f"{event.get('annotator', 'annotator')} "
+                            f"step {event.get('step')}/{event.get('total')} "
+                            f"value={event.get('value')}"
+                        )
+                    else:
+                        message = str(event.get("message", event))
+                    print(message, file=sys.stderr, flush=True)
+
             version = rerun_record(
                 args.annotations,
                 args.retrieval,
                 index,
+                progress_callback=progress_callback,
                 model_override=args.model,
                 ollama_url=args.ollama_url,
             )
