@@ -136,13 +136,20 @@ def write_records_atomically(path: Path, records: list[dict]) -> None:
             temporary_path.unlink()
 
 
-def rerun_record(annotation_path: Path, retrieval_path: Path, annotation_index: int, progress_callback=None) -> int:
+def rerun_record(
+    annotation_path: Path,
+    retrieval_path: Path,
+    annotation_index: int,
+    progress_callback=None,
+    model_override: str | None = None,
+    ollama_url: str = "http://localhost:11434",
+) -> int:
     from kilt_synmes.annotate import annotate_record, build_annotators
 
     with WRITE_LOCK:
         return _rerun_record_locked(
             annotation_path, retrieval_path, annotation_index, annotate_record,
-            build_annotators, progress_callback
+            build_annotators, progress_callback, model_override, ollama_url
         )
 
 
@@ -153,6 +160,8 @@ def _rerun_record_locked(
     annotate_record,
     build_annotators,
     progress_callback=None,
+    model_override: str | None = None,
+    ollama_url: str = "http://localhost:11434",
 ) -> int:
     records = []
     with annotation_path.open(encoding="utf-8") as handle:
@@ -169,9 +178,9 @@ def _rerun_record_locked(
 
     selected_output = outputs[0]
     output_meta = selected_output.get("meta", {})
-    model = output_meta.get("model")
+    model = model_override if model_override is not None else output_meta.get("model")
     if not model:
-        raise ValueError("The selected annotator model is not recorded in this dataset")
+        raise ValueError("The selected annotator model is not recorded; provide a model override")
     record_meta = current.get("meta", {})
     weights = record_meta.get("objective_weights")
     if not isinstance(weights, dict):
@@ -186,7 +195,7 @@ def _rerun_record_locked(
         objective_weights=weights,
     )
     annotator = build_annotators(
-        1, str(model), None, output_meta.get("seed", 42), "http://localhost:11434"
+        1, str(model), None, output_meta.get("seed", 42), ollama_url
     )
     if progress_callback:
         progress_callback({"type": "log", "message": f"Connected to annotator model {model}."})
