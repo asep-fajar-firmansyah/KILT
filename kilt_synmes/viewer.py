@@ -13,7 +13,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
 
-from kilt_synmes.evaluate import DEFAULT_GOLD_ROOT, evaluate_annotation, read_record_at
+from kilt_synmes.evaluate import DEFAULT_GOLD_ROOT, evaluate_annotation, evaluate_dataset, read_record_at
 from kilt_synmes.tot import ToTConfig
 
 
@@ -281,25 +281,27 @@ def make_handler(root: Path, gold_root: Path = DEFAULT_GOLD_ROOT) -> type[BaseHT
                     return
                 self.send_json(200, versions)
                 return
-            if route.endswith("/api/evaluate"):
+            if route.endswith(("/api/evaluate", "/api/evaluate-all")):
                 query = parse_qs(request.query)
                 key = query.get("dataset", [""])[0]
                 if key not in paths:
                     self.send_json(404, {"error": "Dataset not found"})
                     return
-                try:
-                    annotation_index = int(query.get("index", [""])[0])
-                    if annotation_index < 0:
-                        raise ValueError
-                except ValueError:
-                    self.send_json(400, {"error": "A nonnegative annotation index is required"})
-                    return
+                evaluate_all = route.endswith("/api/evaluate-all")
+                if not evaluate_all:
+                    try:
+                        annotation_index = int(query.get("index", [""])[0])
+                        if annotation_index < 0:
+                            raise ValueError
+                    except ValueError:
+                        self.send_json(400, {"error": "A nonnegative annotation index is required"})
+                        return
                 gold_path = gold_root / paths[key].name
                 if not gold_path.is_file() or not gold_path.resolve().is_relative_to(gold_root.resolve()):
                     self.send_json(404, {"error": "Matching ground-truth file not found"})
                     return
                 try:
-                    report = evaluate_annotation(paths[key], gold_path, annotation_index)
+                    report = evaluate_dataset(paths[key], gold_path) if evaluate_all else evaluate_annotation(paths[key], gold_path, annotation_index)
                 except (OSError, ValueError, KeyError, TypeError, AttributeError) as error:
                     self.send_json(422, {"error": f"Unable to evaluate dataset: {error}"})
                     return

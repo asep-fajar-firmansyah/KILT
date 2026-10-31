@@ -57,7 +57,15 @@ Selected triples are combined across entity groups and deduplicated. Matching
 requires the complete directed triple, with NFC and whitespace normalization but
 no lowercasing, alias expansion, or inverse-relation equivalence. The panel shows
 the current record's edge recall and answer-presence metrics, plus expandable
-missing/extra triples. There are no dataset-level macro or micro scores.
+missing/extra triples.
+Click **Evaluate all records** below the dataset selector to open a popup and
+evaluate every record in the selected model's dataset, regardless of the search
+filter. The popup shows mean per-record edge recall, any gold answer present,
+gold answer coverage, and all gold answers present, with the record count used
+for each metric. Unmatched and failed records are listed and excluded from the
+averages; missing/empty gold answers are excluded from answer metrics. An empty
+denominator displays N/A. Evaluation uses the current saved annotations and
+does not run an LLM or modify files.
 For empty gold, recall is 1 and precision/F1 are 0 for a nonempty selection.
 
 This measures reference-edge agreement, not factual correctness or independent

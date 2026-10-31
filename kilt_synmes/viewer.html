@@ -35,7 +35,7 @@ main { min-width: 0; padding: 28px 36px 64px; }
 .toolbar h2 { font-family: Georgia, serif; font-size: 25px; font-weight: 400; margin: 5px 0 8px; overflow-wrap: anywhere; }
 .record-index { color: var(--muted); font-family: "Segoe UI", "Helvetica Neue", sans-serif; font-size: 12px; margin-left: 8px; vertical-align: middle; }
 .record-meta { color: var(--muted); font-size: 12px; }
-.navigation { display: flex; align-items: center; gap: 8px; }
+.navigation { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; max-width: 100%; }
 .icon { width: 36px; height: 36px; padding: 0; font-size: 24px; line-height: 1; }
 #position { min-width: 80px; text-align: center; color: var(--muted); font-size: 12px; }
 .entity { border-top: 1px solid var(--line); padding: 24px 0 28px; }
@@ -58,6 +58,16 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
 .evaluation li { overflow-wrap: anywhere; margin: 8px 0; font-size: 12px; }
 #evaluation-status { margin: 12px 0; color: var(--muted); }
 #evaluate { margin-right: 8px; }
+#evaluate-all { width: 100%; margin: 0 0 18px; color: var(--accent); border-color: var(--accent); }
+dialog { width: min(680px, calc(100% - 32px)); max-height: calc(100dvh - 32px); padding: 24px; border: 1px solid var(--line); border-radius: 6px; color: var(--ink); background: var(--paper); overflow: auto; }
+dialog::backdrop { background: rgb(32 40 36 / 45%); }
+.dialog-heading { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.dialog-heading h2 { font-size: 18px; margin: 0; }
+#dataset-evaluation-context, #dataset-evaluation-status { color: var(--muted); line-height: 1.6; overflow-wrap: anywhere; }
+#dataset-evaluation-status.error { color: #a32944; }
+#dataset-evaluation { border: 0; padding-bottom: 0; }
+#dataset-evaluation th:first-child { width: 58%; }
+#dataset-evaluation th:nth-child(2) { width: 24%; }
 #rerun { white-space: nowrap; }
 #version-select { width: auto; min-width: 112px; }
 #rerun-log { max-height: 190px; overflow: auto; margin: 8px 0 18px; padding: 10px 12px; border-left: 2px solid var(--accent); background: #f0f4f2; color: var(--muted); font: 12px/1.6 "Courier New", monospace; white-space: pre-wrap; }
@@ -89,6 +99,7 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
     <div class="field"><label for="model">LLM annotator</label><select id="model" disabled></select></div>
     <div class="field"><label for="dataset">Dataset</label><select id="dataset" disabled></select></div>
   </div>
+  <button id="evaluate-all" title="Evaluate every record in the selected dataset" disabled>Evaluate all records</button>
   <label for="search">Search records</label><input id="search" type="search" placeholder="Record ID, entity, or summary" disabled>
   <div class="list-heading"><span>RECORDS</span><span id="record-count">0</span></div>
   <nav id="record-list" aria-label="Records"></nav>
@@ -106,10 +117,17 @@ td:nth-child(2) { color: var(--accent); font-family: "Courier New", monospace; f
   <div id="entities"></div>
 </main>
 </div>
+<dialog id="dataset-evaluation-dialog" aria-labelledby="dataset-evaluation-title" aria-describedby="dataset-evaluation-context">
+  <div class="dialog-heading"><h2 id="dataset-evaluation-title">Dataset evaluation</h2><button id="close-dataset-evaluation" aria-label="Close dataset evaluation" title="Close dataset evaluation">Close</button></div>
+  <p id="dataset-evaluation-context"></p>
+  <p id="dataset-evaluation-status" role="status" aria-live="polite"></p>
+  <section id="dataset-evaluation" class="evaluation" aria-label="Dataset evaluation results" hidden></section>
+</dialog>
 <script>
 const element = (id) => document.getElementById(id);
 let datasets = [], records = [], filtered = [], selected = -1, requestNumber = 0;
 let evaluation = null, evaluationRequest = 0, evaluationEnabled = false;
+let datasetEvaluationRequest = 0, datasetEvaluationController = null;
 let versions = [], selectedVersion = -1, versionedRecord = '', versionRequest = 0;
 const MODEL_FOLDERS = ['annotation-pools', 'annotation-pools-2', 'annotation-pools-3'];
 const text = (tag, value, className) => {
@@ -123,8 +141,8 @@ function setStatus(message, error = false) {
   element('status').hidden = !message;
   element('status').classList.toggle('error', error);
 }
-async function getJSON(url) {
-  const response = await fetch(url);
+async function getJSON(url, options = {}) {
+  const response = await fetch(url, options);
   const contentType = response.headers.get('content-type') || '';
   if (!contentType.includes('application/json')) {
     throw new Error(`Viewer API returned ${response.status}; check reverse-proxy path routing.`);
@@ -159,6 +177,60 @@ async function streamJSON(url, onEvent) {
   if (buffer.trim()) onEvent(JSON.parse(buffer));
 }
 function groups(record) { return record.output.flatMap((output) => output.summary_by_entity); }
+async function evaluateAllRecords() {
+  if (!records.length) return;
+  const dataset = element('dataset').value;
+  const currentRequest = ++datasetEvaluationRequest;
+  datasetEvaluationController?.abort();
+  const controller = new AbortController();
+  datasetEvaluationController = controller;
+  const dialog = element('dataset-evaluation-dialog');
+  const notice = element('dataset-evaluation-status');
+  const panel = element('dataset-evaluation');
+  element('evaluate-all').disabled = true;
+  element('dataset-evaluation-context').textContent = `${element('model').selectedOptions[0]?.textContent} / ${element('dataset').selectedOptions[0]?.textContent}`;
+  notice.textContent = `Evaluating all ${records.length} records...`;
+  notice.classList.remove('error');
+  panel.replaceChildren(); panel.hidden = true;
+  dialog.showModal();
+  try {
+    const result = await getJSON(apiURL(`api/evaluate-all?dataset=${encodeURIComponent(dataset)}`), {signal: controller.signal});
+    if (currentRequest !== datasetEvaluationRequest) return;
+    notice.textContent = `${result.evaluated_records} / ${result.total_records} records evaluated. ${result.unmatched_records.length} unmatched; ${result.errors.length} failed; ${result.evaluated_records - result.answer_records} without gold answers.`;
+    panel.append(text('h3', 'Reference-edge and answer-presence evaluation'));
+    const table = document.createElement('table');
+    const head = document.createElement('thead'), heading = document.createElement('tr');
+    for (const label of ['Metric', 'Average', 'Records']) {
+      const cell = text('th', label); cell.scope = 'col'; heading.append(cell);
+    }
+    head.append(heading); table.append(head);
+    const body = document.createElement('tbody');
+    for (const [key, label] of [['recall', 'Edge recall'], ['answer_presence', 'Any gold answer present'], ['answer_coverage', 'Gold answer coverage'], ['all_answers_present', 'All gold answers present']]) {
+      const value = result.metrics[key];
+      const row = document.createElement('tr');
+      row.append(text('td', label), text('td', value == null ? 'N/A' : `${(value * 100).toFixed(1)}%`), text('td', String(result.metric_counts[key])));
+      body.append(row);
+    }
+    table.append(body); panel.append(table, text('p', result.aggregation));
+    for (const [entries, label] of [[result.unmatched_records, 'Unmatched records'], [result.errors, 'Failed records']]) {
+      if (!entries.length) continue;
+      const details = document.createElement('details'), list = document.createElement('ul');
+      details.append(text('summary', `${label} (${entries.length})`));
+      for (const entry of entries) list.append(text('li', `${entry.id || 'Unnamed record'} (index ${entry.annotation_index})${entry.error ? `: ${entry.error}` : ''}`));
+      details.append(list); panel.append(details);
+    }
+    panel.hidden = false;
+  } catch (error) {
+    if (currentRequest === datasetEvaluationRequest && error.name !== 'AbortError') {
+      notice.textContent = error.message; notice.classList.add('error');
+    }
+  } finally {
+    if (currentRequest === datasetEvaluationRequest) {
+      datasetEvaluationController = null;
+      element('evaluate-all').disabled = !records.length;
+    }
+  }
+}
 function renderEvaluation() {
   const panel = element('evaluation');
   panel.replaceChildren();
@@ -353,6 +425,10 @@ async function rerunCurrentRecord() {
   }
 }
 async function loadDataset() {
+  element('dataset-evaluation-dialog').close();
+  ++datasetEvaluationRequest;
+  datasetEvaluationController?.abort();
+  element('evaluate-all').disabled = true;
   ++evaluationRequest;
   evaluation = null;
   evaluationEnabled = false;
@@ -378,6 +454,7 @@ async function loadDataset() {
     if (currentRequest !== requestNumber) return;
     records = result;
     element('evaluate').disabled = !records.length;
+    element('evaluate-all').disabled = !records.length;
     element('search').disabled = false;
     updateList();
   } catch (error) { if (currentRequest === requestNumber) setStatus(error.message, true); }
@@ -392,6 +469,14 @@ function chooseModel() {
   loadDataset();
 }
 element('model').onchange = chooseModel;
+element('evaluate-all').onclick = evaluateAllRecords;
+element('close-dataset-evaluation').onclick = () => element('dataset-evaluation-dialog').close();
+element('dataset-evaluation-dialog').addEventListener('close', () => {
+  ++datasetEvaluationRequest;
+  datasetEvaluationController?.abort();
+  datasetEvaluationController = null;
+  element('evaluate-all').disabled = !records.length;
+});
 element('evaluate').onclick = () => { evaluationEnabled = true; evaluateCurrentRecord(); };
 element('rerun').onclick = rerunCurrentRecord;
 element('version-select').onchange = () => {

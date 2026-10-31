@@ -102,7 +102,7 @@ def read_record_at(path: Path, record_index: int) -> dict:
     raise ValueError(f"Annotation index {record_index} is outside {path.name}")
 
 
-def evaluate_annotation(annotation_path: Path, gold_path: Path, annotation_index: int) -> dict:
+def index_gold_questions(gold_path: Path) -> dict:
     gold_by_question = {}
     gold_records = read_records(gold_path)
     for gold_index, record in enumerate(gold_records):
@@ -112,8 +112,10 @@ def evaluate_annotation(annotation_path: Path, gold_path: Path, annotation_index
         gold_by_question.setdefault(question, []).append((
             gold_index, triple_set(record["edges"]), record.get("answer")
         ))
+    return gold_by_question
 
-    record = read_record_at(annotation_path, annotation_index)
+
+def evaluate_record(record: dict, gold_by_question: dict, annotation_index: int) -> dict | None:
     record_id = str(record.get("id", ""))
     question = normalize(record.get("input", ""))
     matches = gold_by_question.get(question, [])
@@ -138,6 +140,12 @@ def evaluate_annotation(annotation_path: Path, gold_path: Path, annotation_index
             "missing_triples": sorted(gold - selected),
             "extra_triples": sorted(selected - gold),
         }
+    return result
+
+
+def evaluate_annotation(annotation_path: Path, gold_path: Path, annotation_index: int) -> dict:
+    gold_by_question = index_gold_questions(gold_path)
+    result = evaluate_record(read_record_at(annotation_path, annotation_index), gold_by_question, annotation_index)
 
     return {
         "dataset": annotation_path.name,
@@ -148,6 +156,43 @@ def evaluate_annotation(annotation_path: Path, gold_path: Path, annotation_index
         "matching": "Question text only (graph IDs ignored); directed triples, NFC and whitespace normalization, deduplicated across entities",
         "warning": "Reference-edge agreement, not factual correctness. Candidates include source gold edges; this is not independent retrieval evaluation.",
         "answer_evaluation": "Gold answer presence in complete heads/tails only, with NFC and whitespace normalization. No substring, relation, alias, or case-insensitive matching. Presence is not QA accuracy or proof of sufficient reasoning; computed answers need not appear literally.",
+    }
+
+
+def evaluate_dataset(annotation_path: Path, gold_path: Path) -> dict:
+    gold_by_question = index_gold_questions(gold_path)
+    records = read_records(annotation_path)
+    metric_keys = ("recall", "answer_presence", "answer_coverage", "all_answers_present")
+    totals = dict.fromkeys(metric_keys, 0.0)
+    counts = dict.fromkeys(metric_keys, 0)
+    unmatched = []
+    errors = []
+    for annotation_index, record in enumerate(records):
+        identity = {"annotation_index": annotation_index, "id": str(record.get("id", ""))}
+        try:
+            result = evaluate_record(record, gold_by_question, annotation_index)
+        except (ValueError, KeyError, TypeError, AttributeError) as error:
+            errors.append({**identity, "error": str(error)})
+            continue
+        if result is None:
+            unmatched.append(identity)
+            continue
+        for key in metric_keys:
+            if result[key] is not None:
+                totals[key] += result[key]
+                counts[key] += 1
+    return {
+        "dataset": annotation_path.name,
+        "gold_file": gold_path.name,
+        "total_records": len(records),
+        "evaluated_records": counts["recall"],
+        "answer_records": counts["answer_presence"],
+        "unmatched_records": unmatched,
+        "errors": errors,
+        "metrics": {key: totals[key] / counts[key] if counts[key] else None for key in metric_keys},
+        "metric_counts": counts,
+        "scope": "First annotator output for every record in the selected dataset",
+        "aggregation": "Mean per-record scores over matched, valid records. Answer metrics exclude records with missing or empty gold answers. Unmatched and failed records are excluded.",
     }
 
 
